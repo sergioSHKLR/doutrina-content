@@ -54,7 +54,7 @@ No número dos Espíritos que concorreram para a execução desta obra, muitos s
 Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de escrever este livro:
 
 ::: spirit
-✨ Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.
+✨ ▸ Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.
 
 Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou.
 
@@ -84,35 +84,19 @@ entre outros.**
 :::
 
 > expand 🏷️
-🏷️ Allan Kardec
-assistência espiritual a
-conselhos a
-🏷️ Assistência espiritual
-Allan Kardec e
-🏷️ Comunicabilidade dos espíritos
-mundo corpóreo e
-🏷️ Deus
-cepa como emblema do trabalho de
-🏷️ Efeitos inteligentes
-causa de
-🏷️ Espiritismo
-O Livro dos Espíritos e
-🏷️ Espírito de Verdade (O)
-equipe de
-🏷️ Espírito(s)
-missão dos
-🏷️ Filosofia
-racional e estabelecimento de fundamentos
-🏷️ Humildade
-desinteresse e
-🏷️ Livro dos espíritos (O)
-autoria de
-Espiritismo e
-🏷️ Mundo espiritual
-comunicação entre mundo corpóreo e
-espíritos e
-🏷️ Perseverança
-consequências da
+[Allan Kardec](#allan-kardec)
+[Assistência espiritual](#assistencia-espiritual)
+[Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+[Deus](#deus)
+[Efeitos inteligentes](#efeitos-inteligentes)
+[Espiritismo](#espiritismo)
+[Espírito de Verdade (O)](#espirito-de-verdade)
+[Espírito(s)](#espirito)
+[Filosofia](#filosofia)
+[Humildade](#humildade)
+[Livro dos espíritos (O)](#livro-dos-espiritos)
+[Mundo espiritual](#mundo-espiritual)
+[Perseverança](#perseveranca)
 :::
 
 ---
@@ -153,7 +137,7 @@ Concebe-se que, com uma acepção múltipla, o termo alma não exclui o material
 
 Evitar-se-ia igualmente a confusão, mesmo usando-se do termo **alma** nos três casos, desde que se lhe acrescentasse um qualificativo especificando o ponto de vista em que se está colocado, ou a aplicação que se faz da palavra. Esta teria, então, um caráter genérico, designando, ao mesmo tempo, o princípio da vida material, o da inteligência e o do senso moral, que se distinguiriam mediante um atributo, como os **gases**, por exemplo, que se distinguem aditando-se ao termo genérico as palavras **hidrogênio**, **oxigênio**, ou **azoto**. Poder-se-ia, assim, dizer, e talvez fosse o melhor, a **alma vital** — indicando o princípio da vida material; a **alma intelectual** — o princípio da inteligência, e a **alma espírita** — o da nossa individualidade após a morte. Como se vê, tudo isto não passa de uma questão de palavras, mas questão muito importante quando se trata de nos fazermos entendidos. De conformidade com essa maneira de falar, a alma vital seria comum a todos os seres orgânicos: plantas, animais e homens; a **alma intelectual** pertenceria aos animais e aos homens; e a **alma espírita** somente ao homem.
 
-Julgamos dever insistir nestas explicações pela razão de que a Doutrina Espírita  repousa naturalmente sobre a existência, em nós, de um ser independente da matéria e que sobrevive ao corpo. A palavra **alma**, tendo que aparecer com frequência no curso desta obra, cumpria fixássemos bem o sentido que lhe atribuímos, a fim de evitarmos qualquer engano.
+Julgamos dever insistir nestas explicações pela razão de que a Doutrina Espírita repousa naturalmente sobre a existência, em nós, de um ser independente da matéria e que sobrevive ao corpo. A palavra **alma**, tendo que aparecer com frequência no curso desta obra, cumpria fixássemos bem o sentido que lhe atribuímos, a fim de evitarmos qualquer engano.
 
 Passemos agora ao objeto principal desta instrução preliminar.
 
@@ -206,13 +190,13 @@ Tal meio de correspondência era, porém, demorado e incômodo. O Espírito (e i
 O conselho foi dado simultaneamente na América, na França e em diversos outros países. Eis em que termos o deram em Paris, a 10 de junho de 1853, a um dos mais fervorosos adeptos da Doutrina e que, havia muitos anos, desde 1849, se ocupava com a evocação dos Espíritos:
 
 ::: spirit
-✨ Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
+✨ ▸ Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
 :::
 
 Alguns instantes após, a cesta entrou a mover-se e o lápis escreveu, muito legível, esta frase:
 
 ::: spirit
-✨ Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da primeira vez que escrever, escreverei melhor.
+✨ ▸ Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da primeira vez que escrever, escreverei melhor.
 :::
 
 O objeto a que se adapta o lápis, não passando de mero instrumento, completamente indiferentes são a natureza e a forma que tenha. Daí o haver-se procurado dar-lhe a disposição mais cômoda. Assim é que muita gente se serve de uma prancheta pequena.
@@ -251,7 +235,7 @@ Conforme notamos acima, os próprios seres que se comunicam se designam a si mes
 
 Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos transmitiram, a fim de mais facilmente respondermos a certas objeções:
 
-1. Deus é eterno, imutável, imaterial, único,  onipotente, soberanamente justo e bom;
+1. Deus é eterno, imutável, imaterial, único, onipotente, soberanamente justo e bom;
 2. criou o Universo, que abrange todos os seres animados e inanimados, materiais e imateriais;
 3. os seres materiais constituem o mundo visível ou corpóreo, e os seres imateriais, o mundo invisível ou espírita, isto é, dos Espíritos;
 4. o mundo espírita é o mundo normal, primitivo, eterno, preexistente e sobrevivente a tudo;
@@ -282,7 +266,7 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 21. na sua volta ao mundo dos Espíritos, encontra a alma todos aqueles que conhecera na Terra, e todas as suas existências anteriores se lhe desenham na memória, com a lembrança de todo bem e de todo mal que fez;
 22. o Espírito encarnado se acha sob a influência da matéria; o homem que vence esta influência, pela elevação e depuração de sua alma, se aproxima dos bons Espíritos, em cuja companhia um dia estará. Aquele que se deixa dominar pelas más paixões, e põe todas as suas alegrias na satisfação dos apetites grosseiros, se aproxima dos Espíritos impuros, dando preponderância à sua natureza animal;
 23. os Espíritos encarnados habitam os diferentes globos do Universo;
-24. os não encarnados ou errantes não ocupam uma região determinada e  circunscrita; estão por toda parte no espaço e ao nosso lado, vendo-nos e acotovelando-nos de contínuo. É toda uma população invisível, a mover-se em torno de nós;
+24. os não encarnados ou errantes não ocupam uma região determinada e circunscrita; estão por toda parte no espaço e ao nosso lado, vendo-nos e acotovelando-nos de contínuo. É toda uma população invisível, a mover-se em torno de nós;
 25. os Espíritos exercem incessante ação sobre o mundo moral e mesmo sobre o mundo físico. Atuam sobre a matéria e sobre o pensamento e constituem uma das potências da Natureza, causa eficiente de uma multidão de fenômenos até então inexplicados ou mal explicados e que não encontram explicação racional senão no Espiritismo;
 26. as relações dos Espíritos com os homens são constantes. Os bons Espíritos nos atraem para o bem, nos sustentam nas provas da vida e nos ajudam a suportá-las com coragem e resignação. Os maus nos impelem para o mal: é-lhes um gozo ver-nos sucumbir e assemelhar-nos a eles;
 27. as comunicações dos Espíritos com os homens são ocultas ou ostensivas. As ocultas se verificam pela influência boa ou má que exercem sobre nós, à nossa revelia. Cabe ao nosso juízo discernir as boas das más inspirações. As comunicações ostensivas se dão por meio da escrita, da palavra ou de outras manifestações materiais, quase sempre pelos médiuns que lhes servem de instrumentos;
@@ -314,7 +298,7 @@ As ciências ordinárias assentam nas propriedades da matéria, que se pode expe
 
 Quando as crenças espíritas se houverem vulgarizado, quando estiverem aceitas pelas massas humanas (e, a julgar pela rapidez com que se propagam, esse tempo não vem longe), com elas se dará o que tem acontecido a todas as ideias novas que hão encontrado oposição: os sábios se renderão à evidência. Lá chegarão, individualmente, pela força das coisas. Até então será intempestivo desviá-los de seus trabalhos especiais, para obrigá-los a se ocuparem com um assunto estranho, que não lhes está nem nas atribuições, nem no programa. Enquanto isso não se verifica, os que, sem estudo prévio e aprofundado da matéria, se pronunciam pela negativa e escarnecem de quem não lhes subscreve o conceito, esquecem que o mesmo se deu com a maior parte das grandes descobertas que fazem honra à Humanidade. Expõem-se a ver seus nomes alongando a lista dos ilustres proscritores das ideias novas e inscritos a par dos membros da douta assembleia que, em 1752, acolheu com retumbante gargalhada a memória de Franklin sobre os para-raios, julgando-a indigna de figurar entre as comunicações que lhe eram dirigidas; e dos daquela outra que ocasionou perder a França as vantagens da iniciativa da marinha a vapor, declarando o sistema de Fulton um sonho irrealizável. Entretanto, essas eram questões da alçada daquelas corporações. Ora, se tais assembleias, que contavam em seu seio a nata dos sábios do mundo, só tiveram a zombaria e o sarcasmo para ideias que elas não percebiam, ideias que, alguns anos mais tarde, revolucionaram a ciência, os costumes e a indústria, como esperar que uma questão, alheia aos trabalhos que lhes são habituais, alcance hoje das suas congêneres melhor acolhimento?
 
-Esses erros de alguns homens eminentes — conquanto deploráveis para a memória deles —, não lhes diminuem os méritos dos títulos que obtiveram e que com eles conquistaram a nossa estima, mas será preciso a posse de um diploma oficial para se ter bom senso? Dar-se-á que fora das cátedras acadêmicas só se encontrem tolos e imbecis? Dignem-se de lançar os olhos para os adeptos da Doutrina Espírita  e digam se só com ignorantes deparam e se a imensa legião de homens de mérito que a tem abraçado autoriza seja ela atirada ao rol das crendices de simplórios. O caráter e o saber desses homens dão peso a esta proposição: pois que eles afirmam, forçoso é reconhecer que alguma coisa há.
+Esses erros de alguns homens eminentes — conquanto deploráveis para a memória deles —, não lhes diminuem os méritos dos títulos que obtiveram e que com eles conquistaram a nossa estima, mas será preciso a posse de um diploma oficial para se ter bom senso? Dar-se-á que fora das cátedras acadêmicas só se encontrem tolos e imbecis? Dignem-se de lançar os olhos para os adeptos da Doutrina Espírita e digam se só com ignorantes deparam e se a imensa legião de homens de mérito que a tem abraçado autoriza seja ela atirada ao rol das crendices de simplórios. O caráter e o saber desses homens dão peso a esta proposição: pois que eles afirmam, forçoso é reconhecer que alguma coisa há.
 
 Repetimos mais uma vez que, se os fatos a que aludimos se houvessem reduzido ao movimento mecânico dos corpos, a indagação da causa física desse fenômeno caberia no domínio da Ciência; porém, desde que se trata de uma manifestação que se produz com exclusão das leis da Humanidade, ela escapa à competência da ciência material, visto não poder explicar-se por algarismos, nem por uma força mecânica. Quando surge um fato novo, que não guarda relação com alguma ciência conhecida, o sábio, para estudá-lo, tem que abstrair da sua ciência e dizer a si mesmo que o que se lhe oferece constitui um estudo novo, impossível de ser feito com ideias preconcebidas.
 
@@ -374,7 +358,7 @@ Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiq
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
 
-Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons Espíritos? Se Ele não o pode fazer, não é  onipotente; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam blasfemas. Note-se que admitir a comunicação dos maus Espíritos é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de Deus. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do bom senso e da religião.
+Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons Espíritos? Se Ele não o pode fazer, não é onipotente; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam blasfemas. Note-se que admitir a comunicação dos maus Espíritos é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de Deus. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do bom senso e da religião.
 
 > expand 🏷️
 🏷️ termo relacionado
@@ -506,11 +490,11 @@ Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, e
 
 O ceticismo, no tocante à Doutrina Espírita, quando não resulta de uma oposição sistemática por interesse, origina-se quase sempre do conhecimento incompleto dos fatos, o que não obsta a que alguns cortem a questão como se a conhecessem a fundo. Pode-se ter muito atilamento, muita instrução mesmo, e carecer-se de bom senso. Ora, o primeiro indício da falta de bom senso está em crer alguém infalível o seu juízo. Há também muita gente para quem as manifestações espíritas nada mais são do que objeto de curiosidade. Confiamos em que, lendo este livro, encontrarão nesses extraordinários fenômenos alguma coisa mais do que simples passatempo.
 
-A ciência espírita compreende duas partes: experimental uma, relativa às manifestações em geral; filosófica, outra, relativa às manifestações inteligentes. Aquele que apenas haja observado a primeira se acha na posição de quem não conhecesse a Física senão por experiências recreativas, sem haver penetrado no âmago da ciência. A verdadeira Doutrina Espírita  está no ensino que os Espíritos deram, e os conhecimentos que esse ensino comporta são por demais profundos e extensos para serem adquiridos de qualquer modo, que não por um estudo perseverante, feito no silêncio e no recolhimento. Porque, só dentro desta condição se pode observar um número infinito de fatos e particularidades que passam despercebidos ao observador superficial, e firmar opinião. Não produzisse este livro outro resultado além do de mostrar o lado sério da questão e de provocar estudos neste sentido e rejubilaríamos por haver sido eleito para executar uma obra em que, aliás, nenhum mérito pessoal pretendemos ter, pois que os princípios nela exarados não são de criação nossa. O mérito que apresenta cabe todo aos Espíritos que a ditaram. Esperamos que dará outro resultado, o de guiar os homens que desejem esclarecer-se, mostrando-lhes, nestes estudos, um fim grande e sublime: o do progresso individual e social e o de lhes indicar o caminho que conduz a esse fim.
+A ciência espírita compreende duas partes: experimental uma, relativa às manifestações em geral; filosófica, outra, relativa às manifestações inteligentes. Aquele que apenas haja observado a primeira se acha na posição de quem não conhecesse a Física senão por experiências recreativas, sem haver penetrado no âmago da ciência. A verdadeira Doutrina Espírita está no ensino que os Espíritos deram, e os conhecimentos que esse ensino comporta são por demais profundos e extensos para serem adquiridos de qualquer modo, que não por um estudo perseverante, feito no silêncio e no recolhimento. Porque, só dentro desta condição se pode observar um número infinito de fatos e particularidades que passam despercebidos ao observador superficial, e firmar opinião. Não produzisse este livro outro resultado além do de mostrar o lado sério da questão e de provocar estudos neste sentido e rejubilaríamos por haver sido eleito para executar uma obra em que, aliás, nenhum mérito pessoal pretendemos ter, pois que os princípios nela exarados não são de criação nossa. O mérito que apresenta cabe todo aos Espíritos que a ditaram. Esperamos que dará outro resultado, o de guiar os homens que desejem esclarecer-se, mostrando-lhes, nestes estudos, um fim grande e sublime: o do progresso individual e social e o de lhes indicar o caminho que conduz a esse fim.
 
 Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o espaço, encontraram, na distribuição dos corpos celestes, lacunas não justificadas e em desacordo com as leis do conjunto. Suspeitaram que essas lacunas deviam estar preenchidas por globos que lhes tinham escapado à observação. De outro lado, observaram certos efeitos, cuja causa lhes era desconhecida e disseram: Deve haver ali um mundo, porquanto esta lacuna não pode existir e estes efeitos hão de ter uma causa. Julgando então da causa pelo efeito, conseguiram calcular-lhe os elementos e mais tarde os fatos lhes vieram confirmar as previsões. Apliquemos este raciocínio a outra ordem de ideias. Se se observa a série dos seres, descobre-se que eles formam uma cadeia sem solução de continuidade, desde a matéria bruta até o homem mais inteligente. Entre o homem e Deus, porém, alfa e ômega de todas as coisas, que imensa lacuna! Será racional pensar-se que no homem terminam os anéis dessa cadeia e que ele transponha sem transição a distância que o separa do infinito? A razão nos diz que entre o homem e Deus outros elos necessariamente haverá, como disse aos astrônomos que, entre os mundos conhecidos, outros haveria, desconhecidos. Que filosofia já preencheu essa lacuna? O Espiritismo no-la mostra preenchida pelos seres de todas as ordens do mundo invisível, e estes seres não são mais do que os Espíritos dos homens, nos diferentes graus que levam à perfeição. Tudo então se liga, tudo se encadeia, desde o alfa até o ômega. Vós, que negais a existência dos Espíritos, cumulai o vácuo que eles ocupam. E vós, que rides deles, ousai rir das obras de Deus e da sua onipotência!
 
-👴🏻 Allan Kardec
+👴🏻 ▸ Allan Kardec
 
 > expand 🏷️
 🏷️ termo relacionado
