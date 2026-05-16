@@ -1,0 +1,215 @@
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+.markdown-preview.markdown-preview {
+  // 1. Mirror your exact Base & Typography variables
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.75;
+  color: #222222; // Your var(--text)
+  background: #ffffff; // Your var(--bg-light)
+  padding: 40px 50px;
+  max-width: 920px;
+  margin: 0 auto;
+
+  // Headings matching var(--heading)
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: #1e3a8a;
+    margin-top: 2.2em;
+  }
+
+  p {
+    margin-bottom: 1.3em;
+  }
+
+  // Hide permalink anchors by default, show on hover
+  a.heading-anchor {
+    display: none !important;
+    color: #4EC1F5; // Matches your accent color
+    text-decoration: none;
+    margin-left: 6px;
+  }
+
+  h1:hover a.heading-anchor,
+  h2:hover a.heading-anchor,
+  h3:hover a.heading-anchor,
+  h4:hover a.heading-anchor,
+  h5:hover a.heading-anchor {
+    display: inline !important;
+  }
+
+  // 2. Shared Container Settings (Clean & Compact)
+  div.kardec,
+  div.spirit,
+  div.bible {
+    padding: 0.1rem 1.8rem;
+    margin: 1.8rem 0;
+    border-left: 5px solid;
+    border-radius: 0 8px 8px 0;
+  }
+
+  // 3. Exact Container Visuals
+  div.kardec {
+    border-color: #757575;
+    background: #f5f5f5;
+  }
+
+  div.spirit {
+    border-color: #4dacff;
+    background: #eef6fc;
+  }
+
+  div.bible {
+    border-color: #da71d7;
+    background: #fdf2f8;
+
+    // Your Red Letter Bible treatment for emphasized text
+    em,
+    i {
+      color: #9C2A2A !important; // var(--bible-red)
+      font-style: italic;
+      font-weight: 500;
+    }
+  }
+
+  // 4. Grey Center (Folha de Rosto / Metadata)
+  div.grey-center {
+    text-align: center;
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 1.8rem 2rem;
+    background: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+
+    // Ensure all paragraphs inside inherit centering
+    p {
+      margin: 0 auto 1.3em auto;
+    }
+  }
+
+  // 5. Expand / Collapsible Details Box
+  details.expand {
+    margin: 2rem 0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #ffffff;
+
+    summary {
+      padding: 1rem 1.5rem;
+      font-weight: 600;
+      cursor: pointer;
+      color: #1e3a8a; // Mapped to header color
+      outline: none;
+    }
+
+    // Applies padding to child content elements exactly like your CSS rule
+    >*:not(summary) {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+
+    >*:last-child {
+      padding-bottom: 1.5rem;
+    }
+  }
+
+  // 6. Vine Image Separators
+  img[src*="vine.png"],
+  img[src*="vine"] {
+    max-width: 680px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 2rem auto;
+  }
+
+  // Style the header directly above the block
+  .expand-header {
+    color: #1e3a8a;
+    cursor: pointer;
+    margin-bottom: 0 !important;
+    position: relative;
+    user-select: none;
+
+    &::after {
+      content: " ▼";
+      font-size: 0.75rem;
+      color: #757575;
+      vertical-align: middle;
+    }
+  }
+
+  // Target standard Markdown blockquotes for the collapsible layout
+  blockquote {
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-left: 5px solid #4dacff; // Mapped to your .spirit / .expand site accents
+    border-radius: 8px;
+    padding: 0;
+    margin: 1.8rem 0;
+    font-style: normal; // Remove default blockquote styling
+    color: #222222;
+    overflow: hidden;
+    transition: max-height 0.25s ease-out;
+    
+    // Default closed state height (just big enough to show the title line)
+    max-height: 3.2rem; 
+
+    // Styles the first paragraph containing your title string
+    p:first-child {
+      margin: 0;
+      padding: 0.8rem 1.5rem;
+      background: #f8f9fa;
+      border-bottom: 1px solid #eee;
+      cursor: pointer;
+      user-select: none;
+      position: relative;
+
+      // Force the title string to match your heading color tokens
+      strong, b {
+        color: #1e3a8a; 
+        font-weight: 600;
+      }
+
+      // Dropdown arrow indicator
+      &::after {
+        content: "▼";
+        position: absolute;
+        right: 1.5rem;
+        font-size: 0.75rem;
+        color: #757575;
+      }
+    }
+
+    // Styles the inner contents hidden below the first line
+    p:not(:first-child), ul, ol {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+      margin-top: 0.8rem;
+      margin-bottom: 0.8rem;
+      opacity: 0;
+      transition: opacity 0.2s ease-in;
+    }
+    
+    p:last-child {
+      padding-bottom: 1rem;
+    }
+
+    // INTERACTIVE TOGGLE: Expands cleanly when hovered over or clicked
+    &:hover, &:active, &:focus-within {
+      max-height: 1000px; // Smoothly expands to fit all content lines
+      
+      p:first-child::after {
+        content: "▲";
+      }
+
+      p:not(:first-child), ul, ol {
+        opacity: 1; // Fades the hidden contents back into view cleanly
+      }
+    }
+  }
+}

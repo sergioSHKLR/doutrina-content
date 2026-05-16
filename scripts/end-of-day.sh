@@ -13,3 +13,5 @@ git commit -m "Automated daily snapshot: $(date +'%Y-%m-%d %H:%M:%S')"
 
 # Push safely to the cloud sandbox
 git push origin dev
+
+# alias is eod

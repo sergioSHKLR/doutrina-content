@@ -17,12 +17,15 @@ por 👴🏻 Allan Kardec
 
 Tradução de Guillon Ribeiro
 
-Baseado no original ISBN 978-85-7328-728-8
-
-Modificado para o consumo digital  
-por Sergio de  
-[💧 doutrina.org ](https://doutrina.org) 
-[⚖️ Avisos Legais]()
+> Baseado no original ISBN 978-85-7328-728-8
+> 
+> Modificado para o consumo digital  
+>
+> por Sergio de  
+>
+> [💧 doutrina.org ](https://doutrina.org) 
+> 
+> [⚖️ Avisos Legais]()
 :::
 
 ---
@@ -30,7 +33,7 @@ por Sergio de
 ### 📄 0.02 Prefácio {#lde-0-02}
 
 ::: grey-center
-![Cepa Espírita](../vine.png)
+![Cepa Espírita](/images/vine.png)
 Interpretação artística do desenho original (mediúnico).
 :::
 
@@ -65,7 +68,7 @@ A vaidade de certos homens, que julgam saber tudo e tudo querem explicar a seu m
 
 Com a perseverança é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a Doutrina propagar-se e bem compreendida, será uma recompensa, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os incrédulos ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado.
 
-Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu) um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz.
+Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz.
 
 **João Evangelista  
 Santo Agostinho   
