@@ -1,2 +1,2 @@
 # doutrina-content
-doutrina.org content only repo, no code other than concat script
+Content only repo, no code other than concat script
