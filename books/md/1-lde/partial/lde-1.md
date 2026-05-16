@@ -13,16 +13,6 @@ O que é Deus?
 ✨ ▸ Deus é a inteligência suprema, causa primária de todas as coisas. [^4], [^5]
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.2 {#q2}
@@ -34,13 +24,7 @@ Que se deve entender por infinito?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Infinito](#infinito)
 :::
 
 ---
@@ -58,13 +42,8 @@ Poder-se-ia dizer que Deus é o infinito?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Infinito](#infinito)
 :::
 
 ---
@@ -83,16 +62,6 @@ Onde se pode encontrar a prova da existência de Deus?
 👴🏻 ▸ Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação. O Universo existe, logo, tem uma causa. Duvidar da existência de Deus é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.5 {#q5}
@@ -104,13 +73,7 @@ Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sentimento](#sentimento)
 :::
 
 ---
@@ -128,13 +91,8 @@ O sentimento íntimo que temos da existência de Deus não poderia ser fruto da 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Universalidade](#universalidade)
 :::
 
 ---
@@ -152,13 +110,7 @@ Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da for
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -176,13 +128,7 @@ Que se deve pensar da opinião dos que atribuem a formação primária a uma com
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Harmonia](#harmonia)
 :::
 
 ---
@@ -202,13 +148,7 @@ Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -221,16 +161,6 @@ Pode o homem compreender a natureza íntima de Deus?
 
 ::: spirit
 ✨ ▸ Não; falta-lhe para isso o sentido.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -248,13 +178,8 @@ Será dado um dia ao homem compreender o mistério da Divindade?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Compreensão](#compreensão)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -268,13 +193,7 @@ Embora não possamos compreender a natureza íntima de Deus, podemos formar idé
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Entendimento](#entendimento)
 :::
 
 ---
@@ -302,13 +221,8 @@ Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipo
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Divindade](#divindade)
 :::
 
 ---
@@ -323,16 +237,6 @@ Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as 
 ✨ ▸ Se fosse assim, Deus não existiria, porquanto seria efeito e não causa. Ele não pode ser ao mesmo tempo uma e outra coisa. Deus existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.15 {#q15}
@@ -344,13 +248,8 @@ Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criatura](#criatura)
+🏷️ [Panteísmo](#panteísmo)
 :::
 
 ---
@@ -370,13 +269,9 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Panteísmo](#panteísmo)
+🏷️ [Razão](#razão)
 :::
 
 ---
@@ -393,16 +288,6 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 ✨ ▸ Não, Deus não permite que ao homem tudo seja revelado neste mundo.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.18 {#q18}
@@ -414,13 +299,7 @@ Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mistério](#mistério)
 :::
 
 ---
@@ -438,13 +317,8 @@ Não pode o homem, pelas investigações científicas, penetrar alguns dos segre
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ciência](#ciência)
+🏷️ [Mistério](#mistério)
 :::
 
 ---
@@ -462,13 +336,8 @@ Dado é ao homem receber, sem ser por meio das investigações da Ciência, comu
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conhecimento](#conhecimento)
+🏷️ [Revelação](#revelação)
 :::
 
 ---
@@ -483,16 +352,6 @@ A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em d
 ✨ ▸ Só Deus o sabe. Há uma coisa, todavia, que a razão vos deve indicar: é que Deus, modelo de amor e caridade, nunca esteve inativo. Por mais distante que logreis figurar o início de sua ação, podereis concebê-lo ocioso, um momento que seja?
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.22 {#q22}
@@ -504,13 +363,7 @@ Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -528,13 +381,7 @@ Que definição podeis dar da matéria?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -548,13 +395,7 @@ Que é o espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -568,13 +409,7 @@ Qual a natureza íntima do espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Nada](#nada)
 :::
 
 ---
@@ -588,13 +423,8 @@ Qual a natureza íntima do espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Inteligência](#inteligência)
 :::
 
 ---
@@ -608,13 +438,8 @@ O espírito independe da matéria, ou é apenas uma propriedade desta, como as c
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -628,13 +453,7 @@ Essa união é igualmente necessária para a manifestação do espírito? (Enten
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Percepção](#percepção)
 :::
 
 ---
@@ -648,13 +467,7 @@ Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Percepção](#percepção)
 :::
 
 ---
@@ -668,13 +481,10 @@ Há então dois elementos gerais do Universo: a matéria e o espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Fluido universal](#fluido-universal)
+🏷️ [Matéria](#matéria)
+🏷️ [Pensamento](#pensamento)
 :::
 
 ---
@@ -688,13 +498,8 @@ Esse fluido será o que designamos pelo nome de eletricidade?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Eletricidade](#eletricidade)
+🏷️ [Fluido universal](#fluido-universal)
 :::
 
 ---
@@ -712,13 +517,8 @@ Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos suje
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Linguagem](#linguagem)
+🏷️ [Princípio inteligente](#princípio-inteligente)
 :::
 
 ---
@@ -743,16 +543,6 @@ A matéria é formada de um só ou de muitos elementos?
 ✨ ▸ De um só elemento primitivo. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.31 {#q31}
@@ -761,16 +551,6 @@ Donde se originam as diversas propriedades da matéria?
 
 ::: spirit
 ✨ ▸ São modificações que as moléculas elementares sofrem, por efeito da sua união, em certas circunstâncias.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -785,16 +565,6 @@ De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as 
 
 ::: kardec
 👴🏻 ▸ A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -812,13 +582,7 @@ A mesma matéria elementar é suscetível de experimentar todas as modificaçõe
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -832,13 +596,7 @@ Não parece que esta teoria dá razão aos que não admitem na matéria senão d
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -852,13 +610,8 @@ As moléculas têm forma determinada?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Matéria](#matéria)
+🏷️ [Molécula](#molécula)
 :::
 
 ---
@@ -872,13 +625,7 @@ Essa forma é constante ou variável?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Molécula](#molécula)
 :::
 
 ---
@@ -897,16 +644,6 @@ O Espaço universal é infinito ou limitado?
 👴🏻 ▸ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque, a razão diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o vazio absoluto, ainda seria Espaço.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.36 {#q36}
@@ -918,13 +655,8 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espaço](#espaço)
+🏷️ [Vácuo](#vácuo)
 :::
 
 ---
@@ -949,16 +681,6 @@ O Universo foi criado, ou existe de toda a eternidade, como Deus?
 
 ::: kardec
 👴🏻 ▸ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e que, não podendo também ser obra do acaso, há de ser obra de Deus.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -988,13 +710,7 @@ Poderemos conhecer o modo de formação dos mundos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1008,13 +724,7 @@ Serão os cometas, como agora se pensa, um começo de condensação da matéria,
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Cometa](#cometa)
 :::
 
 ---
@@ -1028,13 +738,7 @@ Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espa�
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lei de destruição](#lei-de-destruição)
 :::
 
 ---
@@ -1048,13 +752,8 @@ Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exe
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mundos](#mundos)
+🏷️ [Tempo](#tempo)
 :::
 
 ---
@@ -1069,16 +768,6 @@ Quando começou a Terra a ser povoada?
 ✨ ▸ No começo tudo era caos; os elementos) estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.44 {#q44}
@@ -1090,13 +779,8 @@ Donde vieram para a Terra os seres vivos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Geração espontânea](#geração-espontânea)
+🏷️ [Seres vivos](#seres-vivos)
 :::
 
 ---
@@ -1114,13 +798,7 @@ Onde estavam os elementos orgânicos, antes da formação da Terra?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Elementos orgânicos](#elementos-orgânicos)
 :::
 
 ---
@@ -1134,13 +812,7 @@ Ainda há seres que nasçam espontaneamente?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Nascimento](#nascimento)
 :::
 
 ---
@@ -1154,13 +826,8 @@ A espécie humana se encontrava entre os elementos orgânicos contidos no globo 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Cordão fluídico](#cordão-fluídico)
+🏷️ [Elementos orgânicos](#elementos-orgânicos)
 :::
 
 ---
@@ -1174,13 +841,7 @@ Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Homem](#homem)
 :::
 
 ---
@@ -1194,13 +855,9 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Geração espontânea](#geração-espontânea)
+🏷️ [Homem](#homem)
+🏷️ [Seres vivos](#seres-vivos)
 :::
 
 ---
@@ -1213,10 +870,6 @@ A espécie humana começou por um único homem?
 
 ::: spirit
 ✨ ▸ Não; aquele a quem chamais Adão não foi o primeiro, nem o único a povoar a Terra.
-:::
-
-::: expand 🏷️
-🏷️ Adão, povoamento da Terra e [↩️](#adao)
 :::
 
 ---
@@ -1233,8 +886,9 @@ Poderemos saber em que época viveu Adão?
 👴🏻 ▸ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do Cristo, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na Terra senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo.
 :::
 
-::: expand 🏷️
-🏷️ Adão, notícia histórica sobre [↩️](#adao)
+::: expand 🔗
+🏷️ [Adão](#adão)
+🏷️ [Povoamento](#povoamento)
 :::
 
 ---
@@ -1249,16 +903,6 @@ Donde provêm as diferenças físicas e morais que distinguem as raças humanas 
 ✨ ▸ Do clima, da vida e dos costumes. Dá-se aí o que se dá com dois filhos de uma mesma mãe que, educados longe um do outro e de modos diferentes, em nada se assemelharão, quanto ao moral.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.53 {#q53}
@@ -1270,13 +914,7 @@ O homem surgiu em muitos pontos do globo?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Homem](#homem)
 :::
 
 ---
@@ -1298,13 +936,7 @@ Pelo fato de não proceder de um só indivíduo a espécie humana, devem os home
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Família](#família)
 :::
 
 ---
@@ -1323,16 +955,6 @@ São habitados todos os globos que se movem no Espaço?
 👴🏻 ▸ Deus povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da sabedoria de Deus, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.56 {#q56}
@@ -1341,16 +963,6 @@ São habitados todos os globos que se movem no Espaço?
 
 ::: spirit
 ✨ ▸ Não; de modo algum se assemelham.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1364,13 +976,7 @@ Não sendo uma só para todos a constituição física dos mundos, seguir-se-á 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mundos habitados](#mundos-habitados)
 :::
 
 ---
@@ -1388,13 +994,7 @@ Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mundos habitados](#mundos-habitados)
 :::
 
 ---
@@ -1420,10 +1020,6 @@ A diversidade das raças corrobora, igualmente, esta opinião. O clima e os cost
 Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo.
 :::
 
-::: expand 🏷️
-🏷️ Adão, criação dos mundos e [↩️](#adao)
-:::
-
 ---
 
 ### 1.04. 🗂️ Princípio Vital {#lde-1-04}
@@ -1444,16 +1040,6 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 ✨ ▸ Sim, a lei de atração é a mesma para todos.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.61 {#q61}
@@ -1465,13 +1051,7 @@ Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -1485,13 +1065,8 @@ Qual a causa da animalização da matéria?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Matéria](#matéria)
+🏷️ [Princípio vital](#princípio-vital)
 :::
 
 ---
@@ -1505,13 +1080,7 @@ O princípio vital reside nalgum agente particular, ou é simplesmente uma propr
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Princípio vital](#princípio-vital)
 :::
 
 ---
@@ -1527,13 +1096,7 @@ Vimos que o espírito e a matéria são dois elementos constitutivos do Universo
 ↩️ Voltar para [Q.680](#q680)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Princípio vital](#princípio-vital)
 :::
 
 ---
@@ -1555,13 +1118,7 @@ O princípio vital reside em algum dos corpos que conhecemos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -1575,13 +1132,7 @@ O princípio vital é um só para todos os seres orgânicos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Princípio vital](#princípio-vital)
 :::
 
 ---
@@ -1595,13 +1146,7 @@ A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pe
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Princípio vital](#princípio-vital)
 :::
 
 ---
@@ -1619,13 +1164,7 @@ Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vi
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Princípio vital](#princípio-vital)
 :::
 
 ---
@@ -1640,16 +1179,6 @@ Qual a causa da morte dos seres orgânicos?
 ✨ ▸ Esgotamento dos órgãos.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.68.a {#q68a}
@@ -1661,13 +1190,8 @@ Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorgan
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Enfermidade](#enfermidade)
 :::
 
 ---
@@ -1681,13 +1205,8 @@ Por que uma lesão do coração mais depressa causa a morte do que as de outros 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Coração](#coração)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -1717,13 +1236,9 @@ O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maio
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fluido vital](#fluido-vital)
+🏷️ [Princípio vital](#princípio-vital)
+🏷️ [Seres vivos](#seres-vivos)
 :::
 
 ---
@@ -1750,16 +1265,6 @@ b) os seres animados que não pensam, formados de matéria e dotados de vitalida
 c) os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio inteligente que lhes outorga a faculdade de pensar.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.72 {#q72}
@@ -1771,13 +1276,7 @@ Qual a fonte da inteligência?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inteligência](#inteligência)
 :::
 
 ---
@@ -1791,13 +1290,7 @@ Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte unive
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inteligência](#inteligência)
 :::
 
 ---
@@ -1811,13 +1304,7 @@ O instinto independe da inteligência?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Instinto](#instinto)
 :::
 
 ---
@@ -1831,13 +1318,7 @@ Pode estabelecer-se uma linha de separação entre instinto e a inteligência, i
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Instinto](#instinto)
 :::
 
 ---
@@ -1851,13 +1332,7 @@ Pode estabelecer-se uma linha de separação entre instinto e a inteligência, i
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Razão](#razão)
 :::
 
 ---
@@ -1877,19 +1352,9 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 :::
 
 ::: expand 🔗
-🏷️ [berração {#aberracao}](#[])
-🏷️ [borto {#aborto}](#[])
-🏷️ [buso {#abuso}](#[])
-🏷️ [caso {#acaso}](#[])
-🏷️ [ção {#acao}](#[])
-🏷️ [ceitação {#aceitacao}](#[])
-🏷️ [certo {#acerto}](#[])
-🏷️ [dão {#adao}](#[])
-🏷️ [dolescência {#adolescencia}](#[])
-🏷️ [doração {#adoracao}](#[])
-🏷️ [feição {#afeicao}](#[])
-🏷️ [finidade {#afinidade}](#[])
+🏷️ [Instinto](#instinto)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Razão](#razão)
 :::
-
 
 ---

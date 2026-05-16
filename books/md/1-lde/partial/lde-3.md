@@ -13,16 +13,6 @@ Que se deve entender por lei natural?
 ✨ ▸ A lei natural é a Lei de Deus. É a única verdadeira para a felicidade do homem. Indica-lhe o que deve fazer ou deixar de fazer e ele só é infeliz quando dela se afasta.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.615 {#q615}
@@ -31,16 +21,6 @@ Que se deve entender por lei natural?
 
 ::: spirit
 ✨ ▸ Eterna e imutável como o próprio Deus.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -54,13 +34,8 @@ Será possível que Deus em certa época haja prescrito aos homens o que noutra 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lei humana](#lei-humana)
 :::
 
 ---
@@ -74,13 +49,7 @@ As leis divinas, que é o que compreendem no seu âmbito? Concernem a alguma out
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -100,13 +69,8 @@ As outras dizem respeito especialmente ao homem considerado em si mesmo e nas su
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lei divina](#lei-divina)
+🏷️ [Tempo](#tempo)
 :::
 
 ---
@@ -120,13 +84,7 @@ São as mesmas, para todos os mundos, as leis divinas?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -143,16 +101,6 @@ A todos os homens facultou Deus os meios de conhecerem sua Lei?
 A justiça das diversas encarnações do homem é uma consequência deste princípio, pois que, em cada nova existência, sua inteligência se acha mais desenvolvida e ele compreende melhor o que é bem e o que é mal. Se numa só existência tudo lhe devesse ficar ultimado, qual seria a sorte de tantos milhões de seres que morrem todos os dias no embrutecimento da selvageria, ou nas trevas da ignorância, sem que deles tenha dependido o se instruírem?
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.620 {#q620}
@@ -163,8 +111,11 @@ Antes de se unir ao corpo, a alma compreende melhor a Lei de Deus do que depois 
 ✨ ▸ Compreende-a de acordo com o grau de perfeição que tenha atingido e dela guarda a intuição quando unida ao corpo. Os maus instintos, porém, fazem ordinariamente que o homem a esqueça.
 :::
 
-::: expand 🏷️
-🏷️ Alma, lei divina e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Esquecimento](#esquecimento)
+🏷️ [Instinto](#instinto)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -178,13 +129,8 @@ Onde está escrita a Lei de Deus?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Consciência](#consciência)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -198,13 +144,7 @@ Visto que o homem traz em sua consciência a Lei de Deus, que necessidade havia 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Presciência](#presciência)
 :::
 
 ---
@@ -218,13 +158,7 @@ Confiou Deus a certos homens a missão de revelarem a sua Lei?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Revelação](#revelação)
 :::
 
 ---
@@ -238,13 +172,7 @@ Os que hão pretendido instruir os homens na Lei de Deus não se têm enganado a
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Erro](#erro)
 :::
 
 ---
@@ -258,13 +186,7 @@ Qual o caráter do verdadeiro profeta?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Profeta](#profeta)
 :::
 
 ---
@@ -282,13 +204,9 @@ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Instrução](#instrução)
+🏷️ [Jesus](#jesus)
+🏷️ [Perfeição](#perfeição)
 :::
 
 ---
@@ -302,13 +220,8 @@ Só por Jesus foram reveladas as leis divinas e naturais? Antes do seu aparecime
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lei divina](#lei-divina)
+🏷️ [Revelação](#revelação)
 :::
 
 ---
@@ -324,13 +237,8 @@ Faz-se mister agora que a verdade se torne inteligível para todo mundo. Muito n
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ensino](#ensino)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -345,8 +253,10 @@ Por que a verdade não foi sempre posta ao alcance de toda gente?
 Jamais permitiu Deus que o homem recebesse comunicações tão completas e instrutivas como as que hoje lhe são dadas. Havia, como sabeis, na Antiguidade alguns indivíduos possuidores do que eles próprios consideravam uma ciência sagrada e da qual faziam mistério para os que, aos seus olhos, eram tidos por profanos. Pelo que conheceis das leis que regem estes fenômenos, deveis compreender que esses indivíduos apenas recebiam algumas verdades esparsas, dentro de um conjunto equívoco e, na maioria dos casos, emblemático. Entretanto, para o estudioso, não há nenhum sistema antigo de filosofia, nenhuma tradição, nenhuma religião, que seja desprezível, pois em tudo há germens de grandes verdades que, se bem pareçam contraditórias entre si, dispersas que se acham em meio de acessórios sem fundamento, facilmente coordenáveis se vos apresentam, graças à explicação que o Espiritismo dá de uma imensidade de coisas que até agora se vos afiguraram sem razão alguma e cuja realidade está hoje irrecusavelmente demonstrada. Não desprezeis, portanto, os objetos de estudo que esses materiais oferecem. Ricos eles são de tais objetos e podem contribuir grandemente para vossa instrução.
 :::
 
-::: expand 🏷️
-🏷️ Antiguidade, teor das comunicações mediúnicas na [↩️](#antiguidade)
+::: expand 🔗
+🏷️ [Antiguidade](#antiguidade)
+🏷️ [Revelação](#revelação)
+🏷️ [Verdade](#verdade)
 :::
 
 ---
@@ -361,16 +271,6 @@ Que definição se pode dar da moral?
 ✨ ▸ A moral é a regra de bem proceder, isto é, de distinguir o bem do mal. Funda-se na observância da Lei de Deus. O homem procede bem quando tudo faz pelo bem de todos, porque então cumpre a Lei de Deus.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.630 {#q630}
@@ -382,13 +282,8 @@ Como se pode distinguir o bem do mal?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem](#bem)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -402,13 +297,8 @@ Tem meios o homem de distinguir por si mesmo o que é bem do que é mal?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Crença](#crença)
+🏷️ [Vontade](#vontade)
 :::
 
 ---
@@ -435,13 +325,9 @@ A regra do bem e do mal, que se poderia chamar de **reciprocidade** ou de **soli
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem](#bem)
+🏷️ [Erro](#erro)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -454,9 +340,9 @@ Por que está o mal na natureza das coisas? Falo do mal moral. Não podia Deus t
 ✨ ▸ Já te dissemos: os Espíritos foram criados simples e ignorantes (👉 Veja Q.115). Deus deixa que o homem escolha o caminho. Tanto pior para ele, se toma o caminho mau: mais longa será sua peregrinação. Se não existissem montanhas, não compreenderia o homem que se pode subir e descer; se não existissem rochas, não compreenderia que há corpos duros. É preciso que o Espírito ganhe experiência; é preciso, portanto, que conheça o bem e o mal. Eis por que se une ao corpo.
 :::
 
-::: expand 🏷️
-👉 Veja [Q.119](#q119)
-↩️ Voltar para [Q.871](#q871)
+::: expand 🔗
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -472,13 +358,8 @@ As condições de existência do homem mudam de acordo com os tempos e os lugare
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Diversidade](#diversidade)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -492,13 +373,8 @@ São absolutos, para todos os homens, o bem e o mal?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem](#bem)
+🏷️ [Responsabilidade](#responsabilidade)
 :::
 
 ---
@@ -514,13 +390,10 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Antropofagia](#antropofagia)
+🏷️ [Mal](#mal)
+🏷️ [Responsabilidade](#responsabilidade)
+🏷️ [Selvagem](#selvagem)
 :::
 
 ---
@@ -534,13 +407,9 @@ Parece, às vezes, que o mal é uma consequência da força das coisas. Tal, por
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Crime](#crime)
+🏷️ [Legítima defesa](#legítima-defesa)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -554,13 +423,7 @@ Não sucede frequentemente resultar o mal, que o homem pratica, da posição em 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -587,13 +450,7 @@ Será tão repreensível, quanto fazer o mal, o desejá-lo?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -607,13 +464,7 @@ Para agradar a Deus e assegurar a sua posição futura, bastará que o homem nã
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Responsabilidade](#responsabilidade)
 :::
 
 ---
@@ -627,13 +478,7 @@ Haverá quem, pela sua posição, não tenha possibilidade de fazer o bem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Egoísmo](#egoísmo)
 :::
 
 ---
@@ -646,8 +491,9 @@ Para certos homens, o meio onde se acham colocados não representa a causa prim�
 ✨ ▸ Sim, mas ainda aí há uma prova que o Espírito escolheu, quando em liberdade, levado pelo desejo de expor-se à tentação para ter o mérito da resistência.
 :::
 
-::: expand 🏷️
-🏷️ Ambiente, criminalidade e [↩️](#ambiente)
+::: expand 🔗
+🏷️ [Ambiente](#ambiente)
+🏷️ [Criminalidade](#criminalidade)
 :::
 
 ---
@@ -661,13 +507,9 @@ Quando o homem se acha, de certo modo, mergulhado na atmosfera do vício, o mal 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criminalidade](#criminalidade)
+🏷️ [Missão](#missão)
+🏷️ [Vício](#vício)
 :::
 
 ---
@@ -684,13 +526,8 @@ Estará subordinado a determinadas condições o mérito do bem que se pratique?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem](#bem)
+🏷️ [Mérito](#mérito)
 :::
 
 ---
@@ -705,16 +542,6 @@ A Lei de Deus se acha contida toda no preceito do amor ao próximo, ensinado por
 ✨ ▸ Certamente. Esse preceito encerra todos os deveres dos homens uns para com os outros. Cumpre, porém, se lhes mostre a aplicação que comporta, do contrário deixarão de cumpri-lo, como o fazem presentemente. Ademais, a lei natural abrange todas as circunstâncias da vida e esse preceito compreende só uma parte da lei. Aos homens são necessárias regras precisas; os preceitos gerais e muito vagos deixam grande número de portas abertas à interpretação.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.648 {#q648}
@@ -726,13 +553,7 @@ Que pensais da divisão da lei natural em dez partes, compreendendo as leis de *
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Decálogo](#decálogo)
 :::
 
 ---
@@ -749,10 +570,6 @@ Em que consiste a adoração?
 ✨ ▸ Na elevação do pensamento a Deus. Deste, pela adoração, aproxima o homem sua alma.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
-:::
-
 ---
 
 ###### #️⃣ Q.650 {#q650}
@@ -763,11 +580,9 @@ Origina-se de um sentimento inato a adoração, ou é fruto de ensino?
 ✨ ▸ Sentimento inato, como o da existência de Deus. A consciência da sua fraqueza leva o homem a curvar-se diante daquele que o pode proteger.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, busca de amparo e [↩️](#adoracao)
-
-🏷️ Adoração, fraqueza e [↩️](#adoracao)
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Adoração](#adoração)
+🏷️ [Fraqueza](#fraqueza)
 :::
 
 ---
@@ -780,8 +595,8 @@ Terá havido povos destituídos de todo sentimento de adoração?
 ✨ ▸ Não, que nunca houve povos de ateus. Todos compreendem que acima de tudo há um Ente supremo.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Ateísmo](#ateísmo)
 :::
 
 ---
@@ -794,9 +609,9 @@ Poder-se-á considerar a lei natural como fonte originária da adoração?
 ✨ ▸ A adoração está na lei natural, pois resulta de um sentimento inato no homem. Por essa razão é que existe entre todos os povos, se bem que sob formas diferentes.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
-🏷️ Adoração, lei natural e [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Adoração](#adoração)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -811,12 +626,6 @@ Precisa de manifestações exteriores a adoração?
 ✨ ▸ A adoração verdadeira é do coração. Em todas as vossas ações, lembrai-vos sempre de que o Senhor tem sobre vós o seu olhar.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
-
-🏷️ Adoração, sentimento puro e [↩️](#adoracao)
-:::
-
 ---
 
 ###### #️⃣ Q.653.a {#q653a}
@@ -827,8 +636,8 @@ Será útil a adoração exterior?
 ✨ ▸ Sim, se não consistir num vão simulacro. É sempre útil dar um bom exemplo, mas os que somente por afetação e amor-próprio o fazem, desmentindo com o proceder a aparente piedade, mau exemplo dão e não imaginam o mal que causam.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, bom exemplo e [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Adoração](#adoração)
 :::
 
 ---
@@ -849,10 +658,13 @@ Declaro-vos que somente nos lábios e não na alma tem religião aquele que prof
 Não pergunteis, pois, se alguma forma de adoração há que mais convenha, porque equivaleria a perguntardes se mais agrada a Deus ser adorado num idioma do que noutro. Ainda uma vez vos digo: até ele não chegam os cânticos, senão quando passam pela porta do coração.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
-
-🏷️ Adoração, rituais e [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Adoração](#adoração)
+🏷️ [Deus](#deus)
+🏷️ [Falsidade](#falsidade)
+🏷️ [Hipocrisia](#hipocrisia)
+🏷️ [Religião](#religião)
+🏷️ [Ritual](#ritual)
 :::
 
 ---
@@ -865,8 +677,8 @@ Merece censura aquele que pratica uma religião em que não crê do fundo da alm
 ✨ ▸ Nisto, como em muitas outras coisas, a intenção constitui a regra. Não procede mal aquele que, assim fazendo, só tenha em vista respeitar as crenças de outrem. Procede melhor do que um que as ridiculize, porque, então, falta à caridade. Aquele, porém, que a pratique por interesse e por ambição se torna desprezível aos olhos de Deus e dos homens. A Deus não podem agradar os que fingem humilhar-se diante dele tão somente para granjear o aplauso dos homens.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Religião](#religião)
 :::
 
 ---
@@ -880,8 +692,8 @@ Merece censura aquele que pratica uma religião em que não crê do fundo da alm
 O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que menos valiosa seja a adoração particular, pois que cada um pode adorar a Deus pensando nele.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Comunhão](#comunhão)
 :::
 
 ---
@@ -896,10 +708,6 @@ Têm, perante Deus, algum mérito os que se consagram à vida contemplativa, uma
 ✨ ▸ Não, porquanto, se é certo que não fazem o mal, também o é que não fazem o bem e são inúteis. Ademais, não fazer o bem já é um mal. Deus quer que o homem pense nele, mas não quer que só nele pense, pois que lhe impôs deveres a cumprir na Terra. Quem passa todo o tempo na meditação e na contemplação nada faz de meritório aos olhos de Deus, porque vive uma vida toda pessoal e inútil à Humanidade e Deus lhe pedirá contas do bem que não houver feito.
 :::
 
-::: expand 🏷️
-👉 Veja [Q.640](#q640)
-:::
-
 ---
 
 #### 3.02.04 📄 A prece {#lde-3-02-04}
@@ -912,10 +720,6 @@ Agrada a Deus a prece?
 ✨ ▸ A prece é sempre agradável a Deus, quando ditada pelo coração, pois, para Ele, a intenção é tudo. Assim, preferível lhe é a prece do íntimo à prece lida, por muito bela que seja, se for lida mais com os lábios do que com o coração. Agrada-lhe a prece, quando dita com fé, com fervor e sinceridade. Não creiais, porém, que toque a Deus a prece do homem fútil, orgulhoso e egoísta, a menos que signifique, de sua parte, um ato de sincero arrependimento e de verdadeira humildade.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
-:::
-
 ---
 
 ###### #️⃣ Q.659 {#q659}
@@ -926,8 +730,8 @@ Qual o caráter geral da prece?
 ✨ ▸ A prece é um ato de adoração. Orar a Deus é pensar nele; é aproximar-se dele; é pôr-se em comunicação com Ele. A três coisas podemos propor-nos por meio da prece: louvar, pedir, agradecer.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Oração](#oração)
 :::
 
 ---
@@ -940,8 +744,8 @@ A prece torna melhor o homem?
 ✨ ▸ Sim, porquanto aquele que ora com fervor e confiança se faz mais forte contra as tentações do mal e Deus lhe envia bons Espíritos para assisti-lo. É este um socorro que jamais se lhe recusa, quando pedido com sinceridade.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Fortalecimento](#fortalecimento)
 :::
 
 ---
@@ -954,8 +758,8 @@ Como é que certas pessoas, que oram muito, são, não obstante, de mau caráter
 ✨ ▸ O essencial não é orar muito, mas orar bem. Essas pessoas supõem que todo o mérito está na longura da prece e fecham os olhos para os seus próprios defeitos. Fazem da prece uma ocupação, um emprego do tempo, nunca, porém, um estudo de si mesmas. A ineficácia, em tais casos, não é do remédio, sim da maneira por que o aplicam.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Oração](#oração)
 :::
 
 ---
@@ -968,8 +772,9 @@ Poderemos utilmente pedir a Deus que perdoe as nossas faltas?
 ✨ ▸ Deus sabe discernir o bem do mal; a prece não esconde as faltas. Aquele que a Deus pede perdão de suas faltas só o obtém mudando de proceder. As boas ações são a melhor prece, por isso que os atos valem mais que as palavras.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Oração](#oração)
+🏷️ [Perdão](#perdão)
 :::
 
 ---
@@ -984,8 +789,9 @@ Pode-se, com utilidade, orar por outrem?
 O pensamento e a vontade representam em nós um poder de ação que alcança muito além dos limites da nossa esfera corporal. A prece que façamos por outrem é um ato dessa vontade. Se for ardente e sincera, pode chamar, em auxílio daquele por quem oramos, os bons Espíritos, que lhe virão sugerir bons pensamentos e dar a força de que necessitem seu corpo e sua alma. Ainda aqui, a prece do coração é tudo, a dos lábios nada vale.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Intercessão](#intercessão)
+🏷️ [Oração](#oração)
 :::
 
 ---
@@ -1000,10 +806,12 @@ Podem as preces, que por nós mesmos fizermos, mudar a natureza das nossas prova
 Ele é punido naquilo em que pecou. Todavia, as súplicas justas são atendidas mais vezes do que supondes. Julgais, de ordinário, que Deus não vos ouve, porque não faz a vosso favor um milagre, enquanto vos assiste por meios tão naturais que vos parecem obra do acaso ou da força das coisas. Muitas vezes também, as mais das vezes mesmo, ele vos sugere a ideia que vos fará sair da dificuldade pelo vosso próprio esforço.
 :::
 
-::: expand 🏷️
-🏷️ Acaso, Deus e [↩️](#acaso)
-
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Acaso](#acaso)
+🏷️ [Lei divina](#lei-divina)
+🏷️ [Oração](#oração)
+🏷️ [Provas](#provas)
+🏷️ [Provação](#provação)
 :::
 
 ---
@@ -1016,10 +824,11 @@ Será útil que oremos pelos mortos e pelos Espíritos sofredores? E, neste caso
 ✨ ▸ A prece não pode ter por efeito mudar os desígnios de Deus, mas a alma por quem se ora experimenta alívio, porque recebe assim um testemunho do interesse que inspira àquele que por ela pede e também porque o desgraçado sente sempre um refrigério quando encontra almas caridosas que se compadecem de suas dores. Por outro lado, mediante a prece, aquele que ora concita o desgraçado ao arrependimento e ao desejo de fazer o que é necessário para ser feliz. Neste sentido é que se lhe pode abreviar a pena, se, por sua parte, ele secunda a prece com a boa vontade. O desejo de melhorar-se, despertado pela prece, atrai para junto do Espírito sofredor Espíritos melhores, que o vão esclarecer, consolar e dar-lhe esperanças. Jesus orava pelas ovelhas desgarradas, mostrando-vos, desse modo, que culpados vos tornaríeis, se não fizésseis o mesmo pelos que mais necessitam das vossas preces.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.997](#q997)
-
-↩️ Voltar para [Q.1015](#q1015)
+::: expand 🔗
+🏷️ [Despertamento](#despertamento)
+🏷️ [Espírito sofredor](#espírito-sofredor)
+🏷️ [Morto](#morto)
+🏷️ [Oração](#oração)
 :::
 
 ---
@@ -1041,8 +850,10 @@ Mateus, cap. 22, vers. 39, ARC
 Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Mandamento](#mandamento)
+🏷️ [Morto](#morto)
+🏷️ [Oração](#oração)
 :::
 
 ---
@@ -1055,8 +866,9 @@ Pode-se orar aos Espíritos?
 ✨ ▸ Pode-se orar aos bons Espíritos, como os mensageiros de Deus e os executores de suas vontades. O poder deles, porém, está em relação com a superioridade que tenham alcançado e dimana sempre do Senhor de todas as coisas, sem cuja permissão nada se faz. Eis por que as preces que se lhes dirigem só são eficazes se bem-aceitas por Deus.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Espírito bom](#espírito-bom)
+🏷️ [Valor](#valor)
 :::
 
 ---
@@ -1069,10 +881,6 @@ Por que razão, não obstante ser falsa, a crença politeísta é uma das mais a
 
 ::: spirit
 ✨ ▸ A concepção de um Deus único não poderia existir no homem, senão como resultado do desenvolvimento de suas ideias. Incapaz, pela sua ignorância, de conceber um ser imaterial, sem forma determinada, atuando sobre a matéria, conferiu-lhe o homem atributos da natureza corpórea, isto é, uma forma e um aspecto e, desde então, tudo o que parecia ultrapassar os limites da inteligência comum era, para ele, uma divindade. Tudo o que não compreendia devia ser obra de uma potência sobrenatural. Daí a crer em tantas potências distintas quantos os efeitos que observava, não havia mais que um passo. Em todos os tempos, porém, houve homens instruídos, que compreenderam ser impossível a existência desses poderes múltiplos a governarem o mundo, sem uma direção superior, e que, em consequência, se elevaram à concepção de um Deus único.
-:::
-
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
 :::
 
 ---
@@ -1091,12 +899,12 @@ A palavra deus tinha, entre os Antigos, acepção muito ampla. Não indicava, co
 Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs destruir uma coisa que está na Natureza. Orientou, porém, a adoração para aquele a quem é devida. Quanto aos Espíritos, a lembrança deles se há perpetuado, conforme os povos, sob diversos nomes, e suas manifestações, que nunca deixaram de produzir-se, foram interpretadas de maneiras diferentes e muitas vezes exploradas sob o prestígio do mistério. Enquanto para a religião essas manifestações eram fenônemo miraculosos, para os incrédulos sempre foram embustes. Hoje, mercê de um estudo mais sério, feito à luz meridiana, o Espiritismo, escoimado das ideias supersticiosas que o ensombraram durante séculos, nos revela um dos maiores e mais sublimes princípios da Natureza.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.668](#q668)
-
-🏷️ Adoração, Cristianismo e [↩️](#adoracao)
-
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Adoração](#adoração)
+🏷️ [Cristianismo](#cristianismo)
+🏷️ [Deus](#deus)
+🏷️ [Fenômeno espírita](#fenômeno-espírita)
+🏷️ [Politeísmo](#politeísmo)
 :::
 
 ---
@@ -1111,12 +919,6 @@ Remonta à mais alta antiguidade o uso dos sacrifícios humanos. Como se explica
 ✨ ▸ Primeiramente, porque não compreendia Deus como a fonte da bondade. Nos povos primitivos, a matéria sobrepuja o espírito; eles se entregam aos instintos do animal selvagem. Por isso é que, em geral, são cruéis; é que neles o senso moral ainda não se acha desenvolvido. Em segundo lugar, é natural que os homens primitivos acreditassem ter uma criatura animada muito mais valor, aos olhos de Deus, do que um corpo material. Foi isto que os levou a imolarem, primeiro, animais e, mais tarde, homens. De conformidade com a falsa crença que possuíam, pensavam que o valor do sacrifício era proporcional à importância da vítima. Na vida material, como geralmente a praticais, se houverdes de oferecer a alguém um presente, escolhê-lo-eis sempre de tanto maior valor quanto mais afeto e consideração quiserdes testemunhar a esse alguém. Assim tinha que ser, com relação a Deus, entre homens ignorantes.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
-
-🏷️ Adoração, sacrifício humano e [↩️](#adoracao)
-:::
-
 ---
 
 ###### #️⃣ Q.669.a {#q669a}
@@ -1127,12 +929,10 @@ De modo que os sacrifícios de animais precederam os sacrifícios humanos?
 ✨ ▸ Sobre isso não pode haver a menor dúvida.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
-
-🏷️ Adoração, sacrifício animal e [↩️](#adoracao)
-
-🏷️ Animais, sacrifício de [↩️](#animais)
+::: expand 🔗
+🏷️ [Adoração](#adoração)
+🏷️ [Animais](#animais)
+🏷️ [Sacrifício](#sacrifício)
 :::
 
 ---
@@ -1145,10 +945,9 @@ Então, de acordo com a explicação que vindes de dar, não foi de um sentiment
 ✨ ▸ Não; originaram-se de uma ideia errônea quanto à maneira de agradar a Deus. Considerai o que se deu com Abraão. Com o correr dos tempos, os homens entraram a abusar dessas práticas, imolando seus inimigos comuns, até mesmo seus inimigos particulares. Deus, entretanto, nunca exigiu sacrifícios, nem de homens, nem, sequer, de animais. Não há como imaginar-se que se lhe possa prestar culto, mediante a destruição inútil de suas criaturas.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
-
-🏷️ Adoração, sacrifício humano e [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Adoração](#adoração)
+🏷️ [Sacrifício](#sacrifício)
 :::
 
 ---
@@ -1161,8 +960,10 @@ Dar-se-á que alguma vez possam ter sido agradáveis a Deus os sacrifícios huma
 ✨ ▸ Não, nunca. Deus, porém, julga pela intenção. Sendo ignorantes os homens, natural era que supusessem praticar ato louvável imolando seus semelhantes. Nesses casos, Deus atentava unicamente na ideia que presidia ao ato e não neste. À proporção que se foram melhorando, os homens tiveram que reconhecer o erro em que laboravam e que reprovar tais sacrifícios, com que não podiam conformar-se as ideias de Espíritos esclarecidos. Digo — esclarecidos, porque os Espíritos tinham então a envolvê-los o véu material, mas, por meio do livre-arbítrio, possível lhes era vislumbrar suas origens e fim, e muitos, por intuição, já compreendiam o mal que praticavam, se bem que nem por isso deixassem de praticá-lo, para satisfazer às suas paixões.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Aperfeiçoamento](#aperfeiçoamento)
+🏷️ [Deus](#deus)
+🏷️ [Valor](#valor)
 :::
 
 ---
@@ -1175,8 +976,9 @@ Que devemos pensar das chamadas guerras santas? O sentimento que impele os povos
 ✨ ▸ São impelidos pelos maus Espíritos e, fazendo a guerra aos seus semelhantes, contravêm à vontade de Deus, que manda ame cada um o seu irmão, como a si mesmo. Todas as religiões, ou, antes, todos os povos adoram um mesmo Deus, qualquer que seja o nome que lhe deem. Por que então há de um fazer guerra a outro, sob o fundamento de ser a religião deste diferente da sua, ou por não ter ainda atingido o grau de progresso da religião dos povos cultos? Se são desculpáveis os povos de não crerem na palavra daquele que o Espírito de Deus animava e que Deus enviou, sobretudo os que não o viram e não lhe testemunharam os atos, como pretenderdes que creiam nessa palavra de paz, quando lhes ides levá-la de espada em punho? Eles têm que ser esclarecidos e devemos esforçar-nos por fazê-los conhecer a doutrina do Salvador, mediante a persuasão e com brandura, nunca a ferro e fogo. Em vossa maioria, não acreditais nas comunicações que temos com certos mortais; como quereríeis que estranhos acreditassem na vossa palavra, quando desmentis com os atos a doutrina que pregais?
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Guerra](#guerra)
+🏷️ [Jesus](#jesus)
 :::
 
 ---
@@ -1189,8 +991,11 @@ A oferenda feita a Deus, de frutos da terra, tinha a seus olhos mais mérito do 
 ✨ ▸ Já vos respondi, declarando que Deus julga segundo a intenção e que para Ele pouca importância tinha o fato. Mais agradável evidentemente era a Deus que lhe oferecessem frutos da terra, em vez do sangue das vítimas. Como temos dito e sempre repetiremos, a prece proferida do fundo da alma é cem vezes mais agradável a Deus do que todas as oferendas que lhe possais fazer. Repito que a intenção é tudo, que o fato nada vale.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Deus](#deus)
+🏷️ [Oferenda](#oferenda)
+🏷️ [Sacrifício](#sacrifício)
+🏷️ [Valor](#valor)
 :::
 
 ---
@@ -1203,10 +1008,10 @@ Não seria um meio de tornar essas oferendas agradáveis a Deus consagrá-las a 
 ✨ ▸ Deus abençoa sempre os que fazem o bem. O melhor meio de honrá-lo consiste em minorar os sofrimentos dos pobres e dos aflitos. Não quero dizer com isto que Ele desaprove as cerimônias que praticais para lhe dirigirdes as vossas preces. Muito dinheiro, porém, aí se gasta que poderia ser empregado mais utilmente do que o é. Deus ama a simplicidade em tudo. O homem que se atém às exterioridades e não ao coração é um Espírito de vistas acanhadas. Dizei, em consciência, se Deus deve atender mais à forma do que ao fundo.
 :::
 
-::: expand 🏷️
-🏷️ Adoração, lei de [↩️](#adoracao)
-
-🏷️ Adoração, prática do bem e [↩️](#adoracao)
+::: expand 🔗
+🏷️ [Adoração](#adoração)
+🏷️ [Bem](#bem)
+🏷️ [Oferenda](#oferenda)
 :::
 
 ---
@@ -1223,16 +1028,6 @@ A necessidade do trabalho é Lei da Natureza?
 ✨ ▸ O trabalho é Lei da Natureza, por isso mesmo que constitui uma necessidade, e a civilização obriga o homem a trabalhar mais, porque lhe aumenta as necessidades e os gozos.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.675 {#q675}
@@ -1244,13 +1039,8 @@ Por trabalho só se devem entender as ocupações materiais?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ocupação](#ocupação)
+🏷️ [Trabalho](#trabalho)
 :::
 
 ---
@@ -1264,13 +1054,7 @@ Por que o trabalho se impõe ao homem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Trabalho](#trabalho)
 :::
 
 ---
@@ -1283,8 +1067,9 @@ Por que provê a Natureza, por si mesma, a todas as necessidades dos animais?
 ✨ ▸ Tudo na Natureza trabalha. Como tu, trabalham os animais, mas o trabalho deles, de acordo com a inteligência de que dispõem, se limita a cuidarem da própria conservação. Daí vem que, do trabalho não lhes resulta progresso, ao passo que o do homem visa duplo fim: a conservação do corpo e o desenvolvimento da faculdade de pensar, o que também é uma necessidade e o eleva acima de si mesmo. Quando digo que o trabalho dos animais se cifra no cuidarem da própria conservação, refiro-me ao objetivo com que trabalham. Entretanto, provendo às suas necessidades materiais, eles se constituem, inconscientemente, executores dos desígnios do Criador e, assim, o trabalho que executam também concorre para a realização do objetivo final da Natureza, se bem quase nunca lhe descubrais o resultado imediato.
 :::
 
-::: expand 🏷️
-🏷️ Animais, trabalho dos [↩️](#animais)
+::: expand 🔗
+🏷️ [Animais](#animais)
+🏷️ [Homem](#homem)
 :::
 
 ---
@@ -1298,13 +1083,8 @@ Nos mundos mais aperfeiçoados, os homens se acham submetidos à mesma necessida
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ociosidade](#ociosidade)
+🏷️ [Trabalho](#trabalho)
 :::
 
 ---
@@ -1320,13 +1100,7 @@ Aquele a quem Deus facultou a posse de bens suficientes a lhe garantirem a exist
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Solidariedade](#solidariedade)
 :::
 
 ---
@@ -1339,8 +1113,8 @@ Não há homens que se encontram impossibilitados de trabalhar no que quer que s
 ✨ ▸ Deus é justo e, pois, só condena aquele que voluntariamente tornou inútil a sua existência, porquanto esse vive a expensas do trabalho dos outros. Ele quer que cada um seja útil, de acordo com as suas faculdades.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.64](#q64)
+::: expand 🔗
+🏷️ [Aptidão](#aptidão)
 :::
 
 ---
@@ -1353,10 +1127,8 @@ A Lei da Natureza impõe aos filhos a obrigação de trabalharem para seus pais?
 ✨ ▸ Certamente, do mesmo modo que os pais têm que trabalhar para seus filhos. Foi por isso que Deus fez do amor filial e do amor paterno um sentimento natural. Foi para que, por essa afeição recíproca, os membros de uma família se sentissem impelidos a ajudarem-se mutuamente, o que, aliás, com muita frequência se esquece na vossa sociedade atual.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.205](#q205)
-
-🏷️ Amor, filial e paterno [↩️](#amor)
+::: expand 🔗
+🏷️ [Amor](#amor)
 :::
 
 ---
@@ -1371,16 +1143,6 @@ Sendo uma necessidade para todo aquele que trabalha, o repouso não é também u
 ✨ ▸ Sem dúvida. O repouso serve para a reparação das forças do corpo e também é necessário para dar um pouco mais de liberdade à inteligência, a fim de que se eleve acima da matéria.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.683 {#q683}
@@ -1392,13 +1154,8 @@ Qual o limite do trabalho?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Regulamento](#regulamento)
+🏷️ [Trabalho](#trabalho)
 :::
 
 ---
@@ -1411,9 +1168,8 @@ Que se deve pensar dos que abusam de sua autoridade, impondo a seus inferiores e
 ✨ ▸ Isso é uma das piores ações. Todo aquele que tem o poder de mandar é responsável pelo excesso de trabalho que imponha a seus inferiores, porquanto, assim fazendo, transgride a Lei de Deus.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.273](#q273)<br
-↩️ Voltar para [Q.807](#q807)
+::: expand 🔗
+🏷️ [Trabalho](#trabalho)
 :::
 
 ---
@@ -1426,8 +1182,9 @@ Tem o homem o direito de repousar na velhice?
 ✨ ▸ Sim, que a nada é obrigado, senão de acordo com as suas forças.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.813](#q813)
+::: expand 🔗
+🏷️ [Repouso](#repouso)
+🏷️ [Velhice](#velhice)
 :::
 
 ---
@@ -1443,13 +1200,10 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Aposentadoria](#aposentadoria)
+🏷️ [Assistência social](#assistência-social)
+🏷️ [Economia](#economia)
+🏷️ [Educação](#educação)
 :::
 
 ---
@@ -1466,16 +1220,6 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 ✨ ▸ Evidentemente. Sem a reprodução, o mundo corporal pereceria.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.687 {#q687}
@@ -1487,13 +1231,10 @@ Indo sempre a população na progressão crescente que vemos, chegará tempo em 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Equilíbrio](#equilíbrio)
+🏷️ [População](#população)
+🏷️ [Reprodução](#reprodução)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -1508,16 +1249,6 @@ Há, neste momento, raças humanas que evidentemente decrescem. Virá momento em
 ✨ ▸ Assim acontecerá, de fato. É que outras lhes terão tomado o lugar, como outras um dia tomarão o da vossa.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.689 {#q689}
@@ -1529,13 +1260,7 @@ Os homens atuais formam uma criação nova, ou são descendentes aperfeiçoados 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -1549,13 +1274,9 @@ Do ponto de vista físico, são de criação especial os corpos da raça atual, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Família](#família)
+🏷️ [Raças](#raças)
+🏷️ [Reprodução](#reprodução)
 :::
 
 ---
@@ -1569,13 +1290,7 @@ Qual, do ponto de vista físico, o caráter distintivo e dominante das raças pr
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Raças](#raças)
 :::
 
 ---
@@ -1589,13 +1304,7 @@ Será contrário à Lei da Natureza o aperfeiçoamento das raças animais e vege
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ciência](#ciência)
 :::
 
 ---
@@ -1609,13 +1318,8 @@ Geralmente, os esforços que o homem emprega para conseguir a melhoria das raça
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mérito](#mérito)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -1630,16 +1334,6 @@ São contrários à Lei da Natureza as leis e os costumes humanos que têm por f
 ✨ ▸ Tudo o que embaraça a Natureza em sua marcha é contrário à lei geral.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.693.a {#q693a}
@@ -1648,16 +1342,6 @@ Entretanto, há espécies de seres vivos, animais e plantas, cuja reprodução i
 
 ::: spirit
 ✨ ▸ Deus concedeu ao homem, sobre todos os seres vivos, um poder de que ele deve usar, sem abusar. Pode, pois, regular a reprodução, de acordo com as necessidades. Não deve opor-se-lhe sem necessidade. A ação inteligente do homem é um contrapeso que Deus dispôs para restabelecer o equilíbrio entre as forças da Natureza e é ainda isso o que o distingue dos animais, porque ele obra com conhecimento de causa. Os mesmos animais, porém, também concorrem para a existência desse equilíbrio, porquanto o instinto de destruição que lhes foi dado faz com que, provendo à própria conservação, obstem ao desenvolvimento excessivo, quiçá perigoso, das espécies animais e vegetais de que se alimentam.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1671,13 +1355,7 @@ Que se deve pensar dos usos, cujo efeito consiste em obstar à reprodução, par
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reprodução](#reprodução)
 :::
 
 ---
@@ -1690,16 +1368,6 @@ Será contrário à Lei da Natureza o casamento, isto é, a união permanente de
 
 ::: spirit
 ✨ ▸ É um progresso na marcha da Humanidade.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1715,13 +1383,7 @@ O estado de natureza é o da união livre e fortuita dos sexos. O casamento cons
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sociedade](#sociedade)
 :::
 
 ---
@@ -1735,13 +1397,8 @@ Está na Lei da Natureza, ou somente na lei humana, a indissolubilidade absoluta
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Divórcio](#divórcio)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -1755,13 +1412,7 @@ O celibato voluntário representa um estado de perfeição meritório aos olhos 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Egoísmo](#egoísmo)
 :::
 
 ---
@@ -1777,13 +1428,7 @@ Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fe
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Humanidade](#humanidade)
 :::
 
 ---
@@ -1796,16 +1441,6 @@ A igualdade numérica, que mais ou menos existe entre os sexos, constitui indíc
 
 ::: spirit
 ✨ ▸ Sim, porquanto tudo, na Natureza, tem um fim.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1823,13 +1458,9 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Monogamia](#monogamia)
+🏷️ [Poligamia](#poligamia)
+🏷️ [Sensualidade](#sensualidade)
 :::
 
 ---
@@ -1846,16 +1477,6 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 ✨ ▸ Sem dúvida. Todos os seres vivos o possuem, qualquer que seja o grau de sua inteligência. Nuns é puramente maquinal, raciocinado em outros.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.703 {#q703}
@@ -1867,13 +1488,8 @@ Com que fim outorgou Deus a todos os seres vivos o instinto de conservação?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Aperfeiçoamento](#aperfeiçoamento)
+🏷️ [Seres vivos](#seres-vivos)
 :::
 
 ---
@@ -1888,16 +1504,6 @@ Tendo dado ao homem a necessidade de viver, Deus lhe facultou, em todos os tempo
 ✨ ▸ Certo, e se ele os não encontra, é que não os compreende. Não fora possível que Deus criasse para o homem a necessidade de viver, sem lhe dar os meios de consegui-lo. Essa a razão por que faz que a Terra produza de modo a proporcionar o necessário aos que a habitam, visto que só o necessário é útil. O supérfluo nunca o é.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.705 {#q705}
@@ -1909,13 +1515,8 @@ Por que nem sempre a Terra produz bastante para fornecer ao homem o necessário?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Homem](#homem)
+🏷️ [Necessário](#necessário)
 :::
 
 ---
@@ -1929,13 +1530,7 @@ Por bens da Terra unicamente se devem entender os produtos do solo?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -1954,9 +1549,15 @@ Se é certo que a civilização multiplica as necessidades, também o é que mul
 Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, por esse lado, têm feito os povos mais adiantados. Graças aos louváveis esforços que, juntas, a Filantropia e a Ciência não cessam de despender para melhorar a condição material dos homens e malgrado o crescimento incessante das populações, a insuficiência da produção se acha atenuada, pelo menos em grande parte, e os anos mais calamitosos do presente não se podem de modo algum comparar aos de outrora. A higiene pública, elemento tão essencial da força e da saúde, a higiene pública, que nossos pais não conheceram, é objeto de esclarecida solicitude. O infortúnio e o sofrimento encontram onde se refugiem. Por toda parte a Ciência contribui para acrescer o bem-estar. Poder-se-á dizer que já se haja chegado à perfeição? Oh! não, certamente; mas o que já se fez deixa prever o que, com perseverança, se logrará conseguir, se o homem se mostrar bastante avisado para procurar a sua felicidade nas coisas positivas e sérias e não em utopias que o levam a recuar em vez de fazê-lo avançar.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.741](#q741)<br
-↩️ Voltar para [Q.889](#q889)
+::: expand 🔗
+🏷️ [Caridade](#caridade)
+🏷️ [Civilização](#civilização)
+🏷️ [Ciência](#ciência)
+🏷️ [Egoísmo](#egoísmo)
+🏷️ [Filantropia](#filantropia)
+🏷️ [Miséria](#miséria)
+🏷️ [Obstáculos](#obstáculos)
+🏷️ [Sol](#sol)
 :::
 
 ---
@@ -1970,13 +1571,8 @@ Não há situações nas quais os meios de subsistência de maneira alguma depen
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desespero](#desespero)
+🏷️ [Mérito](#mérito)
 :::
 
 ---
@@ -1990,13 +1586,8 @@ Terão cometido crime os que, em certas situações críticas, se viram na conti
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Antropofagia](#antropofagia)
+🏷️ [Fome](#fome)
 :::
 
 ---
@@ -2009,8 +1600,8 @@ Nos mundos de mais apurada organização, têm os seres vivos necessidade de ali
 ✨ ▸ Têm, mas seus alimentos estão em relação com a sua natureza. Tais alimentos não seriam bastante substanciosos para os vossos estômagos grosseiros; assim como os deles não poderiam digerir os vossos alimentos.
 :::
 
-::: expand 🏷️
-🏷️ Alimentação, mundos elevados e [↩️](#alimentacao)
+::: expand 🔗
+🏷️ [Alimentação](#alimentação)
 :::
 
 ---
@@ -2025,16 +1616,6 @@ O uso dos bens da Terra é um direito de todos os homens?
 ✨ ▸ Esse direito é consequente da necessidade de viver. Deus não imporia um dever sem dar ao homem o meio de cumpri-lo.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.712 {#q712}
@@ -2046,13 +1627,8 @@ Com que fim pôs Deus atrativos no gozo dos bens materiais?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Missão](#missão)
+🏷️ [Tentação](#tentação)
 :::
 
 ---
@@ -2068,13 +1644,9 @@ Se o homem só fosse instigado a usar dos bens terrenos pela utilidade que têm,
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bens terrenos](#bens-terrenos)
+🏷️ [Razão](#razão)
+🏷️ [Tentação](#tentação)
 :::
 
 ---
@@ -2088,13 +1660,7 @@ Traçou a Natureza limites aos gozos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Gozo](#gozo)
 :::
 
 ---
@@ -2117,13 +1683,7 @@ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Gozo](#gozo)
 :::
 
 ---
@@ -2138,12 +1698,6 @@ Como pode o homem conhecer o limite do necessário?
 ✨ ▸ Aquele que é ponderado o conhece por intuição. Muitos só chegam a conhecê-lo por experiência e à sua própria custa.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.923](#q923)
-
-🏷️ Acerto, erro e [↩️](#acerto)
-:::
-
 ---
 
 ###### #️⃣ Q.716 {#q716}
@@ -2155,13 +1709,7 @@ Mediante a organização que nos deu, não traçou a Natureza o limite das nossa
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
 :::
 
 ---
@@ -2176,11 +1724,9 @@ Que se há de pensar dos que açambarcam os bens da Terra para se proporcionarem
 Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilização criou necessidades que o selvagem desconhece e os Espíritos que ditaram os preceitos acima não pretendem que o homem civilizado deva viver como o selvagem. Tudo é relativo, cabendo à razão regrar as coisas. A civilização desenvolve o senso moral e, ao mesmo tempo, o sentimento de caridade, que leva os homens a se prestarem mútuo apoio. Os que vivem à custa das privações dos outros exploram, em seu proveito, os benefícios da civilização. Desta têm apenas o verniz, como muitos há que da religião só têm a máscara.
 :::
 
-::: expand 🏷️
-🏷️ Ambição, privação alheia e [↩️](#ambicao)
-
-🏷️ Ambição, supérfluo e [↩️](#ambicao)
-
+::: expand 🔗
+🏷️ [Ambição](#ambição)
+🏷️ [Parasitose espiritual](#parasitose-espiritual)
 :::
 
 ---
@@ -2195,16 +1741,6 @@ A lei de conservação obriga o homem a prover às necessidades do corpo?
 ✨ ▸ Sim, porque, sem força e saúde, impossível é o trabalho.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.719 {#q719}
@@ -2216,13 +1752,7 @@ Merece censura o homem, por procurar o bem-estar?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem-estar](#bem-estar)
 :::
 
 ---
@@ -2235,9 +1765,8 @@ São meritórias aos olhos de Deus as privações voluntárias, com o objetivo d
 ✨ ▸ Fazei o bem aos vossos semelhantes e mais mérito tereis.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.724](#q724)
-↩️ Voltar para [Q.1000](#q1000)
+::: expand 🔗
+🏷️ [Privação](#privação)
 :::
 
 ---
@@ -2257,8 +1786,8 @@ Haverá privações voluntárias que sejam meritórias?
 ✨ ▸ Procurai saber a quem ela aproveita e tereis a resposta. Se somente serve para quem a pratica e o impede de fazer o bem, é egoísmo, seja qual for o pretexto com que entendam de colori-la. Privar-se a si mesmo e trabalhar para os outros, tal a verdadeira mortificação, segundo a caridade cristã.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.1000](#q1000)
+::: expand 🔗
+🏷️ [Mérito](#mérito)
 :::
 
 ---
@@ -2271,8 +1800,9 @@ Será racional a abstenção de certos alimentos, prescrita a diversos povos?
 ✨ ▸ Permitido é ao homem alimentar-se de tudo o que lhe não prejudique a saúde. Alguns legisladores, porém, com um fim útil, entenderam de interdizer o uso de certos alimentos e, para maior autoridade imprimirem às suas leis, apresentaram-nas como emanadas de Deus.
 :::
 
-::: expand 🏷️
-🏷️ Alimento, saúde e [↩️](#alimento)
+::: expand 🔗
+🏷️ [Alimento](#alimento)
+🏷️ [Saúde](#saúde)
 :::
 
 ---
@@ -2286,13 +1816,7 @@ A alimentação animal é, com relação ao homem, contrária à Lei da Natureza
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
 :::
 
 ---
@@ -2305,9 +1829,9 @@ Será meritório abster-se o homem da alimentação animal, ou de outra qualquer
 ✨ ▸ Sim, se praticar essa privação em benefício dos outros. Aos olhos de Deus, porém, só há mortificação, havendo privação séria e útil. Por isso é que qualificamos de hipócritas os que apenas aparentemente se privam de alguma coisa.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.720](#q720)
-🏷️ Alimentação, mortificação e [↩️](#alimentacao)
+::: expand 🔗
+🏷️ [Alimentação](#alimentação)
+🏷️ [Mortificação](#mortificação)
 :::
 
 ---
@@ -2320,8 +1844,10 @@ Que se deve pensar das mutilações operadas no corpo do homem ou dos animais?
 ✨ ▸ A que propósito, semelhante questão? Ainda uma vez: inquiri sempre vós mesmos se é útil aquilo de que porventura se trate. A Deus não pode agradar o que seja inútil e o que for nocivo lhe será sempre desagradável. Porque, ficai sabendo, Deus só é sensível aos sentimentos que elevam para Ele a alma. Obedecendo-lhe à Lei e não a violando é que podereis forrar-vos ao jugo da vossa matéria terrestre.
 :::
 
-::: expand 🏷️
-🏷️ Alma, sentimento e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Conservação](#conservação)
+🏷️ [Sentimento](#sentimento)
 :::
 
 ---
@@ -2334,8 +1860,8 @@ Visto que os sofrimentos deste mundo nos elevam, se os suportarmos devidamente, 
 ✨ ▸ Os sofrimentos naturais são os únicos que elevam, porque vêm de Deus. Os sofrimentos voluntários de nada servem, quando não concorrem para o bem de outrem. Supões que se adiantam no caminho do progresso os que abreviam a vida, mediante rigores sobre-humanos, como o fazem os bonzos, os faquires e alguns fanáticos de muitas seitas? Por que de preferência não trabalham pelo bem de seus semelhantes? Vistam o indigente; consolem o que chora; trabalhem pelo que está enfermo; sofram privações para alívio dos infelizes e então suas vidas serão úteis e, portanto, agradáveis a Deus. Sofrer alguém voluntariamente, apenas por seu próprio bem, é egoísmo; sofrer pelos outros é caridade: tais os preceitos do Cristo.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.1000](#q1000)
+::: expand 🔗
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -2349,13 +1875,9 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conservação](#conservação)
+🏷️ [Seres vivos](#seres-vivos)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -2372,16 +1894,6 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 ✨ ▸ Preciso é que tudo se destrua para renascer e se regenerar. Porque, o que chamais destruição não passa de uma transformação, que tem por fim a renovação e melhoria dos seres vivos.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.728.a {#q728a}
@@ -2393,13 +1905,11 @@ O instinto de destruição teria sido dado aos seres vivos por desígnios provid
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Destruição](#destruição)
+🏷️ [Homem](#homem)
+🏷️ [Matéria](#matéria)
+🏷️ [Princípio inteligente](#princípio-inteligente)
+🏷️ [Seres vivos](#seres-vivos)
 :::
 
 ---
@@ -2413,13 +1923,8 @@ Se a regeneração dos seres faz necessária a destruição, por que os cerca a 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Destruição](#destruição)
+🏷️ [Princípio inteligente](#princípio-inteligente)
 :::
 
 ---
@@ -2432,8 +1937,13 @@ Uma vez que a morte nos faz passar a uma vida melhor, nos livra dos males desta,
 ✨ ▸ Já dissemos que o homem deve procurar prolongar a vida, para cumprir a sua tarefa. Tal o motivo por que Deus lhe deu o instinto de conservação, instinto que o sustenta nas provas. A não ser assim, ele muito frequentemente se entregaria ao desânimo. A voz íntima, que o induz a repelir a morte, lhe diz que ainda pode realizar alguma coisa pelo seu progresso. A ameaça de um perigo constitui aviso para que se aproveite da dilação que Deus lhe concede, mas, ingrato! o homem rende graças mais vezes à sua estrela do que ao seu Criador.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.941](#q941)
+::: expand 🔗
+🏷️ [Ingratidão](#ingratidão)
+🏷️ [Instinto](#instinto)
+🏷️ [Medo](#medo)
+🏷️ [Morte](#morte)
+🏷️ [Provas](#provas)
+🏷️ [Vida](#vida)
 :::
 
 ---
@@ -2447,13 +1957,7 @@ Por que, ao lado dos meios de conservação, colocou a Natureza os agentes de de
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Destruição](#destruição)
 :::
 
 ---
@@ -2467,13 +1971,9 @@ Será idêntica, em todos os mundos, a necessidade de destruição?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Destruição](#destruição)
+🏷️ [Existência](#existência)
+🏷️ [Mundos](#mundos)
 :::
 
 ---
@@ -2487,13 +1987,8 @@ Entre os homens da Terra existirá sempre a necessidade da destruição?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Destruição](#destruição)
+🏷️ [Homem](#homem)
 :::
 
 ---
@@ -2506,12 +2001,11 @@ Em seu estado atual, tem o homem direito ilimitado de destruição sobre os anim
 ✨ ▸ Tal direito se acha regulado pela necessidade que ele tem de prover ao seu sustento e à sua segurança. O abuso jamais constituiu direito.
 :::
 
-::: expand 🏷️
-🏷️ Abuso, direito e [↩️](#abuso)
-
-🏷️ Animais, destruição sobre os [↩️](#animais)
-
-🏷️ Animais, respeito aos [↩️](#animais)
+::: expand 🔗
+🏷️ [Abuso](#abuso)
+🏷️ [Animais](#animais)
+🏷️ [Destruição](#destruição)
+🏷️ [Direito](#direito)
 :::
 
 ---
@@ -2525,13 +2019,8 @@ Que se deve pensar da destruição, quando ultrapassa os limites que as necessid
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Destruição](#destruição)
+🏷️ [Liberdade](#liberdade)
 :::
 
 ---
@@ -2545,13 +2034,9 @@ Especial merecimento terão os povos que levam ao excesso o escrúpulo, quanto �
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Destruição](#destruição)
+🏷️ [Necessário](#necessário)
+🏷️ [Zelo](#zelo)
 :::
 
 ---
@@ -2566,10 +2051,6 @@ Com que fim fere Deus a Humanidade por meio de flagelos destruidores?
 ✨ ▸ Para fazê-la progredir mais depressa. Já não dissemos ser a destruição uma necessidade para a regeneração moral dos Espíritos, que, em cada nova existência, sobem um degrau na escala do aperfeiçoamento? Preciso é que se veja o objetivo, para que os resultados possam ser apreciados. Somente do vosso ponto de vista pessoal os apreciais; daí vem que os qualificais de flagelos, por efeito do prejuízo que vos causam. Essas subversões, porém, são frequentemente necessárias para que mais pronto se dê o advento de uma melhor ordem de coisas e para que se realize em alguns anos o que teria exigido muitos séculos.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.744](#q744)
-:::
-
 ---
 
 ###### #️⃣ Q.738 {#q738}
@@ -2581,13 +2062,9 @@ Para conseguir a melhora da Humanidade, não podia Deus empregar outros meios qu
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Humanidade](#humanidade)
+🏷️ [Progresso](#progresso)
+🏷️ [Providência divina](#providência-divina)
 :::
 
 ---
@@ -2602,13 +2079,12 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Calamidades](#calamidades)
+🏷️ [Corpo](#corpo)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Eternidade](#eternidade)
+🏷️ [Morte](#morte)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -2624,13 +2100,9 @@ Venha por um flagelo a morte, ou por uma causa comum, ninguém deixa por isso de
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Flagelos](#flagelos)
+🏷️ [Vida](#vida)
+🏷️ [Vida futura](#vida-futura)
 :::
 
 ---
@@ -2644,13 +2116,7 @@ Têm os flagelos destruidores utilidade, do ponto de vista físico, não obstant
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Flagelos](#flagelos)
 :::
 
 ---
@@ -2664,13 +2130,8 @@ Não serão os flagelos, igualmente, provas morais para o homem, por porem-no a 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Flagelos](#flagelos)
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -2685,8 +2146,10 @@ Dado é ao homem conjurar os flagelos que o afligem?
 Na primeira linha dos flagelos destruidores, naturais e independentes do homem, devem ser colocadas a peste, a fome, as inundações e as intempéries fatais às produções da terra. Não tem, porém, o homem encontrado na Ciência, nas obras de arte, no aperfeiçoamento da agricultura, nos afolhamentos e nas irrigações, no estudo das condições higiênicas, meios de impedir, ou, quando menos, de atenuar muitos desastres? Certas regiões, outrora assoladas por terríveis flagelos, não estão hoje preservadas deles? Que não fará, portanto, o homem pelo seu bem-estar material, quando souber aproveitar-se de todos os recursos da sua inteligência e quando, aos cuidados da sua conservação pessoal, souber aliar o sentimento de verdadeira caridade para com os seus semelhantes?
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.707](#q707)
+::: expand 🔗
+🏷️ [Ciência](#ciência)
+🏷️ [Flagelos](#flagelos)
+🏷️ [Prevenção](#prevenção)
 :::
 
 ---
@@ -2701,16 +2164,6 @@ Que é o que impele o homem à guerra?
 ✨ ▸ Predominância da natureza animal sobre a natureza espiritual e transbordamento das paixões. No estado de barbaria, os povos um só direito conhecem — o do mais forte. Por isso é que, para tais povos, o de guerra é um estado normal. À medida que o homem progride, menos frequente se torna a guerra, porque ele lhe evita as causas, fazendo-a com humanidade, quando a sente necessária.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.743 {#q743}
@@ -2722,13 +2175,7 @@ Da face da Terra, algum dia, a guerra desaparecerá?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Guerra](#guerra)
 :::
 
 ---
@@ -2741,8 +2188,8 @@ Que objetivou a Providência, tornando necessária a guerra?
 ✨ ▸ A liberdade e o progresso.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.737](#q737)
+::: expand 🔗
+🏷️ [Guerra](#guerra)
 :::
 
 ---
@@ -2756,13 +2203,7 @@ Desde que a guerra deve ter por efeito produzir o advento da liberdade, como pod
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -2775,8 +2216,9 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 ✨ ▸ Grande culpado é esse e **muitas existências** lhe serão necessárias para expiar todos os assassínios de que haja sido causa, porquanto responderá por todos os homens cuja morte tenha causado para satisfazer à sua ambição.
 :::
 
-::: expand 🏷️
-🏷️ Ambição, culpa por guerras e [↩️](#ambicao)
+::: expand 🔗
+🏷️ [Ambição](#ambição)
+🏷️ [Guerra](#guerra)
 :::
 
 ---
@@ -2791,16 +2233,6 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 ✨ ▸ Grande crime, pois que aquele que tira a vida ao seu semelhante corta o fio de **uma existência de expiação ou de missão**. Aí é que está o mal.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.747 {#q747}
@@ -2812,13 +2244,8 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Assassinato](#assassinato)
+🏷️ [Justiça divina](#justiça-divina)
 :::
 
 ---
@@ -2832,13 +2259,8 @@ Em caso de legítima defesa, escusa Deus o assassínio?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Assassinato](#assassinato)
+🏷️ [Legítima defesa](#legítima-defesa)
 :::
 
 ---
@@ -2852,13 +2274,10 @@ Tem o homem culpa dos assassínios que pratica durante a guerra?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Assassinato](#assassinato)
+🏷️ [Crime](#crime)
+🏷️ [Crueldade](#crueldade)
+🏷️ [Guerra](#guerra)
 :::
 
 ---
@@ -2872,13 +2291,9 @@ Qual o mais condenável aos olhos de Deus, o parricídio ou o infanticídio?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Infanticídio](#infanticídio)
+🏷️ [Justiça divina](#justiça-divina)
+🏷️ [Parricídio](#parricídio)
 :::
 
 ---
@@ -2891,9 +2306,11 @@ Como se explica que entre alguns povos, já adiantados sob o ponto de vista inte
 ✨ ▸ O desenvolvimento intelectual não implica a necessidade do bem. Um Espírito, superior em inteligência, pode ser mau. Isso se dá com aquele que muito tem vivido sem se melhorar: apenas sabe.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.780b](q780b)
-↩️ Voltar para [Q.792a](q792a)
+::: expand 🔗
+🏷️ [Conhecimento](#conhecimento)
+🏷️ [Costume](#costume)
+🏷️ [Infanticídio](#infanticídio)
+🏷️ [Sentimento](#sentimento)
 :::
 
 ---
@@ -2908,16 +2325,6 @@ Poder-se-á ligar o sentimento de crueldade ao instinto de destruição?
 ✨ ▸ É o instinto de destruição no que tem de pior, porquanto, se, algumas vezes, a destruição constitui uma necessidade, com a crueldade jamais se dá o mesmo. Ela resulta sempre de uma natureza má.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.753 {#q753}
@@ -2929,13 +2336,9 @@ Por que razão a crueldade forma o caráter predominante dos povos primitivos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Crueldade](#crueldade)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Instinto](#instinto)
 :::
 
 ---
@@ -2951,13 +2354,9 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Crueldade](#crueldade)
+🏷️ [Desenvolvimento](#desenvolvimento)
+🏷️ [Homem](#homem)
 :::
 
 ---
@@ -2971,13 +2370,10 @@ Como pode dar-se que, no seio da mais adiantada civilização, se encontrem sere
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Civilização](#civilização)
+🏷️ [Crueldade](#crueldade)
+🏷️ [Espírito inferior](#espírito-inferior)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2991,13 +2387,9 @@ A sociedade dos homens de bem se verá algum dia expurgada dos seres malfazejos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Crueldade](#crueldade)
+🏷️ [Humanidade](#humanidade)
+🏷️ [Sociedade](#sociedade)
 :::
 
 ---
@@ -3012,16 +2404,6 @@ Pode-se considerar o duelo como um caso de legítima defesa?
 ✨ ▸ Não; é um assassínio e um costume absurdo, digno dos bárbaros. Com uma civilização mais adiantada e **mais moral**, o homem compreenderá que o duelo é tão ridículo quanto os combates que outrora se consideravam como o juízo de Deus.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.758 {#q758}
@@ -3033,13 +2415,7 @@ Poder-se-á considerar o duelo como um assassínio por parte daquele que, conhec
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Duelo](#duelo)
 :::
 
 ---
@@ -3055,13 +2431,8 @@ Em todos os casos, mesmo quando as probabilidades são idênticas para ambos os 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Assassinato](#assassinato)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -3075,13 +2446,7 @@ Que valor tem o que se chama **ponto de honra**, em matéria de duelo?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Humanidade](#humanidade)
 :::
 
 ---
@@ -3097,13 +2462,8 @@ Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ofensa](#ofensa)
+🏷️ [Reparação](#reparação)
 :::
 
 ---
@@ -3120,16 +2480,6 @@ Desaparecerá algum dia, da legislação humana, a pena de morte?
 Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto para com a sociedade moderna, no seio dos povos mais adiantados, quem não visse um progresso nas restrições postas à pena de morte e à natureza dos crimes a que a sua aplicação se acha limitada. Se, entre esses mesmos povos, compararmos as garantias de que a justiça procura cercar o acusado, a humanidade de que usa para com ele, mesmo quando o reconhece culpado, com o que se praticava em tempos que ainda não vão muito longe, não poderemos negar o avanço do gênero humano na senda do progresso.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.761 {#q761}
@@ -3141,13 +2491,8 @@ A lei de conservação dá ao homem o direito de preservar sua vida. Não usará
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criminoso](#criminoso)
+🏷️ [Punição](#punição)
 :::
 
 ---
@@ -3161,13 +2506,8 @@ A pena de morte, que pode vir a ser banida das sociedades civilizadas, não ter�
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Necessidade](#necessidade)
+🏷️ [Pena de morte](#pena-de-morte)
 :::
 
 ---
@@ -3181,13 +2521,8 @@ Será um indício de progresso da civilização a restrição dos casos em que s
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Civilização](#civilização)
+🏷️ [Época](#época)
 :::
 
 ---
@@ -3224,13 +2559,9 @@ Que se deve pensar da pena de morte imposta em nome de Deus?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inimigo](#inimigo)
+🏷️ [Pena de talião](#pena-de-talião)
+🏷️ [Perdão](#perdão)
 :::
 
 ---
@@ -3247,16 +2578,6 @@ A vida social está na Natureza?
 ✨ ▸ Certamente. Deus fez o homem para viver em sociedade. Não lhe deu inutilmente a palavra e todas as outras faculdades necessárias à vida de relação.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.767 {#q767}
@@ -3268,13 +2589,7 @@ A vida social está na Natureza?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -3290,13 +2605,10 @@ Homem nenhum possui faculdades completas. Mediante a união social é que elas u
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Homem](#homem)
+🏷️ [Progresso](#progresso)
+🏷️ [Relacionamento](#relacionamento)
+🏷️ [Sociedade](#sociedade)
 :::
 
 ---
@@ -3311,16 +2623,6 @@ Concebe-se que, como princípio geral, a vida social esteja na Natureza; mas, um
 ✨ ▸ Satisfação egoísta. Também há homens que experimentam satisfação na embriaguez. Merece-te isso aprovação? Não pode agradar a Deus uma vida pela qual o homem se condena a não ser útil a ninguém.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.770 {#q770}
@@ -3332,13 +2634,8 @@ Que se deve pensar dos que vivem em absoluta reclusão, fugindo ao pernicioso co
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Clausura](#clausura)
+🏷️ [Fuga](#fuga)
 :::
 
 ---
@@ -3352,13 +2649,8 @@ Mas não será meritório esse retraimento, se tiver por fim uma expiação, imp
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Expiação](#expiação)
+🏷️ [Próximo](#próximo)
 :::
 
 ---
@@ -3369,16 +2661,6 @@ Que pensar dos que fogem do mundo para se votarem ao mister de socorrer os desgr
 
 ::: spirit
 ✨ ▸ Esses se elevam, rebaixando-se. Têm o duplo mérito de se colocarem acima dos gozos materiais e de fazerem o bem, obedecendo à lei do trabalho.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -3392,13 +2674,7 @@ E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sociedade](#sociedade)
 :::
 
 ---
@@ -3414,13 +2690,8 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Palavra](#palavra)
+🏷️ [Voto de silêncio](#voto-de-silêncio)
 :::
 
 ---
@@ -3435,10 +2706,6 @@ Por que, entre os animais, os pais e os filhos deixam de reconhecer-se, desde qu
 ✨ ▸ Os animais vivem vida material e não vida moral. A ternura da mãe pelos filhos tem por princípio o instinto de conservação dos seres que ela deu à luz. Logo que esses seres podem cuidar de si mesmos, está ela com a sua tarefa concluída; nada mais lhe exige a Natureza. Por isso é que os abandona, a fim de se ocupar com os recém-vindos.
 :::
 
-::: expand 🏷️
-🏷️ Animais, vida dos [↩️](#animais)
-:::
-
 ---
 
 ###### #️⃣ Q.774 {#q774}
@@ -3449,8 +2716,11 @@ Há pessoas que, do fato de os animais ao cabo de certo tempo abandonarem suas c
 ✨ ▸ Diverso do dos animais é o destino do homem. Por que, então, quererem identificá-lo com estes? Há no homem alguma coisa mais, além das necessidades físicas: há a necessidade de progredir. Os laços sociais são necessários ao progresso e os de família mais apertados tornam os primeiros. Eis por que os segundos constituem uma Lei da Natureza. Quis Deus que, por essa forma, os homens aprendessem a amar-se como irmãos.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.205](#q205)
+::: expand 🔗
+🏷️ [Destino](#destino)
+🏷️ [Homem](#homem)
+🏷️ [Laços de família](#laços-de-família)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -3464,13 +2734,9 @@ Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Egoísmo](#egoísmo)
+🏷️ [Família](#família)
+🏷️ [Sociedade](#sociedade)
 :::
 
 ---
@@ -3489,16 +2755,6 @@ Serão coisas idênticas o estado de natureza e a lei natural?
 O estado de natureza é a infância da Humanidade e o ponto de partida do seu desenvolvimento intelectual e moral. Sendo perfectível e trazendo em si o gérmen do seu aperfeiçoamento, o homem não foi destinado a viver perpetuamente no estado de natureza, como não o foi a viver eternamente na infância. Aquele estado é transitório para o homem, que dele sai por virtude do progresso e da civilização. A lei natural, ao contrário, rege a Humanidade inteira e o homem se melhora à medida que melhor a compreende e pratica.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.777 {#q777}
@@ -3510,13 +2766,8 @@ Tendo o homem, no estado de natureza, menos necessidades, isento se acha das tri
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Estado de natureza](#estado-de-natureza)
+🏷️ [Felicidade](#felicidade)
 :::
 
 ---
@@ -3530,13 +2781,9 @@ Pode o homem retrogradar para o estado de natureza?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Destino](#destino)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Estado de natureza](#estado-de-natureza)
 :::
 
 ---
@@ -3551,16 +2798,6 @@ A força para progredir, haure-a o homem em si mesmo, ou o progresso é apenas f
 ✨ ▸ O homem se desenvolve por si mesmo, naturalmente, mas nem todos progridem simultaneamente e do mesmo modo. Dá-se então que os mais adiantados auxiliam o progresso dos outros, por meio do contato social.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.780 {#q780}
@@ -3571,9 +2808,8 @@ O progresso moral acompanha sempre o progresso intelectual?
 ✨ ▸ Decorre deste, mas nem sempre o segue imediatamente.
 :::
 
-::: expand 🏷️
-👉 Veja [Q.192](#q192) a [Q.365](#q365)
-↩️ Voltar para [Q.792](#q792a)
+::: expand 🔗
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -3587,13 +2823,10 @@ Como pode o progresso intelectual engendrar progresso moral?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem](#bem)
+🏷️ [Inteligência](#inteligência)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -3606,8 +2839,9 @@ Como é, nesse caso, que, muitas vezes, sucede serem os povos mais instruídos o
 ✨ ▸ O progresso completo constitui o objetivo. Os povos, porém, como os indivíduos, só passo a passo o atingem. Enquanto não se lhes haja desenvolvido o senso moral, pode mesmo acontecer que se sirvam da inteligência para a prática do mal. O moral e a inteligência são duas forças que só com o tempo chegam a equilibrar-se.
 :::
 
-::: expand 🏷️
-👉 Veja [Q.365](#q365) e [Q.751](#q751)
+::: expand 🔗
+🏷️ [Povos](#povos)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -3621,13 +2855,7 @@ Tem o homem o poder de paralisar a marcha do progresso?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -3643,13 +2871,7 @@ Sendo o progresso uma condição da natureza humana, não está no poder do home
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -3663,13 +2885,7 @@ Não há homens que de boa-fé obstam ao progresso, acreditando favorecê-lo, po
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -3685,13 +2901,7 @@ O homem não pode conservar-se indefinidamente na ignorância, porque tem de ati
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Humanidade](#humanidade)
 :::
 
 ---
@@ -3704,9 +2914,9 @@ Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto
 ✨ ▸ Enganas-te. Observa bem o conjunto e verás que o homem se adianta, pois que melhor compreende o que é mal, e vai dia a dia reprimindo os abusos. Faz-se mister que o mal chegue ao excesso, para tornar compreensível a necessidade do bem e das reformas.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.916](#q916)<br
-↩️ Voltar para [Q.917](#q917)
+::: expand 🔗
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -3723,9 +2933,9 @@ Qual o maior obstáculo ao progresso?
 Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas que, no entanto, não marcham lado a lado: o progresso intelectual e o progresso moral. Entre os povos civilizados, o primeiro tem recebido, no correr deste século, todos os incentivos. Por isso mesmo atingiu um grau a que ainda não chegara antes da época atual. Muito falta para que o segundo se ache no mesmo nível. Entretanto, comparando-se os costumes sociais de hoje com os de alguns séculos atrás, só um cego negaria o progresso realizado. Ora, sendo assim, por que haveria essa marcha ascendente de parar, com relação, de preferência, ao moral, do que com relação ao intelectual? Por que será impossível que entre o século XIX e o século XXIV haja, a esse respeito, tanta diferença quanta entre o século XIV e o século XIX? Duvidar fora pretender que a Humanidade está no apogeu da perfeição, o que seria absurdo, ou que ela não é perfectível moralmente, o que a experiência desmente.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.785](#q785)<br
-↩️ Voltar para [Q.917](#q917)
+::: expand 🔗
+🏷️ [Bem](#bem)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -3742,16 +2952,6 @@ Mostra-nos a História que muitos povos, depois de abalos que os revolveram prof
 Compreende mais o seguinte: eras pobre e habitavas um casebre; tornando-te rico, deixaste-o, para habitar um palácio. Então, um pobre diabo, como eras antes, vem tomar o lugar que ocupavas e fica muito contente, porque estava sem ter onde se abrigar. Pois bem! aprende que os Espíritos que, encarnados, constituem o povo degenerado não são os que o constituíam ao tempo do seu esplendor. Os de então, tendo-se adiantado, passaram para habitações mais perfeitas e progrediram, enquanto os outros, menos adiantados, tomaram o lugar que ficara vago e que também, a seu turno, terão um dia que deixar.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.787 {#q787}
@@ -3763,13 +2963,8 @@ Não há raças rebeldes, por sua natureza, ao progresso?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Raças](#raças)
+🏷️ [Rebeldia](#rebeldia)
 :::
 
 ---
@@ -3782,8 +2977,9 @@ Qual será a sorte futura das almas que animam essas raças?
 ✨ ▸ Chegarão, como todas as demais, à perfeição, passando por outras existências. Deus a ninguém deserda.
 :::
 
-::: expand 🏷️
-🏷️ Alma, destino da [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3797,13 +2993,7 @@ Assim, pode dar-se que os homens mais civilizados tenham sido selvagens e antrop
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Evolução](#evolução)
 :::
 
 ---
@@ -3817,13 +3007,8 @@ Os povos são individualidades coletivas que, como os indivíduos, passam pela i
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Harmonia](#harmonia)
+🏷️ [Povos](#povos)
 :::
 
 ---
@@ -3844,10 +3029,15 @@ Outra dificuldade, no entanto, apresenta aqui o sistema da unicidade das existê
 Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As almas vindas no tempo da civilização tiveram sua infância, como todas as outras, **mas já tinham vivido antes** e vêm adiantadas por efeito do progresso realizado anteriormente. Vêm atraídas por um meio que lhes é simpático e que se acha em relação com o estado em que atualmente se encontram. De sorte que, os cuidados dispensados à civilização de um povo não têm como consequência fazer que, de futuro, se criem almas mais perfeitas; têm, sim, o de atrair as que já progrediram, quer tenham vivido no seio do povo que se figura, ao tempo da sua barbaria, quer venham de outra parte. Aqui se nos depara igualmente a chave do progresso da Humanidade inteira. Quando todos os povos estiverem no mesmo nível, no tocante ao sentimento do bem, a Terra será ponto de reunião exclusivamente de bons Espíritos, que viverão fraternalmente unidos. Os maus, sentindo-se aí repelidos e deslocados, irão procurar, em mundos inferiores, o meio que lhes convém, até que sejam dignos de volver ao nosso, então transformado. Da teoria vulgar ainda resulta que os trabalhos de melhoria social só às gerações presentes e futuras aproveitam, sendo de resultados nulos para as gerações passadas, que cometeram o erro de vir muito cedo e que ficam sendo o que podem ser, sobrecarregadas com o peso de seus atos de barbaria. Segundo a Doutrina dos Espíritos, os progressos ulteriores aproveitam igualmente às gerações pretéritas, que voltam a viver em melhores condições e podem assim aperfeiçoar-se no foco da civilização.
 :::
 
-::: expand 🏷️
-👉 Veja item [222](222)
-↩️ Voltar para [Conclusão 04](#lde-5-04)
-🏷️ Alma, criação da [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Criação](#criação)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Humanidade](#humanidade)
+🏷️ [Lei divina](#lei-divina)
+🏷️ [Nação](#nação)
+🏷️ [Progresso](#progresso)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3862,16 +3052,6 @@ Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As alm
 ✨ ▸ Progresso incompleto. O homem não passa subitamente da infância à madureza.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.790.a {#q790a}
@@ -3880,16 +3060,6 @@ Será racional condenar-se a civilização?
 
 ::: spirit
 ✨ ▸ Condenai antes os que dela abusam e não a obra de Deus.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -3903,13 +3073,7 @@ Apurar-se-á algum dia a civilização, de modo a fazer que desapareçam os male
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Evolução](#evolução)
 :::
 
 ---
@@ -3923,13 +3087,7 @@ Por que não efetua a civilização, imediatamente, todo o bem que poderia produ
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem](#bem)
 :::
 
 ---
@@ -3942,8 +3100,9 @@ Não será também porque, criando novas necessidades, suscita paixões novas?
 ✨ ▸ É, e ainda porque não progridem simultaneamente todas as faculdades do Espírito. Tempo é preciso para tudo. De uma civilização incompleta não podeis esperar frutos perfeitos.
 :::
 
-::: expand 🏷️
- 👉 Veja (#q751)[Q.751</aa [Q.780](#q780)
+::: expand 🔗
+🏷️ [Necessidade](#necessidade)
+🏷️ [Paixão](#paixão)
 :::
 
 ---
@@ -3960,9 +3119,11 @@ A civilização, como todas as coisas, apresenta gradações diversas. Uma civil
 De duas nações que tenham chegado ao ápice da escala social, somente pode considerar-se a mais civilizada, na legítima acepção do termo, aquela em que exista menos egoísmo, menos cobiça e menos orgulho; em que os hábitos sejam mais intelectuais e morais do que materiais; em que a inteligência possa desenvolver-se com maior liberdade; em que haja mais bondade, boa-fé, benevolência e generosidade recíprocas; em que menos enraizados se mostrem os preconceitos de casta e de nascimento, por isso que tais preconceitos são incompatíveis com o verdadeiro amor do próximo; em que as leis nenhum privilégio consagrem e sejam as mesmas, assim para o último, como para o primeiro; em que com menos parcialidade se exerça a justiça; em que o fraco encontre sempre amparo contra o forte; em que a vida do homem, suas crenças e opiniões sejam melhormente respeitadas; em que exista menor número de desgraçados; enfim, em que todo homem de boa vontade esteja certo de lhe não faltar o necessário.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.930](#q930)
-↩️ Voltar para (#lde-5-04)[Conclusão 04]
+::: expand 🔗
+🏷️ [Civilização](#civilização)
+🏷️ [Nação](#nação)
+🏷️ [Reconhecimento](#reconhecimento)
+🏷️ [Vício](#vício)
 :::
 
 ---
@@ -3977,16 +3138,6 @@ Poderia a sociedade reger-se unicamente pelas leis naturais, sem o concurso das 
 ✨ ▸ Poderia, se todos as compreendessem bem. Se os homens as quisessem praticar, elas bastariam. A sociedade, porém, tem suas exigências. São-lhe necessárias leis especiais.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.795 {#q795}
@@ -3999,8 +3150,12 @@ Qual a causa da instabilidade das leis humanas?
 A civilização criou necessidades novas para o homem, necessidades relativas à posição social que ele ocupe. Tem-se então que regular, por meio de leis humanas, os direitos e deveres dessa posição. Influenciado, porém, pelas suas paixões, o homem não raro há criado direitos e deveres imaginários, que a lei natural condena e que os povos riscam de seus códigos à medida que progridem. A lei natural é imutável e a mesma para todos; a lei humana é variável e progressiva. Na infância das sociedades, esta só pôde consagrar o direito do mais forte.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.885](#q885)
+::: expand 🔗
+🏷️ [Direito](#direito)
+🏷️ [Justiça](#justiça)
+🏷️ [Legislação](#legislação)
+🏷️ [Lei humana](#lei-humana)
+🏷️ [Paixão](#paixão)
 :::
 
 ---
@@ -4014,13 +3169,8 @@ No estado atual da sociedade, a severidade das leis penais não constitui uma ne
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Educação](#educação)
+🏷️ [Sociedade](#sociedade)
 :::
 
 ---
@@ -4034,13 +3184,7 @@ Como poderá o homem ser levado a reformar suas leis?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reforma](#reforma)
 :::
 
 ---
@@ -4057,16 +3201,6 @@ O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como cren�
 As ideias só com o tempo se transformam; nunca de súbito. De geração em geração, elas se enfraquecem e acabam por desaparecer, paulatinamente, com os que as professavam, os quais vêm a ser substituídos por outros indivíduos imbuídos de novos princípios, como sucede com as ideias políticas. Vede o paganismo. Não há hoje mais quem professe as ideias religiosas dos tempos pagãos. Todavia, muitos séculos após o advento do Cristianismo, delas ainda restavam vestígios, que somente a completa renovação das raças conseguiu apagar. Assim será com o Espiritismo. Ele progride muito; mas, durante duas ou três gerações, ainda haverá um fermento de incredulidade, que unicamente o tempo aniquilará. Sua marcha, porém, será mais célere que a do Cristianismo, porque o próprio Cristianismo é quem lhe abre o caminho e serve de apoio. O Cristianismo tinha que destruir; o Espiritismo só tem que edificar.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.799 {#q799}
@@ -4077,8 +3211,11 @@ De que maneira pode o Espiritismo contribuir para o progresso?
 ✨ ▸ Destruindo o materialismo, que é uma das chagas da sociedade, ele faz que os homens compreendam onde se encontram seus verdadeiros interesses. Deixando a vida futura de estar velada pela dúvida, o homem perceberá melhor que, por meio do presente, lhe é dado preparar o seu futuro. Abolindo os prejuízos de seitas, castas e cores, ensina aos homens a grande solidariedade que os há de unir como irmãos.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.982](#q982)
+::: expand 🔗
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Materialismo](#materialismo)
+🏷️ [Pregação](#pregação)
+🏷️ [Solidariedade](#solidariedade)
 :::
 
 ---
@@ -4092,13 +3229,8 @@ Não será de temer que o Espiritismo não consiga triunfar da negligência dos 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ideia](#ideia)
 :::
 
 ---
@@ -4112,13 +3244,7 @@ Por que não ensinaram os Espíritos, em todos os tempos, o que ensinam hoje?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ensino](#ensino)
 :::
 
 ---
@@ -4132,13 +3258,10 @@ Visto que o Espiritismo tem que marcar um progresso da Humanidade, por que não 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Milagre](#milagre)
+🏷️ [Negação](#negação)
+🏷️ [Prodígio](#prodígio)
+🏷️ [Providência divina](#providência-divina)
 :::
 
 ---
@@ -4157,10 +3280,6 @@ Perante Deus, são iguais todos os homens?
 Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igualmente fracos, acham-se sujeitos às mesmas dores e o corpo do rico se destrói como o do pobre. Deus a nenhum homem concedeu superioridade natural, nem pelo nascimento, nem pela morte: todos, aos seus olhos, são iguais.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.831](#q831)
-:::
-
 ---
 
 #### 3.09.02 📄 Desigualdade das aptidões {#lde-3-09-02}
@@ -4171,12 +3290,6 @@ Por que não outorgou Deus as mesmas aptidões a todos os homens?
 
 ::: spirit
 ✨ ▸ Deus criou iguais todos os Espíritos, mas cada um destes vive há mais ou menos tempo, e, conseguintemente, tem feito maior ou menor soma de aquisições. A diferença entre eles está na diversidade dos graus da experiência alcançada e da vontade com que obram, vontade que é o livre-arbítrio. Daí o se aperfeiçoarem uns mais rapidamente do que outros, o que lhes dá aptidões diversas. Necessária é a variedade das aptidões, a fim de que cada um possa concorrer para a execução dos desígnios da Providência, no limite do desenvolvimento de suas forças físicas e intelectuais. O que um não faz, fá-lo outro. Assim é que cada qual tem seu papel útil a desempenhar. Ademais, sendo **solidários entre si todos os mundos**, necessário se torna que os habitantes dos mundos superiores, que, na sua maioria, foram criados antes do vosso, venham habitá-lo, para vos dar o exemplo.
-:::
-
-::: expand 🏷️
- 👉 Veja [Q.361](#q361)
-
-↩️ Voltar para [Q.993](#q993)
 :::
 
 ---
@@ -4191,8 +3304,12 @@ Passando de um mundo superior a outro inferior, conserva o Espírito, integralme
 Assim, a diversidade das aptidões entre os homens não deriva da natureza íntima da sua criação, mas do grau de aperfeiçoamento a que tenham chegado os Espíritos encarnados neles. Deus, portanto, não criou faculdades desiguais; permitiu, porém, que os Espíritos em graus diversos de desenvolvimento estivessem em contato, para que os mais adiantados pudessem auxiliar o progresso dos mais atrasados e também para que os homens, necessitando uns dos outros, compreendessem a lei de caridade que os deve unir.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.180](#q180)
+::: expand 🔗
+🏷️ [Aptidão](#aptidão)
+🏷️ [Criação](#criação)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Mundos](#mundos)
+🏷️ [Solidariedade](#solidariedade)
 :::
 
 ---
@@ -4207,16 +3324,6 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 ✨ ▸ Não; é obra do homem e não de Deus.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.806.a {#q806a}
@@ -4228,13 +3335,8 @@ Algum dia essa desigualdade desaparecerá?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desigualdades](#desigualdades)
+🏷️ [Mérito](#mérito)
 :::
 
 ---
@@ -4247,8 +3349,9 @@ Que se deve pensar dos que abusam da superioridade de suas posições sociais, p
 ✨ ▸ Merecem anátema! Ai deles! Serão, a seu turno, oprimidos: renascerão numa existência em que terão de sofrer tudo o que tiverem feito sofrer aos outros.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.684](#q684)
+::: expand 🔗
+🏷️ [Lei de causa e efeito](#lei-de-causa-e-efeito)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -4263,10 +3366,6 @@ A desigualdade das riquezas não se originará da das faculdades, em virtude da 
 ✨ ▸ Sim e não. Da velhacaria e do roubo, que dizes?
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.884](#q884)
-:::
-
 ---
 
 ###### #️⃣ Q.808.a {#q808a}
@@ -4278,13 +3377,7 @@ Mas, a riqueza herdada, essa não é fruto de paixões más.
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Riqueza](#riqueza)
 :::
 
 ---
@@ -4298,13 +3391,8 @@ Aos que, mais tarde, herdam uma riqueza inicialmente mal adquirida, alguma respo
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Responsabilidade](#responsabilidade)
+🏷️ [Riqueza](#riqueza)
 :::
 
 ---
@@ -4318,13 +3406,7 @@ Sem quebra da legalidade, quem quer que seja pode dispor de seus bens de modo ma
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bens](#bens)
 :::
 
 ---
@@ -4338,13 +3420,8 @@ Será possível e já terá existido a igualdade absoluta das riquezas?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Igualdade](#igualdade)
+🏷️ [Impedimento](#impedimento)
 :::
 
 ---
@@ -4358,13 +3435,9 @@ Há, no entanto, homens que julgam ser esse o remédio aos males da sociedade. Q
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Egoísmo](#egoísmo)
+🏷️ [Fracasso](#fracasso)
+🏷️ [Riqueza](#riqueza)
 :::
 
 ---
@@ -4378,13 +3451,7 @@ Por não ser possível a igualdade das riquezas, o mesmo se dará com o bem-esta
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem-estar](#bem-estar)
 :::
 
 ---
@@ -4398,13 +3465,8 @@ Será possível que todos se entendam?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Compreensão](#compreensão)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -4417,8 +3479,9 @@ Há pessoas que, por culpa sua, caem na miséria. Nenhuma responsabilidade caber
 ✨ ▸ Certamente. Já dissemos que a sociedade é muitas vezes a principal culpada de semelhante coisa. Ademais, não tem ela que velar pela educação moral dos seus membros? Quase sempre, é a má-educação que lhes falseia o critério, em vez de sufocar-lhes as tendências perniciosas.
 :::
 
-::: expand 🏷️
- 👉 Veja (#q685](#q685)[Q.685]
+::: expand 🔗
+🏷️ [Responsabilidade](#responsabilidade)
+🏷️ [Sociedade](#sociedade)
 :::
 
 ---
@@ -4433,12 +3496,6 @@ Por que Deus a uns concedeu as riquezas e o poder, e a outros, a miséria?
 ✨ ▸ Para experimentá-los de modos diferentes. Além disso, como sabeis, essas provas foram escolhidas pelos próprios Espíritos, que nelas, entretanto, sucumbem com frequência.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.925](#q925)
-
-↩️ Voltar para [Q.1001](#q1001)
-:::
-
 ---
 
 ###### #️⃣ Q.815 {#q815}
@@ -4450,13 +3507,8 @@ Qual das duas provas é mais terrível para o homem, a da desgraça ou a da riqu
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Miséria](#miséria)
+🏷️ [Riqueza](#riqueza)
 :::
 
 ---
@@ -4478,8 +3530,11 @@ A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e
 Mateus), cap. 19, vers. 24, ARC
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.266](#q266)
+::: expand 🔗
+🏷️ [Bem](#bem)
+🏷️ [Dificuldade](#dificuldade)
+🏷️ [Poder](#poder)
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -4501,16 +3556,6 @@ Donde provém a inferioridade moral da mulher em certos países?
 ✨ ▸ Do predomínio injusto e cruel que sobre ela assumiu o homem. É resultado das instituições sociais e do abuso da força sobre a fraqueza. Entre homens moralmente pouco adiantados, a força faz o direito.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.819 {#q819}
@@ -4522,13 +3567,8 @@ Com que fim mais fraca fisicamente do que o homem é a mulher?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Homem](#homem)
+🏷️ [Mulher](#mulher)
 :::
 
 ---
@@ -4544,13 +3584,9 @@ Deus apropriou a organização de cada ser às funções que lhe cumpre desempen
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dever](#dever)
+🏷️ [Escravidão](#escravidão)
+🏷️ [Sensibilidade](#sensibilidade)
 :::
 
 ---
@@ -4564,13 +3600,7 @@ As funções a que a mulher é destinada pela natureza terão importância tão 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Valor](#valor)
 :::
 
 ---
@@ -4584,13 +3614,7 @@ Sendo iguais perante a Lei de Deus, devem os homens ser iguais também perante a
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lei humana](#lei-humana)
 :::
 
 ---
@@ -4604,13 +3628,9 @@ Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a ig
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Emancipação](#emancipação)
+🏷️ [Encarnação](#encarnação)
+🏷️ [Legislação](#legislação)
 :::
 
 ---
@@ -4623,16 +3643,6 @@ Donde nasce o desejo que o homem sente de perpetuar sua memória por meio de mon
 
 ::: spirit
 ✨ ▸ Último ato de orgulho.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -4654,8 +3664,9 @@ Reprovais então, de modo absoluto, a pompa dos funerais?
 O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelmente todas as distinções humanas. Em vão tenta o rico perpetuar a sua memória, mandando erigir faustosos monumentos. O tempo os destruirá, como lhe consumirá o corpo. Assim o quer a Natureza. Menos perecível do que o seu túmulo será a lembrança de suas ações boas e más. A pompa dos funerais não o limpará das suas torpezas, nem o fará subir um degrau que seja na hierarquia espiritual.
 :::
 
-::: expand 🏷️
- 👉 Veja (#q320)[Q.320] e seguintes.
+::: expand 🔗
+🏷️ [Orgulho](#orgulho)
+🏷️ [Riqueza](#riqueza)
 :::
 
 ---
@@ -4670,16 +3681,6 @@ Haverá no mundo posições em que o homem possa jactar-se de gozar de absoluta 
 
 ::: spirit
 ✨ ▸ Não, porque todos precisais uns dos outros, assim os pequenos como os grandes.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -4701,13 +3702,7 @@ A obrigação de respeitar os direitos alheios tira ao homem o de pertencer-se a
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Liberdade](#liberdade)
 :::
 
 ---
@@ -4721,13 +3716,7 @@ Como se podem conciliar as opiniões liberais de certos homens com o despotismo 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Liberdade](#liberdade)
 :::
 
 ---
@@ -4741,13 +3730,7 @@ Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram nes
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Vida futura](#vida-futura)
 :::
 
 ---
@@ -4764,16 +3747,6 @@ Haverá homens que estejam, por natureza, destinados a ser propriedades de outro
 É contrária à Natureza a lei humana que consagra a escravidão, pois que assemelha o homem ao irracional e o degrada física e moralmente.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.830 {#q830}
@@ -4785,13 +3758,8 @@ Quando a escravidão faz parte dos costumes de um povo, são censuráveis os que
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Cristianismo](#cristianismo)
+🏷️ [Escravidão](#escravidão)
 :::
 
 ---
@@ -4804,8 +3772,8 @@ A desigualdade natural das aptidões não coloca certas raças humanas sob a dep
 ✨ ▸ Sim, mas para que estas as elevem, não para embrutecê-las ainda mais pela escravização. Durante longo tempo, os homens consideraram certas raças humanas como animais de trabalho, munidos de braços e mãos, e se julgaram com o direito de vender os dessas raças como bestas de carga. Consideram-se de sangue mais puro os que assim procedem. Insensatos! nada veem senão a matéria. Mais ou menos puro não é o sangue, porém o Espírito.
 :::
 
-::: expand 🏷️
- 👉 Veja (#q361)[Q.361</aa [Q.803](#q803)
+::: expand 🔗
+🏷️ [Raças](#raças)
 :::
 
 ---
@@ -4819,13 +3787,8 @@ Há, no entanto, homens que tratam seus escravos com humanidade; que não deixam
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Escravidão](#escravidão)
+🏷️ [Liberdade](#liberdade)
 :::
 
 ---
@@ -4840,16 +3803,6 @@ Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze
 ✨ ▸ No pensamento goza o homem de ilimitada liberdade, pois que não há como pôr-lhe peias. Pode-se-lhe deter o voo, não aniquilá-lo.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.834 {#q834}
@@ -4861,13 +3814,7 @@ Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Pensamento](#pensamento)
 :::
 
 ---
@@ -4882,16 +3829,6 @@ Será a liberdade de consciência uma consequência da de pensar?
 ✨ ▸ A consciência é um pensamento íntimo, que pertence ao homem, como todos os outros pensamentos.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.836 {#q836}
@@ -4903,13 +3840,9 @@ Tem o homem direito de pôr embaraços à liberdade de consciência?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Impedimento](#impedimento)
+🏷️ [Liberdade de consciência](#liberdade-de-consciência)
+🏷️ [Relacionamento](#relacionamento)
 :::
 
 ---
@@ -4923,13 +3856,8 @@ Que é o que resulta dos embaraços que se oponham à liberdade de consciência?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Liberdade de consciência](#liberdade-de-consciência)
+🏷️ [Oposição](#oposição)
 :::
 
 ---
@@ -4943,13 +3871,8 @@ Será respeitável toda e qualquer crença, ainda quando notoriamente falsa?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fé](#fé)
+🏷️ [Respeito](#respeito)
 :::
 
 ---
@@ -4963,13 +3886,7 @@ Será repreensível aquele que escandalize com a sua crença um outro que não p
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Escândalo](#escândalo)
 :::
 
 ---
@@ -4985,13 +3902,9 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Liberdade de consciência](#liberdade-de-consciência)
+🏷️ [Prevenção](#prevenção)
+🏷️ [Previdência](#previdência)
 :::
 
 ---
@@ -5005,13 +3918,7 @@ Para respeitar a liberdade de consciência, dever-se-á deixar que se propaguem 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Liberdade de consciência](#liberdade-de-consciência)
 :::
 
 ---
@@ -5025,13 +3932,7 @@ Por que indícios se poderá reconhecer, entre todas as doutrinas que alimentam 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Doutrina](#doutrina)
 :::
 
 ---
@@ -5046,16 +3947,6 @@ Tem o homem o livre-arbítrio de seus atos?
 ✨ ▸ Pois que tem a liberdade de pensar, tem igualmente a de obrar. Sem o livre-arbítrio, o homem seria máquina.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.844 {#q844}
@@ -5067,13 +3958,8 @@ Do livre-arbítrio goza o homem desde o seu nascimento?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Vida](#vida)
 :::
 
 ---
@@ -5086,8 +3972,8 @@ Não constituem obstáculos ao exercício do livre-arbítrio as predisposições
 ✨ ▸ As predisposições instintivas são as do Espírito antes de encarnar. Conforme seja este mais ou menos adiantado, elas podem arrastá-lo à prática de atos repreensíveis, no que será secundado pelos Espíritos que simpatizam com essas disposições. Não há, porém, arrastamento irresistível, uma vez que se tenha a vontade de resistir. Lembrai-vos de que querer é poder.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.361](#q361)
+::: expand 🔗
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -5100,8 +3986,8 @@ Sobre os atos da vida nenhuma influência exerce o organismo? E, se essa influê
 ✨ ▸ É inegável que sobre o Espírito exerce influência a matéria, que pode embaraçar-lhe as manifestações. Daí vem que, nos mundos em que os corpos são menos materiais do que na Terra, as faculdades se desdobram mais livremente. Porém, o instrumento não dá a faculdade. Além disso, cumpre se distingam as faculdades morais das intelectuais. Tendo um homem o instinto do assassínio, seu próprio Espírito é, indubitavelmente, quem possui esse instinto e quem lho dá; não são seus órgãos que lho dão. Semelhante ao bruto, e ainda pior do que este, se torna aquele que nulifica o seu pensamento, para só se ocupar com a matéria, pois que não cuida mais de se premunir contra o mal. Nisto é que incorre em falta, porquanto assim procede por vontade sua.
 :::
 
-::: expand 🏷️
- 👉 Veja [Influência do corpo](#lde-2-07-04)
+::: expand 🔗
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -5114,9 +4000,10 @@ A aberração das faculdades tira ao homem o livre-arbítrio?
 ✨ ▸ Já não é senhor do seu pensamento aquele cuja inteligência se ache turbada por uma causa qualquer e, desde então, já não tem liberdade. Essa aberração constitui muitas vezes uma punição para o Espírito que, porventura, tenha sido, noutra existência, fútil e orgulhoso, ou tenha feito mau uso de suas faculdades. Pode esse Espírito, em tal caso, renascer no corpo de um idiota, como o déspota no de um escravo e o mau rico no de um mendigo. O Espírito, porém, sofre por efeito desse constrangimento, de que tem perfeita consciência. Está aí a ação da matéria.
 :::
 
-::: expand 🏷️
- 👉 Veja (#q371)[Q.371] e seguintes
-🏷️ Aberração, faculdades do homem e [↩️](#aberracao)
+::: expand 🔗
+🏷️ [Aberração](#aberração)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -5130,13 +4017,8 @@ Servirá de escusa aos atos reprováveis o ser devida à embriaguez a aberraçã
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Razão](#razão)
 :::
 
 ---
@@ -5150,13 +4032,8 @@ Qual a faculdade predominante no homem em estado de selvageria: o instinto ou o 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Instinto](#instinto)
+🏷️ [Selvagem](#selvagem)
 :::
 
 ---
@@ -5170,13 +4047,8 @@ A posição social não constitui às vezes, para o homem, obstáculo à inteira
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dificuldade](#dificuldade)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -5189,16 +4061,6 @@ Haverá fatalidade nos acontecimentos da vida, conforme o sentido que se dá a e
 
 ::: spirit
 ✨ ▸ A fatalidade existe unicamente pela escolha que o Espírito fez, ao encarnar, desta ou daquela prova para sofrer. Escolhendo-a, instituiu para si uma espécie de destino, que é a consequência mesma da posição em que vem a achar-se colocado. Falo das provas físicas, pois, pelo que toca às provas morais e às tentações, o Espírito, conservando o livre-arbítrio quanto ao bem e ao mal, é sempre senhor de ceder ou de resistir. Ao vê-lo fraquear, um bom Espírito pode vir-lhe em auxílio, mas não pode influir sobre ele de maneira a dominar-lhe a vontade. Um Espírito mau, isto é, inferior, mostrando-lhe, exagerando aos seus olhos um perigo físico, o poderá abalar e amedrontar. Nem por isso, entretanto, a vontade do Espírito encarnado deixa de se conservar livre de quaisquer peias.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -5214,13 +4076,9 @@ As ideias exatas ou falsas que fazemos das coisas nos levam a ser bem ou malsuce
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Falta](#falta)
+🏷️ [Fatalidade](#fatalidade)
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -5234,13 +4092,7 @@ Algumas pessoas só escapam de um perigo mortal para cair em outro. Parece que n
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fatalidade](#fatalidade)
 :::
 
 ---
@@ -5254,13 +4106,7 @@ Assim, qualquer que seja o perigo que nos ameace, se a hora da morte ainda não 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fatalidade](#fatalidade)
 :::
 
 ---
@@ -5274,13 +4120,7 @@ Do fato de ser infalível a hora da morte, poder-se-á deduzir que sejam inútei
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -5293,8 +4133,8 @@ Com que fim nos faz a Providência correr perigos que nenhuma consequência deve
 ✨ ▸ O fato de ser a tua vida posta em perigo constitui um aviso que tu mesmo desejaste, a fim de te desviares do mal e te tornares melhor. Se escapas desse perigo, quando ainda sob a impressão do risco que correste, cogitas, mais ou menos seriamente, de te melhorares, conforme seja mais ou menos forte sobre ti a influência dos Espíritos bons. Sobrevindo o mau Espírito (digo mau, subentendendo o mal que ainda existe nele), entras a pensar que do mesmo modo escaparás a outros perigos e deixas que de novo tuas paixões se desencadeiem. Por meio dos perigos que correis, Deus vos lembra a vossa fraqueza e a fragilidade da vossa existência. Se examinardes a causa e a natureza do perigo, verificareis que, quase sempre, suas consequências teriam sido a punição de uma falta cometida ou da **negligência no cumprimento de um dever**. Deus, por essa forma, exorta o Espírito a cair em si e a se emendar.
 :::
 
-::: expand 🏷️
- 👉 Veja (#q526)[Q.526</aa [Q.532](#q532)
+::: expand 🔗
+🏷️ [Prevenção](#prevenção)
 :::
 
 ---
@@ -5308,13 +4148,7 @@ Sabe o Espírito antecipadamente de que gênero será sua morte?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Vida](#vida)
 :::
 
 ---
@@ -5327,8 +4161,8 @@ Há homens que afrontam os perigos dos combates, persuadidos, de certo modo, de 
 ✨ ▸ Muito amiúde tem o homem o pressentimento do seu fim, como pode ter o de que ainda não morrerá. Esse pressentimento lhe vem dos Espíritos seus protetores, que assim o advertem para que esteja pronto a partir, ou lhe fortalecem a coragem nos momentos em que mais dela necessita. Pode vir-lhe também da intuição que tem da existência que escolheu, ou da missão que aceitou e que sabe ter que cumprir.
 :::
 
-::: expand 🏷️
- 👉 Veja (#q411)[Q.411</aa [Q.522](#q522)
+::: expand 🔗
+🏷️ [Pressentimento](#pressentimento)
 :::
 
 ---
@@ -5342,13 +4176,7 @@ Por que razão os que pressentem a morte a temem geralmente menos do que os outr
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -5362,13 +4190,8 @@ Com todos os acidentes, que nos sobrevêm no curso da vida, se dá o mesmo que c
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnação](#desencarnação)
+🏷️ [Fatalidade](#fatalidade)
 :::
 
 ---
@@ -5382,13 +4205,7 @@ Haverá fatos que forçosamente devam dar-se e que os Espíritos não possam con
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -5402,13 +4219,7 @@ Pode o homem, pela sua vontade e por seus atos, fazer que se não deem acontecim
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -5424,13 +4235,8 @@ Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Crime](#crime)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -5444,13 +4250,7 @@ Pessoas existem que nunca logram bom êxito em coisa alguma, que parecem persegu
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fatalidade](#fatalidade)
 :::
 
 ---
@@ -5461,16 +4261,6 @@ Os costumes sociais não obrigam muitas vezes o homem a enveredar por um caminho
 
 ::: spirit
 ✨ ▸ São os homens e não Deus quem faz os costumes sociais. Se eles a estes se submetem, é porque lhes convêm. Tal submissão, portanto, representa um ato de livre-arbítrio, pois que, se o quisessem, poderiam libertar-se de semelhante jugo. Por que, então, se queixam? Falece-lhes razão para acusarem os costumes sociais. A culpa de tudo devem lançá-la ao tolo amor-próprio de que vivem cheios e que os faz preferirem morrer de fome a infringi-los. Ninguém lhes leva em conta esse sacrifício feito à opinião pública, ao passo que Deus lhes levará em conta o sacrifício que fizerem de suas vaidades. Não quer isto dizer que o homem deva afrontar sem necessidade aquela opinião, como fazem alguns em quem há mais originalidade do que verdadeira filosofia. Tanto desatino há em procurar alguém ser apontado a dedo, ou considerado animal curioso, quanto acerto em descer voluntariamente e sem murmurar, desde que não possa manter-se no alto da escala.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -5484,13 +4274,7 @@ Assim como há pessoas a quem a sorte em tudo é contrária, outras parecem favo
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -5504,13 +4288,7 @@ Como se explica que a boa sorte favoreça a algumas pessoas em circunstâncias c
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Tentação](#tentação)
 :::
 
 ---
@@ -5523,8 +4301,9 @@ Então, a fatalidade que parece presidir aos destinos materiais de nossa vida ta
 ✨ ▸ Tu mesmo escolheste a tua prova. Quanto mais rude ela for e melhor a suportares, tanto mais te elevarás. Os que passam a vida na abundância e na ventura humana são Espíritos pusilânimes, que permanecem estacionários. Assim, o número dos desafortunados é muito superior ao dos felizes deste mundo, atento que os Espíritos, na sua maioria, procuram as provas que lhes sejam mais proveitosas. Eles veem perfeitamente bem a futilidade das vossas grandezas e gozos. Acresce que a mais ditosa existência é sempre agitada, sempre perturbada, quando mais não seja, pela ausência da dor.
 :::
 
-::: expand 🏷️
- 👉 Veja (#q525)[Q.525</ae seguintes.
+::: expand 🔗
+🏷️ [Fatalidade](#fatalidade)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -5535,16 +4314,6 @@ Donde vem a expressão: Nascer sob uma boa estrela?
 
 ::: spirit
 ✨ ▸ Antiga superstição, que prendia às estrelas os destinos dos homens. Alegoria que algumas pessoas fazem a tolice de tomar ao pé da letra.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -5559,16 +4328,6 @@ Pode o futuro ser revelado ao homem?
 ✨ ▸ Em princípio, o futuro lhe é oculto e só em casos raros e excepcionais permite Deus que seja revelado.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.869 {#q869}
@@ -5577,16 +4336,6 @@ Com que fim o futuro se conserva oculto ao homem?
 
 ::: spirit
 ✨ ▸ Se o homem conhecesse o futuro, negligenciaria do presente e não obraria com a liberdade com que o faz, porque o dominaria a ideia de que, se uma coisa tem que acontecer, inútil será ocupar-se com ela, ou então procuraria obstar a que acontecesse. Não quis Deus que assim fosse, a fim de que cada um concorra para a realização das coisas, **até daquelas a que desejaria opor-se**. Assim é que tu mesmo preparas muitas vezes os acontecimentos que hão de sobrevir no curso da tua existência.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -5600,13 +4349,8 @@ Mas, se convém que o futuro permaneça oculto, por que permite Deus que seja re
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Futuro](#futuro)
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -5626,13 +4370,8 @@ Quanto mais se reflete nas consequências que teria para o homem o conhecimento 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Futuro](#futuro)
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -5670,8 +4409,15 @@ Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de t
 Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espécie humana e, como o nosso mundo é um dos menos adiantados, nele se conta maior número de Espíritos maus do que de bons. Tal a razão por que aí vemos tanta perversidade. Façamos, pois, todos os esforços para a este planeta não voltarmos, após a presente estada, e para merecermos ir repousar em mundo melhor, em um desses mundos privilegiados, onde não nos lembraremos da nossa passagem por aqui, senão como de um exílio temporário.
 :::
 
-::: expand 🏷️
-↩️ Voltar para [Q.917](#q917)
+::: expand 🔗
+🏷️ [Falta](#falta)
+🏷️ [Fatalidade](#fatalidade)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Morte](#morte)
+🏷️ [Mundo de expiação e provas](#mundo-de-expiação-e-provas)
+🏷️ [Tentação](#tentação)
+🏷️ [Vida corpórea](#vida-corpórea)
+🏷️ [Vontade](#vontade)
 :::
 
 ---
@@ -5688,16 +4434,6 @@ O sentimento da justiça está na natureza, ou é resultado de ideias adquiridas
 ✨ ▸ Está de tal modo na natureza, que vos revoltais à simples ideia de uma injustiça. É fora de dúvida que o progresso moral desenvolve esse sentimento, mas não o dá. Deus o pôs no coração do homem. Daí vem que, frequentemente, em homens simples e incultos se vos deparam noções mais exatas da justiça do que nos que possuem grande cabedal de saber.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.874 {#q874}
@@ -5709,13 +4445,7 @@ Sendo a justiça uma Lei da Natureza, como se explica que os homens a entendam d
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Deturpação](#deturpação)
 :::
 
 ---
@@ -5729,13 +4459,7 @@ Como se pode definir a justiça?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Justiça](#justiça)
 :::
 
 ---
@@ -5749,13 +4473,8 @@ Que é o que determina esses direitos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Consciência](#consciência)
+🏷️ [Direitos humanos](#direitos-humanos)
 :::
 
 ---
@@ -5786,13 +4505,9 @@ Da necessidade que o homem tem de viver em sociedade, nascem-lhe obrigações es
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Comportamento](#comportamento)
+🏷️ [Cristianismo](#cristianismo)
+🏷️ [Justiça](#justiça)
 :::
 
 ---
@@ -5806,13 +4521,7 @@ Podendo o homem enganar-se quanto à extensão do seu direito, que é o que lhe 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Direitos humanos](#direitos-humanos)
 :::
 
 ---
@@ -5826,13 +4535,10 @@ Mas se cada um atribuir a si mesmo direitos iguais aos de seu semelhante, que vi
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Direitos humanos](#direitos-humanos)
+🏷️ [Igualdade](#igualdade)
+🏷️ [Justiça](#justiça)
 :::
 
 ---
@@ -5846,13 +4552,7 @@ Qual seria o caráter do homem que praticasse a justiça em toda a sua pureza?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Justiça](#justiça)
 :::
 
 ---
@@ -5867,16 +4567,6 @@ Qual o primeiro de todos os direitos naturais do homem?
 ✨ ▸ O de viver. Por isso é que ninguém tem o de atentar contra a vida de seu semelhante, nem de fazer o que quer que possa comprometer-lhe a existência corporal.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.881 {#q881}
@@ -5888,13 +4578,7 @@ O direito de viver dá ao homem o de acumular bens que lhe permitam repousar qua
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Previdência](#previdência)
 :::
 
 ---
@@ -5922,13 +4606,8 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bens](#bens)
+🏷️ [Propriedade](#propriedade)
 :::
 
 ---
@@ -5942,13 +4621,7 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Egoísmo](#egoísmo)
 :::
 
 ---
@@ -5962,13 +4635,7 @@ Não será, entretanto, legítimo o desejo de possuir, uma vez que aquele que te
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Posse](#posse)
 :::
 
 ---
@@ -5986,13 +4653,8 @@ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bens](#bens)
+🏷️ [Propriedade](#propriedade)
 :::
 
 ---
@@ -6005,8 +4667,8 @@ Será ilimitado o direito de propriedade?
 ✨ ▸ É fora de dúvida que tudo o que legitimamente se adquire constitui uma propriedade. Mas, como havemos dito, a legislação dos homens, porque imperfeita, consagra muitos direitos convencionais, que a lei de justiça reprova. Essa a razão por que eles reformam suas leis, à medida que o progresso se efetua e que melhor compreendem a justiça. O que num século parece perfeito, afigura-se bárbaro no século seguinte.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.795](#q795)
+::: expand 🔗
+🏷️ [Propriedade](#propriedade)
 :::
 
 ---
@@ -6031,16 +4693,6 @@ Mateus, cap. 22, vers. 39, ARC
 A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.887 {#q887}
@@ -6051,8 +4703,10 @@ Jesus também disse: ✝️ ▸ *Amai a vossos inimigos* ( Mateus), cap. 05, ver
 ✨ ▸ Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 :::
 
-::: expand 🏷️
-🏷️ Amor, inimigos e [↩️](#amor)
+::: expand 🔗
+🏷️ [Amor](#amor)
+🏷️ [Inimigo](#inimigo)
+🏷️ [Inimizade](#inimizade)
 :::
 
 ---
@@ -6066,13 +4720,7 @@ Que se deve pensar da esmola?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Esmola](#esmola)
 :::
 
 ---
@@ -6103,8 +4751,15 @@ Não esqueçais nunca que o Espírito, qualquer que seja o grau de seu adiantame
 São Vicente de Paulo
 :::
 
-::: expand 🏷️
-🏷️ Amor, conceito de [↩️](#amor)
+::: expand 🔗
+🏷️ [Amor](#amor)
+🏷️ [Atração](#atração)
+🏷️ [Beneficência](#beneficência)
+🏷️ [Esmola](#esmola)
+🏷️ [Ignorância](#ignorância)
+🏷️ [Indulgência](#indulgência)
+🏷️ [Ostentação](#ostentação)
+🏷️ [Vicente de Paulo (São)](#vicente-de-paulo-são)
 :::
 
 ---
@@ -6117,8 +4772,8 @@ Não há homens que se veem condenados a mendigar por culpa sua?
 ✨ ▸ Sem dúvida; mas, se uma boa educação moral lhes houvera ensinado a praticar a Lei de Deus, não teriam caído nos excessos causadores da sua perdição. Disso, sobretudo, é que depende a melhoria do vosso planeta.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.707](#q707)
+::: expand 🔗
+🏷️ [Mendicância](#mendicância)
 :::
 
 ---
@@ -6133,11 +4788,6 @@ Será uma virtude o amor materno, ou um sentimento instintivo, comum aos homens 
 ✨ ▸ Uma e outra coisa. A Natureza deu à mãe o amor a seus filhos no interesse da conservação deles. No animal, porém, esse amor se limita às necessidades materiais; cessa quando desnecessários se tornam os cuidados. No homem, persiste pela vida inteira e comporta um devotamento e uma abnegação que são virtudes. Sobrevive mesmo à morte e acompanha o filho até no além-túmulo. Bem vedes que há nele coisa diversa do que há no amor do animal.
 :::
 
-::: expand 🏷️
-👉 Veja (#q205)[Q.205] a (#q.385)[Q.385]
-🏷️ Amor, materno e filial [↩️](#amor)
-:::
-
 ---
 
 ###### #️⃣ Q.891 {#q891}
@@ -6149,13 +4799,7 @@ Estando na Natureza o amor materno, como é que há mães que odeiam os filhos e
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mãe](#mãe)
 :::
 
 ---
@@ -6169,13 +4813,7 @@ Quando os filhos causam desgostos aos pais, não têm estes desculpa para o fato
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Filho](#filho)
 :::
 
 ---
@@ -6192,16 +4830,6 @@ Qual a mais meritória de todas as virtudes?
 ✨ ▸ Toda virtude tem seu mérito próprio, porque todas indicam progresso na senda do bem. Há virtude sempre que há resistência voluntária ao arrastamento dos maus pendores. A sublimidade da virtude, porém, está no sacrifício do interesse pessoal, pelo bem do próximo, sem pensamento oculto. A mais meritória é a que assenta na mais desinteressada caridade.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.894 {#q894}
@@ -6214,8 +4842,9 @@ Há pessoas que fazem o bem espontaneamente, sem que precisem vencer quaisquer s
 Como ainda estais longe da perfeição, tais exemplos vos espantam pelo contraste com o que tendes à vista e tanto mais os admirais, quanto mais raros são. Ficai sabendo, porém, que, nos mundos mais adiantados do que o vosso, constitui a regra o que entre vós representa a exceção. Em todos os pontos desses mundos, o sentimento do bem é espontâneo, porque somente bons Espíritos os habitam. Lá, uma só intenção maligna seria monstruosa exceção. Eis por que neles os homens são ditosos. O mesmo se dará na Terra, quando a Humanidade se houver transformado, quando compreender e praticar a caridade na sua verdadeira acepção.
 :::
 
-::: expand 🏷️
-↩️ Voltar para (#q897a)[Q.897a]
+::: expand 🔗
+🏷️ [Bem](#bem)
+🏷️ [Luta](#luta)
 :::
 
 ---
@@ -6231,13 +4860,10 @@ O apego às coisas materiais constitui sinal notório de inferioridade, porque, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Apego](#apego)
+🏷️ [Inferioridade](#inferioridade)
+🏷️ [Interesse](#interesse)
+🏷️ [Vício](#vício)
 :::
 
 ---
@@ -6251,13 +4877,8 @@ Há pessoas desinteressadas, mas sem discernimento, que prodigalizam seus havere
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Prodigalidade](#prodigalidade)
+🏷️ [Riqueza](#riqueza)
 :::
 
 ---
@@ -6271,13 +4892,7 @@ Merecerá reprovação aquele que faz o bem, sem visar a qualquer recompensa na 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem](#bem)
 :::
 
 ---
@@ -6290,8 +4905,8 @@ Contudo, todos alimentam o desejo muito natural de progredir, para forrar-se à 
 ✨ ▸ Não, certamente; mas aquele que faz o bem, sem ideia preconcebida, pelo só prazer de ser agradável a Deus e ao seu próximo que sofre, já se acha num certo grau de progresso, que lhe permitirá alcançar a felicidade muito mais depressa do que seu irmão que, mais positivo, faz o bem por cálculo e não impelido pelo ardor natural do seu coração.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.894](#q894)
+::: expand 🔗
+🏷️ [Bem](#bem)
 :::
 
 ---
@@ -6305,13 +4920,7 @@ Não haverá aqui uma distinção a estabelecer-se entre o bem que podemos fazer
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Egoísmo](#egoísmo)
 :::
 
 ---
@@ -6324,16 +4933,6 @@ Sendo a vida corpórea apenas uma estada temporária neste mundo e devendo o fut
 ✨ ▸ Sem dúvida. Primeiramente, isso vos põe em condições de auxiliar os vossos irmãos; depois, o vosso Espírito subirá mais depressa, se já houver progredido em inteligência. Nos intervalos das encarnações, aprendereis numa hora o que na Terra vos exigiria anos de aprendizado. Nenhum conhecimento é inútil; todos mais ou menos contribuem para o progresso, porque o Espírito, para ser perfeito, tem que saber tudo, e porque, cumprindo que o progresso se efetue em todos os sentidos, todas as ideias adquiridas ajudam o desenvolvimento do Espírito.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.899 {#q899}
@@ -6342,16 +4941,6 @@ Qual o mais culpado de dois homens ricos que empregam exclusivamente em gozos pe
 
 ::: spirit
 ✨ ▸ Aquele que conheceu os sofrimentos, porque sabe o que é sofrer. A dor, a que nenhum alívio procura dar, ele a conhece; porém, como frequentemente sucede, já dela se não lembra.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -6365,13 +4954,7 @@ Aquele que incessantemente acumula haveres, sem fazer o bem a quem quer que seja
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bens](#bens)
 :::
 
 ---
@@ -6384,8 +4967,9 @@ Figuremos dois avarentos, um dos quais nega a si mesmo o necessário e morre de 
 ✨ ▸ O que goza, porque é mais egoísta do que avarento. O outro já recebeu parte do seu castigo.
 :::
 
-::: expand 🏷️
-🏷️ Avareza, demonstrações da [↩️](#avareza)
+::: expand 🔗
+🏷️ [Avareza](#avareza)
+🏷️ [Egoísmo](#egoísmo)
 :::
 
 ---
@@ -6420,13 +5004,7 @@ Incorrerá em culpa aquele que sonda as chagas da sociedade e as expõe em públ
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Hipocrisia](#hipocrisia)
 :::
 
 ---
@@ -6440,13 +5018,8 @@ Como, em tal caso, julgar da pureza das intenções e da sinceridade do escritor
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Escritor](#escritor)
+🏷️ [Exemplo](#exemplo)
 :::
 
 ---
@@ -6459,8 +5032,9 @@ Alguns autores hão publicado belíssimas obras de grande moral, que auxiliam o 
 ✨ ▸ A moral sem as ações é o mesmo que a semente sem o trabalho. De que vos serve a semente, se não a fazeis dar frutos que vos alimentem? Grave é a culpa desses homens, porque dispunham de inteligência para compreender. Não praticando as máximas que ofereciam aos outros, renunciaram a colher-lhes os frutos.
 :::
 
-::: expand 🏷️
-🏷️ Autor, pregação e [↩️](#autor)
+::: expand 🔗
+🏷️ [Autor](#autor)
+🏷️ [Pregação](#pregação)
 :::
 
 ---
@@ -6473,8 +5047,11 @@ Será passível de censura o homem, por ter consciência do bem que faz e por co
 ✨ ▸ Pois que pode ter consciência do mal que pratica, do bem igualmente deve tê-la, a fim de saber se andou bem ou mal. Pesando todos os seus atos na balança da Lei de Deus e, sobretudo, na da lei de justiça, amor e caridade, é que poderá dizer a si mesmo se suas obras são boas ou más, que as poderá aprovar ou desaprovar. Não se lhe pode, portanto, censurar que reconheça haver triunfado dos maus pendores e que se sinta satisfeito, desde que de tal não se envaideça, porque então cairia noutra falta.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.919](#q919)
+::: expand 🔗
+🏷️ [Consciência](#consciência)
+🏷️ [Lei divina](#lei-divina)
+🏷️ [Virtude](#virtude)
+🏷️ [Vício](#vício)
 :::
 
 ---
@@ -6487,16 +5064,6 @@ Será substancialmente mau o princípio originário das paixões, embora esteja 
 
 ::: spirit
 ✨ ▸ Não; a paixão está no excesso de que se acresceu a vontade, visto que o princípio que lhe dá origem foi posto no homem para o bem, tanto que as paixões podem levá-lo à realização de grandes coisas. O abuso que delas se faz é que causa o mal.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -6518,13 +5085,8 @@ Todo sentimento que eleva o homem acima da natureza animal denota predominância
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Paixão](#paixão)
+🏷️ [Perfeição](#perfeição)
 :::
 
 ---
@@ -6544,8 +5106,8 @@ Pode o homem achar nos Espíritos eficaz assistência para triunfar de suas paix
 ✨ ▸ Se o pedir a Deus e ao seu bom gênio, com sinceridade, os bons Espíritos lhe virão certamente em auxílio, porquanto é essa a missão deles.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.459](#q459)
+::: expand 🔗
+🏷️ [Esforço](#esforço)
 :::
 
 ---
@@ -6559,13 +5121,8 @@ Não haverá paixões tão vivas e irresistíveis, que a vontade seja impotente 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inferioridade](#inferioridade)
+🏷️ [Paixão](#paixão)
 :::
 
 ---
@@ -6579,13 +5136,7 @@ Qual o meio mais eficiente de combater-se o predomínio da natureza corpórea?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Combate](#combate)
 :::
 
 ---
@@ -6600,16 +5151,6 @@ Dentre os vícios, qual o que se pode considerar radical?
 ✨ ▸ Temo-lo dito muitas vezes: o egoísmo. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo. Por mais que lhes deis combate, não chegareis a extirpá-los, enquanto não atacardes o mal pela raiz, enquanto não lhe houverdes destruído a causa. Tendam, pois, todos os esforços para esse efeito, porquanto aí é que está a verdadeira chaga da sociedade. Quem quiser, desde esta vida, ir aproximando-se da perfeição moral, deve expurgar o seu coração de todo sentimento de egoísmo, visto ser o egoísmo incompatível com a justiça, o amor e a caridade. Ele neutraliza todas as outras qualidades.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.914 {#q914}
@@ -6621,13 +5162,8 @@ Fundando-se o egoísmo no sentimento do interesse pessoal, bem difícil parece e
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Educação](#educação)
+🏷️ [Egoísmo](#egoísmo)
 :::
 
 ---
@@ -6647,8 +5183,10 @@ Longe de diminuir, o egoísmo cresce com a civilização, que, até, parece, o e
 ✨ ▸ Quanto maior é o mal, mais hediondo se torna. Era preciso que o egoísmo produzisse muito mal, para que compreensível se fizesse a necessidade de extirpá-lo. Os homens, quando se houverem despojado do egoísmo que os domina, viverão como irmãos, sem se fazerem mal algum, auxiliando-se reciprocamente, impelidos pelo sentimento mútuo da solidariedade. Então, o forte será o amparo e não o opressor do fraco e não mais serão vistos homens a quem falte o indispensável, porque todos praticarão a lei de justiça. Esse o reinado do bem, que os Espíritos estão incumbidos de preparar.
 :::
 
-::: expand 🏷️
- 👉 Veja [Q.784](#q784)
+::: expand 🔗
+🏷️ [Egoísmo](#egoísmo)
+🏷️ [Reencarnação](#reencarnação)
+🏷️ [Solidariedade](#solidariedade)
 :::
 
 ---
@@ -6681,20 +5219,14 @@ O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virt
 :::
 
 ::: expand 🔗
-🏷️ [berração {#aberracao}](#[])
-🏷️ [borto {#aborto}](#[])
-🏷️ [buso {#abuso}](#[])
-🏷️ [caso {#acaso}](#[])
-🏷️ [ção {#acao}](#[])
-🏷️ [ceitação {#aceitacao}](#[])
-🏷️ [certo {#acerto}](#[])
-🏷️ [dão {#adao}](#[])
-🏷️ [dolescência {#adolescencia}](#[])
-🏷️ [doração {#adoracao}](#[])
-🏷️ [feição {#afeicao}](#[])
-🏷️ [finidade {#afinidade}](#[])
+🏷️ [Combate](#combate)
+🏷️ [Educação](#educação)
+🏷️ [Egoísmo](#egoísmo)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Felicidade](#felicidade)
+🏷️ [Mal](#mal)
+🏷️ [Personalidade](#personalidade)
 :::
-
 
 ---
 
@@ -6724,12 +5256,6 @@ Não é vingativo. A exemplo de Jesus, perdoa as ofensas, para só se lembrar do
 Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza lhes concedem, como quer que os mesmos direitos lhe sejam respeitados.
 :::
 
-::: expand 🏷️
-🏷️ Amor, felicidade e [↩️](#amor)
-
-🏷️ Amor, homem de bem e o [↩️](#amor)
-:::
-
 ---
 
 #### 3.12.05 📄 Conhecimento de si mesmo {#lde-3-12-05}
@@ -6740,12 +5266,6 @@ Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de 
 
 ::: spirit
 ✨ ▸ Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo. [^24]
-:::
-
-::: expand 🏷️
-↩️ Voltar para [Q.906](#q906)
-
-🏷️ Autenticidade, autoconhecimento e [↩️](#autenticidade)
 :::
 
 ---
@@ -6769,12 +5289,18 @@ Santo Agostinho
 Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós.
 :::
 
-::: expand 🏷️
-🏷️ Ação, mérito e [↩️](#acao)
-
-🏷️ Agostinho, conselho de [↩️](#agostinho)
-
-🏷️ Avaliação, ações e atitudes do cotidiano em constante [↩️](#avaliacao)
+::: expand 🔗
+🏷️ [Agostinho (Santo)](#agostinho-santo)
+🏷️ [Avaliação](#avaliação)
+🏷️ [Ação](#ação)
+🏷️ [Consciência](#consciência)
+🏷️ [Falta](#falta)
+🏷️ [Fenômeno espírita](#fenômeno-espírita)
+🏷️ [Futuro](#futuro)
+🏷️ [Julgamento](#julgamento)
+🏷️ [Próximo](#próximo)
+🏷️ [Reforma íntima](#reforma-íntima)
+🏷️ [Valor](#valor)
 :::
 
 ---

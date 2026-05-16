@@ -1,64 +1,71 @@
 #!/usr/bin/env python3
 """
-Simple script: Parse 6.02 and group terms by section
+Build indice-by-section.md using the two files you provided
 """
 
-from pathlib import Path
 import re
+from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent
-PARTIAL_DIR = PROJECT_ROOT / "books/md/1-lde/partial"
-INDEX_FILE = PARTIAL_DIR / "lde-6.md"
+
+FULL_BOOK = PROJECT_ROOT / "lde-minus-indice.md"      # book without index
+INDEX_FILE = PROJECT_ROOT / "indice-minus-lde.md"    # only the index
+OUTPUT_FILE = PROJECT_ROOT / "indice-by-section.md"
 
 def main():
-    print("🔍 Parsing master index (6.02) and grouping terms by section...\n")
+    print("🔄 Building indice-by-section.md...")
 
-    # Load all terms from lde-6.md
+    # Load index terms
     terms = {}
-    current_term = None
-
     with open(INDEX_FILE, encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if line.startswith("🏷️ "):
-                current_term = line[4:].strip()
-                terms[current_term] = []
-            elif current_term and line and not line.startswith("🏷️"):
+                term = line[4:].strip()
+                terms[term] = []
+            elif term and line and not line.startswith("🏷️"):
                 match = re.search(r'\[#([^\]]+)\]', line)
                 if match:
-                    terms[current_term].append(match.group(1))
+                    terms[term].append(match.group(1))
 
-    print(f"✅ Loaded {len(terms)} unique terms from 6.02\n")
+    print(f"✅ Loaded {len(terms)} terms from index.")
 
-    # Now check which terms appear in each section
-    print("📊 Terms grouped by section:\n")
+    # Load full book and split into sections
+    with open(FULL_BOOK, encoding="utf-8") as f:
+        book_content = f.read()
 
-    for i in range(6):  # lde-0.md to lde-5.md
-        section_file = PARTIAL_DIR / f"lde-{i}.md"
-        if not section_file.exists():
-            continue
+    output = ["# Índice de Termos por Seção\n"]
 
-        content = section_file.read_text(encoding="utf-8").lower()
-        section_name = f"Section {i} (lde-{i}.md)"
+    # Find major sections (## or ###)
+    section_pattern = re.compile(r'^(#{2,4})\s+(.+?)(?:\s*{#|$)', re.MULTILINE)
+    sections = list(section_pattern.finditer(book_content))
 
-        print(f"→ {section_name}")
+    for i, match in enumerate(sections):
+        title = match.group(2).strip()
+        start = match.start()
+        
+        # Find end of this section (next heading)
+        end = sections[i+1].start() if i+1 < len(sections) else len(book_content)
+        section_text = book_content[start:end].lower()
+
+        # Find matching terms
         found = []
-
         for term in terms:
-            if term.lower() in content:
+            if term.lower() in section_text:
                 found.append(term)
 
         if found:
-            for term in sorted(found)[:25]:   # limit display
-                print(f"   • {term}")
-            if len(found) > 25:
-                print(f"   ... and {len(found)-25} more")
-        else:
-            print("   (no terms found)")
+            output.append(f"## {title}\n")
+            for term in sorted(found)[:25]:
+                anchor = terms[term][0] if terms[term] else ""
+                output.append(f"🏷️ [{term}](#{anchor})")
+            output.append("\n")
 
-        print()
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(output))
 
-    print("✅ Analysis complete!")
+    print(f"✅ Successfully created: {OUTPUT_FILE}")
+    print("You can now open it.")
 
 if __name__ == "__main__":
     main()

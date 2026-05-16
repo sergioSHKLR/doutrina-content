@@ -17,16 +17,6 @@ Que definição se pode dar dos Espíritos?
 📝 Nota – A palavra **Espírito** é empregada aqui para designar as individualidades dos seres extracorpóreos e não mais o elemento inteligente do Universo.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.77 {#q77}
@@ -38,13 +28,8 @@ Os Espíritos são seres distintos da Divindade ou serão simples emanações ou
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -58,13 +43,9 @@ Os Espíritos tiveram princípio ou existem, como Deus, de toda a eternidade?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Mistério](#mistério)
+🏷️ [Trabalho](#trabalho)
 :::
 
 ---
@@ -78,13 +59,9 @@ Pois que há dois elementos gerais no Universo: o elemento inteligente e o eleme
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criação](#criação)
+🏷️ [Matéria](#matéria)
+🏷️ [Princípio inteligente](#princípio-inteligente)
 :::
 
 ---
@@ -98,13 +75,7 @@ A criação dos Espíritos é permanente ou só se deu na origem dos tempos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Trabalho](#trabalho)
 :::
 
 ---
@@ -118,13 +89,7 @@ Os Espíritos se formam espontaneamente ou procedem uns dos outros?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -142,13 +107,7 @@ Será certo dizer-se que os Espíritos são imateriais?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -162,13 +121,8 @@ Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles em
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Imortalidade](#imortalidade)
 :::
 
 ---
@@ -181,16 +135,6 @@ Os Espíritos constituem um mundo à parte, fora daquele que vemos?
 
 ::: spirit
 ✨ ▸ ▸ Sim, o mundo dos Espíritos ou das inteligências incorpóreas.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -206,13 +150,7 @@ Qual dos dois, o mundo espírita ou o mundo corpóreo, é o principal, na ordem 
 ↩️ Voltar para [Q.738a](#q738a)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
 🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -226,13 +164,7 @@ O mundo corporal poderia deixar de existir, ou nunca ter existido, sem que isso 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
 🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -246,13 +178,9 @@ Ocupam os Espíritos uma região determinada e circunscrita no Espaço?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
+🏷️ [Erraticidade](#erraticidade)
 🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Povoamento](#povoamento)
 :::
 
 ---
@@ -265,16 +193,6 @@ Os Espíritos têm forma determinada, limitada e constante?
 
 ::: spirit
 ✨ ▸ ▸ Para vós, não; para nós, sim. O Espírito é, se quiserdes, uma chama, um clarão, ou uma centelha etérea.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -291,16 +209,6 @@ Essa chama ou centelha tem cor?
 👴🏻 ▸ Representam-se de ordinário os gênios com uma chama ou estrela na fronte. É uma alegoria, que lembra a natureza essencial dos Espíritos. Colocam-na no alto da cabeça, porque aí está a sede da inteligência.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.89 {#q89}
@@ -312,13 +220,9 @@ Os Espíritos gastam algum tempo para percorrer o Espaço?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Locomoção](#locomoção)
+🏷️ [Pensamento](#pensamento)
+🏷️ [Velocidade](#velocidade)
 :::
 
 ---
@@ -331,8 +235,10 @@ O pensamento não é a própria alma que se transporta?
 ✨ ▸ ▸ Quando o pensamento está em alguma parte, a alma também aí está, pois que é a alma que pensa. O pensamento é um atributo.
 :::
 
-::: expand 🏷️
-🏷️ Alma, pensamento e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Pensamento](#pensamento)
 :::
 
 ---
@@ -346,13 +252,7 @@ O Espírito que se transporta de um lugar a outro tem consciência da distância
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -366,13 +266,7 @@ A matéria opõe obstáculo aos Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -388,13 +282,8 @@ Têm os Espíritos o dom da ubiquidade? Por outras palavras: um Espírito pode d
 ↩️ Voltar para [Q.247](#q247)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Ubiquidade](#ubiquidade)
 :::
 
 ---
@@ -412,13 +301,7 @@ Todos os Espíritos irradiam com igual força?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Irradiação](#irradiação)
 :::
 
 ---
@@ -437,16 +320,6 @@ O Espírito, propriamente dito, nenhuma cobertura tem ou, como pretendem alguns,
 👴🏻 ▸ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância que, por comparação, se pode chamar perispírito, serve de envoltório ao Espírito propriamente dito.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.94 {#q94}
@@ -458,13 +331,7 @@ De onde tira o Espírito o seu invólucro semimaterial?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -478,13 +345,7 @@ Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio, to
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -498,13 +359,7 @@ O invólucro semimaterial do Espírito tem formas determinadas e pode ser percep
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -519,16 +374,6 @@ São iguais os Espíritos, ou há entre eles qualquer hierarquia?
 ✨ ▸ ▸ São de diferentes ordens, conforme o grau de perfeição que tenham alcançado.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.97 {#q97}
@@ -540,13 +385,9 @@ As ordens ou graus de perfeição dos Espíritos são em número determinado?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Classificação](#classificação)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Hierarquia](#hierarquia)
 :::
 
 ---
@@ -560,13 +401,7 @@ Os Espíritos da segunda ordem, para os quais o bem constitui a preocupação do
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito bom](#espírito-bom)
 :::
 
 ---
@@ -580,13 +415,8 @@ Os da terceira ordem são todos essencialmente maus?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito imperfeito](#espírito-imperfeito)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -606,16 +436,6 @@ Os Espíritos, em geral, admitem três categorias principais, ou três grandes d
 Esta divisão nos pareceu perfeitamente racional e com caracteres bem positivados. Só nos restava pôr em relevo, mediante subdivisões em número suficiente, os principais matizes do conjunto. Foi o que fizemos, com o concurso dos Espíritos, cujas benévolas instruções jamais nos faltaram.
 
 Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o grau de superioridade ou de inferioridade dos que possam entrar em relações conosco e, por conseguinte, o grau de confiança ou de estima que mereçam. É, de certo modo, a chave da ciência espírita, porquanto só ele pode explicar as anomalias que as comunicações apresentam, esclarecendo-nos acerca das desigualdades intelectuais e morais dos Espíritos. Faremos, todavia, notar que estes não ficam pertencendo, exclusivamente, a tal ou tal classe. Sendo sempre gradual o progresso deles e muitas vezes mais acentuado num sentido do que em outro, pode acontecer que muitos reúnam em si os caracteres de várias categorias, o que seus atos e linguagem tornam possível apreciar-se.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -641,16 +461,6 @@ Conservam a lembrança e a percepção dos sofrimentos da vida corpórea e essa 
 Podem compor cinco classes principais.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.102 {#q102}
@@ -667,13 +477,7 @@ Quando encarnados, os seres vivos que eles constituem se mostram propensos a tod
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos impuros](#espíritos-impuros)
 :::
 
 ---
@@ -686,13 +490,11 @@ Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Diabrete](#diabrete)
+🏷️ [Duende](#duende)
+🏷️ [Espíritos levianos](#espíritos-levianos)
+🏷️ [Gnomo](#gnomo)
+🏷️ [Trasgo](#trasgo)
 :::
 
 ---
@@ -703,13 +505,7 @@ Oitava classe. Espíritos pseudossábios. — Dispõem de conhecimentos bastante
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos pseudossábios](#espíritos-pseudossábios)
 :::
 
 ---
@@ -720,13 +516,7 @@ Sétima classe. Espíritos neutros. — Nem bastante bons para fazerem o bem, ne
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos neutros](#espíritos-neutros)
 :::
 
 ---
@@ -739,13 +529,7 @@ Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os d
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos batedores e perturbadores](#espíritos-batedores-e-perturbadores)
 :::
 
 ---
@@ -771,16 +555,6 @@ Podem ser divididos em quatro grupos principais:
 Quinta classe. Espíritos benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.109 {#q109}
@@ -789,13 +563,7 @@ Quarta classe. Espíritos sábios. — Distinguem-se especialmente pela amplitud
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos sábios](#espíritos-sábios)
 :::
 
 ---
@@ -806,13 +574,7 @@ Terceira classe. Espíritos de sabedoria. — As qualidades morais da ordem mais
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos sábios](#espíritos-sábios)
 :::
 
 ---
@@ -825,13 +587,8 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito bom](#espírito-bom)
+🏷️ [Espíritos superiores](#espíritos-superiores)
 :::
 
 ---
@@ -841,16 +598,6 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 ###### #️⃣ Q.112 {#q112}
 
 Caracteres gerais. — Nenhuma influência da matéria. Superioridade intelectual e moral absoluta, com relação aos Espíritos das outras ordens.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -863,13 +610,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos puros](#espíritos-puros)
 :::
 
 ---
@@ -882,16 +623,6 @@ Os Espíritos são bons ou maus por natureza, ou são eles mesmos que se melhora
 
 ::: spirit
 ✨ ▸ ▸ São os próprios Espíritos que se melhoram e, melhorando-se, passam de uma ordem inferior para outra mais elevada.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -907,13 +638,10 @@ Dos Espíritos, uns terão sido criados bons e outros maus?
 ↩️ Voltar para [Q.634](#q634)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Criação](#criação)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Perfeição](#perfeição)
 :::
 
 ---
@@ -927,13 +655,7 @@ Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as cri
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -965,13 +687,7 @@ Podem os Espíritos degenerar?
 ↩️ Voltar para [Q.612](#q612)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -992,13 +708,9 @@ Não podia Deus isentar os Espíritos das provas que lhes cumpre sofrer para che
 ↩️ Voltar para [Q.871](#q871)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Perfeição](#perfeição)
+🏷️ [Vida espiritual](#vida-espiritual)
 :::
 
 ---
@@ -1012,13 +724,8 @@ Todos os Espíritos passam pela fieira do mal para chegar ao bem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ignorância](#ignorância)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -1032,13 +739,7 @@ Por que alguns Espíritos seguiram o caminho do bem e outros o do mal?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -1052,13 +753,7 @@ Como podem os Espíritos, em sua origem, quando ainda não têm consciência de 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -1072,13 +767,9 @@ Donde vêm as influências que sobre ele se exercem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos imperfeitos](#espíritos-imperfeitos)
+🏷️ [Influenciação](#influenciação)
+🏷️ [Obsessão](#obsessão)
 :::
 
 ---
@@ -1092,13 +783,8 @@ Tal influência só se exerce sobre o Espírito em sua origem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reforma íntima](#reforma-íntima)
+🏷️ [Vida espiritual](#vida-espiritual)
 :::
 
 ---
@@ -1112,13 +798,7 @@ Por que há Deus permitido que os Espíritos possam tomar o caminho do mal?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -1132,13 +812,7 @@ Pois que há Espíritos que desde o princípio seguem o caminho do bem absoluto 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Classificação](#classificação)
 :::
 
 ---
@@ -1156,13 +830,8 @@ Os Espíritos que enveredaram pela senda do mal poderão chegar ao mesmo grau de
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Eternidade](#eternidade)
+🏷️ [Perfeição](#perfeição)
 :::
 
 ---
@@ -1176,13 +845,8 @@ Chegados ao grau supremo da perfeição, os Espíritos que andaram pelo caminho 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Perfeição](#perfeição)
 :::
 
 ---
@@ -1200,13 +864,9 @@ Os Espíritos são criados iguais quanto às faculdades intelectuais?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criação](#criação)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Perfeição](#perfeição)
 :::
 
 ---
@@ -1225,10 +885,6 @@ Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial
 👴🏻 ▸ A palavra **anjo** desperta geralmente a ideia de perfeição moral. Entretanto, ela se aplica muitas vezes à designação de todos os seres, bons e maus, que estão fora da Humanidade. Diz-se: o anjo bom e o anjo mau; o anjo de luz e o anjo das trevas. Neste caso, o termo é sinônimo de **Espírito** ou de **gênio**. Tomamo-lo aqui na sua melhor acepção.
 :::
 
-::: expand 🏷️
-🏷️ Anjo, demônio e [↩️](#anjo)
-:::
-
 ---
 
 ###### #️⃣ Q.129 {#q129}
@@ -1239,9 +895,9 @@ Os anjos hão percorrido todos os graus da escala?
 ✨ ▸ ▸ Percorreram todos os graus, mas do modo que havemos dito: uns, aceitando sem murmurar suas missões, chegaram depressa; outros, gastaram mais ou menos tempo para chegar à perfeição.
 :::
 
-::: expand 🏷️
-🏷️ Anjo, demônio e [↩️](#anjo)
-🏷️ Anjo, prefeição e [↩️](#anjo)
+::: expand 🔗
+🏷️ [Anjo](#anjo)
+🏷️ [Perfeição](#perfeição)
 :::
 
 ---
@@ -1254,8 +910,8 @@ Sendo errônea a opinião dos que admitem a existência de seres criados perfeit
 ✨ ▸ ▸ Fica sabendo que o mundo onde te achas não existe de toda a eternidade e que, muito tempo antes que ele existisse, já havia Espíritos que tinham atingido o grau supremo. Acreditaram os homens que eles eram assim desde todos os tempos.
 :::
 
-::: expand 🏷️
-🏷️ Anjo, demônio e [↩️](#anjo)
+::: expand 🔗
+🏷️ [Universo](#universo)
 :::
 
 ---
@@ -1290,9 +946,15 @@ Os homens fizeram com os demônios o que fizeram com os anjo. Como acreditaram n
 Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a Divindade e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da verdade etc. Os modernos representaram os anjos, os puros Espíritos, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao pé da letra, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo.
 :::
 
-::: expand 🏷️
-🏷️ Anjo, alegoria representativa de [↩️](#anjo)
-🏷️ Anjo, demônio e [↩️](#anjo)
+::: expand 🔗
+🏷️ [Anjo](#anjo)
+🏷️ [Deus](#deus)
+🏷️ [Doutrina](#doutrina)
+🏷️ [Jesus](#jesus)
+🏷️ [Linguagem](#linguagem)
+🏷️ [Lógica](#lógica)
+🏷️ [Satanás](#satanás)
+🏷️ [Tempo](#tempo)
 :::
 
 ---
@@ -1313,16 +975,6 @@ Qual o objetivo da encarnação dos Espíritos?
 👴🏻 ▸ A ação dos seres corpóreos é necessária à marcha do Universo. Deus, porém, na sua sabedoria, quis que nessa mesma ação eles encontrassem um meio de progredir e de se aproximar dele. Deste modo, por uma admirável lei da Providência, tudo se encadeia, tudo é solidário na Natureza.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.133 {#q133}
@@ -1334,13 +986,9 @@ Têm necessidade de encarnação os Espíritos que, desde o princípio, seguiram
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnação](#encarnação)
+🏷️ [Esforço](#esforço)
+🏷️ [Mérito](#mérito)
 :::
 
 ---
@@ -1354,13 +1002,9 @@ Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Imperfeição](#imperfeição)
+🏷️ [Perfeição](#perfeição)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -1375,11 +1019,6 @@ Que é a alma?
 ✨ ▸ ▸ Um Espírito encarnado.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
-🏷️ Alma, conceitos de [↩️](#alma)
-:::
-
 ---
 
 ###### #️⃣ Q.134.a {#q134a}
@@ -1390,9 +1029,8 @@ Que era a alma antes de se unir ao corpo?
 ✨ ▸ ▸ Espírito.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
-🏷️ Alma, conceitos de [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -1405,9 +1043,8 @@ As almas e os Espíritos são, portanto, idênticos, a mesma coisa?
 ✨ ▸ ▸ Sim, as almas não são senão os Espíritos. Antes de se unir ao corpo, a alma é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um invólucro carnal para se purificarem e esclarecerem.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
-🏷️ Alma, conceitos de [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -1420,8 +1057,9 @@ Há no homem alguma outra coisa além da alma e do corpo?
 ✨ ▸ ▸ Há o laço que liga a alma ao corpo.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
+::: expand 🔗
+🏷️ [Homem](#homem)
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -1444,8 +1082,12 @@ De que natureza é esse laço?
 3. o princípio intermediário, ou **perispírito**, substância semimaterial que serve de primeiro envoltório ao Espírito e liga a alma ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
 :::
 
-::: expand 🏷️
-🏷️ Alma, corpo, perispírito e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Corpo](#corpo)
+🏷️ [Homem](#homem)
+🏷️ [Matéria](#matéria)
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -1458,8 +1100,8 @@ A alma independe do princípio vital?
 ✨ ▸ ▸ O corpo não é mais do que envoltório, repetimo-lo constantemente.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
+::: expand 🔗
+🏷️ [Princípio vital](#princípio-vital)
 :::
 
 ---
@@ -1472,9 +1114,8 @@ Pode o corpo existir sem a alma?
 ✨ ▸ ▸ Pode; entretanto, desde que cessa a vida do corpo, a alma o abandona. Antes do nascimento, ainda não há união definitiva entre a alma e o corpo; enquanto, depois de essa união se haver estabelecido, a morte do corpo rompe os laços que o prendem à alma e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a alma não pode habitar um corpo privado de vida orgânica.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
-🏷️ Alma, existência do corpo e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -1487,9 +1128,8 @@ Que seria o nosso corpo, se não tivesse alma?
 ✨ ▸ ▸ Simples massa de carne sem inteligência, tudo o que quiserdes, exceto um homem.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
-🏷️ Alma, corpo físico e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -1505,13 +1145,8 @@ Um Espírito pode encarnar a um tempo em dois corpos diferentes?
 👉 Veja LDM, Cap. 7
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnação](#encarnação)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -1524,9 +1159,8 @@ Que se deve pensar da opinião dos que consideram a alma o princípio da vida ma
 ✨ ▸ ▸ É uma questão de palavras, com que nada temos. Começai por vos entenderdes mutuamente.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
-🏷️ Alma, vida material e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -1543,9 +1177,10 @@ Alguns Espíritos e, antes deles, alguns filósofos definiram a alma como: uma c
 👴🏻 ▸ O vocábulo **alma** se emprega para exprimir coisas muito diferentes. Uns chamam alma ao princípio da vida e, nesta acepção, se pode com acerto dizer, **figuradamente**, que a alma é uma centelha anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a morte, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da matéria e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de alma e nesta acepção é que se pode dizer que a alma é um Espírito encarnado. Dando da alma definições diversas, os Espíritos falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia, donde uma imensidade de equívocos e discussões. Eis por que os Espíritos superiores nos dizem que primeiro nos entendamos acerca das palavras.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
-🏷️ Alma, conceitos de [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Linguagem](#linguagem)
+🏷️ [Princípio vital](#princípio-vital)
 :::
 
 ---
@@ -1558,9 +1193,10 @@ Que se deve pensar da teoria da alma subdividida em tantas partes quantos são o
 ✨ ▸ ▸ Ainda isto depende do sentido que se empreste à palavra alma. Se se entende por alma o fluido vital, essa teoria tem razão de ser; se se entende por alma o Espírito encarnado, é errônea. Já dissemos que o Espírito é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
-🏷️ Alma, teoria da subdivisão da [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Fluido vital](#fluido-vital)
+🏷️ [Teoria](#teoria)
 :::
 
 ---
@@ -1577,8 +1213,9 @@ Entretanto, alguns Espíritos deram essa definição.
 👴🏻 ▸ A alma atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o Espírito que habita o corpo durante a vida e o deixa por ocasião da morte.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
+::: expand 🔗
+🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Fluido vital](#fluido-vital)
 :::
 
 ---
@@ -1591,8 +1228,8 @@ Há alguma coisa de verdadeiro na opinião dos que pretendem que a alma seja ext
 ✨ ▸ ▸ A alma não se acha encerrada no corpo, qual pássaro numa gaiola. Irradia e se manifesta exteriormente, como a luz através de um globo de vidro, ou como o som em torno de um centro de sonoridade. Neste sentido se pode dizer que a alma é exterior, sem que por isso constitua o envoltório do corpo. A alma tem dois invólucros: um, sutil e leve, é o primeiro, ao qual chamas perispírito; outro, grosseiro, material e pesado, o corpo. A alma é o centro de todos os envoltórios, como o germe em um núcleo, já o temos dito.
 :::
 
-::: expand 🏷️
-🏷️ Alma, invólucros da [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -1605,8 +1242,9 @@ Que dizeis dessa outra teoria segundo a qual a alma, numa criança, se vai compl
 ✨ ▸ ▸ O Espírito é uno e está todo na criança, como no adulto. Os órgãos, ou instrumentos das manifestações da alma, é que se desenvolvem e completam. Ainda aí tomam o efeito pela causa.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
+::: expand 🔗
+🏷️ [Criança](#criança)
+🏷️ [Encarnação](#encarnação)
 :::
 
 ---
@@ -1619,8 +1257,8 @@ Por que todos os Espíritos não definem do mesmo modo a alma?
 ✨ ▸ ▸ Os Espíritos não se acham todos esclarecidos igualmente sobre estes assuntos. Há Espíritos de inteligência ainda limitada, que não compreendem as coisas abstratas. São como as crianças entre vós. Também há Espíritos pseudossábios, que fazem alarde de palavras, para se imporem, ainda como sucede entre vós. Depois, os próprios Espíritos esclarecidos podem exprimir-se em termos diferentes, cujo valor, entretanto, é, substancialmente, o mesmo, sobretudo quando se trata de coisas que a vossa linguagem se mostra impotente para traduzir com clareza. Recorrem então a figuras, a comparações, que tomais como realidade.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
+::: expand 🔗
+🏷️ [Escala](#escala)
 :::
 
 ---
@@ -1633,10 +1271,8 @@ Que se deve entender por alma do mundo?
 ✨ ▸ ▸ O princípio universal da vida e da inteligência, do qual nascem as individualidades. Os que se servem dessa expressão, porém, não se compreendem, as mais das vezes, uns aos outros. O termo alma é tão elástico que cada um o interpreta ao sabor de suas fantasias. Também à Terra hão atribuído uma alma. Por alma da Terra se deve entender o conjunto dos Espíritos abnegados, que dirigem para o bem as vossas ações, quando os escutais, e que, de certo modo, são os lugares-tenentes de Deus com relação ao vosso planeta.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
-🏷️ Alma, do mundo da Terra [↩️](#alma)
-🏷️ Alma, elasticidade do termo [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -1649,8 +1285,8 @@ Como se explica que tantos filósofos antigos e modernos, durante tão longo tem
 ✨ ▸ ▸ Esses homens eram os precursores da eterna Doutrina Espírita , prepararam os caminhos. Eram homens e, como tais, se enganaram, tomando suas próprias ideias pela luz. No entanto, mesmo os seus erros servem para realçar a verdade, mostrando o pró e o contra. Demais, entre esses erros se encontram grandes verdades que um estudo comparativo torna apreensíveis.
 :::
 
-::: expand 🏷️
-🏷️ Alma [↩️](#alma)
+::: expand 🔗
+🏷️ [Precursor](#precursor)
 :::
 
 ---
@@ -1663,8 +1299,8 @@ A alma tem, no corpo, sede determinada e circunscrita?
 ✨ ▸ ▸ Não; porém, nos grandes gênios, em todos os que pensam muito, ela reside mais particularmente na cabeça, ao passo que ocupa principalmente o coração naqueles que muito sentem e cujas ações têm todas por objeto a Humanidade.
 :::
 
-::: expand 🏷️
-🏷️ Alma, sede da [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -1677,8 +1313,9 @@ Que se deve pensar da opinião dos que situam a alma num centro vital?
 ✨ ▸ ▸ Quer isso dizer que o Espírito habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais.
 :::
 
-::: expand 🏷️
-🏷️ Alma, corpo físico e sede da [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Corpo físico](#corpo-físico)
 :::
 
 ---
@@ -1691,16 +1328,6 @@ Por que os anatomistas, os fisiologistas e, em geral, os que aprofundam a ciênc
 
 ::: spirit
 ✨ ▸ ▸ O fisiologista refere tudo ao que vê. Orgulho dos homens, que julgam saber tudo e não admitem haja coisa alguma que lhes esteja acima do entendimento. A própria ciência que cultivam os enche de presunção. Pensam que a Natureza nada lhes pode conservar oculto.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1723,8 +1350,12 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 É erro dizê-lo e a missão do Espiritismo consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples presunção, de uma probabilidade sobre a qual cada um conjeture à vontade, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a fé e os tíbios a renovação do fervor e da confiança. O Espiritismo é, pois, o mais potente auxiliar da religião. Se ele aí está, é porque Deus o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à senda do bem pela perspectiva do futuro.
 :::
 
-::: expand 🏷️
-🏷️ Alma, questionamentos sobre a [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Inteligência](#inteligência)
+🏷️ [Materialismo](#materialismo)
+🏷️ [Nada](#nada)
 :::
 
 ---
@@ -1741,10 +1372,6 @@ Que sucede à alma no instante da morte?
 ✨ ▸ ▸ Volta a ser Espírito, isto é, volve ao mundo dos Espíritos, donde se apartara momentaneamente.
 :::
 
-::: expand 🏷️
-🏷️ Alma, morte e [↩️](#alma)
-:::
-
 ---
 
 ###### #️⃣ Q.150 {#q150}
@@ -1755,10 +1382,9 @@ A alma, após a morte, conserva a sua individualidade?
 ✨ ▸ ▸ Sim; jamais a perde. Que seria ela, se não a conservasse?
 :::
 
-::: expand 🏷️
-🏷️ Alma, individualidade da [↩️](#alma)
-
-🏷️ Alma, morte e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Individualidade](#individualidade)
 :::
 
 ---
@@ -1771,8 +1397,8 @@ Como comprova a alma a sua individualidade, uma vez que não tem mais corpo mate
 ✨ ▸ ▸ Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu perispírito.
 :::
 
-::: expand 🏷️
-🏷️ Alma, morte e [↩️](#alma)
+::: expand 🔗
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -1785,8 +1411,8 @@ A alma nada leva consigo deste mundo?
 ✨ ▸ ▸ Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na Terra.
 :::
 
-::: expand 🏷️
-🏷️ Alma, morte e [↩️](#alma)
+::: expand 🔗
+🏷️ [Mundo espiritual](#mundo-espiritual)
 :::
 
 ---
@@ -1799,10 +1425,9 @@ Que pensar da opinião dos que dizem que após a morte a alma retorna ao todo un
 ✨ ▸ ▸ O conjunto dos Espíritos não forma um todo? Não constitui um mundo completo? Quando estás numa assembleia, és parte integrante dela; mas, não obstante, conservas sempre a tua individualidade.
 :::
 
-::: expand 🏷️
-🏷️ Alma, morte e [↩️](#alma)
-
-🏷️ Alma, todo universal e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Individualidade](#individualidade)
 :::
 
 ---
@@ -1823,8 +1448,9 @@ Se as almas se confundissem num amálgama só teriam as qualidades do conjunto, 
 A diversidade infinita que apresentam, sob todos os aspectos, é a consequência mesma de constituírem individualidades diversas. Se, após a morte, só houvesse o que se chama o grande Todo, a absorver todas as individualidades, esse Todo seria uniforme e, então, as comunicações que se recebessem do mundo invisível seriam idênticas. Desde que, porém, lá se nos deparam seres bons e maus, sábios e ignorantes, felizes e desgraçados; que lá os há de todos os caracteres: alegres e tristes, levianos e ponderados etc., patente se faz que eles são seres distintos. A individualidade ainda mais evidente se torna, quando esses seres provam a sua identidade por indicações incontestáveis, particularidades individuais verificáveis, referentes às suas vidas terrestres. Também não pode ser posta em dúvida, quando se fazem visíveis nas aparições. A individualidade da alma nos era ensinada em teoria, como artigo de fé. O Espiritismo a torna manifesta e, de certo modo, material.
 :::
 
-::: expand 🏷️
-🏷️ Alma, morte e [↩️](#alma)
+::: expand 🔗
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Individualidade](#individualidade)
 :::
 
 ---
@@ -1837,8 +1463,9 @@ Em que sentido se deve entender a vida eterna?
 ✨ ▸ ▸ A vida do Espírito é que é eterna; a do corpo é transitória e passageira. Quando o corpo morre, a alma retoma a vida eterna.
 :::
 
-::: expand 🏷️
-🏷️ Alma, morte e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Vida](#vida)
 :::
 
 ---
@@ -1852,13 +1479,7 @@ Não seria mais exato chamar vida eterna a dos Espíritos puros, dos que, tendo 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Felicidade](#felicidade)
 :::
 
 ---
@@ -1877,10 +1498,6 @@ Não seria mais exato chamar vida eterna a dos Espíritos puros, dos que, tendo 
 👴🏻 ▸ Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
 :::
 
-::: expand 🏷️
-🏷️ Alma, separação do corpo [↩️](#alma)
-:::
-
 ---
 
 ###### #️⃣ Q.155 {#q155}
@@ -1894,13 +1511,7 @@ Como se opera a separação da alma e do corpo?
 ↩️ Voltar para [Q.957](#q957)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -1918,13 +1529,9 @@ A separação se dá instantaneamente por brusca transição? Haverá alguma lin
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnação](#desencarnação)
+🏷️ [Desprendimento](#desprendimento)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -1937,8 +1544,11 @@ A separação definitiva da alma e do corpo pode ocorrer antes da cessação com
 ✨ ▸ ▸ Na agonia, a alma, algumas vezes, já tem deixado o corpo; nada mais há que a vida orgânica. O homem já não tem consciência de si mesmo; entretanto, ainda lhe resta um sopro de vida orgânica. O corpo é a máquina que o coração põe em movimento. Existe, enquanto o coração faz circular nas veias o sangue, para o que não necessita da alma.
 :::
 
-::: expand 🏷️
-🏷️ Alma, separação definitiva do corpo [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Coração](#coração)
+🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -1951,8 +1561,9 @@ No momento da morte, a alma sente, alguma vez, qualquer aspiração ou êxtase q
 ✨ ▸ ▸ Muitas vezes a alma sente que se desfazem os laços que a prendem ao corpo. **Emprega então todos os esforços para desfazê-los inteiramente**. Já em parte desprendida da matéria, vê o futuro desdobrar-se diante de si e goza, por antecipação, do estado de Espírito.
 :::
 
-::: expand 🏷️
-🏷️ Alma, retorno ao mundo espiritual [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Pressentimento](#pressentimento)
 :::
 
 ---
@@ -1965,8 +1576,8 @@ O exemplo da lagarta que, primeiro, anda de rastos pela terra, depois se encerra
 ✨ ▸ ▸ Uma ideia acanhada. A imagem é boa; todavia, cumpre não seja tomada ao pé da letra, como frequentemente vos sucede.
 :::
 
-::: expand 🏷️
-🏷️ Além-túmulo, continuação da existência no [↩️](#alem-tumulo)
+::: expand 🔗
+🏷️ [Além-túmulo](#além-túmulo)
 :::
 
 ---
@@ -1979,8 +1590,10 @@ Que sensação experimenta a alma no momento em que reconhece estar no mundo dos
 ✨ ▸ ▸ Depende. Se praticaste o mal, impelido pelo desejo de o praticar, no primeiro momento te sentirás envergonhado de o haveres praticado. Com a alma do justo as coisas se passam de modo bem diferente. Ela se sente como que aliviada de grande peso, pois que não teme nenhum olhar perscrutador.
 :::
 
-::: expand 🏷️
-🏷️ Alma, retorno ao mundo espiritual [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Vida](#vida)
 :::
 
 ---
@@ -1994,13 +1607,7 @@ O Espírito se encontra imediatamente com os que conheceu na Terra e que morrera
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencontro](#reencontro)
 :::
 
 ---
@@ -2014,13 +1621,7 @@ Em caso de morte violenta e acidental, quando os órgãos ainda não se enfraque
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Separação](#separação)
 :::
 
 ---
@@ -2038,13 +1639,8 @@ Após a decapitação, por exemplo, conserva o homem por alguns instantes a cons
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Decapitação](#decapitação)
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -2063,16 +1659,6 @@ Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequênci
 
 ↩️ Voltar para [Q.319](#q319)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.164 {#q164}
@@ -2084,13 +1670,7 @@ A perturbação que se segue à separação da alma e do corpo é do mesmo grau 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Perturbação](#perturbação)
 :::
 
 ---
@@ -2119,13 +1699,11 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 ↩️ Voltar para [Q.982](#q982)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Morte](#morte)
+🏷️ [Perispírito](#perispírito)
+🏷️ [Perturbação](#perturbação)
+🏷️ [Vida espiritual](#vida-espiritual)
 :::
 
 ---
@@ -2144,16 +1722,6 @@ Como pode a alma, que não alcançou a perfeição durante a vida corpórea, aca
 
 ↩️ Voltar para [Q.330](#q330)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.166.a {#q166a}
@@ -2165,13 +1733,7 @@ Como realiza essa nova existência? Será pela sua transformação como Espírit
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2185,13 +1747,7 @@ A alma passa então por muitas existências corporais?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2205,13 +1761,8 @@ Parece resultar desse princípio que a alma, depois de haver deixado um corpo, t
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2232,13 +1783,7 @@ Qual o fim objetivado com a reencarnação?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2252,13 +1797,8 @@ Qual o fim objetivado com a reencarnação?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Progresso](#progresso)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2272,13 +1812,8 @@ O que fica sendo o Espírito depois da sua última encarnação?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito puro](#espírito-puro)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2305,16 +1840,6 @@ O homem, que tem consciência da sua inferioridade, haure consoladora esperança
 
 ↩️ Voltar para [Q.619](#q619)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 #### 2.04.03 📄 Encarnação nos diferentes mundos {#lde-2-04-03}
@@ -2329,16 +1854,6 @@ As nossas diversas existências corporais se verificam todas na Terra?
 
 ↩️ Voltar para [Q.985](#q985)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.173 {#q173}
@@ -2352,13 +1867,7 @@ A cada nova existência corporal a alma passa de um mundo para outro, ou pode te
 ↩️ Voltar para [Q.986](#q986)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Evolução](#evolução)
 :::
 
 ---
@@ -2372,13 +1881,7 @@ Podemos então reaparecer muitas vezes na Terra?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -2392,13 +1895,8 @@ Podemos voltar a este, depois de termos vivido em outros mundos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
+🏷️ [Universo](#universo)
 :::
 
 ---
@@ -2412,13 +1910,8 @@ Tornar a viver na Terra constitui uma necessidade?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -2432,13 +1925,7 @@ Haverá alguma vantagem em voltar-se a habitar a Terra?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -2449,16 +1936,6 @@ Não se seria mais feliz permanecendo na condição de Espírito?
 
 ::: spirit
 ✨ ▸ ▸ Não, não; estacionar-se-ia e o que se quer é caminhar para Deus.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -2472,13 +1949,8 @@ Depois de haverem encarnado noutros mundos, podem os Espíritos encarnar neste, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnação](#encarnação)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -2492,13 +1964,8 @@ Assim, homens há que estão na Terra pela primeira vez?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnação](#encarnação)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -2512,13 +1979,7 @@ Pode-se reconhecer, por um indício qualquer, que um Espírito está pela primei
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Convivência](#convivência)
 :::
 
 ---
@@ -2532,13 +1993,7 @@ Para chegar à perfeição e à suprema felicidade, destino final de todos os ho
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Perfeição](#perfeição)
 :::
 
 ---
@@ -2552,13 +2007,7 @@ Como se explica então a pluralidade de suas existências em um mesmo globo?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2572,13 +2021,8 @@ Podem os Espíritos encarnar em um mundo relativamente inferior a outro onde já
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Missão](#missão)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2592,13 +2036,8 @@ Mas não pode dar-se também por expiação? Não pode Deus degredar para mundos
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Expiação](#expiação)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2612,13 +2051,7 @@ Quais os que têm de recomeçar a mesma existência?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Existência](#existência)
 :::
 
 ---
@@ -2632,13 +2065,7 @@ Os seres que habitam cada mundo hão todos alcançado o mesmo nível de perfeiç
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Perfeição](#perfeição)
 :::
 
 ---
@@ -2654,13 +2081,7 @@ Passando deste planeta para outro, conserva o Espírito a inteligência que aqui
 ↩️ Voltar para [Q.805](#q805)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inteligência](#inteligência)
 :::
 
 ---
@@ -2674,13 +2095,7 @@ Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -2704,13 +2119,9 @@ A duração da vida, nos diferentes mundos, parece guardar proporção com o gra
 ↩️ Voltar para [Q.985](#q985)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Purificação](#purificação)
+🏷️ [Revelação](#revelação)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -2724,13 +2135,7 @@ Indo de um mundo para outro, o Espírito passa por nova infância?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Infância](#infância)
 :::
 
 ---
@@ -2744,13 +2149,8 @@ Tem o Espírito a faculdade de escolher o mundo em que passe a habitar?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Escolha](#escolha)
+🏷️ [Moradia](#moradia)
 :::
 
 ---
@@ -2764,13 +2164,7 @@ Se o Espírito nada pedir, que é o que determina o mundo em que ele reencarnar�
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2787,16 +2181,6 @@ O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo?
 👴🏻 ▸ É assim que as raças, que hoje povoam a Terra, desaparecerão um dia, substituídas por seres cada vez mais perfeitos, pois que essas novas raças transformadas sucederão às atuais, como estas sucederam a outras ainda mais grosseiras.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.186 {#q186}
@@ -2808,13 +2192,8 @@ Haverá mundos em que o Espírito, deixando de revestir corpos materiais, só te
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -2828,13 +2207,8 @@ Parece resultar daí que, entre o estado correspondente às últimas encarnaçõ
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito puro](#espírito-puro)
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -2845,16 +2219,6 @@ A substância do perispírito é a mesma em todos os mundos?
 
 ::: spirit
 ✨ ▸ ▸ Não; é mais ou menos etérea. Passando de um mundo a outro, o Espírito se reveste da matéria própria desse outro, operando-se, porém, essa mudança com a rapidez do relâmpago.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -2870,13 +2234,14 @@ Os Espíritos puros habitam mundos especiais, ou se acham no espaço universal, 
 ↩️ Voltar para [Q.613](#q613)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnação](#encarnação)
+🏷️ [Espírito puro](#espírito-puro)
+🏷️ [Espíritos superiores](#espíritos-superiores)
+🏷️ [Evolução](#evolução)
+🏷️ [Júpiter](#júpiter)
+🏷️ [Marte](#marte)
+🏷️ [Moradia](#moradia)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -2889,16 +2254,6 @@ Desde o início de sua formação, goza o Espírito da plenitude de suas faculda
 
 ::: spirit
 ✨ ▸ ▸ Não, pois que para o Espírito, como para o homem, também há infância. Em sua origem, a vida do Espírito é apenas instintiva. Ele mal tem consciência de si mesmo e de seus atos. A inteligência só pouco a pouco se desenvolve.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -2914,13 +2269,8 @@ Qual o estado da alma na sua primeira encarnação?
 ↩️ Voltar para [Q.607](#q607)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Alma](#alma)
+🏷️ [Encarnação](#encarnação)
 :::
 
 ---
@@ -2933,8 +2283,9 @@ As dos nossos selvagens são almas no estado de infância?
 ✨ ▸ ▸ De infância relativa, pois já são almas desenvolvidas, visto que já nutrem paixões.
 :::
 
-::: expand 🏷️
-🏷️ Alma, selvagens e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Selvagem](#selvagem)
 :::
 
 ---
@@ -2952,13 +2303,11 @@ Então, as paixões são um sinal de desenvolvimento?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Evolução](#evolução)
+🏷️ [Paixão](#paixão)
+🏷️ [Vida](#vida)
+🏷️ [Vida espiritual](#vida-espiritual)
 :::
 
 ---
@@ -2974,13 +2323,11 @@ Pode alguém, por um proceder impecável na vida atual, transpor todos os graus 
 ↩️ Voltar para [Q.780](#q780)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ciência](#ciência)
+🏷️ [Conhecimento](#conhecimento)
+🏷️ [Moral](#moral)
+🏷️ [Perfeição](#perfeição)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -2994,13 +2341,8 @@ Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma e
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
+🏷️ [Vida futura](#vida-futura)
 :::
 
 ---
@@ -3014,13 +2356,8 @@ Pode um homem, nas suas novas existências, descer mais baixo do que esteja na a
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3034,13 +2371,8 @@ Pode um homem, nas suas novas existências, descer mais baixo do que esteja na a
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3058,13 +2390,10 @@ A alma de um homem perverso pode tornar-se a de um homem de bem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Arrependimento](#arrependimento)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Homem](#homem)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3082,13 +2411,7 @@ A possibilidade de se melhorarem noutra existência não será de molde a fazer 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3102,13 +2425,9 @@ Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulaçõe
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
+🏷️ [Sofrimento](#sofrimento)
+🏷️ [Transmigração](#transmigração)
 :::
 
 ---
@@ -3126,13 +2445,8 @@ Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulaçõe
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -3145,16 +2459,6 @@ Poderá ser tão adiantado quanto o de um adulto o Espírito de uma criança que
 
 ::: spirit
 ✨ ▸ ▸ Algumas vezes o é muito mais, porquanto pode dar-se que muito mais já tenha vivido e adquirido maior soma de experiência, sobretudo se progrediu.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -3175,13 +2479,7 @@ Não tendo podido praticar o mal, o Espírito de uma criança que morreu em tenr
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3195,13 +2493,8 @@ Por que tão frequentemente a vida se interrompe na infância?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criança](#criança)
+🏷️ [Pais](#pais)
 :::
 
 ---
@@ -3223,13 +2516,10 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criança](#criança)
+🏷️ [Inocência](#inocência)
+🏷️ [Instinto](#instinto)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3244,16 +2534,6 @@ Têm sexos os Espíritos?
 ✨ ▸ ▸ Não como o entendeis, pois que os sexos dependem da organização. Há entre eles amor e simpatia, mas baseados na concordância dos sentimentos.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.201 {#q201}
@@ -3265,13 +2545,7 @@ Em nova existência, pode o Espírito que animou o corpo de um homem animar o de
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3289,13 +2563,7 @@ Quando errante, que prefere o Espírito: encarnar no corpo de um homem, ou no de
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3310,16 +2578,6 @@ Transmitem os pais aos filhos uma parcela de suas almas, ou se limitam a lhes da
 ✨ ▸ ▸ Dão-lhes apenas a vida animal, pois que a alma **é indivisível**. Um pai obtuso pode ter filhos inteligentes e vice-versa.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.204 {#q204}
@@ -3331,13 +2589,8 @@ Uma vez que temos tido muitas existências, a nossa parentela vai além da que a
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Parentela](#parentela)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3355,13 +2608,8 @@ A algumas pessoas a doutrina da reencarnação se afigura destruidora dos laços
 ↩️ Voltar para [Q.890](#q890)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Família](#família)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3375,13 +2623,9 @@ Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Genealogia](#genealogia)
+🏷️ [Orgulho](#orgulho)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3394,8 +2638,9 @@ Do fato de não haver filiação entre os Espíritos dos descendentes de qualque
 ✨ ▸ ▸ De modo nenhum. Todo homem deve considerar-se ditoso por pertencer a uma família em que encarnaram Espíritos elevados. Se bem os Espíritos não procedam uns dos outros, nem por isso menos afeição consagram aos que lhes estão ligados pelos elos da família, dado que muitas vezes eles são atraídos para tal ou qual família pela simpatia, ou pelos laços que anteriormente se estabeleceram. Mas ficai certos de que os vossos antepassados não se honram com o culto que lhes tributais por orgulho. Em vós não se refletem os méritos de que eles gozem, senão na medida dos esforços que empregais por seguir os bons exemplos que vos deram. Somente nestas condições lhes é grata e até mesmo útil a lembrança que deles guardais.
 :::
 
-::: expand 🏷️
-🏷️ Antpassados, culto aos [↩️](#antepassados)
+::: expand 🔗
+🏷️ [Antepassados](#antepassados)
+🏷️ [Parentela](#parentela)
 :::
 
 ---
@@ -3410,16 +2655,6 @@ Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirã
 ✨ ▸ ▸ Não, que diferentes são as almas ou Espíritos de uns e outros. O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.207.a {#q207a}
@@ -3431,13 +2666,7 @@ Donde se originam as parecenças morais que costuma haver entre pais e filhos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Filho](#filho)
 :::
 
 ---
@@ -3458,13 +2687,8 @@ Por que de pais bons e virtuosos nascem filhos de natureza perversa? Por outra: 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Influência](#influência)
+🏷️ [Pais](#pais)
 :::
 
 ---
@@ -3478,13 +2702,9 @@ Pelos seus pensamentos e preces podem os pais atrair para o corpo, em formação
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criança](#criança)
+🏷️ [Nascimento](#nascimento)
+🏷️ [Oração](#oração)
 :::
 
 ---
@@ -3498,13 +2718,7 @@ Donde deriva a semelhança de caráter que muitas vezes existe entre dois irmão
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Irmãos](#irmãos)
 :::
 
 ---
@@ -3517,8 +2731,8 @@ Há dois Espíritos, ou, por outra, duas almas, nas crianças cujos corpos nasce
 ✨ ▸ ▸ Sim, mas a semelhança entre elas é tal que faz vos pareçam, em muitos casos, uma só.
 :::
 
-::: expand 🏷️
-🏷️ Alma, irmãos siameses e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -3532,13 +2746,8 @@ Pois que nos gêmeos os Espíritos encarnam por simpatia, donde provém a avers�
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Gêmeos](#gêmeos)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3552,13 +2761,8 @@ Que se deve pensar dessas histórias de crianças que lutam no seio materno?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Gestação](#gestação)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3572,13 +2776,7 @@ O que dá origem ao caráter distintivo que se nota em cada povo?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Povos](#povos)
 :::
 
 ---
@@ -3594,13 +2792,7 @@ Em suas novas existências conservará o Espírito traços do caráter moral de 
 ↩️ Voltar para [Q.218b](#q218b)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3618,13 +2810,8 @@ E do caráter físico de suas existências pretéritas conserva o Espírito tra�
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
+🏷️ [Semelhança](#semelhança)
 :::
 
 ---
@@ -3639,16 +2826,6 @@ Encarnado, conserva o Espírito algum vestígio das percepções que teve e dos 
 ✨ ▸ ▸ Guarda vaga lembrança, que lhe dá o que se chama ideias inatas.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.218.a {#q218a}
@@ -3660,13 +2837,9 @@ Não é, então, quimérica a teoria das ideias inatas?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Ideias inatas](#ideias-inatas)
+🏷️ [Teoria](#teoria)
 :::
 
 ---
@@ -3682,13 +2855,7 @@ Grande conexão deve então haver entre duas existências consecutivas?
 👉 Veja [Q.216](#q216)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3702,13 +2869,8 @@ Qual a origem das faculdades extraordinárias dos indivíduos que, sem estudo pr
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Indivíduo](#indivíduo)
+🏷️ [Passado](#passado)
 :::
 
 ---
@@ -3722,13 +2884,8 @@ Pode o Espírito, mudando de corpo, perder algumas faculdades intelectuais, deix
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inteligência](#inteligência)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3742,13 +2899,9 @@ Dever-se-ão atribuir a uma lembrança retrospectiva o sentimento instintivo que
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ideias inatas](#ideias-inatas)
+🏷️ [Vida futura](#vida-futura)
 :::
 
 ---
@@ -3761,8 +2914,9 @@ Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina Esp
 ✨ ▸ ▸ Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição.
 :::
 
-::: expand 🏷️
-🏷️ Ancianidade, Espiritismo e [↩️](#ancianidade)
+::: expand 🔗
+🏷️ [Ancianidade](#ancianidade)
+🏷️ [Espiritismo](#espiritismo)
 :::
 
 ---
@@ -3862,16 +3016,6 @@ João, cap. 3, vers. 3.7, ARC
 ↩️ Voltar para [Q.619](#q619)
 ↩️ Voltar para [Q.789](#q789)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ### 2.06. 🗂️ Vida espírita {#lde-2-06}
@@ -3886,10 +3030,6 @@ A alma reencarna logo depois de se haver separado do corpo?
 ✨ ▸ ▸ Algumas vezes reencarna imediatamente, porém, de ordinário, só o faz depois de intervalos mais ou menos longos. Nos mundos superiores, a reencarnação é quase sempre imediata. Sendo aí menos grosseira a matéria corporal, o Espírito, quando encarnado nesses mundos, goza quase que de todas as suas faculdades de Espírito, sendo o seu estado normal o dos sonâmbulos lúcidos entre vós.
 :::
 
-::: expand 🏷️
-🏷️ Alma, reencarnação da [↩️](#alma)
-:::
-
 ---
 
 ###### #️⃣ Q.224 {#q224}
@@ -3900,8 +3040,10 @@ Que é a alma no intervalo das encarnações?
 ✨ ▸ ▸ Espírito errante, que aspira a novo destino, que espera.
 :::
 
-::: expand 🏷️
-🏷️ Alma, Espírito errante e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Errante](#errante)
+🏷️ [Espírito errante](#espírito-errante)
 :::
 
 ---
@@ -3915,13 +3057,7 @@ Quanto podem durar esses intervalos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Erraticidade](#erraticidade)
 :::
 
 ---
@@ -3935,13 +3071,8 @@ Essa duração depende da vontade do Espírito, ou lhe pode ser imposta como exp
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Erraticidade](#erraticidade)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -3955,13 +3086,8 @@ A erraticidade é, por si só, um sinal de inferioridade dos Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Erraticidade](#erraticidade)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -3979,13 +3105,9 @@ Poder-se-á dizer que são errantes todos os Espíritos que não estão encarnad
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnado](#encarnado)
+🏷️ [Encarnação](#encarnação)
+🏷️ [Espírito errante](#espírito-errante)
 :::
 
 ---
@@ -3999,13 +3121,7 @@ De que modo se instruem os Espíritos errantes? Certo não o fazem do mesmo modo
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito errante](#espírito-errante)
 :::
 
 ---
@@ -4019,13 +3135,7 @@ Conservam os Espíritos algumas de suas paixões humanas?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Paixão](#paixão)
 :::
 
 ---
@@ -4039,13 +3149,7 @@ Por que, deixando a Terra, não deixam aí os Espíritos todas as más paixões,
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnação](#desencarnação)
 :::
 
 ---
@@ -4059,13 +3163,8 @@ Na erraticidade, o Espírito progride?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Erraticidade](#erraticidade)
+🏷️ [Evolução](#evolução)
 :::
 
 ---
@@ -4079,13 +3178,7 @@ São felizes ou desgraçados os Espíritos errantes?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Felicidade](#felicidade)
 :::
 
 ---
@@ -4099,13 +3192,7 @@ Podem os Espíritos errantes ir a todos os mundos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
 🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -4119,13 +3206,8 @@ Os Espíritos já purificados descem aos mundos inferiores?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito puro](#espírito-puro)
+🏷️ [Orientação](#orientação)
 :::
 
 ---
@@ -4140,16 +3222,6 @@ Há, de fato, como já foi dito, mundos que servem de estações ou pontos de re
 ✨ ▸ ▸ Sim, há mundos particularmente destinados aos seres errantes, mundos que lhes podem servir de habitação temporária, espécies de bivaques, de campos onde descansem de uma demasiado longa erraticidade, estado este sempre um tanto penoso. São, entre os outros mundos, posições intermédias, graduadas de acordo com a natureza dos Espíritos que a elas podem ter acesso e onde eles gozam de maior ou menor bem-estar.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.234.a {#q234a}
@@ -4161,13 +3233,7 @@ Os Espíritos que habitam esses mundos podem deixá-los livremente?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Colônia](#colônia)
 :::
 
 ---
@@ -4181,13 +3247,8 @@ Enquanto permanecem nos mundos transitórios, os Espíritos progridem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Colônia](#colônia)
+🏷️ [Mundos transitórios](#mundos-transitórios)
 :::
 
 ---
@@ -4201,13 +3262,8 @@ Pela sua natureza especial, os mundos transitórios se conservam perpetuamente d
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Colônia](#colônia)
+🏷️ [Mundos transitórios](#mundos-transitórios)
 :::
 
 ---
@@ -4221,13 +3277,8 @@ Esses mundos são ao mesmo tempo habitados por seres corpóreos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Colônia](#colônia)
+🏷️ [Mundos transitórios](#mundos-transitórios)
 :::
 
 ---
@@ -4241,13 +3292,7 @@ Esses mundos são ao mesmo tempo habitados por seres corpóreos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Esterilidade](#esterilidade)
 :::
 
 ---
@@ -4261,13 +3306,7 @@ Os mundos dessa categoria carecem então de belezas naturais?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Natureza](#natureza)
 :::
 
 ---
@@ -4281,13 +3320,8 @@ Sendo transitório o estado de semelhantes mundos, a Terra pertencerá algum dia
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mundos transitórios](#mundos-transitórios)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -4305,13 +3339,9 @@ Em que época?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Começo dos tempos](#começo-dos-tempos)
+🏷️ [Natureza](#natureza)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -4329,16 +3359,6 @@ Uma vez de volta ao mundo dos Espíritos, conserva a alma as percepções que ti
 ↩️ Voltar para [Q.965](#q965)
 ↩️ Voltar para [Q.973](#q973)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.238 {#q238}
@@ -4350,13 +3370,8 @@ São ilimitadas as percepções e os conhecimentos dos Espíritos? Numa palavra:
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Perfeição](#perfeição)
+🏷️ [Sabedoria](#sabedoria)
 :::
 
 ---
@@ -4370,13 +3385,7 @@ Conhecem os Espíritos o princípio das coisas?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conhecimento](#conhecimento)
 :::
 
 ---
@@ -4396,13 +3405,8 @@ A duração, os Espíritos a compreendem como nós?
 ↩️ Voltar para [Q.1005](#q1005)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Tempo](#tempo)
 :::
 
 ---
@@ -4416,13 +3420,8 @@ Os Espíritos fazem do presente mais precisa e exata ideia do que nós?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Percepção](#percepção)
+🏷️ [Presente](#presente)
 :::
 
 ---
@@ -4436,13 +3435,7 @@ Como é que os Espíritos têm conhecimento do passado? E esse conhecimento lhes
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Passado](#passado)
 :::
 
 ---
@@ -4456,13 +3449,7 @@ E o futuro, os Espíritos o conhecem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Futuro](#futuro)
 :::
 
 ---
@@ -4476,13 +3463,8 @@ Os Espíritos que alcançaram a perfeição absoluta têm conhecimento completo 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito puro](#espírito-puro)
+🏷️ [Futuro](#futuro)
 :::
 
 ---
@@ -4496,13 +3478,8 @@ Os Espíritos veem a Deus?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Visão](#visão)
 :::
 
 ---
@@ -4516,13 +3493,7 @@ Quando um Espírito inferior diz que Deus lhe proíbe ou permite uma coisa, como
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito inferior](#espírito-inferior)
 :::
 
 ---
@@ -4536,13 +3507,7 @@ Deus transmite diretamente a ordem ao Espírito, ou por intermédio de outros Es
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Comunicação](#comunicação)
 :::
 
 ---
@@ -4556,13 +3521,8 @@ O Espírito tem circunscrita a visão como os seres corpóreos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Visão](#visão)
 :::
 
 ---
@@ -4576,13 +3536,8 @@ Precisam da luz para ver?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Percepção](#percepção)
 :::
 
 ---
@@ -4602,13 +3557,9 @@ Para verem o que se passa em dois pontos diferentes, precisam transportar-se a e
 👉 Veja [Q.92](#q92)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Locomoção](#locomoção)
+🏷️ [Pensamento](#pensamento)
+🏷️ [Visão](#visão)
 :::
 
 ---
@@ -4622,13 +3573,7 @@ O Espírito vê as coisas tão distintamente como nós?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -4642,13 +3587,7 @@ Percebe os sons?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Som](#som)
 :::
 
 ---
@@ -4662,13 +3601,7 @@ No Espírito, a faculdade de ouvir está em todo ele, como a de ver?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -4682,13 +3615,8 @@ Constituindo elas atributos próprios do Espírito, ser-lhe-á possível subtrai
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Percepção](#percepção)
 :::
 
 ---
@@ -4702,13 +3630,8 @@ São sensíveis à música os Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Música](#música)
+🏷️ [Sensação](#sensação)
 :::
 
 ---
@@ -4722,13 +3645,8 @@ São sensíveis, os Espíritos, às magnificências da Natureza?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Natureza](#natureza)
+🏷️ [Sensação](#sensação)
 :::
 
 ---
@@ -4742,13 +3660,8 @@ Os Espíritos experimentam as nossas necessidades e sofrimentos físicos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -4762,13 +3675,8 @@ E a fadiga, a necessidade de repouso, experimentam-nas?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Repouso](#repouso)
 :::
 
 ---
@@ -4782,13 +3690,8 @@ Quando um Espírito diz que sofre, de que natureza é o seu sofrimento?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -4802,13 +3705,8 @@ Como é então que alguns Espíritos se têm queixado de sofrer frio ou calor?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnado](#encarnado)
+🏷️ [Vida espiritual](#vida-espiritual)
 :::
 
 ---
@@ -4852,16 +3750,6 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ↩️ Voltar para [Q.965](#q965)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 #### 2.06.05 📄 Escolha das provas {#lde-2-06-05}
@@ -4876,16 +3764,6 @@ Quando na erraticidade, antes de começar nova existência corporal, tem o Espí
 
 ↩️ Voltar para [Q.871](#q871)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.258.a {#q258a}
@@ -4897,13 +3775,8 @@ Não é Deus, então, quem lhe impõe as tribulações da vida, como castigo?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lei divina](#lei-divina)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -4917,13 +3790,8 @@ Do fato de pertencer ao Espírito a escolha do gênero de provas que deva sofrer
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Provação](#provação)
 :::
 
 ---
@@ -4937,13 +3805,7 @@ Como pode o Espírito desejar nascer entre gente de má vida?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Nascimento](#nascimento)
 :::
 
 ---
@@ -4956,8 +3818,9 @@ Assim, se não houvesse na Terra gente de maus costumes, o Espírito não encont
 ✨ ▸ ▸ E seria isso de lastimar-se? É o que ocorre nos mundos superiores, onde o mal não penetra. Eis por que, nesses mundos, só há Espíritos bons. Fazei que em breve o mesmo se dê na Terra.
 :::
 
-::: expand 🏷️
-🏷️ Ambiente, provas e [↩️](#ambiente)
+::: expand 🔗
+🏷️ [Ambiente](#ambiente)
+🏷️ [Provação](#provação)
 :::
 
 ---
@@ -4971,13 +3834,7 @@ Nas provações por que lhe cumpre passar para atingir a perfeição, tem o Esp�
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Provação](#provação)
 :::
 
 ---
@@ -4991,13 +3848,9 @@ Como pode o Espírito, que, em sua origem, é simples, ignorante e carecido de e
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Homem](#homem)
+🏷️ [Providência divina](#providência-divina)
+🏷️ [Queda](#queda)
 :::
 
 ---
@@ -5011,13 +3864,8 @@ Quando o Espírito goza do livre-arbítrio, a escolha, que lhe cabe, da existên
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Expiação](#expiação)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -5031,13 +3879,7 @@ O Espírito faz a sua escolha logo depois da morte?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -5051,13 +3893,7 @@ Que é o que dirige o Espírito na escolha das provas que queira sofrer?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -5071,13 +3907,8 @@ Havendo Espíritos que, por provação, escolhem o contato do vício, outros nã
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Paixão](#paixão)
+🏷️ [Vício](#vício)
 :::
 
 ---
@@ -5105,13 +3936,13 @@ Dizem todos os Espíritos que, na erraticidade, eles se aplicam a pesquisar, est
 ↩️ Voltar para [Q.816](#q816)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Escolha](#escolha)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Homem](#homem)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Matéria](#matéria)
+🏷️ [Provas](#provas)
+🏷️ [Vida espiritual](#vida-espiritual)
 :::
 
 ---
@@ -5125,13 +3956,7 @@ Pode o Espírito proceder à escolha de suas provas, enquanto encarnado?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnado](#encarnado)
 :::
 
 ---
@@ -5145,13 +3970,7 @@ Não é decerto como expiação, ou como prova, que muita gente deseja as grande
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Provação](#provação)
 :::
 
 ---
@@ -5165,13 +3984,7 @@ Até que chegue ao estado de pureza perfeita, tem o Espírito que passar constan
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -5185,13 +3998,8 @@ Pode o Espírito enganar-se quanto à eficiência da prova que escolheu?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Escolha](#escolha)
+🏷️ [Julgamento](#julgamento)
 :::
 
 ---
@@ -5227,13 +4035,8 @@ Poderá dar-se que Espíritos vindos de um mundo inferior à Terra, ou de um pov
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Progresso](#progresso)
+🏷️ [Vocação](#vocação)
 :::
 
 ---
@@ -5250,13 +4053,9 @@ Será possível que um homem de raça civilizada reencarne, por expiação, numa
 ↩️ Voltar para [Q.983](#q983)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito bom](#espírito-bom)
+🏷️ [Expiação](#expiação)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -5271,10 +4070,6 @@ Da existência de diferentes ordens de Espíritos, resulta para estes alguma hie
 ✨ ▸ ▸ Muito grande. Os Espíritos têm uns sobre os outros a autoridade correspondente ao grau de superioridade que hajam alcançado, autoridade que eles exercem por um ascendente moral irresistível.
 :::
 
-::: expand 🏷️
-🏷️ Além-túmulo, relações no [↩️](#alem-tumulo)
-:::
-
 ---
 
 ###### #️⃣ Q.274.a {#q274a}
@@ -5285,8 +4080,8 @@ Podem os Espíritos inferiores subtrair-se à autoridade dos que lhes são super
 ✨ ▸ ▸ Eu disse: irresistível.
 :::
 
-::: expand 🏷️
-🏷️ Autoridade, superioridade e [↩️](#autoridade)
+::: expand 🔗
+🏷️ [Autoridade](#autoridade)
 :::
 
 ---
@@ -5300,13 +4095,7 @@ O poder e a consideração de que um homem gozou na Terra lhe dão supremacia no
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Poder](#poder)
 :::
 
 ---
@@ -5335,13 +4124,7 @@ Aquele que foi grande na Terra e que, como Espírito, vem a achar-se entre os de
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mérito](#mérito)
 :::
 
 ---
@@ -5355,13 +4138,7 @@ O soldado que depois da batalha se encontra com o seu general, no mundo dos Esp�
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inferior](#inferior)
 :::
 
 ---
@@ -5379,13 +4156,8 @@ Os Espíritos das diferentes ordens se acham misturados uns com os outros?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Relacionamento](#relacionamento)
+🏷️ [Sociedade](#sociedade)
 :::
 
 ---
@@ -5399,13 +4171,8 @@ Todos os Espíritos têm reciprocamente acesso aos diferentes grupos ou sociedad
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito bom](#espírito-bom)
+🏷️ [Espírito imperfeito](#espírito-imperfeito)
 :::
 
 ---
@@ -5419,13 +4186,8 @@ De que natureza são as relações entre os bons e os maus Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito bom](#espírito-bom)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -5446,13 +4208,8 @@ Como se comunicam entre si os Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inveja](#inveja)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -5466,13 +4223,7 @@ Podem os Espíritos, reciprocamente, dissimular seus pensamentos? Podem ocultar-
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Pensamento](#pensamento)
 :::
 
 ---
@@ -5486,13 +4237,8 @@ Como podem os Espíritos, não tendo corpo, comprovar suas individualidades e di
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Individualidade](#individualidade)
+🏷️ [Perispírito](#perispírito)
 :::
 
 ---
@@ -5506,13 +4252,7 @@ Os Espíritos se reconhecem por terem coabitado a Terra? O filho reconhece o pai
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reconhecimento](#reconhecimento)
 :::
 
 ---
@@ -5526,13 +4266,7 @@ Como é que os que se conheceram na Terra se reconhecem no mundo dos Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Passado](#passado)
 :::
 
 ---
@@ -5545,8 +4279,8 @@ Deixando seus despojos mortais, a alma vê imediatamente os parentes e amigos qu
 ✨ ▸ ▸ Imediatamente, ainda aqui, não é o termo próprio. Como já dissemos, é-lhe necessário algum tempo para que ela se reconheça a si mesma e alije o véu material.
 :::
 
-::: expand 🏷️
-🏷️ Alma, percepção visual da [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -5560,13 +4294,7 @@ Como é acolhida a alma no seu regresso ao mundo dos Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
 🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -5580,13 +4308,7 @@ Que sentimento desperta nos Espíritos impuros a chegada entre eles de outro Esp
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito impuro](#espírito-impuro)
 :::
 
 ---
@@ -5600,13 +4322,7 @@ Nossos parentes e amigos costumam vir-nos ao encontro quando deixamos a Terra?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
 🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -5620,13 +4336,7 @@ Os parentes e amigos sempre se reúnem depois da morte?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reunião](#reunião)
 :::
 
 ---
@@ -5641,10 +4351,6 @@ Além da simpatia geral, oriunda da semelhança que entre eles exista, votam-se 
 ✨ ▸ ▸ Do mesmo modo que os homens, sendo, porém que mais forte é o laço que prende os Espíritos uns aos outros, quando carentes de corpo material, porque então esse laço não se acha exposto às vicissitudes das paixões.
 :::
 
-::: expand 🏷️
-🏷️ Amor, espíritos e sentimento de [↩️](#amor)
-:::
-
 ---
 
 ###### #️⃣ Q.292 {#q292}
@@ -5656,13 +4362,8 @@ Alimentam ódio entre si os Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito impuro](#espírito-impuro)
+🏷️ [Ódio](#ódio)
 :::
 
 ---
@@ -5679,8 +4380,9 @@ Conservarão ressentimento um do outro, no mundo dos Espíritos, dois seres que 
 👴🏻 ▸ Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhecem a puerilidade de suas dissensões infantis e deixam de se malquerer.
 :::
 
-::: expand 🏷️
-🏷️ Antipatia, e simpatia [↩️](#antipatia)
+::: expand 🔗
+🏷️ [Antipatia](#antipatia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
 :::
 
 ---
@@ -5691,16 +4393,6 @@ A lembrança dos atos maus que dois homens praticaram um contra o outro constitu
 
 ::: spirit
 ✨ ▸ ▸ Essa lembrança os induz a se afastarem um do outro.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -5714,13 +4406,7 @@ Que sentimento anima, depois da morte, aqueles a quem fizemos mal neste mundo?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -5734,13 +4420,7 @@ São suscetíveis de alterar-se as afeições individuais dos Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito puro](#espírito-puro)
 :::
 
 ---
@@ -5754,13 +4434,7 @@ Continua a existir sempre, no mundo dos Espíritos, a afeição mútua que dois 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
 🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -5774,13 +4448,9 @@ As almas que devam unir-se estão, desde suas origens, predestinadas a essa uni�
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Discórdia](#discórdia)
+🏷️ [Perfeição](#perfeição)
+🏷️ [União](#união)
 :::
 
 ---
@@ -5794,13 +4464,7 @@ Em que sentido se deve entender a palavra metade, de que alguns Espíritos se se
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -5814,13 +4478,7 @@ Se dois Espíritos perfeitamente simpáticos se reunirem, estarão unidos para t
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos puros](#espíritos-puros)
 :::
 
 ---
@@ -5833,16 +4491,6 @@ Dois Espíritos simpáticos são complemento um do outro, ou a simpatia entre el
 ✨ ▸ ▸ A simpatia que atrai um Espírito para outro resulta da perfeita concordância de seus pendores e instintos. Se um tivesse que completar o outro, perderia a sua individualidade.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.302 {#q302}
@@ -5853,16 +4501,6 @@ A identidade necessária à existência da simpatia perfeita apenas consiste na 
 ✨ ▸ ▸ Na igualdade dos graus de elevação.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.303 {#q303}
@@ -5871,16 +4509,6 @@ Podem tornar-se de futuro simpáticos, Espíritos que presentemente não o são?
 
 ::: spirit
 ✨ ▸ ▸ Todos o serão. Um Espírito, que hoje está numa esfera inferior, ascenderá, aperfeiçoando-se, à em que se acha tal outro Espírito. E ainda mais depressa se dará o encontro dos dois, se o mais elevado, por suportar mal as provas a que esteja submetido, permanecer estacionário.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -5898,13 +4526,7 @@ Podem deixar de ser simpáticos um ao outro dois Espíritos que já o sejam?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Teoria](#teoria)
 :::
 
 ---
@@ -5923,16 +4545,6 @@ Lembra-se o Espírito da sua existência corporal?
 👴🏻 ▸ Tal qual o homem, que chegou à madureza e que ri das suas loucuras de moço, ou das suas puerilidades na meninice.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.305 {#q305}
@@ -5944,13 +4556,7 @@ A lembrança da existência corporal se apresenta ao Espírito, completa e inopi
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -5964,13 +4570,7 @@ O Espírito se lembra, pormenorizadamente, de todos os acontecimentos de sua vid
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lembrança](#lembrança)
 :::
 
 ---
@@ -5984,13 +4584,8 @@ Mas, se o quisesse, poderia lembrar-se delas?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inutilidade](#inutilidade)
+🏷️ [Lembrança](#lembrança)
 :::
 
 ---
@@ -6004,13 +4599,8 @@ Entrevê o Espírito o objetivo da vida terrestre com relação à vida futura?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Vida terrena](#vida-terrena)
 :::
 
 ---
@@ -6024,13 +4614,8 @@ Como é que ao Espírito se lhe desenha na memória a sua vida passada? Será po
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Memória](#memória)
+🏷️ [Vidas passadas](#vidas-passadas)
 :::
 
 ---
@@ -6044,13 +4629,7 @@ O Espírito se recorda de todas as existências que precederam a que acaba de te
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Esquecimento](#esquecimento)
 :::
 
 ---
@@ -6064,13 +4643,8 @@ Como considera o Espírito o corpo de que vem de separar-se?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -6084,13 +4658,8 @@ Que sensação lhe causa o espetáculo do seu corpo em decomposição?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -6104,13 +4673,7 @@ Ao cabo de algum tempo, reconhecerá o Espírito os ossos ou outros objetos que 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
 :::
 
 ---
@@ -6124,13 +4687,7 @@ A veneração que se tenha pelos objetos materiais que pertenceram ao Espírito 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -6144,13 +4701,8 @@ E a lembrança dos sofrimentos por que passaram na última existência corporal,
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnado](#desencarnado)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -6168,13 +4720,7 @@ O homem, que neste mundo foi feliz, deplora a felicidade que perdeu, deixando a 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito inferior](#espírito-inferior)
 :::
 
 ---
@@ -6188,13 +4734,8 @@ Aquele que deu começo a trabalhos de vulto com um fim útil e, que os vê inter
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem](#bem)
+🏷️ [Trabalho](#trabalho)
 :::
 
 ---
@@ -6208,13 +4749,7 @@ E o que deixou trabalhos de arte ou de literatura, conserva pelas suas obras o a
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Apego](#apego)
 :::
 
 ---
@@ -6228,13 +4763,7 @@ No além, o Espírito se interessa pelos trabalhos que se executam na Terra, pel
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -6252,13 +4781,10 @@ Após a morte, conservam os Espíritos o amor da pátria?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Evolução](#evolução)
+🏷️ [Nação](#nação)
+🏷️ [Povoamento](#povoamento)
 :::
 
 ---
@@ -6272,13 +4798,8 @@ As ideias dos Espíritos se modificam quando na erraticidade?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desmaterialização](#desmaterialização)
+🏷️ [Erraticidade](#erraticidade)
 :::
 
 ---
@@ -6295,13 +4816,9 @@ Já tendo o Espírito vivido a vida espírita antes da sua encarnação, como se
 ↩️ Voltar para [Q.385](#q385)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnação](#desencarnação)
+🏷️ [Despertamento](#despertamento)
+🏷️ [Perturbação](#perturbação)
 :::
 
 ---
@@ -6318,16 +4835,6 @@ Sensibiliza os Espíritos o lembrarem-se deles os que lhes foram caros na Terra?
 
 ↩️ Voltar para [Q.824](#q824)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.321 {#q321}
@@ -6339,13 +4846,8 @@ O dia da comemoração dos mortos é, para os Espíritos, mais solene do que os 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Finados](#finados)
 :::
 
 ---
@@ -6359,13 +4861,7 @@ Mas o de finados é, para eles, um dia especial de reunião junto de suas sepult
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Presença](#presença)
 :::
 
 ---
@@ -6379,13 +4875,7 @@ Sob que forma aí comparecem e como os veríamos, se pudessem tornar-se visívei
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnado](#desencarnado)
 :::
 
 ---
@@ -6399,13 +4889,7 @@ E os esquecidos, cujos túmulos ninguém vai visitar, também lá, não obstante
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Túmulo](#túmulo)
 :::
 
 ---
@@ -6419,13 +4903,8 @@ A visita de um espírito a um túmulo causa maior contentamento ao Espírito, cu
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnado](#desencarnado)
+🏷️ [Morto](#morto)
 :::
 
 ---
@@ -6439,13 +4918,7 @@ Os Espíritos das pessoas a quem se erigem estátuas ou monumentos assistem à i
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Homenagem](#homenagem)
 :::
 
 ---
@@ -6466,13 +4939,7 @@ Deve-se considerar futilidade a reunião dos despojos mortais de todos os membro
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sepultamento](#sepultamento)
 :::
 
 ---
@@ -6486,13 +4953,8 @@ Comovem a alma que volta à vida espiritual as honras que lhe prestem aos despoj
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnação](#desencarnação)
+🏷️ [Homenagem](#homenagem)
 :::
 
 ---
@@ -6506,13 +4968,7 @@ O Espírito assiste ao seu enterro?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sepultamento](#sepultamento)
 :::
 
 ---
@@ -6526,13 +4982,7 @@ Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sepultamento](#sepultamento)
 :::
 
 ---
@@ -6546,13 +4996,8 @@ O Espírito daquele que acaba de morrer assiste à reunião de seus herdeiros?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bens](#bens)
+🏷️ [Herança](#herança)
 :::
 
 ---
@@ -6566,13 +5011,9 @@ O instintivo respeito que, em todos os tempos e entre todos os povos, o homem co
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Intuição](#intuição)
+🏷️ [Morto](#morto)
+🏷️ [Vida futura](#vida-futura)
 :::
 
 ---
@@ -6591,16 +5032,6 @@ Sabem os Espíritos em que época reencarnarão?
 
 👉 Veja [Q.166](#q166)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.330.a {#q330a}
@@ -6612,13 +5043,8 @@ Então, a reencarnação é uma necessidade da vida espírita, como a morte o é
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
+🏷️ [Vida espiritual](#vida-espiritual)
 :::
 
 ---
@@ -6632,13 +5058,8 @@ Todos os Espíritos se preocupam com a sua reencarnação?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -6654,13 +5075,7 @@ Pode o Espírito apressar ou retardar o momento da sua reencarnação?
 ↩️ Voltar para [Q.991](#q991)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -6674,13 +5089,8 @@ Se se considerasse bastante feliz, numa condição mediana entre os Espíritos e
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito errante](#espírito-errante)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -6694,13 +5104,7 @@ Há predestinação na união da alma com tal ou tal corpo, ou só à última ho
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -6714,13 +5118,9 @@ Cabe ao Espírito a escolha do corpo em que encarne, ou somente a do gênero de 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Escolha](#escolha)
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -6734,13 +5134,7 @@ Poderia o Espírito recusar, à última hora, tomar o corpo por ele escolhido?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -6754,13 +5148,8 @@ Poderia dar-se não haver Espírito que aceitasse encarnar numa criança que hou
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Nascimento](#nascimento)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -6776,13 +5165,7 @@ Pode a união do Espírito a determinado corpo ser imposta por Deus?
 ↩️ Voltar para [Q.872](#q872)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Nascimento](#nascimento)
 :::
 
 ---
@@ -6796,13 +5179,8 @@ Se acontecesse que muitos Espíritos se apresentassem para tomar determinado cor
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Missão](#missão)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -6816,13 +5194,8 @@ No momento de encarnar, o Espírito sofre perturbação semelhante à que experi
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Perturbação](#perturbação)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -6840,13 +5213,7 @@ No momento de encarnar, o Espírito sofre perturbação semelhante à que experi
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Exílio](#exílio)
 :::
 
 ---
@@ -6860,13 +5227,8 @@ Na incerteza em que se vê, quanto às eventualidades do seu triunfo nas provas 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Provas](#provas)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -6880,13 +5242,8 @@ No momento de reencarnar, o Espírito se acha acompanhado de outros Espíritos s
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Plano físico](#plano-físico)
 :::
 
 ---
@@ -6900,13 +5257,8 @@ Os que vemos, em sonho, que nos testemunham afeto e que se nos apresentam com de
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sonho](#sonho)
+🏷️ [Visita](#visita)
 :::
 
 ---
@@ -6921,10 +5273,6 @@ Em que momento a alma se une ao corpo?
 ✨ ▸ ▸ A união começa na concepção, mas só é completa por ocasião do nascimento. Desde o instante da concepção, o Espírito designado para habitar certo corpo a este se liga por um laço fluídico, que cada vez mais se vai apertando até o instante em que a criança vê a luz. O grito, que o recém-nascido solta, anuncia que ele se conta no número dos vivos e dos servos de Deus.
 :::
 
-::: expand 🏷️
-🏷️ Alma, união do corpo e da [↩️](#alma)
-:::
-
 ---
 
 ###### #️⃣ Q.345 {#q345}
@@ -6936,13 +5284,9 @@ Em que momento a alma se une ao corpo?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Concepção](#concepção)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Vontade](#vontade)
 :::
 
 ---
@@ -6956,13 +5300,7 @@ Que faz o Espírito, se o corpo que ele escolheu morre antes de se verificar o n
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Nascimento](#nascimento)
 :::
 
 ---
@@ -6976,13 +5314,7 @@ Qual a utilidade dessas mortes prematuras?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnação](#desencarnação)
 :::
 
 ---
@@ -6996,13 +5328,7 @@ Que utilidade encontrará um Espírito na sua encarnação em um corpo que morre
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Nascimento](#nascimento)
 :::
 
 ---
@@ -7016,13 +5342,7 @@ Sabe o Espírito, previamente, que o corpo de sua escolha não tem probabilidade
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -7036,13 +5356,7 @@ Quando falha por qualquer causa a encarnação de um Espírito, é ela suprida i
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -7056,13 +5370,7 @@ Uma vez unido ao corpo da criança e quando já lhe não é possível voltar atr
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -7076,13 +5384,9 @@ No intervalo que medeia da concepção ao nascimento, goza o Espírito de todas 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Concepção](#concepção)
+🏷️ [Nascimento](#nascimento)
+🏷️ [Perturbação](#perturbação)
 :::
 
 ---
@@ -7096,13 +5400,8 @@ Imediatamente ao nascer recobra o Espírito a plenitude das suas faculdades?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Aptidão](#aptidão)
+🏷️ [Nascimento](#nascimento)
 :::
 
 ---
@@ -7116,13 +5415,8 @@ Não sendo completa a união do Espírito ao corpo, não estando definitivamente
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Feto](#feto)
 :::
 
 ---
@@ -7136,13 +5430,7 @@ Como se explica a vida intrauterina?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Vida](#vida)
 :::
 
 ---
@@ -7156,13 +5444,8 @@ Há, de fato, como o indica a Ciência, crianças que já no seio materno não s
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Pais](#pais)
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -7176,13 +5459,8 @@ Entre os natimortos alguns haverá que não tenham sido destinados à encarnaç�
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Natimorto](#natimorto)
 :::
 
 ---
@@ -7196,13 +5474,7 @@ Pode chegar a termo de nascimento um ser dessa natureza?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Natimorto](#natimorto)
 :::
 
 ---
@@ -7216,13 +5488,7 @@ Segue-se daí que toda criança que vive após o nascimento tem forçosamente en
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criança](#criança)
 :::
 
 ---
@@ -7235,8 +5501,8 @@ Que consequências tem para o Espírito o aborto?
 ✨ ▸ ▸ É uma existência nulificada e que ele terá de recomeçar.
 :::
 
-::: expand 🏷️
-🏷️ Aborto, consequências do [↩️](#aborto)
+::: expand 🔗
+🏷️ [Aborto](#aborto)
 :::
 
 ---
@@ -7249,10 +5515,9 @@ Constitui crime a provocação do aborto, em qualquer período da gestação?
 ✨ ▸ ▸ Há crime sempre que transgredis a Lei de Deus. Uma mãe, ou quem quer que seja, cometerá crime sempre que tirar a vida a uma criança antes do seu nascimento, pois isso impede uma alma de passar pelas provas a que serviria de instrumento o corpo que se estava formando.
 :::
 
-::: expand 🏷️
-🏷️ Aborto, gestação e [↩️](#aborto)
-
-🏷️ Aborto, provocação do [↩️](#aborto)
+::: expand 🔗
+🏷️ [Aborto](#aborto)
+🏷️ [Gestação](#gestação)
 :::
 
 ---
@@ -7265,10 +5530,10 @@ Dado o caso que o nascimento da criança pusesse em perigo a vida da mãe dela, 
 ✨ ▸ ▸ Preferível é se sacrifique o ser que ainda não existe a sacrificar-se o que já existe.
 :::
 
-::: expand 🏷️
-🏷️ Aborto, provocação do [↩️](#aborto)
-
-🏷️ Aborto, vida da mãe em perigo e [↩️](#aborto)
+::: expand 🔗
+🏷️ [Aborto](#aborto)
+🏷️ [Maternidade](#maternidade)
+🏷️ [Mãe](#mãe)
 :::
 
 ---
@@ -7282,13 +5547,8 @@ Será racional ter-se para com um feto as mesmas atenções que se costuma dispe
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Feto](#feto)
+🏷️ [Respeito](#respeito)
 :::
 
 ---
@@ -7307,16 +5567,6 @@ Qual a origem das qualidades morais, boas ou más, do homem?
 ↩️ Voltar para [Q.831](#q831)
 ↩️ Voltar para [Q.845](#q845)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.361.a {#q361a}
@@ -7328,13 +5578,9 @@ Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e o h
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnação](#encarnação)
+🏷️ [Espírito bom](#espírito-bom)
+🏷️ [Espírito mau](#espírito-mau)
 :::
 
 ---
@@ -7348,13 +5594,7 @@ Qual o caráter dos indivíduos em que encarnam Espíritos desassisados e levian
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnação](#encarnação)
 :::
 
 ---
@@ -7368,13 +5608,7 @@ Têm os Espíritos paixões de que não partilhe a Humanidade?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Humanidade](#humanidade)
 :::
 
 ---
@@ -7388,13 +5622,8 @@ O mesmo Espírito dá ao homem as qualidades morais e as da inteligência?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Evolução](#evolução)
 :::
 
 ---
@@ -7411,13 +5640,8 @@ Por que alguns homens muito inteligentes, o que indica acharem-se encarnados nel
 ↩️ Voltar para [Q.780b](#q780b)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inteligência](#inteligência)
+🏷️ [Moral](#moral)
 :::
 
 ---
@@ -7435,13 +5659,9 @@ Que se deve pensar da opinião dos que pretendem que as diferentes faculdades in
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Aptidão](#aptidão)
+🏷️ [Individualidade](#individualidade)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -7450,16 +5670,6 @@ Que se deve pensar da opinião dos que pretendem que as diferentes faculdades in
 :::
 
 ↩️ Voltar para [Q.846](#q846)
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
 
 ---
 
@@ -7472,13 +5682,8 @@ Unindo-se ao corpo, o Espírito se identifica com a matéria?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Influência](#influência)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -7492,13 +5697,7 @@ Após sua união com o corpo, exerce o Espírito, com liberdade plena, suas facu
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -7516,13 +5715,8 @@ Assim, o invólucro material é obstáculo à livre manifestação das faculdade
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -7535,8 +5729,9 @@ O livre exercício das faculdades da alma está subordinado ao desenvolvimento d
 ✨ ▸ ▸ Os órgãos são os instrumentos da manifestação das faculdades da alma, manifestação que se acha subordinada ao desenvolvimento e ao grau de perfeição dos órgãos, como a excelência de um trabalho o está à da ferramenta própria à sua execução.
 :::
 
-::: expand 🏷️
-🏷️ Alma, organismo humano e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Organismo](#organismo)
 :::
 
 ---
@@ -7550,13 +5745,9 @@ Da influência dos órgãos se pode inferir a existência de uma relação entre
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Cérebro](#cérebro)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Influência](#influência)
 :::
 
 ---
@@ -7574,13 +5765,8 @@ Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Aptidão](#aptidão)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -7597,16 +5783,6 @@ Tem algum fundamento o pretender-se que a alma dos cretinos e dos idiotas é de 
 
 ↩️ Voltar para [Q.847](#q847)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.372 {#q372}
@@ -7618,13 +5794,8 @@ Que objetivo visa a Providência criando seres desgraçados, como os cretinos e 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Punição](#punição)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -7642,13 +5813,9 @@ Não há, pois, fundamento para dizer-se que os órgãos nada influem sobre as f
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Aptidão](#aptidão)
+🏷️ [Idiotismo](#idiotismo)
+🏷️ [Loucura](#loucura)
 :::
 
 ---
@@ -7662,13 +5829,7 @@ Qual será o mérito da existência de seres que, como os cretinos e os idiotas,
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -7686,13 +5847,9 @@ Pode assim o corpo de um idiota conter um Espírito que tenha animado um homem d
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Expiação](#expiação)
+🏷️ [Gênio](#gênio)
+🏷️ [Idiotia](#idiotia)
 :::
 
 ---
@@ -7706,13 +5863,7 @@ Na condição de Espírito livre, tem o idiota consciência do seu estado mental
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Idiota](#idiota)
 :::
 
 ---
@@ -7725,8 +5876,11 @@ Qual, na loucura, a situação do Espírito?
 ✨ ▸ ▸ O Espírito, quando em liberdade, recebe diretamente suas impressões e diretamente exerce sua ação sobre a matéria. Encarnado, porém, ele se encontra em condições muito diversas e na contingência de só o fazer com o auxílio de órgãos especiais. Altere-se uma parte ou o conjunto de tais órgãos e eis que se lhe interrompem, no que destes dependam, sua ação ou suas impressões. Se perde os olhos, fica cego; se o ouvido, torna-se surdo etc. Imagina agora que seja o órgão que preside às manifestações da inteligência o atacado ou modificado, parcial ou inteiramente, e fácil te será compreender que, só tendo o Espírito a seu serviço órgãos incompletos ou alterados, uma perturbação resultará de que ele, por si mesmo e no seu foro íntimo, tem perfeita consciência, mas cujo curso não lhe está nas mãos deter.
 :::
 
-::: expand 🏷️
-🏷️ Ação, reciprocidade de
+::: expand 🔗
+🏷️ [Cérebro](#cérebro)
+🏷️ [Doença mental](#doença-mental)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Loucura](#loucura)
 :::
 
 ---
@@ -7739,8 +5893,10 @@ Então, o desorganizado é sempre o corpo e não o Espírito?
 ✨ ▸ ▸ Exatamente, mas convém não perder de vista que, assim como o Espírito atua sobre a matéria, também esta reage sobre ele, dentro de certos limites, e que pode acontecer impressionar-se o Espírito temporariamente com a alteração dos órgãos pelos quais se manifesta e recebe as impressões. Pode mesmo suceder que, com a continuação, durando longo tempo a loucura, a repetição dos mesmos atos acabe por exercer sobre o Espírito uma influência, de que ele não se libertará senão depois de se haver libertado de toda impressão material.
 :::
 
-::: expand 🏷️
-🏷️ Ação, reciprocidade de [↩️](#acao)
+::: expand 🔗
+🏷️ [Ação](#ação)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -7754,13 +5910,7 @@ Por que razão a loucura leva o homem algumas vezes ao suicídio?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Loucura](#loucura)
 :::
 
 ---
@@ -7774,13 +5924,8 @@ Depois da morte, o Espírito do alienado se ressente do desarranjo de suas facul
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnação](#desencarnação)
+🏷️ [Loucura](#loucura)
 :::
 
 ---
@@ -7794,13 +5939,8 @@ De que modo a alteração do cérebro reage sobre o Espírito depois da morte?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Cérebro](#cérebro)
+🏷️ [Desencarnado](#desencarnado)
 :::
 
 ---
@@ -7817,16 +5957,6 @@ De que modo a alteração do cérebro reage sobre o Espírito depois da morte?
 
 ↩️ Voltar para [Q.871](#q871)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.380 {#q380}
@@ -7842,13 +5972,10 @@ Abstraindo do obstáculo que a imperfeição dos órgãos opõe à sua livre man
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criança](#criança)
+🏷️ [Encarnação](#encarnação)
+🏷️ [Pensamento](#pensamento)
+🏷️ [Sonho](#sonho)
 :::
 
 ---
@@ -7862,13 +5989,9 @@ Por morte da criança, readquire o Espírito, imediatamente, o seu precedente vi
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criança](#criança)
+🏷️ [Desencarnação](#desencarnação)
+🏷️ [Infância](#infância)
 :::
 
 ---
@@ -7882,13 +6005,7 @@ Durante a infância sofre o Espírito encarnado, em consequência do constrangim
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Infância](#infância)
 :::
 
 ---
@@ -7902,13 +6019,7 @@ Qual, para este, a utilidade de passar pelo estado de infância?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnação](#encarnação)
 :::
 
 ---
@@ -7922,13 +6033,8 @@ Por que é o choro a primeira manifestação da criança ao nascer?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Choro](#choro)
+🏷️ [Nascimento](#nascimento)
 :::
 
 ---
@@ -7952,13 +6058,11 @@ Assim, portanto, a infância é não só útil, necessária, indispensável, mas
 ↩️ Voltar para [Q.890](#q890)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Adolescência](#adolescência)
+🏷️ [Criança](#criança)
+🏷️ [Esclarecimento](#esclarecimento)
+🏷️ [Infância](#infância)
+🏷️ [Inocência](#inocência)
 :::
 
 ---
@@ -7971,16 +6075,6 @@ Podem dois seres, que se conheceram e estimaram, encontrar-se noutra existência
 
 ::: spirit
 ✨ ▸ ▸ Reconhecer-se, não. Podem, porém, sentir-se atraídos um para o outro. E, frequentemente, diversa não é a causa de íntimas ligações fundadas em sincera afeição. Um do outro dois seres se aproximam devido a circunstâncias aparentemente fortuitas, mas que na realidade resultam da atração de dois Espíritos, **que se buscam reciprocamente por entre a multidão**.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -7996,13 +6090,8 @@ Não lhes seria mais agradável reconhecerem-se?
 👉 Veja [Q.392](#q392)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lembrança](#lembrança)
+🏷️ [Vidas passadas](#vidas-passadas)
 :::
 
 ---
@@ -8016,13 +6105,7 @@ A simpatia tem sempre por princípio um anterior conhecimento?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -8036,13 +6119,7 @@ Os encontros, que costumam dar-se, de algumas pessoas e que comumente se atribue
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Magnetismo](#magnetismo)
 :::
 
 ---
@@ -8055,8 +6132,8 @@ E a repulsão instintiva que se experimenta por algumas pessoas, donde se origin
 ✨ ▸ ▸ São Espíritos antipáticos que se adivinham e reconhecem, sem se falarem.
 :::
 
-::: expand 🏷️
-🏷️ Antipatia, instintiva [↩️](#antipatia)
+::: expand 🔗
+🏷️ [Antipatia](#antipatia)
 :::
 
 ---
@@ -8069,8 +6146,8 @@ A antipatia instintiva é sempre sinal de natureza má?
 ✨ ▸ ▸ De não simpatizarem um com o outro, não se segue que dois Espíritos sejam necessariamente maus. A antipatia, entre eles, pode derivar de diversidade no modo de pensar. À proporção, porém, que se forem elevando, essa divergência irá desaparecendo e a antipatia deixará de existir.
 :::
 
-::: expand 🏷️
-🏷️ Antipatia, instintiva e retardamento na chegada à perfeição [↩️](#antipatia)
+::: expand 🔗
+🏷️ [Antipatia](#antipatia)
 :::
 
 ---
@@ -8083,8 +6160,8 @@ A antipatia entre duas pessoas nasce primeiro na que tem pior Espírito, ou na q
 ✨ ▸ ▸ Numa e noutra indiferentemente, mas distintas são as causas e os efeitos nas duas. Um Espírito mau antipatiza com quem quer que o possa julgar e desmascarar. Ao ver pela primeira vez uma pessoa, logo sabe que vai ser censurado. Seu afastamento dessa pessoa se transforma em ódio, em inveja e lhe inspira o desejo de praticar o mal. O bom Espírito sente repulsão pelo mau, por saber que este o não compreenderá e porque díspares dos dele são os seus sentimentos. Entretanto, consciente da sua superioridade, não alimenta ódio, nem inveja contra o outro. Limita-se a evitá-lo e a lastimá-lo.
 :::
 
-::: expand 🏷️
-🏷️ Antipatia, causa e efeitos da [↩️](#antipatia)
+::: expand 🔗
+🏷️ [Antipatia](#antipatia)
 :::
 
 ---
@@ -8101,16 +6178,6 @@ Por que perde o Espírito encarnado a lembrança do seu passado?
 
 ↩️ Voltar para [Q.386a](#q386a)
 ↩️ Voltar para [Q.891](#q891)
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
 
 ---
 
@@ -8130,13 +6197,11 @@ Como pode o homem ser responsável por atos e resgatar faltas de que se não lem
 ↩️ Voltar para [Q.984](#q984)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Intuição](#intuição)
+🏷️ [Justiça divina](#justiça-divina)
+🏷️ [Lembrança](#lembrança)
+🏷️ [Passado](#passado)
+🏷️ [Vida espiritual](#vida-espiritual)
 :::
 
 ---
@@ -8156,13 +6221,10 @@ Gravíssimos inconvenientes teria o nos lembrarmos das nossas individualidades a
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Felicidade](#felicidade)
+🏷️ [Mundos evoluídos](#mundos-evoluídos)
+🏷️ [Mundos habitados](#mundos-habitados)
+🏷️ [Vidas passadas](#vidas-passadas)
 :::
 
 ---
@@ -8176,13 +6238,9 @@ Podemos ter algumas revelações a respeito de nossas vidas anteriores?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conhecimento](#conhecimento)
+🏷️ [Revelação](#revelação)
+🏷️ [Vidas passadas](#vidas-passadas)
 :::
 
 ---
@@ -8196,13 +6254,7 @@ Algumas pessoas julgam ter vaga recordação de um passado desconhecido, que se 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Prevenção](#prevenção)
 :::
 
 ---
@@ -8216,13 +6268,8 @@ Nas existências corpóreas de natureza mais elevada do que a nossa, é mais cla
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Lembrança](#lembrança)
+🏷️ [Passado](#passado)
 :::
 
 ---
@@ -8236,13 +6283,8 @@ Sendo os pendores instintivos uma reminiscência do seu passado, dar-se-á que, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conhecimento](#conhecimento)
+🏷️ [Falta](#falta)
 :::
 
 ---
@@ -8256,13 +6298,8 @@ Poderá também ser pior, isto é, poderá o Espírito cometer, numa existência
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Falta](#falta)
+🏷️ [Perfeição](#perfeição)
 :::
 
 ---
@@ -8294,13 +6331,13 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 ↩️ Voltar para [Q.983](#q983)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Futuro](#futuro)
+🏷️ [Lei de causa e efeito](#lei-de-causa-e-efeito)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Passado](#passado)
+🏷️ [Predição](#predição)
+🏷️ [Provas](#provas)
+🏷️ [Revelação](#revelação)
 :::
 
 ---
@@ -8317,10 +6354,6 @@ O Espírito encarnado permanece de bom grado no seu envoltório corporal?
 ✨ ▸ ▸ É como se perguntasses se ao encarcerado agrada o cárcere. O Espírito encarnado aspira constantemente à sua libertação e tanto mais deseja ver-se livre do seu invólucro, quanto mais grosseiro é este.
 :::
 
-::: expand 🏷️
-🏷️ Alma, emancipação da [↩️](#alma)
-:::
-
 ---
 
 ###### #️⃣ Q.401 {#q401}
@@ -8332,13 +6365,8 @@ Durante o sono, a alma repousa como o corpo?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Relacionamento](#relacionamento)
+🏷️ [Sono](#sono)
 :::
 
 ---
@@ -8367,8 +6395,13 @@ Tratai de distinguir essas duas espécies de sonhos nos de que vos lembrais, do 
 👴🏻 ▸ Os sonhos são efeito da emancipação da alma, que mais independente se torna pela suspensão da vida ativa e de relação. Daí uma espécie de clarividência indefinida que se alonga até aos mais afastados lugares e até mesmo a outros mundos. Daí também a lembrança que traz à memória acontecimentos da precedente existência ou das existências anteriores. As singulares imagens do que se passa ou se passou em mundos desconhecidos, entremeados de coisas do mundo atual, é que formam esses conjuntos estranhos e confusos, que nenhum sentido ou ligação parecem ter. A incoerência dos sonhos ainda se explica pelas lacunas que apresenta a recordação incompleta que conservamos do que nos apareceu quando sonhávamos. É como se a uma narração se truncassem frases ou trechos ao acaso. Reunidos depois, os fragmentos restantes nenhuma significação racional teriam.
 :::
 
-::: expand 🏷️
-🏷️ Alma, sonhos e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Emancipação da alma](#emancipação-da-alma)
+🏷️ [Espíritos superiores](#espíritos-superiores)
+🏷️ [Sonho](#sonho)
+🏷️ [Sono](#sono)
 :::
 
 ---
@@ -8382,13 +6415,7 @@ Por que não nos lembramos sempre dos sonhos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -8409,13 +6436,7 @@ Acontece com frequência verem-se em sonho coisas que parecem um pressentimento,
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sonho](#sonho)
 :::
 
 ---
@@ -8429,13 +6450,9 @@ Quando em sonho vemos pessoas vivas, muito nossas conhecidas, a praticarem atos 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reunião](#reunião)
+🏷️ [Sonho](#sonho)
+🏷️ [Visita](#visita)
 :::
 
 ---
@@ -8453,13 +6470,7 @@ Quando em sonho vemos pessoas vivas, muito nossas conhecidas, a praticarem atos 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Emancipação da alma](#emancipação-da-alma)
 :::
 
 ---
@@ -8473,13 +6484,8 @@ E qual a razão de ouvirmos, algumas vezes em nós mesmos, palavras pronunciadas
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Comunicação](#comunicação)
+🏷️ [Fenômeno mediúnico](#fenômeno-mediúnico)
 :::
 
 ---
@@ -8493,13 +6499,9 @@ Doutras vezes, num estado que ainda não é bem o do adormecimento, estando com 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Fenômeno mediúnico](#fenômeno-mediúnico)
+🏷️ [Mediunidade](#mediunidade)
 :::
 
 ---
@@ -8513,13 +6515,7 @@ Dá-se também que, durante o sono, ou quando nos achamos apenas ligeiramente ad
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Assistência espiritual](#assistência-espiritual)
 :::
 
 ---
@@ -8533,13 +6529,7 @@ De que servem essas ideias e esses conselhos, desde que, por esquecê-los, não 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Vida futura](#vida-futura)
 :::
 
 ---
@@ -8555,13 +6545,7 @@ Estando desprendido da matéria e atuando como Espírito, sabe o Espírito encar
 ↩️ Voltar para [Q.857](#q857)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -8575,13 +6559,8 @@ Pode a atividade do Espírito, durante o repouso, ou o sono corporal, fatigar o 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Sono](#sono)
 :::
 
 ---
@@ -8596,16 +6575,6 @@ Do princípio da emancipação da alma parece decorrer que temos duas existênci
 ✨ ▸ ▸ No estado de emancipação, prima a vida da alma. Contudo, não há, verdadeiramente, duas existências. São antes duas fases de uma só existência, porquanto o homem não vive duplamente.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.414 {#q414}
@@ -8617,13 +6586,7 @@ Podem duas pessoas que se conhecem visitar-se durante o sono?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Visita](#visita)
 :::
 
 ---
@@ -8637,13 +6600,7 @@ Que utilidade podem elas ter, se as olvidamos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ideia](#ideia)
 :::
 
 ---
@@ -8657,13 +6614,8 @@ Pode o homem, pela sua vontade, provocar as visitas espíritas? Pode, por exempl
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encontro](#encontro)
+🏷️ [Visita](#visita)
 :::
 
 ---
@@ -8681,13 +6633,8 @@ Podem Espíritos encarnados reunir-se em certo número e formar assembleias?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Assembleia](#assembleia)
+🏷️ [Espíritos encarnados](#espíritos-encarnados)
 :::
 
 ---
@@ -8701,13 +6648,7 @@ Uma pessoa que julgasse morto um de seus amigos, sem que tal fosse a realidade, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Emancipação da alma](#emancipação-da-alma)
 :::
 
 ---
@@ -8726,16 +6667,6 @@ Que é o que dá causa a que uma ideia, a de uma descoberta, por exemplo, surja 
 👴🏻 ▸ Desse modo, o nosso próprio Espírito revela muitas vezes, a outros Espíritos, mau grado nosso, o que constituía objeto de nossas preocupações no estado de vigília.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.420 {#q420}
@@ -8747,13 +6678,7 @@ Podem os Espíritos comunicar-se, estando completamente despertos os corpos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Irradiação](#irradiação)
 :::
 
 ---
@@ -8771,13 +6696,7 @@ Como se explica que duas pessoas, perfeitamente acordadas, tenham instantaneamen
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espíritos)
 :::
 
 ---
@@ -8792,16 +6711,6 @@ Os letárgicos e os catalépticos, em geral, veem e ouvem o que em derredor se d
 ✨ ▸ ▸ Não; pelo Espírito. O Espírito tem consciência de si, mas não pode comunicar-se.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.422.a {#q422a}
@@ -8813,13 +6722,7 @@ Por quê?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
 :::
 
 ---
@@ -8833,13 +6736,9 @@ Na letargia, pode o Espírito separar-se inteiramente do corpo, de modo a imprim
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnação](#desencarnação)
+🏷️ [Letargia](#letargia)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -8857,13 +6756,8 @@ Por meio de cuidados dispensados a tempo, podem reatar-se laços prestes a se de
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fluido vital](#fluido-vital)
+🏷️ [Letargia](#letargia)
 :::
 
 ---
@@ -8882,16 +6776,6 @@ O sonambulismo natural tem alguma relação com os sonhos? Como explicá-lo?
 👴🏻 ▸ No sonambulismo, o Espírito está na posse plena de si mesmo. Os órgãos materiais, achando-se de certa forma em estado de catalepsia, deixam de receber as impressões **exteriores**. Esse estado se apresenta principalmente durante o sono, ocasião em que o Espírito pode abandonar provisoriamente o corpo, por se encontrar este gozando do repouso indispensável à matéria. Quando se produzem os fatos do sonambulismo, é que o Espírito, preocupado com uma coisa ou outra, se aplica a uma ação qualquer, para cuja prática necessita de utilizar-se do corpo. Serve-se então deste, como se serve de uma mesa ou de outro objeto material no fenômeno das manifestações físicas, ou mesmo como se utiliza da mão do médium nas comunicações escritas. Nos sonhos de que se tem consciência, os órgãos, inclusive os da memória, começam a despertar. Recebem imperfeitamente as impressões produzidas por objetos ou causas externas e as comunicam ao Espírito, que, então, também em repouso, só experimenta, do que lhe é transmitido, sensações confusas e, amiúde, desordenadas, sem nenhuma aparente razão de ser, mescladas que se apresentam de vagas recordações, quer da existência atual, quer de anteriores. Facilmente, portanto, se compreende por que os sonâmbulos nenhuma lembrança guardam do que se passou quando estiveram no estado sonambúlico e por que os sonhos, de que se conserva memória, as mais das vezes não têm sentido. Digo — as mais das vezes, porque também sucede serem a consequência de lembrança exata de acontecimentos de uma vida anterior e até, não raro, uma espécie de intuição do futuro.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.426 {#q426}
@@ -8903,13 +6787,7 @@ O chamado sonambulismo magnético tem alguma relação com o sonambulismo natura
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sonambulismo](#sonambulismo)
 :::
 
 ---
@@ -8923,13 +6801,7 @@ De que natureza é o agente que se chama fluido magnético?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fluido universal](#fluido-universal)
 :::
 
 ---
@@ -8942,8 +6814,8 @@ Qual a causa da clarividência sonambúlica?
 ✨ ▸ ▸ Já o dissemos: É a alma que vê.
 :::
 
-::: expand 🏷️
-🏷️ Alma, atributos da [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -8957,13 +6829,8 @@ Como pode o sonâmbulo ver através dos corpos opacos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Visão](#visão)
 :::
 
 ---
@@ -8977,13 +6844,7 @@ Pois que a sua clarividência é a de sua alma ou de seu Espírito, por que o so
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Clarividência](#clarividência)
 :::
 
 ---
@@ -9001,13 +6862,9 @@ Qual a origem das ideias inatas do sonâmbulo e como pode falar com exatidão de
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ideias inatas](#ideias-inatas)
+🏷️ [Receituário](#receituário)
+🏷️ [Sonâmbulo](#sonâmbulo)
 :::
 
 ---
@@ -9021,13 +6878,7 @@ Como se explica a visão a distância em certos sonâmbulos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sonâmbulo](#sonâmbulo)
 :::
 
 ---
@@ -9041,13 +6892,7 @@ O desenvolvimento maior ou menor da clarividência sonambúlica depende da organ
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Clarividência](#clarividência)
 :::
 
 ---
@@ -9061,13 +6906,8 @@ As faculdades de que goza o sonâmbulo são as que tem o Espírito depois da mor
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito desencarnado](#espírito-desencarnado)
+🏷️ [Sonâmbulo](#sonâmbulo)
 :::
 
 ---
@@ -9085,13 +6925,8 @@ Pode o sonâmbulo ver os outros Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnação](#desencarnação)
+🏷️ [Sonâmbulo](#sonâmbulo)
 :::
 
 ---
@@ -9112,13 +6947,7 @@ Posto que o que se dá, nos fenônemo sonambúlicos, é que a alma se transporta
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sonâmbulo](#sonâmbulo)
 :::
 
 ---
@@ -9132,13 +6961,7 @@ O uso que um sonâmbulo faz da sua faculdade influi no estado do seu Espírito d
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sonambulismo](#sonambulismo)
 :::
 
 ---
@@ -9153,16 +6976,6 @@ Que diferença há entre o êxtase e o sonambulismo?
 ✨ ▸ ▸ O êxtase é um sonambulismo mais apurado. A alma do extático ainda é mais independente.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.440 {#q440}
@@ -9174,13 +6987,7 @@ O Espírito do extático penetra realmente nos mundos superiores?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mundos evoluídos](#mundos-evoluídos)
 :::
 
 ---
@@ -9194,13 +7001,7 @@ Quando o extático manifesta o desejo de deixar a Terra, fala sinceramente, não
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -9213,9 +7014,8 @@ Se se deixasse o extático entregue a si mesmo, poderia sua alma abandonar defin
 ✨ ▸ ▸ Perfeitamente, poderia morrer. Por isso é que preciso se torna chamá-lo a voltar, apelando para tudo o que o prende a este mundo, fazendo-lhe sobretudo compreender que a maneira mais certa de não ficar lá, onde vê que seria feliz, consistiria em partir a cadeia que o tem preso ao planeta terreno.
 :::
 
-::: expand 🏷️
-🏷️ Alma, desgoverno do extático e abandono pela [↩️](#alma)
-
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -9229,13 +7029,7 @@ Pretendendo que lhe é dado ver coisas que evidentemente são produto de uma ima
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ideia](#ideia)
 :::
 
 ---
@@ -9249,13 +7043,7 @@ Que confiança se pode depositar nas revelações dos extáticos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Confiança](#confiança)
 :::
 
 ---
@@ -9269,13 +7057,7 @@ Que deduções se podem tirar dos fenômenos do sonambulismo e do êxtase? Não 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fenômenos](#fenômenos)
 :::
 
 ---
@@ -9289,13 +7071,7 @@ Poderiam tais fenômenos adequar-se às ideias materialistas?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Materialismo](#materialismo)
 :::
 
 ---
@@ -9310,10 +7086,6 @@ O fenômeno a que se dá a designação de **dupla vista** tem alguma relação 
 ✨ ▸ ▸ Tudo isso é uma só coisa. O que se chama **dupla vista** é ainda resultado da libertação do Espírito, sem que o corpo seja adormecido. A **dupla vista** ou **segunda vista** é a vista da alma.
 :::
 
-::: expand 🏷️
-🏷️ Alma, dupla vista e exteriorização da [↩️](#alma)
-:::
-
 ---
 
 ###### #️⃣ Q.448 {#q448}
@@ -9325,13 +7097,7 @@ O fenômeno a que se dá a designação de **dupla vista** tem alguma relação 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dupla vista](#dupla-vista)
 :::
 
 ---
@@ -9345,13 +7111,7 @@ A segunda vista aparece espontaneamente ou por efeito da vontade de quem a possu
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dupla vista](#dupla-vista)
 :::
 
 ---
@@ -9365,13 +7125,7 @@ A dupla vista é suscetível de desenvolver-se pelo exercício?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dupla vista](#dupla-vista)
 :::
 
 ---
@@ -9385,13 +7139,8 @@ Esta faculdade tem qualquer ligação com a organização física?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Dupla vista](#dupla-vista)
 :::
 
 ---
@@ -9405,13 +7154,7 @@ Por que a segunda vista parece hereditária em algumas famílias?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dupla vista](#dupla-vista)
 :::
 
 ---
@@ -9429,13 +7172,7 @@ Por que a segunda vista parece hereditária em algumas famílias?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dupla vista](#dupla-vista)
 :::
 
 ---
@@ -9449,13 +7186,7 @@ As pessoas dotadas de dupla vista sempre têm consciência de que a possuem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dupla vista](#dupla-vista)
 :::
 
 ---
@@ -9468,8 +7199,9 @@ Poder-se-ia atribuir a uma espécie de segunda vista a perspicácia de algumas p
 ✨ ▸ ▸ É sempre a alma a irradiar mais livremente e a apreciar melhor do que sob o véu da matéria.
 :::
 
-::: expand 🏷️
-🏷️ Alma, irradiação da [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Irradiação](#irradiação)
 :::
 
 ---
@@ -9483,13 +7215,7 @@ Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dupla vista](#dupla-vista)
 :::
 
 ---
@@ -9545,14 +7271,6 @@ O poder da vista dupla varia, indo desde a sensação confusa até a percepção
 O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma causa. Esses fenômenos, como os sonhos, estão na ordem da natureza. Tal a razão por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais.
 :::
 
-::: expand 🏷️
-🏷️ Alma, prova da existência e independência da [↩️](#alma)
-
-🏷️ Alma, separação parcial do corpo e da [↩️](#alma)
-
-🏷️ Alma, vista da [↩️](#alma)
-:::
-
 ---
 
 ### 2.09. 🗂️ Intervenção no mundo material {#lde-2-09}
@@ -9567,16 +7285,6 @@ Veem os Espíritos tudo o que fazemos?
 ✨ ▸ ▸ Podem ver, pois que constantemente vos rodeiam. Cada um, porém, só vê aquilo a que dá atenção. Não se ocupam com o que lhes é indiferente.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.457 {#q457}
@@ -9588,13 +7296,7 @@ Podem os Espíritos conhecer os nossos mais secretos pensamentos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Pensamento](#pensamento)
 :::
 
 ---
@@ -9608,13 +7310,7 @@ Assim, mais fácil nos seria ocultar de uma pessoa viva qualquer coisa, do que a
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnado](#desencarnado)
 :::
 
 ---
@@ -9628,13 +7324,7 @@ Que pensam de nós os Espíritos que nos cercam e observam?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Juízo](#juízo)
 :::
 
 ---
@@ -9652,16 +7342,6 @@ Influem os Espíritos em nossos pensamentos e em nossos atos?
 ↩️ Voltar para [Q.872](#q872)
 ↩️ Voltar para [Q.910](#q910)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.460 {#q460}
@@ -9673,13 +7353,7 @@ De par com os pensamentos que nos são próprios, outros haverá que nos sejam s
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Pensamento](#pensamento)
 :::
 
 ---
@@ -9693,13 +7367,7 @@ Como havemos de distinguir os pensamentos que nos são próprios dos que nos sã
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Pensamento](#pensamento)
 :::
 
 ---
@@ -9717,13 +7385,9 @@ Como havemos de distinguir os pensamentos que nos são próprios dos que nos sã
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conhecimento](#conhecimento)
+🏷️ [Influenciação](#influenciação)
+🏷️ [Inteligência](#inteligência)
 :::
 
 ---
@@ -9737,13 +7401,8 @@ Diz-se comumente ser sempre bom o primeiro impulso. É exato?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnado](#encarnado)
+🏷️ [Inspiração](#inspiração)
 :::
 
 ---
@@ -9757,13 +7416,7 @@ Como distinguirmos se um pensamento sugerido procede de um bom Espírito ou de u
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Estudo](#estudo)
 :::
 
 ---
@@ -9777,13 +7430,8 @@ Com que fim os Espíritos imperfeitos nos induzem ao mal?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inferioridade](#inferioridade)
+🏷️ [Influenciação](#influenciação)
 :::
 
 ---
@@ -9797,13 +7445,7 @@ E isso lhes diminui os sofrimentos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -9817,13 +7459,7 @@ De que natureza é o sofrimento que procuram infligir aos outros?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -9841,13 +7477,9 @@ Por que permite Deus que Espíritos nos excitem ao mal?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem](#bem)
+🏷️ [Consciência](#consciência)
+🏷️ [Espírito imperfeito](#espírito-imperfeito)
 :::
 
 ---
@@ -9861,13 +7493,8 @@ Pode o homem eximir-se da influência dos Espíritos que procuram arrastá-lo ao
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desejo](#desejo)
+🏷️ [Pensamento](#pensamento)
 :::
 
 ---
@@ -9881,13 +7508,7 @@ Renunciam às suas tentativas os Espíritos cuja influência a vontade do homem 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Influenciação](#influenciação)
 :::
 
 ---
@@ -9916,13 +7537,8 @@ Os Espíritos, que ao mal procuram induzir-nos e que põem assim em prova a noss
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos inferiores](#espíritos-inferiores)
+🏷️ [Influenciação](#influenciação)
 :::
 
 ---
@@ -9936,13 +7552,7 @@ Quando experimentamos uma sensação de angústia, de ansiedade indefinível, ou
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sensação](#sensação)
 :::
 
 ---
@@ -9956,13 +7566,10 @@ Os Espíritos que procuram atrair-nos para o mal se limitam a aproveitar as circ
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conduta](#conduta)
+🏷️ [Dinheiro](#dinheiro)
+🏷️ [Mal](#mal)
+🏷️ [Tentação](#tentação)
 :::
 
 ---
@@ -9975,16 +7582,6 @@ Pode um Espírito tomar temporariamente o invólucro corporal de uma pessoa viva
 
 ::: spirit
 ✨ ▸ ▸ O Espírito não entra em um corpo como entras numa casa. Identifica-se com um Espírito encarnado, cujos defeitos e qualidades sejam os mesmos que os seus, a fim de obrar com ele. O encarnado é sempre quem atua, conforme quer, sobre a matéria de que se acha revestido. Um Espírito não pode substituir-se ao que está encarnado, por isso que este terá que permanecer ligado ao seu corpo até ao termo fixado para sua existência material.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -10002,13 +7599,11 @@ Desde que não há possessão propriamente dita, isto é, coabitação de dois E
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Epilepsia](#epilepsia)
+🏷️ [Espírito mau](#espírito-mau)
+🏷️ [Exorcismo](#exorcismo)
+🏷️ [Obsessão](#obsessão)
+🏷️ [Possesso](#possesso)
 :::
 
 ---
@@ -10022,13 +7617,7 @@ Pode alguém por si mesmo afastar os maus Espíritos e libertar-se da dominaçã
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Obsessão](#obsessão)
 :::
 
 ---
@@ -10042,13 +7631,8 @@ Pode acontecer que a fascinação exercida pelo mau Espírito seja de tal ordem 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dignidade](#dignidade)
+🏷️ [Fascinação](#fascinação)
 :::
 
 ---
@@ -10062,13 +7646,7 @@ As fórmulas de exorcismo têm qualquer eficácia sobre os maus Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Exorcismo](#exorcismo)
 :::
 
 ---
@@ -10082,13 +7660,7 @@ Pessoas há, animadas de boas intenções e que, nada obstante, não deixam de s
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Obsessão](#obsessão)
 :::
 
 ---
@@ -10102,13 +7674,8 @@ A prece é meio eficiente para a cura da obsessão?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Obsessão](#obsessão)
+🏷️ [Oração](#oração)
 :::
 
 ---
@@ -10122,13 +7689,9 @@ Que se deve pensar da expulsão dos demônios, mencionada no Evangelho?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Demônio](#demônio)
+🏷️ [Evangelho](#evangelho)
+🏷️ [Realidade](#realidade)
 :::
 
 ---
@@ -10141,16 +7704,6 @@ Desempenham os Espíritos algum papel nos fenônemo que se dão com os indivídu
 
 ::: spirit
 ✨ ▸ ▸ Sim e muito importante, bem como o magnetismo, que é a causa originária de tais fenômenos. O charlatanismo, porém, os tem amiúde explorado e exagerado, de sorte a lançá-los ao ridículo.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -10175,13 +7728,7 @@ Como é que sucede estender-se subitamente a toda uma população o estado anorm
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos imperfeitos](#espíritos-imperfeitos)
 :::
 
 ---
@@ -10200,8 +7747,11 @@ Qual a causa da insensibilidade física que se observa em alguns convulsionário
 Visto que esses fenônemo dependem de uma causa física e da ação de certos Espíritos, lícito se torna perguntar como há podido uma autoridade pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos Espíritos, que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a causa que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve razão para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante intervenção nenhum poder absolutamente tem, quando a ação dos Espíritos é direta e espontânea.
 :::
 
-::: expand 🏷️
-🏷️ Autoridade, providências para o bem público e [↩️](#autoridade)
+::: expand 🔗
+🏷️ [Autoridade](#autoridade)
+🏷️ [Convulsionários](#convulsionários)
+🏷️ [Fanatismo](#fanatismo)
+🏷️ [Sensibilidade](#sensibilidade)
 :::
 
 ---
@@ -10216,10 +7766,6 @@ Os Espíritos se afeiçoam de preferência a certas pessoas?
 ✨ ▸ ▸ Os bons Espíritos simpatizam com os homens de bem, ou suscetíveis de se melhorarem. Os Espíritos inferiores com os homens viciosos, ou que podem tornar-se tais. Daí suas afeições, como consequência da conformidade dos sentimentos.
 :::
 
-::: expand 🏷️
-🏷️ Afeição, espíritos, encarnados e [↩️](#afeicao)
-:::
-
 ---
 
 ###### #️⃣ Q.485 {#q485}
@@ -10230,10 +7776,10 @@ Os Espíritos se afeiçoam de preferência a certas pessoas?
 ✨ ▸ ▸ A verdadeira afeição nada tem de carnal, mas quando um Espírito se apega a uma pessoa, nem sempre o faz só por afeição. À estima que essa pessoa lhe inspira pode agregar-se uma reminiscência das paixões humanas.
 :::
 
-::: expand 🏷️
-🏷️ Afeição, espíritos, encarnados e [↩️](#afeicao)
-
-🏷️ Amor, espíritos e sentimento de [↩️](#amor)
+::: expand 🔗
+🏷️ [Afeição](#afeição)
+🏷️ [Amor](#amor)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -10247,13 +7793,8 @@ Interessam-se os Espíritos pelas nossas desgraças e pela nossa prosperidade? A
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Benevolência](#benevolência)
+🏷️ [Espírito bom](#espírito-bom)
 :::
 
 ---
@@ -10275,13 +7816,7 @@ Vendo nas amarguras da vida um meio de nos adiantarmos, os Espíritos as conside
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -10294,11 +7829,9 @@ Os parentes e amigos, que nos precederam na outra vida, maior simpatia nos votam
 ✨ ▸ ▸ Sem dúvida e quase sempre vos protegem como Espíritos, de acordo com o poder de que dispõem.
 :::
 
-::: expand 🏷️
-🏷️ Além-túmulo, amizade e [↩️](#alem-tumulo)
-
-🏷️ Amizade, além-túmulo e [↩️](#amizade)
-
+::: expand 🔗
+🏷️ [Além-túmulo](#além-túmulo)
+🏷️ [Amizade](#amizade)
 :::
 
 ---
@@ -10312,13 +7845,7 @@ São sensíveis à afeição que lhes conservamos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reconhecimento](#reconhecimento)
 :::
 
 ---
@@ -10333,12 +7860,6 @@ Há Espíritos que se ligam particularmente a um indivíduo para protegê-lo?
 ✨ ▸ ▸ Há o irmão espiritual, o que chamais o bom Espírito ou o bom gênio.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
-
-🏷️ Anjo da guarda, proteção de [↩️](#anjo-da-guarda)
-:::
-
 ---
 
 ###### #️⃣ Q.490 {#q490}
@@ -10349,10 +7870,8 @@ Que se deve entender por anjo de guarda ou anjo guardião?
 ✨ ▸ ▸ O Espírito protetor, pertencente a uma ordem elevada.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
-
-🏷️ Anjo da guarda, conceito de [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Anjo da guarda](#anjo-da-guarda)
 :::
 
 ---
@@ -10365,8 +7884,9 @@ Qual a missão do Espírito protetor?
 ✨ ▸ ▸ A de um pai com relação aos filhos; a de guiar o seu protegido pela senda do bem, auxiliá-lo com seus conselhos, consolá-lo nas suas aflições, levantar-lhe o ânimo nas provas da vida.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Espírito protetor](#espírito-protetor)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -10379,8 +7899,8 @@ O Espírito protetor se dedica ao indivíduo desde o seu nascimento?
 ✨ ▸ ▸ Desde o nascimento até a morte e muitas vezes o acompanha na vida espírita, depois da morte, e mesmo através de muitas existências corpóreas, que mais não são do que fases curtíssimas da vida do Espírito.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Espírito protetor](#espírito-protetor)
 :::
 
 ---
@@ -10393,8 +7913,9 @@ O Espírito protetor se dedica ao indivíduo desde o seu nascimento?
 ✨ ▸ ▸ O Espírito fica obrigado a vos assistir, uma vez que aceitou esse encargo. Cabe-lhe, porém, o direito de escolher, para seus protegidos, seres que lhe sejam simpáticos. Para alguns, é um prazer; para outros, missão ou dever.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Espírito protetor](#espírito-protetor)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -10407,8 +7928,9 @@ Dedicando-se a uma pessoa, renuncia o Espírito a proteger outros indivíduos?
 ✨ ▸ ▸ Não, mas protege-os menos exclusivamente.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Benevolência](#benevolência)
+🏷️ [Espírito protetor](#espírito-protetor)
 :::
 
 ---
@@ -10421,8 +7943,8 @@ O Espírito protetor fica fatalmente preso à criatura confiada à sua guarda?
 ✨ ▸ ▸ Frequentemente sucede que alguns Espíritos deixam suas posições de protetores para desempenhar diversas missões, mas, nesse caso, outros os substituem.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Bem](#bem)
 :::
 
 ---
@@ -10449,11 +7971,18 @@ São Luís, IX de França e Santo Agostinho
 👴🏻 ▸ Nada tem de surpreendente a doutrina dos anjos guardiães, a velarem pelos seus protegidos, malgrado a distância que medeia entre os mundos. É, ao contrário, grandiosa e sublime. Não vemos na Terra o pai velar pelo filho, ainda que de muito longe, e auxiliá-lo com seus conselhos, correspondendo-se com ele? Que motivo de espanto haverá, então, em que os Espíritos possam, de um outro mundo, guiar os que, habitantes da Terra, eles tomaram sob sua proteção, uma vez que, para eles, a distância que vai de um mundo a outro é menor do que a que, neste planeta, separa os continentes? Não dispõem, além disso, do fluido universal, que entrelaça todos os mundos, tornando-os solidários; veículo imenso da transmissão dos pensamentos, como o ar é, para nós, o da transmissão do som?
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
-🏷️ Anjo da guarda, assistência do [↩️](#anjo-da-guarda)
-
-🏷️ Anjo da guarda, doutrina de [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Anjo da guarda](#anjo-da-guarda)
+🏷️ [Assistência espiritual](#assistência-espiritual)
+🏷️ [Doutrina](#doutrina)
+🏷️ [Espírito protetor](#espírito-protetor)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Luís (São) e Agostinho (Santo)](#luís-são-e-agostinho-santo)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Presença](#presença)
+🏷️ [Providência divina](#providência-divina)
+🏷️ [Relacionamento](#relacionamento)
+🏷️ [Respeito](#respeito)
 :::
 
 ---
@@ -10466,8 +7995,8 @@ O Espírito, que abandona o seu protegido, que deixa de lhe fazer bem, pode faze
 ✨ ▸ ▸ Os bons Espíritos nunca fazem mal. Deixam que o façam aqueles que lhes tomam o lugar. Costumais então lançar à conta da sorte as desgraças que vos acabrunham, quando só as sofreis por culpa vossa.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Espírito bom](#espírito-bom)
 :::
 
 ---
@@ -10480,8 +8009,8 @@ Pode um Espírito protetor deixar o seu protegido à mercê de outro Espírito q
 ✨ ▸ ▸ Os maus Espíritos se unem para neutralizar a ação dos bons, mas, se o quiser, o protegido dará toda a força ao seu protetor. Pode acontecer que o bom Espírito encontre alhures uma boa vontade a ser auxiliada. Aplica-se então em auxiliá-la, aguardando que seu protegido lhe volte.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Espírito protetor](#espírito-protetor)
 :::
 
 ---
@@ -10494,8 +8023,8 @@ Será por não poder lutar contra Espíritos malévolos que um Espírito proteto
 ✨ ▸ ▸ Não é porque não possa, mas porque não quer. E não quer, porque das provas sai o seu protegido mais instruído e perfeito. Assiste-o sempre com seus conselhos, dando-os por meio dos bons pensamentos que lhe inspira, porém, que quase nunca são atendidos. A fraqueza, o descuido ou o orgulho do homem são exclusivamente o que empresta força aos maus Espíritos, cujo poder todo advém do fato de lhes não opordes resistência.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -10508,8 +8037,8 @@ O Espírito protetor está constantemente com o seu protegido? Não haverá algu
 ✨ ▸ ▸ Há circunstâncias em que não é necessário esteja o Espírito protetor junto do seu protegido.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Espírito protetor](#espírito-protetor)
 :::
 
 ---
@@ -10522,8 +8051,8 @@ Momentos haverá em que o Espírito deixe de precisar, de então por diante, do 
 ✨ ▸ ▸ Sim, quando ele atinge o ponto de poder guiar-se a si mesmo, como sucede ao estudante, para o qual um momento chega em que não mais precisa de mestre. Isso, porém, não se dá na Terra.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Espírito protetor](#espírito-protetor)
 :::
 
 ---
@@ -10536,8 +8065,9 @@ Por que é oculta a ação dos Espíritos sobre a nossa existência e por que, q
 ✨ ▸ ▸ Se vos fosse dado contar sempre com a ação deles, não obraríeis por vós mesmos e o vosso Espírito não progrediria. Para que este possa adiantar-se, precisa de experiência, adquirindo-a frequentemente à sua custa. É necessário que exercite suas forças, sem o que, seria como a criança a quem não consentem que ande sozinha. A ação dos Espíritos que vos querem bem é sempre regulada de maneira que não vos tolha o livre-arbítrio, porquanto, se não tivésseis responsabilidade, não avançaríeis na senda que vos há de conduzir a Deus. Não vendo quem o ampara, o homem se confia às suas próprias forças. Sobre ele, entretanto, vela o seu guia e, de tempos a tempos, lhe brada, advertindo-o do perigo.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -10550,8 +8080,8 @@ O Espírito protetor, que consegue trazer ao bom caminho o seu protegido, lucra 
 ✨ ▸ ▸ Constitui isso um mérito que lhe é levado em conta, seja para seu progresso, seja para sua felicidade. Sente-se ditoso quando vê bem-sucedidos os seus esforços, o que representa, para ele, um triunfo, como triunfo é, para um preceptor, os bons êxitos do seu educando.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Evolução](#evolução)
 :::
 
 ---
@@ -10564,8 +8094,8 @@ O Espírito protetor, que consegue trazer ao bom caminho o seu protegido, lucra 
 ✨ ▸ ▸ Não, pois que fez o que de si dependia.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Responsabilidade](#responsabilidade)
 :::
 
 ---
@@ -10578,8 +8108,8 @@ Sofre o Espírito protetor quando vê que seu protegido segue mau caminho, não 
 ✨ ▸ ▸ Compungem-no os erros do seu protegido, a quem lastima. Tal aflição, porém, não tem analogia com as angústias da paternidade terrena, porque ele sabe que há remédio para o mal e que o que não se faz hoje, amanhã se fará.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -10592,10 +8122,8 @@ Poderemos sempre saber o nome do Espírito nosso protetor ou anjo de guarda?
 ✨ ▸ ▸ Como quereis saber nomes para vós inexistentes? Supondes que Espíritos só há os que conheceis?
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
-
-🏷️ Anjo da guarda, identidade civil de [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Anjo da guarda](#anjo-da-guarda)
 :::
 
 ---
@@ -10608,8 +8136,8 @@ Como então o podemos invocar, se o não conhecemos?
 ✨ ▸ ▸ Dai-lhe o nome que quiserdes, o de Espírito superior que vos inspire simpatia ou veneração. O vosso protetor acudirá ao apelo que com esse nome lhe dirigirdes, visto que todos os bons Espíritos são irmãos e se assistem mutuamente.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Identidade](#identidade)
 :::
 
 ---
@@ -10622,8 +8150,9 @@ Os protetores, que dão nomes conhecidos, sempre são, realmente, os Espíritos 
 ✨ ▸ ▸ Não. Muitas vezes, os que os dão são Espíritos simpáticos aos que tais nomes usaram na Terra e, a mando destes, respondem ao vosso chamamento. Fazeis questão de nomes; eles tomam um que vos inspire confiança. Quando não podeis desempenhar pessoalmente determinada missão, não costumais mandar outro, por quem respondeis como por vós mesmos, obre em vosso nome?
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Identidade](#identidade)
+🏷️ [Personalidade](#personalidade)
 :::
 
 ---
@@ -10636,8 +8165,8 @@ Na vida espírita, reconheceremos o Espírito nosso protetor?
 ✨ ▸ ▸ Decerto, pois não é raro que o tenhais conhecido antes de encarnardes.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Mundo espiritual](#mundo-espiritual)
 :::
 
 ---
@@ -10650,8 +8179,8 @@ Pertencem todos os Espíritos protetores à classe dos Espíritos elevados? Pode
 ✨ ▸ ▸ Pode, mas a proteção pressupõe certo grau de elevação e um poder ou uma virtude a mais, concedidos por Deus. O pai, que protege seu filho, também pode ser assistido por um Espírito mais elevado.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Providência divina](#providência-divina)
 :::
 
 ---
@@ -10664,8 +8193,9 @@ Os Espíritos que se achavam em boas condições ao deixarem a Terra, sempre pod
 ✨ ▸ ▸ Mais ou menos restrito é o poder de que desfrutam. A situação em que se encontram nem sempre lhes permite inteira liberdade de ação.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Desencarnado](#desencarnado)
+🏷️ [Entes queridos](#entes-queridos)
 :::
 
 ---
@@ -10678,8 +8208,9 @@ Quando em estado de selvageria ou de inferioridade moral, têm os homens, igualm
 ✨ ▸ ▸ Todo homem tem um Espírito que por ele vela, mas as missões são relativas ao fim que visam. Não dais a uma criança, que está aprendendo a ler, um professor de filosofia. O progresso do Espírito familiar guarda relação com o do Espírito protegido. Tendo um Espírito que vela por vós, podeis tornar-vos, a vosso turno, o protetor de outro que vos seja inferior e os progressos que este realize, com o auxílio que lhe dispensardes, contribuirão para o vosso adiantamento. Deus não exige do Espírito mais do que comportem a sua natureza e o grau de elevação a que já chegou.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Espírito protetor](#espírito-protetor)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -10694,8 +8225,9 @@ Quando o pai, que vela pelo filho, reencarna, continua a velar por ele?
 Encarnado, mormente em mundo onde a existência é material, o Espírito se acha muito sujeito ao corpo para poder dedicar-se inteiramente a outro Espírito, isto é, para poder assisti-lo pessoalmente. Tanto assim que os que ainda se não elevaram bastante são também assistidos por outros, que lhes estão acima, de tal sorte que, se por qualquer circunstância um vem a faltar, outro lhe supre a falta.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Filho](#filho)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -10708,8 +8240,9 @@ A cada indivíduo achar-se-á ligado, além do Espírito protetor, um mau Espír
 ✨ ▸ ▸ Ligado, não é o termo. É certo que os maus Espíritos procuram desviar do bom caminho o homem, quando se lhes depara ocasião. Sempre, porém, que um deles se liga a um indivíduo, fá-lo por si mesmo, porque conta ser atendido. Há então luta entre o bom e o mau, vencendo aquele por quem o homem se deixe influenciar.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Bem](#bem)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -10722,8 +8255,8 @@ Podemos ter muitos Espíritos protetores?
 ✨ ▸ ▸ Todo homem conta sempre Espíritos, mais ou menos elevados, que com ele simpatizam, que lhe dedicam afeto e por ele se interessam, como também tem junto de si outros que o assistem no mal.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Assistência espiritual](#assistência-espiritual)
 :::
 
 ---
@@ -10736,8 +8269,8 @@ Os Espíritos que conosco simpatizam atuam em cumprimento de missão?
 ✨ ▸ ▸ Não raro, desempenham missão temporária; porém, as mais das vezes, são apenas atraídos pela identidade de pensamentos e sentimentos, assim para o bem como para o mal.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Pensamento](#pensamento)
 :::
 
 ---
@@ -10748,10 +8281,6 @@ Parece lícito inferir-se daí que os Espíritos a quem somos simpáticos podem 
 
 ::: spirit
 ✨ ▸ ▸ Sim, qualquer que seja o seu caráter, o homem sempre encontra Espíritos que com ele simpatizem.
-:::
-
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
 :::
 
 ---
@@ -10776,10 +8305,12 @@ Os Espíritos simpáticos são os que se sentem atraídos para o nosso lado por 
 O mau gênio é um Espírito imperfeito ou perverso, que se liga ao homem para desviá-lo do bem. Obra, porém, por impulso próprio e não no desempenho de missão. A tenacidade da sua ação está em relação direta com a maior ou menor facilidade de acesso que encontre por parte do homem, que goza sempre da liberdade de escutar-lhe a voz ou de lhe cerrar os ouvidos.
 :::
 
-::: expand 🏷️
-🏷️ Anjo da guarda [↩️](#anjo-da-guarda)
-
-🏷️ Anjo da guarda, conceito de [↩️](#anjo-da-guarda)
+::: expand 🔗
+🏷️ [Anjo da guarda](#anjo-da-guarda)
+🏷️ [Assistência espiritual](#assistência-espiritual)
+🏷️ [Espírito familiar](#espírito-familiar)
+🏷️ [Espírito imperfeito](#espírito-imperfeito)
+🏷️ [Espírito simpático](#espírito-simpático)
 :::
 
 ---
@@ -10793,13 +8324,8 @@ Que se há de pensar dessas pessoas que se ligam a certos indivíduos para levá
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito mau](#espírito-mau)
+🏷️ [Provas](#provas)
 :::
 
 ---
@@ -10813,13 +8339,7 @@ Poderiam os nossos bom e mau gênios encarnar, a fim de mais de perto nos acompa
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Vida corpórea](#vida-corpórea)
 :::
 
 ---
@@ -10833,13 +8353,8 @@ Haverá Espíritos que se liguem a uma família inteira para protegê-la? [^14]
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Assistência espiritual](#assistência-espiritual)
+🏷️ [Família](#família)
 :::
 
 ---
@@ -10853,13 +8368,7 @@ Assim como são atraídos, pela simpatia, para certos indivíduos, são-no igual
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos simpáticos](#espíritos-simpáticos)
 :::
 
 ---
@@ -10873,13 +8382,7 @@ As aglomerações de indivíduos, como as sociedades, as cidades, as nações, t
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dirigente](#dirigente)
 :::
 
 ---
@@ -10893,13 +8396,7 @@ Os Espíritos protetores das coletividades são de natureza mais elevada do que 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espíritos protetores](#espíritos-protetores)
 :::
 
 ---
@@ -10920,8 +8417,13 @@ Tendo todo homem Espíritos que com ele simpatizam, claro é que, nos **corpos c
 Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o caráter dominante e sobretudo as leis, porque o caráter de uma nação se reflete nas suas leis. Fazendo reinar em seu seio a justiça, os homens combatem a influência dos maus Espíritos. Onde quer que as leis consagrem coisas injustas, contrárias à Humanidade, os bons Espíritos ficam em minoria e a multidão que aflui dos maus mantém a nação aferrada às suas ideias e paralisa as boas influências parciais, que ficam perdidas no conjunto, como insuladas espigas entre espinheiros. Estudando-se os costumes dos povos ou de qualquer reunião de homens, facilmente se forma ideia da população oculta que se lhes imiscui no modo de pensar e nos atos.
 :::
 
-::: expand 🏷️
-🏷️ Afinidade, atração por [↩️](#afinidade)
+::: expand 🔗
+🏷️ [Afinidade](#afinidade)
+🏷️ [Arte](#arte)
+🏷️ [Assistência espiritual](#assistência-espiritual)
+🏷️ [Espíritos protetores](#espíritos-protetores)
+🏷️ [Nação](#nação)
+🏷️ [Povos](#povos)
 :::
 
 ---
@@ -10938,16 +8440,6 @@ O pressentimento é sempre um aviso do Espírito protetor?
 
 ↩️ Voltar para [Q.857](#q857)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.523 {#q523}
@@ -10959,13 +8451,7 @@ Acontecendo que os pressentimentos e a voz do instinto são sempre algum tanto v
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Oração](#oração)
 :::
 
 ---
@@ -10983,13 +8469,8 @@ Os avisos dos Espíritos protetores objetivam unicamente o nosso procedimento mo
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conselho](#conselho)
+🏷️ [Espírito protetor](#espírito-protetor)
 :::
 
 ---
@@ -11006,16 +8487,6 @@ Exercem os Espíritos alguma influência nos acontecimentos da vida?
 
 ↩️ Voltar para [Q.866](#q866)
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.525.a {#q525a}
@@ -11031,13 +8502,8 @@ Exercem essa influência por outra forma que não apenas pelos pensamentos que s
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Influenciação](#influenciação)
+🏷️ [Pensamento](#pensamento)
 :::
 
 ---
@@ -11053,13 +8519,8 @@ Tendo, como têm, ação sobre a matéria, podem os Espíritos provocar certos e
 ↩️ Voltar para [Q.855](#q855)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
@@ -11073,13 +8534,7 @@ Tomemos outro exemplo, em que não entre a matéria em seu estado natural. Um ho
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -11093,13 +8548,7 @@ No caso de uma pessoa mal-intencionada disparar sobre outra um projetil que apen
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Encarnado](#encarnado)
 :::
 
 ---
@@ -11113,13 +8562,7 @@ Que se deve pensar das balas encantadas, de que falam algumas lendas e que fatal
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Imaginação](#imaginação)
 :::
 
 ---
@@ -11133,13 +8576,7 @@ Podem os Espíritos que dirigem os acontecimentos terrenos ter obstada sua açã
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -11153,13 +8590,7 @@ Não podem os Espíritos levianos e zombeteiros criar pequenos embaraços à rea
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito leviano](#espírito-leviano)
 :::
 
 ---
@@ -11173,13 +8604,7 @@ Destes, os que provocam contrariedades obram impelidos por animosidade pessoal, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Vidas passadas](#vidas-passadas)
 :::
 
 ---
@@ -11193,13 +8618,8 @@ Extingue-se-lhes com a vida corpórea a malevolência dos seres que nos fizeram 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
 🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Plano físico](#plano-físico)
 :::
 
 ---
@@ -11217,13 +8637,8 @@ Pode-se pôr termo a isso? Por que meio?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Oração](#oração)
+🏷️ [Vingança](#vingança)
 :::
 
 ---
@@ -11243,13 +8658,8 @@ Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do
 ↩️ Voltar para [Q.855](#q855)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conhecimento](#conhecimento)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -11263,13 +8673,7 @@ Podem os Espíritos fazer que obtenham riquezas os que lhes pedem que assim acon
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Riqueza](#riqueza)
 :::
 
 ---
@@ -11283,13 +8687,7 @@ São os bons ou os maus Espíritos que concedem esses favores?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -11305,13 +8703,7 @@ Será por influência de algum Espírito que, fatalmente, a realização dos nos
 ↩️ Voltar para [Q.707](#q707)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Indivíduo](#indivíduo)
 :::
 
 ---
@@ -11324,8 +8716,9 @@ Quando algo de venturoso nos sucede é ao Espírito nosso protetor que devemos a
 ✨ ▸ ▸ Agradecei primeiramente a Deus, sem cuja permissão nada se faz; depois, aos bons Espíritos que foram os agentes da sua vontade.
 :::
 
-::: expand 🏷️
-🏷️ Agradecimento, providência divina e [↩️](#agradecimento)
+::: expand 🔗
+🏷️ [Agradecimento](#agradecimento)
+🏷️ [Providência divina](#providência-divina)
 :::
 
 ---
@@ -11339,13 +8732,7 @@ Que sucederia se nos esquecêssemos de agradecer?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ingratidão](#ingratidão)
 :::
 
 ---
@@ -11359,13 +8746,8 @@ No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem!
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conhecimento](#conhecimento)
+🏷️ [Responsabilidade](#responsabilidade)
 :::
 
 ---
@@ -11380,16 +8762,6 @@ São devidos a causas fortuitas, ou, ao contrário, têm todos um fim providenci
 ✨ ▸ ▸ Tudo tem uma razão de ser e nada acontece sem a permissão de Deus.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.536.a {#q536a}
@@ -11401,13 +8773,7 @@ Objetivam sempre o homem esses fenômenos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Natureza](#natureza)
 :::
 
 ---
@@ -11421,13 +8787,7 @@ Concebemos perfeitamente que a vontade de Deus seja a causa primária, nisto com
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fenômenos](#fenômenos)
 :::
 
 ---
@@ -11441,13 +8801,7 @@ A mitologia dos antigos se fundava inteiramente em ideias espíritas, com a úni
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mitologia](#mitologia)
 :::
 
 ---
@@ -11461,13 +8815,7 @@ Poderá então haver Espíritos que habitem o interior da Terra e presidam aos f
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -11481,13 +8829,7 @@ Formam categoria especial no mundo espírita os Espíritos que presidem aos fen�
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---
@@ -11501,13 +8843,8 @@ Pertencem esses Espíritos às ordens superiores ou às inferiores da hierarquia
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Escala](#escala)
+🏷️ [Hierarquia](#hierarquia)
 :::
 
 ---
@@ -11521,13 +8858,7 @@ A produção de certos fenômenos, das tempestades, por exemplo, é obra de um s
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fenômenos](#fenômenos)
 :::
 
 ---
@@ -11543,13 +8874,8 @@ Os Espíritos que exercem ação nos fenônemo da Natureza operam com conhecimen
 ↩️ Voltar para [Q.559](#q559)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
+🏷️ [Espírito(s)](#espíritos)
 🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -11568,16 +8894,6 @@ Durante uma batalha, há Espíritos assistindo e amparando cada um dos exército
 👴🏻 ▸ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses deuses eram simplesmente Espíritos representados por alegorias.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.542 {#q542}
@@ -11589,13 +8905,7 @@ Estando, numa guerra, a justiça sempre de um dos lados, como pode haver Espíri
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Guerra](#guerra)
 :::
 
 ---
@@ -11609,13 +8919,7 @@ Podem alguns Espíritos influenciar o general na concepção de seus planos de c
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Influenciação](#influenciação)
 :::
 
 ---
@@ -11629,13 +8933,8 @@ Poderiam maus Espíritos suscitar-lhe planos errôneos com o fim de levá-lo à 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Decisão](#decisão)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -11649,13 +8948,8 @@ Pode, alguma vez, o general ser guiado por uma espécie de dupla vista, por uma 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Influenciação](#influenciação)
+🏷️ [Inspiração](#inspiração)
 :::
 
 ---
@@ -11673,13 +8967,8 @@ No tumulto dos combates, que se passa com os Espíritos dos que sucumbem? Contin
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Combates](#combates)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -11693,13 +8982,7 @@ Após a morte, os Espíritos, que como vivos se guerreavam, continuam a consider
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ódio](#ódio)
 :::
 
 ---
@@ -11713,13 +8996,8 @@ Continua a ouvir o rumor da batalha?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desencarnado](#desencarnado)
+🏷️ [Percepção](#percepção)
 :::
 
 ---
@@ -11733,13 +9011,7 @@ O Espírito que, como espectador, assiste calmamente a um combate observa o ato 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Morte](#morte)
 :::
 
 ---
@@ -11758,16 +9030,6 @@ Algo de verdade haverá nos pactos com os maus Espíritos?
 👴🏻 ▸ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores nasce de se entregar aos maus pensamentos que estes lhe sugerem e não de estipulações quaisquer que com eles faça. O pacto, no sentido vulgar do termo, é uma alegoria representativa da simpatia existente entre um indivíduo de natureza má e Espíritos malfazejos.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.550 {#q550}
@@ -11779,13 +9041,7 @@ Qual o sentido das lendas fantásticas em que figuram indivíduos que teriam ven
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Satanás](#satanás)
 :::
 
 ---
@@ -11800,16 +9056,6 @@ Pode um homem mau, com o auxílio de um mau Espírito que lhe seja dedicado, faz
 ✨ ▸ ▸ Não; Deus não o permitiria.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.552 {#q552}
@@ -11821,13 +9067,7 @@ Que se deve pensar da crença no poder, que certas pessoas teriam, de enfeitiça
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Feitiçaria](#feitiçaria)
 :::
 
 ---
@@ -11841,13 +9081,7 @@ Que efeito podem produzir as fórmulas e práticas mediante as quais pessoas há
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Charlatanismo](#charlatanismo)
 :::
 
 ---
@@ -11861,13 +9095,7 @@ Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmulas c
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito leviano](#espírito-leviano)
 :::
 
 ---
@@ -11881,13 +9109,8 @@ Não pode aquele que, com ou sem razão, confia no que chama a virtude de um tal
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Feiticeiro](#feiticeiro)
+🏷️ [Talismã](#talismã)
 :::
 
 ---
@@ -11905,13 +9128,8 @@ Que sentido se deve dar ao qualificativo de feiticeiro?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Feitiçaria](#feitiçaria)
 :::
 
 ---
@@ -11925,13 +9143,7 @@ Têm algumas pessoas, verdadeiramente, o poder de curar pelo simples contato?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Magnetismo](#magnetismo)
 :::
 
 ---
@@ -11956,16 +9168,6 @@ Alguma outra coisa incumbe aos Espíritos fazer, que não seja melhorarem-se pes
 ✨ ▸ ▸ Concorrem para a harmonia do Universo, executando as vontades de Deus, cujos ministros eles são. A vida espírita é uma ocupação contínua, mas que nada tem de penosa, como a vida na Terra, porque não há a fadiga corporal, nem as angústias das necessidades.
 :::
 
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
-:::
-
 ---
 
 ###### #️⃣ Q.559 {#q559}
@@ -11979,13 +9181,7 @@ Também desempenham função útil no Universo os Espíritos inferiores e imperf
 👉 Veja [Q.540](#q540)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Trabalho](#trabalho)
 :::
 
 ---
@@ -11999,13 +9195,8 @@ Tem atribuições especiais cada Espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Eclesiastes](#eclesiastes)
+🏷️ [Evolução](#evolução)
 :::
 
 ---
@@ -12023,13 +9214,8 @@ São permanentes para cada um e estão nas atribuições exclusivas de certas cl
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Conhecimento](#conhecimento)
+🏷️ [Escala](#escala)
 :::
 
 ---
@@ -12043,13 +9229,7 @@ Já não tendo o que adquirir, os Espíritos da ordem mais elevada se acham em r
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ociosidade](#ociosidade)
 :::
 
 ---
@@ -12063,13 +9243,7 @@ De que natureza são as suas ocupações?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -12083,13 +9257,7 @@ São incessantes as ocupações dos Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ocupação](#ocupação)
 :::
 
 ---
@@ -12110,13 +9278,7 @@ Haverá Espíritos que se conservem ociosos, que em coisa alguma útil se ocupem
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito inferior](#espírito-inferior)
 :::
 
 ---
@@ -12130,13 +9292,7 @@ Atentam os Espíritos em nossos trabalhos de arte e por eles se interessam?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -12150,13 +9306,7 @@ Um Espírito, que haja cultivado na Terra uma especialidade artística, que tenh
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ocupação](#ocupação)
 :::
 
 ---
@@ -12170,13 +9320,7 @@ Concebemos que seja assim, em se tratando de Espíritos muito adiantados. Referi
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Evolução](#evolução)
 :::
 
 ---
@@ -12194,13 +9338,7 @@ Costumam os Espíritos imiscuir-se em nossos prazeres e ocupações?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Cotidiano](#cotidiano)
 :::
 
 ---
@@ -12214,13 +9352,7 @@ Os Espíritos, que têm missões a cumprir, as cumprem na erraticidade, ou encar
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -12238,13 +9370,9 @@ Em que consistem as missões de que podem ser encarregados os Espíritos errante
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Bem](#bem)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito errante](#espírito-errante)
 :::
 
 ---
@@ -12258,13 +9386,7 @@ Os Espíritos percebem sempre os desígnios que lhes compete executar?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -12278,13 +9400,7 @@ Só os Espíritos elevados desempenham missões?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -12298,13 +9414,7 @@ A missão de um Espírito lhe é imposta, ou depende da sua vontade?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -12318,13 +9428,7 @@ Pode uma mesma missão ser pedida por muitos Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -12338,13 +9442,9 @@ Em que consiste a missão dos Espíritos encarnados?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito encarnado](#espírito-encarnado)
+🏷️ [Missão](#missão)
+🏷️ [Natureza](#natureza)
 :::
 
 ---
@@ -12358,13 +9458,7 @@ Qual pode ser, na Terra, a missão das criaturas voluntariamente inúteis?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inutilidade](#inutilidade)
 :::
 
 ---
@@ -12378,13 +9472,7 @@ Pois que lhes era facultada a escolha, por que preferiram uma existência que ne
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Ociosidade](#ociosidade)
 :::
 
 ---
@@ -12398,13 +9486,9 @@ As ocupações comuns mais nos parecem deveres do que missões propriamente dita
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Dever](#dever)
+🏷️ [Missão](#missão)
+🏷️ [Realização](#realização)
 :::
 
 ---
@@ -12418,13 +9502,8 @@ Foram predestinados a isso, antes de nascerem, os homens que trazem uma importan
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Missão](#missão)
+🏷️ [Predestinação](#predestinação)
 :::
 
 ---
@@ -12438,13 +9517,8 @@ Quando um homem faz alguma coisa útil, fá-la sempre em virtude da missão em q
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Descobrimentos](#descobrimentos)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -12458,13 +9532,7 @@ Poderá o Espírito, por própria culpa, falir na sua missão?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Falibilidade](#falibilidade)
 :::
 
 ---
@@ -12478,13 +9546,7 @@ Que consequências lhe advirão da sua falência?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fracasso](#fracasso)
 :::
 
 ---
@@ -12498,13 +9560,8 @@ Pois se é de Deus que o Espírito recebe a sua missão, como se há de compreen
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Presciência](#presciência)
 :::
 
 ---
@@ -12518,13 +9575,8 @@ O Espírito, que encarna para desempenhar determinada missão, tem apreensões i
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Experiência](#experiência)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -12538,13 +9590,10 @@ Certamente desempenham missão os homens que servem de faróis ao gênero humano
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Divulgação](#divulgação)
+🏷️ [Engano](#engano)
+🏷️ [Ensino](#ensino)
+🏷️ [Missão](#missão)
 :::
 
 ---
@@ -12560,13 +9609,8 @@ Pode-se considerar como missão a paternidade?
 ↩️ Voltar para [Q.892](#q892)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Paternidade](#paternidade)
+🏷️ [Responsabilidade](#responsabilidade)
 :::
 
 ---
@@ -12582,13 +9626,7 @@ São responsáveis os pais pelo transviamento de um filho que envereda pelo cami
 ↩️ Voltar para [Q.892](#q892)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Mal](#mal)
 :::
 
 ---
@@ -12602,13 +9640,7 @@ Se um filho se torna homem de bem, não obstante a negligência ou os maus exemp
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Justiça divina](#justiça-divina)
 :::
 
 ---
@@ -12622,13 +9654,7 @@ De que natureza será a missão do conquistador que apenas visa satisfazer à su
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Descobrimentos](#descobrimentos)
 :::
 
 ---
@@ -12676,13 +9702,8 @@ Que pensais da divisão da Natureza em três reinos, ou melhor, em duas classes:
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Desmaterialização](#desmaterialização)
+🏷️ [Ocupação](#ocupação)
 :::
 
 ---
@@ -12696,13 +9717,7 @@ Têm as plantas consciência de que existem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Vegetal](#vegetal)
 :::
 
 ---
@@ -12716,13 +9731,9 @@ Experimentam sensações? Sofrem quando as mutilam?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Percepção](#percepção)
+🏷️ [Sensação](#sensação)
+🏷️ [Vegetal](#vegetal)
 :::
 
 ---
@@ -12735,8 +9746,8 @@ Independe da vontade delas a força que as atrai umas para as outras?
 ✨ ▸ ▸ Certo, porquanto não pensam. É uma força mecânica da matéria, que atua sobre a matéria, sem que elas possam a isso opor-se.
 :::
 
-::: expand 🏷️
-🏷️ Automatismo, matéria e [↩️](#automatismo)
+::: expand 🔗
+🏷️ [Automatismo](#automatismo)
 :::
 
 ---
@@ -12753,10 +9764,9 @@ Algumas plantas, como a sensitiva e a dioneia, por exemplo, executam movimentos 
 👴🏻 ▸ O organismo humano nos proporciona exemplo de movimentos análogos, sem participação da vontade, nas funções digestivas e circulatórias. O piloro se contrai, ao contato de certos corpos, para lhes negar passagem. O mesmo provavelmente se dá na sensitiva, cujos movimentos de nenhum modo implicam a necessidade de percepção e, ainda menos, da vontade.
 :::
 
-::: expand 🏷️
-🏷️ Automatismo, rejeição e [↩️](#automatismo)
-
-🏷️ Automatismo, transição e [↩️](#automatismo)
+::: expand 🔗
+🏷️ [Automatismo](#automatismo)
+🏷️ [Transição](#transição)
 :::
 
 ---
@@ -12769,8 +9779,8 @@ Não haverá nas plantas, como nos animais, um instinto de conservação, que as
 ✨ ▸ ▸ Há, se quiserdes, uma espécie de instinto, dependendo isso da extensão que se dê ao significado desta palavra. É, porém, um instinto puramente mecânico. Quando, nas operações químicas, observais que dois corpos se reúnem, é que um ao outro convém; quer dizer: é que há entre eles afinidade. Ora, a isto não dais o nome de instinto.
 :::
 
-::: expand 🏷️
-🏷️ Automatismo, conveniência e [↩️](#automatismo)
+::: expand 🔗
+🏷️ [Automatismo](#automatismo)
 :::
 
 ---
@@ -12784,13 +9794,7 @@ Nos mundos superiores, as plantas são de natureza mais perfeita, como os outros
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Vegetal](#vegetal)
 :::
 
 ---
@@ -12803,10 +9807,6 @@ Se, pelo que toca à inteligência, comparamos o homem e os animais, parece dif�
 
 ::: spirit
 ✨ ▸ ▸ A este respeito é completo o desacordo entre os vossos filósofos. Querem uns que o homem seja um animal e outros que o animal seja um homem. Estão todos em erro. O homem é um ser à parte, que desce muito baixo algumas vezes e que pode também elevar-se muito alto. Pelo físico, é como os animais e menos bem-dotado do que muitos destes. A Natureza lhes deu tudo o que o homem é obrigado a **inventar com a sua inteligência**, para satisfação de suas necessidades e para sua conservação. Seu corpo se destrói, como o dos animais, é certo, mas ao seu Espírito está assinado um destino que só ele pode compreender, porque só ele é inteiramente livre. Pobres homens, que vos rebaixais mais do que os brutos! não sabeis distinguir-vos deles? Reconhecei o homem pela faculdade de pensar em Deus.
-:::
-
-::: expand 🏷️
-🏷️ Animais, homem e [↩️](#animais)
 :::
 
 ---
@@ -12823,10 +9823,9 @@ Poder-se-á dizer que os animais só obram por instinto?
 👴🏻 ▸ Não se poderia negar que, além de possuírem o instinto, alguns animais praticam atos combinados, que denunciam vontade de operar em determinado sentido e de acordo com as circunstâncias. Há, pois, neles, uma espécie de inteligência, mas cujo exercício quase que se circunscreve à utilização dos meios de satisfazerem às suas necessidades físicas e de proverem à conservação própria. Nada, porém, criam, nem melhora alguma realizam. Qualquer que seja a arte com que executem seus trabalhos, fazem hoje o que faziam outrora e o fazem, nem melhor, nem pior, segundo formas e proporções constantes e invariáveis. A cria, separada dos de sua espécie, não deixa por isso de construir o seu ninho de perfeita conformidade com os seus maiores, sem que tenha recebido nenhum ensino. O desenvolvimento intelectual de alguns, que se mostram suscetíveis de certa educação, desenvolvimento, aliás, que não pode ultrapassar acanhados limites, é devido à ação do homem sobre uma natureza maleável, porquanto não há aí progresso que lhe seja próprio. Mesmo o progresso que realizam pela ação do homem é efêmero e puramente individual, visto que, entregue a si mesmo, não tarda que o animal volte a encerrar-se nos limites que lhe traçou a Natureza.
 :::
 
-::: expand 🏷️
-🏷️ Animais, instinto e [↩️](#animais)
-
-🏷️ Animais, inteligência rudimentar e [↩️](#animais)
+::: expand 🔗
+🏷️ [Animais](#animais)
+🏷️ [Instinto](#instinto)
 :::
 
 ---
@@ -12840,13 +9839,7 @@ Têm os animais alguma linguagem?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Linguagem](#linguagem)
 :::
 
 ---
@@ -12863,8 +9856,11 @@ Há, entretanto, animais que carecem de voz. Esses parece que nenhuma linguagem 
 👴🏻 ▸ Efetivamente, os peixes que, como as andorinhas, emigram em cardumes, obedientes ao guia que os conduz, devem ter meios de se advertirem, de se entenderem e combinarem. É possível que disponham de uma vista mais penetrante e esta lhes permita perceber os sinais que mutuamente façam. Pode ser também que tenham na água um veículo próprio para a transmissão de certas vibrações. Como quer que seja, o que é incontestável é que lhes não falecem meios de se entenderem, do mesmo modo que a todos os animais carentes de voz e que, não obstante, trabalham em comum. Diante disso, que admiração pode causar que os Espíritos entre si se comuniquem sem o auxílio da palavra articulada?
 :::
 
-::: expand 🏷️
-🏷️ Animais, comunicação entre os [↩️](#animais)
+::: expand 🔗
+🏷️ [Animais](#animais)
+🏷️ [Comunicação](#comunicação)
+🏷️ [Linguagem](#linguagem)
+🏷️ [Palavra](#palavra)
 :::
 
 ---
@@ -12877,10 +9873,9 @@ Gozam de livre-arbítrio os animais, para a prática dos seus atos?
 ✨ ▸ ▸ Os animais não são simples máquinas, como supondes. Contudo, a liberdade de ação, de que desfrutam, é limitada pelas suas necessidades e não se pode comparar à do homem. Sendo muitíssimo inferiores a este, não têm os mesmos deveres que ele. A liberdade, possuem-na restrita aos atos da vida material.
 :::
 
-::: expand 🏷️
-🏷️ Animais, liberdade de ação dos [↩️](#animais)
-
-🏷️ Animais, livre-arbítrio e [↩️](#animais)
+::: expand 🔗
+🏷️ [Animais](#animais)
+🏷️ [Livre-arbítrio](#livre-arbítrio)
 :::
 
 ---
@@ -12894,13 +9889,7 @@ Donde procede a aptidão que certos animais denotam para imitar a linguagem do h
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Linguagem](#linguagem)
 :::
 
 ---
@@ -12913,8 +9902,8 @@ Pois que os animais possuem uma inteligência que lhes faculta certa liberdade d
 ✨ ▸ ▸ Há e que sobrevive ao corpo.
 :::
 
-::: expand 🏷️
-🏷️ Animais, princípio sobrevivente ao corpo dos [↩️](#animais)
+::: expand 🔗
+🏷️ [Animais](#animais)
 :::
 
 ---
@@ -12927,8 +9916,8 @@ Será esse princípio uma alma semelhante à do homem?
 ✨ ▸ ▸ É também uma alma, se quiserdes, dependendo isto do sentido que se der a esta palavra. É, porém, inferior à do homem. Há entre a alma dos animais e a do homem distância equivalente à que medeia entre a alma do homem e Deus.
 :::
 
-::: expand 🏷️
-🏷️ Alma, homem e [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
 :::
 
 ---
@@ -12941,8 +9930,8 @@ Após a morte, conserva a alma dos animais a sua individualidade e a consciênci
 ✨ ▸ ▸ Conserva sua individualidade; quanto à consciência do seu eu, não. A vida inteligente lhe permanece em estado latente.
 :::
 
-::: expand 🏷️
-🏷️ Animais, individualidade e [↩️](#animais)
+::: expand 🔗
+🏷️ [Animais](#animais)
 :::
 
 ---
@@ -12955,8 +9944,8 @@ Após a morte, conserva a alma dos animais a sua individualidade e a consciênci
 ✨ ▸ ▸ Não, pois que lhe falta livre-arbítrio.
 :::
 
-::: expand 🏷️
-🏷️ Animais, encarnação e [↩️](#animais)
+::: expand 🔗
+🏷️ [Animais](#animais)
 :::
 
 ---
@@ -12969,10 +9958,11 @@ Sobrevivendo ao corpo em que habitou, a alma do animal vem a achar-se, depois da
 ✨ ▸ ▸ Fica numa espécie de erraticidade, pois que não mais se acha unida ao corpo, mas não é um **Espírito errante**. O Espírito errante é um ser que pensa e obra por sua livre vontade. De idêntica faculdade não dispõe o dos animais. A consciência de si mesmo é o que constitui o principal atributo do Espírito. O do animal, depois da morte, é classificado pelos Espíritos a quem incumbe essa tarefa e utilizado quase imediatamente. Não lhe é dado tempo de entrar em relação com outras criaturas.
 :::
 
-::: expand 🏷️
-🏷️ Alma, animais e [↩️](#alma)
-
-🏷️ Animais, alma dos [↩️](#animais)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Animais](#animais)
+🏷️ [Espírito errante](#espírito-errante)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -12989,8 +9979,9 @@ Os animais estão sujeitos, como o homem, a uma lei progressiva?
 👴🏻 ▸ Nada há nisso de extraordinário. Tomemos os nossos mais inteligentes animais, o cão, o elefante, o cavalo, e imaginemo-los dotados de uma conformação apropriada a trabalhos manuais. Que não fariam sob a direção do homem?
 :::
 
-::: expand 🏷️
-🏷️ Animais, mundos superiores e [↩️](#animais)
+::: expand 🔗
+🏷️ [Animais](#animais)
+🏷️ [Mundos evoluídos](#mundos-evoluídos)
 :::
 
 ---
@@ -13003,10 +9994,9 @@ Os animais progridem, como o homem, por ato da própria vontade, ou pela força 
 ✨ ▸ ▸ Pela força das coisas, razão por que não estão sujeitos à expiação.
 :::
 
-::: expand 🏷️
-🏷️ Animais, evolução dos [↩️](#animais)
-
-🏷️ Animais, expiação e [↩️](#animais)
+::: expand 🔗
+🏷️ [Animais](#animais)
+🏷️ [Expiação](#expiação)
 :::
 
 ---
@@ -13022,13 +10012,8 @@ Nos mundos superiores, os animais conhecem a Deus?
 ↩️ Voltar para [Q.668](#q668)
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Animais](#animais)
+🏷️ [Mundos evoluídos](#mundos-evoluídos)
 :::
 
 ---
@@ -13042,13 +10027,8 @@ Pois que os animais, mesmo os aperfeiçoados, existentes nos mundos superiores, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Compreensão](#compreensão)
+🏷️ [Harmonia](#harmonia)
 :::
 
 ---
@@ -13061,8 +10041,9 @@ A inteligência é então uma propriedade comum, um ponto de contato entre a alm
 ✨ ▸ ▸ É, porém os animais só possuem a inteligência da vida material. No homem, a inteligência proporciona a vida moral.
 :::
 
-::: expand 🏷️
-🏷️ Animais, inteligência e [↩️](#animais)
+::: expand 🔗
+🏷️ [Animais](#animais)
+🏷️ [Homem](#homem)
 :::
 
 ---
@@ -13076,13 +10057,7 @@ Considerando-se todos os pontos de contato que existem entre o homem e os animai
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Homem](#homem)
 :::
 
 ---
@@ -13100,13 +10075,9 @@ De modo que, além de suas próprias imperfeições de que cumpre ao Espírito d
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Homem](#homem)
+🏷️ [Matéria](#matéria)
 :::
 
 ---
@@ -13120,13 +10091,7 @@ Donde tiram os animais o princípio inteligente que constitui a alma de natureza
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Princípio inteligente](#princípio-inteligente)
 :::
 
 ---
@@ -13140,13 +10105,8 @@ Então, emanam de um único princípio a inteligência do homem e a dos animais?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Inteligência](#inteligência)
+🏷️ [Princípio inteligente](#princípio-inteligente)
 :::
 
 ---
@@ -13159,8 +10119,8 @@ Dissestes (👉 Veja [Q.190](#q190)) que o estado da alma do homem, na sua orige
 ✨ ▸ ▸ Numa série de existências que precedem o período a que chamais Humanidade.
 :::
 
-::: expand 🏷️
-🏷️ Alma, primeira encarnação da [↩️](#alma)
+::: expand 🔗
+🏷️ [Evolução](#evolução)
 :::
 
 ---
@@ -13174,13 +10134,13 @@ Parece que, assim, se pode considerar a alma como tendo sido o princípio inteli
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Harmonia](#harmonia)
+🏷️ [Homem](#homem)
+🏷️ [Natureza](#natureza)
+🏷️ [Princípio espiritual](#princípio-espiritual)
+🏷️ [Princípio inteligente](#princípio-inteligente)
+🏷️ [Universo](#universo)
 :::
 
 ---
@@ -13194,13 +10154,9 @@ Esse período de humanização principia na Terra?
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Humanização](#humanização)
+🏷️ [Terra](#terra)
 :::
 
 ---
@@ -13214,13 +10170,7 @@ O Espírito do homem tem, após a morte, consciência de suas existências anter
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Espírito(s)](#espíritos)
 :::
 
 ---
@@ -13236,13 +10186,7 @@ Há sempre anéis que ligam as extremidades da cadeia dos seres e dos acontecime
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Humanidade](#humanidade)
 :::
 
 ---
@@ -13256,13 +10200,7 @@ Ter-se-ão enganado os Espíritos que disseram constituir o homem um ser à part
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Criação](#criação)
 :::
 
 ---
@@ -13275,16 +10213,6 @@ O terem os seres vivos uma origem comum no princípio inteligente não é a cons
 
 ::: spirit
 ✨ ▸ ▸ Duas coisas podem ter a mesma origem e absolutamente não se assemelharem mais tarde. Quem reconheceria a árvore, com suas folhas, flores e frutos, no germe informe que se contém na semente donde ela surge? Desde que o princípio inteligente atinge o grau necessário para ser Espírito e entrar no período da humanização, já não guarda relação com o seu estado primitivo e já não é a alma dos animais, como a árvore já não é a semente. De animal só há no homem o corpo e as paixões que nascem da influência do corpo e do instinto de conservação inerente à matéria. Não se pode, pois, dizer que tal homem é a encarnação do espírito de tal animal. Conseguintemente, a metempsicose, como a entendem, não é verdadeira.
-:::
-
-::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -13300,20 +10228,9 @@ Poderia encarnar num animal o Espírito que animou o corpo de um homem?
 👉 Veja [Q.118](#q118)
 
 ::: expand 🔗
-🏷️ [berração {#aberracao}](#[])
-🏷️ [borto {#aborto}](#[])
-🏷️ [buso {#abuso}](#[])
-🏷️ [caso {#acaso}](#[])
-🏷️ [ção {#acao}](#[])
-🏷️ [ceitação {#aceitacao}](#[])
-🏷️ [certo {#acerto}](#[])
-🏷️ [dão {#adao}](#[])
-🏷️ [dolescência {#adolescencia}](#[])
-🏷️ [doração {#adoracao}](#[])
-🏷️ [feição {#afeicao}](#[])
-🏷️ [finidade {#afinidade}](#[])
+🏷️ [Evolução](#evolução)
+🏷️ [Reencarnação](#reencarnação)
 :::
-
 
 ---
 
@@ -13339,8 +10256,14 @@ As diferentes espécies de animais não procedem **intelectualmente** umas das o
 Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de Deus, como muitas outras coisas, cujo conhecimento **atual** nada importa ao nosso progresso e sobre as quais seria inútil determo-nos.
 :::
 
-::: expand 🏷️
-🏷️ Alma, metempsicose e evolução da [↩️](#alma)
+::: expand 🔗
+🏷️ [Alma](#alma)
+🏷️ [Crença](#crença)
+🏷️ [Criação](#criação)
+🏷️ [Espírito](#espírito)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Perguntas](#perguntas)
+🏷️ [Reencarnação](#reencarnação)
 :::
 
 ---

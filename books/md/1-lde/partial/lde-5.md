@@ -7,13 +7,13 @@ Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imanta
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Bem](#bem)
+🏷️ [Espírito(s)](#espíritos)
+🏷️ [Humanidade](#humanidade)
+🏷️ [Luís (São)](#luís-são)
+🏷️ [Paraíso](#paraíso)
+🏷️ [Pecado](#pecado)
+🏷️ [Tempo](#tempo)
 :::
 
 ---
@@ -24,13 +24,10 @@ O Espiritismo é o mais terrível antagonista do materialismo; não é, pois, de
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
+🏷️ [Ciência](#ciência)
+🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espíritos)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Milagre](#milagre)
 :::
 
 ---
@@ -43,13 +40,7 @@ Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -60,13 +51,10 @@ O progresso da Humanidade tem seu princípio na aplicação da lei de justiça, 
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
-🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Justiça](#justiça)
+🏷️ [Lei de progresso](#lei-de-progresso)
+🏷️ [Perfeição](#perfeição)
+🏷️ [Progresso](#progresso)
 :::
 
 ---
@@ -81,13 +69,11 @@ Três períodos distintos apresenta o desenvolvimento dessas ideias: primeiro, o
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
 🏷️ [Espiritismo](#espiritismo)
 🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Moral](#moral)
+🏷️ [Progresso](#progresso)
+🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
@@ -105,13 +91,14 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
+🏷️ [Ciência espírita](#ciência-espírita)
+🏷️ [Demônio](#demônio)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Fenômeno mediúnico](#fenômeno-mediúnico)
+🏷️ [Manifestação](#manifestação)
+🏷️ [Mediunidade](#mediunidade)
+🏷️ [Médium](#médium)
+🏷️ [Proibição](#proibição)
 :::
 
 ---
@@ -136,13 +123,11 @@ O terceiro efeito é o de estimular no homem a indulgência para com os defeitos
 :::
 
 ::: expand 🔗
-🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assistencia-espiritual)
-🏷️ [Deus](#deus)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Filosofia](#filosofia)
-🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Perseverança](#perseveranca)
+🏷️ [Indulgência](#indulgência)
+🏷️ [Materialismo](#materialismo)
+🏷️ [Religiosidade](#religiosidade)
+🏷️ [Resignação](#resignação)
 :::
 
 ---
@@ -158,8 +143,17 @@ O mesmo acontecerá com relação ao Espiritismo, que, em breve, gozará do dire
 As comunicações com os seres de além-túmulo deram em resultado fazer-nos compreender a vida futura, fazer-nos vê-la, iniciar-nos no conhecimento das penas e gozos que nos estão reservados, de acordo com os nossos méritos e, desse modo, encaminhar para o **espiritualismo** os que no homem somente viam a matéria, a máquina organizada. Razão, portanto, tivemos para dizer que o Espiritismo, com os fatos, matou o materialismo. Fosse este único resultado por ele produzido e já muita gratidão lhe deveria a ordem social. Ele, porém, faz mais: mostra os inevitáveis efeitos do mal e, conseguintemente, a necessidade do bem. Muito maior do que se pensa é, e cresce todos os dias, o número daqueles em que ele há melhorado os sentimentos, neutralizado as más tendências e desviado do mal. É que para esses o futuro deixou de ser coisa imprecisa, simples esperança, por se haver tornado uma verdade que se compreende e explica, quando se **veem** e **ouvem** os que partiram lamentar-se ou felicitar-se pelo que fizeram na Terra. Quem disso é testemunha entra a refletir e sente a necessidade de a si mesmo se conhecer, julgar e emendar.
 :::
 
-::: expand 🏷️
-🏷️ Alcorão [↩️](#alcorao)
+::: expand 🔗
+🏷️ [Alcorão](#alcorão)
+🏷️ [Bíblia](#bíblia)
+🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espíritos)
+🏷️ [Evangelho](#evangelho)
+🏷️ [Jesus](#jesus)
+🏷️ [Materialismo](#materialismo)
+🏷️ [Moisés](#moisés)
+🏷️ [Psicologia](#psicologia)
+🏷️ [Revelação](#revelação)
+🏷️ [Tempo](#tempo)
 :::
 
 ---
@@ -183,19 +177,12 @@ Santo Agostinho
 :::
 
 ::: expand 🔗
-🏷️ [berração {#aberracao}](#[])
-🏷️ [borto {#aborto}](#[])
-🏷️ [buso {#abuso}](#[])
-🏷️ [caso {#acaso}](#[])
-🏷️ [ção {#acao}](#[])
-🏷️ [ceitação {#aceitacao}](#[])
-🏷️ [certo {#acerto}](#[])
-🏷️ [dão {#adao}](#[])
-🏷️ [dolescência {#adolescencia}](#[])
-🏷️ [doração {#adoracao}](#[])
-🏷️ [feição {#afeicao}](#[])
-🏷️ [finidade {#afinidade}](#[])
+🏷️ [Agostinho (Santo)](#agostinho-santo)
+🏷️ [Divergências](#divergências)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Espírito bom](#espírito-bom)
+🏷️ [União](#união)
 :::
 
-
 ---
+
