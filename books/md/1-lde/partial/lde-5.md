@@ -6,8 +6,14 @@
 Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imantados que, sob a ação do ímã, se movimentam em todas as direções numa bacia com água, dificilmente poderia compreender que ali está o segredo do mecanismo do Universo e da marcha dos mundos. O mesmo se dá com quem, do Espiritismo, apenas conhece o movimento das mesas, no qual só vê um divertimento, um passatempo, sem compreender que esse fenômeno tão simples e vulgar, que a antiguidade e até povos semisselvagens conheceram, possa ter ligação com as mais graves questões da ordem social. Efetivamente, para o observador superficial, que relação pode ter com a moral e o futuro da Humanidade uma mesa que se move? Quem quer, porém, que reflita se lembrará de que de uma simples panela a ferver e cuja tampa se erguia continuamente, fato que também ocorre desde toda a antiguidade, saiu o possante motor com que o homem transpõe o espaço e suprime as distâncias. Pois bem! sabei, vós que não credes senão no que pertence ao mundo material, que dessa mesa, que gira e vos faz sorrir desdenhosamente, saiu uma ciência, assim como a solução dos problemas que nenhuma filosofia pudera ainda resolver. Apelo para todos os adversários de boa-fé e os adjuro a que digam se se deram ao trabalho de estudar o que criticam. Porque, em boa lógica, a crítica só tem valor quando o crítico é conhecedor daquilo de que fala. Zombar de uma coisa que se não conhece, que se não sondou com o escalpelo do observador consciencioso, não é criticar, é dar prova de leviandade e triste mostra de falta de critério. Certamente que, se houvéssemos apresentado esta filosofia como obra de um cérebro humano, menos desdenhoso tratamento encontraria e teria merecido as honras do exame dos que pretendem dirigir a opinião. Vem ela, porém, dos Espíritos. Que absurdo! Mal lhe dispensam um simples olhar. Julgam-na pelo título, como o macaco da fábula julgava da noz pela casca. Fazei, se quiserdes, abstração da sua origem. Suponde que este livro é obra de um homem e dizei, do íntimo e em consciência, se, depois de o terdes lido **seriamente**, achais nele matéria para zombaria.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -17,8 +23,14 @@ Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imanta
 O Espiritismo é o mais terrível antagonista do materialismo; não é, pois, de admirar que tenha por adversários os materialistas. Como o materialismo é uma doutrina cujos adeptos mal ousam confessar que o são (prova de que não se consideram muito fortes e têm a dominá-los a consciênci- a), eles se acobertam com o manto da razão e da ciência. E, coisa estranha, os mais céticos chegam a falar em nome da religião, que não conhecem e não compreendem melhor que ao Espiritismo. Por ponto de mira tomam o maravilhoso e o sobrenatural, que não admitem. Ora, dizem, pois que o Espiritismo se funda no maravilhoso, não pode deixar de ser uma suposição ridícula. Não refletem que, condenando, sem restrições, o **maravilhoso** e o **sobrenatural**, também condenam a religião. Com efeito, a religião se funda na revelação e nos milagres. Ora, que é a revelação, senão um conjunto de comunicações extraterrenas? Todos os autores sagrados, desde Moisés, têm falado dessa espécie de comunicações. Que são os milagres, senão fatos maravilhosos e sobrenaturais, por excelência, visto que, no sentido litúrgico, constituem derrogações das Leis da Natureza? Logo, rejeitando o maravilhoso e o sobrenatural, eles rejeitam as bases mesmas da religião. Não é deste ponto de vista, porém, que devemos encarar a questão. Ao Espiritismo não compete examinar se há ou não milagres, isto é, se em certos casos houve Deus por bem derrogar as leis eternas que regem o Universo. Permite, a este respeito, inteira liberdade de crença. Diz e prova que os fenônemo em que se baseia, de sobrenaturais só têm a aparência. E parecem tais a algumas pessoas, apenas porque são insólitos e diferentes dos fatos conhecidos. Não são, contudo, mais sobrenaturais do que todos os fenômenos, cuja explicação a Ciência hoje dá e que pareceram maravilhosos noutra época. Todos os fenônemo espíritas, sem exceção, resultam de leis gerais. Revelam-nos uma das forças da Natureza, força desconhecida, ou, por melhor dizer, incompreendida até agora, mas que a observação demonstra estar na ordem das coisas. Assim, pois, o Espiritismo se apoia menos no maravilhoso e no sobrenatural do que a própria religião. Conseguintemente, os que o atacam por esse lado mostram que o não conhecem e, ainda quando fossem os maiores sábios, lhes diríamos: se a vossa ciência, que vos instruiu em tantas coisas, não vos ensinou que o domínio da Natureza é infinito, sois apenas meio sábios.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -30,8 +42,14 @@ Dizeis que desejais curar o vosso século de uma mania que ameaça invadir o mun
 Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e do progresso, mas a fraternidade pressupõe desinteresse, abnegação da personalidade. Onde há verdadeira fraternidade, o orgulho é uma anomalia. Com que direito impondes um sacrifício àquele a quem dizeis que, com a morte, tudo se lhe acabará; que amanhã, talvez, ele não será mais do que uma velha máquina desmantelada e atirada ao monturo? Que razões terá ele para impor a si mesmo uma privação qualquer? Não será mais natural que trate de viver o melhor possível, durante os breves instantes que lhe concedeis? Daí o desejo de possuir muito para melhor gozar. Do desejo nasce a inveja dos que possuem mais e, dessa inveja à vontade de apoderar-se do que a estes pertence, o passo é curto. Que é que o detém? A lei? A lei, porém, não abrange todos os casos. Direis que a consciência, o sentimento do dever, mas em que baseais o sentimento do dever? Terá razão de ser esse sentimento, de par com a crença de que tudo se acaba com a vida? Onde essa crença exista, uma só máxima é racional: cada um por si, não passando de vãs palavras as ideias de fraternidade, de consciência, de dever, de humanidade, mesmo de progresso. Oh! vós, que proclamais semelhantes doutrinas, não sabeis quão grande é o mal que fazeis à sociedade, nem de quantos crimes assumis a responsabilidade! Para o cético, tal coisa não existe. Só à matéria rende ele homenagem.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -41,8 +59,14 @@ Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e 
 O progresso da Humanidade tem seu princípio na aplicação da lei de justiça, de amor e de caridade, lei que se funda na certeza do futuro. Tirai-lhe essa certeza e lhe tirareis a pedra fundamental. Dessa lei derivam todas as outras, porque ela encerra todas as condições da felicidade do homem. Só ela pode curar as chagas da sociedade. Comparando as idades e os povos, pode ele avaliar quanto a sua condição melhora, à medida que essa lei vai sendo mais bem compreendida e melhor praticada. Ora, se, aplicando-a parcial e incompletamente, aufere o homem tanto bem, que não conseguirá quando fizer dela a base de todas as suas instituições sociais! Será isso possível? Certo, porquanto, desde que ele já deu dez passos, possível lhe é dar vinte e assim por diante. Do futuro se pode, pois, julgar pelo passado. Já vemos que pouco a pouco se extinguem as antipatias de povo para povo. Diante da civilização, diminuem as barreiras que os separavam. De um extremo a outro do mundo, eles se estendem as mãos. Maior justiça preside à elaboração das leis internacionais. As guerras se tornam cada vez mais raras e não excluem os sentimentos de humanidade. Nas relações, a uniformidade se vai estabelecendo. Apagam-se as distinções de raças e de castas e os que professam crenças diversas impõem silêncio aos prejuízos de seita, para se confundirem na adoração de um único Deus. Falamos dos povos que marcham à testa da civilização. 👉 (Q.789 e Q.793) A todos estes respeitos, no entanto, longe ainda estamos da perfeição e muitas ruínas antigas ainda se têm que abater, até que não restem mais vestígios da barbaria. Poderão acaso essas ruínas sustentar-se contra a força irresistível do progresso, contra essa força viva que é, em si mesma, uma Lei da Natureza? Sendo a geração atual mais adiantada do que a anterior, por que não o será mais do que a presente a que lhe há de suceder? Sê-lo-á, pela força das coisas. Primeiro, porque, com as gerações, todos os dias se extinguem alguns campeões dos velhos abusos, o que permite à sociedade formar-se de elementos novos, livres dos velhos preconceitos. Em segundo lugar, porque, desejando o progresso, o homem estuda os obstáculos e se aplica a removê-los. Desde que é incontestável o movimento progressivo, não há que duvidar do progresso vindouro. O homem quer ser feliz e é natural esse desejo. Ora, buscando progredir, o que ele procura é aumentar a soma da sua felicidade, sem o que o progresso careceria de objeto. Em que consistiria para ele o progresso, se lhe não devesse melhorar a posição? Quando, porém, conseguir a soma de gozos que o progresso intelectual lhe pode proporcionar, verificará que não está completa a sua felicidade. Reconhecerá ser esta impossível, sem a segurança nas relações sociais, segurança que somente no progresso moral lhe será dado achar. Logo, pela força mesma das coisas, ele próprio dirigirá o progresso para essa senda e o Espiritismo lhe oferecerá a mais poderosa alavanca para alcançar tal objetivo. [^26]
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -56,8 +80,14 @@ Por meio do Espiritismo, a Humanidade tem que entrar numa nova fase, a do progre
 Três períodos distintos apresenta o desenvolvimento dessas ideias: primeiro, o da curiosidade, que a singularidade dos fenônemo produzidos desperta; segundo, o do raciocínio e da filosofia; terceiro, o da aplicação e das consequências. O período da curiosidade passou; a curiosidade dura pouco. Uma vez satisfeita, muda de objeto. O mesmo não acontece com o que desafia a meditação séria e o raciocínio. Começou o segundo período, o terceiro virá inevitavelmente. O Espiritismo progrediu principalmente depois que foi sendo mais bem compreendido na sua essência íntima, depois que lhe perceberam o alcance, porque tange a corda mais sensível do homem: a da sua felicidade, mesmo neste mundo. Aí a causa da sua propagação, o segredo da força que o fará triunfar. Enquanto a sua influência não atinge as massas, ele vai felicitando os que o compreendem. Mesmo os que nenhum fenômeno têm testemunhado, dizem: à parte esses fenômenos, há a filosofia, que me explica o que NENHUMA OUTRA me havia explicado. Nela encontro, por meio unicamente do raciocínio, uma solução **racional** para os problemas que no mais alto grau interessam ao meu futuro. Ela me dá calma, firmeza, confiança; livra-me do tormento da incerteza. Ao lado de tudo isto, secundária se torna a questão dos fatos materiais. Quereis, vós todos que o atacais, um meio de combatê-lo com êxito? Aqui o tendes. Substituí-o por alguma coisa melhor; indicai solução MAIS FILOSÓFICA para todas as questões que ele resolveu; dai ao homem OUTRA CERTEZA que o faça mais feliz, porém compreendei bem o alcance desta palavra **certeza**, porquanto o homem não aceita, como **certo**, senão o que lhe parece **lógico**. Não vos contenteis com dizer: isto não é assim; demasiado fácil é semelhante afirmativa. Provai, não por negação, mas por fatos, que isto não é real, nunca o foi e NÃO PODE ser. Se não é, dizei o que o é, em seu lugar. Provai, finalmente, que as consequências do Espiritismo não são tornar melhor o homem e, portanto, mais feliz, pela prática da mais pura moral evangélica, moral a que se tecem muitos louvores, mas que muito pouco se pratica. Quando houverdes feito isso, tereis o direito de o atacar. O Espiritismo é forte porque assenta sobre as próprias bases da religião: Deus, a alma, as penas e as recompensas futuras; sobretudo, porque mostra que essas penas e recompensas são consequências naturais da vida terrestre e, ainda, porque, no quadro que apresenta do futuro, nada há que a razão mais exigente possa recusar. Que compensação ofereceis aos sofrimentos deste mundo, vós cuja doutrina consiste unicamente na negação do futuro? Enquanto vos apoiais na incredulidade, ele se apoia na confiança em Deus; ao passo que convida os homens à felicidade, à esperança, à verdadeira fraternidade, vós lhes ofereceis o **nada** por perspectiva e o **egoísmo** por consolação. Ele tudo explica, vós nada explicais. Ele prova pelos fatos, vós nada provais. Como quereis que se hesite entre as duas doutrinas?
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -74,8 +104,14 @@ nataQue faz a moderna ciência espírita? Reúne em corpo de doutrina o que esta
 Que interesse, ademais, haveria em obstar-se a propagação das ideias espíritas? É exato que elas se erguem contra os abusos que nascem do orgulho e do egoísmo, mas, se é certo que desses abusos há quem aproveite, à coletividade humana eles prejudicam. A coletividade, portanto, será favorável a tais ideias, contando-se-lhes por adversários sérios apenas os interessados em manter aqueles abusos. As ideias espíritas, ao contrário, são um penhor de ordem e tranquilidade, porque, pela sua influência, os homens se tornam melhores uns para com os outros, menos ávidos das coisas materiais e mais resignados aos decretos da Providência.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -99,8 +135,14 @@ O segundo efeito, quase tão geral quanto o primeiro, é a resignação nas vici
 O terceiro efeito é o de estimular no homem a indulgência para com os defeitos alheios. Todavia, cumpre dizê-lo, o princípio egoísta e tudo que dele decorre são o que há de mais tenaz no homem e, por conseguinte, de mais difícil de desarraigar. Toda gente faz voluntariamente sacrifícios, contanto que nada custem e de nada privem. Para a maioria dos homens, o dinheiro tem ainda irresistível atrativo e bem poucos compreendem a palavra supérfluo, quando de suas pessoas se trata. Por isso mesmo, a abnegação da personalidade constitui sinal de grandíssimo progresso.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -140,8 +182,20 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 Santo Agostinho
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [berração {#aberracao}](#[])
+🏷️ [borto {#aborto}](#[])
+🏷️ [buso {#abuso}](#[])
+🏷️ [caso {#acaso}](#[])
+🏷️ [ção {#acao}](#[])
+🏷️ [ceitação {#aceitacao}](#[])
+🏷️ [certo {#acerto}](#[])
+🏷️ [dão {#adao}](#[])
+🏷️ [dolescência {#adolescencia}](#[])
+🏷️ [doração {#adoracao}](#[])
+🏷️ [feição {#afeicao}](#[])
+🏷️ [finidade {#afinidade}](#[])
 :::
+
 
 ---

@@ -13,8 +13,14 @@ Pode o homem gozar de completa felicidade na Terra?
 ✨ ▸ Não, por isso que a vida lhe foi dada como prova ou expiação. Dele, porém, depende a suavização de seus males e o ser tão feliz quanto possível na Terra.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -31,8 +37,14 @@ Aquele que se acha bem compenetrado de seu destino futuro não vê na vida corpo
 Já nesta vida somos punidos pelas infrações que cometemos das leis que regem a existência corpórea, sofrendo os males consequentes dessas mesmas infrações e dos nossos próprios excessos. Se, gradativamente, remontarmos à origem do que chamamos as nossas desgraças terrenas, veremos que, na maioria dos casos, elas são a consequência de um primeiro afastamento nosso do caminho reto. Desviando-nos deste, enveredamos por outro, mau, e, de consequência em consequência, caímos na desgraça.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -45,8 +57,14 @@ A felicidade terrestre é relativa à posição de cada um. O que basta para a f
 ✨ ▸ Com relação à vida material, é a posse do necessário. Com relação à vida moral, a consciência tranquila e a fé no futuro.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -73,8 +91,14 @@ Há males que independem da maneira de proceder do homem e que atingem mesmo os 
 ✨ ▸ Deve resignar-se e sofrê-los sem murmurar, se quer progredir. Sempre, porém, lhe é dado haurir consolação na própria consciência, que lhe proporciona a esperança de melhor futuro, se fizer o que é preciso para obtê-lo.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -124,8 +148,14 @@ Não há dúvida que, à felicidade, o supérfluo não é forçosamente indispen
 ✨ ▸ Verdadeiramente infeliz o homem só o é quando sofre da falta do necessário à vida e à saúde do corpo. Todavia, pode acontecer que essa privação seja de sua culpa. Então, só tem que se queixar de si mesmo. Se for ocasionada por outrem, a responsabilidade recairá sobre aquele que lhe houver dado causa.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -138,8 +168,14 @@ Evidentemente, por meio da especialidade das aptidões naturais, Deus indica a n
 ✨ ▸ Assim é, de fato, e muitas vezes são os pais que, por orgulho ou avareza, desviam seus filhos da senda que a natureza lhes traçou, comprometendo-lhes a felicidade, por efeito desse desvio. Responderão por ele.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -154,8 +190,14 @@ Acharíeis então justo que o filho de um homem altamente colocado na sociedade 
 No afastarem-se os homens da sua esfera intelectual reside indubitavelmente uma das mais frequentes causas de decepção. A inaptidão para a carreira abraçada constitui fonte inesgotável de reveses. Depois, o amor-próprio, sobrevindo a tudo isso, impede que o que fracassou recorra a uma profissão mais humilde e lhe mostra o suicídio como remédio para escapar ao que se lhe afigura humilhação. Se uma educação moral o houvesse colocado acima dos tolos preconceitos do orgulho, jamais se teria deixado apanhar desprevenido.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -168,8 +210,14 @@ Pessoas há, que, baldas de todos os recursos, embora no seu derredor reine a ab
 ✨ ▸ Nunca ninguém deve ter a ideia de deixar-se morrer de fome. O homem acharia sempre meio de se alimentar, se o orgulho não se colocasse entre a necessidade e o trabalho. Costuma-se dizer: 'Não há ofício desprezível; o seu estado não é o que desonra o homem'. Isso, porém, cada um diz para os outros e não para si.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -198,8 +246,14 @@ Por que são mais numerosas, na sociedade, as classes sofredoras do que as feliz
 ✨ ▸ Nenhuma é perfeitamente feliz e o que julgais ser a felicidade muitas vezes oculta pungentes aflições. O sofrimento está por toda parte. Entretanto, para responder ao teu pensamento, direi que as classes a que chamas sofredoras são mais numerosas, por ser a Terra lugar de expiação. Quando a houver transformado em morada do bem e de Espíritos bons, o homem deixará de ser infeliz aí e ela lhe será o paraíso terrestre.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -212,8 +266,14 @@ Por que, no mundo, tão amiúde, a influência dos maus sobrepuja a dos bons?
 ✨ ▸ Por fraqueza destes. Os maus são intrigantes e audaciosos, os bons são tímidos. Quando estes o quiserem, preponderarão.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -320,8 +380,14 @@ As decepções oriundas da ingratidão não serão de molde a endurecer o coraç
 ✨ ▸ Fora um erro, porquanto o homem de coração, como dizes, se sente sempre feliz pelo bem que faz. Sabe que, se esse bem for esquecido nesta vida, será lembrado em outra e que o ingrato se envergonhará e terá remorsos da sua ingratidão.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -392,8 +458,14 @@ Mas, nesse caso, não há quase sempre uma vítima inocente?
 ✨ ▸ Há e para ela é uma dura expiação, mas a responsabilidade da sua desgraça recairá sobre os que lhe tiverem sido os causadores. Se a luz da verdade já lhe houver penetrado a alma, em sua fé no futuro haurirá consolação. Todavia, à medida que os preconceitos se enfraquecerem, as causas dessas desgraças íntimas também desaparecerão.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -415,8 +487,14 @@ O homem carnal, mais preso à vida corpórea do que à vida espiritual, tem, na 
 O homem moral, que se colocou acima das necessidades factícias criadas pelas paixões, já neste mundo experimenta gozos que o homem material desconhece. A moderação de seus desejos lhe dá ao Espírito calma e serenidade. Ditoso pelo bem que faz, não há para ele decepções e as contrariedades lhe deslizam por sobre a alma, sem nenhuma impressão dolorosa deixarem.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -429,8 +507,14 @@ Pessoas não haverá que achem um tanto banais esses conselhos para ser-se feliz
 ✨ ▸ Há as que isso dizem e em grande número, mas muitas se parecem com certos doentes a quem o médico prescreve a dieta; desejariam curar-se sem remédios e continuando a apanhar indigestões.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -445,8 +529,14 @@ Donde nasce o desgosto da vida, que, sem motivos plausíveis, se apodera de cert
 ✨ ▸ Efeito da ociosidade, da falta de fé e, também, da saciedade. Para aquele que usa de suas faculdades com fim útil **e de acordo com as suas aptidões naturais**, o trabalho nada tem de árido e a vida se escoa mais rapidamente. Ele lhe suporta as vicissitudes com tanto mais paciência e resignação, quanto obra com o fito da felicidade mais sólida e mais durável que o espera.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -459,8 +549,14 @@ Tem o homem o direito de dispor da sua vida?
 ✨ ▸ Não; só a Deus assiste esse direito. O suicídio voluntário importa numa transgressão desta lei.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -473,8 +569,14 @@ Não é sempre voluntário o suicídio?
 ✨ ▸ O louco que se mata não sabe o que faz.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -487,8 +589,14 @@ Que se deve pensar do suicídio que tem como causa o desgosto da vida?
 ✨ ▸ Insensatos! Por que não trabalhavam? A existência não lhes teria sido tão pesada.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -501,8 +609,14 @@ E do suicídio cujo fim é fugir, aquele que o comete, às misérias e às decep
 ✨ ▸ Pobres Espíritos, que não têm a coragem de suportar as misérias da existência! Deus ajuda aos que sofrem e não aos que carecem de energia e de coragem. As tribulações da vida são provas ou expiações. Felizes os que as suportam sem se queixar, porque serão recompensados! Ai, porém, daqueles que esperam a salvação do que, na sua impiedade, chamam acaso ou fortuna! O acaso, ou a fortuna, para me servir da linguagem deles, podem, com efeito, favorecê-los por um momento, mas para lhes fazer sentir mais tarde, cruelmente, a vacuidade dessas palavras.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -515,8 +629,14 @@ Os que hajam conduzido o desgraçado a esse ato de desespero sofrerão as conseq
 ✨ ▸ Oh! esses, ai deles! Responderão como por um assassínio.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -529,8 +649,14 @@ Pode ser considerado suicida aquele que, a braços com a maior penúria, se deix
 ✨ ▸ É um suicídio, mas os que lhe foram causa, ou que teriam podido impedi-lo, são mais culpados do que ele, a quem a indulgência espera. Todavia, não penseis que seja totalmente absolvido, se lhe faltaram firmeza e perseverança e se não usou de toda a sua inteligência para sair do atoleiro. Ai dele, sobretudo, se o seu desespero nasce do orgulho. Quero dizer: se for desses homens em quem o orgulho anula os recursos da inteligência, que corariam de dever a existência ao trabalho de suas mãos e que preferem morrer de fome a renunciar ao que chamam sua posição social! Não haverá mil vezes mais grandeza e dignidade em lutar contra a adversidade, em afrontar a crítica de um mundo fútil e egoísta, que só tem boa vontade para com aqueles a quem nada falta e que vos volta as costas assim precisais dele? Sacrificar a vida à consideração desse mundo é estultícia, porquanto ele a isso nenhum apreço dá.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -543,8 +669,14 @@ Pode ser considerado suicida aquele que, a braços com a maior penúria, se deix
 ✨ ▸ O suicídio não apaga a falta. Ao contrário, em vez de uma, haverá duas. Quando se teve a coragem de praticar o mal, é preciso ter-se a de lhe sofrer as consequências. Deus, que julga, pode, conforme a causa, abrandar os rigores de sua justiça.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -559,8 +691,14 @@ Será desculpável o suicídio, quando tenha por fim obstar a que a vergonha cai
 Aquele que tira a si mesmo a vida, para fugir à vergonha de uma ação má, prova que dá mais apreço à estima dos homens do que à de Deus, visto que volta para a vida espiritual carregado de suas iniquidades, tendo-se privado dos meios de repará-las durante a vida corpórea. Deus, geralmente, é menos inexorável do que os homens. Perdoa aos que sinceramente se arrependem e atende à reparação. O suicida nada repara.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -573,8 +711,14 @@ Que pensar daquele que se mata, na esperança de chegar mais depressa a uma vida
 ✨ ▸ Outra loucura! Que faça o bem e mais certo estará de lá chegar, pois, matando-se, retarda a sua entrada num mundo melhor e terá que pedir lhe seja permitido voltar, para concluir a vida a que pôs termo sob o influxo de uma ideia falsa. Uma falta, seja qual for, jamais abre a ninguém o santuário dos eleitos.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -589,8 +733,14 @@ Não é, às vezes, meritório o sacrifício da vida, quando aquele que o faz vi
 Todo sacrifício que o homem faça à custa da sua própria felicidade é um ato soberanamente meritório aos olhos de Deus, porque resulta da prática da lei de caridade. Ora, sendo a vida o bem terreno a que maior apreço dá o homem, não comete atentado o que a ela renuncia pelo bem de seus semelhantes: cumpre um sacrifício; mas, antes de o cumprir, deve refletir sobre se sua vida não será mais útil do que sua morte.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -603,8 +753,14 @@ Comete suicídio o homem que perece vítima de paixões que ele sabia lhe haviam
 ✨ ▸ É um suicídio moral. Não percebeis que, nesse caso, o homem é duplamente culpado? Há nele então falta de coragem e bestialidade, acrescidas do esquecimento de Deus.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -617,8 +773,14 @@ Será mais, ou menos, culpado do que o que tira a si mesmo a vida por desespero?
 ✨ ▸ É mais culpado, porque tem tempo de refletir sobre o seu suicídio. Naquele que o faz instantaneamente, há, muitas vezes, uma espécie de desvairamento, que alguma coisa tem da loucura. O outro será muito mais punido, por isso que as penas são proporcionadas sempre à consciência que o culpado tem das faltas que comete.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -638,8 +800,14 @@ Concebe-se que, nas circunstâncias ordinárias, o suicídio seja condenável; m
 ✨ ▸ É sempre uma falta de resignação e de submissão à vontade do Criador.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -652,8 +820,14 @@ Quais, nesse caso, as consequências de tal ato?
 ✨ ▸ Uma expiação proporcionada, como sempre, à gravidade da falta, de acordo com as circunstâncias.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -666,8 +840,14 @@ Será condenável uma imprudência que compromete a vida sem necessidade?
 ✨ ▸ Não há culpabilidade, quando não há intenção ou consciência perfeita da prática do mal.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -680,8 +860,14 @@ Podem ser consideradas suicidas e sofrem as consequências de um suicídio as mu
 ✨ ▸ Obedecem a um preconceito e, muitas vezes, mais à força do que por vontade. Julgam cumprir um dever e esse não é o caráter do suicídio. Encontram desculpa na nulidade moral que as caracteriza, na sua maioria, e na ignorância em que se acham. Esses usos bárbaros e estúpidos desaparecem com o advento da civilização.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -738,8 +924,14 @@ Por que tem o homem, instintivamente, horror ao nada?
 ✨ ▸ Porque o nada não existe.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -778,8 +970,14 @@ Donde se origina a crença, com que deparamos entre todos os povos, na existênc
 ✨ ▸ É sempre a mesma coisa: pressentimento da realidade, trazido ao homem pelo Espírito nele encarnado. Porque, sabei-o bem, não é debalde que uma voz interior vos fala. O vosso erro consiste em não lhe prestardes bastante atenção. Melhores vos tornaríeis, se nisso pensásseis muito, e muitas vezes.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -792,8 +990,14 @@ Qual o sentimento que domina a maioria dos homens no momento da morte: a dúvida
 ✨ ▸ A dúvida, nos céticos empedernidos; o temor, nos culpados; a esperança, nos homens de bem.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -810,8 +1014,14 @@ A responsabilidade dos nossos atos é a consequência da realidade da vida futur
 A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e de sua bondade não nos permite acreditar que o justo e o mau estejam na mesma categoria a seus olhos, nem duvidar de que recebam, algum dia, um a recompensa, o castigo o outro, pelo bem ou pelo mal que tenham feito. Por isso é que o sentimento inato que temos da justiça nos dá a intuição das penas e recompensas futuras.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -826,8 +1036,14 @@ Com cada homem, pessoalmente, Deus se ocupa? Não é Ele muito grande e nós mui
 ✨ ▸ Deus se ocupa com todos os seres que criou, por mais pequeninos que sejam. Nada, para a sua bondade, é destituído de valor.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -852,8 +1068,14 @@ Um pai deu a seu filho educação e instrução, isto é, os meios de se guiar. 
 Não é verdade que esse campo produzirá na razão dos cuidados que forem dispensados à sua cultura e que toda negligência redundará em prejuízo da colheita? Na velhice, portanto, o filho será ditoso ou desgraçado, conforme haja seguido ou não a regra que seu pai lhe traçou. Deus ainda é mais previdente, pois que nos adverte, a cada instante, de que estamos fazendo bem ou mal. Envia-nos os Espíritos para nos inspirarem, porém não os escutamos. Há mais esta diferença: Deus faculta sempre ao homem, concedendo-lhe novas existências, recursos para reparar seus erros passados, enquanto ao filho de quem falamos, se empregou mal o seu tempo, nenhum recurso resta.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -886,8 +1108,14 @@ Por que das penas e gozos da vida futura faz o homem, às vezes, tão grosseira 
 ✨ ▸ Inteligência que ainda se não desenvolveu bastante. Compreende a criança as coisas como o adulto? Isso, ademais, depende também do que se lhe ensinou: aí é que há necessidade de uma reforma. Muitíssimo incompleta é a vossa linguagem, para exprimir o que está fora de vós. Teve-se então que recorrer a comparações e tomastes como realidade as imagens e figuras que serviram para essas comparações. À medida, porém, que o homem se instrui, melhor vai compreendendo o que a sua linguagem não pode exprimir.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -900,8 +1128,14 @@ Em que consiste a felicidade dos bons Espíritos?
 ✨ ▸ Em conhecerem todas as coisas; em não sentirem ódio, nem ciúme, nem inveja, nem ambição, nem qualquer das paixões que ocasionam a desgraça dos homens. O amor que os une lhes é fonte de suprema felicidade. Não experimentam as necessidades, nem os sofrimentos, nem as angústias da vida material. São felizes pelo bem que fazem. Contudo, a felicidade dos Espíritos é proporcional à elevação de cada um. Somente os puros Espíritos gozam, é exato, da felicidade suprema, mas nem todos os outros são infelizes. Entre os maus e os perfeitos há uma infinidade de graus em que os gozos são relativos ao estado moral. Os que já estão bastante adiantados compreendem a ventura dos que os precederam e aspiram a alcançá-la, mas esta aspiração lhes constitui uma causa de emulação, não de ciúme. Sabem que deles depende o consegui-la e para a conseguirem trabalham, porém com a calma da consciência tranquila e ditosos se consideram por não terem que sofrer o que sofrem os maus.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -914,8 +1148,14 @@ Citais, entre as condições da felicidade dos bons Espíritos, a ausência das 
 ✨ ▸ Sim, gozos do animal. Quando não podes satisfazer a essas necessidades, passas por uma tortura.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -928,8 +1168,14 @@ Que se deve entender quando é dito que os Espíritos puros se acham reunidos no
 ✨ ▸ É uma alegoria indicativa da inteligência que eles têm das perfeições de Deus, porque o veem e compreendem, mas que, como muitas outras, não se deve tomar ao pé da letra. Tudo na Natureza, desde o grão de areia, canta, isto é, proclama o poder, a sabedoria e a bondade de Deus. Não creias, todavia, que os Espíritos bem-aventurados estejam em contemplação por toda a eternidade. Seria uma bem-aventurança estúpida e monótona. Fora, além disso, a felicidade do egoísta, porquanto a existência deles seria uma inutilidade sem-termo. Estão isentos das tribulações da vida corpórea: já é um gozo. Depois, como dissemos, conhecem e sabem todas as coisas; dão útil emprego à inteligência que adquiriram, auxiliando os progressos dos outros Espíritos. Essa a sua ocupação, que ao mesmo tempo é um gozo.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -942,8 +1188,14 @@ Em que consistem os sofrimentos dos Espíritos inferiores?
 ✨ ▸ São tão variados como as causas que os determinam e proporcionados ao grau de inferioridade, como os gozos o são ao de superioridade. Podem resumir-se assim: Invejarem o que lhes falta para ser felizes e não obterem; verem a felicidade e não na poderem alcançar; pesar, ciúme, raiva, desespero, motivados pelo que os impede de ser ditosos; remorsos, ansiedade moral indefinível. Desejam todos os gozos e não os podem satisfazer: eis o que os tortura.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -984,8 +1236,14 @@ Como procedem os maus Espíritos para tentar os outros Espíritos, não podendo 
 ✨ ▸ As paixões não existem materialmente, mas existem no pensamento dos Espíritos atrasados. Os maus dão pasto a esses pensamentos, conduzindo suas vítimas aos lugares onde se lhes ofereça o espetáculo daquelas paixões e de tudo o que as possa excitar.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -998,8 +1256,14 @@ Mas de que servem essas paixões se já não têm objeto real?
 ✨ ▸ Nisso precisamente é que lhes está o suplício: o avarento vê ouro que lhe não é dado possuir; o devasso, orgias em que não pode tomar parte; o orgulhoso, honras que lhe causam inveja e de que não pode gozar.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1018,8 +1282,14 @@ Das penas e gozos da alma após a morte forma o homem ideia mais ou menos elevad
 As comunicações espíritas tiveram como resultado mostrar o estado futuro da alma, não mais em teoria, porém na realidade. Põem-nos diante dos olhos todas as peripécias da vida de além-túmulo. Ao mesmo tempo, entretanto, no-las mostram como consequências perfeitamente lógicas da vida terrestre e, embora despojadas do aparato fantástico que a imaginação dos homens criou, não são menos pessoais para os que fizeram mau uso de suas faculdades. Infinita é a variedade dessas consequências, mas, em tese geral, pode-se dizer: cada um é punido por aquilo em que pecou. Assim é que uns o são pela visão incessante do mal que fizeram; outros, pelo pesar, pelo temor, pela vergonha, pela dúvida, pelo insulamento, pelas trevas, pela separação dos entes que lhes são caros etc.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1048,8 +1318,14 @@ Mas o temor desse fogo não produzirá bom resultado?
 Impotente para, na sua linguagem, definir a natureza daqueles sofrimentos, o homem não encontrou comparação mais enérgica do que a do fogo, pois, para ele, o fogo é o tipo do mais cruel suplício e o símbolo da ação mais violenta. Por isso é que a crença no fogo eterno data da mais remota antiguidade, tendo-a os povos modernos herdado dos mais antigos. Por isso também é que o homem diz, em sua linguagem figurada: o fogo das paixões; abrasar de amor, de ciúme etc.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1080,8 +1356,14 @@ O espetáculo dos sofrimentos dos Espíritos inferiores não constitui, para os 
 ✨ ▸ Não constitui motivo de aflição, pois que sabem que o mal terá fim. Auxiliam os outros a se melhorarem e lhes estendem as mãos. Essa a ocupação deles, ocupação que lhes proporciona gozo quando são bem-sucedidos.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1094,8 +1376,14 @@ Isto se concebe da parte de Espíritos estranhos ou indiferentes, mas o espetác
 ✨ ▸ Se não vissem esses sofrimentos, é que eles vos seriam estranhos depois da morte. Ora, a religião vos diz que as almas vos veem, mas eles consideram de outro ponto de vista os vossos sofrimentos. Sabem que estes são úteis ao vosso progresso, se os suportardes com resignação. Afligem-se, portanto, muito mais com a falta de ânimo que vos retarda, do que com os sofrimentos considerados em si mesmos, todos passageiros.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1108,8 +1396,14 @@ Não podendo os Espíritos ocultar reciprocamente seus pensamentos e sendo conhe
 ✨ ▸ Não pode ser de outro modo, di-lo o bom senso.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1126,8 +1420,14 @@ Quando nos achamos no mundo dos Espíritos, estando patente todo o nosso passado
 Para o mau, não há maior tormento, na Terra, do que a presença de suas vítimas, razão pela qual as evita continuamente. Que será quando, dissipada a ilusão das paixões, compreender o mal que fez, vir patenteados os seus atos mais secretos, desmascarada a sua hipocrisia e não puder subtrair-se à visão delas? Enquanto a alma do homem perverso é presa da vergonha, do pesar e do remorso, a do justo goza perfeita serenidade.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1140,8 +1440,14 @@ A lembrança das faltas que a alma, quando imperfeita, tenha cometido, não lhe 
 ✨ ▸ Não, porque resgatou suas faltas e saiu vitoriosa das provas a que se submetera **para esse fim**.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1156,8 +1462,14 @@ Não serão, para a alma, causa de penosa apreensão, que lhe altera a felicidad
 Goza da felicidade a alma que chegou a um certo grau de pureza. Domina-a um sentimento de grata satisfação. Sente-se feliz por tudo o que vê, por tudo o que a cerca. Levanta-se-lhe o véu que encobria os mistérios e as maravilhas da Criação e as perfeições divinas em todo o esplendor lhe aparecem.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1172,8 +1484,14 @@ O laço de simpatia que une os Espíritos da mesma ordem constitui para eles uma
 Das primícias dessa felicidade goza o homem na Terra, quando se lhe deparam almas com as quais pode confundir-se numa união pura e santa. Em uma vida mais purificada, inefável e ilimitado será esse gozo, pois aí ele só encontrará almas simpáticas, **que o egoísmo não tornará frias**. Porque, na Natureza, tudo é amor: o egoísmo é que o mata.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1186,8 +1504,14 @@ Com relação ao estado futuro do Espírito, haverá diferença entre um que, em
 ✨ ▸ Muito grande pode ser a diferença. Entretanto, apaga-se com frequência em face das causas determinantes desse temor ou desse desejo. Quer a tema, quer a deseje, pode o homem ser propelido por sentimentos muito diversos e são estes sentimentos que influem no estado do Espírito. É evidente, por exemplo, que naquele que deseja a morte, unicamente porque vê nela o termo de suas tribulações, há uma espécie de queixa contra a Providência e contra as provas que lhe cumpre suportar.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1204,8 +1528,14 @@ Será necessário que professemos o Espiritismo e creiamos nas manifestações e
 A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sobre certos pontos do futuro. Apressa o adiantamento dos indivíduos e das massas, porque faculta nos inteiremos do que seremos um dia. É um ponto de apoio, uma luz que nos guia. O Espiritismo ensina o homem a suportar as provas com paciência e resignação; afasta-o dos atos que possam retardar-lhe a felicidade, mas ninguém diz que, sem ele, não possa ela ser conseguida.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1226,8 +1556,14 @@ Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre 
 O homem que se considera feliz na Terra, porque pode satisfazer às suas paixões, é o que menos esforços emprega para se melhorar. Muitas vezes começa a sua expiação já nessa mesma vida de efêmera felicidade, mas certamente expiará noutra existência tão material quanto aquela.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1293,8 +1629,14 @@ Há pessoas cuja vida se escoa em perfeita calma; que, nada precisando fazer por
 ✨ ▸ Conheces muitas dessas pessoas? Enganas-te, se pensas que as há em grande número. Não raro, a calma é apenas aparente. Talvez elas tenham escolhido tal existência, mas, quando a deixam, percebem que não lhes serviu para progredirem. Então, como o preguiçoso, lamentam o tempo perdido. Sabei que o Espírito não pode adquirir conhecimentos e elevar-se senão exercendo a sua atividade. Se adormece na indolência, não se adianta. Assemelha-se a um que (segundo os vossos usos) precisa trabalhar e que vai passear ou deitar-se, com a intenção de nada fazer. **Sabei também que cada um terá que dar contas da inutilidade voluntária da sua existência, inutilidade sempre fatal à felicidade futura**. Para cada um, o total dessa felicidade futura corresponde à soma do bem que tenha feito, estando o da infelicidade na proporção do mal que haja praticado e daqueles a quem haja desgraçado.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1307,8 +1649,14 @@ Pessoas há que, se bem não sejam positivamente más, tornam infelizes, pelos s
 ✨ ▸ Inquestionavelmente, essas pessoas não são boas. Expiarão suas faltas, tendo sempre diante da vista aqueles a quem infelicitaram, valendo-lhes isso por uma exprobração. Depois, noutra existência, sofrerão o que fizeram sofrer.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1323,8 +1671,14 @@ O arrependimento se dá no estado corporal ou no estado espiritual?
 ✨ ▸ No estado espiritual; mas, também pode ocorrer no estado corporal, quando bem compreendeis a diferença entre o bem e o mal.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1351,8 +1705,14 @@ Que consequência produz o arrependimento no estado corporal?
 ✨ ▸ Fazer que, já na vida atual, o Espírito progrida, se tiver tempo de reparar suas faltas. Quando a consciência o exprobra e lhe mostra uma imperfeição, o homem pode sempre melhorar-se.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1379,8 +1739,14 @@ O homem perverso, que não reconheceu suas faltas durante a vida, sempre as reco
 ✨ ▸ Sempre as reconhece e, então, mais sofre, porque **sente em si todo o mal que praticou**, ou de que foi voluntariamente causa. Contudo, o arrependimento nem sempre é imediato. Há Espíritos que se obstinam em permanecer no mau caminho, não obstante os sofrimentos por que passam. Porém, cedo ou tarde, reconhecerão errada a senda que tomaram e o arrependimento virá. Para esclarecê-los, trabalham os bons Espíritos e também vós podeis trabalhar.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1393,8 +1759,14 @@ Haverá Espíritos que, sem serem maus, se conservem indiferentes à sua sorte?
 ✨ ▸ Há Espíritos que de coisa alguma útil se ocupam. Estão na expectativa, mas nesse caso sofrem proporcionalmente. Devendo em tudo haver progresso, neles o progresso se manifesta pela dor.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1433,8 +1805,14 @@ Veem-se Espíritos, de notória inferioridade, acessíveis aos bons sentimentos 
 Não se deve perder de vista que o Espírito não se transforma subitamente, após a morte do corpo. Se viveu vida condenável, é porque era imperfeito. Ora, a morte não o torna imediatamente perfeito. Pode, pois, persistir em seus erros, em suas falsas opiniões, em seus preconceitos, até que se haja esclarecido pelo estudo, pela reflexão e pelo sofrimento.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1447,8 +1825,14 @@ A expiação se cumpre no estado corporal ou no estado espiritual?
 ✨ ▸ A expiação se cumpre durante a existência corporal, mediante as provas a que o Espírito se acha submetido e, na vida espiritual, pelos sofrimentos morais, inerentes ao estado de inferioridade do Espírito.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1461,8 +1845,14 @@ Basta o arrependimento durante a vida para que as faltas do Espírito se apaguem
 ✨ ▸ O arrependimento concorre para a melhoria do Espírito, mas ele tem que expiar o seu passado.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1475,8 +1865,14 @@ Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, expiar
 ✨ ▸ Tornar-se mais longa e mais penosa a sua expiação, desde que ele se torne obstinado no mal.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1525,8 +1921,14 @@ Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já
 ✨ ▸ O arrependimento lhe apressa a reabilitação, mas não o absolve. Diante dele não se desdobra o futuro, que jamais se lhe tranca?
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1541,8 +1943,14 @@ Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já
 ✨ ▸ Deus nunca obra caprichosamente e tudo, no Universo, se rege por leis, em que a sua sabedoria e a sua bondade se revelam.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1700,8 +2108,14 @@ Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo 
 É exato que, segundo o dogma, essa ressurreição só no fim dos tempos se dará, ao passo que, segundo a Doutrina Espírita , ocorre todos os dias. Nesse quadro do julgamento final, porém, não haverá uma grande e bela imagem a ocultar, sob o véu da alegoria, uma dessas verdades imutáveis, em presença das quais deixará de haver céticos, desde que lhes seja restituída a verdadeira significação? Dignem-se de meditar a teoria espírita sobre o futuro das almas e sobre a sorte que lhes cabe, por efeito das diferentes provas que lhes cumpre sofrer, e verão que, exceção feita da simultaneidade, o juízo que as condena ou absolve não é uma ficção, como pensam os incrédulos. Notemos mais que aquela teoria é a consequência natural da pluralidade dos mundos, hoje perfeitamente admitida, enquanto, segundo a doutrina do juízo final, a Terra passa por ser o único mundo habitado.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1716,8 +2130,14 @@ Haverá no Universo lugares circunscritos para as penas e gozos dos Espíritos, 
 ✨ ▸ Já respondemos a esta pergunta. As penas e os gozos são inerentes ao grau de perfeição dos Espíritos. Cada um tira de si mesmo o princípio de sua felicidade ou de sua desgraça. E como eles estão por toda parte, nenhum lugar circunscrito ou fechado existe especialmente destinado a uma ou outra coisa. Quanto aos encarnados, esses são mais ou menos felizes ou desgraçados, conforme é mais ou menos adiantado o mundo em que habitam.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1732,8 +2152,14 @@ De acordo, então, com o que vindes de dizer, o inferno e o paraíso não existe
 A localização absoluta das regiões das penas e das recompensas só na imaginação do homem existe. Provém da sua tendência a materializar e circunscrever as coisas, cuja essência infinita não lhe é possível compreender.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1748,8 +2174,14 @@ Que se deve entender por purgatório?
 O que o homem chama **purgatório** é igualmente uma alegoria, devendo-se entender como tal, não um lugar determinado, porém o estado dos Espíritos imperfeitos, que se acham em expiação até alcançarem a purificação completa, que os elevará à categoria dos Espíritos bem-aventurados. Operando-se essa purificação por meio das diversas encarnações, o purgatório consiste nas provas da vida corporal.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1762,8 +2194,14 @@ Como se explica que Espíritos, cuja superioridade se revela na linguagem de que
 ✨ ▸ É que falam uma linguagem que possa ser compreendida pelas pessoas que os interrogam. Quando estas se mostram imbuídas de certas ideias, eles evitam chocá-las muito bruscamente, a fim de lhes não ferir as convicções. Se um Espírito dissesse a um muçulmano, sem precauções oratórias, que Maomé não foi profeta, seria muito mal acolhido.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1776,8 +2214,14 @@ Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, poré
 ✨ ▸ Quando são inferiores e ainda não completamente desmaterializados, os Espíritos conservam uma parte de suas ideias terrenas e, para dar suas impressões, se servem dos termos que lhes são familiares. Acham-se num meio que só imperfeitamente lhes permite sondar o futuro. Essa a causa de alguns Espíritos errantes, ou recém-desencarnados, falarem como o fariam se estivessem encarnados. **Inferno** se pode traduzir por uma vida de provações, extremamente dolorosa, com a **incerteza** de haver outra melhor; **purgatório**, por uma vida também de provações, mas com a consciência de melhor futuro. Quando experimentas uma grande dor, não costumas dizer que sofres como um danado? Tudo isso são apenas palavras e sempre ditas em sentido figurado.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1808,8 +2252,14 @@ Em que sentido se deve entender a palavra **céu**?
 ✨ ▸ Julgas que seja um lugar, como os campos elísios dos antigos, onde todos os bons Espíritos estão promiscuamente aglomerados, sem outra preocupação que a de gozar, pela eternidade toda, de uma felicidade passiva? Não; é o espaço universal; são os planetas, as estrelas e todos os mundos superiores, onde os Espíritos gozam plenamente de suas faculdades, sem as tribulações da vida material, nem as angústias peculiares à inferioridade.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1826,8 +2276,14 @@ O mesmo ocorre com outras expressões análogas, tais como: cidade das flores, c
 De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das recompensas e, sobretudo, de acordo com a opinião de que a Terra era o centro do Universo, de que o firmamento formava uma abóbada e que havia uma região das estrelas, **o céu era situado no alto e o inferno embaixo**. Daí as expressões: subir ao céu, estar no mais alto dos céus, ser precipitado nos infernos. Hoje, que a Ciência demonstrou ser a Terra apenas, entre tantos milhões de outros, um dos menores mundos, sem importância especial; que traçou a história da sua formação e lhe descreveu a constituição; que provou ser infinito o Espaço, não haver alto nem baixo no Universo, teve-se que renunciar a situar o céu acima das nuvens e o inferno nos lugares inferiores. Quanto ao purgatório, nenhum lugar lhe fora designado. Estava reservado ao Espiritismo dar de tudo isso a explicação mais racional, mais grandiosa e, ao mesmo tempo, mais consoladora para a Humanidade. Pode-se assim dizer que trazemos em nós mesmos o nosso inferno e o nosso paraíso. O purgatório, achamo-lo na encarnação, nas vidas corporais ou físicas.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [Allan Kardec](#allan-kardec)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
+🏷️ [Deus](#deus)
+🏷️ [Espiritismo](#espiritismo)
+🏷️ [Filosofia](#filosofia)
+🏷️ [Mundo espiritual](#mundo-espiritual)
+🏷️ [Perseverança](#perseveranca)
 :::
 
 ---
@@ -1840,9 +2296,21 @@ Em que sentido se devem entender estas palavras do Cristo: Meu Reino não é des
 ✨ ▸ Respondendo assim, o Cristo falava em sentido figurado. Queria dizer que o seu reinado se exerce unicamente sobre os corações puros e desinteressados. Ele está onde quer que domine o amor do bem. Ávidos, porém, das coisas deste mundo e apegados aos bens da Terra, os homens com Ele não estão.
 :::
 
-::: expand 🏷️
-🏷️ termo relacionado
+::: expand 🔗
+🏷️ [berração {#aberracao}](#[])
+🏷️ [borto {#aborto}](#[])
+🏷️ [buso {#abuso}](#[])
+🏷️ [caso {#acaso}](#[])
+🏷️ [ção {#acao}](#[])
+🏷️ [ceitação {#aceitacao}](#[])
+🏷️ [certo {#acerto}](#[])
+🏷️ [dão {#adao}](#[])
+🏷️ [dolescência {#adolescencia}](#[])
+🏷️ [doração {#adoracao}](#[])
+🏷️ [feição {#afeicao}](#[])
+🏷️ [finidade {#afinidade}](#[])
 :::
+
 
 ---
 
