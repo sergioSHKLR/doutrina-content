@@ -1,4 +1,3 @@
-
 ## 5. 🗃️ Conclusão {#lde-5}
 
 #### 5.01. 📄 Conclusão 01 {#lde-5-01}
@@ -8,7 +7,7 @@ Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imanta
 
 ::: expand 🔗
 🏷️ [Bem](#bem)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Humanidade](#humanidade)
 🏷️ [Luís (São)](#luis-sao)
 🏷️ [Paraíso](#paraiso)

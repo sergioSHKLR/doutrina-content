@@ -1,0 +1,164 @@
+📝 CONTENT COVERAGE REMEDIATION GUIDE
+The following guide shows exactly where the 52 unlinked terms are referenced
+in the Index, but are missing from the book's metadata blocks.
+=================================================================
+
+📌 Term: 🏷️ Acerto
+   📍 Needs to be added to block under section/question: Q.715 (`#q715`)
+
+📌 Term: 🏷️ Autenticidade
+   📍 Needs to be added to block under section/question: Q.919 (`#q919`)
+
+📌 Term: 🏷️ Batista, João
+   📍 Needs to be added to block under section/question: 222 (`#222`)
+
+📌 Term: 🏷️ Bênção
+   📍 Needs to be added to block under section/question: Q.557 (`#q557`)
+
+📌 Term: 🏷️ Condenação
+   📍 Needs to be added to block under section/question: Q.1009 (`#q1009`)
+   📍 Needs to be added to block under section/question: Q.1008 (`#q1008`)
+
+📌 Term: 🏷️ Crítica
+   📍 Needs to be added to block under section/question: Q.903 (`#q903`)
+
+📌 Term: 🏷️ Descanso
+   📍 Needs to be added to block under section/question: Q.682 (`#q682`)
+
+📌 Term: 🏷️ Desigualdades sociais
+   📍 Needs to be added to block under section/question: Q.806 (`#q806`)
+
+📌 Term: 🏷️ Desânimo
+   📍 Needs to be added to block under section/question: Q.943 (`#q943`)
+
+📌 Term: 🏷️ Dilúvio
+   📍 Needs to be added to block under section/question: Q.59 (`#q59`)
+
+📌 Term: 🏷️ Discriminação
+   📍 Needs to be added to block under section/question: Q.818 (`#q818`)
+
+📌 Term: 🏷️ Elias
+   📍 Needs to be added to block under section/question: 222 (`#222`)
+
+📌 Term: 🏷️ Espírito
+   📍 Needs to be added to block under section/question: Q.613 (`#q613`)
+
+📌 Term: 🏷️ Espíritos benévolos
+   📍 Needs to be added to block under section/question: Q.108 (`#q108`)
+
+📌 Term: 🏷️ Evocação
+   📍 Needs to be added to block under section/question: Q.934 (`#q934`)
+
+📌 Term: 🏷️ Excessos
+   📍 Needs to be added to block under section/question: Q.714a (`#q714a`)
+
+📌 Term: 🏷️ Funeral
+   📍 Needs to be added to block under section/question: Q.320 (`#q320`)
+   📍 Needs to be added to block under section/question: Q.824 (`#q824`)
+
+📌 Term: 🏷️ Gerações
+   📍 Needs to be added to block under section/question: Q.786 (`#q786`)
+
+📌 Term: 🏷️ Hereditariedade
+   📍 Needs to be added to block under section/question: Q.207 (`#q207`)
+
+📌 Term: 🏷️ Ideia religiosa
+   📍 Needs to be added to block under section/question: Q.798 (`#q798`)
+
+📌 Term: 🏷️ Investigação
+   📍 Needs to be added to block under section/question: Q.257 (`#q257`)
+
+📌 Term: 🏷️ Isolamento
+   📍 Needs to be added to block under section/question: Q.769 (`#q769`)
+
+📌 Term: 🏷️ Juízo final
+   📍 Needs to be added to block under section/question: Q.1010 (`#q1010`)
+
+📌 Term: 🏷️ Lamennais
+   📍 Needs to be added to block under section/question: Q.1009 (`#q1009`)
+
+📌 Term: 🏷️ Lei de atração
+   📍 Needs to be added to block under section/question: Q.60 (`#q60`)
+
+📌 Term: 🏷️ Lei natural
+   📍 Needs to be added to block under section/question: Q.614 (`#q614`)
+   📍 Needs to be added to block under section/question: Q.614 (`#q614`)
+
+📌 Term: 🏷️ Lucidez sonambúlica
+   📍 Needs to be added to block under section/question: Q.455 (`#q455`)
+
+📌 Term: 🏷️ Maldição
+   📍 Needs to be added to block under section/question: Q.557 (`#q557`)
+
+📌 Term: 🏷️ Metempsicose
+   📍 Needs to be added to block under section/question: Q.611 (`#q611`)
+
+📌 Term: 🏷️ Minerais
+   📍 Needs to be added to block under section/question: Q.585 (`#q585`)
+
+📌 Term: 🏷️ Mundo
+   📍 Needs to be added to block under section/question: Q.59 (`#q59`)
+
+📌 Term: 🏷️ Namoro
+   📍 Needs to be added to block under section/question: Q.939 (`#q939`)
+
+📌 Term: 🏷️ Oriente
+   📍 Needs to be added to block under section/question: Q.59 (`#q59`)
+
+📌 Term: 🏷️ Pactos
+   📍 Needs to be added to block under section/question: Q.549 (`#q549`)
+
+📌 Term: 🏷️ Paulo (apóstolo)
+   📍 Needs to be added to block under section/question: Q.1009 (`#q1009`)
+
+📌 Term: 🏷️ Penas futuras
+   📍 Needs to be added to block under section/question: Q.960 (`#q960`)
+   📍 Needs to be added to block under section/question: Q.960 (`#q960`)
+
+📌 Term: 🏷️ Perfeição moral
+   📍 Needs to be added to block under section/question: Q.913 (`#q913`)
+
+📌 Term: 🏷️ Platão
+   📍 Needs to be added to block under section/question: Q.1009 (`#q1009`)
+
+📌 Term: 🏷️ Pluralidade dos mundos habitados
+   📍 Needs to be added to block under section/question: Q.55 (`#q55`)
+
+📌 Term: 🏷️ Raciocínio
+   📍 Needs to be added to block under section/question: Q.59 (`#q59`)
+   📍 Needs to be added to block under section/question: 222 (`#222`)
+
+📌 Term: 🏷️ Racismo
+   📍 Needs to be added to block under section/question: 222 (`#222`)
+
+📌 Term: 🏷️ Reinos
+   📍 Needs to be added to block under section/question: Q.585 (`#q585`)
+
+📌 Term: 🏷️ Relações
+   📍 Needs to be added to block under section/question: Q.291 (`#q291`)
+
+📌 Term: 🏷️ Ressurreição
+   📍 Needs to be added to block under section/question: Q.1010 (`#q1010`)
+   📍 Needs to be added to block under section/question: Q.1010 (`#q1010`)
+   📍 Needs to be added to block under section/question: Q.1010 (`#q1010`)
+
+📌 Term: 🏷️ Sentido
+   📍 Needs to be added to block under section/question: Q.59 (`#q59`)
+
+📌 Term: 🏷️ Seres inorgânicos
+   📍 Needs to be added to block under section/question: Q.585 (`#q585`)
+
+📌 Term: 🏷️ Teologia
+   📍 Needs to be added to block under section/question: Q.1009 (`#q1009`)
+
+📌 Term: 🏷️ Vida social
+   📍 Needs to be added to block under section/question: Q.766 (`#q766`)
+
+📌 Term: 🏷️ Vista
+   📍 Needs to be added to block under section/question: Q.455 (`#q455`)
+
+📌 Term: 🏷️ Êxtase
+   📍 Needs to be added to block under section/question: Q.455 (`#q455`)
+   📍 Needs to be added to block under section/question: Q.455 (`#q455`)
+   📍 Needs to be added to block under section/question: Q.455 (`#q455`)
+   📍 Needs to be added to block under section/question: Q.439 (`#q439`)

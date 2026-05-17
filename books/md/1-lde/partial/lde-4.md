@@ -289,7 +289,7 @@ A possibilidade de nos pormos em comunicação com os Espíritos é uma dulcíss
 ::: expand 🔗
 🏷️ [Além-túmulo](#alem-tumulo)
 🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -381,6 +381,10 @@ Uma vez que os Espíritos simpáticos são induzidos a unir-se, como é que, ent
 Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequência tomar-se uma pela outra. Quando pura e simpática, a afeição da alma é duradoura; efêmera a do corpo. Daí vem que, muitas vezes, os que julgavam amar-se com eterno amor passam a odiar-se, desde que a ilusão se desfaça.
 :::
 
+::: expand 🔗
+🏷️ [Namoro](#namoro)
+:::
+
 ---
 
 ##### #️⃣ Q.940 {#q940}
@@ -453,6 +457,10 @@ Donde nasce o desgosto da vida, que, sem motivos plausíveis, se apodera de cert
 
 ::: spirit
 ✨ ▸ Efeito da ociosidade, da falta de fé e, também, da saciedade. Para aquele que usa de suas faculdades com fim útil **e de acordo com as suas aptidões naturais**, o trabalho nada tem de árido e a vida se escoa mais rapidamente. Ele lhe suporta as vicissitudes com tanto mais paciência e resignação, quanto obra com o fito da felicidade mais sólida e mais durável que o espera.
+:::
+
+::: expand 🔗
+🏷️ [Desânimo](#desanimo)
 :::
 
 ---
@@ -769,6 +777,10 @@ Donde se origina a crença, com que deparamos entre todos os povos, na existênc
 ✨ ▸ É sempre a mesma coisa: pressentimento da realidade, trazido ao homem pelo Espírito nele encarnado. Porque, sabei-o bem, não é debalde que uma voz interior vos fala. O vosso erro consiste em não lhe prestardes bastante atenção. Melhores vos tornaríeis, se nisso pensásseis muito, e muitas vezes.
 :::
 
+::: expand 🔗
+🏷️ [Penas futuras](#penas-futuras)
+:::
+
 ---
 
 ##### #️⃣ Q.961 {#q961}
@@ -935,7 +947,7 @@ Em que consistem os sofrimentos dos Espíritos inferiores?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Influenciação](#influenciacao)
 :::
 
@@ -1243,7 +1255,7 @@ Pode o Espírito, que progrediu em sua existência terrena, reencarnar alguma ve
 
 ::: expand 🔗
 🏷️ [Espírito puro](#espirito-puro)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Mundos evoluídos](#mundos-evoluidos)
 🏷️ [Reencarnação](#reencarnacao)
 :::
@@ -1380,7 +1392,7 @@ Haverá Espíritos que, sem serem maus, se conservem indiferentes à sua sorte?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Progresso](#progresso)
 :::
 
@@ -1597,6 +1609,10 @@ Depende sempre da vontade do Espírito a duração das penas? Algumas não haver
 **São Luís, IX de França**
 :::
 
+::: expand 🔗
+🏷️ [Condenação](#condenacao)
+:::
+
 ---
 
 ##### #️⃣ Q.1009 {#q1009}
@@ -1656,10 +1672,15 @@ Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao T
 :::
 
 ::: expand 🔗
+🏷️ [Condenação](#condenacao)
 🏷️ [Evolução](#evolucao)
+🏷️ [Lamennais](#Lamennais)
 🏷️ [Luís (São)](#luis-sao)
+🏷️ [Paulo (apóstolo)](#paulo-apostolo)
 🏷️ [Penas eternas](#penas-eternas)
+🏷️ [Platão](#platao)
 🏷️ [Sofrimento](#sofrimento)
+🏷️ [Teologia](#teologia)
 :::
 
 ---
@@ -1672,6 +1693,11 @@ O dogma da ressurreição da carne será a consagração da reencarnação ensin
 
 ::: spirit
 ✨ ▸ Como quereríeis que fosse de outro modo? Conforme sucede com tantas outras, estas palavras só parecem despropositadas, no entender de algumas pessoas, porque as tomam ao pé da letra. Levam, por isso, à incredulidade. Dai-lhes uma interpretação lógica e os que chamais livres-pensadores as admitirão sem dificuldades, precisamente pela razão de que refletem. Por que, não vos enganeis, esses livres-pensadores o que mais pedem e desejam é crer. Têm, como os outros, ou, talvez, mais que os outros, a sede do futuro, mas não podem admitir o que a Ciência desmente. A doutrina da pluralidade das existências é conforme com a Justiça de Deus; só ela explica o que, sem ela, é inexplicável. Como havíeis de pretender que o seu princípio não estivesse na própria religião?
+:::
+
+::: expand 🔗
+🏷️ [Juízo final](#juizo-final)
+🏷️ [Ressrreição](#ressurreicao)
 :::
 
 ---
@@ -1834,4 +1860,6 @@ Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e ze
 :::
 
 ---
+
+
 

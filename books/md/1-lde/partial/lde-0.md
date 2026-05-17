@@ -223,7 +223,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 ::: expand 🔗
 🏷️ [Ação](#acao)
 🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Fenômeno](#fenomeno)
 🏷️ [Força](#forca)
 🏷️ [Identificação](#identificacao)
@@ -252,7 +252,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 ::: expand 🔗
 🏷️ [Efeitos inteligentes](#efeitos-inteligentes)
 🏷️ [Escrita](#escrita)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Mediunidade](#mediunidade)
 🏷️ [Médium](#medium)
 🏷️ [Resposta](#resposta)
@@ -415,7 +415,7 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 
 ::: expand 🔗
 🏷️ [Demônio](#demonio)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Fenômeno espírita](#fenomeno-espirita)
 🏷️ [Julgamento](#julgamento)
 🏷️ [Mundo espiritual](#mundo-espiritual)
@@ -464,7 +464,7 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 
 ::: expand 🔗
 🏷️ [Desmaterialização](#desmaterializacao)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Família](#familia)
 🏷️ [Identidade](#identidade)
 🏷️ [Identificação](#identificacao)
@@ -490,7 +490,7 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 🏷️ [Contradição](#contradicao)
 🏷️ [Convenção](#convencao)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Linguagem](#linguagem)
 :::
 
@@ -575,8 +575,9 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 ::: expand 🔗
 🏷️ [Deus](#deus)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
+
 

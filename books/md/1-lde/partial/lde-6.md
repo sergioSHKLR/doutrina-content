@@ -773,7 +773,7 @@ Espiritismo, paganismo e – [Q.798](#q798)
 justiça e sublimidade do – [Q.876](#q876)
 missão do – [Q.668](#q668)
 
-###### 🏷️ Cristo {#cristo}
+###### 🏷️ Cristo
 ver Jesus
 
 ###### 🏷️ Crítica {#critica}
@@ -1230,7 +1230,7 @@ consequências do pedido de – [Q.888](#q888)
 ###### 🏷️ Espaço {#espaco}
 universal – [Q.35](#q35) a [Q.36](#q36)
 
-###### 🏷️ [Espiritismo]{#espiritismo}
+###### 🏷️ Espiritismo {#espiritismo}
 adepto do – [Intro 01](#lde-0-03-01)
 adversários do – [Conclusão 07](#lde-5-07)
 ancianidade do – [Q.221a](#q221a)

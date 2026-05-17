@@ -223,7 +223,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 ::: expand 🔗
 🏷️ [Ação](#acao)
 🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Fenômeno](#fenomeno)
 🏷️ [Força](#forca)
 🏷️ [Identificação](#identificacao)
@@ -252,7 +252,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 ::: expand 🔗
 🏷️ [Efeitos inteligentes](#efeitos-inteligentes)
 🏷️ [Escrita](#escrita)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Mediunidade](#mediunidade)
 🏷️ [Médium](#medium)
 🏷️ [Resposta](#resposta)
@@ -415,7 +415,7 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 
 ::: expand 🔗
 🏷️ [Demônio](#demonio)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Fenômeno espírita](#fenomeno-espirita)
 🏷️ [Julgamento](#julgamento)
 🏷️ [Mundo espiritual](#mundo-espiritual)
@@ -464,7 +464,7 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 
 ::: expand 🔗
 🏷️ [Desmaterialização](#desmaterializacao)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Família](#familia)
 🏷️ [Identidade](#identidade)
 🏷️ [Identificação](#identificacao)
@@ -490,7 +490,7 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 🏷️ [Contradição](#contradicao)
 🏷️ [Convenção](#convencao)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Linguagem](#linguagem)
 :::
 
@@ -575,10 +575,11 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 ::: expand 🔗
 🏷️ [Deus](#deus)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
+
 
 
 
@@ -1538,6 +1539,10 @@ São habitados todos os globos que se movem no Espaço?
 👴🏻 ▸ Deus povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da sabedoria de Deus, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
 :::
 
+::: expand 🔗
+🏷️ [Pluralidade dos mundos habitados](#pluralidade-dos-mundos-habitados)
+:::
+
 ---
 
 ##### #️⃣ Q.56 {#q56}
@@ -1603,6 +1608,13 @@ A diversidade das raças corrobora, igualmente, esta opinião. O clima e os cost
 Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo.
 :::
 
+::: expand 🔗
+🏷️ [Mundo](#mundo)
+🏷️ [Oriente](#oriente)
+🏷️ [Raciocínio](#raciocinio)
+🏷️ [Sentido](#sentido)
+:::
+
 ---
 
 ### 1.04. 🗂️ Princípio Vital {#lde-1-04}
@@ -1611,6 +1623,11 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 ::: grey
 Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.
+:::
+
+::: expand 🔗
+🏷️ [Dilúvio](#diluvio)
+🏷️ [Lei de atração](#lei-de-atracao)
 :::
 
 ---
@@ -1941,6 +1958,7 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 :::
 
 ---
+
 
 
 
@@ -2498,6 +2516,10 @@ Podem ser divididos em quatro grupos principais:
 ##### #️⃣ Q.108 {#q108}
 
 Quinta classe. Espíritos benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
+:::
+
+::: expand 🔗
+🏷️ [Espíritos benévolos](#espiritos-benevolos)
 :::
 
 ---
@@ -4426,6 +4448,7 @@ Não tendo podido praticar o mal, o Espírito de uma criança que morreu em tenr
 :::
 
 ::: expand 🔗
+🏷️ [Evocação](#evocacao)
 🏷️ [Reencarnação](#reencarnacao)
 :::
 
@@ -4600,6 +4623,10 @@ Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirã
 
 ::: spirit
 ✨ ▸ Não, que diferentes são as almas ou Espíritos de uns e outros. O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
+:::
+
+::: expand 🔗
+🏷️ [Hereditariedade](#hereditariedade)
 :::
 
 ---
@@ -4967,6 +4994,13 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito:
 👉 Veja [Q.1010](#q1010)
 ↩️ Voltar para [Q.619](#q619)
 ↩️ Voltar para [Q.789](#q789)
+
+::: expand 🔗
+🏷️ [Batista, João](#batista-joao)
+🏷️ [Elias](#elias)
+🏷️ [Raciocínio](#raciocinio)
+🏷️ [Racismo](#racismo)
+:::
 
 ---
 
@@ -5703,6 +5737,10 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ↩️ Voltar para [Q.965](#q965)
 
+::: expand 🔗
+🏷️ [Investigação](#investigacao)
+:::
+
 ---
 
 #### 2.06.05 📄 Escolha das provas {#lde-2-06-05}
@@ -6307,6 +6345,10 @@ Além da simpatia geral, oriunda da semelhança que entre eles exista, votam-se 
 ✨ ▸ Do mesmo modo que os homens, sendo, porém que mais forte é o laço que prende os Espíritos uns aos outros, quando carentes de corpo material, porque então esse laço não se acha exposto às vicissitudes das paixões.
 :::
 
+::: expand 🔗
+🏷️ [Relações](#relacoes)
+:::
+
 ---
 
 ##### #️⃣ Q.292 {#q292}
@@ -6790,6 +6832,10 @@ Sensibiliza os Espíritos o lembrarem-se deles os que lhes foram caros na Terra?
 :::
 
 ↩️ Voltar para [Q.824](#q824)
+
+::: expand 🔗
+🏷️ [Funeral](#funeral)
+:::
 
 ---
 
@@ -8935,6 +8981,10 @@ Que diferença há entre o êxtase e o sonambulismo?
 ✨ ▸ O êxtase é um sonambulismo mais apurado. A alma do extático ainda é mais independente.
 :::
 
+::: expand 🔗
+🏷️ [Êxtase](#extase)
+:::
+
 ---
 
 ##### #️⃣ Q.440 {#q440}
@@ -9228,6 +9278,12 @@ Aos dotados desta faculdade ela se afigura tão natural, como a que todos temos 
 O poder da vista dupla varia, indo desde a sensação confusa até a percepção clara e nítida das coisas presentes ou ausentes. Quando rudimentar, confere a certas pessoas o tato, a perspicácia, uma certa segurança nos atos, a que se pode dar o qualificativo de **precisão de golpe de vista moral**. Um pouco desenvolvida, desperta os pressentimentos. Mais desenvolvida, mostra os acontecimentos que deram ou estão para dar-se.
 
 O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma causa. Esses fenômenos, como os sonhos, estão na ordem da natureza. Tal a razão por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais.
+:::
+
+::: expand 🔗
+🏷️ [Êxtase](#extase)
+🏷️ [Lucidez sonambúlica](#lucidez-sonambulica)
+🏷️ [Vista](#vista)
 :::
 
 ---
@@ -10990,6 +11046,10 @@ Algo de verdade haverá nos pactos com os maus Espíritos?
 👴🏻 ▸ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores nasce de se entregar aos maus pensamentos que estes lhe sugerem e não de estipulações quaisquer que com eles faça. O pacto, no sentido vulgar do termo, é uma alegoria representativa da simpatia existente entre um indivíduo de natureza má e Espíritos malfazejos.
 :::
 
+::: expand 🔗
+🏷️ [Pactos](#pactos)
+:::
+
 ---
 
 ##### #️⃣ Q.550 {#q550}
@@ -11116,6 +11176,11 @@ Podem a bênção e a maldição atrair o bem e o mal para aqueles sobre quem s�
 
 ::: spirit
 ✨ ▸ Deus não escuta a maldição injusta e culpado perante Ele se torna o que a profere. Como temos os dois gênios opostos, o bem e o mal, pode a maldição exercer momentaneamente influência, mesmo sobre a matéria. Tal influência, porém, só se verifica por vontade de Deus como aumento de prova para aquele que é dela objeto. Ademais, o que é comum é serem amaldiçoados os maus e abençoados os bons. Jamais a bênção e a maldição podem desviar da senda da justiça a Providência, que nunca fere o maldito, senão quando mau, e cuja proteção não acoberta senão aquele que a merece.
+:::
+
+::: expand 🔗
+🏷️ [Bênção](#bencao)
+🏷️ [Maldição](#maldicao)
 :::
 
 ### 2.10. 🗂️ Ocupações e missões {#lde-2-10}
@@ -11664,7 +11729,10 @@ Que pensais da divisão da Natureza em três reinos, ou melhor, em duas classes:
 
 ::: expand 🔗
 🏷️ [Desmaterialização](#desmaterializacao)
+🏷️ [Minerais](#minerais)
 🏷️ [Ocupação](#ocupacao)
+🏷️ [Reinos](#reinos)
+🏷️ [Seres inorgânicos](#seres-inorganicos)
 :::
 
 ---
@@ -12176,6 +12244,10 @@ O terem os seres vivos uma origem comum no princípio inteligente não é a cons
 ✨ ▸ Duas coisas podem ter a mesma origem e absolutamente não se assemelharem mais tarde. Quem reconheceria a árvore, com suas folhas, flores e frutos, no germe informe que se contém na semente donde ela surge? Desde que o princípio inteligente atinge o grau necessário para ser Espírito e entrar no período da humanização, já não guarda relação com o seu estado primitivo e já não é a alma dos animais, como a árvore já não é a semente. De animal só há no homem o corpo e as paixões que nascem da influência do corpo e do instinto de conservação inerente à matéria. Não se pode, pois, dizer que tal homem é a encarnação do espírito de tal animal. Conseguintemente, a metempsicose, como a entendem, não é verdadeira.
 :::
 
+::: expand 🔗
+🏷️ [Metempsicose](#metempsicose)
+:::
+
 ---
 
 ##### #️⃣ Q.612 {#q612}
@@ -12221,13 +12293,14 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 🏷️ [Alma](#alma)
 🏷️ [Crença](#crenca)
 🏷️ [Criação](#criacao)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Espírito/s](#espirito/s)
 🏷️ [Perguntas](#perguntas)
 🏷️ [Reencarnação](#reencarnacao)
 :::
 
 ---
+
 
 
 
@@ -12243,6 +12316,10 @@ Que se deve entender por lei natural?
 
 ::: spirit
 ✨ ▸ A lei natural é a Lei de Deus. É a única verdadeira para a felicidade do homem. Indica-lhe o que deve fazer ou deixar de fazer e ele só é infeliz quando dela se afasta.
+:::
+
+::: expand 🔗
+🏷️ [Lei natural](#lei-natural)
 :::
 
 ---
@@ -13371,6 +13448,10 @@ Sendo uma necessidade para todo aquele que trabalha, o repouso não é também u
 ✨ ▸ Sem dúvida. O repouso serve para a reparação das forças do corpo e também é necessário para dar um pouco mais de liberdade à inteligência, a fim de que se eleve acima da matéria.
 :::
 
+::: expand 🔗
+🏷️ [Descanso](#descanso)
+:::
+
 ---
 
 ##### #️⃣ Q.683 {#q683}
@@ -13910,6 +13991,7 @@ Perto da morte física, ou da morte moral?
 :::
 
 ::: expand 🔗
+🏷️ [Excessos](#excessos)
 🏷️ [Gozo](#gozo)
 :::
 
@@ -13923,6 +14005,10 @@ Como pode o homem conhecer o limite do necessário?
 
 ::: spirit
 ✨ ▸ Aquele que é ponderado o conhece por intuição. Muitos só chegam a conhecê-lo por experiência e à sua própria custa.
+:::
+
+::: expand 🔗
+🏷️ [Acerto](#acerto)
 :::
 
 ---
@@ -14309,7 +14395,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 ::: expand 🔗
 🏷️ [Calamidades](#calamidades)
 🏷️ [Corpo](#corpo)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Eternidade](#eternidade)
 🏷️ [Morte](#morte)
 🏷️ [Sofrimento](#sofrimento)
@@ -14565,7 +14651,7 @@ Por que razão a crueldade forma o caráter predominante dos povos primitivos?
 
 ::: expand 🔗
 🏷️ [Crueldade](#crueldade)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Instinto](#instinto)
 :::
 
@@ -14806,6 +14892,10 @@ A vida social está na Natureza?
 ✨ ▸ Certamente. Deus fez o homem para viver em sociedade. Não lhe deu inutilmente a palavra e todas as outras faculdades necessárias à vida de relação.
 :::
 
+::: expand 🔗
+🏷️ [Vida social](#vida-social)
+:::
+
 ---
 
 ##### #️⃣ Q.767 {#q767}
@@ -14849,6 +14939,10 @@ Concebe-se que, como princípio geral, a vida social esteja na Natureza; mas, um
 
 ::: spirit
 ✨ ▸ Satisfação egoísta. Também há homens que experimentam satisfação na embriaguez. Merece-te isso aprovação? Não pode agradar a Deus uma vida pela qual o homem se condena a não ser útil a ninguém.
+:::
+
+::: expand 🔗
+🏷️ [Isolamento](#isolamento)
 :::
 
 ---
@@ -15010,7 +15104,7 @@ Pode o homem retrogradar para o estado de natureza?
 
 ::: expand 🔗
 🏷️ [Destino](#destino)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Estado de natureza](#estado-de-natureza)
 :::
 
@@ -15143,7 +15237,7 @@ Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto
 :::
 
 ::: expand 🔗
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Mal](#mal)
 :::
 
@@ -15174,6 +15268,10 @@ Mostra-nos a História que muitos povos, depois de abalos que os revolveram prof
 ✨ ▸ Quando tua casa ameaça ruína, mandas demoli-la e constróis outra mais sólida e mais cômoda. Mas, enquanto esta não se apronta, há perturbação e confusão na tua morada.
 
 Compreende mais o seguinte: eras pobre e habitavas um casebre; tornando-te rico, deixaste-o, para habitar um palácio. Então, um pobre diabo, como eras antes, vem tomar o lugar que ocupavas e fica muito contente, porque estava sem ter onde se abrigar. Pois bem! aprende que os Espíritos que, encarnados, constituem o povo degenerado não são os que o constituíam ao tempo do seu esplendor. Os de então, tendo-se adiantado, passaram para habitações mais perfeitas e progrediram, enquanto os outros, menos adiantados, tomaram o lugar que ficara vago e que também, a seu turno, terão um dia que deixar.
+:::
+
+::: expand 🔗
+🏷️ [Gerações](#geracoes)
 :::
 
 ---
@@ -15425,6 +15523,10 @@ O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como cren�
 As ideias só com o tempo se transformam; nunca de súbito. De geração em geração, elas se enfraquecem e acabam por desaparecer, paulatinamente, com os que as professavam, os quais vêm a ser substituídos por outros indivíduos imbuídos de novos princípios, como sucede com as ideias políticas. Vede o paganismo. Não há hoje mais quem professe as ideias religiosas dos tempos pagãos. Todavia, muitos séculos após o advento do Cristianismo, delas ainda restavam vestígios, que somente a completa renovação das raças conseguiu apagar. Assim será com o Espiritismo. Ele progride muito; mas, durante duas ou três gerações, ainda haverá um fermento de incredulidade, que unicamente o tempo aniquilará. Sua marcha, porém, será mais célere que a do Cristianismo, porque o próprio Cristianismo é quem lhe abre o caminho e serve de apoio. O Cristianismo tinha que destruir; o Espiritismo só tem que edificar.
 :::
 
+::: expand 🔗
+🏷️ [Ideia religiosa](#ideia-religiosa)
+:::
+
 ---
 
 ##### #️⃣ Q.799 {#q799}
@@ -15531,7 +15633,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 ::: expand 🔗
 🏷️ [Aptidão](#aptidao)
 🏷️ [Criação](#criacao)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Mundos](#mundos)
 🏷️ [Solidariedade](#solidariedade)
 :::
@@ -15546,6 +15648,10 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 ::: spirit
 ✨ ▸ Não; é obra do homem e não de Deus.
+:::
+
+::: expand 🔗
+🏷️ [Desigualdades sociais](#desigualdades-sociais)
 :::
 
 ---
@@ -15781,6 +15887,10 @@ Donde provém a inferioridade moral da mulher em certos países?
 ✨ ▸ Do predomínio injusto e cruel que sobre ela assumiu o homem. É resultado das instituições sociais e do abuso da força sobre a fraqueza. Entre homens moralmente pouco adiantados, a força faz o direito.
 :::
 
+::: expand 🔗
+🏷️ [Discriminação](#discriminacao)
+:::
+
 ---
 
 ##### #️⃣ Q.819 {#q819}
@@ -15891,6 +16001,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 :::
 
 ::: expand 🔗
+🏷️ [Funeral](#funeral)
 🏷️ [Orgulho](#orgulho)
 🏷️ [Riqueza](#riqueza)
 :::
@@ -17226,6 +17337,10 @@ Incorre em culpa o homem, por estudar os defeitos alheios?
 **Mateus, cap. 07, vers. 3, ARC**
 :::
 
+::: expand 🔗
+🏷️ [Crítica](#critica)
+:::
+
 ##### #️⃣ Q.904 {#q904}
 
 Incorrerá em culpa aquele que sonda as chagas da sociedade e as expõe em público?
@@ -17383,6 +17498,10 @@ Dentre os vícios, qual o que se pode considerar radical?
 ✨ ▸ Temo-lo dito muitas vezes: o egoísmo. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo. Por mais que lhes deis combate, não chegareis a extirpá-los, enquanto não atacardes o mal pela raiz, enquanto não lhe houverdes destruído a causa. Tendam, pois, todos os esforços para esse efeito, porquanto aí é que está a verdadeira chaga da sociedade. Quem quiser, desde esta vida, ir aproximando-se da perfeição moral, deve expurgar o seu coração de todo sentimento de egoísmo, visto ser o egoísmo incompatível com a justiça, o amor e a caridade. Ele neutraliza todas as outras qualidades.
 :::
 
+::: expand 🔗
+🏷️ [Perfeição moral](#perfeicao-moral)
+:::
+
 ---
 
 ##### #️⃣ Q.914 {#q914}
@@ -17496,6 +17615,10 @@ Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de 
 ✨ ▸ Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo. [^24]
 :::
 
+::: expand 🔗
+🏷️ [Autenticidade](#autenticidade)
+:::
+
 ---
 
 ##### #️⃣ Q.919.a {#q919a}
@@ -17532,6 +17655,7 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 :::
 
 ---
+
 
 
 
@@ -17825,7 +17949,7 @@ A possibilidade de nos pormos em comunicação com os Espíritos é uma dulcíss
 ::: expand 🔗
 🏷️ [Além-túmulo](#alem-tumulo)
 🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -17917,6 +18041,10 @@ Uma vez que os Espíritos simpáticos são induzidos a unir-se, como é que, ent
 Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequência tomar-se uma pela outra. Quando pura e simpática, a afeição da alma é duradoura; efêmera a do corpo. Daí vem que, muitas vezes, os que julgavam amar-se com eterno amor passam a odiar-se, desde que a ilusão se desfaça.
 :::
 
+::: expand 🔗
+🏷️ [Namoro](#namoro)
+:::
+
 ---
 
 ##### #️⃣ Q.940 {#q940}
@@ -17989,6 +18117,10 @@ Donde nasce o desgosto da vida, que, sem motivos plausíveis, se apodera de cert
 
 ::: spirit
 ✨ ▸ Efeito da ociosidade, da falta de fé e, também, da saciedade. Para aquele que usa de suas faculdades com fim útil **e de acordo com as suas aptidões naturais**, o trabalho nada tem de árido e a vida se escoa mais rapidamente. Ele lhe suporta as vicissitudes com tanto mais paciência e resignação, quanto obra com o fito da felicidade mais sólida e mais durável que o espera.
+:::
+
+::: expand 🔗
+🏷️ [Desânimo](#desanimo)
 :::
 
 ---
@@ -18305,6 +18437,10 @@ Donde se origina a crença, com que deparamos entre todos os povos, na existênc
 ✨ ▸ É sempre a mesma coisa: pressentimento da realidade, trazido ao homem pelo Espírito nele encarnado. Porque, sabei-o bem, não é debalde que uma voz interior vos fala. O vosso erro consiste em não lhe prestardes bastante atenção. Melhores vos tornaríeis, se nisso pensásseis muito, e muitas vezes.
 :::
 
+::: expand 🔗
+🏷️ [Penas futuras](#penas-futuras)
+:::
+
 ---
 
 ##### #️⃣ Q.961 {#q961}
@@ -18471,7 +18607,7 @@ Em que consistem os sofrimentos dos Espíritos inferiores?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Influenciação](#influenciacao)
 :::
 
@@ -18779,7 +18915,7 @@ Pode o Espírito, que progrediu em sua existência terrena, reencarnar alguma ve
 
 ::: expand 🔗
 🏷️ [Espírito puro](#espirito-puro)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Mundos evoluídos](#mundos-evoluidos)
 🏷️ [Reencarnação](#reencarnacao)
 :::
@@ -18916,7 +19052,7 @@ Haverá Espíritos que, sem serem maus, se conservem indiferentes à sua sorte?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Progresso](#progresso)
 :::
 
@@ -19133,6 +19269,10 @@ Depende sempre da vontade do Espírito a duração das penas? Algumas não haver
 **São Luís, IX de França**
 :::
 
+::: expand 🔗
+🏷️ [Condenação](#condenacao)
+:::
+
 ---
 
 ##### #️⃣ Q.1009 {#q1009}
@@ -19192,10 +19332,15 @@ Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao T
 :::
 
 ::: expand 🔗
+🏷️ [Condenação](#condenacao)
 🏷️ [Evolução](#evolucao)
+🏷️ [Lamennais](#Lamennais)
 🏷️ [Luís (São)](#luis-sao)
+🏷️ [Paulo (apóstolo)](#paulo-apostolo)
 🏷️ [Penas eternas](#penas-eternas)
+🏷️ [Platão](#platao)
 🏷️ [Sofrimento](#sofrimento)
+🏷️ [Teologia](#teologia)
 :::
 
 ---
@@ -19208,6 +19353,11 @@ O dogma da ressurreição da carne será a consagração da reencarnação ensin
 
 ::: spirit
 ✨ ▸ Como quereríeis que fosse de outro modo? Conforme sucede com tantas outras, estas palavras só parecem despropositadas, no entender de algumas pessoas, porque as tomam ao pé da letra. Levam, por isso, à incredulidade. Dai-lhes uma interpretação lógica e os que chamais livres-pensadores as admitirão sem dificuldades, precisamente pela razão de que refletem. Por que, não vos enganeis, esses livres-pensadores o que mais pedem e desejam é crer. Têm, como os outros, ou, talvez, mais que os outros, a sede do futuro, mas não podem admitir o que a Ciência desmente. A doutrina da pluralidade das existências é conforme com a Justiça de Deus; só ela explica o que, sem ela, é inexplicável. Como havíeis de pretender que o seu princípio não estivesse na própria religião?
+:::
+
+::: expand 🔗
+🏷️ [Juízo final](#juizo-final)
+🏷️ [Ressrreição](#ressurreicao)
 :::
 
 ---
@@ -19373,6 +19523,7 @@ Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e ze
 
 
 
+
 ## 5. 🗃️ Conclusão {#lde-5}
 
 #### 5.01. 📄 Conclusão 01 {#lde-5-01}
@@ -19382,7 +19533,7 @@ Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imanta
 
 ::: expand 🔗
 🏷️ [Bem](#bem)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Humanidade](#humanidade)
 🏷️ [Luís (São)](#luis-sao)
 🏷️ [Paraíso](#paraiso)
@@ -20336,7 +20487,7 @@ Espiritismo, paganismo e – [Q.798](#q798)
 justiça e sublimidade do – [Q.876](#q876)
 missão do – [Q.668](#q668)
 
-###### 🏷️ Cristo {#cristo}
+###### 🏷️ Cristo
 ver Jesus
 
 ###### 🏷️ Crítica {#critica}
@@ -20793,7 +20944,7 @@ consequências do pedido de – [Q.888](#q888)
 ###### 🏷️ Espaço {#espaco}
 universal – [Q.35](#q35) a [Q.36](#q36)
 
-###### 🏷️ [Espiritismo]{#espiritismo}
+###### 🏷️ Espiritismo {#espiritismo}
 adepto do – [Intro 01](#lde-0-03-01)
 adversários do – [Conclusão 07](#lde-5-07)
 ancianidade do – [Q.221a](#q221a)

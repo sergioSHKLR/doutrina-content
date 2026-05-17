@@ -555,6 +555,10 @@ Podem ser divididos em quatro grupos principais:
 Quinta classe. Espíritos benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
 :::
 
+::: expand 🔗
+🏷️ [Espíritos benévolos](#espiritos-benevolos)
+:::
+
 ---
 
 ##### #️⃣ Q.109 {#q109}
@@ -2481,6 +2485,7 @@ Não tendo podido praticar o mal, o Espírito de uma criança que morreu em tenr
 :::
 
 ::: expand 🔗
+🏷️ [Evocação](#evocacao)
 🏷️ [Reencarnação](#reencarnacao)
 :::
 
@@ -2655,6 +2660,10 @@ Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirã
 
 ::: spirit
 ✨ ▸ Não, que diferentes são as almas ou Espíritos de uns e outros. O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
+:::
+
+::: expand 🔗
+🏷️ [Hereditariedade](#hereditariedade)
 :::
 
 ---
@@ -3022,6 +3031,13 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito:
 👉 Veja [Q.1010](#q1010)
 ↩️ Voltar para [Q.619](#q619)
 ↩️ Voltar para [Q.789](#q789)
+
+::: expand 🔗
+🏷️ [Batista, João](#batista-joao)
+🏷️ [Elias](#elias)
+🏷️ [Raciocínio](#raciocinio)
+🏷️ [Racismo](#racismo)
+:::
 
 ---
 
@@ -3758,6 +3774,10 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ↩️ Voltar para [Q.965](#q965)
 
+::: expand 🔗
+🏷️ [Investigação](#investigacao)
+:::
+
 ---
 
 #### 2.06.05 📄 Escolha das provas {#lde-2-06-05}
@@ -4362,6 +4382,10 @@ Além da simpatia geral, oriunda da semelhança que entre eles exista, votam-se 
 ✨ ▸ Do mesmo modo que os homens, sendo, porém que mais forte é o laço que prende os Espíritos uns aos outros, quando carentes de corpo material, porque então esse laço não se acha exposto às vicissitudes das paixões.
 :::
 
+::: expand 🔗
+🏷️ [Relações](#relacoes)
+:::
+
 ---
 
 ##### #️⃣ Q.292 {#q292}
@@ -4845,6 +4869,10 @@ Sensibiliza os Espíritos o lembrarem-se deles os que lhes foram caros na Terra?
 :::
 
 ↩️ Voltar para [Q.824](#q824)
+
+::: expand 🔗
+🏷️ [Funeral](#funeral)
+:::
 
 ---
 
@@ -6990,6 +7018,10 @@ Que diferença há entre o êxtase e o sonambulismo?
 ✨ ▸ O êxtase é um sonambulismo mais apurado. A alma do extático ainda é mais independente.
 :::
 
+::: expand 🔗
+🏷️ [Êxtase](#extase)
+:::
+
 ---
 
 ##### #️⃣ Q.440 {#q440}
@@ -7283,6 +7315,12 @@ Aos dotados desta faculdade ela se afigura tão natural, como a que todos temos 
 O poder da vista dupla varia, indo desde a sensação confusa até a percepção clara e nítida das coisas presentes ou ausentes. Quando rudimentar, confere a certas pessoas o tato, a perspicácia, uma certa segurança nos atos, a que se pode dar o qualificativo de **precisão de golpe de vista moral**. Um pouco desenvolvida, desperta os pressentimentos. Mais desenvolvida, mostra os acontecimentos que deram ou estão para dar-se.
 
 O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma causa. Esses fenômenos, como os sonhos, estão na ordem da natureza. Tal a razão por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais.
+:::
+
+::: expand 🔗
+🏷️ [Êxtase](#extase)
+🏷️ [Lucidez sonambúlica](#lucidez-sonambulica)
+🏷️ [Vista](#vista)
 :::
 
 ---
@@ -9045,6 +9083,10 @@ Algo de verdade haverá nos pactos com os maus Espíritos?
 👴🏻 ▸ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores nasce de se entregar aos maus pensamentos que estes lhe sugerem e não de estipulações quaisquer que com eles faça. O pacto, no sentido vulgar do termo, é uma alegoria representativa da simpatia existente entre um indivíduo de natureza má e Espíritos malfazejos.
 :::
 
+::: expand 🔗
+🏷️ [Pactos](#pactos)
+:::
+
 ---
 
 ##### #️⃣ Q.550 {#q550}
@@ -9171,6 +9213,11 @@ Podem a bênção e a maldição atrair o bem e o mal para aqueles sobre quem s�
 
 ::: spirit
 ✨ ▸ Deus não escuta a maldição injusta e culpado perante Ele se torna o que a profere. Como temos os dois gênios opostos, o bem e o mal, pode a maldição exercer momentaneamente influência, mesmo sobre a matéria. Tal influência, porém, só se verifica por vontade de Deus como aumento de prova para aquele que é dela objeto. Ademais, o que é comum é serem amaldiçoados os maus e abençoados os bons. Jamais a bênção e a maldição podem desviar da senda da justiça a Providência, que nunca fere o maldito, senão quando mau, e cuja proteção não acoberta senão aquele que a merece.
+:::
+
+::: expand 🔗
+🏷️ [Bênção](#bencao)
+🏷️ [Maldição](#maldicao)
 :::
 
 ### 2.10. 🗂️ Ocupações e missões {#lde-2-10}
@@ -9719,7 +9766,10 @@ Que pensais da divisão da Natureza em três reinos, ou melhor, em duas classes:
 
 ::: expand 🔗
 🏷️ [Desmaterialização](#desmaterializacao)
+🏷️ [Minerais](#minerais)
 🏷️ [Ocupação](#ocupacao)
+🏷️ [Reinos](#reinos)
+🏷️ [Seres inorgânicos](#seres-inorganicos)
 :::
 
 ---
@@ -10231,6 +10281,10 @@ O terem os seres vivos uma origem comum no princípio inteligente não é a cons
 ✨ ▸ Duas coisas podem ter a mesma origem e absolutamente não se assemelharem mais tarde. Quem reconheceria a árvore, com suas folhas, flores e frutos, no germe informe que se contém na semente donde ela surge? Desde que o princípio inteligente atinge o grau necessário para ser Espírito e entrar no período da humanização, já não guarda relação com o seu estado primitivo e já não é a alma dos animais, como a árvore já não é a semente. De animal só há no homem o corpo e as paixões que nascem da influência do corpo e do instinto de conservação inerente à matéria. Não se pode, pois, dizer que tal homem é a encarnação do espírito de tal animal. Conseguintemente, a metempsicose, como a entendem, não é verdadeira.
 :::
 
+::: expand 🔗
+🏷️ [Metempsicose](#metempsicose)
+:::
+
 ---
 
 ##### #️⃣ Q.612 {#q612}
@@ -10276,11 +10330,12 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 🏷️ [Alma](#alma)
 🏷️ [Crença](#crenca)
 🏷️ [Criação](#criacao)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Espírito/s](#espirito/s)
 🏷️ [Perguntas](#perguntas)
 🏷️ [Reencarnação](#reencarnacao)
 :::
 
 ---
+
 

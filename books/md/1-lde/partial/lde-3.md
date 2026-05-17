@@ -13,6 +13,10 @@ Que se deve entender por lei natural?
 ✨ ▸ A lei natural é a Lei de Deus. É a única verdadeira para a felicidade do homem. Indica-lhe o que deve fazer ou deixar de fazer e ele só é infeliz quando dela se afasta.
 :::
 
+::: expand 🔗
+🏷️ [Lei natural](#lei-natural)
+:::
+
 ---
 
 ##### #️⃣ Q.615 {#q615}
@@ -1139,6 +1143,10 @@ Sendo uma necessidade para todo aquele que trabalha, o repouso não é também u
 ✨ ▸ Sem dúvida. O repouso serve para a reparação das forças do corpo e também é necessário para dar um pouco mais de liberdade à inteligência, a fim de que se eleve acima da matéria.
 :::
 
+::: expand 🔗
+🏷️ [Descanso](#descanso)
+:::
+
 ---
 
 ##### #️⃣ Q.683 {#q683}
@@ -1678,6 +1686,7 @@ Perto da morte física, ou da morte moral?
 :::
 
 ::: expand 🔗
+🏷️ [Excessos](#excessos)
 🏷️ [Gozo](#gozo)
 :::
 
@@ -1691,6 +1700,10 @@ Como pode o homem conhecer o limite do necessário?
 
 ::: spirit
 ✨ ▸ Aquele que é ponderado o conhece por intuição. Muitos só chegam a conhecê-lo por experiência e à sua própria custa.
+:::
+
+::: expand 🔗
+🏷️ [Acerto](#acerto)
 :::
 
 ---
@@ -2077,7 +2090,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 ::: expand 🔗
 🏷️ [Calamidades](#calamidades)
 🏷️ [Corpo](#corpo)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Eternidade](#eternidade)
 🏷️ [Morte](#morte)
 🏷️ [Sofrimento](#sofrimento)
@@ -2333,7 +2346,7 @@ Por que razão a crueldade forma o caráter predominante dos povos primitivos?
 
 ::: expand 🔗
 🏷️ [Crueldade](#crueldade)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Instinto](#instinto)
 :::
 
@@ -2574,6 +2587,10 @@ A vida social está na Natureza?
 ✨ ▸ Certamente. Deus fez o homem para viver em sociedade. Não lhe deu inutilmente a palavra e todas as outras faculdades necessárias à vida de relação.
 :::
 
+::: expand 🔗
+🏷️ [Vida social](#vida-social)
+:::
+
 ---
 
 ##### #️⃣ Q.767 {#q767}
@@ -2617,6 +2634,10 @@ Concebe-se que, como princípio geral, a vida social esteja na Natureza; mas, um
 
 ::: spirit
 ✨ ▸ Satisfação egoísta. Também há homens que experimentam satisfação na embriaguez. Merece-te isso aprovação? Não pode agradar a Deus uma vida pela qual o homem se condena a não ser útil a ninguém.
+:::
+
+::: expand 🔗
+🏷️ [Isolamento](#isolamento)
 :::
 
 ---
@@ -2778,7 +2799,7 @@ Pode o homem retrogradar para o estado de natureza?
 
 ::: expand 🔗
 🏷️ [Destino](#destino)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Estado de natureza](#estado-de-natureza)
 :::
 
@@ -2911,7 +2932,7 @@ Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto
 :::
 
 ::: expand 🔗
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Mal](#mal)
 :::
 
@@ -2942,6 +2963,10 @@ Mostra-nos a História que muitos povos, depois de abalos que os revolveram prof
 ✨ ▸ Quando tua casa ameaça ruína, mandas demoli-la e constróis outra mais sólida e mais cômoda. Mas, enquanto esta não se apronta, há perturbação e confusão na tua morada.
 
 Compreende mais o seguinte: eras pobre e habitavas um casebre; tornando-te rico, deixaste-o, para habitar um palácio. Então, um pobre diabo, como eras antes, vem tomar o lugar que ocupavas e fica muito contente, porque estava sem ter onde se abrigar. Pois bem! aprende que os Espíritos que, encarnados, constituem o povo degenerado não são os que o constituíam ao tempo do seu esplendor. Os de então, tendo-se adiantado, passaram para habitações mais perfeitas e progrediram, enquanto os outros, menos adiantados, tomaram o lugar que ficara vago e que também, a seu turno, terão um dia que deixar.
+:::
+
+::: expand 🔗
+🏷️ [Gerações](#geracoes)
 :::
 
 ---
@@ -3193,6 +3218,10 @@ O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como cren�
 As ideias só com o tempo se transformam; nunca de súbito. De geração em geração, elas se enfraquecem e acabam por desaparecer, paulatinamente, com os que as professavam, os quais vêm a ser substituídos por outros indivíduos imbuídos de novos princípios, como sucede com as ideias políticas. Vede o paganismo. Não há hoje mais quem professe as ideias religiosas dos tempos pagãos. Todavia, muitos séculos após o advento do Cristianismo, delas ainda restavam vestígios, que somente a completa renovação das raças conseguiu apagar. Assim será com o Espiritismo. Ele progride muito; mas, durante duas ou três gerações, ainda haverá um fermento de incredulidade, que unicamente o tempo aniquilará. Sua marcha, porém, será mais célere que a do Cristianismo, porque o próprio Cristianismo é quem lhe abre o caminho e serve de apoio. O Cristianismo tinha que destruir; o Espiritismo só tem que edificar.
 :::
 
+::: expand 🔗
+🏷️ [Ideia religiosa](#ideia-religiosa)
+:::
+
 ---
 
 ##### #️⃣ Q.799 {#q799}
@@ -3299,7 +3328,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 ::: expand 🔗
 🏷️ [Aptidão](#aptidao)
 🏷️ [Criação](#criacao)
-🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Mundos](#mundos)
 🏷️ [Solidariedade](#solidariedade)
 :::
@@ -3314,6 +3343,10 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 ::: spirit
 ✨ ▸ Não; é obra do homem e não de Deus.
+:::
+
+::: expand 🔗
+🏷️ [Desigualdades sociais](#desigualdades-sociais)
 :::
 
 ---
@@ -3549,6 +3582,10 @@ Donde provém a inferioridade moral da mulher em certos países?
 ✨ ▸ Do predomínio injusto e cruel que sobre ela assumiu o homem. É resultado das instituições sociais e do abuso da força sobre a fraqueza. Entre homens moralmente pouco adiantados, a força faz o direito.
 :::
 
+::: expand 🔗
+🏷️ [Discriminação](#discriminacao)
+:::
+
 ---
 
 ##### #️⃣ Q.819 {#q819}
@@ -3659,6 +3696,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 :::
 
 ::: expand 🔗
+🏷️ [Funeral](#funeral)
 🏷️ [Orgulho](#orgulho)
 🏷️ [Riqueza](#riqueza)
 :::
@@ -4994,6 +5032,10 @@ Incorre em culpa o homem, por estudar os defeitos alheios?
 **Mateus, cap. 07, vers. 3, ARC**
 :::
 
+::: expand 🔗
+🏷️ [Crítica](#critica)
+:::
+
 ##### #️⃣ Q.904 {#q904}
 
 Incorrerá em culpa aquele que sonda as chagas da sociedade e as expõe em público?
@@ -5151,6 +5193,10 @@ Dentre os vícios, qual o que se pode considerar radical?
 ✨ ▸ Temo-lo dito muitas vezes: o egoísmo. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo. Por mais que lhes deis combate, não chegareis a extirpá-los, enquanto não atacardes o mal pela raiz, enquanto não lhe houverdes destruído a causa. Tendam, pois, todos os esforços para esse efeito, porquanto aí é que está a verdadeira chaga da sociedade. Quem quiser, desde esta vida, ir aproximando-se da perfeição moral, deve expurgar o seu coração de todo sentimento de egoísmo, visto ser o egoísmo incompatível com a justiça, o amor e a caridade. Ele neutraliza todas as outras qualidades.
 :::
 
+::: expand 🔗
+🏷️ [Perfeição moral](#perfeicao-moral)
+:::
+
 ---
 
 ##### #️⃣ Q.914 {#q914}
@@ -5264,6 +5310,10 @@ Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de 
 ✨ ▸ Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo. [^24]
 :::
 
+::: expand 🔗
+🏷️ [Autenticidade](#autenticidade)
+:::
+
 ---
 
 ##### #️⃣ Q.919.a {#q919a}
@@ -5300,4 +5350,5 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 :::
 
 ---
+
 

@@ -955,6 +955,10 @@ São habitados todos os globos que se movem no Espaço?
 👴🏻 ▸ Deus povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da sabedoria de Deus, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
 :::
 
+::: expand 🔗
+🏷️ [Pluralidade dos mundos habitados](#pluralidade-dos-mundos-habitados)
+:::
+
 ---
 
 ##### #️⃣ Q.56 {#q56}
@@ -1020,6 +1024,13 @@ A diversidade das raças corrobora, igualmente, esta opinião. O clima e os cost
 Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo.
 :::
 
+::: expand 🔗
+🏷️ [Mundo](#mundo)
+🏷️ [Oriente](#oriente)
+🏷️ [Raciocínio](#raciocinio)
+🏷️ [Sentido](#sentido)
+:::
+
 ---
 
 ### 1.04. 🗂️ Princípio Vital {#lde-1-04}
@@ -1028,6 +1039,11 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 ::: grey
 Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.
+:::
+
+::: expand 🔗
+🏷️ [Dilúvio](#diluvio)
+🏷️ [Lei de atração](#lei-de-atracao)
 :::
 
 ---
@@ -1358,4 +1374,5 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 :::
 
 ---
+
 
