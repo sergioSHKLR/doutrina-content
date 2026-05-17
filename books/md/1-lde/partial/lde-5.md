@@ -8,7 +8,7 @@ Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imanta
 
 ::: expand 🔗
 🏷️ [Bem](#bem)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
 🏷️ [Humanidade](#humanidade)
 🏷️ [Luís (São)](#luis-sao)
 🏷️ [Paraíso](#paraiso)

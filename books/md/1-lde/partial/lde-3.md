@@ -2077,7 +2077,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 ::: expand 🔗
 🏷️ [Calamidades](#calamidades)
 🏷️ [Corpo](#corpo)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
 🏷️ [Eternidade](#eternidade)
 🏷️ [Morte](#morte)
 🏷️ [Sofrimento](#sofrimento)
@@ -2333,7 +2333,7 @@ Por que razão a crueldade forma o caráter predominante dos povos primitivos?
 
 ::: expand 🔗
 🏷️ [Crueldade](#crueldade)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
 🏷️ [Instinto](#instinto)
 :::
 
@@ -2778,7 +2778,7 @@ Pode o homem retrogradar para o estado de natureza?
 
 ::: expand 🔗
 🏷️ [Destino](#destino)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
 🏷️ [Estado de natureza](#estado-de-natureza)
 :::
 
@@ -2911,7 +2911,7 @@ Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
 🏷️ [Mal](#mal)
 :::
 
@@ -3299,7 +3299,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 ::: expand 🔗
 🏷️ [Aptidão](#aptidao)
 🏷️ [Criação](#criacao)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
 🏷️ [Mundos](#mundos)
 🏷️ [Solidariedade](#solidariedade)
 :::

@@ -29,7 +29,7 @@ Os Espíritos são seres distintos da Divindade ou serão simples emanações ou
 
 ::: expand 🔗
 🏷️ [Deus](#deus)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -43,7 +43,7 @@ Os Espíritos tiveram princípio ou existem, como Deus, de toda a eternidade?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Mistério](#misterio)
 🏷️ [Trabalho](#trabalho)
 :::
@@ -89,7 +89,7 @@ Os Espíritos se formam espontaneamente ou procedem uns dos outros?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -107,7 +107,7 @@ Será certo dizer-se que os Espíritos são imateriais?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -121,7 +121,7 @@ Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles em
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Imortalidade](#imortalidade)
 :::
 
@@ -237,7 +237,7 @@ O pensamento não é a própria alma que se transporta?
 
 ::: expand 🔗
 🏷️ [Alma](#alma)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Pensamento](#pensamento)
 :::
 
@@ -252,7 +252,7 @@ O Espírito que se transporta de um lugar a outro tem consciência da distância
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -282,7 +282,7 @@ Têm os Espíritos o dom da ubiquidade? Por outras palavras: um Espírito pode d
 ↩️ Voltar para [Q.247](#q247)
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Ubiquidade](#ubiquidade)
 :::
 
@@ -386,7 +386,7 @@ As ordens ou graus de perfeição dos Espíritos são em número determinado?
 
 ::: expand 🔗
 🏷️ [Classificação](#classificacao)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Hierarquia](#hierarquia)
 :::
 
@@ -416,7 +416,7 @@ Os da terceira ordem são todos essencialmente maus?
 
 ::: expand 🔗
 🏷️ [Espírito imperfeito](#espirito-imperfeito)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -640,7 +640,7 @@ Dos Espíritos, uns terão sido criados bons e outros maus?
 ::: expand 🔗
 🏷️ [Criação](#criacao)
 🏷️ [Deus](#deus)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Perfeição](#perfeicao)
 :::
 
@@ -708,7 +708,7 @@ Não podia Deus isentar os Espíritos das provas que lhes cumpre sofrer para che
 ↩️ Voltar para [Q.871](#q871)
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Perfeição](#perfeicao)
 🏷️ [Vida espiritual](#vida-espiritual)
 :::
@@ -865,7 +865,7 @@ Os Espíritos são criados iguais quanto às faculdades intelectuais?
 
 ::: expand 🔗
 🏷️ [Criação](#criacao)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Perfeição](#perfeicao)
 :::
 
@@ -1146,7 +1146,7 @@ Um Espírito pode encarnar a um tempo em dois corpos diferentes?
 
 ::: expand 🔗
 🏷️ [Encarnação](#encarnacao)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -2193,7 +2193,7 @@ Haverá mundos em que o Espírito, deixando de revestir corpos materiais, só te
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Perispírito](#perispirito)
 :::
 
@@ -2304,7 +2304,7 @@ Então, as paixões são um sinal de desenvolvimento?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Evolução](#evolucao)
 🏷️ [Paixão](#paixao)
 🏷️ [Vida](#vida)
@@ -2357,7 +2357,7 @@ Pode um homem, nas suas novas existências, descer mais baixo do que esteja na a
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Reencarnação](#reencarnacao)
 :::
 
@@ -2372,7 +2372,7 @@ Pode um homem, nas suas novas existências, descer mais baixo do que esteja na a
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Reencarnação](#reencarnacao)
 :::
 
@@ -2392,7 +2392,7 @@ A alma de um homem perverso pode tornar-se a de um homem de bem?
 
 ::: expand 🔗
 🏷️ [Arrependimento](#arrependimento)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Homem](#homem)
 🏷️ [Reencarnação](#reencarnacao)
 :::
@@ -2447,7 +2447,7 @@ Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulaçõe
 
 ::: expand 🔗
 🏷️ [Corpo físico](#corpo-fisico)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -2840,7 +2840,7 @@ Não é, então, quimérica a teoria das ideias inatas?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Ideias inatas](#ideias-inatas)
 🏷️ [Teoria](#teoria)
 :::
@@ -2926,7 +2926,7 @@ Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina Esp
 
 ### 2.05. 🗂️ Considerações sobre a pluralidade das existências {#lde-2-05}
 
-#### 222
+#### 222 {#222}
 
 Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
 
@@ -3412,7 +3412,7 @@ A duração, os Espíritos a compreendem como nós?
 ↩️ Voltar para [Q.1005](#q1005)
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Tempo](#tempo)
 :::
 
@@ -3528,7 +3528,7 @@ O Espírito tem circunscrita a visão como os seres corpóreos?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Visão](#visao)
 :::
 
@@ -3543,7 +3543,7 @@ Precisam da luz para ver?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Percepção](#percepcao)
 :::
 
@@ -3580,7 +3580,7 @@ O Espírito vê as coisas tão distintamente como nós?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -3608,7 +3608,7 @@ No Espírito, a faculdade de ouvir está em todo ele, como a de ver?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -3667,7 +3667,7 @@ Os Espíritos experimentam as nossas necessidades e sofrimentos físicos?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Sofrimento](#sofrimento)
 :::
 
@@ -3682,7 +3682,7 @@ E a fadiga, a necessidade de repouso, experimentam-nas?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Repouso](#repouso)
 :::
 
@@ -3697,7 +3697,7 @@ Quando um Espírito diz que sofre, de que natureza é o seu sofrimento?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Sofrimento](#sofrimento)
 :::
 
@@ -3945,7 +3945,7 @@ Dizem todos os Espíritos que, na erraticidade, eles se aplicam a pesquisar, est
 
 ::: expand 🔗
 🏷️ [Escolha](#escolha)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Homem](#homem)
 🏷️ [Livre-arbítrio](#livre-arbitrio)
 🏷️ [Matéria](#materia)
@@ -4475,7 +4475,7 @@ Em que sentido se deve entender a palavra metade, de que alguns Espíritos se se
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -4610,7 +4610,7 @@ Entrevê o Espírito o objetivo da vida terrestre com relação à vida futura?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Vida terrena](#vida-terrena)
 :::
 
@@ -4655,7 +4655,7 @@ Como considera o Espírito o corpo de que vem de separar-se?
 
 ::: expand 🔗
 🏷️ [Corpo físico](#corpo-fisico)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -4670,7 +4670,7 @@ Que sensação lhe causa o espetáculo do seu corpo em decomposição?
 
 ::: expand 🔗
 🏷️ [Corpo físico](#corpo-fisico)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -4698,7 +4698,7 @@ A veneração que se tenha pelos objetos materiais que pertenceram ao Espírito 
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -4774,7 +4774,7 @@ No além, o Espírito se interessa pelos trabalhos que se executam na Terra, pel
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -4792,7 +4792,7 @@ Após a morte, conservam os Espíritos o amor da pátria?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Evolução](#evolucao)
 🏷️ [Nação](#nacao)
 🏷️ [Povoamento](#povoamento)
@@ -4857,7 +4857,7 @@ O dia da comemoração dos mortos é, para os Espíritos, mais solene do que os 
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Finados](#finados)
 :::
 
@@ -5070,7 +5070,7 @@ Todos os Espíritos se preocupam com a sua reencarnação?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Reencarnação](#reencarnacao)
 :::
 
@@ -5254,7 +5254,7 @@ No momento de reencarnar, o Espírito se acha acompanhado de outros Espíritos s
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Plano físico](#plano-fisico)
 :::
 
@@ -5297,7 +5297,7 @@ Em que momento a alma se une ao corpo?
 
 ::: expand 🔗
 🏷️ [Concepção](#concepcao)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Vontade](#vontade)
 :::
 
@@ -5354,7 +5354,7 @@ Sabe o Espírito, previamente, que o corpo de sua escolha não tem probabilidade
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -5427,7 +5427,7 @@ Não sendo completa a união do Espírito ao corpo, não estando definitivamente
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Feto](#feto)
 :::
 
@@ -5471,7 +5471,7 @@ Entre os natimortos alguns haverá que não tenham sido destinados à encarnaç�
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Natimorto](#natimorto)
 :::
 
@@ -5634,7 +5634,7 @@ O mesmo Espírito dá ao homem as qualidades morais e as da inteligência?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Evolução](#evolucao)
 :::
 
@@ -5727,7 +5727,7 @@ Assim, o invólucro material é obstáculo à livre manifestação das faculdade
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Matéria](#materia)
 :::
 
@@ -5758,7 +5758,7 @@ Da influência dos órgãos se pode inferir a existência de uma relação entre
 
 ::: expand 🔗
 🏷️ [Cérebro](#cerebro)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Influência](#influencia)
 :::
 
@@ -5778,7 +5778,7 @@ Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva 
 
 ::: expand 🔗
 🏷️ [Aptidão](#aptidao)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -5891,7 +5891,7 @@ Qual, na loucura, a situação do Espírito?
 ::: expand 🔗
 🏷️ [Cérebro](#cerebro)
 🏷️ [Doença mental](#doenca-mental)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Loucura](#loucura)
 :::
 
@@ -5907,7 +5907,7 @@ Então, o desorganizado é sempre o corpo e não o Espírito?
 
 ::: expand 🔗
 🏷️ [Ação](#acao)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Matéria](#materia)
 :::
 
@@ -6117,7 +6117,7 @@ A simpatia tem sempre por princípio um anterior conhecimento?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -6427,7 +6427,7 @@ Por que não nos lembramos sempre dos sonhos?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -6512,7 +6512,7 @@ Doutras vezes, num estado que ainda não é bem o do adormecimento, estando com 
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Fenômeno mediúnico](#fenomeno-mediunico)
 🏷️ [Mediunidade](#mediunidade)
 :::
@@ -6572,7 +6572,7 @@ Pode a atividade do Espírito, durante o repouso, ou o sono corporal, fatigar o 
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Sono](#sono)
 :::
 
@@ -6842,7 +6842,7 @@ Como pode o sonâmbulo ver através dos corpos opacos?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Visão](#visao)
 :::
 
@@ -7794,7 +7794,7 @@ Os Espíritos se afeiçoam de preferência a certas pessoas?
 ::: expand 🔗
 🏷️ [Afeição](#afeicao)
 🏷️ [Amor](#amor)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -7979,7 +7979,7 @@ Aos que considerem impossível que Espíritos verdadeiramente elevados se consag
 
 Não receeis fatigar-nos com as vossas perguntas. Ao contrário, procurai estar sempre em relação conosco. Sereis assim mais fortes e mais felizes. São essas comunicações de cada um com o seu Espírito familiar que fazem sejam médiuns todos os homens, médiuns ignorados hoje, mas que se manifestarão mais tarde e se espalharão qual oceano sem margens, levando de roldão a incredulidade e a ignorância. Homens doutos, instruí os vossos semelhantes; homens de talento, educai os vossos irmãos. Não imaginais que obra fazeis desse modo: a do Cristo, a que Deus vos impõe. Para que vos outorgou Deus a inteligência e o saber, senão para os repartirdes com os vossos irmãos, senão para fazerdes que se adiantem pela senda que conduz à bem-aventurança, à felicidade eterna.
 
-São Luís, IX de França e Santo Agostinho
+**São Luís, IX de França e Santo Agostinho**
 :::
 
 ::: kardec
@@ -8534,7 +8534,7 @@ Tendo, como têm, ação sobre a matéria, podem os Espíritos provocar certos e
 ↩️ Voltar para [Q.855](#q855)
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Lei divina](#lei-divina)
 :::
 
@@ -8549,7 +8549,7 @@ Tomemos outro exemplo, em que não entre a matéria em seu estado natural. Um ho
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -8674,7 +8674,7 @@ Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do
 
 ::: expand 🔗
 🏷️ [Conhecimento](#conhecimento)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -8889,7 +8889,7 @@ Os Espíritos que exercem ação nos fenônemo da Natureza operam com conhecimen
 ↩️ Voltar para [Q.559](#q559)
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Mundo espiritual](#mundo-espiritual)
 :::
 
@@ -9978,7 +9978,7 @@ Sobrevivendo ao corpo em que habitou, a alma do animal vem a achar-se, depois da
 🏷️ [Alma](#alma)
 🏷️ [Animais](#animais)
 🏷️ [Espírito errante](#espirito-errante)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -10091,7 +10091,7 @@ De modo que, além de suas próprias imperfeições de que cumpre ao Espírito d
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Homem](#homem)
 🏷️ [Matéria](#materia)
 :::
@@ -10150,7 +10150,7 @@ Parece que, assim, se pode considerar a alma como tendo sido o princípio inteli
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Harmonia](#harmonia)
 🏷️ [Homem](#homem)
 🏷️ [Natureza](#natureza)
@@ -10170,7 +10170,7 @@ Esse período de humanização principia na Terra?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Humanização](#humanizacao)
 🏷️ [Terra](#terra)
 :::
@@ -10186,7 +10186,7 @@ O Espírito do homem tem, após a morte, consciência de suas existências anter
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -10276,8 +10276,8 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 🏷️ [Alma](#alma)
 🏷️ [Crença](#crenca)
 🏷️ [Criação](#criacao)
-🏷️ [Espírito](#espirito)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
+🏷️ [Espírito/s](#espirito/s)
 🏷️ [Perguntas](#perguntas)
 🏷️ [Reencarnação](#reencarnacao)
 :::

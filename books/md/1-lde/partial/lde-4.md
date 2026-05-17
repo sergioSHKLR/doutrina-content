@@ -289,7 +289,7 @@ A possibilidade de nos pormos em comunicação com os Espíritos é uma dulcíss
 ::: expand 🔗
 🏷️ [Além-túmulo](#alem-tumulo)
 🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
 :::
 
 ---
@@ -935,7 +935,7 @@ Em que consistem os sofrimentos dos Espíritos inferiores?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
 🏷️ [Influenciação](#influenciacao)
 :::
 
@@ -1243,7 +1243,7 @@ Pode o Espírito, que progrediu em sua existência terrena, reencarnar alguma ve
 
 ::: expand 🔗
 🏷️ [Espírito puro](#espirito-puro)
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
 🏷️ [Mundos evoluídos](#mundos-evoluidos)
 🏷️ [Reencarnação](#reencarnacao)
 :::
@@ -1380,7 +1380,7 @@ Haverá Espíritos que, sem serem maus, se conservem indiferentes à sua sorte?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s))
 🏷️ [Progresso](#progresso)
 :::
 

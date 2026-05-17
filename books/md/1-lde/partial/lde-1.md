@@ -395,7 +395,7 @@ Que é o espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)s)
 :::
 
 ---
@@ -423,7 +423,7 @@ Qual a natureza íntima do espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)s)
 🏷️ [Inteligência](#inteligencia)
 :::
 
@@ -438,7 +438,7 @@ O espírito independe da matéria, ou é apenas uma propriedade desta, como as c
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)s)
 🏷️ [Matéria](#materia)
 :::
 
@@ -481,7 +481,7 @@ Há então dois elementos gerais do Universo: a matéria e o espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espiritos)
+🏷️ [Espírito/s](#espirito/s)s)
 🏷️ [Fluido universal](#fluido-universal)
 🏷️ [Matéria](#materia)
 🏷️ [Pensamento](#pensamento)
