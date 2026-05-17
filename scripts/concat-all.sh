@@ -51,15 +51,8 @@ for book_dir in "${BOOKS[@]}"; do
 
     echo "   ✅ Found ${#files[@]} parts"
 
-    if [ -f "$OUTPUT" ]; then
-        BASE_NAME=$(basename "$OUTPUT" .md)
-        BACKUP_FULL="$BACKUP_BOOK_FULL/${BASE_NAME}.${TIMESTAMP}.old"
-        mv "$OUTPUT" "$BACKUP_FULL"
-        echo "   🗄️  Backed up full file"
-    fi
-
-    mkdir -p "$FULL_DIR"
-    > "$OUTPUT"
+    # Create a safe temporary file for compiling text to prevent self-referencing file locks
+    TMP_OUTPUT=$(mktemp)
 
     for file in "${files[@]}"; do
         filename=$(basename "$file")
@@ -70,16 +63,31 @@ for book_dir in "${BOOKS[@]}"; do
         
         echo "   📄 Processing: $filename"
         
-        # === STRONGER SED - catches all common variations ===
+        # Stream formatting edits directly into the temporary output holder
         sed -E '
             s/^>\s*expand\s+/::: expand /g;
             s/^>expand\s+/::: expand /g;
             s/^>\s*:::/:::/g;
             s/^>:::/:::/g
-        ' "$file" >> "$OUTPUT"
+        ' "$file" >> "$TMP_OUTPUT"
         
-        echo "" >> "$OUTPUT"
+        echo "" >> "$TMP_OUTPUT"
     done
+
+    # Ensure the destination folder exists before moving files in
+    mkdir -p "$FULL_DIR"
+
+    # Safely clear out or back up the pre-existing target file
+    if [ -f "$OUTPUT" ]; then
+        BASE_NAME=$(basename "$OUTPUT" .md)
+        BACKUP_FULL="$BACKUP_BOOK_FULL/${BASE_NAME}.${TIMESTAMP}.old"
+        # Using force move guarantees overwrite success on the old backup path
+        mv -f "$OUTPUT" "$BACKUP_FULL"
+        echo "   🗄️  Backed up existing full file"
+    fi
+
+    # Swap the completely built temporary file to the final destination path
+    mv -f "$TMP_OUTPUT" "$OUTPUT"
 
     echo "   🎉 Created: ${BOOK_NAME}-full.md  ($(wc -c < "$OUTPUT" | numfmt --to=iec) bytes)"
 done

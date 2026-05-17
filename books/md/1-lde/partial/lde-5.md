@@ -8,10 +8,10 @@ Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imanta
 
 ::: expand 🔗
 🏷️ [Bem](#bem)
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 🏷️ [Humanidade](#humanidade)
-🏷️ [Luís (São)](#luís-são)
-🏷️ [Paraíso](#paraíso)
+🏷️ [Luís (São)](#luis-sao)
+🏷️ [Paraíso](#paraiso)
 🏷️ [Pecado](#pecado)
 🏷️ [Tempo](#tempo)
 :::
@@ -24,8 +24,8 @@ O Espiritismo é o mais terrível antagonista do materialismo; não é, pois, de
 :::
 
 ::: expand 🔗
-🏷️ [Ciência](#ciência)
-🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espíritos)
+🏷️ [Ciência](#ciencia)
+🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
 🏷️ [Espiritismo](#espiritismo)
 🏷️ [Milagre](#milagre)
 :::
@@ -47,13 +47,13 @@ Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e 
 
 #### 5.04. 📄 Conclusão 04 {#lde-5-04}
 
-O progresso da Humanidade tem seu princípio na aplicação da lei de justiça, de amor e de caridade, lei que se funda na certeza do futuro. Tirai-lhe essa certeza e lhe tirareis a pedra fundamental. Dessa lei derivam todas as outras, porque ela encerra todas as condições da felicidade do homem. Só ela pode curar as chagas da sociedade. Comparando as idades e os povos, pode ele avaliar quanto a sua condição melhora, à medida que essa lei vai sendo mais bem compreendida e melhor praticada. Ora, se, aplicando-a parcial e incompletamente, aufere o homem tanto bem, que não conseguirá quando fizer dela a base de todas as suas instituições sociais! Será isso possível? Certo, porquanto, desde que ele já deu dez passos, possível lhe é dar vinte e assim por diante. Do futuro se pode, pois, julgar pelo passado. Já vemos que pouco a pouco se extinguem as antipatias de povo para povo. Diante da civilização, diminuem as barreiras que os separavam. De um extremo a outro do mundo, eles se estendem as mãos. Maior justiça preside à elaboração das leis internacionais. As guerras se tornam cada vez mais raras e não excluem os sentimentos de humanidade. Nas relações, a uniformidade se vai estabelecendo. Apagam-se as distinções de raças e de castas e os que professam crenças diversas impõem silêncio aos prejuízos de seita, para se confundirem na adoração de um único Deus. Falamos dos povos que marcham à testa da civilização. 👉 (Q.789 e Q.793) A todos estes respeitos, no entanto, longe ainda estamos da perfeição e muitas ruínas antigas ainda se têm que abater, até que não restem mais vestígios da barbaria. Poderão acaso essas ruínas sustentar-se contra a força irresistível do progresso, contra essa força viva que é, em si mesma, uma Lei da Natureza? Sendo a geração atual mais adiantada do que a anterior, por que não o será mais do que a presente a que lhe há de suceder? Sê-lo-á, pela força das coisas. Primeiro, porque, com as gerações, todos os dias se extinguem alguns campeões dos velhos abusos, o que permite à sociedade formar-se de elementos novos, livres dos velhos preconceitos. Em segundo lugar, porque, desejando o progresso, o homem estuda os obstáculos e se aplica a removê-los. Desde que é incontestável o movimento progressivo, não há que duvidar do progresso vindouro. O homem quer ser feliz e é natural esse desejo. Ora, buscando progredir, o que ele procura é aumentar a soma da sua felicidade, sem o que o progresso careceria de objeto. Em que consistiria para ele o progresso, se lhe não devesse melhorar a posição? Quando, porém, conseguir a soma de gozos que o progresso intelectual lhe pode proporcionar, verificará que não está completa a sua felicidade. Reconhecerá ser esta impossível, sem a segurança nas relações sociais, segurança que somente no progresso moral lhe será dado achar. Logo, pela força mesma das coisas, ele próprio dirigirá o progresso para essa senda e o Espiritismo lhe oferecerá a mais poderosa alavanca para alcançar tal objetivo. [^26]
+O progresso da Humanidade tem seu princípio na aplicação da lei de justiça, de amor e de caridade, lei que se funda na certeza do futuro. Tirai-lhe essa certeza e lhe tirareis a pedra fundamental. Dessa lei derivam todas as outras, porque ela encerra todas as condições da felicidade do homem. Só ela pode curar as chagas da sociedade. Comparando as idades e os povos, pode ele avaliar quanto a sua condição melhora, à medida que essa lei vai sendo mais bem compreendida e melhor praticada. Ora, se, aplicando-a parcial e incompletamente, aufere o homem tanto bem, que não conseguirá quando fizer dela a base de todas as suas instituições sociais! Será isso possível? Certo, porquanto, desde que ele já deu dez passos, possível lhe é dar vinte e assim por diante. Do futuro se pode, pois, julgar pelo passado. Já vemos que pouco a pouco se extinguem as antipatias de povo para povo. Diante da civilização, diminuem as barreiras que os separavam. De um extremo a outro do mundo, eles se estendem as mãos. Maior justiça preside à elaboração das leis internacionais. As guerras se tornam cada vez mais raras e não excluem os sentimentos de humanidade. Nas relações, a uniformidade se vai estabelecendo. Apagam-se as distinções de raças e de castas e os que professam crenças diversas impõem silêncio aos prejuízos de seita, para se confundirem na adoração de um único Deus. Falamos dos povos que marcham à testa da civilização. 👉 ([Q.789](#q789) e [Q.793](#q793)) A todos estes respeitos, no entanto, longe ainda estamos da perfeição e muitas ruínas antigas ainda se têm que abater, até que não restem mais vestígios da barbaria. Poderão acaso essas ruínas sustentar-se contra a força irresistível do progresso, contra essa força viva que é, em si mesma, uma Lei da Natureza? Sendo a geração atual mais adiantada do que a anterior, por que não o será mais do que a presente a que lhe há de suceder? Sê-lo-á, pela força das coisas. Primeiro, porque, com as gerações, todos os dias se extinguem alguns campeões dos velhos abusos, o que permite à sociedade formar-se de elementos novos, livres dos velhos preconceitos. Em segundo lugar, porque, desejando o progresso, o homem estuda os obstáculos e se aplica a removê-los. Desde que é incontestável o movimento progressivo, não há que duvidar do progresso vindouro. O homem quer ser feliz e é natural esse desejo. Ora, buscando progredir, o que ele procura é aumentar a soma da sua felicidade, sem o que o progresso careceria de objeto. Em que consistiria para ele o progresso, se lhe não devesse melhorar a posição? Quando, porém, conseguir a soma de gozos que o progresso intelectual lhe pode proporcionar, verificará que não está completa a sua felicidade. Reconhecerá ser esta impossível, sem a segurança nas relações sociais, segurança que somente no progresso moral lhe será dado achar. Logo, pela força mesma das coisas, ele próprio dirigirá o progresso para essa senda e o Espiritismo lhe oferecerá a mais poderosa alavanca para alcançar tal objetivo. [^26]
 :::
 
 ::: expand 🔗
-🏷️ [Justiça](#justiça)
+🏷️ [Justiça](#justica)
 🏷️ [Lei de progresso](#lei-de-progresso)
-🏷️ [Perfeição](#perfeição)
+🏷️ [Perfeição](#perfeicao)
 🏷️ [Progresso](#progresso)
 :::
 
@@ -91,14 +91,14 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
 :::
 
 ::: expand 🔗
-🏷️ [Ciência espírita](#ciência-espírita)
-🏷️ [Demônio](#demônio)
+🏷️ [Ciência espírita](#ciencia-espirita)
+🏷️ [Demônio](#demonio)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Fenômeno mediúnico](#fenômeno-mediúnico)
-🏷️ [Manifestação](#manifestação)
+🏷️ [Fenômeno mediúnico](#fenomeno-mediunico)
+🏷️ [Manifestação](#manifestacao)
 🏷️ [Mediunidade](#mediunidade)
-🏷️ [Médium](#médium)
-🏷️ [Proibição](#proibição)
+🏷️ [Médium](#medium)
+🏷️ [Proibição](#proibicao)
 :::
 
 ---
@@ -124,10 +124,10 @@ O terceiro efeito é o de estimular no homem a indulgência para com os defeitos
 
 ::: expand 🔗
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Indulgência](#indulgência)
+🏷️ [Indulgência](#indulgencia)
 🏷️ [Materialismo](#materialismo)
 🏷️ [Religiosidade](#religiosidade)
-🏷️ [Resignação](#resignação)
+🏷️ [Resignação](#resignacao)
 :::
 
 ---
@@ -144,15 +144,15 @@ As comunicações com os seres de além-túmulo deram em resultado fazer-nos com
 :::
 
 ::: expand 🔗
-🏷️ [Alcorão](#alcorão)
-🏷️ [Bíblia](#bíblia)
-🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espíritos)
+🏷️ [Alcorão](#alcorao)
+🏷️ [Bíblia](#biblia)
+🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
 🏷️ [Evangelho](#evangelho)
 🏷️ [Jesus](#jesus)
 🏷️ [Materialismo](#materialismo)
-🏷️ [Moisés](#moisés)
+🏷️ [Moisés](#moises)
 🏷️ [Psicologia](#psicologia)
-🏷️ [Revelação](#revelação)
+🏷️ [Revelação](#revelacao)
 🏷️ [Tempo](#tempo)
 :::
 
@@ -173,15 +173,15 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 ::: spirit
 ✨ ▸ Por bem largo tempo, os homens se têm estraçalhado e anatematizado mutuamente em nome de um Deus de paz e misericórdia, ofendendo-o com semelhante sacrilégio. O Espiritismo é o laço que um dia os unirá, porque lhes mostrará onde está a verdade, onde o erro. Durante muito tempo, porém, ainda haverá escribas e fariseus que o negarão, como negaram o Cristo. Quereis saber sob a influência de que Espíritos estão as diversas seitas que entre si fizeram partilha do mundo? Julgai-o pelas suas obras e pelos seus princípios. Jamais os bons Espíritos foram os instigadores do mal; jamais aconselharam ou legitimaram o assassínio e a violência; jamais estimularam os ódios dos partidos, nem a sede das riquezas e das honras, nem a avidez dos bens da Terra. Os que são bons, humanitários e benevolentes para com todos, esses os seus prediletos e prediletos de Jesus, porque seguem a estrada que este lhes indicou para chegarem até Ele.
 
-Santo Agostinho
+**Santo Agostinho**
 :::
 
 ::: expand 🔗
 🏷️ [Agostinho (Santo)](#agostinho-santo)
-🏷️ [Divergências](#divergências)
+🏷️ [Divergências](#divergencias)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Espírito bom](#espírito-bom)
-🏷️ [União](#união)
+🏷️ [Espírito bom](#espirito-bom)
+🏷️ [União](#uniao)
 :::
 
 ---

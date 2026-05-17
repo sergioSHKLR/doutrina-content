@@ -1,3 +1,4 @@
+
 # ✨ O Livro dos Espíritos {#lde}
 
 ## 0. 🗃️ Pré-textual {#lde-0}
@@ -83,9 +84,9 @@ Swedenborg,
 entre outros.**
 :::
 
-::: expand 🏷️
+::: expand 🔗
 🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assitencia-espiritual)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
 🏷️ [Deus](#deus)
 🏷️ [Efeitos inteligentes](#efeitos-inteligentes)
@@ -149,8 +150,8 @@ Passemos agora ao objeto principal desta instrução preliminar.
 🏷️ [Espiritualismo](#espiritualismo)
 🏷️ [Linguagem](#linguagem)
 🏷️ [Materialismo](#materialismo)
-🏷️ [Panteísmo](#panteísmo)
-🏷️ [Princípio vital](#princípio-vital)
+🏷️ [Panteísmo](#panteismo)
+🏷️ [Princípio vital](#principio-vital)
 🏷️ [Seres vivos](#seres-vivos)
 :::
 
@@ -183,11 +184,11 @@ Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstân
 Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Perguntar-lhes-emos, em primeiro lugar, se estão bem certas de que haja fraudes e se não tomaram por fraude efeitos que não podiam explicar, mais ou menos como o camponês que tomava por destro escamoteador um sábio professor de Física a fazer experiências. Admitindo-se mesmo que tal coisa tenha podido verificar-se algumas vezes, constituiria isso razão para negar-se o fato? Dever-se-ia negar a Física, porque há prestidigitadores que se exornam com o título de físicos? Cumpre, ademais, se leve em conta o caráter das pessoas e o interesse que possam ter em iludir. Seria tudo, então, mero gracejo? Admite-se que uma pessoa se divirta por algum tempo, mas um gracejo prolongado indefinidamente se tornaria tão fastidioso para o mistificador, como para o mistificado. Acresce que, numa mistificação que se propaga de um extremo a outro do mundo e por entre as mais austeras, veneráveis e esclarecidas personalidades, alguma coisa há, com certeza, tão extraordinária, pelo menos, quanto o próprio fenômeno.
 
 ::: expand 🔗
-🏷️ [Ciência](#ciência)
-🏷️ [Experimentação](#experimentação)
+🏷️ [Ciência](#ciencia)
+🏷️ [Experimentação](#experimentacao)
 🏷️ [Fenomenologia](#fenomenologia)
-🏷️ [Fenômeno](#fenômeno)
-🏷️ [Fenômeno espírita](#fenômeno-espírita)
+🏷️ [Fenômeno](#fenomeno)
+🏷️ [Fenômeno espírita](#fenomeno-espirita)
 🏷️ [Fraude](#fraude)
 🏷️ [Leviandade](#leviandade)
 🏷️ [Mesas girantes](#mesas-girantes)
@@ -220,15 +221,15 @@ O objeto a que se adapta o lápis, não passando de mero instrumento, completame
 A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de médiuns, isto é — meios ou intermediários entre os Espíritos e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há médiuns de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício.
 
 ::: expand 🔗
-🏷️ [Ação](#ação)
-🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espíritos)
-🏷️ [Espírito(s)](#espíritos)
-🏷️ [Fenômeno](#fenômeno)
-🏷️ [Força](#força)
-🏷️ [Identificação](#identificação)
-🏷️ [Manifestação](#manifestação)
+🏷️ [Ação](#acao)
+🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+🏷️ [Espírito(s)](#espiritos)
+🏷️ [Fenômeno](#fenomeno)
+🏷️ [Força](#forca)
+🏷️ [Identificação](#identificacao)
+🏷️ [Manifestação](#manifestacao)
 🏷️ [Mesas girantes](#mesas-girantes)
-🏷️ [Médium](#médium)
+🏷️ [Médium](#medium)
 🏷️ [Tiptologia](#tiptologia)
 :::
 
@@ -251,9 +252,9 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 ::: expand 🔗
 🏷️ [Efeitos inteligentes](#efeitos-inteligentes)
 🏷️ [Escrita](#escrita)
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 🏷️ [Mediunidade](#mediunidade)
-🏷️ [Médium](#médium)
+🏷️ [Médium](#medium)
 🏷️ [Resposta](#resposta)
 :::
 
@@ -314,8 +315,8 @@ Este o resumo da Doutrina Espírita , como resulta dos ensinamentos dados pelos 
 🏷️ [Ensino](#ensino)
 🏷️ [Espiritismo](#espiritismo)
 🏷️ [Mundo espiritual](#mundo-espiritual)
-🏷️ [Plano físico](#plano-físico)
-🏷️ [Princípios básicos](#princípios-básicos)
+🏷️ [Plano físico](#plano-fisico)
+🏷️ [Princípios básicos](#principios-basicos)
 :::
 
 ---
@@ -339,17 +340,17 @@ Repetimos mais uma vez que, se os fatos a que aludimos se houvessem reduzido ao 
 O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles, cujas ideias são as mais falsas, se apoiam na sua própria razão e é por isso que rejeitam tudo o que lhes parece impossível. Os que outrora repeliram as admiráveis descobertas de que a Humanidade se honra, todos endereçavam seus apelos a esse juiz, para repeli-las. O que se chama razão não é muitas vezes senão orgulho disfarçado e quem quer que se considere infalível apresenta-se como igual a Deus. Dirigimo-nos, pois, aos ponderados, que duvidam do que não viram, mas que, julgando do futuro pelo passado, não creem que o homem haja chegado ao apogeu, nem que a Natureza lhe tenha facultado ler a última página do seu livro.
 
 ::: expand 🔗
-🏷️ [Ciência](#ciência)
+🏷️ [Ciência](#ciencia)
 🏷️ [Erro](#erro)
 🏷️ [Espiritismo](#espiritismo)
 🏷️ [Falibilidade](#falibilidade)
 🏷️ [Fato](#fato)
-🏷️ [Fenômeno espírita](#fenômeno-espírita)
+🏷️ [Fenômeno espírita](#fenomeno-espirita)
 🏷️ [Ideia](#ideia)
-🏷️ [Opinião](#opinião)
-🏷️ [Oposição](#oposição)
+🏷️ [Opinião](#opiniao)
+🏷️ [Oposição](#oposicao)
 🏷️ [Orgulho](#orgulho)
-🏷️ [Vocação](#vocação)
+🏷️ [Vocação](#vocacao)
 :::
 
 ---
@@ -363,10 +364,10 @@ O que caracteriza um estudo sério é a continuidade que se lhe dá. Será de ad
 Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobretudo às em que reina perfeita comunhão de pensamentos e de sentimentos para o bem. A leviandade e as questões ociosas os afastam, como, entre os homens, afastam as pessoas criteriosas; o campo fica, então, livre à turba dos Espíritos mentirosos e frívolos, sempre à espreita de ocasiões propícias para zombarem de nós e se divertirem à nossa custa. Que é o que se dará com uma questão grave em reuniões de tal ordem? Será respondida; mas, por quem? Acontece como se a um bando de doidivanas, que estejam a divertir-se, propusésseis estas questões: Que é a alma? Que é a morte? e outras tão recreativas quanto essas. Se quereis respostas sisudas, haveis de comportar-vos com toda a sisudez, na mais ampla acepção do termo, e de preencher todas as condições reclamadas. Só assim obtereis grandes coisas. Sede, além do mais, laboriosos e perseverantes nos vossos estudos, sem o que os Espíritos superiores vos abandonarão, como faz um professor com os discípulos negligentes.
 
 ::: expand 🔗
-🏷️ [Espírito superior](#espírito-superior)
+🏷️ [Espírito superior](#espirito-superior)
 🏷️ [Estudo](#estudo)
-🏷️ [Estudo Sistematizado da Doutrina Espírita](#estudo-sistematizado-da-doutrina-espírita)
-🏷️ [Reunião](#reunião)
+🏷️ [Estudo Sistematizado da Doutrina Espírita](#estudo-sistematizado-da-doutrina-espirita)
+🏷️ [Reunião](#reuniao)
 :::
 
 ---
@@ -384,10 +385,10 @@ Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em b
 ::: expand 🔗
 🏷️ [Charlatanismo](#charlatanismo)
 🏷️ [Escrita](#escrita)
-🏷️ [Fenômeno espírita](#fenômeno-espírita)
+🏷️ [Fenômeno espírita](#fenomeno-espirita)
 🏷️ [Fraude](#fraude)
-🏷️ [Ilusão](#ilusão)
-🏷️ [Mistificação](#mistificação)
+🏷️ [Ilusão](#ilusao)
+🏷️ [Mistificação](#mistificacao)
 :::
 
 ---
@@ -413,9 +414,9 @@ Como variante dessa opinião, temos a dos que não veem, nas comunicações esp�
 Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons Espíritos? Se Ele não o pode fazer, não é onipotente; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam blasfemas. Note-se que admitir a comunicação dos maus Espíritos é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de Deus. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do bom senso e da religião.
 
 ::: expand 🔗
-🏷️ [Demônio](#demônio)
-🏷️ [Espírito(s)](#espíritos)
-🏷️ [Fenômeno espírita](#fenômeno-espírita)
+🏷️ [Demônio](#demonio)
+🏷️ [Espírito(s)](#espiritos)
+🏷️ [Fenômeno espírita](#fenomeno-espirita)
 🏷️ [Julgamento](#julgamento)
 🏷️ [Mundo espiritual](#mundo-espiritual)
 :::
@@ -462,11 +463,11 @@ Inegavelmente a substituição dos Espíritos pode dar lugar a uma porção de e
 Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se apresentem por si mesmos. Frequentemente ocorrem por efeito de circunstâncias em que se não pensa. Para o observador atento e paciente os fatos abundam, por isso que ele descobre milhares de matizes característicos, que são verdadeiros raios de luz. O mesmo se dá com as ciências comuns. Ao passo que o homem superficial não vê numa flor mais do que uma forma elegante, o sábio descobre nela tesouros para o pensamento.
 
 ::: expand 🔗
-🏷️ [Desmaterialização](#desmaterialização)
-🏷️ [Espírito(s)](#espíritos)
-🏷️ [Família](#família)
+🏷️ [Desmaterialização](#desmaterializacao)
+🏷️ [Espírito(s)](#espiritos)
+🏷️ [Família](#familia)
 🏷️ [Identidade](#identidade)
-🏷️ [Identificação](#identificação)
+🏷️ [Identificação](#identificacao)
 🏷️ [Nome](#nome)
 :::
 
@@ -485,11 +486,11 @@ A contradição, demais, nem sempre é tão real quanto possa parecer. Não vemo
 Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepção invariável, compreende-se que os Espíritos, como nós, divirjam na definição que dela deem: um poderá dizer que é o princípio da vida, outro chamar-lhe centelha anímica, um terceiro afirmar que ela é interna, um quarto que é externa etc., tendo todos razão, cada um do seu ponto de vista. Poder-se-á mesmo crer que alguns deles professem doutrinas materialistas e, todavia, não ser assim. Outro tanto acontece relativamente a **Deus**. Será: o princípio de todas as coisas, o criador do Universo, a inteligência suprema, o infinito, o grande Espírito etc. Em definitiva, será sempre Deus. Citemos, finalmente, a classificação dos Espíritos. Eles formam uma série ininterrupta, desde o mais ínfimo grau até o grau superior. A classificação é, pois, arbitrária. Um, grupá-los-á em três classes, outro em cinco, dez ou vinte, à vontade, sem que nenhum esteja em erro. Todas as ciências humanas nos oferecem idênticos exemplos. Cada sábio tem o seu sistema; os sistemas mudam, a Ciência, porém, não muda. Aprenda-se a Botânica pelo sistema de Linneu, ou pelo de Jussieu, ou pelo de Tournefort, nem por isso se saberá menos Botânica. Deixemos, conseguintemente, de emprestar a coisas de pura convenção mais importância do que merecem, para só nos atermos ao que é verdadeiramente importante e, não raro, a reflexão fará se descubra, no que pareça disparate, uma similitude que escapara a um primeiro exame.
 
 ::: expand 🔗
-🏷️ [Ciência](#ciência)
-🏷️ [Contradição](#contradição)
-🏷️ [Convenção](#convenção)
+🏷️ [Ciência](#ciencia)
+🏷️ [Contradição](#contradicao)
+🏷️ [Convenção](#convencao)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 🏷️ [Linguagem](#linguagem)
 :::
 
@@ -520,7 +521,7 @@ Entre as causas mais comuns de sobre-excitação cerebral, devem contar-se as de
 Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo já desequilibrou mais de um cérebro. Quantas vítimas não têm feito os que abalam imaginações fracas com esse quadro, que cada vez mais pavoroso se esforçam por tornar, mediante horríveis pormenores? O diabo, dizem, só mete medo a crianças, é um freio para fazê-las ajuizadas. Sim, é, do mesmo modo que o papão e o lobisomem. Quando, porém, elas deixam de ter medo, estão piores do que dantes. E, para alcançar-se tão belo resultado, não se levam em conta as inúmeras epilepsias causadas pelo abalo de cérebros delicados. Bem frágil seria a religião se, por não infundir terror, sua força pudesse ficar comprometida. Felizmente, assim não é. De outros meios dispõe ela para atuar sobre as almas. Mais eficazes e mais sérios são os que o Espiritismo lhe faculta, desde que ela os saiba utilizar. Ele mostra a realidade das coisas e só com isso neutraliza os funestos efeitos de um temor exagerado.
 
 ::: expand 🔗
-🏷️ [Desequilíbrio](#desequilíbrio)
+🏷️ [Desequilíbrio](#desequilibrio)
 🏷️ [Espiritismo](#espiritismo)
 🏷️ [Loucura](#loucura)
 :::
@@ -552,10 +553,10 @@ A esse argumento retrucam os adversários, perguntando, a seu turno, por que os 
 Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, em dado momento e, passado este, não há pedidos, nem súplicas que os façam voltar? Se o médium obrasse unicamente por impulsão mental dos assistentes, é claro que, em tal circunstância, o concurso de todas as vontades reunidas haveria de estimular-lhe a clarividência. Desde, portanto, que não cede ao desejo da assembleia, corroborado pela própria vontade dele, é que o médium obedece a uma influência que lhe é estranha e aos que o cercam, influência que, por esse simples fato, testifica da sua independência e da sua individualidade.
 
 ::: expand 🔗
-🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espíritos)
-🏷️ [Fenômeno espírita](#fenômeno-espírita)
-🏷️ [Influenciação](#influenciação)
-🏷️ [Médium](#médium)
+🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+🏷️ [Fenômeno espírita](#fenomeno-espirita)
+🏷️ [Influenciação](#influenciacao)
+🏷️ [Médium](#medium)
 🏷️ [Sonambulismo](#sonambulismo)
 :::
 
@@ -574,7 +575,8 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 ::: expand 🔗
 🏷️ [Deus](#deus)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 :::
 
 ---
+

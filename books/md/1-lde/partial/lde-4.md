@@ -5,7 +5,7 @@
 
 #### 4.01.01 📄 Felicidade e infelicidade relativas {#lde-4-01-01}
 
-###### #️⃣ Q.920 {#q920}
+##### #️⃣ Q.920 {#q920}
 
 Pode o homem gozar de completa felicidade na Terra?
 
@@ -15,7 +15,7 @@ Pode o homem gozar de completa felicidade na Terra?
 
 ---
 
-###### #️⃣ Q.921 {#q921}
+##### #️⃣ Q.921 {#q921}
 
 Concebe-se que o homem será feliz na Terra quando a Humanidade estiver transformada. Enquanto isso se não verifica, pode-se conseguir uma felicidade relativa?
 
@@ -30,12 +30,12 @@ Já nesta vida somos punidos pelas infrações que cometemos das leis que regem 
 ::: expand 🔗
 🏷️ [Felicidade](#felicidade)
 🏷️ [Futuro](#futuro)
-🏷️ [Punição](#punição)
+🏷️ [Punição](#punicao)
 :::
 
 ---
 
-###### #️⃣ Q.922 {#q922}
+##### #️⃣ Q.922 {#q922}
 
 A felicidade terrestre é relativa à posição de cada um. O que basta para a felicidade de um, constitui a desgraça de outro. Haverá, contudo, alguma soma de felicidade comum a todos os homens?
 
@@ -45,13 +45,13 @@ A felicidade terrestre é relativa à posição de cada um. O que basta para a f
 
 ::: expand 🔗
 🏷️ [Felicidade](#felicidade)
-🏷️ [Fé](#fé)
-🏷️ [Necessário](#necessário)
+🏷️ [Fé](#fe)
+🏷️ [Necessário](#necessario)
 :::
 
 ---
 
-###### #️⃣ Q.923 {#q923}
+##### #️⃣ Q.923 {#q923}
 
 O que para um é supérfluo não representará, para outro, o necessário, e reciprocamente, de acordo com as posições respectivas?
 
@@ -61,7 +61,7 @@ O que para um é supérfluo não representará, para outro, o necessário, e rec
 
 ---
 
-###### #️⃣ Q.924 {#q924}
+##### #️⃣ Q.924 {#q924}
 
 Há males que independem da maneira de proceder do homem e que atingem mesmo os mais justos. Nenhum meio terá ele de os evitar?
 
@@ -70,14 +70,14 @@ Há males que independem da maneira de proceder do homem e que atingem mesmo os 
 :::
 
 ::: expand 🔗
-🏷️ [Consolação](#consolação)
-🏷️ [Resignação](#resignação)
+🏷️ [Consolação](#consolacao)
+🏷️ [Resignação](#resignacao)
 🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
 
-###### #️⃣ Q.925 {#q925}
+##### #️⃣ Q.925 {#q925}
 
 Por que favorece Deus, com os dons da riqueza, a certos homens que não parecem tê-los merecido?
 
@@ -91,22 +91,23 @@ Por que favorece Deus, com os dons da riqueza, a certos homens que não parecem 
 
 ---
 
-###### #️⃣ Q.926 {#q926}
+##### #️⃣ Q.926 {#q926}
 
 Criando novas necessidades, a civilização não constitui uma fonte de novas aflições?
 
 ::: spirit
 ✨ ▸ Os males deste mundo estão na razão das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. Deus algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de Jesus:
+:::
 
 ::: bible
 ✝️ ▸ *… bem-aventurados os que choram, porque eles serão consolados ….*
 
-Mateus, cap. 05, vers. 04, ARC
+**Mateus, cap. 05, vers. 04, ARC**
 :::
 
 ::: expand 🔗
-🏷️ [Aflição](#aflição)
-🏷️ [Civilização](#civilização)
+🏷️ [Aflição](#aflicao)
+🏷️ [Civilização](#civilizacao)
 🏷️ [Inveja](#inveja)
 🏷️ [Justo](#justo)
 🏷️ [Mau](#mau)
@@ -116,7 +117,7 @@ Mateus, cap. 05, vers. 04, ARC
 
 ---
 
-###### #️⃣ Q.927 {#q927}
+##### #️⃣ Q.927 {#q927}
 
 Não há dúvida que, à felicidade, o supérfluo não é forçosamente indispensável, porém o mesmo não se dá com o necessário. Ora, não será real a infelicidade daqueles a quem falta o necessário?
 
@@ -127,13 +128,13 @@ Não há dúvida que, à felicidade, o supérfluo não é forçosamente indispen
 ::: expand 🔗
 🏷️ [Felicidade](#felicidade)
 🏷️ [Infelicidade](#infelicidade)
-🏷️ [Necessário](#necessário)
-🏷️ [Privação](#privação)
+🏷️ [Necessário](#necessario)
+🏷️ [Privação](#privacao)
 :::
 
 ---
 
-###### #️⃣ Q.928 {#q928}
+##### #️⃣ Q.928 {#q928}
 
 Evidentemente, por meio da especialidade das aptidões naturais, Deus indica a nossa vocação neste mundo. Muitos dos nossos males não advirão de não seguirmos essa vocação?
 
@@ -142,16 +143,16 @@ Evidentemente, por meio da especialidade das aptidões naturais, Deus indica a n
 :::
 
 ::: expand 🔗
-🏷️ [Educação](#educação)
+🏷️ [Educação](#educacao)
 🏷️ [Felicidade](#felicidade)
 🏷️ [Orgulho](#orgulho)
-🏷️ [Profissão](#profissão)
-🏷️ [Vocação](#vocação)
+🏷️ [Profissão](#profissao)
+🏷️ [Vocação](#vocacao)
 :::
 
 ---
 
-###### #️⃣ Q.928.a {#q928a}
+##### #️⃣ Q.928.a {#q928a}
 
 Acharíeis então justo que o filho de um homem altamente colocado na sociedade fabricasse tamancos, por exemplo, desde que para isso tivesse aptidão?
 
@@ -163,7 +164,7 @@ No afastarem-se os homens da sua esfera intelectual reside indubitavelmente uma 
 
 ---
 
-###### #️⃣ Q.929 {#q929}
+##### #️⃣ Q.929 {#q929}
 
 Pessoas há, que, baldas de todos os recursos, embora no seu derredor reine a abundância, só têm diante de si a perspectiva da morte. Que partido devem tomar? Devem deixar-se morrer de fome?
 
@@ -172,14 +173,14 @@ Pessoas há, que, baldas de todos os recursos, embora no seu derredor reine a ab
 :::
 
 ::: expand 🔗
-🏷️ [Desencarnação](#desencarnação)
+🏷️ [Desencarnação](#desencarnacao)
 🏷️ [Fome](#fome)
 🏷️ [Orgulho](#orgulho)
 :::
 
 ---
 
-###### #️⃣ Q.930 {#q930}
+##### #️⃣ Q.930 {#q930}
 
 É evidente que, se não fossem os preconceitos sociais, pelos quais se deixa o homem dominar, ele sempre acharia um trabalho qualquer, que lhe proporcionasse meio de viver, embora pudesse deslocá-lo da sua posição. Entre os que não têm preconceitos ou os põem de lado, porém, não há pessoas que se veem na impossibilidade de prover às suas necessidades, em consequência de moléstias ou outras causas independentes da vontade delas?
 
@@ -191,14 +192,14 @@ Com uma organização social criteriosa e previdente, ao homem só por culpa sua
 
 ::: expand 🔗
 🏷️ [Fome](#fome)
-🏷️ [Necessário](#necessário)
+🏷️ [Necessário](#necessario)
 🏷️ [Sociedade](#sociedade)
 🏷️ [Trabalho](#trabalho)
 :::
 
 ---
 
-###### #️⃣ Q.931 {#q931}
+##### #️⃣ Q.931 {#q931}
 
 Por que são mais numerosas, na sociedade, as classes sofredoras do que as felizes?
 
@@ -214,7 +215,7 @@ Por que são mais numerosas, na sociedade, as classes sofredoras do que as feliz
 
 ---
 
-###### #️⃣ Q.932 {#q932}
+##### #️⃣ Q.932 {#q932}
 
 Por que, no mundo, tão amiúde, a influência dos maus sobrepuja a dos bons?
 
@@ -231,7 +232,7 @@ Por que, no mundo, tão amiúde, a influência dos maus sobrepuja a dos bons?
 
 ---
 
-###### #️⃣ Q.933 {#q933}
+##### #️⃣ Q.933 {#q933}
 
 Assim como, quase sempre, é o homem o causador de seus sofrimentos materiais, também o será de seus sofrimentos morais?
 
@@ -251,12 +252,12 @@ Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as
 
 ::: expand 🔗
 🏷️ [Alma](#alma)
-🏷️ [Ciúme](#ciúme)
+🏷️ [Ciúme](#ciume)
 🏷️ [Cristianismo](#cristianismo)
 🏷️ [Homem](#homem)
 🏷️ [Infelicidade](#infelicidade)
 🏷️ [Inveja](#inveja)
-🏷️ [Paixão](#paixão)
+🏷️ [Paixão](#paixao)
 🏷️ [Selvagem](#selvagem)
 🏷️ [Sofrimento](#sofrimento)
 :::
@@ -265,7 +266,7 @@ Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as
 
 #### 4.01.02 📄 Perda dos entes queridos {#lde-4-01-02}
 
-###### #️⃣ Q.934 {#q934}
+##### #️⃣ Q.934 {#q934}
 
 A perda dos entes que nos são caros não constitui para nós legítima causa de dor, tanto mais legítima quanto é irreparável e independente da nossa vontade?
 
@@ -275,7 +276,7 @@ A perda dos entes que nos são caros não constitui para nós legítima causa de
 
 ---
 
-###### #️⃣ Q.935 {#q935}
+##### #️⃣ Q.935 {#q935}
 
 Que se deve pensar da opinião dos que consideram profanação as comunicações com o além-túmulo?
 
@@ -286,14 +287,14 @@ A possibilidade de nos pormos em comunicação com os Espíritos é uma dulcíss
 :::
 
 ::: expand 🔗
-🏷️ [Além-túmulo](#além-túmulo)
-🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espíritos)
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Além-túmulo](#alem-tumulo)
+🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+🏷️ [Espírito(s)](#espiritos)
 :::
 
 ---
 
-###### #️⃣ Q.936 {#q936}
+##### #️⃣ Q.936 {#q936}
 
 Como é que as dores inconsoláveis dos que sobrevivem se refletem nos Espíritos que as causam?
 
@@ -310,11 +311,11 @@ Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos pare
 :::
 
 ::: expand 🔗
-🏷️ [Aceitação](#aceitação)
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Aceitação](#aceitacao)
+🏷️ [Egoísmo](#egoismo)
 🏷️ [Entes queridos](#entes-queridos)
 🏷️ [Espiritismo](#espiritismo)
-🏷️ [Libertação](#libertação)
+🏷️ [Libertação](#libertacao)
 🏷️ [Sofrimento](#sofrimento)
 :::
 
@@ -322,7 +323,7 @@ Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos pare
 
 #### 4.01.03 📄 Decepções. Ingratidão. Afeições destruídas {#lde-4-01-03}
 
-###### #️⃣ Q.937 {#q937}
+##### #️⃣ Q.937 {#q937}
 
 Para o homem de coração, as decepções oriundas da ingratidão e da fragilidade dos laços da amizade não são também uma fonte de amarguras?
 
@@ -332,7 +333,7 @@ Para o homem de coração, as decepções oriundas da ingratidão e da fragilida
 
 ---
 
-###### #️⃣ Q.938 {#q938}
+##### #️⃣ Q.938 {#q938}
 
 As decepções oriundas da ingratidão não serão de molde a endurecer o coração e a fechá-lo à sensibilidade?
 
@@ -341,13 +342,13 @@ As decepções oriundas da ingratidão não serão de molde a endurecer o coraç
 :::
 
 ::: expand 🔗
-🏷️ [Decepção](#decepção)
-🏷️ [Ingratidão](#ingratidão)
+🏷️ [Decepção](#decepcao)
+🏷️ [Ingratidão](#ingratidao)
 :::
 
 ---
 
-###### #️⃣ Q.938.a {#q938a}
+##### #️⃣ Q.938.a {#q938a}
 
 Mas isso não impede que se lhe ulcere o coração. Ora, daí não poderá nascer-lhe a ideia de que seria mais feliz, se fosse menos sensível?
 
@@ -360,9 +361,9 @@ A Natureza deu ao homem a necessidade de amar e de ser amado. Um dos maiores goz
 ::: expand 🔗
 🏷️ [Amizade](#amizade)
 🏷️ [Amor](#amor)
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Egoísmo](#egoismo)
 🏷️ [Homem](#homem)
-🏷️ [Ingratidão](#ingratidão)
+🏷️ [Ingratidão](#ingratidao)
 🏷️ [Sensibilidade](#sensibilidade)
 :::
 
@@ -370,7 +371,7 @@ A Natureza deu ao homem a necessidade de amar e de ser amado. Um dos maiores goz
 
 #### 4.01.04 📄 Uniões antipáticas {#lde-4-01-04}
 
-###### #️⃣ Q.939 {#q939}
+##### #️⃣ Q.939 {#q939}
 
 Uma vez que os Espíritos simpáticos são induzidos a unir-se, como é que, entre os encarnados, frequentemente só de um lado há afeição e que o mais sincero amor se vê acolhido com indiferença e até com repulsão? Como é, além disso, que a mais viva afeição de dois seres pode mudar-se em antipatia e mesmo em ódio?
 
@@ -382,7 +383,7 @@ Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequê
 
 ---
 
-###### #️⃣ Q.940 {#q940}
+##### #️⃣ Q.940 {#q940}
 
 Não constitui igualmente fonte de dissabores, tanto mais amargos quanto envenenam toda a existência, a falta de simpatia entre seres destinados a viver juntos?
 
@@ -392,13 +393,13 @@ Não constitui igualmente fonte de dissabores, tanto mais amargos quanto envenen
 
 ::: expand 🔗
 🏷️ [Antipatia](#antipatia)
-🏷️ [Divórcio](#divórcio)
-🏷️ [União](#união)
+🏷️ [Divórcio](#divorcio)
+🏷️ [União](#uniao)
 :::
 
 ---
 
-###### #️⃣ Q.940.a {#q940a}
+##### #️⃣ Q.940.a {#q940a}
 
 Mas, nesse caso, não há quase sempre uma vítima inocente?
 
@@ -407,32 +408,28 @@ Mas, nesse caso, não há quase sempre uma vítima inocente?
 :::
 
 ::: expand 🔗
-🏷️ [Expiação](#expiação)
-🏷️ [Separação](#separação)
+🏷️ [Expiação](#expiacao)
+🏷️ [Separação](#separacao)
 :::
 
 ---
 
 #### 4.01.05 📄 Temor da morte {#lde-4-01-05}
 
-###### #️⃣ Q.941 {#q941}
+##### #️⃣ Q.941 {#q941}
 
 Para muitas pessoas, o temor da morte é uma causa de perplexidade. Donde lhes vêm esse temor, tendo elas diante de si o futuro?
 
 ::: spirit
 ✨ ▸ Falece-lhes fundamento para semelhante temor. Mas que queres! se procuram persuadi-las, quando crianças, de que há um inferno e um paraíso e que mais certo é irem para o inferno, visto que também lhes disseram que o que está na Natureza constitui pecado mortal para a alma! Sucede então que, tornadas adultas, essas pessoas, se algum juízo têm, não podem admitir tal coisa e se fazem ateias ou materialistas. São assim levadas a crer que, além da vida presente, nada mais há. Quanto aos que persistiram nas suas crenças da infância, esses temem aquele fogo eterno que os queimará sem os consumir.
-Ao justo, nenhum temor inspira a morte, porque, com **a fé**, tem ele a certeza do futuro. A **esperança** fá-lo contar com uma vida melhor; e a **caridade**, a cuja lei obedece, lhe dá a segurança de que, no mundo para onde terá de ir, nenhum ser encontrará cujo olhar lhe seja de temer.
-
-👉 Veja Q.730
-
-O homem carnal, mais preso à vida corpórea do que à vida espiritual, tem, na Terra, penas e gozos materiais. Sua felicidade consiste na satisfação fugaz de todos os seus desejos. Sua alma, constantemente preocupada e angustiada pelas vicissitudes da vida, se conserva numa ansiedade e numa tortura perpétuas. A morte o assusta, porque ele duvida do futuro e porque tem de deixar no mundo todas as suas afeições e esperanças.
+Ao justo, nenhum temor inspira a morte, porque, com **a fé**, tem ele a certeza do futuro. A **esperança** fá-lo contar com uma vida melhor; e a **caridade**, a cuja lei obedece, lhe dá a segurança de que, no mundo para onde terá de ir, nenhum ser encontrará cujo olhar lhe seja de temer. (👉 Veja [Q.730](#q730)) O homem carnal, mais preso à vida corpórea do que à vida espiritual, tem, na Terra, penas e gozos materiais. Sua felicidade consiste na satisfação fugaz de todos os seus desejos. Sua alma, constantemente preocupada e angustiada pelas vicissitudes da vida, se conserva numa ansiedade e numa tortura perpétuas. A morte o assusta, porque ele duvida do futuro e porque tem de deixar no mundo todas as suas afeições e esperanças.
 
 O homem moral, que se colocou acima das necessidades factícias criadas pelas paixões, já neste mundo experimenta gozos que o homem material desconhece. A moderação de seus desejos lhe dá ao Espírito calma e serenidade. Ditoso pelo bem que faz, não há para ele decepções e as contrariedades lhe deslizam por sobre a alma, sem nenhuma impressão dolorosa deixarem.
 :::
 
 ---
 
-###### #️⃣ Q.942 {#q942}
+##### #️⃣ Q.942 {#q942}
 
 Pessoas não haverá que achem um tanto banais esses conselhos para ser-se feliz na Terra; que neles vejam o que chamam lugares comuns, sediciosas verdades; e que digam, que, afinal, o segredo para ser-se feliz consiste em saber cada um suportar a sua desgraça?
 
@@ -450,7 +447,7 @@ Pessoas não haverá que achem um tanto banais esses conselhos para ser-se feliz
 
 #### 4.01.06 📄 Desgosto da vida. Suicídio {#lde-4-01-06}
 
-###### #️⃣ Q.943 {#q943}
+##### #️⃣ Q.943 {#q943}
 
 Donde nasce o desgosto da vida, que, sem motivos plausíveis, se apodera de certos indivíduos?
 
@@ -460,7 +457,7 @@ Donde nasce o desgosto da vida, que, sem motivos plausíveis, se apodera de cert
 
 ---
 
-###### #️⃣ Q.944 {#q944}
+##### #️⃣ Q.944 {#q944}
 
 Tem o homem o direito de dispor da sua vida?
 
@@ -474,7 +471,7 @@ Tem o homem o direito de dispor da sua vida?
 
 ---
 
-###### #️⃣ Q.944.a {#q944a}
+##### #️⃣ Q.944.a {#q944a}
 
 Não é sempre voluntário o suicídio?
 
@@ -484,7 +481,7 @@ Não é sempre voluntário o suicídio?
 
 ---
 
-###### #️⃣ Q.945 {#q945}
+##### #️⃣ Q.945 {#q945}
 
 Que se deve pensar do suicídio que tem como causa o desgosto da vida?
 
@@ -498,7 +495,7 @@ Que se deve pensar do suicídio que tem como causa o desgosto da vida?
 
 ---
 
-###### #️⃣ Q.946 {#q946}
+##### #️⃣ Q.946 {#q946}
 
 E do suicídio cujo fim é fugir, aquele que o comete, às misérias e às decepções deste mundo?
 
@@ -507,14 +504,14 @@ E do suicídio cujo fim é fugir, aquele que o comete, às misérias e às decep
 :::
 
 ::: expand 🔗
-🏷️ [Provas e expiações](#provas-e-expiações)
-🏷️ [Provação](#provação)
-🏷️ [Providência divina](#providência-divina)
+🏷️ [Provas e expiações](#provas-e-expiacoes)
+🏷️ [Provação](#provacao)
+🏷️ [Providência divina](#providencia-divina)
 :::
 
 ---
 
-###### #️⃣ Q.946.a {#q946a}
+##### #️⃣ Q.946.a {#q946a}
 
 Os que hajam conduzido o desgraçado a esse ato de desespero sofrerão as consequências de tal proceder?
 
@@ -523,12 +520,12 @@ Os que hajam conduzido o desgraçado a esse ato de desespero sofrerão as conseq
 :::
 
 ::: expand 🔗
-🏷️ [Indução](#indução)
+🏷️ [Indução](#inducao)
 :::
 
 ---
 
-###### #️⃣ Q.947 {#q947}
+##### #️⃣ Q.947 {#q947}
 
 Pode ser considerado suicida aquele que, a braços com a maior penúria, se deixa morrer de fome?
 
@@ -544,7 +541,7 @@ Pode ser considerado suicida aquele que, a braços com a maior penúria, se deix
 
 ---
 
-###### #️⃣ Q.948 {#q948}
+##### #️⃣ Q.948 {#q948}
 
 É tão reprovável, como o que tem por causa o desespero, o suicídio daquele que procura escapar à vergonha de uma ação má?
 
@@ -560,7 +557,7 @@ Pode ser considerado suicida aquele que, a braços com a maior penúria, se deix
 
 ---
 
-###### #️⃣ Q.949 {#q949}
+##### #️⃣ Q.949 {#q949}
 
 Será desculpável o suicídio, quando tenha por fim obstar a que a vergonha caia sobre os filhos, ou sobre a família?
 
@@ -571,13 +568,13 @@ Aquele que tira a si mesmo a vida, para fugir à vergonha de uma ação má, pro
 :::
 
 ::: expand 🔗
-🏷️ [Família](#família)
-🏷️ [Reparação](#reparação)
+🏷️ [Família](#familia)
+🏷️ [Reparação](#reparacao)
 :::
 
 ---
 
-###### #️⃣ Q.950 {#q950}
+##### #️⃣ Q.950 {#q950}
 
 Que pensar daquele que se mata, na esperança de chegar mais depressa a uma vida melhor?
 
@@ -587,7 +584,7 @@ Que pensar daquele que se mata, na esperança de chegar mais depressa a uma vida
 
 ---
 
-###### #️⃣ Q.951 {#q951}
+##### #️⃣ Q.951 {#q951}
 
 Não é, às vezes, meritório o sacrifício da vida, quando aquele que o faz visa salvar a de outrem, ou ser útil aos seus semelhantes?
 
@@ -598,12 +595,12 @@ Todo sacrifício que o homem faça à custa da sua própria felicidade é um ato
 :::
 
 ::: expand 🔗
-🏷️ [Sacrifício](#sacrifício)
+🏷️ [Sacrifício](#sacrificio)
 :::
 
 ---
 
-###### #️⃣ Q.952 {#q952}
+##### #️⃣ Q.952 {#q952}
 
 Comete suicídio o homem que perece vítima de paixões que ele sabia lhe haviam de apressar o fim, porém a que já não podia resistir, por havê-las o hábito mudado em verdadeiras necessidades físicas?
 
@@ -612,12 +609,12 @@ Comete suicídio o homem que perece vítima de paixões que ele sabia lhe haviam
 :::
 
 ::: expand 🔗
-🏷️ [Vício](#vício)
+🏷️ [Vício](#vicio)
 :::
 
 ---
 
-###### #️⃣ Q.952.a {#q952a}
+##### #️⃣ Q.952.a {#q952a}
 
 Será mais, ou menos, culpado do que o que tira a si mesmo a vida por desespero?
 
@@ -627,14 +624,15 @@ Será mais, ou menos, culpado do que o que tira a si mesmo a vida por desespero?
 
 ---
 
-###### #️⃣ Q.953 {#q953}
+##### #️⃣ Q.953 {#q953}
 
 Quando uma pessoa vê diante de si um fim inevitável e horrível, será culpada se abreviar de alguns instantes os seus sofrimentos, apressando voluntariamente sua morte?
 
 ::: spirit
 ✨ ▸ É sempre culpado aquele que não aguarda o termo que Deus lhe marcou para a existência. E quem poderá estar certo de que, malgrado as aparências, esse termo tenha chegado; de que um socorro inesperado não venha no último momento?
+:::
 
-###### #️⃣ Q.953.a {#q953a}
+##### #️⃣ Q.953.a {#q953a}
 
 Concebe-se que, nas circunstâncias ordinárias, o suicídio seja condenável; mas estamos figurando o caso em que a morte é inevitável e em que a vida só é encurtada de alguns instantes.
 
@@ -643,13 +641,13 @@ Concebe-se que, nas circunstâncias ordinárias, o suicídio seja condenável; m
 :::
 
 ::: expand 🔗
-🏷️ [Eutanásia](#eutanásia)
+🏷️ [Eutanásia](#eutanasia)
 🏷️ [Morte](#morte)
 :::
 
 ---
 
-###### #️⃣ Q.953.b {#q953b}
+##### #️⃣ Q.953.b {#q953b}
 
 Quais, nesse caso, as consequências de tal ato?
 
@@ -658,12 +656,12 @@ Quais, nesse caso, as consequências de tal ato?
 :::
 
 ::: expand 🔗
-🏷️ [Eutanásia](#eutanásia)
+🏷️ [Eutanásia](#eutanasia)
 :::
 
 ---
 
-###### #️⃣ Q.954 {#q954}
+##### #️⃣ Q.954 {#q954}
 
 Será condenável uma imprudência que compromete a vida sem necessidade?
 
@@ -678,7 +676,7 @@ Será condenável uma imprudência que compromete a vida sem necessidade?
 
 ---
 
-###### #️⃣ Q.955 {#q955}
+##### #️⃣ Q.955 {#q955}
 
 Podem ser consideradas suicidas e sofrem as consequências de um suicídio as mulheres que, em certos países, se queimam voluntariamente sobre os corpos dos maridos?
 
@@ -687,13 +685,13 @@ Podem ser consideradas suicidas e sofrem as consequências de um suicídio as mu
 :::
 
 ::: expand 🔗
-🏷️ [Cremação](#cremação)
+🏷️ [Cremação](#cremacao)
 🏷️ [Preconceito](#preconceito)
 :::
 
 ---
 
-###### #️⃣ Q.956 {#q956}
+##### #️⃣ Q.956 {#q956}
 
 Alcançam o fim objetivado aqueles que, não podendo conformar-se com a perda de pessoas que lhes eram caras, se matam na esperança de ir juntar-se-lhes?
 
@@ -702,22 +700,19 @@ Alcançam o fim objetivado aqueles que, não podendo conformar-se com a perda de
 :::
 
 ::: expand 🔗
-🏷️ [Além-túmulo](#além-túmulo)
+🏷️ [Além-túmulo](#alem-tumulo)
 :::
 
 ---
 
-###### #️⃣ Q.957 {#q957}
+##### #️⃣ Q.957 {#q957}
 
 Quais, em geral, com relação ao estado do Espírito, as consequências do suicídio?
 
 ::: spirit
 ✨ ▸ Muito diversas são as consequências do suicídio. Não há penas determinadas e, em todos os casos, correspondem sempre às causas que o produziram. Há, porém, uma consequência a que o suicida não pode escapar: é o **desapontamento**. A sorte, porém, não é a mesma para todos: depende das circunstâncias; alguns expiam a falta imediatamente, outros em nova existência, que será pior do que aquela cujo curso interromperam.
 
-A observação, realmente, mostra que os efeitos do suicídio não são idênticos. Alguns há, porém, comuns a todos os casos de morte violenta e que são a consequência da interrupção brusca da vida. Há, primeiro, a persistência mais prolongada e tenaz do laço que une o Espírito ao corpo, por estar quase sempre esse laço na plenitude da sua força no momento em que é partido, ao passo que, no caso de morte natural, ele se enfraquece gradualmente e muitas vezes se desfaz antes que a vida se haja extinguido completamente. As consequências deste estado de coisas são o prolongamento da perturbação espiritual, seguindo-se à ilusão em que, durante mais ou menos tempo, o Espírito se conserva de que ainda pertence ao número dos vivos.
-
-👉 Veja Q.155 e Q.165.
-
+A observação, realmente, mostra que os efeitos do suicídio não são idênticos. Alguns há, porém, comuns a todos os casos de morte violenta e que são a consequência da interrupção brusca da vida. Há, primeiro, a persistência mais prolongada e tenaz do laço que une o Espírito ao corpo, por estar quase sempre esse laço na plenitude da sua força no momento em que é partido, ao passo que, no caso de morte natural, ele se enfraquece gradualmente e muitas vezes se desfaz antes que a vida se haja extinguido completamente. As consequências deste estado de coisas são o prolongamento da perturbação espiritual, seguindo-se à ilusão em que, durante mais ou menos tempo, o Espírito se conserva de que ainda pertence ao número dos vivos. (👉 Veja [Q.155](#q155) e [Q.165](#q165)). 
 A afinidade que permanece entre o Espírito e o corpo produz, nalguns suicidas, uma espécie de repercussão do estado do corpo no Espírito, que, assim, a seu mau grado, sente os efeitos da decomposição, donde lhe resulta uma sensação cheia de angústias e de horror, estado esse que também pode durar pelo tempo que devia durar a vida que sofreu interrupção. Não é geral este efeito; mas, em caso algum, o suicida fica isento das consequências da sua falta de coragem e, cedo ou tarde, expia, de um modo ou de outro, a culpa em que incorreu. Assim é que certos Espíritos, que foram muito desgraçados na Terra, disseram ter-se suicidado na existência precedente e submetido voluntariamente a novas provas, para tentarem suportá-las com mais resignação. Em alguns, verifica-se uma espécie de ligação à matéria, de que inutilmente procuram desembaraçar-se, a fim de voarem para mundos melhores, cujo acesso, porém, se lhes conserva interdito. A maior parte deles sofre o pesar de haver feito uma coisa inútil, pois que só decepções encontram.
 
 A religião, a moral, todas as filosofias condenam o suicídio como contrário às Leis da Natureza. Todas nos dizem, em princípio, que ninguém tem o direito de abreviar voluntariamente a vida. Entretanto, por que não se tem esse direito? Por que não é livre o homem de pôr termo aos seus sofrimentos? Ao Espiritismo estava reservado demonstrar, pelo exemplo dos que sucumbiram, que o suicídio não é uma falta, somente por constituir infração de uma lei moral, consideração de pouco peso para certos indivíduos, mas também um ato estúpido, pois que nada ganha quem o pratica, o contrário é o que se dá, como no-lo ensinam, não a teoria, porém os fatos que ele nos põe sob as vistas.
@@ -734,7 +729,7 @@ A religião, a moral, todas as filosofias condenam o suicídio como contrário �
 
 #### 4.02.01 📄 O nada. Vida futura {#lde-4-02-01}
 
-###### #️⃣ Q.958 {#q958}
+##### #️⃣ Q.958 {#q958}
 
 Por que tem o homem, instintivamente, horror ao nada?
 
@@ -744,16 +739,12 @@ Por que tem o homem, instintivamente, horror ao nada?
 
 ---
 
-###### #️⃣ Q.959 {#q959}
+##### #️⃣ Q.959 {#q959}
 
 Donde nasce, para o homem, o sentimento instintivo da vida futura?
 
 ::: spirit
-✨ ▸ Já temos dito: antes de encarnar, o Espírito conhecia todas essas coisas e a alma conserva uma vaga lembrança do que sabe e do que viu no estado espiritual.
-
-👉 Veja Q.393
-
-Em todos os tempos, o homem se preocupou com o seu futuro para lá do túmulo e isso é muito natural. Qualquer que seja a importância que ligue à vida presente, não pode ele furtar-se a considerar quanto essa vida é curta e, sobretudo, precária, pois que a cada instante está sujeita a interromper-se, nenhuma certeza lhe sendo permitida acerca do dia seguinte. Que será dele, após o instante fatal? Questão grave esta, porquanto não se trata de alguns anos apenas, mas da eternidade. Aquele que tem de passar longo tempo, em país estrangeiro, se preocupa com a situação em que lá se achará. Como, então, não nos havia de preocupar a em que nos veremos, deixando este mundo, uma vez que é para sempre.
+✨ ▸ Já temos dito: antes de encarnar, o Espírito conhecia todas essas coisas e a alma conserva uma vaga lembrança do que sabe e do que viu no estado espiritual. (👉 Veja [Q.393](#q393)) Em todos os tempos, o homem se preocupou com o seu futuro para lá do túmulo e isso é muito natural. Qualquer que seja a importância que ligue à vida presente, não pode ele furtar-se a considerar quanto essa vida é curta e, sobretudo, precária, pois que a cada instante está sujeita a interromper-se, nenhuma certeza lhe sendo permitida acerca do dia seguinte. Que será dele, após o instante fatal? Questão grave esta, porquanto não se trata de alguns anos apenas, mas da eternidade. Aquele que tem de passar longo tempo, em país estrangeiro, se preocupa com a situação em que lá se achará. Como, então, não nos havia de preocupar a em que nos veremos, deixando este mundo, uma vez que é para sempre.
 
 A ideia do nada tem qualquer coisa que repugna à razão. O homem que mais despreocupado seja durante a vida, em chegando o momento supremo, pergunta a si mesmo o que vai ser dele e, sem o querer, espera.
 
@@ -770,7 +761,7 @@ A vida futura implica a conservação da nossa individualidade, após a morte. C
 
 #### 4.02.02 📄 Intuição das penas e gozos futuros {#lde-4-02-02}
 
-###### #️⃣ Q.960 {#q960}
+##### #️⃣ Q.960 {#q960}
 
 Donde se origina a crença, com que deparamos entre todos os povos, na existência de penas e recompensas porvindouras?
 
@@ -780,7 +771,7 @@ Donde se origina a crença, com que deparamos entre todos os povos, na existênc
 
 ---
 
-###### #️⃣ Q.961 {#q961}
+##### #️⃣ Q.961 {#q961}
 
 Qual o sentimento que domina a maioria dos homens no momento da morte: a dúvida, o temor, ou a esperança?
 
@@ -794,7 +785,7 @@ Qual o sentimento que domina a maioria dos homens no momento da morte: a dúvida
 
 ---
 
-###### #️⃣ Q.962 {#q962}
+##### #️⃣ Q.962 {#q962}
 
 Como pode haver céticos, uma vez que a alma traz ao homem o sentimento das coisas espirituais?
 
@@ -808,7 +799,7 @@ A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e d
 
 ::: expand 🔗
 🏷️ [Ceticismo](#ceticismo)
-🏷️ [Justiça divina](#justiça-divina)
+🏷️ [Justiça divina](#justica-divina)
 🏷️ [Vida futura](#vida-futura)
 :::
 
@@ -816,7 +807,7 @@ A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e d
 
 #### 4.02.03 📄 Intervenção de Deus nas penas e recompensas {#lde-4-02-03}
 
-###### #️⃣ Q.963 {#q963}
+##### #️⃣ Q.963 {#q963}
 
 Com cada homem, pessoalmente, Deus se ocupa? Não é Ele muito grande e nós muito pequeninos para que cada indivíduo em particular tenha, a seus olhos, alguma importância?
 
@@ -826,7 +817,7 @@ Com cada homem, pessoalmente, Deus se ocupa? Não é Ele muito grande e nós mui
 
 ---
 
-###### #️⃣ Q.964 {#q964}
+##### #️⃣ Q.964 {#q964}
 
 Mas será necessário que Deus atente em cada um dos nossos atos, para nos recompensar ou punir? Esses atos não são, na sua maioria, insignificantes para Ele?
 
@@ -855,7 +846,7 @@ Não é verdade que esse campo produzirá na razão dos cuidados que forem dispe
 
 #### 4.02.04 📄 Natureza das penas e gozos futuros {#lde-4-02-04}
 
-###### #️⃣ Q.965 {#q965}
+##### #️⃣ Q.965 {#q965}
 
 Têm alguma coisa de material as penas e gozos da alma depois da morte?
 
@@ -865,7 +856,7 @@ Têm alguma coisa de material as penas e gozos da alma depois da morte?
 
 ---
 
-###### #️⃣ Q.966 {#q966}
+##### #️⃣ Q.966 {#q966}
 
 Por que das penas e gozos da vida futura faz o homem, às vezes, tão grosseira e absurda ideia?
 
@@ -879,7 +870,7 @@ Por que das penas e gozos da vida futura faz o homem, às vezes, tão grosseira 
 
 ---
 
-###### #️⃣ Q.967 {#q967}
+##### #️⃣ Q.967 {#q967}
 
 Em que consiste a felicidade dos bons Espíritos?
 
@@ -893,7 +884,7 @@ Em que consiste a felicidade dos bons Espíritos?
 
 ---
 
-###### #️⃣ Q.968 {#q968}
+##### #️⃣ Q.968 {#q968}
 
 Citais, entre as condições da felicidade dos bons Espíritos, a ausência das necessidades materiais; mas a satisfação dessas necessidades não representa para o homem uma fonte de gozos?
 
@@ -907,7 +898,7 @@ Citais, entre as condições da felicidade dos bons Espíritos, a ausência das 
 
 ---
 
-###### #️⃣ Q.969 {#q969}
+##### #️⃣ Q.969 {#q969}
 
 Que se deve entender quando é dito que os Espíritos puros se acham reunidos no seio de Deus e ocupados em lhe entoar louvores?
 
@@ -916,12 +907,12 @@ Que se deve entender quando é dito que os Espíritos puros se acham reunidos no
 :::
 
 ::: expand 🔗
-🏷️ [Espírito puro](#espírito-puro)
+🏷️ [Espírito puro](#espirito-puro)
 :::
 
 ---
 
-###### #️⃣ Q.970 {#q970}
+##### #️⃣ Q.970 {#q970}
 
 Em que consistem os sofrimentos dos Espíritos inferiores?
 
@@ -930,12 +921,12 @@ Em que consistem os sofrimentos dos Espíritos inferiores?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito inferior](#espírito-inferior)
+🏷️ [Espírito inferior](#espirito-inferior)
 :::
 
 ---
 
-###### #️⃣ Q.971 {#q971}
+##### #️⃣ Q.971 {#q971}
 
 É sempre boa a influência que os Espíritos exercem uns sobre os outros?
 
@@ -944,13 +935,13 @@ Em que consistem os sofrimentos dos Espíritos inferiores?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espíritos)
-🏷️ [Influenciação](#influenciação)
+🏷️ [Espírito(s)](#espiritos)
+🏷️ [Influenciação](#influenciacao)
 :::
 
 ---
 
-###### #️⃣ Q.971.a {#q971a}
+##### #️⃣ Q.971.a {#q971a}
 
 Assim, a morte não nos livra da tentação?
 
@@ -959,12 +950,12 @@ Assim, a morte não nos livra da tentação?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito mau](#espírito-mau)
+🏷️ [Espírito mau](#espirito-mau)
 :::
 
 ---
 
-###### #️⃣ Q.972 {#q972}
+##### #️⃣ Q.972 {#q972}
 
 Como procedem os maus Espíritos para tentar os outros Espíritos, não podendo jogar com as paixões?
 
@@ -973,13 +964,13 @@ Como procedem os maus Espíritos para tentar os outros Espíritos, não podendo 
 :::
 
 ::: expand 🔗
-🏷️ [Espírito mau](#espírito-mau)
-🏷️ [Obsessão](#obsessão)
+🏷️ [Espírito mau](#espirito-mau)
+🏷️ [Obsessão](#obsessao)
 :::
 
 ---
 
-###### #️⃣ Q.972.a {#q972a}
+##### #️⃣ Q.972.a {#q972a}
 
 Mas de que servem essas paixões se já não têm objeto real?
 
@@ -988,35 +979,31 @@ Mas de que servem essas paixões se já não têm objeto real?
 :::
 
 ::: expand 🔗
-🏷️ [Paixão](#paixão)
+🏷️ [Paixão](#paixao)
 :::
 
 ---
 
-###### #️⃣ Q.973 {#q973}
+##### #️⃣ Q.973 {#q973}
 
 Quais os sofrimentos maiores a que os Espíritos maus se veem sujeitos?
 
 ::: spirit
 ✨ ▸ Não há descrição possível das torturas morais que constituem a punição de certos crimes. Mesmo o que as sofre teria dificuldade em vos dar delas uma ideia. Indubitavelmente, porém, a mais horrível consiste em pensarem que estão condenados sem remissão.
 
-Das penas e gozos da alma após a morte forma o homem ideia mais ou menos elevada, conforme o estado de sua inteligência. Quanto mais ele se desenvolve, tanto mais essa ideia se apura e se escoima da matéria; compreende as coisas de um ponto de vista mais racional, deixando de tomar ao pé da letra as imagens de uma linguagem figurada. Ensinando-nos que a alma é um ser todo espiritual, a razão, mais esclarecida, nos diz, por isso mesmo, que ela não pode ser atingida pelas impressões que apenas sobre a matéria atuam. Não se segue, porém, daí que esteja isenta de sofrimentos, nem que não receba o castigo de suas faltas.
-
-👉 Veja Q.237
-
-As comunicações espíritas tiveram como resultado mostrar o estado futuro da alma, não mais em teoria, porém na realidade. Põem-nos diante dos olhos todas as peripécias da vida de além-túmulo. Ao mesmo tempo, entretanto, no-las mostram como consequências perfeitamente lógicas da vida terrestre e, embora despojadas do aparato fantástico que a imaginação dos homens criou, não são menos pessoais para os que fizeram mau uso de suas faculdades. Infinita é a variedade dessas consequências, mas, em tese geral, pode-se dizer: cada um é punido por aquilo em que pecou. Assim é que uns o são pela visão incessante do mal que fizeram; outros, pelo pesar, pelo temor, pela vergonha, pela dúvida, pelo insulamento, pelas trevas, pela separação dos entes que lhes são caros etc.
+Das penas e gozos da alma após a morte forma o homem ideia mais ou menos elevada, conforme o estado de sua inteligência. Quanto mais ele se desenvolve, tanto mais essa ideia se apura e se escoima da matéria; compreende as coisas de um ponto de vista mais racional, deixando de tomar ao pé da letra as imagens de uma linguagem figurada. Ensinando-nos que a alma é um ser todo espiritual, a razão, mais esclarecida, nos diz, por isso mesmo, que ela não pode ser atingida pelas impressões que apenas sobre a matéria atuam. Não se segue, porém, daí que esteja isenta de sofrimentos, nem que não receba o castigo de suas faltas. (👉 Veja [Q.237](#q237)) As comunicações espíritas tiveram como resultado mostrar o estado futuro da alma, não mais em teoria, porém na realidade. Põem-nos diante dos olhos todas as peripécias da vida de além-túmulo. Ao mesmo tempo, entretanto, no-las mostram como consequências perfeitamente lógicas da vida terrestre e, embora despojadas do aparato fantástico que a imaginação dos homens criou, não são menos pessoais para os que fizeram mau uso de suas faculdades. Infinita é a variedade dessas consequências, mas, em tese geral, pode-se dizer: cada um é punido por aquilo em que pecou. Assim é que uns o são pela visão incessante do mal que fizeram; outros, pelo pesar, pelo temor, pela vergonha, pela dúvida, pelo insulamento, pelas trevas, pela separação dos entes que lhes são caros etc.
 :::
 
 ::: expand 🔗
-🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espíritos)
-🏷️ [Espírito mau](#espírito-mau)
-🏷️ [Punição](#punição)
+🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+🏷️ [Espírito mau](#espirito-mau)
+🏷️ [Punição](#punicao)
 🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
 
-###### #️⃣ Q.974 {#q974}
+##### #️⃣ Q.974 {#q974}
 
 Donde procede a doutrina do fogo eterno?
 
@@ -1032,7 +1019,7 @@ Donde procede a doutrina do fogo eterno?
 
 ---
 
-###### #️⃣ Q.974.a {#q974a}
+##### #️⃣ Q.974.a {#q974a}
 
 Mas o temor desse fogo não produzirá bom resultado?
 
@@ -1044,7 +1031,7 @@ Impotente para, na sua linguagem, definir a natureza daqueles sofrimentos, o hom
 
 ---
 
-###### #️⃣ Q.975 {#q975}
+##### #️⃣ Q.975 {#q975}
 
 Os Espíritos inferiores compreendem a felicidade do justo?
 
@@ -1058,12 +1045,12 @@ Na erraticidade, o Espírito descortina, de um lado, todas as suas existências 
 
 ::: expand 🔗
 🏷️ [Erraticidade](#erraticidade)
-🏷️ [Espírito inferior](#espírito-inferior)
+🏷️ [Espírito inferior](#espirito-inferior)
 :::
 
 ---
 
-###### #️⃣ Q.976 {#q976}
+##### #️⃣ Q.976 {#q976}
 
 O espetáculo dos sofrimentos dos Espíritos inferiores não constitui, para os bons, uma causa de aflição e, nesse caso, que fica sendo a felicidade deles, se é assim turbada?
 
@@ -1077,7 +1064,7 @@ O espetáculo dos sofrimentos dos Espíritos inferiores não constitui, para os 
 
 ---
 
-###### #️⃣ Q.976.a {#q976a}
+##### #️⃣ Q.976.a {#q976a}
 
 Isto se concebe da parte de Espíritos estranhos ou indiferentes, mas o espetáculo das tristezas e dos sofrimentos daqueles a quem amaram na Terra não lhes perturba a felicidade?
 
@@ -1091,7 +1078,7 @@ Isto se concebe da parte de Espíritos estranhos ou indiferentes, mas o espetác
 
 ---
 
-###### #️⃣ Q.977 {#q977}
+##### #️⃣ Q.977 {#q977}
 
 Não podendo os Espíritos ocultar reciprocamente seus pensamentos e sendo conhecidos todos os atos da vida, dever-se-á deduzir que o culpado está perpetuamente em presença de sua vítima?
 
@@ -1105,7 +1092,7 @@ Não podendo os Espíritos ocultar reciprocamente seus pensamentos e sendo conhe
 
 ---
 
-###### #️⃣ Q.977.a {#q977a}
+##### #️⃣ Q.977.a {#q977a}
 
 Serão um castigo para o culpado essa divulgação de todos os nossos atos reprováveis e a presença constante dos que deles foram vítimas?
 
@@ -1125,7 +1112,7 @@ Para o mau, não há maior tormento, na Terra, do que a presença de suas vítim
 
 ---
 
-###### #️⃣ Q.978 {#q978}
+##### #️⃣ Q.978 {#q978}
 
 A lembrança das faltas que a alma, quando imperfeita, tenha cometido, não lhe turba a felicidade, mesmo depois de se haver purificado?
 
@@ -1135,12 +1122,12 @@ A lembrança das faltas que a alma, quando imperfeita, tenha cometido, não lhe 
 
 ::: expand 🔗
 🏷️ [Erro](#erro)
-🏷️ [Lembrança](#lembrança)
+🏷️ [Lembrança](#lembranca)
 :::
 
 ---
 
-###### #️⃣ Q.979 {#q979}
+##### #️⃣ Q.979 {#q979}
 
 Não serão, para a alma, causa de penosa apreensão, que lhe altera a felicidade, as provas por que ainda tenha de passar para acabar a sua purificação?
 
@@ -1157,7 +1144,7 @@ Goza da felicidade a alma que chegou a um certo grau de pureza. Domina-a um sent
 
 ---
 
-###### #️⃣ Q.980 {#q980}
+##### #️⃣ Q.980 {#q980}
 
 O laço de simpatia que une os Espíritos da mesma ordem constitui para eles uma fonte de felicidade?
 
@@ -1168,15 +1155,15 @@ Das primícias dessa felicidade goza o homem na Terra, quando se lhe deparam alm
 :::
 
 ::: expand 🔗
-🏷️ [Egoísmo](#egoísmo)
-🏷️ [Família](#família)
+🏷️ [Egoísmo](#egoismo)
+🏷️ [Família](#familia)
 🏷️ [Felicidade](#felicidade)
-🏷️ [União](#união)
+🏷️ [União](#uniao)
 :::
 
 ---
 
-###### #️⃣ Q.981 {#q981}
+##### #️⃣ Q.981 {#q981}
 
 Com relação ao estado futuro do Espírito, haverá diferença entre um que, em vida, teme a morte e outro que a encara com indiferença e mesmo com alegria?
 
@@ -1190,15 +1177,12 @@ Com relação ao estado futuro do Espírito, haverá diferença entre um que, em
 
 ---
 
-###### #️⃣ Q.982 {#q982}
+##### #️⃣ Q.982 {#q982}
 
 Será necessário que professemos o Espiritismo e creiamos nas manifestações espíritas, para termos assegurada a nossa sorte na vida futura?
 
 ::: spirit
-✨ ▸ Se assim fosse, seguir-se-ia que estariam deserdados todos os que não creem, ou que não tiveram ensejo de esclarecer-se, o que seria absurdo. Só o bem assegura a sorte futura. Ora, o bem é sempre o bem, qualquer que seja o caminho que a ele conduza.
-
-👉 Veja Q.165 a Q.799
-
+✨ ▸ Se assim fosse, seguir-se-ia que estariam deserdados todos os que não creem, ou que não tiveram ensejo de esclarecer-se, o que seria absurdo. Só o bem assegura a sorte futura. Ora, o bem é sempre o bem, qualquer que seja o caminho que a ele conduza. (👉 Veja [Q.165](#q165) a [Q.799](#q799)) 
 A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sobre certos pontos do futuro. Apressa o adiantamento dos indivíduos e das massas, porque faculta nos inteiremos do que seremos um dia. É um ponto de apoio, uma luz que nos guia. O Espiritismo ensina o homem a suportar as provas com paciência e resignação; afasta-o dos atos que possam retardar-lhe a felicidade, mas ninguém diz que, sem ele, não possa ela ser conseguida.
 :::
 
@@ -1211,23 +1195,19 @@ A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sob
 
 #### 4.02.05 📄 Penas temporais {#lde-4-02-05}
 
-###### #️⃣ Q.983 {#q983}
+##### #️⃣ Q.983 {#q983}
 
 Não experimenta sofrimentos materiais o Espírito que expia suas faltas em nova existência? Será então exato dizer-se que, depois da morte, só há para a alma sofrimentos morais?
 
 ::: spirit
 ✨ ▸ É bem verdade que, quando a alma está reencarnada, as tribulações da vida são-lhe um sofrimento; mas, só o corpo sofre materialmente.
 
-Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre isto exprime a realidade. Como Espírito, está isento de dores físicas; porém, tais sejam as faltas que tenha cometido, pode estar sujeito a dores morais mais agudas e pode vir a ser ainda mais desgraçado em nova existência. O mau rico terá que pedir esmola e se verá a braços com todas as privações oriundas da miséria; o orgulhoso, com todas as humilhações; o que abusa de sua autoridade e trata com desprezo e dureza os seus subordinados se verá forçado a obedecer a um superior mais ríspido do que ele o foi. Todas as penas e tribulações da vida são expiação das faltas de outra existência, quando não a consequência das da vida atual. Logo que daqui houverdes saído, compreendê-lo-eis.
-
-👉 Veja Q.273, Q.393 e Q.399
-
-O homem que se considera feliz na Terra, porque pode satisfazer às suas paixões, é o que menos esforços emprega para se melhorar. Muitas vezes começa a sua expiação já nessa mesma vida de efêmera felicidade, mas certamente expiará noutra existência tão material quanto aquela.
+Falando de alguém que morreu, costumais dizer que deixou de sofrer. Nem sempre isto exprime a realidade. Como Espírito, está isento de dores físicas; porém, tais sejam as faltas que tenha cometido, pode estar sujeito a dores morais mais agudas e pode vir a ser ainda mais desgraçado em nova existência. O mau rico terá que pedir esmola e se verá a braços com todas as privações oriundas da miséria; o orgulhoso, com todas as humilhações; o que abusa de sua autoridade e trata com desprezo e dureza os seus subordinados se verá forçado a obedecer a um superior mais ríspido do que ele o foi. Todas as penas e tribulações da vida são expiação das faltas de outra existência, quando não a consequência das da vida atual. Logo que daqui houverdes saído, compreendê-lo-eis. (👉 Veja [Q.273](#q273), [Q.393](#q393) e [Q.399](#q399)) O homem que se considera feliz na Terra, porque pode satisfazer às suas paixões, é o que menos esforços emprega para se melhorar. Muitas vezes começa a sua expiação já nessa mesma vida de efêmera felicidade, mas certamente expiará noutra existência tão material quanto aquela.
 :::
 
 ---
 
-###### #️⃣ Q.984 {#q984}
+##### #️⃣ Q.984 {#q984}
 
 As vicissitudes da vida são sempre a punição das faltas atuais?
 
@@ -1241,7 +1221,7 @@ As vicissitudes da vida são sempre a punição das faltas atuais?
 
 ---
 
-###### #️⃣ Q.985 {#q985}
+##### #️⃣ Q.985 {#q985}
 
 Constitui recompensa a reencarnação da alma em um mundo menos grosseiro?
 
@@ -1249,10 +1229,11 @@ Constitui recompensa a reencarnação da alma em um mundo menos grosseiro?
 ✨ ▸ É a consequência de sua depuração, porquanto, à medida que se vão depurando, os Espíritos passam a encarnar em mundos cada vez mais perfeitos, até que se tenham despojado totalmente da matéria e lavado de todas as impurezas, para eternamente gozarem da felicidade dos Espíritos puros, no seio de Deus.
 
 Nos mundos onde a existência é menos material do que neste, menos grosseiras são as necessidades e menos agudos os sofrimentos físicos. Lá, os homens desconhecem as paixões más, que, nos mundos inferiores, os fazem inimigos uns dos outros. Nenhum motivo tendo de ódio, ou de ciúme, vivem em paz, porque praticam a lei de justiça, amor e caridade. Não conhecem os aborrecimentos e cuidados que nascem da inveja, do orgulho e do egoísmo, causas do tormento da nossa existência terrestre.
+:::
 
-👉 Veja Q.172 e Q.182
+👉 Veja [Q.172](#q172) e [Q.182](#q182)
 
-###### #️⃣ Q.986 {#q986}
+##### #️⃣ Q.986 {#q986}
 
 Pode o Espírito, que progrediu em sua existência terrena, reencarnar alguma vez no mesmo mundo?
 
@@ -1261,15 +1242,15 @@ Pode o Espírito, que progrediu em sua existência terrena, reencarnar alguma ve
 :::
 
 ::: expand 🔗
-🏷️ [Espírito puro](#espírito-puro)
-🏷️ [Espírito(s)](#espíritos)
-🏷️ [Mundos evoluídos](#mundos-evoluídos)
-🏷️ [Reencarnação](#reencarnação)
+🏷️ [Espírito puro](#espirito-puro)
+🏷️ [Espírito(s)](#espiritos)
+🏷️ [Mundos evoluídos](#mundos-evoluidos)
+🏷️ [Reencarnação](#reencarnacao)
 :::
 
 ---
 
-###### #️⃣ Q.987 {#q987}
+##### #️⃣ Q.987 {#q987}
 
 Que sucede ao homem que, não fazendo o mal, também nada faz para libertar-se da influência da matéria?
 
@@ -1278,15 +1259,15 @@ Que sucede ao homem que, não fazendo o mal, também nada faz para libertar-se d
 :::
 
 ::: expand 🔗
-🏷️ [Encarnação](#encarnação)
-🏷️ [Esforço](#esforço)
-🏷️ [Evolução](#evolução)
+🏷️ [Encarnação](#encarnacao)
+🏷️ [Esforço](#esforco)
+🏷️ [Evolução](#evolucao)
 🏷️ [Homem](#homem)
 :::
 
 ---
 
-###### #️⃣ Q.988 {#q988}
+##### #️⃣ Q.988 {#q988}
 
 Há pessoas cuja vida se escoa em perfeita calma; que, nada precisando fazer por si mesmas, se conservam isentas de cuidados. Provará essa existência ditosa que elas nada têm que expiar de existência anterior?
 
@@ -1295,16 +1276,16 @@ Há pessoas cuja vida se escoa em perfeita calma; que, nada precisando fazer por
 :::
 
 ::: expand 🔗
-🏷️ [Aperfeiçoamento](#aperfeiçoamento)
+🏷️ [Aperfeiçoamento](#aperfeicoamento)
 🏷️ [Calma](#calma)
-🏷️ [Encarnação](#encarnação)
-🏷️ [Existência](#existência)
-🏷️ [Expiação](#expiação)
+🏷️ [Encarnação](#encarnacao)
+🏷️ [Existência](#existencia)
+🏷️ [Expiação](#expiacao)
 :::
 
 ---
 
-###### #️⃣ Q.989 {#q989}
+##### #️⃣ Q.989 {#q989}
 
 Pessoas há que, se bem não sejam positivamente más, tornam infelizes, pelos seus caracteres, todos os que as cercam. Que consequências lhes advirão disso?
 
@@ -1314,14 +1295,14 @@ Pessoas há que, se bem não sejam positivamente más, tornam infelizes, pelos s
 
 ::: expand 🔗
 🏷️ [Infelicidade](#infelicidade)
-🏷️ [Influenciação](#influenciação)
+🏷️ [Influenciação](#influenciacao)
 :::
 
 ---
 
 #### 4.02.06 📄 Expiação e arrependimento {#lde-4-02-06}
 
-###### #️⃣ Q.990 {#q990}
+##### #️⃣ Q.990 {#q990}
 
 O arrependimento se dá no estado corporal ou no estado espiritual?
 
@@ -1331,7 +1312,7 @@ O arrependimento se dá no estado corporal ou no estado espiritual?
 
 ---
 
-###### #️⃣ Q.991 {#q991}
+##### #️⃣ Q.991 {#q991}
 
 Qual a consequência do arrependimento no estado espiritual?
 
@@ -1341,12 +1322,12 @@ Qual a consequência do arrependimento no estado espiritual?
 
 ::: expand 🔗
 🏷️ [Arrependimento](#arrependimento)
-🏷️ [Reencarnação](#reencarnação)
+🏷️ [Reencarnação](#reencarnacao)
 :::
 
 ---
 
-###### #️⃣ Q.992 {#q992}
+##### #️⃣ Q.992 {#q992}
 
 Que consequência produz o arrependimento no estado corporal?
 
@@ -1356,12 +1337,12 @@ Que consequência produz o arrependimento no estado corporal?
 
 ::: expand 🔗
 🏷️ [Arrependimento](#arrependimento)
-🏷️ [Consciência](#consciência)
+🏷️ [Consciência](#consciencia)
 :::
 
 ---
 
-###### #️⃣ Q.993 {#q993}
+##### #️⃣ Q.993 {#q993}
 
 Não há homens que só têm o instinto do mal e são inacessíveis ao arrependimento?
 
@@ -1371,12 +1352,12 @@ Não há homens que só têm o instinto do mal e são inacessíveis ao arrependi
 
 ::: expand 🔗
 🏷️ [Arrependimento](#arrependimento)
-🏷️ [Espírito mau](#espírito-mau)
+🏷️ [Espírito mau](#espirito-mau)
 :::
 
 ---
 
-###### #️⃣ Q.994 {#q994}
+##### #️⃣ Q.994 {#q994}
 
 O homem perverso, que não reconheceu suas faltas durante a vida, sempre as reconhece depois da morte?
 
@@ -1390,7 +1371,7 @@ O homem perverso, que não reconheceu suas faltas durante a vida, sempre as reco
 
 ---
 
-###### #️⃣ Q.995 {#q995}
+##### #️⃣ Q.995 {#q995}
 
 Haverá Espíritos que, sem serem maus, se conservem indiferentes à sua sorte?
 
@@ -1399,20 +1380,21 @@ Haverá Espíritos que, sem serem maus, se conservem indiferentes à sua sorte?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 🏷️ [Progresso](#progresso)
 :::
 
 ---
 
-###### #️⃣ Q.995.a {#q995a}
+##### #️⃣ Q.995.a {#q995a}
 
 Não desejam esses Espíritos abreviar seus sofrimentos?
 
 ::: spirit
 ✨ ▸ Desejam-no, sem dúvida, mas falta-lhes energia bastante para quererem o que os pode aliviar. Quantos indivíduos se contam, entre vós, que preferem morrer de miséria a trabalhar?
+:::
 
-###### #️⃣ Q.996 {#q996}
+##### #️⃣ Q.996 {#q996}
 
 Pois que os Espíritos veem o mal que lhes resulta de suas imperfeições, como se explica que haja os que agravam suas situações e prolongam o estado de inferioridade em que se encontram, fazendo o mal como Espíritos, afastando do bom caminho os homens?
 
@@ -1421,32 +1403,28 @@ Pois que os Espíritos veem o mal que lhes resulta de suas imperfeições, como 
 :::
 
 ::: expand 🔗
-🏷️ [Preguiça](#preguiça)
+🏷️ [Preguiça](#preguica)
 :::
 
 ---
 
-###### #️⃣ Q.997 {#q997}
+##### #️⃣ Q.997 {#q997}
 
 Veem-se Espíritos, de notória inferioridade, acessíveis aos bons sentimentos e sensíveis às preces que por eles se fazem. Como se explica que outros Espíritos, que devêramos supor mais esclarecidos, revelem um endurecimento e um cinismo, dos quais coisa alguma consegue triunfar?
 
 ::: spirit
-✨ ▸ A prece só tem efeito sobre o Espírito que se arrepende. Com relação aos que, impelidos pelo orgulho, se revoltam contra Deus e persistem nos seus desvarios, chegando mesmo a exagerá-los, como o fazem alguns desgraçados Espíritos, a prece nada pode e nada poderá, senão no dia em que um clarão de arrependimento se produza neles.
-
-👉 Veja Q.664
-
-Não se deve perder de vista que o Espírito não se transforma subitamente, após a morte do corpo. Se viveu vida condenável, é porque era imperfeito. Ora, a morte não o torna imediatamente perfeito. Pode, pois, persistir em seus erros, em suas falsas opiniões, em seus preconceitos, até que se haja esclarecido pelo estudo, pela reflexão e pelo sofrimento.
+✨ ▸ A prece só tem efeito sobre o Espírito que se arrepende. Com relação aos que, impelidos pelo orgulho, se revoltam contra Deus e persistem nos seus desvarios, chegando mesmo a exagerá-los, como o fazem alguns desgraçados Espíritos, a prece nada pode e nada poderá, senão no dia em que um clarão de arrependimento se produza neles. (👉 Veja [Q.664](#q664)) Não se deve perder de vista que o Espírito não se transforma subitamente, após a morte do corpo. Se viveu vida condenável, é porque era imperfeito. Ora, a morte não o torna imediatamente perfeito. Pode, pois, persistir em seus erros, em suas falsas opiniões, em seus preconceitos, até que se haja esclarecido pelo estudo, pela reflexão e pelo sofrimento.
 :::
 
 ::: expand 🔗
-🏷️ [Espírito endurecido](#espírito-endurecido)
-🏷️ [Oração](#oração)
-🏷️ [Transformação](#transformação)
+🏷️ [Espírito endurecido](#espirito-endurecido)
+🏷️ [Oração](#oracao)
+🏷️ [Transformação](#transformacao)
 :::
 
 ---
 
-###### #️⃣ Q.998 {#q998}
+##### #️⃣ Q.998 {#q998}
 
 A expiação se cumpre no estado corporal ou no estado espiritual?
 
@@ -1455,12 +1433,12 @@ A expiação se cumpre no estado corporal ou no estado espiritual?
 :::
 
 ::: expand 🔗
-🏷️ [Expiação](#expiação)
+🏷️ [Expiação](#expiacao)
 :::
 
 ---
 
-###### #️⃣ Q.999 {#q999}
+##### #️⃣ Q.999 {#q999}
 
 Basta o arrependimento durante a vida para que as faltas do Espírito se apaguem e ele ache graça diante de Deus?
 
@@ -1470,12 +1448,12 @@ Basta o arrependimento durante a vida para que as faltas do Espírito se apaguem
 
 ::: expand 🔗
 🏷️ [Arrependimento](#arrependimento)
-🏷️ [Expiação](#expiação)
+🏷️ [Expiação](#expiacao)
 :::
 
 ---
 
-###### #️⃣ Q.999.a {#q999a}
+##### #️⃣ Q.999.a {#q999a}
 
 Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, expiar o seu passado, nenhuma necessidade tem de se arrepender, que é o que daí lhe resultaria?
 
@@ -1489,12 +1467,12 @@ Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, expiar
 
 ---
 
-###### #️⃣ Q.1000 {#q1000}
+##### #️⃣ Q.1000 {#q1000}
 
 Já desde esta vida poderemos ir resgatando as nossas faltas?
 
 ::: spirit
-✨ ▸ Sim, reparando-as; mas não creiais que as resgateis mediante algumas privações pueris, ou distribuindo em esmolas o que possuirdes, depois que morrerdes, quando de nada mais precisais. Deus não dá valor a um arrependimento estéril, sempre fácil e que apenas custa o esforço de bater no peito. A perda de um dedo mínimo, quando se esteja prestando um serviço, apaga mais faltas do que o suplício da carne suportado durante anos, com objetivo exclusivamente **pessoal**. (👉 [Q.726](#q726)).
+✨ ▸ Sim, reparando-as; mas não creiais que as resgateis mediante algumas privações pueris, ou distribuindo em esmolas o que possuirdes, depois que morrerdes, quando de nada mais precisais. Deus não dá valor a um arrependimento estéril, sempre fácil e que apenas custa o esforço de bater no peito. A perda de um dedo mínimo, quando se esteja prestando um serviço, apaga mais faltas do que o suplício da carne suportado durante anos, com objetivo exclusivamente **pessoal**. (👉 Veja [Q.726](#q726)).
 
 Só por meio do bem se repara o mal e a reparação nenhum mérito apresenta, se não atinge o homem **nem no seu orgulho, nem nos seus interesses materiais.**
 
@@ -1508,14 +1486,14 @@ De que lhe serve, finalmente, humilhar-se diante de Deus se, perante os homens, 
 ::: expand 🔗
 🏷️ [Bens terrenos](#bens-terrenos)
 🏷️ [Orgulho](#orgulho)
-🏷️ [Privação](#privação)
-🏷️ [Reparação](#reparação)
+🏷️ [Privação](#privacao)
+🏷️ [Reparação](#reparacao)
 🏷️ [Resgate](#resgate)
 :::
 
 ---
 
-###### #️⃣ Q.1001 {#q1001}
+##### #️⃣ Q.1001 {#q1001}
 
 Nenhum mérito haverá em assegurarmos, para depois de nossa morte, emprego útil aos bens que possuímos?
 
@@ -1525,13 +1503,13 @@ Nenhum mérito haverá em assegurarmos, para depois de nossa morte, emprego úti
 
 ::: expand 🔗
 🏷️ [Bens terrenos](#bens-terrenos)
-🏷️ [Doação](#doação)
-🏷️ [Privação](#privação)
+🏷️ [Doação](#doacao)
+🏷️ [Privação](#privacao)
 :::
 
 ---
 
-###### #️⃣ Q.1002 {#q1002}
+##### #️⃣ Q.1002 {#q1002}
 
 Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já não tem tempo de as reparar? Basta-lhe nesse caso arrepender-se?
 
@@ -1541,14 +1519,14 @@ Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já
 
 ::: expand 🔗
 🏷️ [Arrependimento](#arrependimento)
-🏷️ [Reabilitação](#reabilitação)
+🏷️ [Reabilitação](#reabilitacao)
 :::
 
 ---
 
 #### 4.02.07 📄 Duração das penas futuras {#lde-4-02-07}
 
-###### #️⃣ Q.1003 {#q1003}
+##### #️⃣ Q.1003 {#q1003}
 
 É arbitrária ou sujeita a uma lei qualquer a duração dos sofrimentos do culpado, na vida futura?
 
@@ -1558,19 +1536,19 @@ Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já
 
 ---
 
-###### #️⃣ Q.1004 {#q1004}
+##### #️⃣ Q.1004 {#q1004}
 
 Em que se baseia a duração dos sofrimentos do culpado?
 
 ::: spirit
 ✨ ▸ No tempo necessário a que se melhore. Sendo o estado de sofrimento ou de felicidade proporcionado ao grau de purificação do Espírito, a duração e a natureza de seus sofrimentos dependem do tempo que ele gaste em melhorar-se. À medida que progride e que os sentimentos se lhe depuram, seus sofrimentos diminuem e mudam de natureza.
 
-São Luís, IX de França
+**São Luís, IX de França**
 :::
 
 ---
 
-###### #️⃣ Q.1005 {#q1005}
+##### #️⃣ Q.1005 {#q1005}
 
 Ao Espírito sofredor, o tempo se afigura tão ou menos longo do que quando estava vivo?
 
@@ -1579,62 +1557,64 @@ Ao Espírito sofredor, o tempo se afigura tão ou menos longo do que quando esta
 :::
 
 ::: expand 🔗
-🏷️ [Luís (São)](#luís-são)
+🏷️ [Luís (São)](#luis-sao)
 🏷️ [Sofrimento](#sofrimento)
 :::
 
 ---
 
-###### #️⃣ Q.1006 {#q1006}
+##### #️⃣ Q.1006 {#q1006}
 
 Poderão durar eternamente os sofrimentos do Espírito?
 
 ::: spirit
 ✨ ▸ Poderiam, se ele pudesse ser eternamente mau, isto é, se jamais se arrependesse e melhorasse, sofreria eternamente. Deus, porém, não criou seres tendo por destino permanecerem votados perpetuamente ao mal. Apenas os criou a todos simples e ignorantes, tendo todos, no entanto, que progredir em tempo mais ou menos longo, conforme decorrer da vontade de cada um. Mais ou menos tardia pode ser a vontade, do mesmo modo que há crianças mais ou menos precoces, porém, cedo ou tarde, ela aparece, por efeito da irresistível necessidade que o Espírito sente de sair da inferioridade e de se tornar feliz. Eminentemente sábia e magnânima é, pois, a lei que rege a duração das penas, porquanto subordina essa duração aos esforços do Espírito. Jamais o priva do seu livre-arbítrio: se deste faz ele mau uso, sofre as consequências.
 
-São Luís, IX de França
+**São Luís, IX de França**
 :::
 
 ---
 
-###### #️⃣ Q.1007 {#q1007}
+##### #️⃣ Q.1007 {#q1007}
 
 Haverá Espíritos que nunca se arrependem?
 
 ::: spirit
 ✨ ▸ Há os de arrependimento muito tardio; porém, pretender-se que nunca se melhorarão fora negar a lei do progresso e dizer que a criança não pode tornar-se homem.
 
-São Luís, IX de França
+**São Luís, IX de França**
 :::
 
 ---
 
-###### #️⃣ Q.1008 {#q1008}
+##### #️⃣ Q.1008 {#q1008}
 
 Depende sempre da vontade do Espírito a duração das penas? Algumas não haverá que lhe sejam impostas por tempo determinado?
 
 ::: spirit
 ✨ ▸ Sim, ao Espírito podem ser impostas penas por determinado tempo; mas Deus, que só quer o bem de suas criaturas, acolhe sempre o arrependimento, e infrutífero jamais fica o desejo que o Espírito manifeste de se melhorar.
 
-São Luís, IX de França
+**São Luís, IX de França**
 :::
 
 ---
 
-###### #️⃣ Q.1009 {#q1009}
+##### #️⃣ Q.1009 {#q1009}
 
 Assim, as penas impostas jamais o são por toda a eternidade?
 
 ::: spirit
 ✨ ▸ Interrogai o vosso bom senso, a vossa razão e perguntai-lhes se uma condenação perpétua, motivada por alguns momentos de erro, não seria a negação da bondade de Deus. Que é, com efeito, a duração da vida, ainda quando de cem anos, em face da eternidade? Eternidade! Compreendeis bem esta palavra? Sofrimentos, torturas sem-fim, sem esperanças, por causa de algumas faltas! O vosso juízo não repele semelhante ideia? Que os antigos tenham considerado o Senhor do Universo um Deus terrível, cioso e vingativo, concebe-se. Na ignorância em que se achavam, atribuíam à divindade as paixões dos homens. Esse, todavia, não é o Deus dos cristãos, que classifica como virtudes primordiais o amor, a caridade, a misericórdia, o esquecimento das ofensas. Poderia Ele carecer das qualidades, cuja posse prescreve, como um dever, às suas criaturas? Não haverá contradição em se lhe atribuir a bondade infinita e a vingança também infinita? Dizeis que, acima de tudo, Ele é justo e que o homem não lhe compreende a justiça, mas a justiça não exclui a bondade e Ele não seria bom se condenasse a eternas e horríveis penas a maioria das suas criaturas. Teria o direito de fazer da justiça uma obrigação para seus filhos, se lhes não desse meio de compreendê-la? Aliás, no fazer que a duração das penas dependa dos esforços do culpado não está toda a sublimidade da justiça unida à bondade? Aí é que se encontra a verdade desta sentença:
+:::
 
 ::: bible
 ✝️ ▸ *A cada um segundo as suas obras.*
 
-Romanos, cap. 2, vers. 6, ARC
+**Romanos, cap. 2, vers. 6, ARC**
 :::
 
-Santo Agostinho
+::: spirit
+**Santo Agostinho**
 :::
 
 ::: spirit
@@ -1642,13 +1622,13 @@ Santo Agostinho
 
 Pobres ovelhas desgarradas, aprendei a ver aproximar-se de vós o Bom Pastor, que, longe de vos banir para todo o sempre de sua presença, vem pessoalmente ao vosso encontro, para vos reconduzir ao aprisco. Filhos pródigos, deixai o vosso voluntário exílio; encaminhai vossos passos para a morada paterna. O Pai vos estende os braços e está sempre pronto a festejar o vosso regresso ao seio da família.
 
-Lamennais
+**Lamennais**
 :::
 
 ::: spirit
 ✨ ▸ Guerras de palavras! guerras de palavras! Ainda não basta o sangue que tendes feito correr! Será ainda preciso que se reacendam as fogueiras? Discutem sobre palavras: eternidade das penas, eternidade dos castigos. Ignorais então que o que hoje entendeis por **eternidade** não é o que os antigos entendiam e designavam por esse termo? Consulte o teólogo as fontes e lá descobrirá, como todos vós, que o texto hebreu não atribuía esta significação ao vocábulo que os gregos, os latinos e os modernos traduziram por **penas sem-fim, irremissíveis**. Eternidade dos castigos corresponde à eternidade do mal. Sim, enquanto existir o mal entre os homens, os castigos subsistirão. Importa que os textos sagrados se interpretem no sentido relativo. A eternidade das penas é, pois, relativa e não absoluta. Chegue o dia em que todos os homens, pelo arrependimento, se revistam da túnica da inocência e desde esse dia deixará de haver gemidos e ranger de dentes. Limitada tendes, é certo, a vossa razão humana, porém, tal como a tendes, ela é uma dádiva de Deus e, com o auxílio dessa razão, nenhum homem de boa-fé haverá que de outra forma compreenda a eternidade dos castigos. Pois quê! Fora necessário admitir-se por eterno o mal. Somente Deus é eterno e não poderia ter criado o mal eterno; do contrário, forçoso seria tirar-se-lhe o mais magnífico dos seus atributos: o soberano poder, porquanto não é soberanamente poderoso aquele que cria um elemento destruidor de suas obras. Humanidade! Humanidade! não mergulhes mais os teus tristes olhares nas profundezas da Terra, procurando aí os castigos. Chora, espera, expia e refugia-te na ideia de um Deus intrinsecamente bom, absolutamente poderoso, essencialmente justo.
 
-Platão
+**Platão**
 :::
 
 ::: spirit
@@ -1660,7 +1640,7 @@ Que é o castigo? A consequência natural, derivada desse falso movimento; uma c
 
 Oh! em verdade vos digo, cessai, cessai de pôr em paralelo, na sua eternidade, o Bem, essência do Criador, com o Mal, essência da criatura. Fora criar uma penalidade injustificável. Afirmai, ao contrário, o abrandamento gradual dos castigos e das penas pelas transmigrações e consagrareis a unidade divina, tendo unidos o sentimento e a razão.
 
-Paulo, apóstolo
+**Paulo, apóstolo**
 :::
 
 ::: spirit
@@ -1672,12 +1652,12 @@ Outra contradição. Pois que Deus tudo sabe, sabia, ao criar uma alma, se esta 
 
 Na linguagem vulgar, a palavra eterno é muitas vezes empregada figuradamente, para designar uma coisa de longa duração, cujo termo não se prevê, embora se saiba muito bem que esse termo existe. Dizemos, por exemplo, os gelos eternos das altas montanhas, dos polos, embora saibamos, de um lado, que o mundo físico pode ter fim e, de outro lado, que o estado dessas regiões pode mudar pelo deslocamento normal do eixo da Terra, ou por um cataclismo. Assim, neste caso, o vocábulo eterno não quer dizer perpétuo ao infinito. Quando sofremos de uma enfermidade duradoura, dizemos que o nosso mal é eterno. Que há, pois, de admirar em que Espíritos que sofrem há anos, há séculos, há milênios mesmo, assim também se exprimam? Não esqueçamos, principalmente, que, não lhes permitindo a sua inferioridade divisar o ponto extremo do caminho, creem que terão de sofrer sempre, o que lhes é uma punição.
 
-Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra **fogo** é usada figuradamente e que se deve entender como significando ogo moral (👉 Veja Q.974). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra **eterno** se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá.
+Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra **fogo** é usada figuradamente e que se deve entender como significando ogo moral (👉 Veja [Q.974](#q974)). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra **eterno** se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá.
 :::
 
 ::: expand 🔗
-🏷️ [Evolução](#evolução)
-🏷️ [Luís (São)](#luís-são)
+🏷️ [Evolução](#evolucao)
+🏷️ [Luís (São)](#luis-sao)
 🏷️ [Penas eternas](#penas-eternas)
 🏷️ [Sofrimento](#sofrimento)
 :::
@@ -1686,7 +1666,7 @@ Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao T
 
 #### 4.02.08 📄 Ressurreição da carne {#lde-4-02-08}
 
-###### #️⃣ Q.1010 {#q1010}
+##### #️⃣ Q.1010 {#q1010}
 
 O dogma da ressurreição da carne será a consagração da reencarnação ensinada pelos Espíritos?
 
@@ -1696,14 +1676,14 @@ O dogma da ressurreição da carne será a consagração da reencarnação ensin
 
 ---
 
-###### #️⃣ Q.1011 {#q1011}
+##### #️⃣ Q.1011 {#q1011}
 
 Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrina da reencarnação? [^25]
 
 ::: spirit
 ✨ ▸ É evidente. Ademais, essa doutrina decorre de muitas coisas que têm passado despercebidas e que dentro em pouco se compreenderão neste sentido. Reconhecer-se-á em breve que o Espiritismo ressalta a cada passo do texto mesmo das Escrituras sagradas. Os Espíritos, portanto, não vêm subverter a religião, como alguns o pretendem. Vêm, ao contrário, confirmá-la, sancioná-la por provas irrecusáveis. Como, porém, são chegados os tempos de não mais empregarem linguagem figurada, eles se exprimem sem alegorias e dão às coisas sentido claro e preciso, que não possa estar sujeito a qualquer interpretação falsa. Eis por que, daqui a algum tempo, muito maior será do que é hoje o número de pessoas sinceramente religiosas e crentes.
 
-São Luís, IX de França
+**São Luís, IX de França**
 :::
 
 Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a matéria e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do fenômeno da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
@@ -1715,7 +1695,7 @@ Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo 
 
 #### 4.02.09 📄 Paraíso, inferno e purgatório {#lde-4-02-09}
 
-###### #️⃣ Q.1012 {#q1012}
+##### #️⃣ Q.1012 {#q1012}
 
 Haverá no Universo lugares circunscritos para as penas e gozos dos Espíritos, segundo seus merecimentos?
 
@@ -1725,7 +1705,7 @@ Haverá no Universo lugares circunscritos para as penas e gozos dos Espíritos, 
 
 ---
 
-###### #️⃣ Q.1012.a {#q1012a}
+##### #️⃣ Q.1012.a {#q1012a}
 
 De acordo, então, com o que vindes de dizer, o inferno e o paraíso não existem, tais como o homem os imagina?
 
@@ -1737,7 +1717,7 @@ A localização absoluta das regiões das penas e das recompensas só na imagina
 
 ---
 
-###### #️⃣ Q.1013 {#q1013}
+##### #️⃣ Q.1013 {#q1013}
 
 Que se deve entender por purgatório?
 
@@ -1748,12 +1728,12 @@ O que o homem chama **purgatório** é igualmente uma alegoria, devendo-se enten
 :::
 
 ::: expand 🔗
-🏷️ [Purgatório](#purgatório)
+🏷️ [Purgatório](#purgatorio)
 :::
 
 ---
 
-###### #️⃣ Q.1014 {#q1014}
+##### #️⃣ Q.1014 {#q1014}
 
 Como se explica que Espíritos, cuja superioridade se revela na linguagem de que usam, tenham respondido a pessoas muito sérias, a respeito do inferno e do purgatório, de conformidade com as ideias correntes?
 
@@ -1767,7 +1747,7 @@ Como se explica que Espíritos, cuja superioridade se revela na linguagem de que
 
 ---
 
-###### #️⃣ Q.1014.a {#q1014a}
+##### #️⃣ Q.1014.a {#q1014a}
 
 Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, porém, se explica que, interrogados acerca da situação em que se achavam, alguns Espíritos tenham respondido que sofriam as torturas do inferno ou do purgatório?
 
@@ -1777,7 +1757,7 @@ Concebe-se que assim procedam os Espíritos que nos querem instruir. Como, poré
 
 ---
 
-###### #️⃣ Q.1015 {#q1015}
+##### #️⃣ Q.1015 {#q1015}
 
 Que se deve entender por uma alma a penar?
 
@@ -1791,7 +1771,7 @@ Que se deve entender por uma alma a penar?
 
 ---
 
-###### #️⃣ Q.1016 {#q1016}
+##### #️⃣ Q.1016 {#q1016}
 
 Em que sentido se deve entender a palavra **céu**?
 
@@ -1800,12 +1780,12 @@ Em que sentido se deve entender a palavra **céu**?
 :::
 
 ::: expand 🔗
-🏷️ [Céu](#céu)
+🏷️ [Céu](#ceu)
 :::
 
 ---
 
-###### #️⃣ Q.1017 {#q1017}
+##### #️⃣ Q.1017 {#q1017}
 
 Alguns Espíritos disseram estar habitando o quarto, o quinto céus etc. Que queriam dizer com isso?
 
@@ -1818,14 +1798,14 @@ De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das 
 :::
 
 ::: expand 🔗
-🏷️ [Céu](#céu)
+🏷️ [Céu](#ceu)
 🏷️ [Inferno](#inferno)
-🏷️ [Purgatório](#purgatório)
+🏷️ [Purgatório](#purgatorio)
 :::
 
 ---
 
-###### #️⃣ Q.1018 {#q1018}
+##### #️⃣ Q.1018 {#q1018}
 
 Em que sentido se devem entender estas palavras do Cristo: Meu Reino não é deste mundo?
 
@@ -1839,7 +1819,7 @@ Em que sentido se devem entender estas palavras do Cristo: Meu Reino não é des
 
 ---
 
-###### #️⃣ Q.1019 {#q1019}
+##### #️⃣ Q.1019 {#q1019}
 
 Poderá jamais implantar-se na Terra o reinado do bem?
 
@@ -1850,7 +1830,8 @@ Predita foi a transformação da Humanidade e vos avizinhais do momento em que s
 
 Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e zelo na grande obra da regeneração, que colhereis pelo cêntuplo o grão que houverdes semeado. Ai dos que fecham os olhos à luz! Preparam para si mesmos longos séculos de trevas e decepções. Ai dos que fazem dos bens deste mundo a fonte de todas as suas alegrias! Terão que sofrer privações muito mais numerosas do que os gozos de que desfrutaram! Ai, sobretudo, dos egoístas! Não acharão quem os ajude a carregar o fardo de suas misérias.
 
-São Luís, IX de França
+**São Luís, IX de França**
 :::
 
 ---
+

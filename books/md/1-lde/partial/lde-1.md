@@ -5,7 +5,7 @@
 
 #### 1.01.01 📄 Deus e o infinito {#lde-1-01-01}
 
-###### #️⃣ Q.1 {#q1}
+##### #️⃣ Q.1 {#q1}
 
 O que é Deus?
 
@@ -15,7 +15,7 @@ O que é Deus?
 
 ---
 
-###### #️⃣ Q.2 {#q2}
+##### #️⃣ Q.2 {#q2}
 
 Que se deve entender por infinito?
 
@@ -29,7 +29,7 @@ Que se deve entender por infinito?
 
 ---
 
-###### #️⃣ Q.3 {#q3}
+##### #️⃣ Q.3 {#q3}
 
 Poder-se-ia dizer que Deus é o infinito?
 
@@ -50,7 +50,7 @@ Poder-se-ia dizer que Deus é o infinito?
 
 #### 1.01.02 📄 Provas da existência de Deus {#lde-1-01-02}
 
-###### #️⃣ Q.4 {#q4}
+##### #️⃣ Q.4 {#q4}
 
 Onde se pode encontrar a prova da existência de Deus?
 
@@ -64,7 +64,7 @@ Onde se pode encontrar a prova da existência de Deus?
 
 ---
 
-###### #️⃣ Q.5 {#q5}
+##### #️⃣ Q.5 {#q5}
 
 Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?
 
@@ -78,7 +78,7 @@ Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem
 
 ---
 
-###### #️⃣ Q.6 {#q6}
+##### #️⃣ Q.6 {#q6}
 
 O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?
 
@@ -97,7 +97,7 @@ O sentimento íntimo que temos da existência de Deus não poderia ser fruto da 
 
 ---
 
-###### #️⃣ Q.7 {#q7}
+##### #️⃣ Q.7 {#q7}
 
 Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
 
@@ -110,12 +110,12 @@ Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da for
 :::
 
 ::: expand 🔗
-🏷️ [Matéria](#matéria)
+🏷️ [Matéria](#materia)
 :::
 
 ---
 
-###### #️⃣ Q.8 {#q8}
+##### #️⃣ Q.8 {#q8}
 
 Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?
 
@@ -133,7 +133,7 @@ Que se deve pensar da opinião dos que atribuem a formação primária a uma com
 
 ---
 
-###### #️⃣ Q.9 {#q9}
+##### #️⃣ Q.9 {#q9}
 
 Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?
 
@@ -155,7 +155,7 @@ Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela 
 
 #### 1.01.03 📄 Atributos da Divindade {#lde-1-01-03}
 
-###### #️⃣ Q.10 {#q10}
+##### #️⃣ Q.10 {#q10}
 
 Pode o homem compreender a natureza íntima de Deus?
 
@@ -165,7 +165,7 @@ Pode o homem compreender a natureza íntima de Deus?
 
 ---
 
-###### #️⃣ Q.11 {#q11}
+##### #️⃣ Q.11 {#q11}
 
 Será dado um dia ao homem compreender o mistério da Divindade?
 
@@ -178,13 +178,13 @@ Será dado um dia ao homem compreender o mistério da Divindade?
 :::
 
 ::: expand 🔗
-🏷️ [Compreensão](#compreensão)
+🏷️ [Compreensão](#compreensao)
 🏷️ [Deus](#deus)
 :::
 
 ---
 
-###### #️⃣ Q.12 {#q12}
+##### #️⃣ Q.12 {#q12}
 
 Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?
 
@@ -198,7 +198,7 @@ Embora não possamos compreender a natureza íntima de Deus, podemos formar idé
 
 ---
 
-###### #️⃣ Q.13 {#q13}
+##### #️⃣ Q.13 {#q13}
 
 Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
 
@@ -229,7 +229,7 @@ Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipo
 
 #### 1.01.04 📄 Panteísmo {#lde-1-01-04}
 
-###### #️⃣ Q.14 {#q14}
+##### #️⃣ Q.14 {#q14}
 
 Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
 
@@ -239,7 +239,7 @@ Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as 
 
 ---
 
-###### #️⃣ Q.15 {#q15}
+##### #️⃣ Q.15 {#q15}
 
 Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?
 
@@ -249,12 +249,12 @@ Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos
 
 ::: expand 🔗
 🏷️ [Criatura](#criatura)
-🏷️ [Panteísmo](#panteísmo)
+🏷️ [Panteísmo](#panteismo)
 :::
 
 ---
 
-###### #️⃣ Q.16 {#q16}
+##### #️⃣ Q.16 {#q16}
 
 Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenônemo da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?
 
@@ -270,8 +270,8 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 
 ::: expand 🔗
 🏷️ [Deus](#deus)
-🏷️ [Panteísmo](#panteísmo)
-🏷️ [Razão](#razão)
+🏷️ [Panteísmo](#panteismo)
+🏷️ [Razão](#razao)
 :::
 
 ---
@@ -280,7 +280,7 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 
 #### 1.02.01 📄 Conhecimento do princípio das coisas {#lde-1-02-01}
 
-###### #️⃣ Q.17 {#q17}
+##### #️⃣ Q.17 {#q17}
 
 É dado ao homem conhecer o princípio das coisas?
 
@@ -290,7 +290,7 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 
 ---
 
-###### #️⃣ Q.18 {#q18}
+##### #️⃣ Q.18 {#q18}
 
 Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 
@@ -299,12 +299,12 @@ Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 :::
 
 ::: expand 🔗
-🏷️ [Mistério](#mistério)
+🏷️ [Mistério](#misterio)
 :::
 
 ---
 
-###### #️⃣ Q.19 {#q19}
+##### #️⃣ Q.19 {#q19}
 
 Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?
 
@@ -317,13 +317,13 @@ Não pode o homem, pelas investigações científicas, penetrar alguns dos segre
 :::
 
 ::: expand 🔗
-🏷️ [Ciência](#ciência)
-🏷️ [Mistério](#mistério)
+🏷️ [Ciência](#ciencia)
+🏷️ [Mistério](#misterio)
 :::
 
 ---
 
-###### #️⃣ Q.20 {#q20}
+##### #️⃣ Q.20 {#q20}
 
 Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
 
@@ -337,14 +337,14 @@ Dado é ao homem receber, sem ser por meio das investigações da Ciência, comu
 
 ::: expand 🔗
 🏷️ [Conhecimento](#conhecimento)
-🏷️ [Revelação](#revelação)
+🏷️ [Revelação](#revelacao)
 :::
 
 ---
 
 #### 1.02.02 📄 Espírito e Matéria {#lde-1-02-02}
 
-###### #️⃣ Q.21 {#q21}
+##### #️⃣ Q.21 {#q21}
 
 A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
 
@@ -354,7 +354,7 @@ A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em d
 
 ---
 
-###### #️⃣ Q.22 {#q22}
+##### #️⃣ Q.22 {#q22}
 
 Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
 
@@ -363,12 +363,12 @@ Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos 
 :::
 
 ::: expand 🔗
-🏷️ [Matéria](#matéria)
+🏷️ [Matéria](#materia)
 :::
 
 ---
 
-###### #️⃣ Q.22.a {#q22a}
+##### #️⃣ Q.22.a {#q22a}
 
 Que definição podeis dar da matéria?
 
@@ -381,12 +381,12 @@ Que definição podeis dar da matéria?
 :::
 
 ::: expand 🔗
-🏷️ [Matéria](#matéria)
+🏷️ [Matéria](#materia)
 :::
 
 ---
 
-###### #️⃣ Q.23 {#q23}
+##### #️⃣ Q.23 {#q23}
 
 Que é o espírito?
 
@@ -395,12 +395,12 @@ Que é o espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 :::
 
 ---
 
-###### #️⃣ Q.23.a {#q23a}
+##### #️⃣ Q.23.a {#q23a}
 
 Qual a natureza íntima do espírito?
 
@@ -414,7 +414,7 @@ Qual a natureza íntima do espírito?
 
 ---
 
-###### #️⃣ Q.24 {#q24}
+##### #️⃣ Q.24 {#q24}
 
 É o espírito sinônimo de inteligência?
 
@@ -423,13 +423,13 @@ Qual a natureza íntima do espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espíritos)
-🏷️ [Inteligência](#inteligência)
+🏷️ [Espírito(s)](#espiritos)
+🏷️ [Inteligência](#inteligencia)
 :::
 
 ---
 
-###### #️⃣ Q.25 {#q25}
+##### #️⃣ Q.25 {#q25}
 
 O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
 
@@ -438,13 +438,13 @@ O espírito independe da matéria, ou é apenas uma propriedade desta, como as c
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espíritos)
-🏷️ [Matéria](#matéria)
+🏷️ [Espírito(s)](#espiritos)
+🏷️ [Matéria](#materia)
 :::
 
 ---
 
-###### #️⃣ Q.25.a {#q25a}
+##### #️⃣ Q.25.a {#q25a}
 
 Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
 
@@ -453,12 +453,12 @@ Essa união é igualmente necessária para a manifestação do espírito? (Enten
 :::
 
 ::: expand 🔗
-🏷️ [Percepção](#percepção)
+🏷️ [Percepção](#percepcao)
 :::
 
 ---
 
-###### #️⃣ Q.26 {#q26}
+##### #️⃣ Q.26 {#q26}
 
 Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
 
@@ -467,12 +467,12 @@ Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Percepção](#percepção)
+🏷️ [Percepção](#percepcao)
 :::
 
 ---
 
-###### #️⃣ Q.27 {#q27}
+##### #️⃣ Q.27 {#q27}
 
 Há então dois elementos gerais do Universo: a matéria e o espírito?
 
@@ -481,15 +481,15 @@ Há então dois elementos gerais do Universo: a matéria e o espírito?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 🏷️ [Fluido universal](#fluido-universal)
-🏷️ [Matéria](#matéria)
+🏷️ [Matéria](#materia)
 🏷️ [Pensamento](#pensamento)
 :::
 
 ---
 
-###### #️⃣ Q.27.a {#q27a}
+##### #️⃣ Q.27.a {#q27a}
 
 Esse fluido será o que designamos pelo nome de eletricidade?
 
@@ -504,7 +504,7 @@ Esse fluido será o que designamos pelo nome de eletricidade?
 
 ---
 
-###### #️⃣ Q.28 {#q28}
+##### #️⃣ Q.28 {#q28}
 
 Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
 
@@ -518,14 +518,14 @@ Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos suje
 
 ::: expand 🔗
 🏷️ [Linguagem](#linguagem)
-🏷️ [Princípio inteligente](#princípio-inteligente)
+🏷️ [Princípio inteligente](#principio-inteligente)
 :::
 
 ---
 
 #### 1.02.03 📄 Propriedades da Matéria {#lde-1-02-03}
 
-###### #️⃣ Q.29 {#q29}
+##### #️⃣ Q.29 {#q29}
 
 A ponderabilidade é um atributo essencial da matéria?
 
@@ -535,7 +535,7 @@ A ponderabilidade é um atributo essencial da matéria?
 
 A gravidade é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo.
 
-###### #️⃣ Q.30 {#q30}
+##### #️⃣ Q.30 {#q30}
 
 A matéria é formada de um só ou de muitos elementos?
 
@@ -545,7 +545,7 @@ A matéria é formada de um só ou de muitos elementos?
 
 ---
 
-###### #️⃣ Q.31 {#q31}
+##### #️⃣ Q.31 {#q31}
 
 Donde se originam as diversas propriedades da matéria?
 
@@ -555,7 +555,7 @@ Donde se originam as diversas propriedades da matéria?
 
 ---
 
-###### #️⃣ Q.32 {#q32}
+##### #️⃣ Q.32 {#q32}
 
 De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
 
@@ -569,7 +569,7 @@ De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as 
 
 ---
 
-###### #️⃣ Q.33 {#q33}
+##### #️⃣ Q.33 {#q33}
 
 A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
 
@@ -582,12 +582,12 @@ A mesma matéria elementar é suscetível de experimentar todas as modificaçõe
 :::
 
 ::: expand 🔗
-🏷️ [Matéria](#matéria)
+🏷️ [Matéria](#materia)
 :::
 
 ---
 
-###### #️⃣ Q.33.a {#q33a}
+##### #️⃣ Q.33.a {#q33a}
 
 Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 
@@ -596,12 +596,12 @@ Não parece que esta teoria dá razão aos que não admitem na matéria senão d
 :::
 
 ::: expand 🔗
-🏷️ [Matéria](#matéria)
+🏷️ [Matéria](#materia)
 :::
 
 ---
 
-###### #️⃣ Q.34 {#q34}
+##### #️⃣ Q.34 {#q34}
 
 As moléculas têm forma determinada?
 
@@ -610,13 +610,13 @@ As moléculas têm forma determinada?
 :::
 
 ::: expand 🔗
-🏷️ [Matéria](#matéria)
-🏷️ [Molécula](#molécula)
+🏷️ [Matéria](#materia)
+🏷️ [Molécula](#molecula)
 :::
 
 ---
 
-###### #️⃣ Q.34.a {#q34a}
+##### #️⃣ Q.34.a {#q34a}
 
 Essa forma é constante ou variável?
 
@@ -625,14 +625,14 @@ Essa forma é constante ou variável?
 :::
 
 ::: expand 🔗
-🏷️ [Molécula](#molécula)
+🏷️ [Molécula](#molecula)
 :::
 
 ---
 
 #### 1.02.04 📄 Espaço universal {#lde-1-02-04}
 
-###### #️⃣ Q.35 {#q35}
+##### #️⃣ Q.35 {#q35}
 
 O Espaço universal é infinito ou limitado?
 
@@ -646,7 +646,7 @@ O Espaço universal é infinito ou limitado?
 
 ---
 
-###### #️⃣ Q.36 {#q36}
+##### #️⃣ Q.36 {#q36}
 
 O vácuo absoluto existe em alguma parte no Espaço universal?
 
@@ -655,8 +655,8 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 :::
 
 ::: expand 🔗
-🏷️ [Espaço](#espaço)
-🏷️ [Vácuo](#vácuo)
+🏷️ [Espaço](#espaco)
+🏷️ [Vácuo](#vacuo)
 :::
 
 ---
@@ -671,7 +671,7 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 
 ---
 
-###### #️⃣ Q.37 {#q37}
+##### #️⃣ Q.37 {#q37}
 
 O Universo foi criado, ou existe de toda a eternidade, como Deus?
 
@@ -685,23 +685,23 @@ O Universo foi criado, ou existe de toda a eternidade, como Deus?
 
 ---
 
-###### #️⃣ Q.38 {#q38}
+##### #️⃣ Q.38 {#q38}
 
 Como criou Deus o Universo?
 
 ::: spirit
 ✨ ▸ Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras:
+:::
 
 ::: bible
 ✝️ ▸ Deus disse: Faça-se a luz e a luz foi feita.
   
-Gênesis, cap. 1, vers. 3, ARC
-:::
+**Gênesis, cap. 1, vers. 3, ARC**
 :::
 
 ---
 
-###### #️⃣ Q.39 {#q39}
+##### #️⃣ Q.39 {#q39}
 
 Poderemos conhecer o modo de formação dos mundos?
 
@@ -715,7 +715,7 @@ Poderemos conhecer o modo de formação dos mundos?
 
 ---
 
-###### #️⃣ Q.40 {#q40}
+##### #️⃣ Q.40 {#q40}
 
 Serão os cometas, como agora se pensa, um começo de condensação da matéria, mundos em via de formação?
 
@@ -729,7 +729,7 @@ Serão os cometas, como agora se pensa, um começo de condensação da matéria,
 
 ---
 
-###### #️⃣ Q.41 {#q41}
+##### #️⃣ Q.41 {#q41}
 
 Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espaço a matéria que o compõe?
 
@@ -738,12 +738,12 @@ Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espa�
 :::
 
 ::: expand 🔗
-🏷️ [Lei de destruição](#lei-de-destruição)
+🏷️ [Lei de destruição](#lei-de-destruicao)
 :::
 
 ---
 
-###### #️⃣ Q.42 {#q42}
+##### #️⃣ Q.42 {#q42}
 
 Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
 
@@ -760,7 +760,7 @@ Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exe
 
 #### 1.03.02 📄 Formação dos seres vivos {#lde-1-03-02}
 
-###### #️⃣ Q.43 {#q43}
+##### #️⃣ Q.43 {#q43}
 
 Quando começou a Terra a ser povoada?
 
@@ -770,7 +770,7 @@ Quando começou a Terra a ser povoada?
 
 ---
 
-###### #️⃣ Q.44 {#q44}
+##### #️⃣ Q.44 {#q44}
 
 Donde vieram para a Terra os seres vivos?
 
@@ -779,13 +779,13 @@ Donde vieram para a Terra os seres vivos?
 :::
 
 ::: expand 🔗
-🏷️ [Geração espontânea](#geração-espontânea)
+🏷️ [Geração espontânea](#geracao-espontanea)
 🏷️ [Seres vivos](#seres-vivos)
 :::
 
 ---
 
-###### #️⃣ Q.45 {#q45}
+##### #️⃣ Q.45 {#q45}
 
 Onde estavam os elementos orgânicos, antes da formação da Terra?
 
@@ -798,12 +798,12 @@ Onde estavam os elementos orgânicos, antes da formação da Terra?
 :::
 
 ::: expand 🔗
-🏷️ [Elementos orgânicos](#elementos-orgânicos)
+🏷️ [Elementos orgânicos](#elementos-organicos)
 :::
 
 ---
 
-###### #️⃣ Q.46 {#q46}
+##### #️⃣ Q.46 {#q46}
 
 Ainda há seres que nasçam espontaneamente?
 
@@ -817,7 +817,7 @@ Ainda há seres que nasçam espontaneamente?
 
 ---
 
-###### #️⃣ Q.47 {#q47}
+##### #️⃣ Q.47 {#q47}
 
 A espécie humana se encontrava entre os elementos orgânicos contidos no globo terrestre?
 
@@ -826,13 +826,13 @@ A espécie humana se encontrava entre os elementos orgânicos contidos no globo 
 :::
 
 ::: expand 🔗
-🏷️ [Cordão fluídico](#cordão-fluídico)
-🏷️ [Elementos orgânicos](#elementos-orgânicos)
+🏷️ [Cordão fluídico](#cordao-fluidico)
+🏷️ [Elementos orgânicos](#elementos-organicos)
 :::
 
 ---
 
-###### #️⃣ Q.48 {#q48}
+##### #️⃣ Q.48 {#q48}
 
 Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na Terra?
 
@@ -846,7 +846,7 @@ Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na
 
 ---
 
-###### #️⃣ Q.49 {#q49}
+##### #️⃣ Q.49 {#q49}
 
 Se o germe da espécie humana se encontrava entre os elementos orgânicos do globo, por que não se formam espontaneamente homens, como na origem dos tempos?
 
@@ -855,7 +855,7 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 :::
 
 ::: expand 🔗
-🏷️ [Geração espontânea](#geração-espontânea)
+🏷️ [Geração espontânea](#geracao-espontanea)
 🏷️ [Homem](#homem)
 🏷️ [Seres vivos](#seres-vivos)
 :::
@@ -864,7 +864,7 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 
 #### 1.03.03 📄 Povoamento da Terra. Adão {#lde-1-03-03}
 
-###### #️⃣ Q.50 {#q50}
+##### #️⃣ Q.50 {#q50}
 
 A espécie humana começou por um único homem?
 
@@ -874,7 +874,7 @@ A espécie humana começou por um único homem?
 
 ---
 
-###### #️⃣ Q.51 {#q51}
+##### #️⃣ Q.51 {#q51}
 
 Poderemos saber em que época viveu Adão?
 
@@ -887,7 +887,7 @@ Poderemos saber em que época viveu Adão?
 :::
 
 ::: expand 🔗
-🏷️ [Adão](#adão)
+🏷️ [Adão](#adao)
 🏷️ [Povoamento](#povoamento)
 :::
 
@@ -895,7 +895,7 @@ Poderemos saber em que época viveu Adão?
 
 #### 1.03.04 📄 Diversidade das raças humanas {#lde-1-03-04}
 
-###### #️⃣ Q.52 {#q52}
+##### #️⃣ Q.52 {#q52}
 
 Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
 
@@ -905,7 +905,7 @@ Donde provêm as diferenças físicas e morais que distinguem as raças humanas 
 
 ---
 
-###### #️⃣ Q.53 {#q53}
+##### #️⃣ Q.53 {#q53}
 
 O homem surgiu em muitos pontos do globo?
 
@@ -919,7 +919,7 @@ O homem surgiu em muitos pontos do globo?
 
 ---
 
-###### #️⃣ Q.53.a {#q53a}
+##### #️⃣ Q.53.a {#q53a}
 
 Estas diferenças constituem espécies distintas?
 
@@ -927,7 +927,7 @@ Estas diferenças constituem espécies distintas?
 ✨ ▸ Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?
 :::
 
-###### #️⃣ Q.54 {#q54}
+##### #️⃣ Q.54 {#q54}
 
 Pelo fato de não proceder de um só indivíduo a espécie humana, devem os homens deixar de considerar-se irmãos?
 
@@ -936,14 +936,14 @@ Pelo fato de não proceder de um só indivíduo a espécie humana, devem os home
 :::
 
 ::: expand 🔗
-🏷️ [Família](#família)
+🏷️ [Família](#familia)
 :::
 
 ---
 
 #### 1.03.05 📄 Pluralidade dos mundos {#lde-1-03-05}
 
-###### #️⃣ Q.55 {#q55}
+##### #️⃣ Q.55 {#q55}
 
 São habitados todos os globos que se movem no Espaço?
 
@@ -957,7 +957,7 @@ São habitados todos os globos que se movem no Espaço?
 
 ---
 
-###### #️⃣ Q.56 {#q56}
+##### #️⃣ Q.56 {#q56}
 
 É a mesma a constituição física dos diferentes globos?
 
@@ -967,7 +967,7 @@ São habitados todos os globos que se movem no Espaço?
 
 ---
 
-###### #️⃣ Q.57 {#q57}
+##### #️⃣ Q.57 {#q57}
 
 Não sendo uma só para todos a constituição física dos mundos, seguir-se-á tenham organizações diferentes os seres que os habitam?
 
@@ -981,7 +981,7 @@ Não sendo uma só para todos a constituição física dos mundos, seguir-se-á 
 
 ---
 
-###### #️⃣ Q.58 {#q58}
+##### #️⃣ Q.58 {#q58}
 
 Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de esse astro se lhes mostrar apenas com a aparência de uma estrela?
 
@@ -1001,7 +1001,7 @@ Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de 
 
 #### 1.03.06 📄 Considerações e concordâncias bíblicas concernentes à Criação {#lde-1-03-06}
 
-###### #️⃣ Q.59 {#q59}
+##### #️⃣ Q.59 {#q59}
 
 Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
 
@@ -1026,13 +1026,13 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 #### 1.04.01 📄 Seres orgânicos e inorgânicos {#lde-1-04-01}
 
-:::
+::: grey
 Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.
 :::
 
 ---
 
-###### #️⃣ Q.60 {#q60}
+##### #️⃣ Q.60 {#q60}
 
 É a mesma a força que une os elementos da matéria nos corpos orgânicos e nos inorgânicos?
 
@@ -1042,7 +1042,7 @@ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lh
 
 ---
 
-###### #️⃣ Q.61 {#q61}
+##### #️⃣ Q.61 {#q61}
 
 Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 
@@ -1051,12 +1051,12 @@ Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 :::
 
 ::: expand 🔗
-🏷️ [Matéria](#matéria)
+🏷️ [Matéria](#materia)
 :::
 
 ---
 
-###### #️⃣ Q.62 {#q62}
+##### #️⃣ Q.62 {#q62}
 
 Qual a causa da animalização da matéria?
 
@@ -1065,13 +1065,13 @@ Qual a causa da animalização da matéria?
 :::
 
 ::: expand 🔗
-🏷️ [Matéria](#matéria)
-🏷️ [Princípio vital](#princípio-vital)
+🏷️ [Matéria](#materia)
+🏷️ [Princípio vital](#principio-vital)
 :::
 
 ---
 
-###### #️⃣ Q.63 {#q63}
+##### #️⃣ Q.63 {#q63}
 
 O princípio vital reside nalgum agente particular, ou é simplesmente uma propriedade da matéria organizada? Numa palavra, é efeito ou causa?
 
@@ -1080,12 +1080,12 @@ O princípio vital reside nalgum agente particular, ou é simplesmente uma propr
 :::
 
 ::: expand 🔗
-🏷️ [Princípio vital](#princípio-vital)
+🏷️ [Princípio vital](#principio-vital)
 :::
 
 ---
 
-###### #️⃣ Q.64 {#q64}
+##### #️⃣ Q.64 {#q64}
 
 Vimos que o espírito e a matéria são dois elementos constitutivos do Universo. O princípio vital será um terceiro?
 
@@ -1096,12 +1096,12 @@ Vimos que o espírito e a matéria são dois elementos constitutivos do Universo
 ↩️ Voltar para [Q.680](#q680)
 
 ::: expand 🔗
-🏷️ [Princípio vital](#princípio-vital)
+🏷️ [Princípio vital](#principio-vital)
 :::
 
 ---
 
-###### #️⃣ Q.64.a {#q64a}
+##### #️⃣ Q.64.a {#q64a}
 
 Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
 
@@ -1109,7 +1109,7 @@ Parece resultar daí que a vitalidade não tem seu princípio num agente primiti
 ✨ ▸ Isto é consequência do que dissemos.
 :::
 
-###### #️⃣ Q.65 {#q65}
+##### #️⃣ Q.65 {#q65}
 
 O princípio vital reside em algum dos corpos que conhecemos?
 
@@ -1118,12 +1118,12 @@ O princípio vital reside em algum dos corpos que conhecemos?
 :::
 
 ::: expand 🔗
-🏷️ [Matéria](#matéria)
+🏷️ [Matéria](#materia)
 :::
 
 ---
 
-###### #️⃣ Q.66 {#q66}
+##### #️⃣ Q.66 {#q66}
 
 O princípio vital é um só para todos os seres orgânicos?
 
@@ -1132,12 +1132,12 @@ O princípio vital é um só para todos os seres orgânicos?
 :::
 
 ::: expand 🔗
-🏷️ [Princípio vital](#princípio-vital)
+🏷️ [Princípio vital](#principio-vital)
 :::
 
 ---
 
-###### #️⃣ Q.67 {#q67}
+##### #️⃣ Q.67 {#q67}
 
 A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pelo funcionamento dos órgãos?
 
@@ -1146,12 +1146,12 @@ A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pe
 :::
 
 ::: expand 🔗
-🏷️ [Princípio vital](#princípio-vital)
+🏷️ [Princípio vital](#principio-vital)
 :::
 
 ---
 
-###### #️⃣ Q.67.a {#q67a}
+##### #️⃣ Q.67.a {#q67a}
 
 Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
 
@@ -1164,14 +1164,14 @@ Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vi
 :::
 
 ::: expand 🔗
-🏷️ [Princípio vital](#princípio-vital)
+🏷️ [Princípio vital](#principio-vital)
 :::
 
 ---
 
 #### 1.04.02 📄 A vida e a morte {#lde-1-04-02}
 
-###### #️⃣ Q.68 {#q68}
+##### #️⃣ Q.68 {#q68}
 
 Qual a causa da morte dos seres orgânicos?
 
@@ -1181,7 +1181,7 @@ Qual a causa da morte dos seres orgânicos?
 
 ---
 
-###### #️⃣ Q.68.a {#q68a}
+##### #️⃣ Q.68.a {#q68a}
 
 Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
 
@@ -1190,13 +1190,13 @@ Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorgan
 :::
 
 ::: expand 🔗
-🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Corpo físico](#corpo-fisico)
 🏷️ [Enfermidade](#enfermidade)
 :::
 
 ---
 
-###### #️⃣ Q.69 {#q69}
+##### #️⃣ Q.69 {#q69}
 
 Por que uma lesão do coração mais depressa causa a morte do que as de outros órgãos?
 
@@ -1205,13 +1205,13 @@ Por que uma lesão do coração mais depressa causa a morte do que as de outros 
 :::
 
 ::: expand 🔗
-🏷️ [Coração](#coração)
+🏷️ [Coração](#coracao)
 🏷️ [Morte](#morte)
 :::
 
 ---
 
-###### #️⃣ Q.70 {#q70}
+##### #️⃣ Q.70 {#q70}
 
 Que é feito da matéria e do princípio vital dos seres orgânicos, quando estes morrem?
 
@@ -1237,7 +1237,7 @@ O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maio
 
 ::: expand 🔗
 🏷️ [Fluido vital](#fluido-vital)
-🏷️ [Princípio vital](#princípio-vital)
+🏷️ [Princípio vital](#principio-vital)
 🏷️ [Seres vivos](#seres-vivos)
 :::
 
@@ -1245,7 +1245,7 @@ O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maio
 
 #### 1.04.03 📄 Inteligência e instinto {#lde-1-04-03}
 
-###### #️⃣ Q.71 {#q71}
+##### #️⃣ Q.71 {#q71}
 
 A inteligência é atributo do princípio vital?
 
@@ -1267,7 +1267,7 @@ c) os seres animados pensantes, formados de matéria, dotados de vitalidade e te
 
 ---
 
-###### #️⃣ Q.72 {#q72}
+##### #️⃣ Q.72 {#q72}
 
 Qual a fonte da inteligência?
 
@@ -1276,12 +1276,12 @@ Qual a fonte da inteligência?
 :::
 
 ::: expand 🔗
-🏷️ [Inteligência](#inteligência)
+🏷️ [Inteligência](#inteligencia)
 :::
 
 ---
 
-###### #️⃣ Q.72.a {#q72a}
+##### #️⃣ Q.72.a {#q72a}
 
 Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?
 
@@ -1290,12 +1290,12 @@ Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte unive
 :::
 
 ::: expand 🔗
-🏷️ [Inteligência](#inteligência)
+🏷️ [Inteligência](#inteligencia)
 :::
 
 ---
 
-###### #️⃣ Q.73 {#q73}
+##### #️⃣ Q.73 {#q73}
 
 O instinto independe da inteligência?
 
@@ -1309,7 +1309,7 @@ O instinto independe da inteligência?
 
 ---
 
-###### #️⃣ Q.74 {#q74}
+##### #️⃣ Q.74 {#q74}
 
 Pode estabelecer-se uma linha de separação entre instinto e a inteligência, isto é, precisar onde um acaba e começa a outra?
 
@@ -1323,7 +1323,7 @@ Pode estabelecer-se uma linha de separação entre instinto e a inteligência, i
 
 ---
 
-###### #️⃣ Q.75 {#q75}
+##### #️⃣ Q.75 {#q75}
 
 É acertado dizer-se que as faculdades instintivas diminuem à medida que crescem as intelectuais?
 
@@ -1332,12 +1332,12 @@ Pode estabelecer-se uma linha de separação entre instinto e a inteligência, i
 :::
 
 ::: expand 🔗
-🏷️ [Razão](#razão)
+🏷️ [Razão](#razao)
 :::
 
 ---
 
-###### #️⃣ Q.75.a {#q75a}
+##### #️⃣ Q.75.a {#q75a}
 
 Por que nem sempre é guia infalível a razão?
 
@@ -1353,8 +1353,9 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 
 ::: expand 🔗
 🏷️ [Instinto](#instinto)
-🏷️ [Livre-arbítrio](#livre-arbítrio)
-🏷️ [Razão](#razão)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
+🏷️ [Razão](#razao)
 :::
 
 ---
+

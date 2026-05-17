@@ -5,7 +5,7 @@
 
 #### 3.01.01 📄 Caracteres da lei natural {#lde-3-01-01}
 
-###### #️⃣ Q.614 {#q614}
+##### #️⃣ Q.614 {#q614}
 
 Que se deve entender por lei natural?
 
@@ -15,7 +15,7 @@ Que se deve entender por lei natural?
 
 ---
 
-###### #️⃣ Q.615 {#q615}
+##### #️⃣ Q.615 {#q615}
 
 É eterna a Lei de Deus?
 
@@ -25,7 +25,7 @@ Que se deve entender por lei natural?
 
 ---
 
-###### #️⃣ Q.616 {#q616}
+##### #️⃣ Q.616 {#q616}
 
 Será possível que Deus em certa época haja prescrito aos homens o que noutra época lhes proibiu?
 
@@ -40,7 +40,7 @@ Será possível que Deus em certa época haja prescrito aos homens o que noutra 
 
 ---
 
-###### #️⃣ Q.617 {#q617}
+##### #️⃣ Q.617 {#q617}
 
 As leis divinas, que é o que compreendem no seu âmbito? Concernem a alguma outra coisa, que não somente ao procedimento moral?
 
@@ -54,7 +54,7 @@ As leis divinas, que é o que compreendem no seu âmbito? Concernem a alguma out
 
 ---
 
-###### #️⃣ Q.617.a {#q617a}
+##### #️⃣ Q.617.a {#q617a}
 
 Dado é ao homem aprofundar umas e outras?
 
@@ -75,7 +75,7 @@ As outras dizem respeito especialmente ao homem considerado em si mesmo e nas su
 
 ---
 
-###### #️⃣ Q.618 {#q618}
+##### #️⃣ Q.618 {#q618}
 
 São as mesmas, para todos os mundos, as leis divinas?
 
@@ -91,7 +91,7 @@ São as mesmas, para todos os mundos, as leis divinas?
 
 #### 3.01.02 📄 Conhecimento da lei natural {#lde-3-01-02}
 
-###### #️⃣ Q.619 {#q619}
+##### #️⃣ Q.619 {#q619}
 
 A todos os homens facultou Deus os meios de conhecerem sua Lei?
 
@@ -103,7 +103,7 @@ A justiça das diversas encarnações do homem é uma consequência deste princ�
 
 ---
 
-###### #️⃣ Q.620 {#q620}
+##### #️⃣ Q.620 {#q620}
 
 Antes de se unir ao corpo, a alma compreende melhor a Lei de Deus do que depois de encarnada?
 
@@ -120,7 +120,7 @@ Antes de se unir ao corpo, a alma compreende melhor a Lei de Deus do que depois 
 
 ---
 
-###### #️⃣ Q.621 {#q621}
+##### #️⃣ Q.621 {#q621}
 
 Onde está escrita a Lei de Deus?
 
@@ -129,13 +129,13 @@ Onde está escrita a Lei de Deus?
 :::
 
 ::: expand 🔗
-🏷️ [Consciência](#consciência)
+🏷️ [Consciência](#consciencia)
 🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
 
-###### #️⃣ Q.621.a {#q621a}
+##### #️⃣ Q.621.a {#q621a}
 
 Visto que o homem traz em sua consciência a Lei de Deus, que necessidade havia de lhe ser ela revelada?
 
@@ -144,12 +144,12 @@ Visto que o homem traz em sua consciência a Lei de Deus, que necessidade havia 
 :::
 
 ::: expand 🔗
-🏷️ [Presciência](#presciência)
+🏷️ [Presciência](#presciencia)
 :::
 
 ---
 
-###### #️⃣ Q.622 {#q622}
+##### #️⃣ Q.622 {#q622}
 
 Confiou Deus a certos homens a missão de revelarem a sua Lei?
 
@@ -158,12 +158,12 @@ Confiou Deus a certos homens a missão de revelarem a sua Lei?
 :::
 
 ::: expand 🔗
-🏷️ [Revelação](#revelação)
+🏷️ [Revelação](#revelacao)
 :::
 
 ---
 
-###### #️⃣ Q.623 {#q623}
+##### #️⃣ Q.623 {#q623}
 
 Os que hão pretendido instruir os homens na Lei de Deus não se têm enganado algumas vezes, fazendo-os transviar-se por meio de falsos princípios?
 
@@ -177,7 +177,7 @@ Os que hão pretendido instruir os homens na Lei de Deus não se têm enganado a
 
 ---
 
-###### #️⃣ Q.624 {#q624}
+##### #️⃣ Q.624 {#q624}
 
 Qual o caráter do verdadeiro profeta?
 
@@ -191,7 +191,7 @@ Qual o caráter do verdadeiro profeta?
 
 ---
 
-###### #️⃣ Q.625 {#q625}
+##### #️⃣ Q.625 {#q625}
 
 Qual o tipo mais perfeito que Deus tem oferecido ao homem, para lhe servir de guia e modelo?
 
@@ -204,14 +204,14 @@ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, 
 :::
 
 ::: expand 🔗
-🏷️ [Instrução](#instrução)
+🏷️ [Instrução](#instrucao)
 🏷️ [Jesus](#jesus)
-🏷️ [Perfeição](#perfeição)
+🏷️ [Perfeição](#perfeicao)
 :::
 
 ---
 
-###### #️⃣ Q.626 {#q626}
+##### #️⃣ Q.626 {#q626}
 
 Só por Jesus foram reveladas as leis divinas e naturais? Antes do seu aparecimento, o conhecimento dessas leis só por intuição os homens o tiveram?
 
@@ -221,12 +221,12 @@ Só por Jesus foram reveladas as leis divinas e naturais? Antes do seu aparecime
 
 ::: expand 🔗
 🏷️ [Lei divina](#lei-divina)
-🏷️ [Revelação](#revelação)
+🏷️ [Revelação](#revelacao)
 :::
 
 ---
 
-###### #️⃣ Q.627 {#q627}
+##### #️⃣ Q.627 {#q627}
 
 Uma vez que Jesus ensinou as verdadeiras Leis de Deus, qual a utilidade do ensino que os Espíritos dão? Terão que nos ensinar mais alguma coisa?
 
@@ -243,7 +243,7 @@ Faz-se mister agora que a verdade se torne inteligível para todo mundo. Muito n
 
 ---
 
-###### #️⃣ Q.628 {#q628}
+##### #️⃣ Q.628 {#q628}
 
 Por que a verdade não foi sempre posta ao alcance de toda gente?
 
@@ -255,7 +255,7 @@ Jamais permitiu Deus que o homem recebesse comunicações tão completas e instr
 
 ::: expand 🔗
 🏷️ [Antiguidade](#antiguidade)
-🏷️ [Revelação](#revelação)
+🏷️ [Revelação](#revelacao)
 🏷️ [Verdade](#verdade)
 :::
 
@@ -263,7 +263,7 @@ Jamais permitiu Deus que o homem recebesse comunicações tão completas e instr
 
 #### 3.01.03 📄 O bem e o mal {#lde-3-01-03}
 
-###### #️⃣ Q.629 {#q629}
+##### #️⃣ Q.629 {#q629}
 
 Que definição se pode dar da moral?
 
@@ -273,7 +273,7 @@ Que definição se pode dar da moral?
 
 ---
 
-###### #️⃣ Q.630 {#q630}
+##### #️⃣ Q.630 {#q630}
 
 Como se pode distinguir o bem do mal?
 
@@ -288,7 +288,7 @@ Como se pode distinguir o bem do mal?
 
 ---
 
-###### #️⃣ Q.631 {#q631}
+##### #️⃣ Q.631 {#q631}
 
 Tem meios o homem de distinguir por si mesmo o que é bem do que é mal?
 
@@ -297,13 +297,13 @@ Tem meios o homem de distinguir por si mesmo o que é bem do que é mal?
 :::
 
 ::: expand 🔗
-🏷️ [Crença](#crença)
+🏷️ [Crença](#crenca)
 🏷️ [Vontade](#vontade)
 :::
 
 ---
 
-###### #️⃣ Q.632 {#q632}
+##### #️⃣ Q.632 {#q632}
 
 Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e do mal e crer que pratica o bem quando em realidade pratica o mal?
 
@@ -313,10 +313,10 @@ Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e d
 ::: bible
 ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.*
 
-Mateus, cap. 07, vers. 12, ARC
+**Mateus, cap. 07, vers. 12, ARC**
 :::
 
-###### #️⃣ Q.633 {#q633}
+##### #️⃣ Q.633 {#q633}
 
 A regra do bem e do mal, que se poderia chamar de **reciprocidade** ou de **solidariedade**, é inaplicável ao proceder pessoal do homem para consigo mesmo. Achará ele, na lei natural, a regra desse proceder e um guia seguro?
 
@@ -332,22 +332,22 @@ A regra do bem e do mal, que se poderia chamar de **reciprocidade** ou de **soli
 
 ---
 
-###### #️⃣ Q.634 {#q634}
+##### #️⃣ Q.634 {#q634}
 
 Por que está o mal na natureza das coisas? Falo do mal moral. Não podia Deus ter criado a Humanidade em melhores condições?
 
 ::: spirit
-✨ ▸ Já te dissemos: os Espíritos foram criados simples e ignorantes (👉 Veja Q.115). Deus deixa que o homem escolha o caminho. Tanto pior para ele, se toma o caminho mau: mais longa será sua peregrinação. Se não existissem montanhas, não compreenderia o homem que se pode subir e descer; se não existissem rochas, não compreenderia que há corpos duros. É preciso que o Espírito ganhe experiência; é preciso, portanto, que conheça o bem e o mal. Eis por que se une ao corpo.
+✨ ▸ Já te dissemos: os Espíritos foram criados simples e ignorantes (👉 Veja [Q.115](#q115)). Deus deixa que o homem escolha o caminho. Tanto pior para ele, se toma o caminho mau: mais longa será sua peregrinação. Se não existissem montanhas, não compreenderia o homem que se pode subir e descer; se não existissem rochas, não compreenderia que há corpos duros. É preciso que o Espírito ganhe experiência; é preciso, portanto, que conheça o bem e o mal. Eis por que se une ao corpo.
 :::
 
 ::: expand 🔗
-🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
 🏷️ [Mal](#mal)
 :::
 
 ---
 
-###### #️⃣ Q.635 {#q635}
+##### #️⃣ Q.635 {#q635}
 
 Das diferentes posições sociais nascem necessidades que não são idênticas para todos os homens. Não parece poder inferir-se daí que a lei natural não constitui regra uniforme?
 
@@ -364,7 +364,7 @@ As condições de existência do homem mudam de acordo com os tempos e os lugare
 
 ---
 
-###### #️⃣ Q.636 {#q636}
+##### #️⃣ Q.636 {#q636}
 
 São absolutos, para todos os homens, o bem e o mal?
 
@@ -379,7 +379,7 @@ São absolutos, para todos os homens, o bem e o mal?
 
 ---
 
-###### #️⃣ Q.637 {#q637}
+##### #️⃣ Q.637 {#q637}
 
 Será culpado o selvagem que, cedendo ao seu instinto, se nutre de carne humana?
 
@@ -398,7 +398,7 @@ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete
 
 ---
 
-###### #️⃣ Q.638 {#q638}
+##### #️⃣ Q.638 {#q638}
 
 Parece, às vezes, que o mal é uma consequência da força das coisas. Tal, por exemplo, a necessidade em que o homem se vê, nalguns casos, de destruir, até mesmo o seu semelhante. Poder-se-á dizer que há, então, infração da Lei de Deus?
 
@@ -408,13 +408,13 @@ Parece, às vezes, que o mal é uma consequência da força das coisas. Tal, por
 
 ::: expand 🔗
 🏷️ [Crime](#crime)
-🏷️ [Legítima defesa](#legítima-defesa)
+🏷️ [Legítima defesa](#legitima-defesa)
 🏷️ [Mal](#mal)
 :::
 
 ---
 
-###### #️⃣ Q.639 {#q639}
+##### #️⃣ Q.639 {#q639}
 
 Não sucede frequentemente resultar o mal, que o homem pratica, da posição em que os outros homens o colocam? Quais, nesse caso, os culpados?
 
@@ -428,7 +428,7 @@ Não sucede frequentemente resultar o mal, que o homem pratica, da posição em 
 
 ---
 
-###### #️⃣ Q.640 {#q640}
+##### #️⃣ Q.640 {#q640}
 
 Aquele que não pratica o mal, mas que se aproveita do mal praticado por outrem, é tão culpado quanto este?
 
@@ -441,7 +441,7 @@ Aquele que não pratica o mal, mas que se aproveita do mal praticado por outrem,
 
 ---
 
-###### #️⃣ Q.641 {#q641}
+##### #️⃣ Q.641 {#q641}
 
 Será tão repreensível, quanto fazer o mal, o desejá-lo?
 
@@ -455,7 +455,7 @@ Será tão repreensível, quanto fazer o mal, o desejá-lo?
 
 ---
 
-###### #️⃣ Q.642 {#q642}
+##### #️⃣ Q.642 {#q642}
 
 Para agradar a Deus e assegurar a sua posição futura, bastará que o homem não pratique o mal?
 
@@ -469,7 +469,7 @@ Para agradar a Deus e assegurar a sua posição futura, bastará que o homem nã
 
 ---
 
-###### #️⃣ Q.643 {#q643}
+##### #️⃣ Q.643 {#q643}
 
 Haverá quem, pela sua posição, não tenha possibilidade de fazer o bem?
 
@@ -478,12 +478,12 @@ Haverá quem, pela sua posição, não tenha possibilidade de fazer o bem?
 :::
 
 ::: expand 🔗
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Egoísmo](#egoismo)
 :::
 
 ---
 
-###### #️⃣ Q.644 {#q644}
+##### #️⃣ Q.644 {#q644}
 
 Para certos homens, o meio onde se acham colocados não representa a causa primária de muitos vícios e crimes?
 
@@ -498,7 +498,7 @@ Para certos homens, o meio onde se acham colocados não representa a causa prim�
 
 ---
 
-###### #️⃣ Q.645 {#q645}
+##### #️⃣ Q.645 {#q645}
 
 Quando o homem se acha, de certo modo, mergulhado na atmosfera do vício, o mal não se lhe torna um arrastamento quase irresistível?
 
@@ -508,13 +508,13 @@ Quando o homem se acha, de certo modo, mergulhado na atmosfera do vício, o mal 
 
 ::: expand 🔗
 🏷️ [Criminalidade](#criminalidade)
-🏷️ [Missão](#missão)
-🏷️ [Vício](#vício)
+🏷️ [Missão](#missao)
+🏷️ [Vício](#vicio)
 :::
 
 ---
 
-###### #️⃣ Q.646 {#q646}
+##### #️⃣ Q.646 {#q646}
 
 Estará subordinado a determinadas condições o mérito do bem que se pratique? Por outra: será de diferentes graus o mérito que resulta da prática do bem?
 
@@ -522,19 +522,19 @@ Estará subordinado a determinadas condições o mérito do bem que se pratique?
 ✨ ▸ O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra, disse-o Jesus, a propósito do óbolo da viúva.
 
 ::: bible
-✝️ ▸ Marcos, cap. 12, vers. 41.44 e Lucas, cap. 21, vers. 1.4, ARC
+✝️ ▸ **Marcos, cap. 12, vers. 41.44 e Lucas, cap. 21, vers. 1.4, ARC**
 :::
 
 ::: expand 🔗
 🏷️ [Bem](#bem)
-🏷️ [Mérito](#mérito)
+🏷️ [Mérito](#merito)
 :::
 
 ---
 
 #### 3.01.04 📄 Divisão da lei natural {#lde-3-01-04}
 
-###### #️⃣ Q.647 {#q647}
+##### #️⃣ Q.647 {#q647}
 
 A Lei de Deus se acha contida toda no preceito do amor ao próximo, ensinado por Jesus?
 
@@ -544,7 +544,7 @@ A Lei de Deus se acha contida toda no preceito do amor ao próximo, ensinado por
 
 ---
 
-###### #️⃣ Q.648 {#q648}
+##### #️⃣ Q.648 {#q648}
 
 Que pensais da divisão da lei natural em dez partes, compreendendo as leis de **adoração**, **trabalho**, **reprodução**, **conservação**, **destruição**, **sociedade**, **progresso**, **igualdade**, **liberdade** e, por fim, a de **justiça, amor e caridade**?
 
@@ -553,7 +553,7 @@ Que pensais da divisão da lei natural em dez partes, compreendendo as leis de *
 :::
 
 ::: expand 🔗
-🏷️ [Decálogo](#decálogo)
+🏷️ [Decálogo](#decalogo)
 :::
 
 ---
@@ -562,7 +562,7 @@ Que pensais da divisão da lei natural em dez partes, compreendendo as leis de *
 
 #### 3.02.01 📄 Objetivo da adoração {#lde-3-02-01}
 
-###### #️⃣ Q.649 {#q649}
+##### #️⃣ Q.649 {#q649}
 
 Em que consiste a adoração?
 
@@ -572,7 +572,7 @@ Em que consiste a adoração?
 
 ---
 
-###### #️⃣ Q.650 {#q650}
+##### #️⃣ Q.650 {#q650}
 
 Origina-se de um sentimento inato a adoração, ou é fruto de ensino?
 
@@ -581,13 +581,13 @@ Origina-se de um sentimento inato a adoração, ou é fruto de ensino?
 :::
 
 ::: expand 🔗
-🏷️ [Adoração](#adoração)
+🏷️ [Adoração](#adoracao)
 🏷️ [Fraqueza](#fraqueza)
 :::
 
 ---
 
-###### #️⃣ Q.651 {#q651}
+##### #️⃣ Q.651 {#q651}
 
 Terá havido povos destituídos de todo sentimento de adoração?
 
@@ -596,12 +596,12 @@ Terá havido povos destituídos de todo sentimento de adoração?
 :::
 
 ::: expand 🔗
-🏷️ [Ateísmo](#ateísmo)
+🏷️ [Ateísmo](#ateismo)
 :::
 
 ---
 
-###### #️⃣ Q.652 {#q652}
+##### #️⃣ Q.652 {#q652}
 
 Poder-se-á considerar a lei natural como fonte originária da adoração?
 
@@ -610,7 +610,7 @@ Poder-se-á considerar a lei natural como fonte originária da adoração?
 :::
 
 ::: expand 🔗
-🏷️ [Adoração](#adoração)
+🏷️ [Adoração](#adoracao)
 🏷️ [Lei divina](#lei-divina)
 :::
 
@@ -618,7 +618,7 @@ Poder-se-á considerar a lei natural como fonte originária da adoração?
 
 #### 3.02.02 📄 Adoração exterior {#lde-3-02-02}
 
-###### #️⃣ Q.653 {#q653}
+##### #️⃣ Q.653 {#q653}
 
 Precisa de manifestações exteriores a adoração?
 
@@ -628,7 +628,7 @@ Precisa de manifestações exteriores a adoração?
 
 ---
 
-###### #️⃣ Q.653.a {#q653a}
+##### #️⃣ Q.653.a {#q653a}
 
 Será útil a adoração exterior?
 
@@ -637,12 +637,12 @@ Será útil a adoração exterior?
 :::
 
 ::: expand 🔗
-🏷️ [Adoração](#adoração)
+🏷️ [Adoração](#adoracao)
 :::
 
 ---
 
-###### #️⃣ Q.654 {#q654}
+##### #️⃣ Q.654 {#q654}
 
 Tem Deus preferência pelos que o adoram desta ou daquela maneira?
 
@@ -659,17 +659,17 @@ Não pergunteis, pois, se alguma forma de adoração há que mais convenha, porq
 :::
 
 ::: expand 🔗
-🏷️ [Adoração](#adoração)
+🏷️ [Adoração](#adoracao)
 🏷️ [Deus](#deus)
 🏷️ [Falsidade](#falsidade)
 🏷️ [Hipocrisia](#hipocrisia)
-🏷️ [Religião](#religião)
+🏷️ [Religião](#religiao)
 🏷️ [Ritual](#ritual)
 :::
 
 ---
 
-###### #️⃣ Q.655 {#q655}
+##### #️⃣ Q.655 {#q655}
 
 Merece censura aquele que pratica uma religião em que não crê do fundo da alma, fazendo-o apenas pelo respeito humano e para não escandalizar os que pensam de modo diverso?
 
@@ -678,12 +678,12 @@ Merece censura aquele que pratica uma religião em que não crê do fundo da alm
 :::
 
 ::: expand 🔗
-🏷️ [Religião](#religião)
+🏷️ [Religião](#religiao)
 :::
 
 ---
 
-###### #️⃣ Q.656 {#q656}
+##### #️⃣ Q.656 {#q656}
 
 À adoração individual será preferível a adoração em comum?
 
@@ -693,14 +693,14 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 :::
 
 ::: expand 🔗
-🏷️ [Comunhão](#comunhão)
+🏷️ [Comunhão](#comunhao)
 :::
 
 ---
 
 #### 3.02.03 📄 Vida contemplativa {#lde-3-02-03}
 
-###### #️⃣ Q.657 {#q657}
+##### #️⃣ Q.657 {#q657}
 
 Têm, perante Deus, algum mérito os que se consagram à vida contemplativa, uma vez que nenhum mal fazem e só em Deus pensam?
 
@@ -712,7 +712,7 @@ Têm, perante Deus, algum mérito os que se consagram à vida contemplativa, uma
 
 #### 3.02.04 📄 A prece {#lde-3-02-04}
 
-###### #️⃣ Q.658 {#q658}
+##### #️⃣ Q.658 {#q658}
 
 Agrada a Deus a prece?
 
@@ -722,7 +722,7 @@ Agrada a Deus a prece?
 
 ---
 
-###### #️⃣ Q.659 {#q659}
+##### #️⃣ Q.659 {#q659}
 
 Qual o caráter geral da prece?
 
@@ -731,12 +731,12 @@ Qual o caráter geral da prece?
 :::
 
 ::: expand 🔗
-🏷️ [Oração](#oração)
+🏷️ [Oração](#oracao)
 :::
 
 ---
 
-###### #️⃣ Q.660 {#q660}
+##### #️⃣ Q.660 {#q660}
 
 A prece torna melhor o homem?
 
@@ -750,7 +750,7 @@ A prece torna melhor o homem?
 
 ---
 
-###### #️⃣ Q.660.a {#q660a}
+##### #️⃣ Q.660.a {#q660a}
 
 Como é que certas pessoas, que oram muito, são, não obstante, de mau caráter, ciosas, invejosas, impertinentes, carentes de benevolência e de indulgência e até, algumas vezes, viciosas?
 
@@ -759,12 +759,12 @@ Como é que certas pessoas, que oram muito, são, não obstante, de mau caráter
 :::
 
 ::: expand 🔗
-🏷️ [Oração](#oração)
+🏷️ [Oração](#oracao)
 :::
 
 ---
 
-###### #️⃣ Q.661 {#q661}
+##### #️⃣ Q.661 {#q661}
 
 Poderemos utilmente pedir a Deus que perdoe as nossas faltas?
 
@@ -773,13 +773,13 @@ Poderemos utilmente pedir a Deus que perdoe as nossas faltas?
 :::
 
 ::: expand 🔗
-🏷️ [Oração](#oração)
-🏷️ [Perdão](#perdão)
+🏷️ [Oração](#oracao)
+🏷️ [Perdão](#perdao)
 :::
 
 ---
 
-###### #️⃣ Q.662 {#q662}
+##### #️⃣ Q.662 {#q662}
 
 Pode-se, com utilidade, orar por outrem?
 
@@ -790,13 +790,13 @@ O pensamento e a vontade representam em nós um poder de ação que alcança mui
 :::
 
 ::: expand 🔗
-🏷️ [Intercessão](#intercessão)
-🏷️ [Oração](#oração)
+🏷️ [Intercessão](#intercessao)
+🏷️ [Oração](#oracao)
 :::
 
 ---
 
-###### #️⃣ Q.663 {#q663}
+##### #️⃣ Q.663 {#q663}
 
 Podem as preces, que por nós mesmos fizermos, mudar a natureza das nossas provas e desviar-lhes o curso?
 
@@ -809,14 +809,14 @@ Ele é punido naquilo em que pecou. Todavia, as súplicas justas são atendidas 
 ::: expand 🔗
 🏷️ [Acaso](#acaso)
 🏷️ [Lei divina](#lei-divina)
-🏷️ [Oração](#oração)
+🏷️ [Oração](#oracao)
 🏷️ [Provas](#provas)
-🏷️ [Provação](#provação)
+🏷️ [Provação](#provacao)
 :::
 
 ---
 
-###### #️⃣ Q.664 {#q664}
+##### #️⃣ Q.664 {#q664}
 
 Será útil que oremos pelos mortos e pelos Espíritos sofredores? E, neste caso, como podem as nossas preces lhes proporcionar alívio e abreviar os sofrimentos? Têm elas o poder de abrandar a Justiça de Deus?
 
@@ -826,14 +826,14 @@ Será útil que oremos pelos mortos e pelos Espíritos sofredores? E, neste caso
 
 ::: expand 🔗
 🏷️ [Despertamento](#despertamento)
-🏷️ [Espírito sofredor](#espírito-sofredor)
+🏷️ [Espírito sofredor](#espirito-sofredor)
 🏷️ [Morto](#morto)
-🏷️ [Oração](#oração)
+🏷️ [Oração](#oracao)
 :::
 
 ---
 
-###### #️⃣ Q.665 {#q665}
+##### #️⃣ Q.665 {#q665}
 
 Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por não se achar prescrita no Evangelho?
 
@@ -844,7 +844,7 @@ Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por
 ::: bible
 ✝️ ▸ *Amarás o teu próximo como a ti mesmo.*
 
-Mateus, cap. 22, vers. 39, ARC
+**Mateus, cap. 22, vers. 39, ARC**
 :::
 
 Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas **só** então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
@@ -853,12 +853,12 @@ Esta recomendação contém a de empregar o homem todos os meios possíveis para
 ::: expand 🔗
 🏷️ [Mandamento](#mandamento)
 🏷️ [Morto](#morto)
-🏷️ [Oração](#oração)
+🏷️ [Oração](#oracao)
 :::
 
 ---
 
-###### #️⃣ Q.666 {#q666}
+##### #️⃣ Q.666 {#q666}
 
 Pode-se orar aos Espíritos?
 
@@ -867,7 +867,7 @@ Pode-se orar aos Espíritos?
 :::
 
 ::: expand 🔗
-🏷️ [Espírito bom](#espírito-bom)
+🏷️ [Espírito bom](#espirito-bom)
 🏷️ [Valor](#valor)
 :::
 
@@ -875,7 +875,7 @@ Pode-se orar aos Espíritos?
 
 #### 3.02.05 📄 Politeísmo {#lde-3-02-05}
 
-###### #️⃣ Q.667 {#q667}
+##### #️⃣ Q.667 {#q667}
 
 Por que razão, não obstante ser falsa, a crença politeísta é uma das mais antigas e espalhadas?
 
@@ -885,33 +885,29 @@ Por que razão, não obstante ser falsa, a crença politeísta é uma das mais a
 
 ---
 
-###### #️⃣ Q.668 {#q668}
+##### #️⃣ Q.668 {#q668}
 
 Tendo-se produzido em todos os tempos e sendo conhecidos desde as primeiras idades do mundo, não haverão os fenônemo espíritas contribuído para a difusão da crença na pluralidade dos deuses?
 
 ::: spirit
-✨ ▸ Sem dúvida, porquanto, chamando **deus** a tudo o que era sobre-humano, os homens tinham por deuses os Espíritos. Daí veio que, quando um homem, pelas suas ações, pelo seu gênio, ou por um poder oculto que o vulgo não lograva compreender, se distinguia dos demais, faziam dele um deus e, por sua morte, lhe rendiam culto.
-
-👉 Veja Q.603
-
-A palavra deus tinha, entre os Antigos, acepção muito ampla. Não indicava, como presentemente, uma personificação do Senhor da Natureza. Era uma qualificação genérica, que se dava a todo ser existente fora das condições da Humanidade. Ora, tendo-lhes as manifestações espíritas revelado a existência de seres incorpóreos a atuarem como potência da Natureza, a esses seres deram eles o nome de **deuses**, como lhes damos atualmente o de **Espíritos**. Pura questão de palavras, com a única diferença de que, na ignorância em que se achavam, mantida intencionalmente pelos que nisso tinham interesse, eles erigiram templos e altares muito lucrativos a tais deuses, ao passo que hoje os consideramos simples criaturas como nós, mais ou menos perfeitas e despidas de seus invólucros terrestres. Se estudarmos atentamente os diversos atributos das divindades pagãs, reconheceremos, sem esforço, todos os de que vemos dotados os Espíritos nos diferentes graus da escala espírita, o estado físico em que se encontram nos mundos superiores, todas as propriedades do perispírito e os papéis que desempenham nas coisas da Terra.
+✨ ▸ Sem dúvida, porquanto, chamando **deus** a tudo o que era sobre-humano, os homens tinham por deuses os Espíritos. Daí veio que, quando um homem, pelas suas ações, pelo seu gênio, ou por um poder oculto que o vulgo não lograva compreender, se distinguia dos demais, faziam dele um deus e, por sua morte, lhe rendiam culto. (👉 Veja [Q.603](#q603)) A palavra deus tinha, entre os Antigos, acepção muito ampla. Não indicava, como presentemente, uma personificação do Senhor da Natureza. Era uma qualificação genérica, que se dava a todo ser existente fora das condições da Humanidade. Ora, tendo-lhes as manifestações espíritas revelado a existência de seres incorpóreos a atuarem como potência da Natureza, a esses seres deram eles o nome de **deuses**, como lhes damos atualmente o de **Espíritos**. Pura questão de palavras, com a única diferença de que, na ignorância em que se achavam, mantida intencionalmente pelos que nisso tinham interesse, eles erigiram templos e altares muito lucrativos a tais deuses, ao passo que hoje os consideramos simples criaturas como nós, mais ou menos perfeitas e despidas de seus invólucros terrestres. Se estudarmos atentamente os diversos atributos das divindades pagãs, reconheceremos, sem esforço, todos os de que vemos dotados os Espíritos nos diferentes graus da escala espírita, o estado físico em que se encontram nos mundos superiores, todas as propriedades do perispírito e os papéis que desempenham nas coisas da Terra.
 
 Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs destruir uma coisa que está na Natureza. Orientou, porém, a adoração para aquele a quem é devida. Quanto aos Espíritos, a lembrança deles se há perpetuado, conforme os povos, sob diversos nomes, e suas manifestações, que nunca deixaram de produzir-se, foram interpretadas de maneiras diferentes e muitas vezes exploradas sob o prestígio do mistério. Enquanto para a religião essas manifestações eram fenônemo miraculosos, para os incrédulos sempre foram embustes. Hoje, mercê de um estudo mais sério, feito à luz meridiana, o Espiritismo, escoimado das ideias supersticiosas que o ensombraram durante séculos, nos revela um dos maiores e mais sublimes princípios da Natureza.
 :::
 
 ::: expand 🔗
-🏷️ [Adoração](#adoração)
+🏷️ [Adoração](#adoracao)
 🏷️ [Cristianismo](#cristianismo)
 🏷️ [Deus](#deus)
-🏷️ [Fenômeno espírita](#fenômeno-espírita)
-🏷️ [Politeísmo](#politeísmo)
+🏷️ [Fenômeno espírita](#fenomeno-espirita)
+🏷️ [Politeísmo](#politeismo)
 :::
 
 ---
 
 #### 3.02.06 📄 Sacrifícios {#lde-3-02-06}
 
-###### #️⃣ Q.669 {#q669}
+##### #️⃣ Q.669 {#q669}
 
 Remonta à mais alta antiguidade o uso dos sacrifícios humanos. Como se explica que o homem tenha sido levado a crer que tais coisas pudessem agradar a Deus?
 
@@ -921,7 +917,7 @@ Remonta à mais alta antiguidade o uso dos sacrifícios humanos. Como se explica
 
 ---
 
-###### #️⃣ Q.669.a {#q669a}
+##### #️⃣ Q.669.a {#q669a}
 
 De modo que os sacrifícios de animais precederam os sacrifícios humanos?
 
@@ -930,14 +926,14 @@ De modo que os sacrifícios de animais precederam os sacrifícios humanos?
 :::
 
 ::: expand 🔗
-🏷️ [Adoração](#adoração)
+🏷️ [Adoração](#adoracao)
 🏷️ [Animais](#animais)
-🏷️ [Sacrifício](#sacrifício)
+🏷️ [Sacrifício](#sacrificio)
 :::
 
 ---
 
-###### #️⃣ Q.669.b {#q669b}
+##### #️⃣ Q.669.b {#q669b}
 
 Então, de acordo com a explicação que vindes de dar, não foi de um sentimento de crueldade que se originaram os sacrifícios humanos?
 
@@ -946,13 +942,13 @@ Então, de acordo com a explicação que vindes de dar, não foi de um sentiment
 :::
 
 ::: expand 🔗
-🏷️ [Adoração](#adoração)
-🏷️ [Sacrifício](#sacrifício)
+🏷️ [Adoração](#adoracao)
+🏷️ [Sacrifício](#sacrificio)
 :::
 
 ---
 
-###### #️⃣ Q.670 {#q670}
+##### #️⃣ Q.670 {#q670}
 
 Dar-se-á que alguma vez possam ter sido agradáveis a Deus os sacrifícios humanos praticados com piedosa intenção?
 
@@ -961,14 +957,14 @@ Dar-se-á que alguma vez possam ter sido agradáveis a Deus os sacrifícios huma
 :::
 
 ::: expand 🔗
-🏷️ [Aperfeiçoamento](#aperfeiçoamento)
+🏷️ [Aperfeiçoamento](#aperfeicoamento)
 🏷️ [Deus](#deus)
 🏷️ [Valor](#valor)
 :::
 
 ---
 
-###### #️⃣ Q.671 {#q671}
+##### #️⃣ Q.671 {#q671}
 
 Que devemos pensar das chamadas guerras santas? O sentimento que impele os povos fanáticos, tendo em vista agradar a Deus, a exterminarem o mais possível os que não partilham de suas crenças, poderá equiparar-se, quanto à origem, ao sentimento que os excitava outrora a sacrificarem seus semelhantes?
 
@@ -983,7 +979,7 @@ Que devemos pensar das chamadas guerras santas? O sentimento que impele os povos
 
 ---
 
-###### #️⃣ Q.672 {#q672}
+##### #️⃣ Q.672 {#q672}
 
 A oferenda feita a Deus, de frutos da terra, tinha a seus olhos mais mérito do que o sacrifício dos animais?
 
@@ -994,13 +990,13 @@ A oferenda feita a Deus, de frutos da terra, tinha a seus olhos mais mérito do 
 ::: expand 🔗
 🏷️ [Deus](#deus)
 🏷️ [Oferenda](#oferenda)
-🏷️ [Sacrifício](#sacrifício)
+🏷️ [Sacrifício](#sacrificio)
 🏷️ [Valor](#valor)
 :::
 
 ---
 
-###### #️⃣ Q.673 {#q673}
+##### #️⃣ Q.673 {#q673}
 
 Não seria um meio de tornar essas oferendas agradáveis a Deus consagrá-las a minorar os sofrimentos daqueles a quem falta o necessário e, neste caso, o sacrifício dos animais, praticado com fim útil, não se tornaria meritório, ao passo que era abusivo quando para nada servia, ou só aproveitava aos que de nada precisavam? Não haveria qualquer coisa de verdadeiramente piedoso em consagrar-se aos pobres as primícias dos bens que Deus nos concede na Terra?
 
@@ -1009,7 +1005,7 @@ Não seria um meio de tornar essas oferendas agradáveis a Deus consagrá-las a 
 :::
 
 ::: expand 🔗
-🏷️ [Adoração](#adoração)
+🏷️ [Adoração](#adoracao)
 🏷️ [Bem](#bem)
 🏷️ [Oferenda](#oferenda)
 :::
@@ -1020,7 +1016,7 @@ Não seria um meio de tornar essas oferendas agradáveis a Deus consagrá-las a 
 
 #### 3.03.01 📄 Necessidade do trabalho {#lde-3-03-01}
 
-###### #️⃣ Q.674 {#q674}
+##### #️⃣ Q.674 {#q674}
 
 A necessidade do trabalho é Lei da Natureza?
 
@@ -1030,7 +1026,7 @@ A necessidade do trabalho é Lei da Natureza?
 
 ---
 
-###### #️⃣ Q.675 {#q675}
+##### #️⃣ Q.675 {#q675}
 
 Por trabalho só se devem entender as ocupações materiais?
 
@@ -1039,13 +1035,13 @@ Por trabalho só se devem entender as ocupações materiais?
 :::
 
 ::: expand 🔗
-🏷️ [Ocupação](#ocupação)
+🏷️ [Ocupação](#ocupacao)
 🏷️ [Trabalho](#trabalho)
 :::
 
 ---
 
-###### #️⃣ Q.676 {#q676}
+##### #️⃣ Q.676 {#q676}
 
 Por que o trabalho se impõe ao homem?
 
@@ -1059,7 +1055,7 @@ Por que o trabalho se impõe ao homem?
 
 ---
 
-###### #️⃣ Q.677 {#q677}
+##### #️⃣ Q.677 {#q677}
 
 Por que provê a Natureza, por si mesma, a todas as necessidades dos animais?
 
@@ -1074,7 +1070,7 @@ Por que provê a Natureza, por si mesma, a todas as necessidades dos animais?
 
 ---
 
-###### #️⃣ Q.678 {#q678}
+##### #️⃣ Q.678 {#q678}
 
 Nos mundos mais aperfeiçoados, os homens se acham submetidos à mesma necessidade de trabalhar?
 
@@ -1089,7 +1085,7 @@ Nos mundos mais aperfeiçoados, os homens se acham submetidos à mesma necessida
 
 ---
 
-###### #️⃣ Q.679 {#q679}
+##### #️⃣ Q.679 {#q679}
 
 Achar-se-á isento da lei do trabalho o homem que possua bens suficientes para lhe assegurarem a existência?
 
@@ -1105,7 +1101,7 @@ Aquele a quem Deus facultou a posse de bens suficientes a lhe garantirem a exist
 
 ---
 
-###### #️⃣ Q.680 {#q680}
+##### #️⃣ Q.680 {#q680}
 
 Não há homens que se encontram impossibilitados de trabalhar no que quer que seja e cuja existência é, portanto, inútil?
 
@@ -1114,12 +1110,12 @@ Não há homens que se encontram impossibilitados de trabalhar no que quer que s
 :::
 
 ::: expand 🔗
-🏷️ [Aptidão](#aptidão)
+🏷️ [Aptidão](#aptidao)
 :::
 
 ---
 
-###### #️⃣ Q.681 {#q681}
+##### #️⃣ Q.681 {#q681}
 
 A Lei da Natureza impõe aos filhos a obrigação de trabalharem para seus pais?
 
@@ -1135,7 +1131,7 @@ A Lei da Natureza impõe aos filhos a obrigação de trabalharem para seus pais?
 
 #### 3.03.02 📄 Limite do trabalho. Repouso {#lde-3-03-02}
 
-###### #️⃣ Q.682 {#q682}
+##### #️⃣ Q.682 {#q682}
 
 Sendo uma necessidade para todo aquele que trabalha, o repouso não é também uma Lei da Natureza?
 
@@ -1145,7 +1141,7 @@ Sendo uma necessidade para todo aquele que trabalha, o repouso não é também u
 
 ---
 
-###### #️⃣ Q.683 {#q683}
+##### #️⃣ Q.683 {#q683}
 
 Qual o limite do trabalho?
 
@@ -1160,7 +1156,7 @@ Qual o limite do trabalho?
 
 ---
 
-###### #️⃣ Q.684 {#q684}
+##### #️⃣ Q.684 {#q684}
 
 Que se deve pensar dos que abusam de sua autoridade, impondo a seus inferiores excessivo trabalho?
 
@@ -1174,7 +1170,7 @@ Que se deve pensar dos que abusam de sua autoridade, impondo a seus inferiores e
 
 ---
 
-###### #️⃣ Q.685 {#q685}
+##### #️⃣ Q.685 {#q685}
 
 Tem o homem o direito de repousar na velhice?
 
@@ -1189,7 +1185,7 @@ Tem o homem o direito de repousar na velhice?
 
 ---
 
-###### #️⃣ Q.685.a {#q685a}
+##### #️⃣ Q.685.a {#q685a}
 
 Então, que há de fazer o velho que precisa trabalhar para viver e não pode?
 
@@ -1201,9 +1197,9 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 
 ::: expand 🔗
 🏷️ [Aposentadoria](#aposentadoria)
-🏷️ [Assistência social](#assistência-social)
+🏷️ [Assistência social](#assistencia-social)
 🏷️ [Economia](#economia)
-🏷️ [Educação](#educação)
+🏷️ [Educação](#educacao)
 :::
 
 ---
@@ -1212,7 +1208,7 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 
 #### 3.04.01 📄 População do globo {#lde-3-04-01}
 
-###### #️⃣ Q.686 {#q686}
+##### #️⃣ Q.686 {#q686}
 
 É Lei da Natureza a reprodução dos seres vivos?
 
@@ -1222,7 +1218,7 @@ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que a
 
 ---
 
-###### #️⃣ Q.687 {#q687}
+##### #️⃣ Q.687 {#q687}
 
 Indo sempre a população na progressão crescente que vemos, chegará tempo em que seja excessiva na Terra?
 
@@ -1231,9 +1227,9 @@ Indo sempre a população na progressão crescente que vemos, chegará tempo em 
 :::
 
 ::: expand 🔗
-🏷️ [Equilíbrio](#equilíbrio)
-🏷️ [População](#população)
-🏷️ [Reprodução](#reprodução)
+🏷️ [Equilíbrio](#equilibrio)
+🏷️ [População](#populacao)
+🏷️ [Reprodução](#reproducao)
 🏷️ [Terra](#terra)
 :::
 
@@ -1241,7 +1237,7 @@ Indo sempre a população na progressão crescente que vemos, chegará tempo em 
 
 #### 3.04.02 📄 Sucessão e aperfeiçoamento das raças {#lde-3-04-02}
 
-###### #️⃣ Q.688 {#q688}
+##### #️⃣ Q.688 {#q688}
 
 Há, neste momento, raças humanas que evidentemente decrescem. Virá momento em que terão desaparecido da Terra? [^17]
 
@@ -1251,7 +1247,7 @@ Há, neste momento, raças humanas que evidentemente decrescem. Virá momento em
 
 ---
 
-###### #️⃣ Q.689 {#q689}
+##### #️⃣ Q.689 {#q689}
 
 Os homens atuais formam uma criação nova, ou são descendentes aperfeiçoados dos seres primitivos? [^18]
 
@@ -1260,12 +1256,12 @@ Os homens atuais formam uma criação nova, ou são descendentes aperfeiçoados 
 :::
 
 ::: expand 🔗
-🏷️ [Reencarnação](#reencarnação)
+🏷️ [Reencarnação](#reencarnacao)
 :::
 
 ---
 
-###### #️⃣ Q.690 {#q690}
+##### #️⃣ Q.690 {#q690}
 
 Do ponto de vista físico, são de criação especial os corpos da raça atual, ou procedem dos corpos primitivos, mediante reprodução? [^19]
 
@@ -1274,14 +1270,14 @@ Do ponto de vista físico, são de criação especial os corpos da raça atual, 
 :::
 
 ::: expand 🔗
-🏷️ [Família](#família)
-🏷️ [Raças](#raças)
-🏷️ [Reprodução](#reprodução)
+🏷️ [Família](#familia)
+🏷️ [Raças](#racas)
+🏷️ [Reprodução](#reproducao)
 :::
 
 ---
 
-###### #️⃣ Q.691 {#q691}
+##### #️⃣ Q.691 {#q691}
 
 Qual, do ponto de vista físico, o caráter distintivo e dominante das raças primitivas? [^20]
 
@@ -1290,12 +1286,12 @@ Qual, do ponto de vista físico, o caráter distintivo e dominante das raças pr
 :::
 
 ::: expand 🔗
-🏷️ [Raças](#raças)
+🏷️ [Raças](#racas)
 :::
 
 ---
 
-###### #️⃣ Q.692 {#q692}
+##### #️⃣ Q.692 {#q692}
 
 Será contrário à Lei da Natureza o aperfeiçoamento das raças animais e vegetais pela Ciência? Seria mais conforme a essa lei deixar que as coisas seguissem seu curso normal?
 
@@ -1304,12 +1300,12 @@ Será contrário à Lei da Natureza o aperfeiçoamento das raças animais e vege
 :::
 
 ::: expand 🔗
-🏷️ [Ciência](#ciência)
+🏷️ [Ciência](#ciencia)
 :::
 
 ---
 
-###### #️⃣ Q.692.a {#q692a}
+##### #️⃣ Q.692.a {#q692a}
 
 Geralmente, os esforços que o homem emprega para conseguir a melhoria das raças nascem de um sentimento pessoal e não objetivam senão o acréscimo de seus gozos. Isto não lhe diminui o mérito?
 
@@ -1318,7 +1314,7 @@ Geralmente, os esforços que o homem emprega para conseguir a melhoria das raça
 :::
 
 ::: expand 🔗
-🏷️ [Mérito](#mérito)
+🏷️ [Mérito](#merito)
 🏷️ [Progresso](#progresso)
 :::
 
@@ -1326,7 +1322,7 @@ Geralmente, os esforços que o homem emprega para conseguir a melhoria das raça
 
 #### 3.04.03 📄 Obstáculos à reprodução {#lde-3-04-03}
 
-###### #️⃣ Q.693 {#q693}
+##### #️⃣ Q.693 {#q693}
 
 São contrários à Lei da Natureza as leis e os costumes humanos que têm por fim ou por efeito criar obstáculos à reprodução?
 
@@ -1336,7 +1332,7 @@ São contrários à Lei da Natureza as leis e os costumes humanos que têm por f
 
 ---
 
-###### #️⃣ Q.693.a {#q693a}
+##### #️⃣ Q.693.a {#q693a}
 
 Entretanto, há espécies de seres vivos, animais e plantas, cuja reprodução indefinida seria nociva a outras espécies e das quais o próprio homem acabaria por ser vítima. Pratica ele ato repreensível, impedindo essa reprodução?
 
@@ -1346,7 +1342,7 @@ Entretanto, há espécies de seres vivos, animais e plantas, cuja reprodução i
 
 ---
 
-###### #️⃣ Q.694 {#q694}
+##### #️⃣ Q.694 {#q694}
 
 Que se deve pensar dos usos, cujo efeito consiste em obstar à reprodução, para satisfação da sensualidade?
 
@@ -1355,14 +1351,14 @@ Que se deve pensar dos usos, cujo efeito consiste em obstar à reprodução, par
 :::
 
 ::: expand 🔗
-🏷️ [Reprodução](#reprodução)
+🏷️ [Reprodução](#reproducao)
 :::
 
 ---
 
 #### 3.04.04 📄 Casamento e celibato {#lde-3-04-04}
 
-###### #️⃣ Q.695 {#q695}
+##### #️⃣ Q.695 {#q695}
 
 Será contrário à Lei da Natureza o casamento, isto é, a união permanente de dois seres?
 
@@ -1372,7 +1368,7 @@ Será contrário à Lei da Natureza o casamento, isto é, a união permanente de
 
 ---
 
-###### #️⃣ Q.696 {#q696}
+##### #️⃣ Q.696 {#q696}
 
 Que efeito teria sobre a sociedade humana a abolição do casamento?
 
@@ -1388,7 +1384,7 @@ O estado de natureza é o da união livre e fortuita dos sexos. O casamento cons
 
 ---
 
-###### #️⃣ Q.697 {#q697}
+##### #️⃣ Q.697 {#q697}
 
 Está na Lei da Natureza, ou somente na lei humana, a indissolubilidade absoluta do casamento?
 
@@ -1397,13 +1393,13 @@ Está na Lei da Natureza, ou somente na lei humana, a indissolubilidade absoluta
 :::
 
 ::: expand 🔗
-🏷️ [Divórcio](#divórcio)
+🏷️ [Divórcio](#divorcio)
 🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
 
-###### #️⃣ Q.698 {#q698}
+##### #️⃣ Q.698 {#q698}
 
 O celibato voluntário representa um estado de perfeição meritório aos olhos de Deus?
 
@@ -1412,12 +1408,12 @@ O celibato voluntário representa um estado de perfeição meritório aos olhos 
 :::
 
 ::: expand 🔗
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Egoísmo](#egoismo)
 :::
 
 ---
 
-###### #️⃣ Q.699 {#q699}
+##### #️⃣ Q.699 {#q699}
 
 Da parte de certas pessoas, o celibato não será um sacrifício que fazem com o fim de se votarem, de modo mais completo, ao serviço da Humanidade?
 
@@ -1435,7 +1431,7 @@ Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fe
 
 #### 3.04.05 📄 Poligamia {#lde-3-04-05}
 
-###### #️⃣ Q.700 {#q700}
+##### #️⃣ Q.700 {#q700}
 
 A igualdade numérica, que mais ou menos existe entre os sexos, constitui indício da proporção em que devam unir-se?
 
@@ -1445,7 +1441,7 @@ A igualdade numérica, que mais ou menos existe entre os sexos, constitui indíc
 
 ---
 
-###### #️⃣ Q.701 {#q701}
+##### #️⃣ Q.701 {#q701}
 
 Qual das duas, a poligamia ou a monogamia, é mais conforme a Lei da Natureza?
 
@@ -1469,7 +1465,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 
 #### 3.05.01 📄 Instinto de conservação {#lde-3-05-01}
 
-###### #️⃣ Q.702 {#q702}
+##### #️⃣ Q.702 {#q702}
 
 É Lei da Natureza o instinto de conservação?
 
@@ -1479,7 +1475,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 
 ---
 
-###### #️⃣ Q.703 {#q703}
+##### #️⃣ Q.703 {#q703}
 
 Com que fim outorgou Deus a todos os seres vivos o instinto de conservação?
 
@@ -1488,7 +1484,7 @@ Com que fim outorgou Deus a todos os seres vivos o instinto de conservação?
 :::
 
 ::: expand 🔗
-🏷️ [Aperfeiçoamento](#aperfeiçoamento)
+🏷️ [Aperfeiçoamento](#aperfeicoamento)
 🏷️ [Seres vivos](#seres-vivos)
 :::
 
@@ -1496,7 +1492,7 @@ Com que fim outorgou Deus a todos os seres vivos o instinto de conservação?
 
 #### 3.05.02 📄 Meios de conservação {#lde-3-05-02}
 
-###### #️⃣ Q.704 {#q704}
+##### #️⃣ Q.704 {#q704}
 
 Tendo dado ao homem a necessidade de viver, Deus lhe facultou, em todos os tempos, os meios de o conseguir?
 
@@ -1506,7 +1502,7 @@ Tendo dado ao homem a necessidade de viver, Deus lhe facultou, em todos os tempo
 
 ---
 
-###### #️⃣ Q.705 {#q705}
+##### #️⃣ Q.705 {#q705}
 
 Por que nem sempre a Terra produz bastante para fornecer ao homem o necessário?
 
@@ -1516,12 +1512,12 @@ Por que nem sempre a Terra produz bastante para fornecer ao homem o necessário?
 
 ::: expand 🔗
 🏷️ [Homem](#homem)
-🏷️ [Necessário](#necessário)
+🏷️ [Necessário](#necessario)
 :::
 
 ---
 
-###### #️⃣ Q.706 {#q706}
+##### #️⃣ Q.706 {#q706}
 
 Por bens da Terra unicamente se devem entender os produtos do solo?
 
@@ -1535,34 +1531,30 @@ Por bens da Terra unicamente se devem entender os produtos do solo?
 
 ---
 
-###### #️⃣ Q.707 {#q707}
+##### #️⃣ Q.707 {#q707}
 
 É frequente a certos indivíduos faltarem os meios de subsistência, ainda quando os cerca a abundância. A que se deve atribuir isso?
 
 ::: spirit
-✨ ▸ Ao egoísmo dos homens, que nem sempre fazem o que lhes cumpre. Depois e as mais das vezes, devem-no a si mesmos. Buscai e achareis; estas palavras não querem dizer que, para achar o que deseje, basta que o homem olhe para a terra, mas que lhe é preciso procurá-lo, não com indolência, e sim com ardor e perseverança, sem desanimar ante os obstáculos, que muito amiúde são simples meios de que se utiliza a Providência, para lhe experimentar a constância, a paciência e a firmeza.
-
-👉 Veja Q.534
-
-Se é certo que a civilização multiplica as necessidades, também o é que multiplica as fontes de trabalho e os meios de viver. Forçoso, porém, é convir em que, a tal respeito, muito ainda lhe resta por fazer. Quando ela houver concluído a sua obra, ninguém deverá haver que possa queixar-se de lhe faltar o necessário, a não ser por sua própria culpa. A desgraça, para muitos, provém de enveredarem por uma senda diversa da que a Natureza lhes traçou. É então que lhes falece a inteligência para o bom êxito. Para todos há lugar ao sol, mas com a condição de que cada um ocupe o seu e não o dos outros. A Natureza não pode ser responsável pelos defeitos da organização social, nem pelas consequências da ambição e do amor-próprio.
+✨ ▸ Ao egoísmo dos homens, que nem sempre fazem o que lhes cumpre. Depois e as mais das vezes, devem-no a si mesmos. Buscai e achareis; estas palavras não querem dizer que, para achar o que deseje, basta que o homem olhe para a terra, mas que lhe é preciso procurá-lo, não com indolência, e sim com ardor e perseverança, sem desanimar ante os obstáculos, que muito amiúde são simples meios de que se utiliza a Providência, para lhe experimentar a constância, a paciência e a firmeza. (👉 Veja [Q.534](#q534)) Se é certo que a civilização multiplica as necessidades, também o é que multiplica as fontes de trabalho e os meios de viver. Forçoso, porém, é convir em que, a tal respeito, muito ainda lhe resta por fazer. Quando ela houver concluído a sua obra, ninguém deverá haver que possa queixar-se de lhe faltar o necessário, a não ser por sua própria culpa. A desgraça, para muitos, provém de enveredarem por uma senda diversa da que a Natureza lhes traçou. É então que lhes falece a inteligência para o bom êxito. Para todos há lugar ao sol, mas com a condição de que cada um ocupe o seu e não o dos outros. A Natureza não pode ser responsável pelos defeitos da organização social, nem pelas consequências da ambição e do amor-próprio.
 
 Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, por esse lado, têm feito os povos mais adiantados. Graças aos louváveis esforços que, juntas, a Filantropia e a Ciência não cessam de despender para melhorar a condição material dos homens e malgrado o crescimento incessante das populações, a insuficiência da produção se acha atenuada, pelo menos em grande parte, e os anos mais calamitosos do presente não se podem de modo algum comparar aos de outrora. A higiene pública, elemento tão essencial da força e da saúde, a higiene pública, que nossos pais não conheceram, é objeto de esclarecida solicitude. O infortúnio e o sofrimento encontram onde se refugiem. Por toda parte a Ciência contribui para acrescer o bem-estar. Poder-se-á dizer que já se haja chegado à perfeição? Oh! não, certamente; mas o que já se fez deixa prever o que, com perseverança, se logrará conseguir, se o homem se mostrar bastante avisado para procurar a sua felicidade nas coisas positivas e sérias e não em utopias que o levam a recuar em vez de fazê-lo avançar.
 :::
 
 ::: expand 🔗
 🏷️ [Caridade](#caridade)
-🏷️ [Civilização](#civilização)
-🏷️ [Ciência](#ciência)
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Civilização](#civilizacao)
+🏷️ [Ciência](#ciencia)
+🏷️ [Egoísmo](#egoismo)
 🏷️ [Filantropia](#filantropia)
-🏷️ [Miséria](#miséria)
-🏷️ [Obstáculos](#obstáculos)
+🏷️ [Miséria](#miseria)
+🏷️ [Obstáculos](#obstaculos)
 🏷️ [Sol](#sol)
 :::
 
 ---
 
-###### #️⃣ Q.708 {#q708}
+##### #️⃣ Q.708 {#q708}
 
 Não há situações nas quais os meios de subsistência de maneira alguma dependem da vontade do homem, sendo-lhe a privação do de que mais imperiosamente necessita uma consequência da força mesma das coisas?
 
@@ -1572,12 +1564,12 @@ Não há situações nas quais os meios de subsistência de maneira alguma depen
 
 ::: expand 🔗
 🏷️ [Desespero](#desespero)
-🏷️ [Mérito](#mérito)
+🏷️ [Mérito](#merito)
 :::
 
 ---
 
-###### #️⃣ Q.709 {#q709}
+##### #️⃣ Q.709 {#q709}
 
 Terão cometido crime os que, em certas situações críticas, se viram na contingência de sacrificar seus semelhantes, para matar a fome? Se houve crime, não teve este a atenuá-lo a necessidade de viver, que resulta do instinto de conservação?
 
@@ -1592,7 +1584,7 @@ Terão cometido crime os que, em certas situações críticas, se viram na conti
 
 ---
 
-###### #️⃣ Q.710 {#q710}
+##### #️⃣ Q.710 {#q710}
 
 Nos mundos de mais apurada organização, têm os seres vivos necessidade de alimentar-se?
 
@@ -1601,14 +1593,14 @@ Nos mundos de mais apurada organização, têm os seres vivos necessidade de ali
 :::
 
 ::: expand 🔗
-🏷️ [Alimentação](#alimentação)
+🏷️ [Alimentação](#alimentacao)
 :::
 
 ---
 
 #### 3.05.03 📄 Gozo dos bens terrenos {#lde-3-05-03}
 
-###### #️⃣ Q.711 {#q711}
+##### #️⃣ Q.711 {#q711}
 
 O uso dos bens da Terra é um direito de todos os homens?
 
@@ -1618,7 +1610,7 @@ O uso dos bens da Terra é um direito de todos os homens?
 
 ---
 
-###### #️⃣ Q.712 {#q712}
+##### #️⃣ Q.712 {#q712}
 
 Com que fim pôs Deus atrativos no gozo dos bens materiais?
 
@@ -1627,13 +1619,13 @@ Com que fim pôs Deus atrativos no gozo dos bens materiais?
 :::
 
 ::: expand 🔗
-🏷️ [Missão](#missão)
-🏷️ [Tentação](#tentação)
+🏷️ [Missão](#missao)
+🏷️ [Tentação](#tentacao)
 :::
 
 ---
 
-###### #️⃣ Q.712.a {#q712a}
+##### #️⃣ Q.712.a {#q712a}
 
 Qual o objetivo dessa tentação?
 
@@ -1645,13 +1637,13 @@ Se o homem só fosse instigado a usar dos bens terrenos pela utilidade que têm,
 
 ::: expand 🔗
 🏷️ [Bens terrenos](#bens-terrenos)
-🏷️ [Razão](#razão)
-🏷️ [Tentação](#tentação)
+🏷️ [Razão](#razao)
+🏷️ [Tentação](#tentacao)
 :::
 
 ---
 
-###### #️⃣ Q.713 {#q713}
+##### #️⃣ Q.713 {#q713}
 
 Traçou a Natureza limites aos gozos?
 
@@ -1665,21 +1657,24 @@ Traçou a Natureza limites aos gozos?
 
 ---
 
-###### #️⃣ Q.714 {#q714}
+##### #️⃣ Q.714 {#q714}
 
 Que se deve pensar do homem que procura nos excessos de todo gênero o requinte dos gozos?
 
 ::: spirit
 ✨ ▸ Pobre criatura! mais digna é de lástima que de inveja, pois bem perto está da morte!
+:::
 
-###### #️⃣ Q.714.a {#q714a}
+##### #️⃣ Q.714.a {#q714a}
 
 Perto da morte física, ou da morte moral?
 
 ::: spirit
 ✨ ▸ De ambas.
+:::
 
-O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se abaixo do bruto, pois que este sabe deter-se, quando satisfeita a sua necessidade. Abdica da razão que Deus lhe deu por guia e quanto maiores forem seus excessos, tanto maior preponderância confere ele à sua natureza animal sobre a sua natureza espiritual. As doenças, as enfermidades e, ainda, a morte, que resultam do abuso, são, ao mesmo tempo, o castigo à transgressão da Lei de Deus.
+::: kardec
+👴🏻 ▸ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se abaixo do bruto, pois que este sabe deter-se, quando satisfeita a sua necessidade. Abdica da razão que Deus lhe deu por guia e quanto maiores forem seus excessos, tanto maior preponderância confere ele à sua natureza animal sobre a sua natureza espiritual. As doenças, as enfermidades e, ainda, a morte, que resultam do abuso, são, ao mesmo tempo, o castigo à transgressão da Lei de Deus.
 :::
 
 ::: expand 🔗
@@ -1690,7 +1685,7 @@ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se 
 
 #### 3.05.04 📄 Necessário e supérfluo {#lde-3-05-04}
 
-###### #️⃣ Q.715 {#q715}
+##### #️⃣ Q.715 {#q715}
 
 Como pode o homem conhecer o limite do necessário?
 
@@ -1700,7 +1695,7 @@ Como pode o homem conhecer o limite do necessário?
 
 ---
 
-###### #️⃣ Q.716 {#q716}
+##### #️⃣ Q.716 {#q716}
 
 Mediante a organização que nos deu, não traçou a Natureza o limite das nossas necessidades?
 
@@ -1709,12 +1704,12 @@ Mediante a organização que nos deu, não traçou a Natureza o limite das nossa
 :::
 
 ::: expand 🔗
-🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Corpo físico](#corpo-fisico)
 :::
 
 ---
 
-###### #️⃣ Q.717 {#q717}
+##### #️⃣ Q.717 {#q717}
 
 Que se há de pensar dos que açambarcam os bens da Terra para se proporcionarem o supérfluo, com prejuízo daqueles a quem falta o necessário?
 
@@ -1725,7 +1720,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 :::
 
 ::: expand 🔗
-🏷️ [Ambição](#ambição)
+🏷️ [Ambição](#ambicao)
 🏷️ [Parasitose espiritual](#parasitose-espiritual)
 :::
 
@@ -1733,7 +1728,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 
 #### 3.05.05 📄 Privações voluntárias. Mortificações {#lde-3-05-05}
 
-###### #️⃣ Q.718 {#q718}
+##### #️⃣ Q.718 {#q718}
 
 A lei de conservação obriga o homem a prover às necessidades do corpo?
 
@@ -1743,7 +1738,7 @@ A lei de conservação obriga o homem a prover às necessidades do corpo?
 
 ---
 
-###### #️⃣ Q.719 {#q719}
+##### #️⃣ Q.719 {#q719}
 
 Merece censura o homem, por procurar o bem-estar?
 
@@ -1757,7 +1752,7 @@ Merece censura o homem, por procurar o bem-estar?
 
 ---
 
-###### #️⃣ Q.720 {#q720}
+##### #️⃣ Q.720 {#q720}
 
 São meritórias aos olhos de Deus as privações voluntárias, com o objetivo de uma expiação igualmente voluntária?
 
@@ -1766,19 +1761,20 @@ São meritórias aos olhos de Deus as privações voluntárias, com o objetivo d
 :::
 
 ::: expand 🔗
-🏷️ [Privação](#privação)
+🏷️ [Privação](#privacao)
 :::
 
 ---
 
-###### #️⃣ Q.720.a {#q720a}
+##### #️⃣ Q.720.a {#q720a}
 
 Haverá privações voluntárias que sejam meritórias?
 
 ::: spirit
 ✨ ▸ Há: a privação dos gozos inúteis, porque desprende da matéria o homem e lhe eleva a alma. Meritório é resistir à tentação que arrasta ao excesso ou ao gozo das coisas inúteis; é o homem tirar do que lhe é necessário para dar aos que carecem do bastante. Se a privação não passar de simulacro, será uma irrisão.
+:::
 
-###### #️⃣ Q.721 {#q721}
+##### #️⃣ Q.721 {#q721}
 
 É meritória, de qualquer ponto de vista, a vida de mortificações ascéticas que desde a mais remota antiguidade teve praticantes no seio de diversos povos?
 
@@ -1787,12 +1783,12 @@ Haverá privações voluntárias que sejam meritórias?
 :::
 
 ::: expand 🔗
-🏷️ [Mérito](#mérito)
+🏷️ [Mérito](#merito)
 :::
 
 ---
 
-###### #️⃣ Q.722 {#q722}
+##### #️⃣ Q.722 {#q722}
 
 Será racional a abstenção de certos alimentos, prescrita a diversos povos?
 
@@ -1802,12 +1798,12 @@ Será racional a abstenção de certos alimentos, prescrita a diversos povos?
 
 ::: expand 🔗
 🏷️ [Alimento](#alimento)
-🏷️ [Saúde](#saúde)
+🏷️ [Saúde](#saude)
 :::
 
 ---
 
-###### #️⃣ Q.723 {#q723}
+##### #️⃣ Q.723 {#q723}
 
 A alimentação animal é, com relação ao homem, contrária à Lei da Natureza?
 
@@ -1816,12 +1812,12 @@ A alimentação animal é, com relação ao homem, contrária à Lei da Natureza
 :::
 
 ::: expand 🔗
-🏷️ [Corpo físico](#corpo-físico)
+🏷️ [Corpo físico](#corpo-fisico)
 :::
 
 ---
 
-###### #️⃣ Q.724 {#q724}
+##### #️⃣ Q.724 {#q724}
 
 Será meritório abster-se o homem da alimentação animal, ou de outra qualquer, por expiação?
 
@@ -1830,13 +1826,13 @@ Será meritório abster-se o homem da alimentação animal, ou de outra qualquer
 :::
 
 ::: expand 🔗
-🏷️ [Alimentação](#alimentação)
-🏷️ [Mortificação](#mortificação)
+🏷️ [Alimentação](#alimentacao)
+🏷️ [Mortificação](#mortificacao)
 :::
 
 ---
 
-###### #️⃣ Q.725 {#q725}
+##### #️⃣ Q.725 {#q725}
 
 Que se deve pensar das mutilações operadas no corpo do homem ou dos animais?
 
@@ -1846,13 +1842,13 @@ Que se deve pensar das mutilações operadas no corpo do homem ou dos animais?
 
 ::: expand 🔗
 🏷️ [Alma](#alma)
-🏷️ [Conservação](#conservação)
+🏷️ [Conservação](#conservacao)
 🏷️ [Sentimento](#sentimento)
 :::
 
 ---
 
-###### #️⃣ Q.726 {#q726}
+##### #️⃣ Q.726 {#q726}
 
 Visto que os sofrimentos deste mundo nos elevam, se os suportarmos devidamente, dar-se-á que também nos elevam os que nós mesmos nos criamos?
 
@@ -1866,7 +1862,7 @@ Visto que os sofrimentos deste mundo nos elevam, se os suportarmos devidamente, 
 
 ---
 
-###### #️⃣ Q.727 {#q727}
+##### #️⃣ Q.727 {#q727}
 
 Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade tenham para outrem, deveremos cuidar de preservar-nos dos que prevejamos ou nos ameacem?
 
@@ -1875,7 +1871,7 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 :::
 
 ::: expand 🔗
-🏷️ [Conservação](#conservação)
+🏷️ [Conservação](#conservacao)
 🏷️ [Seres vivos](#seres-vivos)
 🏷️ [Sofrimento](#sofrimento)
 :::
@@ -1886,7 +1882,7 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 
 #### 3.06.01 📄 Destruição necessária e destruição abusiva {#lde-3-06-01}
 
-###### #️⃣ Q.728 {#q728}
+##### #️⃣ Q.728 {#q728}
 
 É Lei da Natureza a destruição?
 
@@ -1896,7 +1892,7 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 
 ---
 
-###### #️⃣ Q.728.a {#q728a}
+##### #️⃣ Q.728.a {#q728a}
 
 O instinto de destruição teria sido dado aos seres vivos por desígnios providenciais?
 
@@ -1905,16 +1901,16 @@ O instinto de destruição teria sido dado aos seres vivos por desígnios provid
 :::
 
 ::: expand 🔗
-🏷️ [Destruição](#destruição)
+🏷️ [Destruição](#destruicao)
 🏷️ [Homem](#homem)
-🏷️ [Matéria](#matéria)
-🏷️ [Princípio inteligente](#princípio-inteligente)
+🏷️ [Matéria](#materia)
+🏷️ [Princípio inteligente](#principio-inteligente)
 🏷️ [Seres vivos](#seres-vivos)
 :::
 
 ---
 
-###### #️⃣ Q.729 {#q729}
+##### #️⃣ Q.729 {#q729}
 
 Se a regeneração dos seres faz necessária a destruição, por que os cerca a Natureza de meios de preservação e conservação?
 
@@ -1923,13 +1919,13 @@ Se a regeneração dos seres faz necessária a destruição, por que os cerca a 
 :::
 
 ::: expand 🔗
-🏷️ [Destruição](#destruição)
-🏷️ [Princípio inteligente](#princípio-inteligente)
+🏷️ [Destruição](#destruicao)
+🏷️ [Princípio inteligente](#principio-inteligente)
 :::
 
 ---
 
-###### #️⃣ Q.730 {#q730}
+##### #️⃣ Q.730 {#q730}
 
 Uma vez que a morte nos faz passar a uma vida melhor, nos livra dos males desta, sendo, pois, mais de desejar do que de temer, por que lhe tem o homem, instintivamente, tal horror, que ela lhe é sempre motivo de apreensão?
 
@@ -1938,7 +1934,7 @@ Uma vez que a morte nos faz passar a uma vida melhor, nos livra dos males desta,
 :::
 
 ::: expand 🔗
-🏷️ [Ingratidão](#ingratidão)
+🏷️ [Ingratidão](#ingratidao)
 🏷️ [Instinto](#instinto)
 🏷️ [Medo](#medo)
 🏷️ [Morte](#morte)
@@ -1948,7 +1944,7 @@ Uma vez que a morte nos faz passar a uma vida melhor, nos livra dos males desta,
 
 ---
 
-###### #️⃣ Q.731 {#q731}
+##### #️⃣ Q.731 {#q731}
 
 Por que, ao lado dos meios de conservação, colocou a Natureza os agentes de destruição?
 
@@ -1957,12 +1953,12 @@ Por que, ao lado dos meios de conservação, colocou a Natureza os agentes de de
 :::
 
 ::: expand 🔗
-🏷️ [Destruição](#destruição)
+🏷️ [Destruição](#destruicao)
 :::
 
 ---
 
-###### #️⃣ Q.732 {#q732}
+##### #️⃣ Q.732 {#q732}
 
 Será idêntica, em todos os mundos, a necessidade de destruição?
 
@@ -1971,14 +1967,14 @@ Será idêntica, em todos os mundos, a necessidade de destruição?
 :::
 
 ::: expand 🔗
-🏷️ [Destruição](#destruição)
-🏷️ [Existência](#existência)
+🏷️ [Destruição](#destruicao)
+🏷️ [Existência](#existencia)
 🏷️ [Mundos](#mundos)
 :::
 
 ---
 
-###### #️⃣ Q.733 {#q733}
+##### #️⃣ Q.733 {#q733}
 
 Entre os homens da Terra existirá sempre a necessidade da destruição?
 
@@ -1987,13 +1983,13 @@ Entre os homens da Terra existirá sempre a necessidade da destruição?
 :::
 
 ::: expand 🔗
-🏷️ [Destruição](#destruição)
+🏷️ [Destruição](#destruicao)
 🏷️ [Homem](#homem)
 :::
 
 ---
 
-###### #️⃣ Q.734 {#q734}
+##### #️⃣ Q.734 {#q734}
 
 Em seu estado atual, tem o homem direito ilimitado de destruição sobre os animais?
 
@@ -2004,13 +2000,13 @@ Em seu estado atual, tem o homem direito ilimitado de destruição sobre os anim
 ::: expand 🔗
 🏷️ [Abuso](#abuso)
 🏷️ [Animais](#animais)
-🏷️ [Destruição](#destruição)
+🏷️ [Destruição](#destruicao)
 🏷️ [Direito](#direito)
 :::
 
 ---
 
-###### #️⃣ Q.735 {#q735}
+##### #️⃣ Q.735 {#q735}
 
 Que se deve pensar da destruição, quando ultrapassa os limites que as necessidades e a segurança traçam? Da caça, por exemplo, quando não objetiva senão o prazer de destruir sem utilidade?
 
@@ -2019,13 +2015,13 @@ Que se deve pensar da destruição, quando ultrapassa os limites que as necessid
 :::
 
 ::: expand 🔗
-🏷️ [Destruição](#destruição)
+🏷️ [Destruição](#destruicao)
 🏷️ [Liberdade](#liberdade)
 :::
 
 ---
 
-###### #️⃣ Q.736 {#q736}
+##### #️⃣ Q.736 {#q736}
 
 Especial merecimento terão os povos que levam ao excesso o escrúpulo, quanto à destruição dos animais?
 
@@ -2034,8 +2030,8 @@ Especial merecimento terão os povos que levam ao excesso o escrúpulo, quanto �
 :::
 
 ::: expand 🔗
-🏷️ [Destruição](#destruição)
-🏷️ [Necessário](#necessário)
+🏷️ [Destruição](#destruicao)
+🏷️ [Necessário](#necessario)
 🏷️ [Zelo](#zelo)
 :::
 
@@ -2043,7 +2039,7 @@ Especial merecimento terão os povos que levam ao excesso o escrúpulo, quanto �
 
 #### 3.06.02 📄 Flagelos destruidores {#lde-3-06-02}
 
-###### #️⃣ Q.737 {#q737}
+##### #️⃣ Q.737 {#q737}
 
 Com que fim fere Deus a Humanidade por meio de flagelos destruidores?
 
@@ -2053,7 +2049,7 @@ Com que fim fere Deus a Humanidade por meio de flagelos destruidores?
 
 ---
 
-###### #️⃣ Q.738 {#q738}
+##### #️⃣ Q.738 {#q738}
 
 Para conseguir a melhora da Humanidade, não podia Deus empregar outros meios que não os flagelos destruidores?
 
@@ -2064,24 +2060,24 @@ Para conseguir a melhora da Humanidade, não podia Deus empregar outros meios qu
 ::: expand 🔗
 🏷️ [Humanidade](#humanidade)
 🏷️ [Progresso](#progresso)
-🏷️ [Providência divina](#providência-divina)
+🏷️ [Providência divina](#providencia-divina)
 :::
 
 ---
 
-###### #️⃣ Q.738.a {#q738a}
+##### #️⃣ Q.738.a {#q738a}
 
 Mas nesses flagelos tanto sucumbe o homem de bem como o perverso. Será justo isso?
 
 ::: spirit
 ✨ ▸ Pode e os emprega todos os dias, pois que deu a cada um os meios de progredir pelo conhecimento do bem e do mal. O homem, porém, não se aproveita desses meios. Necessário, portanto, se torna que seja castigado no seu orgulho e que se lhe faça sentir a sua fraqueza.
-Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa pensa depois da morte. Ora, conforme temos dito, a vida do corpo bem pouca coisa é. Um século no vosso mundo não passa de um **relâmpago na eternidade**. Logo, nada são os sofrimentos de alguns dias ou de alguns meses, de que tanto vos queixais. Representam um ensino que se vos dá e que vos servirá no futuro. Os Espíritos, que preexistem e sobrevivem a tudo, formam o mundo real (👉 Veja Q.85). Esses os filhos de Deus e o objeto de toda a sua solicitude. Os corpos são meros disfarces com que eles aparecem no mundo. Por ocasião das grandes calamidades que dizimam os homens, o espetáculo é semelhante ao de um exército cujos soldados, durante a guerra, ficassem com seus uniformes estragados, rotos, ou perdidos. O general se preocupa mais com seus soldados do que com os uniformes deles.
+Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa pensa depois da morte. Ora, conforme temos dito, a vida do corpo bem pouca coisa é. Um século no vosso mundo não passa de um **relâmpago na eternidade**. Logo, nada são os sofrimentos de alguns dias ou de alguns meses, de que tanto vos queixais. Representam um ensino que se vos dá e que vos servirá no futuro. Os Espíritos, que preexistem e sobrevivem a tudo, formam o mundo real (👉 Veja [Q.85](#q85)). Esses os filhos de Deus e o objeto de toda a sua solicitude. Os corpos são meros disfarces com que eles aparecem no mundo. Por ocasião das grandes calamidades que dizimam os homens, o espetáculo é semelhante ao de um exército cujos soldados, durante a guerra, ficassem com seus uniformes estragados, rotos, ou perdidos. O general se preocupa mais com seus soldados do que com os uniformes deles.
 :::
 
 ::: expand 🔗
 🏷️ [Calamidades](#calamidades)
 🏷️ [Corpo](#corpo)
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 🏷️ [Eternidade](#eternidade)
 🏷️ [Morte](#morte)
 🏷️ [Sofrimento](#sofrimento)
@@ -2089,7 +2085,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 
 ---
 
-###### #️⃣ Q.738.b {#q738b}
+##### #️⃣ Q.738.b {#q738b}
 
 Mas nem por isso as vítimas desses flagelos deixam de o ser.
 
@@ -2107,7 +2103,7 @@ Venha por um flagelo a morte, ou por uma causa comum, ninguém deixa por isso de
 
 ---
 
-###### #️⃣ Q.739 {#q739}
+##### #️⃣ Q.739 {#q739}
 
 Têm os flagelos destruidores utilidade, do ponto de vista físico, não obstante os males que ocasionam?
 
@@ -2121,7 +2117,7 @@ Têm os flagelos destruidores utilidade, do ponto de vista físico, não obstant
 
 ---
 
-###### #️⃣ Q.740 {#q740}
+##### #️⃣ Q.740 {#q740}
 
 Não serão os flagelos, igualmente, provas morais para o homem, por porem-no a braços com as mais aflitivas necessidades?
 
@@ -2136,7 +2132,7 @@ Não serão os flagelos, igualmente, provas morais para o homem, por porem-no a 
 
 ---
 
-###### #️⃣ Q.741 {#q741}
+##### #️⃣ Q.741 {#q741}
 
 Dado é ao homem conjurar os flagelos que o afligem?
 
@@ -2147,16 +2143,16 @@ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, 
 :::
 
 ::: expand 🔗
-🏷️ [Ciência](#ciência)
+🏷️ [Ciência](#ciencia)
 🏷️ [Flagelos](#flagelos)
-🏷️ [Prevenção](#prevenção)
+🏷️ [Prevenção](#prevencao)
 :::
 
 ---
 
 #### 3.06.03 📄 Guerras {#lde-3-06-03}
 
-###### #️⃣ Q.742 {#q742}
+##### #️⃣ Q.742 {#q742}
 
 Que é o que impele o homem à guerra?
 
@@ -2166,7 +2162,7 @@ Que é o que impele o homem à guerra?
 
 ---
 
-###### #️⃣ Q.743 {#q743}
+##### #️⃣ Q.743 {#q743}
 
 Da face da Terra, algum dia, a guerra desaparecerá?
 
@@ -2180,7 +2176,7 @@ Da face da Terra, algum dia, a guerra desaparecerá?
 
 ---
 
-###### #️⃣ Q.744 {#q744}
+##### #️⃣ Q.744 {#q744}
 
 Que objetivou a Providência, tornando necessária a guerra?
 
@@ -2194,7 +2190,7 @@ Que objetivou a Providência, tornando necessária a guerra?
 
 ---
 
-###### #️⃣ Q.744.a {#q744a}
+##### #️⃣ Q.744.a {#q744a}
 
 Desde que a guerra deve ter por efeito produzir o advento da liberdade, como pode frequentemente ter por objetivo e resultado a escravização?
 
@@ -2208,7 +2204,7 @@ Desde que a guerra deve ter por efeito produzir o advento da liberdade, como pod
 
 ---
 
-###### #️⃣ Q.745 {#q745}
+##### #️⃣ Q.745 {#q745}
 
 Que se deve pensar daquele que suscita a guerra para proveito seu?
 
@@ -2217,7 +2213,7 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 :::
 
 ::: expand 🔗
-🏷️ [Ambição](#ambição)
+🏷️ [Ambição](#ambicao)
 🏷️ [Guerra](#guerra)
 :::
 
@@ -2225,7 +2221,7 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 
 #### 3.06.04 📄 Assassínio {#lde-3-06-04}
 
-###### #️⃣ Q.746 {#q746}
+##### #️⃣ Q.746 {#q746}
 
 É crime aos olhos de Deus o assassínio?
 
@@ -2235,7 +2231,7 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 
 ---
 
-###### #️⃣ Q.747 {#q747}
+##### #️⃣ Q.747 {#q747}
 
 É sempre do mesmo grau a culpabilidade em todos os casos de assassínio?
 
@@ -2245,12 +2241,12 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 
 ::: expand 🔗
 🏷️ [Assassinato](#assassinato)
-🏷️ [Justiça divina](#justiça-divina)
+🏷️ [Justiça divina](#justica-divina)
 :::
 
 ---
 
-###### #️⃣ Q.748 {#q748}
+##### #️⃣ Q.748 {#q748}
 
 Em caso de legítima defesa, escusa Deus o assassínio?
 
@@ -2260,12 +2256,12 @@ Em caso de legítima defesa, escusa Deus o assassínio?
 
 ::: expand 🔗
 🏷️ [Assassinato](#assassinato)
-🏷️ [Legítima defesa](#legítima-defesa)
+🏷️ [Legítima defesa](#legitima-defesa)
 :::
 
 ---
 
-###### #️⃣ Q.749 {#q749}
+##### #️⃣ Q.749 {#q749}
 
 Tem o homem culpa dos assassínios que pratica durante a guerra?
 
@@ -2282,7 +2278,7 @@ Tem o homem culpa dos assassínios que pratica durante a guerra?
 
 ---
 
-###### #️⃣ Q.750 {#q750}
+##### #️⃣ Q.750 {#q750}
 
 Qual o mais condenável aos olhos de Deus, o parricídio ou o infanticídio?
 
@@ -2291,14 +2287,14 @@ Qual o mais condenável aos olhos de Deus, o parricídio ou o infanticídio?
 :::
 
 ::: expand 🔗
-🏷️ [Infanticídio](#infanticídio)
-🏷️ [Justiça divina](#justiça-divina)
-🏷️ [Parricídio](#parricídio)
+🏷️ [Infanticídio](#infanticidio)
+🏷️ [Justiça divina](#justica-divina)
+🏷️ [Parricídio](#parricidio)
 :::
 
 ---
 
-###### #️⃣ Q.751 {#q751}
+##### #️⃣ Q.751 {#q751}
 
 Como se explica que entre alguns povos, já adiantados sob o ponto de vista intelectual, o infanticídio seja um costume e esteja consagrado pela legislação?
 
@@ -2309,7 +2305,7 @@ Como se explica que entre alguns povos, já adiantados sob o ponto de vista inte
 ::: expand 🔗
 🏷️ [Conhecimento](#conhecimento)
 🏷️ [Costume](#costume)
-🏷️ [Infanticídio](#infanticídio)
+🏷️ [Infanticídio](#infanticidio)
 🏷️ [Sentimento](#sentimento)
 :::
 
@@ -2317,7 +2313,7 @@ Como se explica que entre alguns povos, já adiantados sob o ponto de vista inte
 
 #### 3.06.05 📄 Crueldade {#lde-3-06-05}
 
-###### #️⃣ Q.752 {#q752}
+##### #️⃣ Q.752 {#q752}
 
 Poder-se-á ligar o sentimento de crueldade ao instinto de destruição?
 
@@ -2327,7 +2323,7 @@ Poder-se-á ligar o sentimento de crueldade ao instinto de destruição?
 
 ---
 
-###### #️⃣ Q.753 {#q753}
+##### #️⃣ Q.753 {#q753}
 
 Por que razão a crueldade forma o caráter predominante dos povos primitivos?
 
@@ -2337,13 +2333,13 @@ Por que razão a crueldade forma o caráter predominante dos povos primitivos?
 
 ::: expand 🔗
 🏷️ [Crueldade](#crueldade)
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 🏷️ [Instinto](#instinto)
 :::
 
 ---
 
-###### #️⃣ Q.754 {#q754}
+##### #️⃣ Q.754 {#q754}
 
 A crueldade não derivará da carência de senso moral?
 
@@ -2361,7 +2357,7 @@ Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolv
 
 ---
 
-###### #️⃣ Q.755 {#q755}
+##### #️⃣ Q.755 {#q755}
 
 Como pode dar-se que, no seio da mais adiantada civilização, se encontrem seres às vezes tão cruéis quanto os selvagens?
 
@@ -2370,15 +2366,15 @@ Como pode dar-se que, no seio da mais adiantada civilização, se encontrem sere
 :::
 
 ::: expand 🔗
-🏷️ [Civilização](#civilização)
+🏷️ [Civilização](#civilizacao)
 🏷️ [Crueldade](#crueldade)
-🏷️ [Espírito inferior](#espírito-inferior)
-🏷️ [Reencarnação](#reencarnação)
+🏷️ [Espírito inferior](#espirito-inferior)
+🏷️ [Reencarnação](#reencarnacao)
 :::
 
 ---
 
-###### #️⃣ Q.756 {#q756}
+##### #️⃣ Q.756 {#q756}
 
 A sociedade dos homens de bem se verá algum dia expurgada dos seres malfazejos?
 
@@ -2396,7 +2392,7 @@ A sociedade dos homens de bem se verá algum dia expurgada dos seres malfazejos?
 
 #### 3.06.06 📄 Duelo {#lde-3-06-06}
 
-###### #️⃣ Q.757 {#q757}
+##### #️⃣ Q.757 {#q757}
 
 Pode-se considerar o duelo como um caso de legítima defesa?
 
@@ -2406,7 +2402,7 @@ Pode-se considerar o duelo como um caso de legítima defesa?
 
 ---
 
-###### #️⃣ Q.758 {#q758}
+##### #️⃣ Q.758 {#q758}
 
 Poder-se-á considerar o duelo como um assassínio por parte daquele que, conhecendo a sua própria fraqueza, tem a quase certeza de que sucumbirá?
 
@@ -2420,7 +2416,7 @@ Poder-se-á considerar o duelo como um assassínio por parte daquele que, conhec
 
 ---
 
-###### #️⃣ Q.758.a {#q758a}
+##### #️⃣ Q.758.a {#q758a}
 
 E quando as probabilidades são as mesmas para ambos os duelistas, haverá assassínio ou suicídio?
 
@@ -2437,7 +2433,7 @@ Em todos os casos, mesmo quando as probabilidades são idênticas para ambos os 
 
 ---
 
-###### #️⃣ Q.759 {#q759}
+##### #️⃣ Q.759 {#q759}
 
 Que valor tem o que se chama **ponto de honra**, em matéria de duelo?
 
@@ -2451,7 +2447,7 @@ Que valor tem o que se chama **ponto de honra**, em matéria de duelo?
 
 ---
 
-###### #️⃣ Q.759.a {#q759a}
+##### #️⃣ Q.759.a {#q759a}
 
 Mas não há casos em que a honra se acha verdadeiramente empenhada e em que uma recusa fora covardia?
 
@@ -2463,14 +2459,14 @@ Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu
 
 ::: expand 🔗
 🏷️ [Ofensa](#ofensa)
-🏷️ [Reparação](#reparação)
+🏷️ [Reparação](#reparacao)
 :::
 
 ---
 
 #### 3.06.07 📄 Pena de morte {#lde-3-06-07}
 
-###### #️⃣ Q.760 {#q760}
+##### #️⃣ Q.760 {#q760}
 
 Desaparecerá algum dia, da legislação humana, a pena de morte?
 
@@ -2482,7 +2478,7 @@ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto p
 
 ---
 
-###### #️⃣ Q.761 {#q761}
+##### #️⃣ Q.761 {#q761}
 
 A lei de conservação dá ao homem o direito de preservar sua vida. Não usará ele desse direito, quando elimina da sociedade um membro perigoso?
 
@@ -2492,12 +2488,12 @@ A lei de conservação dá ao homem o direito de preservar sua vida. Não usará
 
 ::: expand 🔗
 🏷️ [Criminoso](#criminoso)
-🏷️ [Punição](#punição)
+🏷️ [Punição](#punicao)
 :::
 
 ---
 
-###### #️⃣ Q.762 {#q762}
+##### #️⃣ Q.762 {#q762}
 
 A pena de morte, que pode vir a ser banida das sociedades civilizadas, não terá sido de necessidade em épocas menos adiantadas?
 
@@ -2512,7 +2508,7 @@ A pena de morte, que pode vir a ser banida das sociedades civilizadas, não ter�
 
 ---
 
-###### #️⃣ Q.763 {#q763}
+##### #️⃣ Q.763 {#q763}
 
 Será um indício de progresso da civilização a restrição dos casos em que se aplica a pena de morte?
 
@@ -2521,20 +2517,20 @@ Será um indício de progresso da civilização a restrição dos casos em que s
 :::
 
 ::: expand 🔗
-🏷️ [Civilização](#civilização)
-🏷️ [Época](#época)
+🏷️ [Civilização](#civilizacao)
+🏷️ [Época](#epoca)
 :::
 
 ---
 
-###### #️⃣ Q.764 {#q764}
+##### #️⃣ Q.764 {#q764}
 
 Disse Jesus:
 
 ::: bible
 ✝️ ▸ *todos os que lançarem mão da espada à espada morrerão.*
 
-Mateus, cap. 26, vers. 51.52, ARC 
+**Mateus, cap. 26, vers. 51.52, ARC**
 :::
 
 Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
@@ -2545,12 +2541,12 @@ Estas palavras não consagram a pena de talião e, assim, a morte dada ao assass
 ::: bible
 ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.*
 
-Mateus, cap. 06, vers. 14, ARC
+**Mateus, cap. 06, vers. 14, ARC**
 :::
 
 E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, **na mesma proporção** em que houverdes perdoado, compreendei-o bem?
 
-###### #️⃣ Q.765 {#q765}
+##### #️⃣ Q.765 {#q765}
 
 Que se deve pensar da pena de morte imposta em nome de Deus?
 
@@ -2560,8 +2556,8 @@ Que se deve pensar da pena de morte imposta em nome de Deus?
 
 ::: expand 🔗
 🏷️ [Inimigo](#inimigo)
-🏷️ [Pena de talião](#pena-de-talião)
-🏷️ [Perdão](#perdão)
+🏷️ [Pena de talião](#pena-de-taliao)
+🏷️ [Perdão](#perdao)
 :::
 
 ---
@@ -2570,7 +2566,7 @@ Que se deve pensar da pena de morte imposta em nome de Deus?
 
 #### 3.07.01 📄 Necessidade da vida social {#lde-3-07-01}
 
-###### #️⃣ Q.766 {#q766}
+##### #️⃣ Q.766 {#q766}
 
 A vida social está na Natureza?
 
@@ -2580,7 +2576,7 @@ A vida social está na Natureza?
 
 ---
 
-###### #️⃣ Q.767 {#q767}
+##### #️⃣ Q.767 {#q767}
 
 É contrário à Lei da Natureza o insulamento absoluto?
 
@@ -2594,7 +2590,7 @@ A vida social está na Natureza?
 
 ---
 
-###### #️⃣ Q.768 {#q768}
+##### #️⃣ Q.768 {#q768}
 
 Procurando a sociedade, não fará o homem mais do que obedecer a um sentimento pessoal, ou há nesse sentimento algum providencial objetivo de ordem mais geral?
 
@@ -2615,7 +2611,7 @@ Homem nenhum possui faculdades completas. Mediante a união social é que elas u
 
 #### 3.07.02 📄 Vida de insulamento. Voto de silêncio {#lde-3-07-02}
 
-###### #️⃣ Q.769 {#q769}
+##### #️⃣ Q.769 {#q769}
 
 Concebe-se que, como princípio geral, a vida social esteja na Natureza; mas, uma vez que também todos os gostos estão na Natureza, por que será condenável o do insulamento absoluto, desde que cause satisfação ao homem?
 
@@ -2625,7 +2621,7 @@ Concebe-se que, como princípio geral, a vida social esteja na Natureza; mas, um
 
 ---
 
-###### #️⃣ Q.770 {#q770}
+##### #️⃣ Q.770 {#q770}
 
 Que se deve pensar dos que vivem em absoluta reclusão, fugindo ao pernicioso contato do mundo?
 
@@ -2640,7 +2636,7 @@ Que se deve pensar dos que vivem em absoluta reclusão, fugindo ao pernicioso co
 
 ---
 
-###### #️⃣ Q.770.a {#q770a}
+##### #️⃣ Q.770.a {#q770a}
 
 Mas não será meritório esse retraimento, se tiver por fim uma expiação, impondo-se aquele que o busca uma privação penosa?
 
@@ -2649,13 +2645,13 @@ Mas não será meritório esse retraimento, se tiver por fim uma expiação, imp
 :::
 
 ::: expand 🔗
-🏷️ [Expiação](#expiação)
-🏷️ [Próximo](#próximo)
+🏷️ [Expiação](#expiacao)
+🏷️ [Próximo](#proximo)
 :::
 
 ---
 
-###### #️⃣ Q.771 {#q771}
+##### #️⃣ Q.771 {#q771}
 
 Que pensar dos que fogem do mundo para se votarem ao mister de socorrer os desgraçados?
 
@@ -2665,7 +2661,7 @@ Que pensar dos que fogem do mundo para se votarem ao mister de socorrer os desgr
 
 ---
 
-###### #️⃣ Q.771.a {#q771a}
+##### #️⃣ Q.771.a {#q771a}
 
 E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
@@ -2679,7 +2675,7 @@ E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
 ---
 
-###### #️⃣ Q.772 {#q772}
+##### #️⃣ Q.772 {#q772}
 
 Que pensar do voto de silêncio prescrito por algumas seitas, desde a mais remota antiguidade?
 
@@ -2691,14 +2687,14 @@ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o h
 
 ::: expand 🔗
 🏷️ [Palavra](#palavra)
-🏷️ [Voto de silêncio](#voto-de-silêncio)
+🏷️ [Voto de silêncio](#voto-de-silencio)
 :::
 
 ---
 
 #### 3.07.03 📄 Laços de família {#lde-3-07-03}
 
-###### #️⃣ Q.773 {#q773}
+##### #️⃣ Q.773 {#q773}
 
 Por que, entre os animais, os pais e os filhos deixam de reconhecer-se, desde que estes não mais precisam de cuidados?
 
@@ -2708,7 +2704,7 @@ Por que, entre os animais, os pais e os filhos deixam de reconhecer-se, desde qu
 
 ---
 
-###### #️⃣ Q.774 {#q774}
+##### #️⃣ Q.774 {#q774}
 
 Há pessoas que, do fato de os animais ao cabo de certo tempo abandonarem suas crias, deduzem não serem os laços de família, entre os homens, mais do que resultado dos costumes sociais e não efeito de uma Lei da Natureza. Que devemos pensar a esse respeito?
 
@@ -2719,13 +2715,13 @@ Há pessoas que, do fato de os animais ao cabo de certo tempo abandonarem suas c
 ::: expand 🔗
 🏷️ [Destino](#destino)
 🏷️ [Homem](#homem)
-🏷️ [Laços de família](#laços-de-família)
+🏷️ [Laços de família](#lacos-de-familia)
 🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
 
-###### #️⃣ Q.775 {#q775}
+##### #️⃣ Q.775 {#q775}
 
 Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 
@@ -2734,8 +2730,8 @@ Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 :::
 
 ::: expand 🔗
-🏷️ [Egoísmo](#egoísmo)
-🏷️ [Família](#família)
+🏷️ [Egoísmo](#egoismo)
+🏷️ [Família](#familia)
 🏷️ [Sociedade](#sociedade)
 :::
 
@@ -2745,7 +2741,7 @@ Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 
 #### 3.08.01 📄 Estado de natureza {#lde-3-08-01}
 
-###### #️⃣ Q.776 {#q776}
+##### #️⃣ Q.776 {#q776}
 
 Serão coisas idênticas o estado de natureza e a lei natural?
 
@@ -2757,7 +2753,7 @@ O estado de natureza é a infância da Humanidade e o ponto de partida do seu de
 
 ---
 
-###### #️⃣ Q.777 {#q777}
+##### #️⃣ Q.777 {#q777}
 
 Tendo o homem, no estado de natureza, menos necessidades, isento se acha das tribulações que para si mesmo cria, quando num estado de maior adiantamento. Diante disso, que se deve pensar da opinião dos que consideram aquele estado como o da mais perfeita felicidade na Terra?
 
@@ -2772,7 +2768,7 @@ Tendo o homem, no estado de natureza, menos necessidades, isento se acha das tri
 
 ---
 
-###### #️⃣ Q.778 {#q778}
+##### #️⃣ Q.778 {#q778}
 
 Pode o homem retrogradar para o estado de natureza?
 
@@ -2782,7 +2778,7 @@ Pode o homem retrogradar para o estado de natureza?
 
 ::: expand 🔗
 🏷️ [Destino](#destino)
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 🏷️ [Estado de natureza](#estado-de-natureza)
 :::
 
@@ -2790,7 +2786,7 @@ Pode o homem retrogradar para o estado de natureza?
 
 #### 3.08.02 📄 Marcha do progresso {#lde-3-08-02}
 
-###### #️⃣ Q.779 {#q779}
+##### #️⃣ Q.779 {#q779}
 
 A força para progredir, haure-a o homem em si mesmo, ou o progresso é apenas fruto de um ensinamento?
 
@@ -2800,7 +2796,7 @@ A força para progredir, haure-a o homem em si mesmo, ou o progresso é apenas f
 
 ---
 
-###### #️⃣ Q.780 {#q780}
+##### #️⃣ Q.780 {#q780}
 
 O progresso moral acompanha sempre o progresso intelectual?
 
@@ -2814,7 +2810,7 @@ O progresso moral acompanha sempre o progresso intelectual?
 
 ---
 
-###### #️⃣ Q.780.a {#q780a}
+##### #️⃣ Q.780.a {#q780a}
 
 Como pode o progresso intelectual engendrar progresso moral?
 
@@ -2824,14 +2820,14 @@ Como pode o progresso intelectual engendrar progresso moral?
 
 ::: expand 🔗
 🏷️ [Bem](#bem)
-🏷️ [Inteligência](#inteligência)
-🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Inteligência](#inteligencia)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
 🏷️ [Mal](#mal)
 :::
 
 ---
 
-###### #️⃣ Q.780.b {#q780b}
+##### #️⃣ Q.780.b {#q780b}
 
 Como é, nesse caso, que, muitas vezes, sucede serem os povos mais instruídos os mais pervertidos também?
 
@@ -2846,7 +2842,7 @@ Como é, nesse caso, que, muitas vezes, sucede serem os povos mais instruídos o
 
 ---
 
-###### #️⃣ Q.781 {#q781}
+##### #️⃣ Q.781 {#q781}
 
 Tem o homem o poder de paralisar a marcha do progresso?
 
@@ -2860,7 +2856,7 @@ Tem o homem o poder de paralisar a marcha do progresso?
 
 ---
 
-###### #️⃣ Q.781.a {#q781a}
+##### #️⃣ Q.781.a {#q781a}
 
 Que se deve pensar dos que tentam deter a marcha do progresso e fazer que a Humanidade retrograde?
 
@@ -2876,7 +2872,7 @@ Sendo o progresso uma condição da natureza humana, não está no poder do home
 
 ---
 
-###### #️⃣ Q.782 {#q782}
+##### #️⃣ Q.782 {#q782}
 
 Não há homens que de boa-fé obstam ao progresso, acreditando favorecê-lo, porque, do ponto de vista em que se colocam, o veem onde ele não existe?
 
@@ -2890,7 +2886,7 @@ Não há homens que de boa-fé obstam ao progresso, acreditando favorecê-lo, po
 
 ---
 
-###### #️⃣ Q.783 {#q783}
+##### #️⃣ Q.783 {#q783}
 
 Segue sempre marcha progressiva e lenta o aperfeiçoamento da Humanidade?
 
@@ -2906,7 +2902,7 @@ O homem não pode conservar-se indefinidamente na ignorância, porque tem de ati
 
 ---
 
-###### #️⃣ Q.784 {#q784}
+##### #️⃣ Q.784 {#q784}
 
 Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto de vista moral, ele, em vez de avançar, caminha aos recuos?
 
@@ -2915,22 +2911,18 @@ Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto
 :::
 
 ::: expand 🔗
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Espírito(s)](#espiritos)
 🏷️ [Mal](#mal)
 :::
 
 ---
 
-###### #️⃣ Q.785 {#q785}
+##### #️⃣ Q.785 {#q785}
 
 Qual o maior obstáculo ao progresso?
 
 ::: spirit
-✨ ▸ O orgulho e o egoísmo. Refiro-me ao progresso moral, porquanto o intelectual se efetua sempre. À primeira vista, parece mesmo que o progresso intelectual reduplica a atividade daqueles vícios, desenvolvendo a ambição e o gosto das riquezas, que, a seu turno, incitam o homem a empreender pesquisas que lhe esclarecem o Espírito. Assim é que tudo se prende, no mundo moral, como no mundo físico, e que do próprio mal pode nascer o bem. Curta, porém, é a duração desse estado de coisas, que mudará à proporção que o homem compreender melhor que, além da que o gozo dos bens terrenos proporciona, uma felicidade existe maior e infinitamente mais duradoura.
-
-👉 Veja O egoísmo
-
-Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas que, no entanto, não marcham lado a lado: o progresso intelectual e o progresso moral. Entre os povos civilizados, o primeiro tem recebido, no correr deste século, todos os incentivos. Por isso mesmo atingiu um grau a que ainda não chegara antes da época atual. Muito falta para que o segundo se ache no mesmo nível. Entretanto, comparando-se os costumes sociais de hoje com os de alguns séculos atrás, só um cego negaria o progresso realizado. Ora, sendo assim, por que haveria essa marcha ascendente de parar, com relação, de preferência, ao moral, do que com relação ao intelectual? Por que será impossível que entre o século XIX e o século XXIV haja, a esse respeito, tanta diferença quanta entre o século XIV e o século XIX? Duvidar fora pretender que a Humanidade está no apogeu da perfeição, o que seria absurdo, ou que ela não é perfectível moralmente, o que a experiência desmente.
+✨ ▸ O orgulho e o egoísmo. Refiro-me ao progresso moral, porquanto o intelectual se efetua sempre. À primeira vista, parece mesmo que o progresso intelectual reduplica a atividade daqueles vícios, desenvolvendo a ambição e o gosto das riquezas, que, a seu turno, incitam o homem a empreender pesquisas que lhe esclarecem o Espírito. Assim é que tudo se prende, no mundo moral, como no mundo físico, e que do próprio mal pode nascer o bem. Curta, porém, é a duração desse estado de coisas, que mudará à proporção que o homem compreender melhor que, além da que o gozo dos bens terrenos proporciona, uma felicidade existe maior e infinitamente mais duradoura. (👉 Veja *O egoísmo*) Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas que, no entanto, não marcham lado a lado: o progresso intelectual e o progresso moral. Entre os povos civilizados, o primeiro tem recebido, no correr deste século, todos os incentivos. Por isso mesmo atingiu um grau a que ainda não chegara antes da época atual. Muito falta para que o segundo se ache no mesmo nível. Entretanto, comparando-se os costumes sociais de hoje com os de alguns séculos atrás, só um cego negaria o progresso realizado. Ora, sendo assim, por que haveria essa marcha ascendente de parar, com relação, de preferência, ao moral, do que com relação ao intelectual? Por que será impossível que entre o século XIX e o século XXIV haja, a esse respeito, tanta diferença quanta entre o século XIV e o século XIX? Duvidar fora pretender que a Humanidade está no apogeu da perfeição, o que seria absurdo, ou que ela não é perfectível moralmente, o que a experiência desmente.
 :::
 
 ::: expand 🔗
@@ -2942,7 +2934,7 @@ Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas qu
 
 #### 3.08.03 📄 Povos degenerados {#lde-3-08-03}
 
-###### #️⃣ Q.786 {#q786}
+##### #️⃣ Q.786 {#q786}
 
 Mostra-nos a História que muitos povos, depois de abalos que os revolveram profundamente, recaíram na barbaria. Onde, neste caso, o progresso?
 
@@ -2954,7 +2946,7 @@ Compreende mais o seguinte: eras pobre e habitavas um casebre; tornando-te rico,
 
 ---
 
-###### #️⃣ Q.787 {#q787}
+##### #️⃣ Q.787 {#q787}
 
 Não há raças rebeldes, por sua natureza, ao progresso?
 
@@ -2963,13 +2955,13 @@ Não há raças rebeldes, por sua natureza, ao progresso?
 :::
 
 ::: expand 🔗
-🏷️ [Raças](#raças)
+🏷️ [Raças](#racas)
 🏷️ [Rebeldia](#rebeldia)
 :::
 
 ---
 
-###### #️⃣ Q.787.a {#q787a}
+##### #️⃣ Q.787.a {#q787a}
 
 Qual será a sorte futura das almas que animam essas raças?
 
@@ -2979,12 +2971,12 @@ Qual será a sorte futura das almas que animam essas raças?
 
 ::: expand 🔗
 🏷️ [Alma](#alma)
-🏷️ [Reencarnação](#reencarnação)
+🏷️ [Reencarnação](#reencarnacao)
 :::
 
 ---
 
-###### #️⃣ Q.787.b {#q787b}
+##### #️⃣ Q.787.b {#q787b}
 
 Assim, pode dar-se que os homens mais civilizados tenham sido selvagens e antropófagos?
 
@@ -2993,12 +2985,12 @@ Assim, pode dar-se que os homens mais civilizados tenham sido selvagens e antrop
 :::
 
 ::: expand 🔗
-🏷️ [Evolução](#evolução)
+🏷️ [Evolução](#evolucao)
 :::
 
 ---
 
-###### #️⃣ Q.788 {#q788}
+##### #️⃣ Q.788 {#q788}
 
 Os povos são individualidades coletivas que, como os indivíduos, passam pela infância, pela idade da madureza e pela decrepitude. Esta verdade, que a História comprova, não será de molde a fazer supor que os povos mais adiantados deste século terão seu declínio e sua extinção, como os da Antiguidade?
 
@@ -3013,7 +3005,7 @@ Os povos são individualidades coletivas que, como os indivíduos, passam pela i
 
 ---
 
-###### #️⃣ Q.789 {#q789}
+##### #️⃣ Q.789 {#q789}
 
 O progresso fará que todos os povos da Terra se achem um dia reunidos, formando uma só nação?
 
@@ -3031,20 +3023,20 @@ Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As alm
 
 ::: expand 🔗
 🏷️ [Alma](#alma)
-🏷️ [Criação](#criação)
+🏷️ [Criação](#criacao)
 🏷️ [Espiritismo](#espiritismo)
 🏷️ [Humanidade](#humanidade)
 🏷️ [Lei divina](#lei-divina)
-🏷️ [Nação](#nação)
+🏷️ [Nação](#nacao)
 🏷️ [Progresso](#progresso)
-🏷️ [Reencarnação](#reencarnação)
+🏷️ [Reencarnação](#reencarnacao)
 :::
 
 ---
 
 #### 3.08.04 📄 Civilização {#lde-3-08-04}
 
-###### #️⃣ Q.790 {#q790}
+##### #️⃣ Q.790 {#q790}
 
 É um progresso a civilização ou, como o entendem alguns filósofos, uma decadência da Humanidade?
 
@@ -3054,7 +3046,7 @@ Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As alm
 
 ---
 
-###### #️⃣ Q.790.a {#q790a}
+##### #️⃣ Q.790.a {#q790a}
 
 Será racional condenar-se a civilização?
 
@@ -3064,7 +3056,7 @@ Será racional condenar-se a civilização?
 
 ---
 
-###### #️⃣ Q.791 {#q791}
+##### #️⃣ Q.791 {#q791}
 
 Apurar-se-á algum dia a civilização, de modo a fazer que desapareçam os males que haja produzido?
 
@@ -3073,12 +3065,12 @@ Apurar-se-á algum dia a civilização, de modo a fazer que desapareçam os male
 :::
 
 ::: expand 🔗
-🏷️ [Evolução](#evolução)
+🏷️ [Evolução](#evolucao)
 :::
 
 ---
 
-###### #️⃣ Q.792 {#q792}
+##### #️⃣ Q.792 {#q792}
 
 Por que não efetua a civilização, imediatamente, todo o bem que poderia produzir?
 
@@ -3092,7 +3084,7 @@ Por que não efetua a civilização, imediatamente, todo o bem que poderia produ
 
 ---
 
-###### #️⃣ Q.792.a {#q792a}
+##### #️⃣ Q.792.a {#q792a}
 
 Não será também porque, criando novas necessidades, suscita paixões novas?
 
@@ -3102,12 +3094,12 @@ Não será também porque, criando novas necessidades, suscita paixões novas?
 
 ::: expand 🔗
 🏷️ [Necessidade](#necessidade)
-🏷️ [Paixão](#paixão)
+🏷️ [Paixão](#paixao)
 :::
 
 ---
 
-###### #️⃣ Q.793 {#q793}
+##### #️⃣ Q.793 {#q793}
 
 Por que indícios se pode reconhecer uma civilização completa?
 
@@ -3120,17 +3112,17 @@ De duas nações que tenham chegado ao ápice da escala social, somente pode con
 :::
 
 ::: expand 🔗
-🏷️ [Civilização](#civilização)
-🏷️ [Nação](#nação)
+🏷️ [Civilização](#civilizacao)
+🏷️ [Nação](#nacao)
 🏷️ [Reconhecimento](#reconhecimento)
-🏷️ [Vício](#vício)
+🏷️ [Vício](#vicio)
 :::
 
 ---
 
 #### 3.08.05 📄 Progresso da legislação humana {#lde-3-08-05}
 
-###### #️⃣ Q.794 {#q794}
+##### #️⃣ Q.794 {#q794}
 
 Poderia a sociedade reger-se unicamente pelas leis naturais, sem o concurso das leis humanas?
 
@@ -3140,7 +3132,7 @@ Poderia a sociedade reger-se unicamente pelas leis naturais, sem o concurso das 
 
 ---
 
-###### #️⃣ Q.795 {#q795}
+##### #️⃣ Q.795 {#q795}
 
 Qual a causa da instabilidade das leis humanas?
 
@@ -3152,15 +3144,15 @@ A civilização criou necessidades novas para o homem, necessidades relativas à
 
 ::: expand 🔗
 🏷️ [Direito](#direito)
-🏷️ [Justiça](#justiça)
-🏷️ [Legislação](#legislação)
+🏷️ [Justiça](#justica)
+🏷️ [Legislação](#legislacao)
 🏷️ [Lei humana](#lei-humana)
-🏷️ [Paixão](#paixão)
+🏷️ [Paixão](#paixao)
 :::
 
 ---
 
-###### #️⃣ Q.796 {#q796}
+##### #️⃣ Q.796 {#q796}
 
 No estado atual da sociedade, a severidade das leis penais não constitui uma necessidade?
 
@@ -3169,13 +3161,13 @@ No estado atual da sociedade, a severidade das leis penais não constitui uma ne
 :::
 
 ::: expand 🔗
-🏷️ [Educação](#educação)
+🏷️ [Educação](#educacao)
 🏷️ [Sociedade](#sociedade)
 :::
 
 ---
 
-###### #️⃣ Q.797 {#q797}
+##### #️⃣ Q.797 {#q797}
 
 Como poderá o homem ser levado a reformar suas leis?
 
@@ -3191,7 +3183,7 @@ Como poderá o homem ser levado a reformar suas leis?
 
 #### 3.08.06 📄 Influência do Espiritismo no progresso {#lde-3-08-06}
 
-###### #️⃣ Q.798 {#q798}
+##### #️⃣ Q.798 {#q798}
 
 O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como crença, apenas por algumas pessoas? [^21]
 
@@ -3203,7 +3195,7 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 
 ---
 
-###### #️⃣ Q.799 {#q799}
+##### #️⃣ Q.799 {#q799}
 
 De que maneira pode o Espiritismo contribuir para o progresso?
 
@@ -3214,13 +3206,13 @@ De que maneira pode o Espiritismo contribuir para o progresso?
 ::: expand 🔗
 🏷️ [Espiritismo](#espiritismo)
 🏷️ [Materialismo](#materialismo)
-🏷️ [Pregação](#pregação)
+🏷️ [Pregação](#pregacao)
 🏷️ [Solidariedade](#solidariedade)
 :::
 
 ---
 
-###### #️⃣ Q.800 {#q800}
+##### #️⃣ Q.800 {#q800}
 
 Não será de temer que o Espiritismo não consiga triunfar da negligência dos homens e do seu apego às coisas materiais?
 
@@ -3235,7 +3227,7 @@ Não será de temer que o Espiritismo não consiga triunfar da negligência dos 
 
 ---
 
-###### #️⃣ Q.801 {#q801}
+##### #️⃣ Q.801 {#q801}
 
 Por que não ensinaram os Espíritos, em todos os tempos, o que ensinam hoje?
 
@@ -3249,7 +3241,7 @@ Por que não ensinaram os Espíritos, em todos os tempos, o que ensinam hoje?
 
 ---
 
-###### #️⃣ Q.802 {#q802}
+##### #️⃣ Q.802 {#q802}
 
 Visto que o Espiritismo tem que marcar um progresso da Humanidade, por que não apressam os Espíritos esse progresso, por meio de manifestações tão generalizadas e patentes, que a convicção penetre até nos mais incrédulos?
 
@@ -3259,9 +3251,9 @@ Visto que o Espiritismo tem que marcar um progresso da Humanidade, por que não 
 
 ::: expand 🔗
 🏷️ [Milagre](#milagre)
-🏷️ [Negação](#negação)
-🏷️ [Prodígio](#prodígio)
-🏷️ [Providência divina](#providência-divina)
+🏷️ [Negação](#negacao)
+🏷️ [Prodígio](#prodigio)
+🏷️ [Providência divina](#providencia-divina)
 :::
 
 ---
@@ -3270,7 +3262,7 @@ Visto que o Espiritismo tem que marcar um progresso da Humanidade, por que não 
 
 #### 3.09.01 📄 Igualdade natural {#lde-3-09-01}
 
-###### #️⃣ Q.803 {#q803}
+##### #️⃣ Q.803 {#q803}
 
 Perante Deus, são iguais todos os homens?
 
@@ -3284,7 +3276,7 @@ Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igua
 
 #### 3.09.02 📄 Desigualdade das aptidões {#lde-3-09-02}
 
-###### #️⃣ Q.804 {#q804}
+##### #️⃣ Q.804 {#q804}
 
 Por que não outorgou Deus as mesmas aptidões a todos os homens?
 
@@ -3294,7 +3286,7 @@ Por que não outorgou Deus as mesmas aptidões a todos os homens?
 
 ---
 
-###### #️⃣ Q.805 {#q805}
+##### #️⃣ Q.805 {#q805}
 
 Passando de um mundo superior a outro inferior, conserva o Espírito, integralmente, as faculdades adquiridas?
 
@@ -3305,9 +3297,9 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 :::
 
 ::: expand 🔗
-🏷️ [Aptidão](#aptidão)
-🏷️ [Criação](#criação)
-🏷️ [Espírito(s)](#espíritos)
+🏷️ [Aptidão](#aptidao)
+🏷️ [Criação](#criacao)
+🏷️ [Espírito(s)](#espiritos)
 🏷️ [Mundos](#mundos)
 🏷️ [Solidariedade](#solidariedade)
 :::
@@ -3316,7 +3308,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 #### 3.09.03 📄 Desigualdades sociais {#lde-3-09-03}
 
-###### #️⃣ Q.806 {#q806}
+##### #️⃣ Q.806 {#q806}
 
 É Lei da Natureza a desigualdade das condições sociais?
 
@@ -3326,7 +3318,7 @@ Assim, a diversidade das aptidões entre os homens não deriva da natureza ínti
 
 ---
 
-###### #️⃣ Q.806.a {#q806a}
+##### #️⃣ Q.806.a {#q806a}
 
 Algum dia essa desigualdade desaparecerá?
 
@@ -3336,12 +3328,12 @@ Algum dia essa desigualdade desaparecerá?
 
 ::: expand 🔗
 🏷️ [Desigualdades](#desigualdades)
-🏷️ [Mérito](#mérito)
+🏷️ [Mérito](#merito)
 :::
 
 ---
 
-###### #️⃣ Q.807 {#q807}
+##### #️⃣ Q.807 {#q807}
 
 Que se deve pensar dos que abusam da superioridade de suas posições sociais, para, em proveito próprio, oprimir os fracos?
 
@@ -3351,14 +3343,14 @@ Que se deve pensar dos que abusam da superioridade de suas posições sociais, p
 
 ::: expand 🔗
 🏷️ [Lei de causa e efeito](#lei-de-causa-e-efeito)
-🏷️ [Reencarnação](#reencarnação)
+🏷️ [Reencarnação](#reencarnacao)
 :::
 
 ---
 
 #### 3.09.04 📄 Desigualdade das riquezas {#lde-3-09-04}
 
-###### #️⃣ Q.808 {#q808}
+##### #️⃣ Q.808 {#q808}
 
 A desigualdade das riquezas não se originará da das faculdades, em virtude da qual uns dispõem de mais meios de adquirir bens do que outros?
 
@@ -3368,7 +3360,7 @@ A desigualdade das riquezas não se originará da das faculdades, em virtude da 
 
 ---
 
-###### #️⃣ Q.808.a {#q808a}
+##### #️⃣ Q.808.a {#q808a}
 
 Mas, a riqueza herdada, essa não é fruto de paixões más.
 
@@ -3382,7 +3374,7 @@ Mas, a riqueza herdada, essa não é fruto de paixões más.
 
 ---
 
-###### #️⃣ Q.809 {#q809}
+##### #️⃣ Q.809 {#q809}
 
 Aos que, mais tarde, herdam uma riqueza inicialmente mal adquirida, alguma responsabilidade cabe por esse fato?
 
@@ -3397,7 +3389,7 @@ Aos que, mais tarde, herdam uma riqueza inicialmente mal adquirida, alguma respo
 
 ---
 
-###### #️⃣ Q.810 {#q810}
+##### #️⃣ Q.810 {#q810}
 
 Sem quebra da legalidade, quem quer que seja pode dispor de seus bens de modo mais ou menos equitativo. Aquele que assim proceder será responsável, depois da morte, pelas disposições que haja tomado?
 
@@ -3411,7 +3403,7 @@ Sem quebra da legalidade, quem quer que seja pode dispor de seus bens de modo ma
 
 ---
 
-###### #️⃣ Q.811 {#q811}
+##### #️⃣ Q.811 {#q811}
 
 Será possível e já terá existido a igualdade absoluta das riquezas?
 
@@ -3426,7 +3418,7 @@ Será possível e já terá existido a igualdade absoluta das riquezas?
 
 ---
 
-###### #️⃣ Q.811.a {#q811a}
+##### #️⃣ Q.811.a {#q811a}
 
 Há, no entanto, homens que julgam ser esse o remédio aos males da sociedade. Que pensais a respeito?
 
@@ -3435,14 +3427,14 @@ Há, no entanto, homens que julgam ser esse o remédio aos males da sociedade. Q
 :::
 
 ::: expand 🔗
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Egoísmo](#egoismo)
 🏷️ [Fracasso](#fracasso)
 🏷️ [Riqueza](#riqueza)
 :::
 
 ---
 
-###### #️⃣ Q.812 {#q812}
+##### #️⃣ Q.812 {#q812}
 
 Por não ser possível a igualdade das riquezas, o mesmo se dará com o bem-estar?
 
@@ -3456,7 +3448,7 @@ Por não ser possível a igualdade das riquezas, o mesmo se dará com o bem-esta
 
 ---
 
-###### #️⃣ Q.812.a {#q812a}
+##### #️⃣ Q.812.a {#q812a}
 
 Será possível que todos se entendam?
 
@@ -3465,13 +3457,13 @@ Será possível que todos se entendam?
 :::
 
 ::: expand 🔗
-🏷️ [Compreensão](#compreensão)
+🏷️ [Compreensão](#compreensao)
 🏷️ [Lei divina](#lei-divina)
 :::
 
 ---
 
-###### #️⃣ Q.813 {#q813}
+##### #️⃣ Q.813 {#q813}
 
 Há pessoas que, por culpa sua, caem na miséria. Nenhuma responsabilidade caberá disso à sociedade?
 
@@ -3488,7 +3480,7 @@ Há pessoas que, por culpa sua, caem na miséria. Nenhuma responsabilidade caber
 
 #### 3.09.05 📄 As provas de riqueza e de miséria {#lde-3-09-05}
 
-###### #️⃣ Q.814 {#q814}
+##### #️⃣ Q.814 {#q814}
 
 Por que Deus a uns concedeu as riquezas e o poder, e a outros, a miséria?
 
@@ -3498,7 +3490,7 @@ Por que Deus a uns concedeu as riquezas e o poder, e a outros, a miséria?
 
 ---
 
-###### #️⃣ Q.815 {#q815}
+##### #️⃣ Q.815 {#q815}
 
 Qual das duas provas é mais terrível para o homem, a da desgraça ou a da riqueza?
 
@@ -3507,13 +3499,13 @@ Qual das duas provas é mais terrível para o homem, a da desgraça ou a da riqu
 :::
 
 ::: expand 🔗
-🏷️ [Miséria](#miséria)
+🏷️ [Miséria](#miseria)
 🏷️ [Riqueza](#riqueza)
 :::
 
 ---
 
-###### #️⃣ Q.816 {#q816}
+##### #️⃣ Q.816 {#q816}
 
 Estando o rico sujeito a maiores tentações, também não dispõe, por outro lado, de mais meios de fazer o bem?
 
@@ -3527,7 +3519,7 @@ A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e
 ::: bible
 ✝️ ▸ *E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de Deus.*
 
-Mateus), cap. 19, vers. 24, ARC
+**Mateus, cap. 19, vers. 24, ARC**
 :::
 
 ::: expand 🔗
@@ -3541,14 +3533,15 @@ Mateus), cap. 19, vers. 24, ARC
 
 #### 3.09.06 📄 Igualdade dos direitos do homem e da mulher {#lde-3-09-06}
 
-###### #️⃣ Q.817 {#q817}
+##### #️⃣ Q.817 {#q817}
 
 São iguais perante Deus o homem e a mulher e têm os mesmos direitos?
 
 ::: spirit
 ✨ ▸ Não outorgou Deus a ambos a inteligência do bem e do mal e a faculdade de progredir?
+:::
 
-###### #️⃣ Q.818 {#q818}
+##### #️⃣ Q.818 {#q818}
 
 Donde provém a inferioridade moral da mulher em certos países?
 
@@ -3558,7 +3551,7 @@ Donde provém a inferioridade moral da mulher em certos países?
 
 ---
 
-###### #️⃣ Q.819 {#q819}
+##### #️⃣ Q.819 {#q819}
 
 Com que fim mais fraca fisicamente do que o homem é a mulher?
 
@@ -3573,7 +3566,7 @@ Com que fim mais fraca fisicamente do que o homem é a mulher?
 
 ---
 
-###### #️⃣ Q.820 {#q820}
+##### #️⃣ Q.820 {#q820}
 
 A fraqueza física da mulher não a coloca naturalmente sob a dependência do homem?
 
@@ -3585,13 +3578,13 @@ Deus apropriou a organização de cada ser às funções que lhe cumpre desempen
 
 ::: expand 🔗
 🏷️ [Dever](#dever)
-🏷️ [Escravidão](#escravidão)
+🏷️ [Escravidão](#escravidao)
 🏷️ [Sensibilidade](#sensibilidade)
 :::
 
 ---
 
-###### #️⃣ Q.821 {#q821}
+##### #️⃣ Q.821 {#q821}
 
 As funções a que a mulher é destinada pela natureza terão importância tão grande quanto as deferidas ao homem?
 
@@ -3605,7 +3598,7 @@ As funções a que a mulher é destinada pela natureza terão importância tão 
 
 ---
 
-###### #️⃣ Q.822 {#q822}
+##### #️⃣ Q.822 {#q822}
 
 Sendo iguais perante a Lei de Deus, devem os homens ser iguais também perante as leis humanas?
 
@@ -3619,7 +3612,7 @@ Sendo iguais perante a Lei de Deus, devem os homens ser iguais também perante a
 
 ---
 
-###### #️⃣ Q.822.a {#q822a}
+##### #️⃣ Q.822.a {#q822a}
 
 Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a igualdade dos direitos do homem e da mulher?
 
@@ -3628,16 +3621,16 @@ Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a ig
 :::
 
 ::: expand 🔗
-🏷️ [Emancipação](#emancipação)
-🏷️ [Encarnação](#encarnação)
-🏷️ [Legislação](#legislação)
+🏷️ [Emancipação](#emancipacao)
+🏷️ [Encarnação](#encarnacao)
+🏷️ [Legislação](#legislacao)
 :::
 
 ---
 
 #### 3.09.07 📄 Igualdade perante o túmulo {#lde-3-09-07}
 
-###### #️⃣ Q.823 {#q823}
+##### #️⃣ Q.823 {#q823}
 
 Donde nasce o desejo que o homem sente de perpetuar sua memória por meio de monumentos fúnebres?
 
@@ -3647,14 +3640,15 @@ Donde nasce o desejo que o homem sente de perpetuar sua memória por meio de mon
 
 ---
 
-###### #️⃣ Q.823.a {#q823a}
+##### #️⃣ Q.823.a {#q823a}
 
 Mas a suntuosidade dos monumentos fúnebres não é antes devida, as mais das vezes, aos parentes do defunto, que lhe querem honrar a memória, do que ao próprio defunto?
 
 ::: spirit
 ✨ ▸ Orgulho dos parentes, desejosos de se glorificarem a si mesmos. Oh! sim, nem sempre é pelo morto que se fazem todas essas demonstrações. Elas são feitas por amor-próprio e para o mundo, bem como por ostentação de riqueza. Supões, porventura, que a lembrança de um ser querido dure menos no coração do pobre, que não lhe pode colocar sobre o túmulo senão uma singela flor? Supões que o mármore salva do esquecimento aquele que na Terra foi inútil?
+:::
 
-###### #️⃣ Q.824 {#q824}
+##### #️⃣ Q.824 {#q824}
 
 Reprovais então, de modo absoluto, a pompa dos funerais?
 
@@ -3675,7 +3669,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 
 #### 3.10.01 📄 Liberdade natural {#lde-3-10-01}
 
-###### #️⃣ Q.825 {#q825}
+##### #️⃣ Q.825 {#q825}
 
 Haverá no mundo posições em que o homem possa jactar-se de gozar de absoluta liberdade?
 
@@ -3685,7 +3679,7 @@ Haverá no mundo posições em que o homem possa jactar-se de gozar de absoluta 
 
 ---
 
-###### #️⃣ Q.826 {#q826}
+##### #️⃣ Q.826 {#q826}
 
 Em que condições poderia o homem gozar de absoluta liberdade?
 
@@ -3693,7 +3687,7 @@ Em que condições poderia o homem gozar de absoluta liberdade?
 ✨ ▸ Nas do eremita no deserto. **Desde que juntos estejam dois homens, há entre eles direitos recíprocos que lhes cumpre respeitar; não mais, portanto, qualquer deles goza de liberdade absoluta.**
 :::
 
-###### #️⃣ Q.827 {#q827}
+##### #️⃣ Q.827 {#q827}
 
 A obrigação de respeitar os direitos alheios tira ao homem o de pertencer-se a si mesmo?
 
@@ -3707,7 +3701,7 @@ A obrigação de respeitar os direitos alheios tira ao homem o de pertencer-se a
 
 ---
 
-###### #️⃣ Q.828 {#q828}
+##### #️⃣ Q.828 {#q828}
 
 Como se podem conciliar as opiniões liberais de certos homens com o despotismo que costumam exercer no seu lar e sobre os seus subordinados?
 
@@ -3721,7 +3715,7 @@ Como se podem conciliar as opiniões liberais de certos homens com o despotismo 
 
 ---
 
-###### #️⃣ Q.828.a {#q828a}
+##### #️⃣ Q.828.a {#q828a}
 
 Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram neste mundo?
 
@@ -3737,7 +3731,7 @@ Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram nes
 
 #### 3.10.02 📄 Escravidão {#lde-3-10-02}
 
-###### #️⃣ Q.829 {#q829}
+##### #️⃣ Q.829 {#q829}
 
 Haverá homens que estejam, por natureza, destinados a ser propriedades de outros homens?
 
@@ -3749,7 +3743,7 @@ Haverá homens que estejam, por natureza, destinados a ser propriedades de outro
 
 ---
 
-###### #️⃣ Q.830 {#q830}
+##### #️⃣ Q.830 {#q830}
 
 Quando a escravidão faz parte dos costumes de um povo, são censuráveis os que dela aproveitam, embora só o façam conformando-se com um uso que lhes parece natural?
 
@@ -3759,12 +3753,12 @@ Quando a escravidão faz parte dos costumes de um povo, são censuráveis os que
 
 ::: expand 🔗
 🏷️ [Cristianismo](#cristianismo)
-🏷️ [Escravidão](#escravidão)
+🏷️ [Escravidão](#escravidao)
 :::
 
 ---
 
-###### #️⃣ Q.831 {#q831}
+##### #️⃣ Q.831 {#q831}
 
 A desigualdade natural das aptidões não coloca certas raças humanas sob a dependência das raças mais inteligentes? [^22]
 
@@ -3773,12 +3767,12 @@ A desigualdade natural das aptidões não coloca certas raças humanas sob a dep
 :::
 
 ::: expand 🔗
-🏷️ [Raças](#raças)
+🏷️ [Raças](#racas)
 :::
 
 ---
 
-###### #️⃣ Q.832 {#q832}
+##### #️⃣ Q.832 {#q832}
 
 Há, no entanto, homens que tratam seus escravos com humanidade; que não deixam lhes falte nada e acreditam que a liberdade os exporia a maiores privações. Que dizeis disso?
 
@@ -3787,7 +3781,7 @@ Há, no entanto, homens que tratam seus escravos com humanidade; que não deixam
 :::
 
 ::: expand 🔗
-🏷️ [Escravidão](#escravidão)
+🏷️ [Escravidão](#escravidao)
 🏷️ [Liberdade](#liberdade)
 :::
 
@@ -3795,7 +3789,7 @@ Há, no entanto, homens que tratam seus escravos com humanidade; que não deixam
 
 #### 3.10.03 📄 Liberdade de pensar {#lde-3-10-03}
 
-###### #️⃣ Q.833 {#q833}
+##### #️⃣ Q.833 {#q833}
 
 Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze ele de absoluta liberdade?
 
@@ -3805,7 +3799,7 @@ Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze
 
 ---
 
-###### #️⃣ Q.834 {#q834}
+##### #️⃣ Q.834 {#q834}
 
 É responsável o homem pelo seu pensamento?
 
@@ -3821,7 +3815,7 @@ Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze
 
 #### 3.10.04 📄 Liberdade de consciência {#lde-3-10-04}
 
-###### #️⃣ Q.835 {#q835}
+##### #️⃣ Q.835 {#q835}
 
 Será a liberdade de consciência uma consequência da de pensar?
 
@@ -3831,7 +3825,7 @@ Será a liberdade de consciência uma consequência da de pensar?
 
 ---
 
-###### #️⃣ Q.836 {#q836}
+##### #️⃣ Q.836 {#q836}
 
 Tem o homem direito de pôr embaraços à liberdade de consciência?
 
@@ -3841,13 +3835,13 @@ Tem o homem direito de pôr embaraços à liberdade de consciência?
 
 ::: expand 🔗
 🏷️ [Impedimento](#impedimento)
-🏷️ [Liberdade de consciência](#liberdade-de-consciência)
+🏷️ [Liberdade de consciência](#liberdade-de-consciencia)
 🏷️ [Relacionamento](#relacionamento)
 :::
 
 ---
 
-###### #️⃣ Q.837 {#q837}
+##### #️⃣ Q.837 {#q837}
 
 Que é o que resulta dos embaraços que se oponham à liberdade de consciência?
 
@@ -3856,13 +3850,13 @@ Que é o que resulta dos embaraços que se oponham à liberdade de consciência?
 :::
 
 ::: expand 🔗
-🏷️ [Liberdade de consciência](#liberdade-de-consciência)
-🏷️ [Oposição](#oposição)
+🏷️ [Liberdade de consciência](#liberdade-de-consciencia)
+🏷️ [Oposição](#oposicao)
 :::
 
 ---
 
-###### #️⃣ Q.838 {#q838}
+##### #️⃣ Q.838 {#q838}
 
 Será respeitável toda e qualquer crença, ainda quando notoriamente falsa?
 
@@ -3871,13 +3865,13 @@ Será respeitável toda e qualquer crença, ainda quando notoriamente falsa?
 :::
 
 ::: expand 🔗
-🏷️ [Fé](#fé)
+🏷️ [Fé](#fe)
 🏷️ [Respeito](#respeito)
 :::
 
 ---
 
-###### #️⃣ Q.839 {#q839}
+##### #️⃣ Q.839 {#q839}
 
 Será repreensível aquele que escandalize com a sua crença um outro que não pensa como ele?
 
@@ -3886,12 +3880,12 @@ Será repreensível aquele que escandalize com a sua crença um outro que não p
 :::
 
 ::: expand 🔗
-🏷️ [Escândalo](#escândalo)
+🏷️ [Escândalo](#escandalo)
 :::
 
 ---
 
-###### #️⃣ Q.840 {#q840}
+##### #️⃣ Q.840 {#q840}
 
 Será atentar contra a liberdade de consciência pôr óbices a crenças capazes de causar perturbações à sociedade?
 
@@ -3902,14 +3896,14 @@ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo 
 :::
 
 ::: expand 🔗
-🏷️ [Liberdade de consciência](#liberdade-de-consciência)
-🏷️ [Prevenção](#prevenção)
-🏷️ [Previdência](#previdência)
+🏷️ [Liberdade de consciência](#liberdade-de-consciencia)
+🏷️ [Prevenção](#prevencao)
+🏷️ [Previdência](#previdencia)
 :::
 
 ---
 
-###### #️⃣ Q.841 {#q841}
+##### #️⃣ Q.841 {#q841}
 
 Para respeitar a liberdade de consciência, dever-se-á deixar que se propaguem doutrinas perniciosas, ou poder-se-á, sem atentar contra aquela liberdade, procurar trazer ao caminho da verdade os que se transviaram obedecendo a falsos princípios?
 
@@ -3918,12 +3912,12 @@ Para respeitar a liberdade de consciência, dever-se-á deixar que se propaguem 
 :::
 
 ::: expand 🔗
-🏷️ [Liberdade de consciência](#liberdade-de-consciência)
+🏷️ [Liberdade de consciência](#liberdade-de-consciencia)
 :::
 
 ---
 
-###### #️⃣ Q.842 {#q842}
+##### #️⃣ Q.842 {#q842}
 
 Por que indícios se poderá reconhecer, entre todas as doutrinas que alimentam a pretensão de ser a expressão única da verdade, a que tem o direito de se apresentar como tal?
 
@@ -3939,7 +3933,7 @@ Por que indícios se poderá reconhecer, entre todas as doutrinas que alimentam 
 
 #### 3.10.05 📄 Livre-arbítrio {#lde-3-10-05}
 
-###### #️⃣ Q.843 {#q843}
+##### #️⃣ Q.843 {#q843}
 
 Tem o homem o livre-arbítrio de seus atos?
 
@@ -3949,7 +3943,7 @@ Tem o homem o livre-arbítrio de seus atos?
 
 ---
 
-###### #️⃣ Q.844 {#q844}
+##### #️⃣ Q.844 {#q844}
 
 Do livre-arbítrio goza o homem desde o seu nascimento?
 
@@ -3958,13 +3952,13 @@ Do livre-arbítrio goza o homem desde o seu nascimento?
 :::
 
 ::: expand 🔗
-🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
 🏷️ [Vida](#vida)
 :::
 
 ---
 
-###### #️⃣ Q.845 {#q845}
+##### #️⃣ Q.845 {#q845}
 
 Não constituem obstáculos ao exercício do livre-arbítrio as predisposições instintivas que o homem traz consigo ao nascer?
 
@@ -3973,12 +3967,12 @@ Não constituem obstáculos ao exercício do livre-arbítrio as predisposições
 :::
 
 ::: expand 🔗
-🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
 :::
 
 ---
 
-###### #️⃣ Q.846 {#q846}
+##### #️⃣ Q.846 {#q846}
 
 Sobre os atos da vida nenhuma influência exerce o organismo? E, se essa influência existe, não será exercida com prejuízo do livre-arbítrio?
 
@@ -3987,12 +3981,12 @@ Sobre os atos da vida nenhuma influência exerce o organismo? E, se essa influê
 :::
 
 ::: expand 🔗
-🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
 :::
 
 ---
 
-###### #️⃣ Q.847 {#q847}
+##### #️⃣ Q.847 {#q847}
 
 A aberração das faculdades tira ao homem o livre-arbítrio?
 
@@ -4001,14 +3995,14 @@ A aberração das faculdades tira ao homem o livre-arbítrio?
 :::
 
 ::: expand 🔗
-🏷️ [Aberração](#aberração)
-🏷️ [Livre-arbítrio](#livre-arbítrio)
-🏷️ [Reencarnação](#reencarnação)
+🏷️ [Aberração](#aberracao)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
+🏷️ [Reencarnação](#reencarnacao)
 :::
 
 ---
 
-###### #️⃣ Q.848 {#q848}
+##### #️⃣ Q.848 {#q848}
 
 Servirá de escusa aos atos reprováveis o ser devida à embriaguez a aberração das faculdades intelectuais?
 
@@ -4017,13 +4011,13 @@ Servirá de escusa aos atos reprováveis o ser devida à embriaguez a aberraçã
 :::
 
 ::: expand 🔗
-🏷️ [Livre-arbítrio](#livre-arbítrio)
-🏷️ [Razão](#razão)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
+🏷️ [Razão](#razao)
 :::
 
 ---
 
-###### #️⃣ Q.849 {#q849}
+##### #️⃣ Q.849 {#q849}
 
 Qual a faculdade predominante no homem em estado de selvageria: o instinto ou o livre-arbítrio?
 
@@ -4038,7 +4032,7 @@ Qual a faculdade predominante no homem em estado de selvageria: o instinto ou o 
 
 ---
 
-###### #️⃣ Q.850 {#q850}
+##### #️⃣ Q.850 {#q850}
 
 A posição social não constitui às vezes, para o homem, obstáculo à inteira liberdade de seus atos?
 
@@ -4048,14 +4042,14 @@ A posição social não constitui às vezes, para o homem, obstáculo à inteira
 
 ::: expand 🔗
 🏷️ [Dificuldade](#dificuldade)
-🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
 :::
 
 ---
 
 #### 3.10.06 📄 Fatalidade {#lde-3-10-06}
 
-###### #️⃣ Q.851 {#q851}
+##### #️⃣ Q.851 {#q851}
 
 Haverá fatalidade nos acontecimentos da vida, conforme o sentido que se dá a este vocábulo? Quer dizer: todos os acontecimentos são predeterminados? E, neste caso, que vem a ser do livre-arbítrio?
 
@@ -4065,7 +4059,7 @@ Haverá fatalidade nos acontecimentos da vida, conforme o sentido que se dá a e
 
 ---
 
-###### #️⃣ Q.852 {#q852}
+##### #️⃣ Q.852 {#q852}
 
 Há pessoas que parecem perseguidas por uma fatalidade, independente da maneira por que procedem. Não lhes estará no destino o infortúnio?
 
@@ -4083,7 +4077,7 @@ As ideias exatas ou falsas que fazemos das coisas nos levam a ser bem ou malsuce
 
 ---
 
-###### #️⃣ Q.853 {#q853}
+##### #️⃣ Q.853 {#q853}
 
 Algumas pessoas só escapam de um perigo mortal para cair em outro. Parece que não podiam escapar da morte. Não há nisso fatalidade?
 
@@ -4097,7 +4091,7 @@ Algumas pessoas só escapam de um perigo mortal para cair em outro. Parece que n
 
 ---
 
-###### #️⃣ Q.853.a {#q853a}
+##### #️⃣ Q.853.a {#q853a}
 
 Assim, qualquer que seja o perigo que nos ameace, se a hora da morte ainda não chegou, não morreremos?
 
@@ -4111,7 +4105,7 @@ Assim, qualquer que seja o perigo que nos ameace, se a hora da morte ainda não 
 
 ---
 
-###### #️⃣ Q.854 {#q854}
+##### #️⃣ Q.854 {#q854}
 
 Do fato de ser infalível a hora da morte, poder-se-á deduzir que sejam inúteis as precauções que tomemos para evitá-la?
 
@@ -4125,7 +4119,7 @@ Do fato de ser infalível a hora da morte, poder-se-á deduzir que sejam inútei
 
 ---
 
-###### #️⃣ Q.855 {#q855}
+##### #️⃣ Q.855 {#q855}
 
 Com que fim nos faz a Providência correr perigos que nenhuma consequência devem ter?
 
@@ -4134,12 +4128,12 @@ Com que fim nos faz a Providência correr perigos que nenhuma consequência deve
 :::
 
 ::: expand 🔗
-🏷️ [Prevenção](#prevenção)
+🏷️ [Prevenção](#prevencao)
 :::
 
 ---
 
-###### #️⃣ Q.856 {#q856}
+##### #️⃣ Q.856 {#q856}
 
 Sabe o Espírito antecipadamente de que gênero será sua morte?
 
@@ -4153,7 +4147,7 @@ Sabe o Espírito antecipadamente de que gênero será sua morte?
 
 ---
 
-###### #️⃣ Q.857 {#q857}
+##### #️⃣ Q.857 {#q857}
 
 Há homens que afrontam os perigos dos combates, persuadidos, de certo modo, de que a hora não lhes chegou. Haverá algum fundamento para essa confiança?
 
@@ -4167,7 +4161,7 @@ Há homens que afrontam os perigos dos combates, persuadidos, de certo modo, de 
 
 ---
 
-###### #️⃣ Q.858 {#q858}
+##### #️⃣ Q.858 {#q858}
 
 Por que razão os que pressentem a morte a temem geralmente menos do que os outros?
 
@@ -4181,7 +4175,7 @@ Por que razão os que pressentem a morte a temem geralmente menos do que os outr
 
 ---
 
-###### #️⃣ Q.859 {#q859}
+##### #️⃣ Q.859 {#q859}
 
 Com todos os acidentes, que nos sobrevêm no curso da vida, se dá o mesmo que com a morte, que não pode ser evitada, quando tem de ocorrer?
 
@@ -4190,13 +4184,13 @@ Com todos os acidentes, que nos sobrevêm no curso da vida, se dá o mesmo que c
 :::
 
 ::: expand 🔗
-🏷️ [Desencarnação](#desencarnação)
+🏷️ [Desencarnação](#desencarnacao)
 🏷️ [Fatalidade](#fatalidade)
 :::
 
 ---
 
-###### #️⃣ Q.859.a {#q859a}
+##### #️⃣ Q.859.a {#q859a}
 
 Haverá fatos que forçosamente devam dar-se e que os Espíritos não possam conjurar, embora o queiram?
 
@@ -4205,12 +4199,12 @@ Haverá fatos que forçosamente devam dar-se e que os Espíritos não possam con
 :::
 
 ::: expand 🔗
-🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
 :::
 
 ---
 
-###### #️⃣ Q.860 {#q860}
+##### #️⃣ Q.860 {#q860}
 
 Pode o homem, pela sua vontade e por seus atos, fazer que se não deem acontecimentos que deveriam verificar-se e reciprocamente?
 
@@ -4224,7 +4218,7 @@ Pode o homem, pela sua vontade e por seus atos, fazer que se não deem acontecim
 
 ---
 
-###### #️⃣ Q.861 {#q861}
+##### #️⃣ Q.861 {#q861}
 
 Ao escolher a sua existência, o Espírito daquele que comete um assassínio sabia que viria a ser assassino?
 
@@ -4236,12 +4230,12 @@ Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da 
 
 ::: expand 🔗
 🏷️ [Crime](#crime)
-🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
 :::
 
 ---
 
-###### #️⃣ Q.862 {#q862}
+##### #️⃣ Q.862 {#q862}
 
 Pessoas existem que nunca logram bom êxito em coisa alguma, que parecem perseguidas por um mau gênio em todos os seus empreendimentos. Não se pode chamar a isso fatalidade?
 
@@ -4255,7 +4249,7 @@ Pessoas existem que nunca logram bom êxito em coisa alguma, que parecem persegu
 
 ---
 
-###### #️⃣ Q.863 {#q863}
+##### #️⃣ Q.863 {#q863}
 
 Os costumes sociais não obrigam muitas vezes o homem a enveredar por um caminho de preferência a outro e não se acha ele submetido à direção da opinião geral, quanto à escolha de suas ocupações? O que se chama respeito humano não constitui óbice ao exercício do livre-arbítrio?
 
@@ -4265,7 +4259,7 @@ Os costumes sociais não obrigam muitas vezes o homem a enveredar por um caminho
 
 ---
 
-###### #️⃣ Q.864 {#q864}
+##### #️⃣ Q.864 {#q864}
 
 Assim como há pessoas a quem a sorte em tudo é contrária, outras parecem favorecidas por ela, pois que tudo lhes sai bem. A que atribuir isso?
 
@@ -4279,7 +4273,7 @@ Assim como há pessoas a quem a sorte em tudo é contrária, outras parecem favo
 
 ---
 
-###### #️⃣ Q.865 {#q865}
+##### #️⃣ Q.865 {#q865}
 
 Como se explica que a boa sorte favoreça a algumas pessoas em circunstâncias com as quais nada têm que ver a vontade, nem a inteligência: no jogo, por exemplo?
 
@@ -4288,12 +4282,12 @@ Como se explica que a boa sorte favoreça a algumas pessoas em circunstâncias c
 :::
 
 ::: expand 🔗
-🏷️ [Tentação](#tentação)
+🏷️ [Tentação](#tentacao)
 :::
 
 ---
 
-###### #️⃣ Q.866 {#q866}
+##### #️⃣ Q.866 {#q866}
 
 Então, a fatalidade que parece presidir aos destinos materiais de nossa vida também é resultante do nosso livre-arbítrio?
 
@@ -4303,12 +4297,12 @@ Então, a fatalidade que parece presidir aos destinos materiais de nossa vida ta
 
 ::: expand 🔗
 🏷️ [Fatalidade](#fatalidade)
-🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
 :::
 
 ---
 
-###### #️⃣ Q.867 {#q867}
+##### #️⃣ Q.867 {#q867}
 
 Donde vem a expressão: Nascer sob uma boa estrela?
 
@@ -4320,7 +4314,7 @@ Donde vem a expressão: Nascer sob uma boa estrela?
 
 #### 3.10.07 📄 Conhecimento do futuro {#lde-3-10-07}
 
-###### #️⃣ Q.868 {#q868}
+##### #️⃣ Q.868 {#q868}
 
 Pode o futuro ser revelado ao homem?
 
@@ -4330,7 +4324,7 @@ Pode o futuro ser revelado ao homem?
 
 ---
 
-###### #️⃣ Q.869 {#q869}
+##### #️⃣ Q.869 {#q869}
 
 Com que fim o futuro se conserva oculto ao homem?
 
@@ -4340,7 +4334,7 @@ Com que fim o futuro se conserva oculto ao homem?
 
 ---
 
-###### #️⃣ Q.870 {#q870}
+##### #️⃣ Q.870 {#q870}
 
 Mas, se convém que o futuro permaneça oculto, por que permite Deus que seja revelado algumas vezes?
 
@@ -4355,16 +4349,12 @@ Mas, se convém que o futuro permaneça oculto, por que permite Deus que seja re
 
 ---
 
-###### #️⃣ Q.871 {#q871}
+##### #️⃣ Q.871 {#q871}
 
 Pois que Deus tudo sabe, não ignora se um homem sucumbirá ou não em determinada prova. Assim sendo, qual a necessidade dessa prova, uma vez que nada acrescentará ao que Deus já sabe a respeito desse homem?
 
 ::: spirit
-✨ ▸ Isso equivale a perguntar por que não criou Deus o homem perfeito e acabado (👉 Q.119); por que passa o homem pela infância, antes de chegar à condição de adulto (👉 Q.379). A prova não tem por fim dar a Deus esclarecimentos sobre o homem, pois que Deus sabe perfeitamente o que ele vale, mas dar ao homem toda a responsabilidade de sua ação, uma vez que tem a liberdade de fazer ou não fazer. Dotado da faculdade de escolher entre o bem e o mal, a prova tem por efeito pô-lo em luta com as tentações do mal e conferir-lhe todo o mérito da resistência. Ora, conquanto saiba de antemão se ele se sairá bem ou não, Deus não o pode, em sua justiça, punir, nem recompensar, por um ato ainda não praticado.
-
-👉 Veja Q.258
-
-Assim sucede entre os homens. Por muito capaz que seja um estudante, por grande que seja a certeza que se tenha de que alcançará bom êxito, ninguém lhe confere grau algum sem exame, isto é, sem prova. Do mesmo modo, o juiz não condena um acusado, senão com fundamento num ato consumado e não na previsão de que ele possa ou deva consumar esse ato.
+✨ ▸ Isso equivale a perguntar por que não criou Deus o homem perfeito e acabado (👉 Q.119); por que passa o homem pela infância, antes de chegar à condição de adulto (👉 Q.379). A prova não tem por fim dar a Deus esclarecimentos sobre o homem, pois que Deus sabe perfeitamente o que ele vale, mas dar ao homem toda a responsabilidade de sua ação, uma vez que tem a liberdade de fazer ou não fazer. Dotado da faculdade de escolher entre o bem e o mal, a prova tem por efeito pô-lo em luta com as tentações do mal e conferir-lhe todo o mérito da resistência. Ora, conquanto saiba de antemão se ele se sairá bem ou não, Deus não o pode, em sua justiça, punir, nem recompensar, por um ato ainda não praticado. (👉 Veja [Q.258](#q258)) Assim sucede entre os homens. Por muito capaz que seja um estudante, por grande que seja a certeza que se tenha de que alcançará bom êxito, ninguém lhe confere grau algum sem exame, isto é, sem prova. Do mesmo modo, o juiz não condena um acusado, senão com fundamento num ato consumado e não na previsão de que ele possa ou deva consumar esse ato.
 
 Quanto mais se reflete nas consequências que teria para o homem o conhecimento do futuro, melhor se vê quanto foi sábia a Providência em lho ocultar. A certeza de um acontecimento venturoso o lançaria na inação. A de um acontecimento infeliz o encheria de desânimo. Em ambos os casos, suas forças ficariam paralisadas. Daí o não lhe ser mostrado o futuro, senão como **meta** que lhe cumpre atingir por seus esforços, mas ignorando os trâmites por que terá de passar para alcançá-la. O conhecimento de todos os incidentes da jornada lhe tolheria a iniciativa e o uso do livre-arbítrio. Ele se deixaria resvalar pelo declive fatal dos acontecimentos, sem exercer suas faculdades. Quando o feliz êxito de uma coisa está assegurado, ninguém mais com ela se preocupa.
 :::
@@ -4378,20 +4368,13 @@ Quanto mais se reflete nas consequências que teria para o homem o conhecimento 
 
 #### 📄 Resumo teórico do móvel das ações humanas
 
-###### #️⃣ Q.872 {#q872}
+##### #️⃣ Q.872 {#q872}
 
 A questão do livre-arbítrio se pode resumir assim: O homem não é fatalmente levado ao mal; os atos que pratica não foram previamente determinados; os crimes que comete não resultam de uma sentença do destino. Ele pode, por prova e por expiação, escolher uma existência em que seja arrastado ao crime, quer pelo meio em que se ache colocado, quer pelas circunstâncias que sobrevenham, mas será sempre livre de agir ou não agir. Assim, o livre-arbítrio existe para ele, quando no estado de Espírito, ao fazer a escolha da existência e das provas e, como encarnado, na faculdade de ceder ou de resistir aos arrastamentos a que todos nos temos voluntariamente submetido. Cabe à educação combater essas más tendências. Fá-lo-á utilmente, quando se basear no estudo aprofundado da natureza moral do homem. Pelo conhecimento das leis que regem essa natureza moral, chegar-se-á a modificá-la, como se modifica a inteligência pela instrução e o temperamento pela higiene.
 
-Desprendido da matéria e no estado de erraticidade, o Espírito procede à escolha de suas futuras existências corporais, de acordo com o grau de perfeição a que haja chegado e é nisto, como temos dito, que consiste sobretudo o seu livre-arbítrio. Esta liberdade, a encarnação não a anula. Se ele cede à influência da matéria, é que sucumbe nas provas que por si mesmo escolheu. Para ter quem o ajude a vencê-las, concedido lhe é invocar a assistência de Deus e dos bons Espíritos.
+Desprendido da matéria e no estado de erraticidade, o Espírito procede à escolha de suas futuras existências corporais, de acordo com o grau de perfeição a que haja chegado e é nisto, como temos dito, que consiste sobretudo o seu livre-arbítrio. Esta liberdade, a encarnação não a anula. Se ele cede à influência da matéria, é que sucumbe nas provas que por si mesmo escolheu. Para ter quem o ajude a vencê-las, concedido lhe é invocar a assistência de Deus e dos bons Espíritos. (👉 Veja [Q.337](#q337)) Sem o livre-arbítrio, o homem não teria nem culpa por praticar o mal, nem mérito em praticar o bem. E isto a tal ponto está reconhecido que, no mundo, a censura ou o elogio são feitos à intenção, isto é, à vontade. Ora, quem diz vontade diz liberdade. Nenhuma desculpa poderá, portanto, o homem buscar, para os seus delitos, na sua organização física, sem abdicar da razão e da sua condição de ser humano, para se equiparar ao bruto. Se fora assim quanto ao mal, assim não poderia deixar de ser relativamente ao bem. Mas, quando o homem pratica o bem, tem grande cuidado de averbar o fato à sua conta, como mérito, e não cogita de por ele gratificar os seus órgãos, o que prova que, por instinto, não renuncia, malgrado a opinião de alguns sistemáticos, ao mais belo privilégio de sua espécie: a liberdade de pensar. A fatalidade, como vulgarmente é entendida, supõe a decisão prévia e irrevogável de todos os sucessos da vida, qualquer que seja a importância deles. Se tal fosse a ordem das coisas, o homem seria qual máquina sem vontade. De que lhe serviria a inteligência, desde que houvesse de estar invariavelmente dominado, em todos os seus atos, pela força do destino? Semelhante doutrina, se verdadeira, conteria a destruição de toda liberdade moral; já não haveria para o homem responsabilidade, nem, por conseguinte, bem, nem mal, crimes ou virtudes. Não seria possível que Deus, soberanamente justo, castigasse suas criaturas por faltas cujo cometimento não dependera delas, nem que as recompensasse por virtudes de que nenhum mérito teriam. Ademais, tal lei seria a negação da do progresso, porquanto o homem, tudo esperando da sorte, nada tentaria para melhorar a sua posição, visto que não conseguiria ser mais nem menos.
 
-👉 Veja Q.337
-
-Sem o livre-arbítrio, o homem não teria nem culpa por praticar o mal, nem mérito em praticar o bem. E isto a tal ponto está reconhecido que, no mundo, a censura ou o elogio são feitos à intenção, isto é, à vontade. Ora, quem diz vontade diz liberdade. Nenhuma desculpa poderá, portanto, o homem buscar, para os seus delitos, na sua organização física, sem abdicar da razão e da sua condição de ser humano, para se equiparar ao bruto. Se fora assim quanto ao mal, assim não poderia deixar de ser relativamente ao bem. Mas, quando o homem pratica o bem, tem grande cuidado de averbar o fato à sua conta, como mérito, e não cogita de por ele gratificar os seus órgãos, o que prova que, por instinto, não renuncia, malgrado a opinião de alguns sistemáticos, ao mais belo privilégio de sua espécie: a liberdade de pensar. A fatalidade, como vulgarmente é entendida, supõe a decisão prévia e irrevogável de todos os sucessos da vida, qualquer que seja a importância deles. Se tal fosse a ordem das coisas, o homem seria qual máquina sem vontade. De que lhe serviria a inteligência, desde que houvesse de estar invariavelmente dominado, em todos os seus atos, pela força do destino? Semelhante doutrina, se verdadeira, conteria a destruição de toda liberdade moral; já não haveria para o homem responsabilidade, nem, por conseguinte, bem, nem mal, crimes ou virtudes. Não seria possível que Deus, soberanamente justo, castigasse suas criaturas por faltas cujo cometimento não dependera delas, nem que as recompensasse por virtudes de que nenhum mérito teriam. Ademais, tal lei seria a negação da do progresso, porquanto o homem, tudo esperando da sorte, nada tentaria para melhorar a sua posição, visto que não conseguiria ser mais nem menos.
-
-Contudo, a fatalidade não é uma palavra vã. Existe na posição que o homem ocupa na Terra e nas funções que aí desempenha, em consequência do gênero de vida que seu Espírito escolheu como **prova**, **expiação** ou **missão**. Ele sofre fatalmente todas as vicissitudes dessa existência e todas as **tendências** boas ou más, que lhe são inerentes. Aí, porém, acaba a fatalidade, pois da sua vontade depende ceder ou não a essas tendências. **Os pormenores dos acontecimentos, esses ficam subordinados às circunstâncias que ele próprio cria pelos seus atos**, sendo que nessas circunstâncias podem os Espíritos influir pelos pensamentos que sugiram.
-
-👉 Veja Q.459
-
+Contudo, a fatalidade não é uma palavra vã. Existe na posição que o homem ocupa na Terra e nas funções que aí desempenha, em consequência do gênero de vida que seu Espírito escolheu como **prova**, **expiação** ou **missão**. Ele sofre fatalmente todas as vicissitudes dessa existência e todas as **tendências** boas ou más, que lhe são inerentes. Aí, porém, acaba a fatalidade, pois da sua vontade depende ceder ou não a essas tendências. **Os pormenores dos acontecimentos, esses ficam subordinados às circunstâncias que ele próprio cria pelos seus atos**, sendo que nessas circunstâncias podem os Espíritos influir pelos pensamentos que sugiram. (👉 Veja [Q.459](#q459)) 
 Há fatalidade, portanto, nos acontecimentos que se apresentam, por serem estes consequência da escolha que o Espírito fez da sua existência de homem. Pode deixar de haver fatalidade no resultado de tais acontecimentos, visto ser possível ao homem, pela sua prudência, modificar-lhes o curso. **Nunca há fatalidade nos atos da vida moral**.
 
 No que concerne à morte é que o homem se acha submetido, em absoluto, à inexorável lei da fatalidade, por isso que não pode escapar à sentença que lhe marca o termo da existência, nem ao gênero de morte que haja de cortar a esta o fio.
@@ -4401,22 +4384,21 @@ Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, 
 ::: bible
 ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….*
 
-Mateus, cap. 06, vers. 13, ARC
+**Mateus, cap. 06, vers. 13, ARC**
 :::
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
 
 Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espécie humana e, como o nosso mundo é um dos menos adiantados, nele se conta maior número de Espíritos maus do que de bons. Tal a razão por que aí vemos tanta perversidade. Façamos, pois, todos os esforços para a este planeta não voltarmos, após a presente estada, e para merecermos ir repousar em mundo melhor, em um desses mundos privilegiados, onde não nos lembraremos da nossa passagem por aqui, senão como de um exílio temporário.
-:::
 
 ::: expand 🔗
 🏷️ [Falta](#falta)
 🏷️ [Fatalidade](#fatalidade)
-🏷️ [Livre-arbítrio](#livre-arbítrio)
+🏷️ [Livre-arbítrio](#livre-arbitrio)
 🏷️ [Morte](#morte)
-🏷️ [Mundo de expiação e provas](#mundo-de-expiação-e-provas)
-🏷️ [Tentação](#tentação)
-🏷️ [Vida corpórea](#vida-corpórea)
+🏷️ [Mundo de expiação e provas](#mundo-de-expiacao-e-provas)
+🏷️ [Tentação](#tentacao)
+🏷️ [Vida corpórea](#vida-corporea)
 🏷️ [Vontade](#vontade)
 :::
 
@@ -4426,7 +4408,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 #### 3.11.01 📄 Justiça e direitos naturais {#lde-3-11-01}
 
-###### #️⃣ Q.873 {#q873}
+##### #️⃣ Q.873 {#q873}
 
 O sentimento da justiça está na natureza, ou é resultado de ideias adquiridas?
 
@@ -4436,7 +4418,7 @@ O sentimento da justiça está na natureza, ou é resultado de ideias adquiridas
 
 ---
 
-###### #️⃣ Q.874 {#q874}
+##### #️⃣ Q.874 {#q874}
 
 Sendo a justiça uma Lei da Natureza, como se explica que os homens a entendam de modos tão diferentes, considerando uns justo o que a outros parece injusto?
 
@@ -4445,12 +4427,12 @@ Sendo a justiça uma Lei da Natureza, como se explica que os homens a entendam d
 :::
 
 ::: expand 🔗
-🏷️ [Deturpação](#deturpação)
+🏷️ [Deturpação](#deturpacao)
 :::
 
 ---
 
-###### #️⃣ Q.875 {#q875}
+##### #️⃣ Q.875 {#q875}
 
 Como se pode definir a justiça?
 
@@ -4459,12 +4441,12 @@ Como se pode definir a justiça?
 :::
 
 ::: expand 🔗
-🏷️ [Justiça](#justiça)
+🏷️ [Justiça](#justica)
 :::
 
 ---
 
-###### #️⃣ Q.875.a {#q875a}
+##### #️⃣ Q.875.a {#q875a}
 
 Que é o que determina esses direitos?
 
@@ -4473,13 +4455,13 @@ Que é o que determina esses direitos?
 :::
 
 ::: expand 🔗
-🏷️ [Consciência](#consciência)
+🏷️ [Consciência](#consciencia)
 🏷️ [Direitos humanos](#direitos-humanos)
 :::
 
 ---
 
-###### #️⃣ Q.876 {#q876}
+##### #️⃣ Q.876 {#q876}
 
 Posto de parte o direito que a lei humana consagra, qual a base da justiça, segundo a lei natural?
 
@@ -4496,7 +4478,7 @@ No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que 
 
 Efetivamente, o critério da verdadeira justiça está em querer cada um para os outros o que para si mesmo quereria e não em querer para si o que quereria para os outros, o que absolutamente não é a mesma coisa. Não sendo natural que haja quem deseje o mal para si, desde que cada um tome por modelo o seu desejo pessoal, é evidente que nunca ninguém desejará para o seu semelhante senão o bem. Em todos os tempos e sob o império de todas as crenças, sempre o homem se esforçou para que prevalecesse o seu direito pessoal. **A sublimidade da religião cristã está em que ela tomou o direito pessoal por base do direito do próximo.**
 
-###### #️⃣ Q.877 {#q877}
+##### #️⃣ Q.877 {#q877}
 
 Da necessidade que o homem tem de viver em sociedade, nascem-lhe obrigações especiais?
 
@@ -4507,12 +4489,12 @@ Da necessidade que o homem tem de viver em sociedade, nascem-lhe obrigações es
 ::: expand 🔗
 🏷️ [Comportamento](#comportamento)
 🏷️ [Cristianismo](#cristianismo)
-🏷️ [Justiça](#justiça)
+🏷️ [Justiça](#justica)
 :::
 
 ---
 
-###### #️⃣ Q.878 {#q878}
+##### #️⃣ Q.878 {#q878}
 
 Podendo o homem enganar-se quanto à extensão do seu direito, que é o que lhe fará conhecer o limite desse direito?
 
@@ -4526,7 +4508,7 @@ Podendo o homem enganar-se quanto à extensão do seu direito, que é o que lhe 
 
 ---
 
-###### #️⃣ Q.878.a {#q878a}
+##### #️⃣ Q.878.a {#q878a}
 
 Mas se cada um atribuir a si mesmo direitos iguais aos de seu semelhante, que virá a ser da subordinação aos superiores? Não será isso a anarquia de todos os poderes?
 
@@ -4538,12 +4520,12 @@ Mas se cada um atribuir a si mesmo direitos iguais aos de seu semelhante, que vi
 🏷️ [Deus](#deus)
 🏷️ [Direitos humanos](#direitos-humanos)
 🏷️ [Igualdade](#igualdade)
-🏷️ [Justiça](#justiça)
+🏷️ [Justiça](#justica)
 :::
 
 ---
 
-###### #️⃣ Q.879 {#q879}
+##### #️⃣ Q.879 {#q879}
 
 Qual seria o caráter do homem que praticasse a justiça em toda a sua pureza?
 
@@ -4552,14 +4534,14 @@ Qual seria o caráter do homem que praticasse a justiça em toda a sua pureza?
 :::
 
 ::: expand 🔗
-🏷️ [Justiça](#justiça)
+🏷️ [Justiça](#justica)
 :::
 
 ---
 
 #### 3.11.02 📄 Direito de propriedade. Roubo {#lde-3-11-02}
 
-###### #️⃣ Q.880 {#q880}
+##### #️⃣ Q.880 {#q880}
 
 Qual o primeiro de todos os direitos naturais do homem?
 
@@ -4569,7 +4551,7 @@ Qual o primeiro de todos os direitos naturais do homem?
 
 ---
 
-###### #️⃣ Q.881 {#q881}
+##### #️⃣ Q.881 {#q881}
 
 O direito de viver dá ao homem o de acumular bens que lhe permitam repousar quando não mais possa trabalhar?
 
@@ -4578,28 +4560,33 @@ O direito de viver dá ao homem o de acumular bens que lhe permitam repousar qua
 :::
 
 ::: expand 🔗
-🏷️ [Previdência](#previdência)
+🏷️ [Previdência](#previdencia)
 :::
 
 ---
 
-###### #️⃣ Q.882 {#q882}
+##### #️⃣ Q.882 {#q882}
 
 Tem o homem o direito de defender os bens que haja conseguido juntar pelo seu trabalho?
 
 ::: spirit
 ✨ ▸ Não disse Deus:
-
-::: bible
-✝️ ▸ Não furtarás. (Êxodo, cap. 20, vers. 15, ARC
 :::
 
+::: bible
+✝️ ▸ Não furtarás. 
+
+**Êxodo, cap. 20, vers. 15, ARC**
+:::
+
+::: spirit
 E Jesus não disse:
+:::
 
 ::: bible
 ✝️ ▸ *Dai, pois, a César o que é de César e a Deus, o que é de Deus.*
 
-Mateus), cap. 22, vers. 21, ARC
+**Mateus, cap. 22, vers. 21, ARC**
 :::
 
 O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
@@ -4612,7 +4599,7 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 
 ---
 
-###### #️⃣ Q.883 {#q883}
+##### #️⃣ Q.883 {#q883}
 
 É natural o desejo de possuir?
 
@@ -4621,12 +4608,12 @@ O que, por meio do trabalho **honesto**, o homem junta constitui legítima propr
 :::
 
 ::: expand 🔗
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Egoísmo](#egoismo)
 :::
 
 ---
 
-###### #️⃣ Q.883.a {#q883a}
+##### #️⃣ Q.883.a {#q883a}
 
 Não será, entretanto, legítimo o desejo de possuir, uma vez que aquele que tem de que viver a ninguém é pesado?
 
@@ -4640,14 +4627,14 @@ Não será, entretanto, legítimo o desejo de possuir, uma vez que aquele que te
 
 ---
 
-###### #️⃣ Q.884 {#q884}
+##### #️⃣ Q.884 {#q884}
 
 Qual o caráter da legítima propriedade?
 
 ::: spirit
 ✨ ▸ Propriedade legítima só é a que foi adquirida sem prejuízo de outrem.
 
-👉 Veja Q.808
+👉 Veja [Q.808](#q808)
 
 Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, a lei de amor e de justiça nos proíbe, **ipso facto**, a aquisição de bens por quaisquer meios que lhe sejam contrários.
 :::
@@ -4659,7 +4646,7 @@ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, 
 
 ---
 
-###### #️⃣ Q.885 {#q885}
+##### #️⃣ Q.885 {#q885}
 
 Será ilimitado o direito de propriedade?
 
@@ -4675,7 +4662,7 @@ Será ilimitado o direito de propriedade?
 
 #### 3.11.03 📄 Caridade e amor do próximo {#lde-3-11-03}
 
-###### #️⃣ Q.886 {#q886}
+##### #️⃣ Q.886 {#q886}
 
 Qual o verdadeiro sentido da palavra caridade, como a entendia Jesus?
 
@@ -4683,11 +4670,12 @@ Qual o verdadeiro sentido da palavra caridade, como a entendia Jesus?
 ✨ ▸ Benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas.
 
 O amor e a caridade são o complemento da lei de justiça, pois amar o próximo é fazer-lhe todo o bem que nos seja possível e que desejáramos nos fosse feito. Tal o sentido destas palavras de Jesus:
+:::
 
 ::: bible
 ✝️ ▸ *Amarás o teu próximo como a ti mesmo.*
 
-Mateus, cap. 22, vers. 39, ARC
+**Mateus, cap. 22, vers. 39, ARC**
 :::
 
 A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
@@ -4695,9 +4683,17 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 
 ---
 
-###### #️⃣ Q.887 {#q887}
+##### #️⃣ Q.887 {#q887}
 
-Jesus também disse: ✝️ ▸ *Amai a vossos inimigos* ( Mateus), cap. 05, vers. 44, ARC ) Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
+Jesus também disse: 
+
+::: bible
+✝️ ▸ *Amai a vossos inimigos*
+
+**Mateus, cap. 05, vers. 44, ARC**
+:::
+
+Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
 
 ::: spirit
 ✨ ▸ Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
@@ -4711,7 +4707,7 @@ Jesus também disse: ✝️ ▸ *Amai a vossos inimigos* ( Mateus), cap. 05, ver
 
 ---
 
-###### #️⃣ Q.888 {#q888}
+##### #️⃣ Q.888 {#q888}
 
 Que se deve pensar da esmola?
 
@@ -4725,7 +4721,7 @@ Que se deve pensar da esmola?
 
 ---
 
-###### #️⃣ Q.888.a {#q888a}
+##### #️⃣ Q.888.a {#q888a}
 
 Dar-se-á reproveis a esmola?
 
@@ -4734,13 +4730,15 @@ Dar-se-á reproveis a esmola?
 
 A verdadeira caridade é sempre bondosa e benévola; está tanto no ato, como na maneira por que é praticado. Duplo valor tem um serviço prestado com delicadeza. Se o for com altivez, pode ser que a necessidade obrigue quem o recebe a aceitá-lo, mas o seu coração pouco se comoverá.
 Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao benefício. Disse Jesus:
+:::
 
 ::: bible
 ✝️ ▸ *… não saiba a tua mão esquerda o que faz a tua direita ….*
 
-Mateus, cap. 06, vers. 03, ARC
+**Mateus, cap. 06, vers. 03, ARC**
 :::
 
+::: spirit
 Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.
 
 Deve-se distinguir a esmola, propriamente dita, da beneficência. Nem sempre o mais necessitado é o que pede. O temor de uma humilhação detém o verdadeiro pobre, que muita vez sofre sem se queixar. A esse é que o homem verdadeiramente humano sabe ir procurar, sem ostentação.
@@ -4753,18 +4751,18 @@ São Vicente de Paulo
 
 ::: expand 🔗
 🏷️ [Amor](#amor)
-🏷️ [Atração](#atração)
-🏷️ [Beneficência](#beneficência)
+🏷️ [Atração](#atracao)
+🏷️ [Beneficência](#beneficencia)
 🏷️ [Esmola](#esmola)
-🏷️ [Ignorância](#ignorância)
-🏷️ [Indulgência](#indulgência)
-🏷️ [Ostentação](#ostentação)
-🏷️ [Vicente de Paulo (São)](#vicente-de-paulo-são)
+🏷️ [Ignorância](#ignorancia)
+🏷️ [Indulgência](#indulgencia)
+🏷️ [Ostentação](#ostentacao)
+🏷️ [Vicente de Paulo (São)](#vicente-de-paulo-sao)
 :::
 
 ---
 
-###### #️⃣ Q.889 {#q889}
+##### #️⃣ Q.889 {#q889}
 
 Não há homens que se veem condenados a mendigar por culpa sua?
 
@@ -4773,14 +4771,14 @@ Não há homens que se veem condenados a mendigar por culpa sua?
 :::
 
 ::: expand 🔗
-🏷️ [Mendicância](#mendicância)
+🏷️ [Mendicância](#mendicancia)
 :::
 
 ---
 
 #### 3.11.04 📄 Amor materno e filial {#lde-3-11-04}
 
-###### #️⃣ Q.890 {#q890}
+##### #️⃣ Q.890 {#q890}
 
 Será uma virtude o amor materno, ou um sentimento instintivo, comum aos homens e aos animais?
 
@@ -4790,26 +4788,26 @@ Será uma virtude o amor materno, ou um sentimento instintivo, comum aos homens 
 
 ---
 
-###### #️⃣ Q.891 {#q891}
+##### #️⃣ Q.891 {#q891}
 
 Estando na Natureza o amor materno, como é que há mães que odeiam os filhos e, não raro, desde a infância destes?
 
 ::: spirit
-✨ ▸ Às vezes, é uma prova que o Espírito do filho escolheu, ou uma expiação, se aconteceu ter sido mau pai, ou mãe perversa, ou mau filho, noutra existência (👉 Veja Q.392). Em todos os casos, a mãe má não pode deixar de ser animada por um mau Espírito que procura criar embaraços ao filho, a fim de que sucumba na prova que buscou. Essa violação das Leis da Natureza, porém, não ficará impune e o Espírito do filho será recompensado pelos obstáculos de que haja triunfado.
+✨ ▸ Às vezes, é uma prova que o Espírito do filho escolheu, ou uma expiação, se aconteceu ter sido mau pai, ou mãe perversa, ou mau filho, noutra existência (👉 Veja [Q.392](#q392)). Em todos os casos, a mãe má não pode deixar de ser animada por um mau Espírito que procura criar embaraços ao filho, a fim de que sucumba na prova que buscou. Essa violação das Leis da Natureza, porém, não ficará impune e o Espírito do filho será recompensado pelos obstáculos de que haja triunfado.
 :::
 
 ::: expand 🔗
-🏷️ [Mãe](#mãe)
+🏷️ [Mãe](#mae)
 :::
 
 ---
 
-###### #️⃣ Q.892 {#q892}
+##### #️⃣ Q.892 {#q892}
 
 Quando os filhos causam desgostos aos pais, não têm estes desculpa para o fato de lhes não dispensarem a ternura de que os fariam objeto, em caso contrário?
 
 ::: spirit
-✨ ▸ Não, porque isso representa um encargo que lhes é confiado e a missão deles consiste em se esforçarem por encaminhar os filhos para o bem (👉 Veja Q.582 a Q.583). Ademais, esses desgostos são, amiúde, a consequência do mau feitio que os pais deixaram que seus filhos tomassem desde o berço. Colhem o que semearam.
+✨ ▸ Não, porque isso representa um encargo que lhes é confiado e a missão deles consiste em se esforçarem por encaminhar os filhos para o bem (👉 Veja [Q.582](#q582) a [Q.583](#q583)). Ademais, esses desgostos são, amiúde, a consequência do mau feitio que os pais deixaram que seus filhos tomassem desde o berço. Colhem o que semearam.
 :::
 
 ::: expand 🔗
@@ -4822,7 +4820,7 @@ Quando os filhos causam desgostos aos pais, não têm estes desculpa para o fato
 
 #### 3.12.01 📄 As virtudes e os vícios {#lde-3-12-01}
 
-###### #️⃣ Q.893 {#q893}
+##### #️⃣ Q.893 {#q893}
 
 Qual a mais meritória de todas as virtudes?
 
@@ -4832,7 +4830,7 @@ Qual a mais meritória de todas as virtudes?
 
 ---
 
-###### #️⃣ Q.894 {#q894}
+##### #️⃣ Q.894 {#q894}
 
 Há pessoas que fazem o bem espontaneamente, sem que precisem vencer quaisquer sentimentos que lhes sejam opostos. Terão tanto mérito, quanto as que se veem na contingência de lutar contra a natureza que lhes é própria e a vencem?
 
@@ -4849,7 +4847,7 @@ Como ainda estais longe da perfeição, tais exemplos vos espantam pelo contrast
 
 ---
 
-###### #️⃣ Q.895 {#q895}
+##### #️⃣ Q.895 {#q895}
 
 Postos de lado os defeitos e os vícios acerca dos quais ninguém se pode equivocar, qual o sinal mais característico da imperfeição?
 
@@ -4863,12 +4861,12 @@ O apego às coisas materiais constitui sinal notório de inferioridade, porque, 
 🏷️ [Apego](#apego)
 🏷️ [Inferioridade](#inferioridade)
 🏷️ [Interesse](#interesse)
-🏷️ [Vício](#vício)
+🏷️ [Vício](#vicio)
 :::
 
 ---
 
-###### #️⃣ Q.896 {#q896}
+##### #️⃣ Q.896 {#q896}
 
 Há pessoas desinteressadas, mas sem discernimento, que prodigalizam seus haveres sem utilidade real, por lhes não saberem dar emprego criterioso. Têm algum merecimento essas pessoas?
 
@@ -4883,7 +4881,7 @@ Há pessoas desinteressadas, mas sem discernimento, que prodigalizam seus havere
 
 ---
 
-###### #️⃣ Q.897 {#q897}
+##### #️⃣ Q.897 {#q897}
 
 Merecerá reprovação aquele que faz o bem, sem visar a qualquer recompensa na Terra, mas esperando que lhe seja levado em conta na outra vida e que lá venha a ser melhor a sua situação? E essa preocupação lhe prejudicará o progresso?
 
@@ -4897,7 +4895,7 @@ Merecerá reprovação aquele que faz o bem, sem visar a qualquer recompensa na 
 
 ---
 
-###### #️⃣ Q.897.a {#q897a}
+##### #️⃣ Q.897.a {#q897a}
 
 Contudo, todos alimentam o desejo muito natural de progredir, para forrar-se à penosa condição desta vida. Os próprios Espíritos nos ensinam a praticar o bem com esse objetivo. Será, então, um mal pensarmos que, praticando o bem, podemos esperar coisa melhor do que temos na Terra?
 
@@ -4911,7 +4909,7 @@ Contudo, todos alimentam o desejo muito natural de progredir, para forrar-se à 
 
 ---
 
-###### #️⃣ Q.897.b {#q897b}
+##### #️⃣ Q.897.b {#q897b}
 
 Não haverá aqui uma distinção a estabelecer-se entre o bem que podemos fazer ao nosso próximo e o cuidado que pomos em corrigir-nos dos nossos defeitos? Concebemos que seja pouco meritório fazermos o bem com a ideia de que nos seja levado em conta na outra vida; mas será igualmente indício de inferioridade emendarmo-nos, vencermos as nossas paixões, corrigirmos o nosso caráter, com o propósito de nos aproximarmos dos bons Espíritos e de nos elevarmos?
 
@@ -4920,12 +4918,12 @@ Não haverá aqui uma distinção a estabelecer-se entre o bem que podemos fazer
 :::
 
 ::: expand 🔗
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Egoísmo](#egoismo)
 :::
 
 ---
 
-###### #️⃣ Q.898 {#q898b}
+##### #️⃣ Q.898 {#q898b}
 
 Sendo a vida corpórea apenas uma estada temporária neste mundo e devendo o futuro constituir objeto da nossa principal preocupação, será útil nos esforcemos por adquirir conhecimentos científicos que só digam respeito às coisas e às necessidades materiais?
 
@@ -4935,7 +4933,7 @@ Sendo a vida corpórea apenas uma estada temporária neste mundo e devendo o fut
 
 ---
 
-###### #️⃣ Q.899 {#q899}
+##### #️⃣ Q.899 {#q899}
 
 Qual o mais culpado de dois homens ricos que empregam exclusivamente em gozos pessoais suas riquezas, tendo um nascido na opulência e desconhecido sempre a necessidade, devendo o outro ao seu trabalho os bens que possui?
 
@@ -4945,7 +4943,7 @@ Qual o mais culpado de dois homens ricos que empregam exclusivamente em gozos pe
 
 ---
 
-###### #️⃣ Q.900 {#q900}
+##### #️⃣ Q.900 {#q900}
 
 Aquele que incessantemente acumula haveres, sem fazer o bem a quem quer que seja, achará desculpa, que valha, na circunstância de acumular com o fito de maior soma legar aos seus herdeiros?
 
@@ -4959,7 +4957,7 @@ Aquele que incessantemente acumula haveres, sem fazer o bem a quem quer que seja
 
 ---
 
-###### #️⃣ Q.901 {#q901}
+##### #️⃣ Q.901 {#q901}
 
 Figuremos dois avarentos, um dos quais nega a si mesmo o necessário e morre de miséria sobre o seu tesouro, ao passo que o segundo só o é para os outros, mostrando-se pródigo para consigo mesmo; enquanto recua ante o mais ligeiro sacrifício para prestar um serviço ou fazer qualquer coisa útil, nunca julga demasiado o que despenda para satisfazer aos seus gostos ou às suas paixões. Peça-se-lhe um obséquio e estará sempre em dificuldade para fazê-lo; imagine, porém, realizar uma fantasia e terá sempre o bastante para isso. Qual o mais culpado e qual o que se achará em pior situação no mundo dos Espíritos?
 
@@ -4969,12 +4967,12 @@ Figuremos dois avarentos, um dos quais nega a si mesmo o necessário e morre de 
 
 ::: expand 🔗
 🏷️ [Avareza](#avareza)
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Egoísmo](#egoismo)
 :::
 
 ---
 
-###### #️⃣ Q.902 {#q902}
+##### #️⃣ Q.902 {#q902}
 
 Será reprovável que cobicemos a riqueza, quando nos anime o desejo de fazer o bem?
 
@@ -4982,20 +4980,21 @@ Será reprovável que cobicemos a riqueza, quando nos anime o desejo de fazer o 
 ✨ ▸ Tal sentimento é, não há dúvida, louvável, quando puro. Mas será sempre bastante desinteressado esse desejo? Não ocultará nenhum intuito de ordem pessoal? Não será de fazer o bem a si mesmo, em primeiro lugar, que cogita aquele, em quem tal desejo se manifesta?
 :::
 
-###### #️⃣ Q.903 {#q903}
+##### #️⃣ Q.903 {#q903}
 
 Incorre em culpa o homem, por estudar os defeitos alheios?
 
 ::: spirit
 ✨ ▸ Incorrerá em grande culpa, se o fizer para os criticar e divulgar, porque será faltar com a caridade. Se o fizer, para tirar daí proveito, para evitá-los, tal estudo poderá ser-lhe de alguma utilidade. Importa, porém, não esquecer que a indulgência para com os defeitos de outrem é uma das virtudes contidas na caridade. Antes de censurardes as imperfeições dos outros, vede se de vós não poderão dizer o mesmo. Tratai, pois, de possuir as qualidades opostas aos defeitos que criticais no vosso semelhante. Esse o meio de vos tornardes superiores a ele. Se lhe censurais o ser avaro, sede generosos; se o ser orgulhoso, sede humildes e modestos; se o ser áspero, sede brandos; se o proceder com pequenez, sede grandes em todas as vossas ações. Numa palavra, fazei por maneira que se não vos possam aplicar estas palavras de Jesus:
+:::
 
 ::: bible
 ✝️ ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?.*
 
-Mateus, cap. 07, vers. 3, ARC
+**Mateus, cap. 07, vers. 3, ARC**
 :::
 
-###### #️⃣ Q.904 {#q904}
+##### #️⃣ Q.904 {#q904}
 
 Incorrerá em culpa aquele que sonda as chagas da sociedade e as expõe em público?
 
@@ -5009,7 +5008,7 @@ Incorrerá em culpa aquele que sonda as chagas da sociedade e as expõe em públ
 
 ---
 
-###### #️⃣ Q.904.a {#q904a}
+##### #️⃣ Q.904.a {#q904a}
 
 Como, em tal caso, julgar da pureza das intenções e da sinceridade do escritor?
 
@@ -5024,7 +5023,7 @@ Como, em tal caso, julgar da pureza das intenções e da sinceridade do escritor
 
 ---
 
-###### #️⃣ Q.905 {#q905}
+##### #️⃣ Q.905 {#q905}
 
 Alguns autores hão publicado belíssimas obras de grande moral, que auxiliam o progresso da Humanidade, das quais, porém, nenhum proveito tiraram eles. Ser-lhes-á levado em conta, como Espíritos, o bem a que suas obras hajam dado lugar?
 
@@ -5034,12 +5033,12 @@ Alguns autores hão publicado belíssimas obras de grande moral, que auxiliam o 
 
 ::: expand 🔗
 🏷️ [Autor](#autor)
-🏷️ [Pregação](#pregação)
+🏷️ [Pregação](#pregacao)
 :::
 
 ---
 
-###### #️⃣ Q.906 {#q906}
+##### #️⃣ Q.906 {#q906}
 
 Será passível de censura o homem, por ter consciência do bem que faz e por confessá-lo a si mesmo?
 
@@ -5048,17 +5047,17 @@ Será passível de censura o homem, por ter consciência do bem que faz e por co
 :::
 
 ::: expand 🔗
-🏷️ [Consciência](#consciência)
+🏷️ [Consciência](#consciencia)
 🏷️ [Lei divina](#lei-divina)
 🏷️ [Virtude](#virtude)
-🏷️ [Vício](#vício)
+🏷️ [Vício](#vicio)
 :::
 
 ---
 
 #### 3.12.02 📄 Paixões {#lde-3-12-02}
 
-###### #️⃣ Q.907 {#q907}
+##### #️⃣ Q.907 {#q907}
 
 Será substancialmente mau o princípio originário das paixões, embora esteja na natureza?
 
@@ -5068,7 +5067,7 @@ Será substancialmente mau o princípio originário das paixões, embora esteja 
 
 ---
 
-###### #️⃣ Q.908 {#q908}
+##### #️⃣ Q.908 {#q908}
 
 Como se poderá determinar o limite em que as paixões deixam de ser boas para se tornarem más?
 
@@ -5085,20 +5084,21 @@ Todo sentimento que eleva o homem acima da natureza animal denota predominância
 :::
 
 ::: expand 🔗
-🏷️ [Paixão](#paixão)
-🏷️ [Perfeição](#perfeição)
+🏷️ [Paixão](#paixao)
+🏷️ [Perfeição](#perfeicao)
 :::
 
 ---
 
-###### #️⃣ Q.909 {#q909}
+##### #️⃣ Q.909 {#q909}
 
 Poderia sempre o homem, pelos seus esforços, vencer as suas más inclinações?
 
 ::: spirit
 ✨ ▸ Sim, e, frequentemente, fazendo esforços muito insignificantes. O que lhe falta é a vontade. Ah! quão poucos dentre vós fazem esforços!
+:::
 
-###### #️⃣ Q.910 {#q910}
+##### #️⃣ Q.910 {#q910}
 
 Pode o homem achar nos Espíritos eficaz assistência para triunfar de suas paixões?
 
@@ -5107,12 +5107,12 @@ Pode o homem achar nos Espíritos eficaz assistência para triunfar de suas paix
 :::
 
 ::: expand 🔗
-🏷️ [Esforço](#esforço)
+🏷️ [Esforço](#esforco)
 :::
 
 ---
 
-###### #️⃣ Q.911 {#q911}
+##### #️⃣ Q.911 {#q911}
 
 Não haverá paixões tão vivas e irresistíveis, que a vontade seja impotente para dominá-las?
 
@@ -5122,12 +5122,12 @@ Não haverá paixões tão vivas e irresistíveis, que a vontade seja impotente 
 
 ::: expand 🔗
 🏷️ [Inferioridade](#inferioridade)
-🏷️ [Paixão](#paixão)
+🏷️ [Paixão](#paixao)
 :::
 
 ---
 
-###### #️⃣ Q.912 {#q912}
+##### #️⃣ Q.912 {#q912}
 
 Qual o meio mais eficiente de combater-se o predomínio da natureza corpórea?
 
@@ -5143,7 +5143,7 @@ Qual o meio mais eficiente de combater-se o predomínio da natureza corpórea?
 
 #### 3.12.03 📄 O egoísmo {#lde-3-12-03}
 
-###### #️⃣ Q.913 {#q913}
+##### #️⃣ Q.913 {#q913}
 
 Dentre os vícios, qual o que se pode considerar radical?
 
@@ -5153,7 +5153,7 @@ Dentre os vícios, qual o que se pode considerar radical?
 
 ---
 
-###### #️⃣ Q.914 {#q914}
+##### #️⃣ Q.914 {#q914}
 
 Fundando-se o egoísmo no sentimento do interesse pessoal, bem difícil parece extirpá-lo inteiramente do coração humano. Chegar-se-á a consegui-lo?
 
@@ -5162,20 +5162,21 @@ Fundando-se o egoísmo no sentimento do interesse pessoal, bem difícil parece e
 :::
 
 ::: expand 🔗
-🏷️ [Educação](#educação)
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Educação](#educacao)
+🏷️ [Egoísmo](#egoismo)
 :::
 
 ---
 
-###### #️⃣ Q.915 {#q915}
+##### #️⃣ Q.915 {#q915}
 
 Por ser inerente à espécie humana, o egoísmo não constituirá sempre um obstáculo ao reinado do bem absoluto na Terra?
 
 ::: spirit
 ✨ ▸ É exato que no egoísmo tendes o vosso maior mal, porém ele se prende à inferioridade dos Espíritos encarnados na Terra e não à Humanidade mesma. Ora, depurando-se por encarnações sucessivas, os Espíritos se despojam do egoísmo, como de suas outras impurezas. Não existirá na Terra nenhum homem isento de egoísmo e praticante da caridade? Há muito mais homens assim do que supondes. Apenas, não os conheceis, porque a virtude foge à viva claridade do dia. Desde que haja um, por que não haverá dez? havendo dez, por que não haverá mil e assim por diante?
+:::
 
-###### #️⃣ Q.916 {#q916}
+##### #️⃣ Q.916 {#q916}
 
 Longe de diminuir, o egoísmo cresce com a civilização, que, até, parece, o excita e mantém. Como poderá a causa destruir o efeito?
 
@@ -5184,14 +5185,14 @@ Longe de diminuir, o egoísmo cresce com a civilização, que, até, parece, o e
 :::
 
 ::: expand 🔗
-🏷️ [Egoísmo](#egoísmo)
-🏷️ [Reencarnação](#reencarnação)
+🏷️ [Egoísmo](#egoismo)
+🏷️ [Reencarnação](#reencarnacao)
 🏷️ [Solidariedade](#solidariedade)
 :::
 
 ---
 
-###### #️⃣ Q.917 {#q917}
+##### #️⃣ Q.917 {#q917}
 
 Qual o meio de destruir-se o egoísmo?
 
@@ -5200,28 +5201,23 @@ Qual o meio de destruir-se o egoísmo?
 
 O choque, que o homem experimenta, do egoísmo dos outros é o que muitas vezes o faz egoísta, por sentir a necessidade de colocar-se na defensiva. Notando que os outros pensam em si próprios e não nele, ei-lo levado a ocupar-se consigo, mais do que com os outros. Sirva de base às instituições sociais, às relações legais de povo a povo e de homem a homem, o princípio da caridade e da fraternidade e cada um pensará menos na sua pessoa, assim veja que outros nela pensaram. Todos experimentarão a influência moralizadora do exemplo e do contato. Em face do atual extravasamento de egoísmo, grande virtude é verdadeiramente necessária, para que alguém renuncie à sua personalidade em proveito dos outros, que, de ordinário, absolutamente lhe não agradecem. Principalmente para os que possuem essa virtude, é que o Reino dos Céus se acha aberto. A esses, sobretudo, é que está reservada a felicidade dos eleitos, pois em verdade vos digo que, no dia da justiça, será posto de lado e sofrerá pelo abandono, em que se há de ver, todo aquele que em si somente houver pensado.
 
-👉Veja Q.785
+👉Veja [Q.785](#q785)
 
-Fénelon
+**Fénelon**
 :::
 
 Louváveis esforços indubitavelmente se empregam para fazer que a Humanidade progrida. Os bons sentimentos são animados, estimulados e honrados mais do que em qualquer outra época. Entretanto, o egoísmo, verme roedor, continua a ser a chaga social. É um mal real, que se alastra por todo o mundo e do qual cada homem é mais ou menos vítima. Cumpre, pois, combatê-lo, como se combate uma enfermidade epidêmica. Para isso, deve-se proceder como procedem os médicos: ir à origem do mal. Procurem-se em todas as partes do organismo social, da família aos povos, da choupana ao palácio, todas as causas, todas as influências que, ostensiva ou ocultamente, excitam, alimentam e desenvolvem o sentimento do egoísmo. Conhecidas as causas, o remédio se apresentará por si mesmo. Só restará então destruí-las, senão totalmente, de uma só vez, ao menos parcialmente, e o veneno pouco a pouco será eliminado. Poderá ser longa a cura, porque numerosas são as causas, mas não é impossível. Contudo, ela só se obterá se o mal for atacado em sua raiz, isto é, pela educação, não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem. A educação, convenientemente entendida, constitui a chave do progresso moral. Quando se conhecer a arte de manejar os caracteres, como se conhece a de manejar as inteligências, conseguir-se-á corrigi-los, do mesmo modo que se aprumam plantas novas. Essa arte, porém, exige muito tato, muita experiência e profunda observação. É grave erro pensar-se que, para exercê-la com proveito, baste o conhecimento da Ciência.
 
 Quem acompanhar assim o filho do rico, como o do pobre, desde o instante do nascimento, e observar todas as influências perniciosas que sobre eles atuam, em consequência da fraqueza, da incúria e da ignorância dos que os dirigem, observando igualmente com quanta frequência falham os meios empregados para moralizá-los, não poderá espantar-se de encontrar pelo mundo tantas esquisitices. Faça-se com o moral o que se faz com a inteligência e ver-se-á que, se há naturezas refratárias, muito maior do que se julga é o número das que apenas reclamam boa cultura, para produzir bons frutos.
 
-👉 Veja Q.872
+👉 Veja [Q.872](#q872)
 
-O homem deseja ser feliz e natural é o sentimento que dá origem a esse desejo. Por isso é que trabalha incessantemente para melhorar a sua posição na Terra, que pesquisa as causas de seus males para remediá-los. Quando compreender bem que no egoísmo reside uma dessas causas, a que gera o orgulho, a ambição, a cupidez, a inveja, o ódio, o ciúme, que a cada momento o magoam, a que perturba todas as relações sociais, provoca as dissensões, aniquila a confiança, a que o obriga a se manter constantemente na defensiva contra o seu vizinho, enfim, a que do amigo faz inimigo, ele compreenderá também que esse vício é incompatível com a sua felicidade e, podemos mesmo acrescentar, com a sua própria segurança. E quanto mais haja sofrido por efeito desse vício, mais sentirá a necessidade de combatê-lo, como se combatem a peste, os animais nocivos e todos os outros flagelos. O seu próprio interesse a isso o induzirá.
-
-👉 Veja Q.784
-
-O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virtudes. Destruir um e desenvolver a outra, tal deve ser o alvo de todos os esforços do homem, se quiser assegurar a sua felicidade neste mundo, tanto quanto no futuro.
-:::
+O homem deseja ser feliz e natural é o sentimento que dá origem a esse desejo. Por isso é que trabalha incessantemente para melhorar a sua posição na Terra, que pesquisa as causas de seus males para remediá-los. Quando compreender bem que no egoísmo reside uma dessas causas, a que gera o orgulho, a ambição, a cupidez, a inveja, o ódio, o ciúme, que a cada momento o magoam, a que perturba todas as relações sociais, provoca as dissensões, aniquila a confiança, a que o obriga a se manter constantemente na defensiva contra o seu vizinho, enfim, a que do amigo faz inimigo, ele compreenderá também que esse vício é incompatível com a sua felicidade e, podemos mesmo acrescentar, com a sua própria segurança. E quanto mais haja sofrido por efeito desse vício, mais sentirá a necessidade de combatê-lo, como se combatem a peste, os animais nocivos e todos os outros flagelos. O seu próprio interesse a isso o induzirá. (👉 Veja [Q.784](#q784)) O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virtudes. Destruir um e desenvolver a outra, tal deve ser o alvo de todos os esforços do homem, se quiser assegurar a sua felicidade neste mundo, tanto quanto no futuro.
 
 ::: expand 🔗
 🏷️ [Combate](#combate)
-🏷️ [Educação](#educação)
-🏷️ [Egoísmo](#egoísmo)
+🏷️ [Educação](#educacao)
+🏷️ [Egoísmo](#egoismo)
 🏷️ [Espiritismo](#espiritismo)
 🏷️ [Felicidade](#felicidade)
 🏷️ [Mal](#mal)
@@ -5232,7 +5228,7 @@ O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virt
 
 #### 3.12.04 📄 Caracteres do homem de bem {#lde-3-12-04}
 
-###### #️⃣ Q.918 {#q918}
+##### #️⃣ Q.918 {#q918}
 
 Por que indícios se pode reconhecer em um homem o progresso real que lhe elevará o Espírito na hierarquia espírita? [^23]
 
@@ -5260,7 +5256,7 @@ Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza 
 
 #### 3.12.05 📄 Conhecimento de si mesmo {#lde-3-12-05}
 
-###### #️⃣ Q.919 {#q919}
+##### #️⃣ Q.919 {#q919}
 
 Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de resistir à atração do mal?
 
@@ -5270,7 +5266,7 @@ Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de 
 
 ---
 
-###### #️⃣ Q.919.a {#q919a}
+##### #️⃣ Q.919.a {#q919a}
 
 Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisamente em cada um conhecer-se a si mesmo. Qual o meio de consegui-lo?
 
@@ -5283,7 +5279,7 @@ O conhecimento de si mesmo é, portanto, a chave do progresso individual. Direis
 
 Formulai, pois, de vós para convosco, questões nítidas e precisas e não temais multiplicá-las. Justo é que se gastem alguns minutos para conquistar uma felicidade eterna. Não trabalhais todos os dias com o fito de juntar haveres que vos garantam repouso na velhice? Não constitui esse repouso o objeto de todos os vossos desejos, o fim que vos faz suportar fadigas e privações temporárias? Pois bem! que é esse descanso de alguns dias, turbado sempre pelas enfermidades do corpo, em comparação com o que espera o homem de bem? Não valerá este outro a pena de alguns esforços? Sei haver muitos que dizem ser positivo o presente e incerto o futuro. Ora, esta exatamente a ideia que estamos encarregados de eliminar do vosso íntimo, visto desejarmos fazer que compreendais esse futuro, de modo a não restar nenhuma dúvida em vossa alma. Por isso foi que primeiro chamamos a vossa atenção por meio de fenônemo capazes de ferir-vos os sentidos e que agora vos damos instruções, que cada um de vós se acha encarregado de espalhar. Com este objetivo é que ditamos *O Livro dos Espíritos*.
 
-Santo Agostinho
+**Santo Agostinho**
 :::
 
 Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós.
@@ -5291,16 +5287,17 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 
 ::: expand 🔗
 🏷️ [Agostinho (Santo)](#agostinho-santo)
-🏷️ [Avaliação](#avaliação)
-🏷️ [Ação](#ação)
-🏷️ [Consciência](#consciência)
+🏷️ [Avaliação](#avaliacao)
+🏷️ [Ação](#acao)
+🏷️ [Consciência](#consciencia)
 🏷️ [Falta](#falta)
-🏷️ [Fenômeno espírita](#fenômeno-espírita)
+🏷️ [Fenômeno espírita](#fenomeno-espirita)
 🏷️ [Futuro](#futuro)
 🏷️ [Julgamento](#julgamento)
-🏷️ [Próximo](#próximo)
-🏷️ [Reforma íntima](#reforma-íntima)
+🏷️ [Próximo](#proximo)
+🏷️ [Reforma íntima](#reforma-intima)
 🏷️ [Valor](#valor)
 :::
 
 ---
+

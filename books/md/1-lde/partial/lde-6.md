@@ -1,12 +1,10 @@
-
 ## 6. 🗃️ Pós-textual {#lde-6}
 
 ### 6.01 📄 Nota explicativa {#lde-6-01}
 
 👴🏻 ▸ Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
 
-Allan Kardec
-
+**Allan Kardec**
 Revista Espírita
 Janeiro, 1868
 
@@ -48,7 +46,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
 ✨ ▸ O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
 
-LDE, Q.207
+LDE, [Q.207](#q207)
 
 👴🏻 ▸ … o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor.
 
@@ -77,7 +75,7 @@ Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito d
 
 👴🏻 ▸ Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais.
 
-Allan Kardec
+**Allan Kardec**
 📓 Revista Espírita
 Janeiro, 1863
 
@@ -109,7 +107,8 @@ A Editora (FEB)
 ### 6.02 📄 Índice geral {#lde-6-02}
 
 ::: expand
-###### A {#lde-6-02-a}
+
+##### A {#lde-6-02-a}
 
 ###### 🏷️ Aberração {#aberracao}
 faculdades do homem e – [Q.847](#q847)
@@ -203,8 +202,8 @@ animais e – [Q.600](#q600)
 animais, homem e – [Q.597a](#q597a)
 anterioridade da – [222](#222)
 atributos da – [Q.428](#q428)
-conceito espírita de – [Intro 02](lde-0-03-02)
-conceitos de – [Intro 02](lde-0-03-02), [Q.134](#q134), [Q.134a](#q134a), [Q.134b](#q134b), [Q.139](#q139)
+conceito espírita de – [Intro 02](l#de-0-03-02)
+conceitos de – [Intro 02](l#de-0-03-02), [Q.134](#q134), [Q.134a](#q134a), [Q.134b](#q134b), [Q.139](#q139)
 corpo físico e – [Q.136b](#q136b), [222](#222)
 corpo físico e sede da – [Q.146a](#q146a)
 corpo, perispírito e – [Q.135a](#q135a)
@@ -384,7 +383,7 @@ suicídio e – [Q.758a](#q758a)
 ###### 🏷️ Assembleia {#assembleia}
 espíritos encarnados em – [Q.417](#q417)
 
-###### 🏷️ Assistência espiritual {#assitencia-espiritual}
+###### 🏷️ Assistência espiritual {#assistencia-espiritual}
 Allan Kardec e – [Prefácio](#lde-0-02)
 artes, artistas e – [Q.521](#q521)
 de superior a inferior – [Q.495](#q495)
@@ -426,7 +425,7 @@ ações e atitudes do cotidiano em constante – [Q.919a](#q919a)
 ###### 🏷️ Avareza {#avareza}
 demonstrações da – [Q.901](#q901)
 
-###### B {#lde-6-02-b}
+##### B {#lde-6-02-b}
 
 ###### 🏷️ Batista, João {#batista-joao}
 Elias e – [Q.222](#q222)
@@ -489,7 +488,7 @@ interpretação da – [Conclusão 08](#lde-5-08)
 João Batista e – [Q.222](#q222)
 linguagem figurada e a – [Q.59](#q59)
 
-###### C {#lde-6-02-c}
+##### C {#lde-6-02-c}
 
 ###### 🏷️ Calamidades {#calamidades}
 espíritos e – [Q.738a](#q738a)
@@ -790,7 +789,7 @@ povos primitivos e – [Q.753](#q753)
 procedência do sentimento de – [Q.754](#q754)
 sociedade e – [Q.756](#q756)
 
-###### D {#lde-6-02-d}
+##### D {#lde-6-02-d}
 
 ###### 🏷️ Decálogo {#decalogo}
 sistema de classificação da lei natural e o – [Q.648](#q648)
@@ -1037,7 +1036,7 @@ prática da – [Q.450](#q450)
 presciência, pressentimento e – [Q.454a](#q454a)
 variações no poder da – [Q.455](#q455)
 
-###### E {#lde-6-02-e}
+##### E {#lde-6-02-e}
 
 ###### 🏷️ Eclesiastes {#eclesiastes}
 – [Q.560](#q560)
@@ -1231,7 +1230,7 @@ consequências do pedido de – [Q.888](#q888)
 ###### 🏷️ Espaço {#espaco}
 universal – [Q.35](#q35) a [Q.36](#q36)
 
-###### 🏷️ Espiritismo {#espiritismo}
+###### 🏷️ [Espiritismo]{#espiritismo}
 adepto do – [Intro 01](#lde-0-03-01)
 adversários do – [Conclusão 07](#lde-5-07)
 ancianidade do – [Q.221a](#q221a)
@@ -1649,7 +1648,7 @@ conceito de – [Q.455](#q455)
 mundo desconhecido e – [Q.455](#q455)
 sonambulismo e – [Q.439](#q439)
 
-###### F {#lde-6-02-f}
+##### F {#lde-6-02-f}
 
 ###### 🏷️ Falibilidade {#falibilidade}
 ciência e – [Intro 07](#lde-0-03-07)
@@ -1847,7 +1846,7 @@ predição e – [Q.399](#q399)
 revelação do – [Q.868](#q868)
 vida corpórea e certeza do – [Q.921](#q921)
 
-###### G {#lde-6-02-g}
+##### G {#lde-6-02-g}
 
 ###### 🏷️ Gêmeos {#gemeos}
 encarnação de – [Q.213](#q213)
@@ -1888,7 +1887,7 @@ natureza animal da – [Q.742](#q742)
 necessidade da – [Q.742](#q742)
 santa – [Q.671](#q671)
 
-###### H {#lde-6-02-h}
+##### H {#lde-6-02-h}
 
 ###### 🏷️ Harmonia {#harmonia}
 lei humana e lei divina em – [Q.788](#q788)
@@ -1970,7 +1969,7 @@ período de – [Q.607b](#q607b)
 ###### 🏷️ Humildade {#humildade}
 desinteresse e – [Prefácio](#lde-0-02)
 
-###### I {#lde-6-02-i}
+##### I {#lde-6-02-i}
 
 ###### 🏷️ Ideia {#ideia}
 forma e – [Intro 14](#lde-0-03-14)
@@ -2204,7 +2203,7 @@ Espírito e – [Q.92a](#q92a), [Q.420](#q420)
 ###### 🏷️ Isolamento {#isolamento}
 sociedade e – [Q.769](#q769)
 
-###### J {#lde-6-02-j}
+##### J {#lde-6-02-j}
 
 ###### 🏷️ Jesus {#jesus}
 caridade e – [Q.886](#q886)
@@ -2255,7 +2254,7 @@ consolo do – [Q.926](#q926)
 ###### 🏷️ Term
 occurrence – Q.X
 
-###### L {#lde-6-02-l}
+##### L {#lde-6-02-l}
 
 ###### 🏷️ Laços de família {#lacos-de-familia}
 lei da natureza e – [Q.774](#q774)
@@ -2446,7 +2445,7 @@ abandono do protegido pelo protetor conforme elucidações de – [Q.495](#q495)
 ###### 🏷️ Luta {#luta}
 chegada ao progresso e – [Q.894](#q894)
 
-###### M {#lde-6-02-m}
+##### M {#lde-6-02-m}
 
 ###### 🏷️ Mãe {#mae}
 aborto de risco de vida da – [Q.359](#q359)
@@ -2739,7 +2738,7 @@ topografia de – [Q.236a](#q236a)
 ###### 🏷️ Música {#musica}
 sensibilidade dos espíritos para a – [Q.251](#q251)
 
-###### N {#lde-6-02-n}
+##### N {#lde-6-02-n}
 
 ###### 🏷️ Nação {#nacao}
 amor à * após a desencarnação – [Q.317](#q317)
@@ -2808,7 +2807,7 @@ evidência e – [Q.802](#q802)
 ###### 🏷️ Nome {#nome}
 importância espiritual do – [Intro 12](#lde-0-03-12)
 
-###### O {#lde-6-02-o}
+##### O {#lde-6-02-o}
 
 ###### 🏷️ Obsessão {#obsessao}
 cura da – [Q.475](#q475)
@@ -2895,7 +2894,7 @@ estilo alegórico na literatura do – [Q.59](#q59)
 ###### 🏷️ Ostentação {#ostentacao}
 benefício e – [Q.888a](#q888a)
 
-###### P {#lde-6-02-p}
+##### P {#lde-6-02-p}
 
 ###### 🏷️ Pactos {#pactos}
 maus espíritos e – [Q.549](#q549)
@@ -3678,12 +3677,12 @@ sofrimento e – [Q.270](#q270)
 substituição de gerações e – [Q.786](#q786)
 virtude e – [Q.893](#q893)
 
-###### Q {#lde-6-02-q}
+##### Q {#lde-6-02-q}
 
 ###### 🏷️ Queda {#queda}
 homem, livre-arbítrio e – [Q.262](#q262)
 
-###### R {#lde-6-02-r}
+##### R {#lde-6-02-r}
 
 ###### 🏷️ Raças {#racas}
 cruzamento de – [Q.59](#q59)
@@ -3944,7 +3943,7 @@ prova da – [Q.533](#q533), [Q.815](#q815), [Q.925](#q925)
 ###### 🏷️ Ritual {#ritual}
 adoração e – [Q.654](#q654)
 
-###### S {#lde-6-02-s}
+##### S {#lde-6-02-s}
 
 ###### 🏷️ Sabedoria {#sabedoria}
 perfeição e – [Q.238](#q238)
@@ -4242,7 +4241,7 @@ influência do – [Q.402](#q402)
 relacionamento com espíritos e – [Q.401](#q401)
 sonho – [Q.400](#q400) a [Q.412](#q412)
 
-###### T {#lde-6-02-t}
+##### T {#lde-6-02-t}
 
 ###### 🏷️ Talismã {#talisma}
 feiticeiro e – [Q.554](#q554)
@@ -4345,7 +4344,7 @@ igualdade e – [Q.823](#q823)
 lembrança das ações boas ou más e – [Q.824](#q824)
 visitação a – [Q.322](#q322)
 
-###### U {#lde-6-02-u}
+##### U {#lde-6-02-u}
 
 ###### 🏷️ Ubiquidade {#ubiquidade}
 Espírito e – [Q.92](#q92)
@@ -4370,7 +4369,7 @@ harmonia do – [Q.607a](#q607a)
 presença dos espíritos puros no – [Q.130](#q130)
 reencarnação e – [Q.173b](#q173b)
 
-###### V {#lde-6-02-v}
+##### V {#lde-6-02-v}
 
 ###### 🏷️ Vácuo {#vacuo}
 espaço universal e – [Q.36](#q36)
@@ -4520,7 +4519,7 @@ poder da – [Q.872](#q872)
 relações sociais e – [Q.772](#q772)
 sociedade e – [Q.772](#q772)
 
-###### Z {#lde-6-02-z}
+##### Z {#lde-6-02-z}
 
 ###### 🏷️ Zelo {#zelo}
 excesso de – [Q.736](#q736)
