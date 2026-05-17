@@ -85,7 +85,7 @@ entre outros.**
 
 ::: expand 🔗
 🏷️ [Allan Kardec](#allan-kardec)
-🏷️ [Assistência espiritual](#assitencia-espiritual)
+🏷️ [Assistência espiritual](#assistencia-espiritual)
 🏷️ [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
 🏷️ [Deus](#deus)
 🏷️ [Efeitos inteligentes](#efeitos-inteligentes)
