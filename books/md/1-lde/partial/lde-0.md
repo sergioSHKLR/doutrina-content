@@ -1,3 +1,158 @@
+---
+title: "O Livro dos Espíritos"
+subtitle: "Filosofia Espiritualista"
+description: "Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados por Allan Kardec. Tradução de Guillon Ribeiro (Edição FEB Histórica)."
+author: "Allan Kardec"
+translator: "Guillon Ribeiro"
+codifier: "Allan Kardec"
+editor: "Federação Espírita Brasileira (FEB)"
+edition: "93ª edição – 8ª impressão (Edição Histórica)"
+isbn: "978-85-7328-728-8"
+originalTitle: "Le Livre des Esprits"
+originalPublicationDate: "1857-04-18"
+publicationDate: "2019"
+language: "pt-BR"
+
+# === DISCLAIMER & COPYRIGHT ===
+copyright: "© Federação Espírita Brasileira – Todos os direitos reservados."
+disclaimer: |
+  Esta é uma edição digital modificada para consumo educacional e de estudo. 
+  O autor (Sergio Schickler / doutrina.org) NÃO possui os direitos autorais sobre a obra. Todos os direitos sobre o texto original pertencem à Federação Espírita Brasileira (FEB). Baseado na edição com ISBN 978-85-7328-728-8.
+license: "Uso educacional e não-comercial permitido. Proibida a venda ou uso comercial sem autorização da FEB."
+rights: "Todos os direitos reservados à FEB. Reprodução autorizada apenas para fins doutrinários e educativos."
+
+tags:
+  - "espiritismo"
+  - "allan-kardec"
+  - "doutrina-espírita"
+  - "filosofia-espiritualista"
+  - "reencarnação"
+  - "lei-moral"
+  - "vida-futura"
+  - "perispírito"
+  - "obras-básicas"
+  - "kardecismo"
+
+categories:
+  - "Obras Básicas do Espiritismo"
+  - "Livros de Allan Kardec"
+  - "Doutrina Espírita"
+
+series: "Obras Básicas do Espiritismo"
+seriesPosition: 1
+layout: "book"
+template: "lde-full"
+permalink: "/lde/"
+eleventyNavigation:
+  key: "O Livro dos Espíritos"
+  parent: "Obras de Allan Kardec"
+  order: 1
+  title: "LDE — O Livro dos Espíritos"
+
+date: "2025-05-18"
+updated: "{{ currentDate }}"
+draft: false
+featured: true
+toc: true
+readingTime: true
+wordCount: true
+showMetadata: true
+showIndex: true
+showTags: true
+showExpanders: true
+showSpiritQuotes: true
+
+css:
+  - "/css/lde.css"
+  - "/css/spirit.css"
+  - "/css/grey-center.css"
+javascript:
+  - "/js/lde-search.js"
+  - "/js/tag-filter.js"
+  - "/js/question-nav.js"
+
+ogImage: "/images/lde-cover.jpg"
+twitterImage: "/images/lde-cover.jpg"
+
+schemaType: "Book"
+schema:
+  bookFormat: "EBook"
+  genre: "ReligiousText"
+  inLanguage: "pt-BR"
+  numberOfPages: 526
+  about:
+    - "Espiritismo"
+    - "Reencarnação"
+    - "Imortalidade da Alma"
+    - "Leis Morais"
+  author:
+    name: "Allan Kardec"
+    url: "https://pt.wikipedia.org/wiki/Allan_Kardec"
+  publisher:
+    name: "Federação Espírita Brasileira"
+    url: "https://www.febeditora.com.br"
+  datePublished: "1857"
+  dateModified: "2019"
+  isPartOf: "Obras Básicas do Espiritismo"
+
+contentStructure:
+  preTextual:
+    - "Folha de rosto"
+    - "Prefácio"
+    - "Introdução"
+  mainParts:
+    - name: "Parte Primeira"
+      title: "Das causas primárias"
+      chapters: 4
+    - name: "Parte Segunda"
+      title: "Do mundo espírita ou mundo dos Espíritos"
+      chapters: 11
+    - name: "Parte Terceira"
+      title: "Das leis morais"
+      chapters: 12
+    - name: "Parte Quarta"
+      title: "Das esperanças e consolações"
+      chapters: 2
+  questions: 1019
+  notes: true
+  index: true
+  tagsIndex: true
+  questionMap: true
+
+metadata:
+  sourceFile: "1-lde-full.md"
+  processedBy: "doutrina.org digital edition"
+  license: "Uso educacional e doutrinário"
+  spiritualSignature: "Espírito da Verdade, São Luís, São Vicente de Paulo, etc."
+
+emojiDefinitions:
+- Publicações:
+  👻: "Livro dos Espíritos"
+  ✒️: "Livro dos Médiuns"
+  🕊️: "O Evangelho segundo o Espiritismo"
+  🔥: "O Céu e o Inferno"
+  🌱: "A Gênese"
+  🪦: "Obras Póstumas"
+  📓: "Revista Espírita"
+  🔍: "O que é o Espiritismo"
+- Legenda deste livro:
+  ✨: "Comunicação espiritual"
+  ✝️: "Citação bíblica"
+  👴🏻: "Allan Kardec"
+  🗃️: "Parte do Livro"
+  🗂️: "Capítulo da Parte"
+  📄: "Tópico do Capítulo"
+  #️⃣: "Questão"
+  👉🏻: "Tópico relacionado"
+  🔗: "Lista de termos do Índice"
+  🏷️: "Termo do Índice"
+- Conferência de qualidade:
+  ⚓: "notas de rodapé"
+  📐: "italics"
+  🏋️: "negrito"
+  ⚜️: "comentário de Kardec"
+  🔤: "textual"
+---
 
 # ✨ O Livro dos Espíritos {#lde}
 
@@ -26,7 +181,7 @@ Tradução de Guillon Ribeiro
 >
 > [💧 doutrina.org ](https://doutrina.org) 
 > 
-> [⚖️ Avisos Legais]()
+> [⚖️ Avisos Legais]()![]()
 :::
 
 ---
@@ -100,15 +255,17 @@ entre outros.**
 🏷️ [Perseverança](#perseveranca)
 :::
 
+⚓
+
 ---
 
 ### 🗂️ 0.03 Introdução {#lde-0-03}
 
 #### 0.03.01 📄 Intro 01 {#lde-0-03-01}
 
-Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão inerente à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm acepção bem definida. Dar-lhes outra, para aplicá-los à Doutrina dos Espíritos, fora multiplicar as causas já numerosas de anfibologia. Com efeito, o espiritualismo é o oposto do materialismo. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos Espíritos ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **Espiritismo**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente inteligíveis, deixando ao vocábulo **espiritualismo** a acepção que lhe é própria. Diremos, pois, que a Doutrina **Espírita** ou o **Espiritismo** tem por princípio as relações do mundo material com os Espíritos ou seres do mundo invisível. Os adeptos do Espiritismo serão os **espíritas**, ou, se quiserem, os **espiritistas**.
+Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão inerente à variedade de sentidos das mesmas palavras. Os vocábulos *espiritual*, *espiritualista*, *espiritualismo* têm acepção bem definida. Dar-lhes outra, para aplicá-los à Doutrina dos Espíritos, fora multiplicar as causas já numerosas de anfibologia. Com efeito, o espiritualismo é o oposto do materialismo. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos Espíritos ou em suas comunicações com o mundo visível. Em vez das palavras *espiritual*, *espiritualismo*, empregamos, para indicar a crença a que vimos de referir-nos, os termos *espírita* e *Espiritismo*, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente inteligíveis, deixando ao vocábulo *espiritualismo* a acepção que lhe é própria. Diremos, pois, que a Doutrina *Espírita* ou o *Espiritismo* tem por princípio as relações do mundo material com os Espíritos ou seres do mundo invisível. Os adeptos do Espiritismo serão os *espíritas*, ou, se quiserem, os *espiritistas*.
 
-Como especialidade, *O Livro dos Espíritos* contém a Doutrina **Espírita**; como generalidade, prende-se à doutrina **espiritualista**, uma de cujas fases apresenta. Essa a razão por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
+Como especialidade, 👻 *O Livro dos Espíritos* contém a Doutrina Espírita; como generalidade, prende-se à doutrina *espiritualista*, uma de cujas fases apresenta. Essa a razão por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
 
 ::: expand 🔗
 🏷️ [Espiritismo](#espiritismo)
@@ -121,27 +278,27 @@ Como especialidade, *O Livro dos Espíritos* contém a Doutrina **Espírita**; c
 
 #### 0.03.02 📄 Intro 02 {#lde-0-03-02}
 
-Há outra palavra acerca da qual importa igualmente que todos se entendam, por constituir um dos fechos de abóbada de toda doutrina moral e ser objeto de inúmeras controvérsias, à míngua de uma acepção bem determinada. É a palavra **alma**. A divergência de opiniões sobre a natureza da alma provém da aplicação particular que cada um dá a esse termo. Uma língua perfeita, em que cada ideia fosse expressa por um termo próprio, evitaria muitas discussões. Com uma palavra para cada coisa, todos se entenderiam.
+Há outra palavra acerca da qual importa igualmente que todos se entendam, por constituir um dos fechos de abóbada de toda doutrina moral e ser objeto de inúmeras controvérsias, à míngua de uma acepção bem determinada. É a palavra *alma*. A divergência de opiniões sobre a natureza da alma provém da aplicação particular que cada um dá a esse termo. Uma língua perfeita, em que cada ideia fosse expressa por um termo próprio, evitaria muitas discussões. Com uma palavra para cada coisa, todos se entenderiam.
 
 Segundo uns, a alma é o princípio da vida material orgânica. Não tem existência própria e se aniquila com a vida: é o materialismo puro. Neste sentido e por comparação, diz-se de um instrumento rachado, que nenhum som mais emite: não tem alma. De conformidade com essa opinião, a alma seria efeito e não causa.
 
-Pensam outros que a alma é o princípio da inteligência, agente universal do qual cada ser absorve uma certa porção. Segundo esses, não haveria em todo o Universo senão uma só alma a distribuir centelhas pelos diversos seres inteligentes durante a vida destes, voltando cada centelha, mortos os seres, à fonte comum, a se confundir com o todo, como os regatos e os rios voltam ao mar, donde saíram. Essa opinião difere da precedente em que, nesta hipótese, não há em nós somente matéria, subsistindo alguma coisa após a morte. Mas é quase como se nada subsistisse, porquanto, destituídos de individualidade, não mais teríamos consciência de nós mesmos. Dentro desta opinião, a alma universal seria Deus, e cada ser um fragmento da divindade. Simples variante do **panteísmo**.
+Pensam outros que a alma é o princípio da inteligência, agente universal do qual cada ser absorve uma certa porção. Segundo esses, não haveria em todo o Universo senão uma só alma a distribuir centelhas pelos diversos seres inteligentes durante a vida destes, voltando cada centelha, mortos os seres, à fonte comum, a se confundir com o todo, como os regatos e os rios voltam ao mar, donde saíram. Essa opinião difere da precedente em que, nesta hipótese, não há em nós somente matéria, subsistindo alguma coisa após a morte. Mas é quase como se nada subsistisse, porquanto, destituídos de individualidade, não mais teríamos consciência de nós mesmos. Dentro desta opinião, a alma universal seria Deus, e cada ser um fragmento da divindade. Simples variante do *panteísmo*.
 
-Segundo outros, finalmente, a alma é um ser moral, distinto, independente da matéria e que conserva sua individualidade após a morte. Esta acepção é, sem contradita, a mais geral, porque, debaixo de um nome ou de outro, a ideia desse ser que sobrevive ao corpo se encontra, no estado de crença instintiva, não derivada de ensino, entre todos os povos, qualquer que seja o grau de civilização de cada um. Essa doutrina, segundo a qual a alma é **causa** e não **efeito**, é a dos espiritualistas.
+Segundo outros, finalmente, a alma é um ser moral, distinto, independente da matéria e que conserva sua individualidade após a morte. Esta acepção é, sem contradita, a mais geral, porque, debaixo de um nome ou de outro, a ideia desse ser que sobrevive ao corpo se encontra, no estado de crença instintiva, não derivada de ensino, entre todos os povos, qualquer que seja o grau de civilização de cada um. Essa doutrina, segundo a qual a alma é *causa* e não *efeito*, é a dos espiritualistas.
 
-Sem discutir o mérito de tais opiniões e considerando apenas o lado linguístico da questão, diremos que estas três aplicações do termo **alma** correspondem a três ideias distintas, que demandariam, para serem expressas, três vocábulos diferentes. Aquela palavra tem, pois, tríplice acepção e cada um, do seu ponto de vista, pode com razão defini-la como o faz. O mal está em a língua dispor somente de uma palavra para exprimir três ideias. A fim de evitar todo equívoco, seria necessário restringir-se a acepção do termo **alma** a uma daquelas ideias. A escolha é indiferente; o que se faz mister é o entendimento entre todos, reduzindo-se o problema a uma simples questão de convenção. Julgamos mais lógico tomá-lo na sua acepção vulgar e por isso chamamos ALMA **ao ser imaterial e individual que em nós reside e sobrevive ao corpo**. Mesmo quando esse ser não existisse, não passasse de produto da imaginação, ainda assim seria preciso um termo para designá-lo.
+Sem discutir o mérito de tais opiniões e considerando apenas o lado linguístico da questão, diremos que estas três aplicações do termo *alma* correspondem a três ideias distintas, que demandariam, para serem expressas, três vocábulos diferentes. Aquela palavra tem, pois, tríplice acepção e cada um, do seu ponto de vista, pode com razão defini-la como o faz. O mal está em a língua dispor somente de uma palavra para exprimir três ideias. A fim de evitar todo equívoco, seria necessário restringir-se a acepção do termo *alma* a uma daquelas ideias. A escolha é indiferente; o que se faz mister é o entendimento entre todos, reduzindo-se o problema a uma simples questão de convenção. Julgamos mais lógico tomá-lo na sua acepção vulgar e por isso chamamos ALMA *ao ser imaterial e individual que em nós reside e sobrevive ao corpo*. Mesmo quando esse ser não existisse, não passasse de produto da imaginação, ainda assim seria preciso um termo para designá-lo.
 
 Na ausência de um vocábulo especial para tradução de cada uma das duas outras ideias a que corresponde a palavra alma, denominamos:
 
-**Princípio vital** o princípio da vida material e orgânica, qualquer que seja a fonte donde promane, princípio esse comum a todos os seres vivos, desde as plantas até o homem. Pois que pode haver vida com exclusão da faculdade de pensar, o princípio vital é coisa distinta e independente. A palavra **vitalidade** não daria a mesma ideia. Para uns o princípio vital é uma propriedade da matéria, um efeito que se produz achando-se a matéria em dadas circunstâncias. Segundo outros, e esta é a ideia mais comum, ele reside em um fluido especial, universalmente espalhado e do qual cada ser absorve e assimila uma parcela durante a vida, tal como os corpos inertes absorvem a luz. Esse seria então o **fluido vital** que, na opinião de alguns, em nada difere do fluido elétrico animalizado, ao qual também se dão os nomes de **fluido magnético**, **fluido nervoso** etc.
+*Princípio vital* o princípio da vida material e orgânica, qualquer que seja a fonte donde promane, princípio esse comum a todos os seres vivos, desde as plantas até o homem. Pois que pode haver vida com exclusão da faculdade de pensar, o princípio vital é coisa distinta e independente. A palavra *vitalidade* não daria a mesma ideia. Para uns o princípio vital é uma propriedade da matéria, um efeito que se produz achando-se a matéria em dadas circunstâncias. Segundo outros, e esta é a ideia mais comum, ele reside em um fluido especial, universalmente espalhado e do qual cada ser absorve e assimila uma parcela durante a vida, tal como os corpos inertes absorvem a luz. Esse seria então o *fluido vital* que, na opinião de alguns, em nada difere do fluido elétrico animalizado, ao qual também se dão os nomes de *fluido magnético*, *fluido nervoso* etc.
 
 Seja como for, um fato há que ninguém ousaria contestar, pois que resulta da observação: é que os seres orgânicos têm em si uma força íntima que determina o fenômeno da vida, enquanto essa força existe; que a vida material é comum a todos os seres orgânicos e independe da inteligência e do pensamento; que a inteligência e o pensamento são faculdades próprias de certas espécies orgânicas; finalmente, que entre as espécies orgânicas dotadas de inteligência e de pensamento há uma dotada também de um senso moral especial, que lhe dá incontestável superioridade sobre as outras: a espécie humana.
 
 Concebe-se que, com uma acepção múltipla, o termo alma não exclui o materialismo, nem o panteísmo. O próprio espiritualismo pode entender a alma de acordo com uma ou outra das duas primeiras definições, sem prejuízo do ser imaterial distinto, a que então dará um nome qualquer. Assim, aquela palavra não representa uma opinião: é um Proteu [^1], que cada um ajeita a seu bel-prazer. Daí tantas disputas intermináveis.
 
-Evitar-se-ia igualmente a confusão, mesmo usando-se do termo **alma** nos três casos, desde que se lhe acrescentasse um qualificativo especificando o ponto de vista em que se está colocado, ou a aplicação que se faz da palavra. Esta teria, então, um caráter genérico, designando, ao mesmo tempo, o princípio da vida material, o da inteligência e o do senso moral, que se distinguiriam mediante um atributo, como os **gases**, por exemplo, que se distinguem aditando-se ao termo genérico as palavras **hidrogênio**, **oxigênio**, ou **azoto**. Poder-se-ia, assim, dizer, e talvez fosse o melhor, a **alma vital** — indicando o princípio da vida material; a **alma intelectual** — o princípio da inteligência, e a **alma espírita** — o da nossa individualidade após a morte. Como se vê, tudo isto não passa de uma questão de palavras, mas questão muito importante quando se trata de nos fazermos entendidos. De conformidade com essa maneira de falar, a alma vital seria comum a todos os seres orgânicos: plantas, animais e homens; a **alma intelectual** pertenceria aos animais e aos homens; e a **alma espírita** somente ao homem.
+Evitar-se-ia igualmente a confusão, mesmo usando-se do termo *alma* nos três casos, desde que se lhe acrescentasse um qualificativo especificando o ponto de vista em que se está colocado, ou a aplicação que se faz da palavra. Esta teria, então, um caráter genérico, designando, ao mesmo tempo, o princípio da vida material, o da inteligência e o do senso moral, que se distinguiriam mediante um atributo, como os *gases*, por exemplo, que se distinguem aditando-se ao termo genérico as palavras *hidrogênio*, *oxigênio*, ou *azoto*. Poder-se-ia, assim, dizer, e talvez fosse o melhor, a *alma vital* — indicando o princípio da vida material; a *alma intelectual* — o princípio da inteligência, e a *alma espírita* — o da nossa individualidade após a morte. Como se vê, tudo isto não passa de uma questão de palavras, mas questão muito importante quando se trata de nos fazermos entendidos. De conformidade com essa maneira de falar, a alma vital seria comum a todos os seres orgânicos: plantas, animais e homens; a *alma intelectual* pertenceria aos animais e aos homens; e a *alma espírita* somente ao homem.
 
-Julgamos dever insistir nestas explicações pela razão de que a Doutrina Espírita repousa naturalmente sobre a existência, em nós, de um ser independente da matéria e que sobrevive ao corpo. A palavra **alma**, tendo que aparecer com frequência no curso desta obra, cumpria fixássemos bem o sentido que lhe atribuímos, a fim de evitarmos qualquer engano.
+Julgamos dever insistir nestas explicações pela razão de que a Doutrina Espírita repousa naturalmente sobre a existência, em nós, de um ser independente da matéria e que sobrevive ao corpo. A palavra *alma*, tendo que aparecer com frequência no curso desta obra, cumpria fixássemos bem o sentido que lhe atribuímos, a fim de evitarmos qualquer engano.
 
 Passemos agora ao objeto principal desta instrução preliminar.
 
@@ -155,6 +312,8 @@ Passemos agora ao objeto principal desta instrução preliminar.
 🏷️ [Seres vivos](#seres-vivos)
 :::
 
+⚓
+
 ---
 
 #### 0.03.03 📄 Intro 03 {#lde-0-03-03}
@@ -163,7 +322,7 @@ Como tudo que constitui novidade, a Doutrina Espírita conta adeptos e contradit
 
 Lembremos, antes de tudo, em poucas palavras, a série progressiva dos fenômenos que deram origem a esta Doutrina.
 
-O primeiro fato observado foi o da movimentação de objetos diversos. Designaram-no vulgarmente pelo nome de **mesas girantes** ou **dança das mesas**. Este fenômeno, que parece ter sido notado primeiramente na América, ou, melhor, que se repetiu nesse país, porquanto a História prova que ele remonta à mais alta antiguidade, se produziu rodeado de circunstâncias estranhas, tais como ruídos insólitos, pancadas sem nenhuma causa ostensiva. De lá, propagou-se rapidamente pela Europa e pelas outras partes do mundo. A princípio quase que só encontrou incredulidade, porém, ao cabo de pouco tempo, a multiplicidade das experiências não mais permitiu lhe pusessem em dúvida a realidade.
+O primeiro fato observado foi o da movimentação de objetos diversos. Designaram-no vulgarmente pelo nome de *mesas girantes* ou *dança das mesas*. Este fenômeno, que parece ter sido notado primeiramente na América, ou, melhor, que se repetiu nesse país, porquanto a História prova que ele remonta à mais alta antiguidade, se produziu rodeado de circunstâncias estranhas, tais como ruídos insólitos, pancadas sem nenhuma causa ostensiva. De lá, propagou-se rapidamente pela Europa e pelas outras partes do mundo. A princípio quase que só encontrou incredulidade, porém, ao cabo de pouco tempo, a multiplicidade das experiências não mais permitiu lhe pusessem em dúvida a realidade.
 
 Se tal fenômeno se houvesse limitado ao movimento de objetos materiais, poderia explicar-se por uma causa puramente física. Estamos longe de conhecer todos os agentes ocultos da Natureza, ou todas as propriedades dos que conhecemos: a eletricidade multiplica diariamente os recursos que proporciona ao homem e parece destinada a iluminar a Ciência com uma nova luz. Nada de impossível haveria, portanto, em que a eletricidade, modificada por certas circunstâncias, ou qualquer outro agente desconhecido, fosse a causa dos movimentos observados. O fato de que a reunião de muitas pessoas aumenta a potencialidade da ação parecia vir em apoio dessa teoria, visto poder-se considerar o conjunto dos assistentes como uma pilha múltipla, com o seu potencial na razão direta do número dos elementos.
 
@@ -175,9 +334,9 @@ Os ruídos insólitos, as pancadas, ainda que não fossem um dos efeitos ordiná
 
 Até aí, como se vê, tudo pode caber no domínio dos fatos puramente físicos e fisiológicos. Sem sair desse âmbito de ideias, já ali havia, no entanto, matéria para estudos sérios e dignos de prender a atenção dos sábios. Por que assim não aconteceu? É penoso dizê-lo, mas o fato deriva de causas que provam, entre mil outros semelhantes, a leviandade do espírito humano. A vulgaridade do objeto principal que serviu de base às primeiras experiências não foi alheia à indiferença dos sábios. Que influência não tem tido muitas vezes uma palavra sobre as coisas mais graves!
 
-Sem atenderem a que o movimento podia ser impresso a um objeto qualquer, a ideia das mesas prevaleceu, sem dúvida, por ser o objeto mais cômodo e porque, à roda de uma mesa, muito mais naturalmente do que em torno de qualquer outro móvel, se sentam diversas pessoas. Ora, os homens superiores são com frequência tão pueris que não há como ter por impossível que certos espíritos de escol hajam considerado deprimente ocuparem-se com o que se convencionara chamar a **dança das mesas**. É mesmo provável que se o fenômeno observado por Galvani o fora por homens vulgares e ficasse caracterizado por um nome burlesco, ainda estaria relegado a fazer companhia à varinha mágica. Qual, com efeito, o sábio que não houvera julgado uma indignidade ocupar-se com a **dança das rãs**?
+Sem atenderem a que o movimento podia ser impresso a um objeto qualquer, a ideia das mesas prevaleceu, sem dúvida, por ser o objeto mais cômodo e porque, à roda de uma mesa, muito mais naturalmente do que em torno de qualquer outro móvel, se sentam diversas pessoas. Ora, os homens superiores são com frequência tão pueris que não há como ter por impossível que certos espíritos de escol hajam considerado deprimente ocuparem-se com o que se convencionara chamar a *dança das mesas*. É mesmo provável que se o fenômeno observado por Galvani o fora por homens vulgares e ficasse caracterizado por um nome burlesco, ainda estaria relegado a fazer companhia à varinha mágica. Qual, com efeito, o sábio que não houvera julgado uma indignidade ocupar-se com a *dança das rãs*?
 
-Alguns, entretanto, muito modestos para convirem em que bem poderia dar-se não lhes ter ainda a Natureza dito a última palavra, quiseram ver, para tranquilidade de suas consciências. Mas aconteceu que o fenômeno nem sempre lhes correspondeu à expectativa e, do fato de não se haver produzido constantemente conforme a vontade deles e segundo a maneira de se comportarem na experimentação, concluíram pela negativa. Malgrado, porém, o que decretaram, as mesas — pois que há mesas — continuam a girar e podemos dizer com Galileu: **todavia, elas se movem!** Acrescentaremos que os fatos se multiplicaram de tal modo que hoje são aceitos sem contestação, não mais se cogitando senão de lhes achar uma explicação racional.
+Alguns, entretanto, muito modestos para convirem em que bem poderia dar-se não lhes ter ainda a Natureza dito a última palavra, quiseram ver, para tranquilidade de suas consciências. Mas aconteceu que o fenômeno nem sempre lhes correspondeu à expectativa e, do fato de não se haver produzido constantemente conforme a vontade deles e segundo a maneira de se comportarem na experimentação, concluíram pela negativa. Malgrado, porém, o que decretaram, as mesas — pois que há mesas — continuam a girar e podemos dizer com Galileu: *todavia, elas se movem!* Acrescentaremos que os fatos se multiplicaram de tal modo que hoje são aceitos sem contestação, não mais se cogitando senão de lhes achar uma explicação racional.
 
 Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstância de ele não se produzir de modo sempre idêntico, conforme a vontade e as exigências do observador? Os fenômenos de eletricidade e de química não estão subordinados a certas condições? Será lícito negá-los, porque não se produzem fora dessas condições? Que há, pois, de surpreendente em que o fenômeno do movimento dos objetos pelo fluido humano também se ache sujeito a determinadas condições e deixe de se produzir quando o observador, colocando-se no seu ponto de vista, pretende fazê-lo seguir a marcha que caprichosamente lhe imponha, ou queira sujeitá-lo às leis dos fenômenos conhecidos, sem considerar que para fatos novos pode e deve haver novas leis? Ora, para se conhecerem essas leis, preciso é que se estudem as circunstâncias em que os fatos se produzem e esse estudo não pode deixar de ser fruto de observação perseverante, atenta e às vezes muito longa.
 
@@ -200,9 +359,9 @@ Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Pergunt
 
 Se os fenômenos, com que nos estamos ocupando, houvessem ficado restritos ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem singular. Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a intervenção de uma causa inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência inteligente? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da Humanidade? Eis outras questões que decorrem da anterior.
 
-As primeiras manifestações inteligentes se produziram por meio de mesas que se levantavam e, com um dos pés, davam certo número de pancadas, respondendo desse modo — **sim** ou **não** —, conforme fora convencionado, a uma pergunta feita. Até aí nada de convincente havia para os céticos, porquanto bem podiam crer que tudo fosse obra do acaso. Obtiveram-se depois respostas mais desenvolvidas com o auxílio das letras do alfabeto: dando o móvel um número de pancadas correspondente ao número de ordem de cada letra, chegava-se a formar palavras e frases que respondiam às questões propostas. A precisão das respostas e a correlação que denotavam com as perguntas causaram espanto. O ser misterioso que assim respondia, interrogado sobre a sua natureza, declarou que era **Espírito** ou **Gênio**, declinou um nome e prestou diversas informações a seu respeito. Há aqui uma circunstância muito importante, que se deve assinalar. É que ninguém imaginou os **Espíritos** como meio de explicar o fenômeno; foi o próprio fenômeno que revelou a palavra. Muitas vezes, tratando-se das ciências exatas, formulam-se hipóteses para dar-se uma base ao raciocínio. Não é aqui o caso.
+As primeiras manifestações inteligentes se produziram por meio de mesas que se levantavam e, com um dos pés, davam certo número de pancadas, respondendo desse modo — *sim* ou *não* —, conforme fora convencionado, a uma pergunta feita. Até aí nada de convincente havia para os céticos, porquanto bem podiam crer que tudo fosse obra do acaso. Obtiveram-se depois respostas mais desenvolvidas com o auxílio das letras do alfabeto: dando o móvel um número de pancadas correspondente ao número de ordem de cada letra, chegava-se a formar palavras e frases que respondiam às questões propostas. A precisão das respostas e a correlação que denotavam com as perguntas causaram espanto. O ser misterioso que assim respondia, interrogado sobre a sua natureza, declarou que era *Espírito* ou *Gênio*, declinou um nome e prestou diversas informações a seu respeito. Há aqui uma circunstância muito importante, que se deve assinalar. É que ninguém imaginou os *Espíritos* como meio de explicar o fenômeno; foi o próprio fenômeno que revelou a palavra. Muitas vezes, tratando-se das ciências exatas, formulam-se hipóteses para dar-se uma base ao raciocínio. Não é aqui o caso.
 
-Tal meio de correspondência era, porém, demorado e incômodo. O Espírito (e isto constitui nova circunstância digna de nota) indicou outro. Foi um desses seres invisíveis quem aconselhou a adaptação de um lápis a uma cesta ou a outro objeto. Colocada em cima de uma folha de papel, a cesta) é posta em movimento pela mesma potência oculta que move as mesas; mas, em vez de um simples movimento regular, o lápis traça por si mesmo caracteres formando palavras, frases, dissertações de muitas páginas sobre as mais altas questões de filosofia, de moral, de metafísica, de psicologia etc., e com tanta rapidez quanta se se escrevesse com a mão.
+Tal meio de correspondência era, porém, demorado e incômodo. O Espírito (e isto constitui nova circunstância digna de nota) indicou outro. Foi um desses seres invisíveis quem aconselhou a adaptação de um lápis a uma cesta ou a outro objeto. Colocada em cima de uma folha de papel, a cesta é posta em movimento pela mesma potência oculta que move as mesas; mas, em vez de um simples movimento regular, o lápis traça por si mesmo caracteres formando palavras, frases, dissertações de muitas páginas sobre as mais altas questões de filosofia, de moral, de metafísica, de psicologia etc., e com tanta rapidez quanta se se escrevesse com a mão.
 
 O conselho foi dado simultaneamente na América, na França e em diversos outros países. Eis em que termos o deram em Paris, a 10 de junho de 1853, a um dos mais fervorosos adeptos da Doutrina e que, havia muitos anos, desde 1849, se ocupava com a evocação dos Espíritos:
 
@@ -218,7 +377,7 @@ Alguns instantes após, a cesta entrou a mover-se e o lápis escreveu, muito leg
 
 O objeto a que se adapta o lápis, não passando de mero instrumento, completamente indiferentes são a natureza e a forma que tenha. Daí o haver-se procurado dar-lhe a disposição mais cômoda. Assim é que muita gente se serve de uma prancheta pequena.
 
-A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de médiuns, isto é — meios ou intermediários entre os Espíritos e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há médiuns de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício.
+A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de *médiuns*, isto é — meios ou intermediários entre os Espíritos e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há médiuns de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício.
 
 ::: expand 🔗
 🏷️ [Ação](#acao)
@@ -284,8 +443,8 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 
 10. tem assim o homem duas naturezas: pelo corpo, participa da natureza dos animais, cujos instintos lhe são comuns; pela alma, participa da natureza dos Espíritos;
 
-11. o laço ou **perispírito**, que prende ao corpo o Espírito, é uma espécie de envoltório semimaterial. A morte é a destruição do invólucro mais grosseiro. O Espírito conserva o segundo, que lhe constitui um corpo etéreo, invisível para nós no estado normal, porém, que pode tornar-se acidentalmente visível e mesmo tangível, como sucede no fenômeno das aparições;
-12. o Espírito não é, pois, um ser abstrato, indefinido, só possível de conceber-se pelo pensamento. É um ser real, circunscrito, que, em certos casos, se torna apreciável **pela vista**, **pelo ouvido** e **pelo tato**;
+11. o laço ou *perispírito*, que prende ao corpo o Espírito, é uma espécie de envoltório semimaterial. A morte é a destruição do invólucro mais grosseiro. O Espírito conserva o segundo, que lhe constitui um corpo etéreo, invisível para nós no estado normal, porém, que pode tornar-se acidentalmente visível e mesmo tangível, como sucede no fenômeno das aparições;
+12. o Espírito não é, pois, um ser abstrato, indefinido, só possível de conceber-se pelo pensamento. É um ser real, circunscrito, que, em certos casos, se torna apreciável *pela vista*, *pelo ouvido* e *pelo tato*;
 13. os Espíritos pertencem a diferentes classes e não são iguais, nem em poder, nem em inteligência, nem em saber, nem em moralidade. Os da primeira ordem são os Espíritos superiores, que se distinguem dos outros pela sua perfeição, seus conhecimentos, sua proximidade de Deus, pela pureza de seus sentimentos e por seu amor do bem: são os anjos ou puros Espíritos. Os das outras classes se acham cada vez mais distanciados dessa perfeição, mostrando-se os das categorias inferiores, na sua maioria, eivados das nossas paixões: o ódio, a inveja, o ciúme, o orgulho etc. Comprazem-se no mal. Há também, entre os inferiores, os que não são nem muito bons nem muito maus, antes perturbadores e enredadores, do que perversos. A malícia e as inconsequências parecem ser o que neles predomina. São os Espíritos estúrdios ou levianos;
 14. os Espíritos não ocupam perpetuamente a mesma categoria. Todos se melhoram passando pelos diferentes graus da hierarquia espírita. Esta melhora se efetua por meio da encarnação, que é imposta a uns como expiação, a outros como missão. A vida material é uma prova que lhes cumpre sofrer repetidamente, até que hajam atingido a absoluta perfeição moral;
 15. deixando o corpo, a alma volve ao mundo dos Espíritos, donde saíra, para passar por nova existência material, após um lapso de tempo mais ou menos longo, durante o qual permanece em estado de Espírito errante; [^2]:
@@ -306,7 +465,7 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 30. os Espíritos são atraídos na razão da simpatia que lhes inspire a natureza moral do meio que os evoca. Os Espíritos superiores se comprazem nas reuniões sérias, onde predominam o amor do bem e o desejo sincero, por parte dos que as compõem, de se instruírem e melhorarem. A presença deles afasta os Espíritos inferiores que, inversamente, encontram livre acesso e podem obrar com toda a liberdade entre pessoas frívolas ou impelidas unicamente pela curiosidade e onde quer que existam maus instintos. Longe de se obterem bons conselhos, ou informações úteis, deles só se devem esperar futilidades, mentiras, gracejos de mau gosto, ou mistificações, pois que muitas vezes tomam nomes venerados, a fim de melhor induzirem ao erro;
 31. distinguir os bons dos maus Espíritos é extremamente fácil. Os Espíritos superiores usam constantemente de linguagem digna, nobre, repassada da mais alta moralidade, escoimada de qualquer paixão inferior; a mais pura sabedoria lhes transparece dos conselhos, que objetivam sempre o nosso melhoramento e o bem da Humanidade. A dos Espíritos inferiores, ao contrário, é inconsequente, amiúde trivial e até grosseira. Se, por vezes, dizem alguma coisa boa e verdadeira, muito mais vezes dizem falsidades e absurdos, por malícia ou ignorância. Zombam da credulidade dos homens e se divertem à custa dos que os interrogam, lisonjeando-lhes a vaidade, alimentando-lhes os desejos com falazes esperanças. Em resumo, as comunicações sérias, na mais ampla acepção do termo, só são dadas nos centros sérios, onde reine íntima comunhão de pensamentos, tendo em vista o bem;
 32. a moral dos Espíritos superiores se resume, como a do Cristo, nesta máxima evangélica: Fazer aos outros o que quereríamos que os outros nos fizessem, isto é, fazer o bem e não o mal. Neste princípio encontra o homem uma regra universal de proceder, mesmo para as suas menores ações;
-33. ensinam-nos que o egoísmo, o orgulho, a sensualidade são paixões que nos aproximam da natureza animal, prendendo-nos à matéria; que o homem que, já neste mundo, se desliga da matéria, desprezando as futilidades mundanas e amando o próximo, se avizinha da natureza espiritual; que cada um deve tornar-se útil, de acordo com as faculdades e os meios que Deus lhe pôs nas mãos para experimentá-lo; que o **forte** e o **poderoso** devem amparo e proteção ao **fraco**, porquanto transgride a Lei de Deus aquele que abusa da força e do poder para oprimir o seu semelhante. Ensinam, finalmente, que, no mundo dos Espíritos, nada podendo estar oculto, o hipócrita será desmascarado e patenteadas todas as suas torpezas; que a presença inevitável, e de todos os instantes, daqueles para com quem houvermos procedido mal constitui um dos castigos que nos estão reservados; que ao estado de inferioridade e superioridade dos Espíritos correspondem penas e gozos desconhecidos na Terra;
+33. ensinam-nos que o egoísmo, o orgulho, a sensualidade são paixões que nos aproximam da natureza animal, prendendo-nos à matéria; que o homem que, já neste mundo, se desliga da matéria, desprezando as futilidades mundanas e amando o próximo, se avizinha da natureza espiritual; que cada um deve tornar-se útil, de acordo com as faculdades e os meios que Deus lhe pôs nas mãos para experimentá-lo; que o *forte* e o *poderoso* devem amparo e proteção ao *fraco*, porquanto transgride a Lei de Deus aquele que abusa da força e do poder para oprimir o seu semelhante. Ensinam, finalmente, que, no mundo dos Espíritos, nada podendo estar oculto, o hipócrita será desmascarado e patenteadas todas as suas torpezas; que a presença inevitável, e de todos os instantes, daqueles para com quem houvermos procedido mal constitui um dos castigos que nos estão reservados; que ao estado de inferioridade e superioridade dos Espíritos correspondem penas e gozos desconhecidos na Terra;
 34. mas ensinam também não haver faltas irremissíveis que a expiação não possa apagar. Meio de consegui-lo encontra o homem nas diferentes existências que lhe permitem avançar, conforme os seus desejos e esforços, na senda do progresso, para a perfeição, que é o seu destino final.
 
 Este o resumo da Doutrina Espírita , como resulta dos ensinamentos dados pelos Espíritos superiores. Vejamos agora as objeções que se lhe contrapõem.
@@ -318,6 +477,8 @@ Este o resumo da Doutrina Espírita , como resulta dos ensinamentos dados pelos 
 🏷️ [Plano físico](#plano-fisico)
 🏷️ [Princípios básicos](#principios-basicos)
 :::
+
+⚓
 
 ---
 
@@ -357,9 +518,9 @@ O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles
 
 #### 0.03.08 📄 Intro 08 {#lde-0-03-08}
 
-Acrescentemos que o estudo de uma doutrina, qual a Doutrina Espírita , que nos lança de súbito numa ordem de coisas tão nova quão grande, só pode ser feito com utilidade por homens sérios, perseverantes, livres de prevenções e animados de firme e sincera vontade de chegar a um resultado. Não sabemos como dar esses qualificativos aos que julgam a priori, levianamente, sem tudo ter visto; que não imprimem a seus estudos a continuidade, a regularidade e o recolhimento indispensáveis. Ainda menos saberíamos dá-los a alguns que, para não decaírem da reputação de homens de espírito, se afadigam por achar um lado burlesco nas coisas mais verdadeiras, ou tidas como tais por pessoas cujo saber, caráter e convicções lhes dão direito à consideração de quem quer que se preze de bem-educado. Abstenham-se, portanto, os que entendem não serem dignos de sua atenção os fatos. Ninguém pensa em lhes violentar a crença; concordem, pois, em respeitar a dos outros.
+Acrescentemos que o estudo de uma doutrina, qual a Doutrina Espírita , que nos lança de súbito numa ordem de coisas tão nova quão grande, só pode ser feito com utilidade por homens sérios, perseverantes, livres de prevenções e animados de firme e sincera vontade de chegar a um resultado. Não sabemos como dar esses qualificativos aos que julgam *a priori*, levianamente, sem tudo ter visto; que não imprimem a seus estudos a continuidade, a regularidade e o recolhimento indispensáveis. Ainda menos saberíamos dá-los a alguns que, para não decaírem da reputação de homens de espírito, se afadigam por achar um lado burlesco nas coisas mais verdadeiras, ou tidas como tais por pessoas cujo saber, caráter e convicções lhes dão direito à consideração de quem quer que se preze de bem-educado. Abstenham-se, portanto, os que entendem não serem dignos de sua atenção os fatos. Ninguém pensa em lhes violentar a crença; concordem, pois, em respeitar a dos outros.
 
-O que caracteriza um estudo sério é a continuidade que se lhe dá. Será de admirar que muitas vezes não se obtenha nenhuma resposta sensata a questões de si mesmas graves, quando propostas ao acaso e à queima-roupa, em meio de uma aluvião de outras extravagantes? Demais, sucede frequentemente que, por complexa, uma questão, para ser elucidada, exige a solução de outras preliminares) ou complementares. Quem deseje tornar-se versado numa ciência tem que a estudar metodicamente, começando pelo princípio e acompanhando o encadeamento e o desenvolvimento das ideias. Que adiantará àquele que, ao acaso, dirigir a um sábio perguntas acerca de uma ciência cujas primeiras palavras ignore? Poderá o próprio sábio, por maior que seja a sua boa vontade, dar-lhe resposta satisfatória? A resposta isolada, que der, será forçosamente incompleta e quase sempre, por isso mesmo, ininteligível, ou parecerá absurda e contraditória. O mesmo ocorre em nossas relações com os Espíritos. Quem quiser com eles instruir-se tem que com eles fazer um curso; mas, exatamente como se procede entre nós, deverá escolher seus professores e trabalhar com assiduidade.
+O que caracteriza um estudo sério é a continuidade que se lhe dá. Será de admirar que muitas vezes não se obtenha nenhuma resposta sensata a questões de si mesmas graves, quando propostas ao acaso e à queima-roupa, em meio de uma aluvião de outras extravagantes? Demais, sucede frequentemente que, por complexa, uma questão, para ser elucidada, exige a solução de outras preliminares ou complementares. Quem deseje tornar-se versado numa ciência tem que a estudar metodicamente, começando pelo princípio e acompanhando o encadeamento e o desenvolvimento das ideias. Que adiantará àquele que, ao acaso, dirigir a um sábio perguntas acerca de uma ciência cujas primeiras palavras ignore? Poderá o próprio sábio, por maior que seja a sua boa vontade, dar-lhe resposta satisfatória? A resposta isolada, que der, será forçosamente incompleta e quase sempre, por isso mesmo, ininteligível, ou parecerá absurda e contraditória. O mesmo ocorre em nossas relações com os Espíritos. Quem quiser com eles instruir-se tem que com eles fazer um curso; mas, exatamente como se procede entre nós, deverá escolher seus professores e trabalhar com assiduidade.
 
 Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobretudo às em que reina perfeita comunhão de pensamentos e de sentimentos para o bem. A leviandade e as questões ociosas os afastam, como, entre os homens, afastam as pessoas criteriosas; o campo fica, então, livre à turba dos Espíritos mentirosos e frívolos, sempre à espreita de ocasiões propícias para zombarem de nós e se divertirem à nossa custa. Que é o que se dará com uma questão grave em reuniões de tal ordem? Será respondida; mas, por quem? Acontece como se a um bando de doidivanas, que estejam a divertir-se, propusésseis estas questões: Que é a alma? Que é a morte? e outras tão recreativas quanto essas. Se quereis respostas sisudas, haveis de comportar-vos com toda a sisudez, na mais ampla acepção do termo, e de preencher todas as condições reclamadas. Só assim obtereis grandes coisas. Sede, além do mais, laboriosos e perseverantes nos vossos estudos, sem o que os Espíritos superiores vos abandonarão, como faz um professor com os discípulos negligentes.
 
@@ -376,7 +537,7 @@ Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobr
 
 O movimento dos objetos é um fato incontestável. A questão está em saber se, nesse movimento, há ou não uma manifestação inteligente e, em caso de afirmativa, qual a origem dessa manifestação.
 
-Não falamos do movimento inteligente de certos objetos, nem das comunicações verbais, nem das que o médium escreve diretamente. Este gênero de manifestações, evidente para os que viram e aprofundaram o assunto, não se mostra, à primeira vista, bastante independente da vontade, para firmar a convicção de um observador novato. Não trataremos, portanto, senão da escrita obtida com o auxílio de um objeto qualquer munido de um lápis, como cesta, prancheta) etc. A maneira pela qual os dedos do médium repousam sobre os objetos desafia, como atrás dissemos, a mais consumada destreza de sua parte no intervir, de qualquer modo, no traçar das letras. Mas admitamos que a alguém, dotado de maravilhosa habilidade, seja isso possível e que esse alguém consiga iludir o olhar do observador; como explicar a natureza das respostas, quando se apresentam fora do quadro das ideias e conhecimentos do médium? E note-se que não se trata de respostas monossilábicas, porém, muitas vezes, de numerosas páginas escritas com admirável rapidez, quer espontaneamente, quer sobre determinado assunto. De sob os dedos do médium menos versado em literatura, surgem de quando em quando poesias de impecáveis sublimidade e pureza, que os melhores poetas humanos não se dedignariam de subscrever. O que ainda torna mais estranhos esses fatos é que ocorrem por toda parte e que os médiuns se multiplicam ao infinito. São eles reais ou não? Para esta pergunta só temos uma resposta: vede e observai; não vos faltarão ocasiões de fazê-lo; mas, sobretudo, observai repetidamente, por longo tempo e de acordo com as condições exigidas.
+Não falamos do movimento inteligente de certos objetos, nem das comunicações verbais, nem das que o médium escreve diretamente. Este gênero de manifestações, evidente para os que viram e aprofundaram o assunto, não se mostra, à primeira vista, bastante independente da vontade, para firmar a convicção de um observador novato. Não trataremos, portanto, senão da escrita obtida com o auxílio de um objeto qualquer munido de um lápis, como cesta, prancheta etc. A maneira pela qual os dedos do médium repousam sobre os objetos desafia, como atrás dissemos, a mais consumada destreza de sua parte no intervir, de qualquer modo, no traçar das letras. Mas admitamos que a alguém, dotado de maravilhosa habilidade, seja isso possível e que esse alguém consiga iludir o olhar do observador; como explicar a natureza das respostas, quando se apresentam fora do quadro das ideias e conhecimentos do médium? E note-se que não se trata de respostas monossilábicas, porém, muitas vezes, de numerosas páginas escritas com admirável rapidez, quer espontaneamente, quer sobre determinado assunto. De sob os dedos do médium menos versado em literatura, surgem de quando em quando poesias de impecáveis sublimidade e pureza, que os melhores poetas humanos não se dedignariam de subscrever. O que ainda torna mais estranhos esses fatos é que ocorrem por toda parte e que os médiuns se multiplicam ao infinito. São eles reais ou não? Para esta pergunta só temos uma resposta: vede e observai; não vos faltarão ocasiões de fazê-lo; mas, sobretudo, observai repetidamente, por longo tempo e de acordo com as condições exigidas.
 
 Que respondem a essa evidência os antagonistas? — Sois vítimas do charlatanismo ou joguete de uma ilusão. Diremos, primeiramente, que a palavra **charlatanismo** não cabe onde não há proveito. Os charlatães não fazem grátis o seu ofício. Seria, quando muito, uma mistificação. Mas por que singular coincidência esses mistificadores se achariam acordes, de um extremo a outro do mundo, para proceder do mesmo modo, produzir os mesmos efeitos e dar, sobre os mesmos assuntos e em línguas diversas, respostas idênticas, senão quanto à forma, pelo menos quanto ao sentido? Como compreender-se que pessoas austeras honradas, instruídas se prestassem a tais manejos? E com que fim? Como achar em crianças a paciência e a habilidade necessárias a tais resultados? Porque, se os médiuns não são instrumentos passivos, indispensáveis se lhes fazem habilidade e conhecimentos incompatíveis com a idade infantil e com certas posições sociais.
 
@@ -452,13 +613,13 @@ Quando se manifesta o Espírito de alguém que conhecemos pessoalmente, de um pa
 
 Outra circunstância muito característica acode em apoio da identidade. Dissemos que a caligrafia do médium muda, em geral, quando outro passa a ser o Espírito evocado e que a caligrafia é sempre a mesma quando o mesmo Espírito se apresenta. Tem-se verificado inúmeras vezes, sobretudo se se trata de pessoas mortas recentemente, que a escrita denota flagrante semelhança com a dessa pessoa em vida. Assinaturas se hão obtido de exatidão perfeita. Longe estamos, todavia, de querer apontar esse fato como regra e menos ainda como regra constante. Mencionamo-lo apenas como digno de nota.
 
-Só os Espíritos que atingiram certo grau de purificação se acham libertos de toda influência corporal. Quando ainda não estão completamente desmaterializados (é a expressão de que usam) conservam a maior parte das ideias, dos pendores e até das **manias** que tinham na Terra, o que também constitui um meio de reconhecimento, ao qual igualmente se chega por uma imensidade de fatos minuciosos, que só uma observação acurada e detida pode revelar. Veem-se escritores a discutir suas próprias obras ou doutrinas, a aprovar ou condenar certas partes delas; outros a lembrar circunstâncias ignoradas, ou quase desconhecidas, de suas vidas ou de suas mortes, toda sorte de particularidades, enfim, que são, quando nada, provas morais de identidade, únicas invocáveis, tratando-se de coisas abstratas.
+Só os Espíritos que atingiram certo grau de purificação se acham libertos de toda influência corporal. Quando ainda não estão completamente desmaterializados (é a expressão de que usam) conservam a maior parte das ideias, dos pendores e até das *manias* que tinham na Terra, o que também constitui um meio de reconhecimento, ao qual igualmente se chega por uma imensidade de fatos minuciosos, que só uma observação acurada e detida pode revelar. Veem-se escritores a discutir suas próprias obras ou doutrinas, a aprovar ou condenar certas partes delas; outros a lembrar circunstâncias ignoradas, ou quase desconhecidas, de suas vidas ou de suas mortes, toda sorte de particularidades, enfim, que são, quando nada, provas morais de identidade, únicas invocáveis, tratando-se de coisas abstratas.
 
 Ora, se a identidade de um Espírito evocado pode, até certo ponto, ser estabelecida em alguns casos, razão não há para que não o seja em outros; e se, com relação a pessoas, cuja morte data de muito tempo, não se têm os mesmos meios de verificação, resta sempre o da linguagem e do caráter, porquanto, inquestionavelmente, o Espírito de um homem de bem não falará como o de um perverso ou de um devasso. Quanto aos Espíritos que se apropriam de nomes respeitáveis, esses se traem logo pela linguagem que empregam e pelas máximas que formulam. Um que se dissesse Fénelon, por exemplo, e que, ainda quando apenas acidentalmente ofendesse o bom senso e a moral, mostraria, por esse simples fato, o embuste. Se, ao contrário, forem sempre puros os pensamentos que exprima, sem contradições e constantemente à altura do caráter de Fénelon, não há motivo para que se duvide da sua identidade. De outra forma, havíamos de supor que um Espírito que só prega o bem é capaz de mentir conscientemente e, ainda mais, sem utilidade alguma.
 
 A experiência nos ensina que os Espíritos da mesma categoria, do mesmo caráter e possuídos dos mesmos sentimentos formam grupos e famílias. Ora, incalculável é o número dos Espíritos e longe estamos de conhecê-los a todos; a maior parte deles não têm mesmo nomes para nós. Nada, pois, impede que um Espírito da categoria de Fénelon venha em seu lugar, muitas vezes até como seu mandatário. Apresenta-se então com o seu nome, porque lhe é idêntico e pode substituí-lo, e ainda porque precisamos de um nome para fixar as nossas ideias. Mas, que importa, afinal, seja um Espírito, realmente ou não, o de Fénelon? Desde que tudo o que ele diz é bom e que fala como o teria feito o próprio Fénelon, é um bom Espírito. Indiferente é o nome pelo qual se dá a conhecer, não passando muitas vezes de um meio de que lança mão para nos fixar as ideias. O mesmo, entretanto, não é admissível nas evocações íntimas; mas, aí, como dissemos há pouco, se consegue estabelecer a identidade por provas de certo modo patentes.
 
-Inegavelmente a substituição dos Espíritos pode dar lugar a uma porção de equívocos, ocasionar erros e, amiúde, mistificações. Essa é uma das dificuldades do **Espiritismo prático**. Nunca, porém, dissemos que esta ciência fosse fácil, nem que se pudesse aprendê-la brincando, o que, aliás, não é possível, qualquer que seja a ciência. Jamais teremos repetido bastante que ela demanda estudo assíduo e por vezes muito prolongado.
+Inegavelmente a substituição dos Espíritos pode dar lugar a uma porção de equívocos, ocasionar erros e, amiúde, mistificações. Essa é uma das dificuldades do *Espiritismo prático*. Nunca, porém, dissemos que esta ciência fosse fácil, nem que se pudesse aprendê-la brincando, o que, aliás, não é possível, qualquer que seja a ciência. Jamais teremos repetido bastante que ela demanda estudo assíduo e por vezes muito prolongado.
 
 Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se apresentem por si mesmos. Frequentemente ocorrem por efeito de circunstâncias em que se não pensa. Para o observador atento e paciente os fatos abundam, por isso que ele descobre milhares de matizes característicos, que são verdadeiros raios de luz. O mesmo se dá com as ciências comuns. Ao passo que o homem superficial não vê numa flor mais do que uma forma elegante, o sábio descobre nela tesouros para o pensamento.
 
@@ -498,7 +659,7 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 
 #### 0.03.14 📄 Intro 14 {#lde-0-03-14}
 
-Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, **a despeito da ignorância do médium**.
+Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, *a despeito da ignorância do médium*.
 
 ::: expand 🔗
 🏷️ [Ideia](#ideia)
@@ -548,7 +709,7 @@ Há ainda outra circunstância em que não se tem atentado muito. As primeiras m
 
 Poderíamos citar inúmeros fatos que demonstram, na inteligência que se manifesta, uma individualidade evidente e uma absoluta independência de vontade. Recomendamos, portanto, aos dissidentes, observação mais cuidadosa e, se quiserem estudar bem, sem prevenções, e não formular conclusões antes de terem visto tudo, reconhecerão a impotência de sua teoria para tudo explicar. Limitar-nos-emos a propor as questões seguintes: Por que a inteligência que se manifesta, qualquer que ela seja, recusa responder a certas perguntas sobre assuntos perfeitamente conhecidos, como, por exemplo, sobre o nome ou a idade do interlocutor, sobre o que ele tem na mão, o que fez na véspera, o que pensa fazer no dia seguinte etc.? Se o médium fosse o espelho do pensamento dos assistentes, nada lhe seria mais fácil do que responder.
 
-A esse argumento retrucam os adversários, perguntando, a seu turno, por que os Espíritos, que devem saber tudo, não podem dizer coisa tão simples, de acordo com o axioma: **Quem pode o mais pode o menos**, e daí concluem que não são os Espíritos os que respondem. Se um ignorante ou um zombador, apresentando-se a uma douta assembleia, perguntasse, por exemplo, por que é dia às doze horas, acreditará alguém que ela se daria o incômodo de responder seriamente e fora lógico que, do seu silêncio ou das zombarias com que pagasse ao interrogante, se concluísse serem tolos os seus membros? Ora, exatamente porque os Espíritos são superiores, é que não respondem a questões ociosas ou ridículas e não consentem em ir para a berlinda; é por isso que se calam ou declaram que só se ocupam com coisas sérias.
+A esse argumento retrucam os adversários, perguntando, a seu turno, por que os Espíritos, que devem saber tudo, não podem dizer coisa tão simples, de acordo com o axioma: *Quem pode o mais pode o menos*, e daí concluem que não são os Espíritos os que respondem. Se um ignorante ou um zombador, apresentando-se a uma douta assembleia, perguntasse, por exemplo, por que é dia às doze horas, acreditará alguém que ela se daria o incômodo de responder seriamente e fora lógico que, do seu silêncio ou das zombarias com que pagasse ao interrogante, se concluísse serem tolos os seus membros? Ora, exatamente porque os Espíritos são superiores, é que não respondem a questões ociosas ou ridículas e não consentem em ir para a berlinda; é por isso que se calam ou declaram que só se ocupam com coisas sérias.
 
 Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, em dado momento e, passado este, não há pedidos, nem súplicas que os façam voltar? Se o médium obrasse unicamente por impulsão mental dos assistentes, é claro que, em tal circunstância, o concurso de todas as vontades reunidas haveria de estimular-lhe a clarividência. Desde, portanto, que não cede ao desejo da assembleia, corroborado pela própria vontade dele, é que o médium obedece a uma influência que lhe é estranha e aos que o cercam, influência que, por esse simples fato, testifica da sua independência e da sua individualidade.
 
@@ -579,5 +740,4 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 :::
 
 ---
-
 

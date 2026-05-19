@@ -2,17 +2,17 @@
 
 ### 6.01 📄 Nota explicativa {#lde-6-01}
 
+::: kardec
 👴🏻 ▸ Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
 
-**Allan Kardec**
-Revista Espírita
-Janeiro, 1868
+📓 Revista Espírita, Janeiro, 1868
+:::
 
 A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
 
 A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
 
-1. ✨ *O Livro dos Espíritos* (1857),
+1. 👻 *O Livro dos Espíritos* (1857),
 2. ✒️ *O Livro dos Médiuns* (1861),
 3. 🕊️ *O Evangelho segundo o Espiritismo* (1864),
 4. 🔥 *O Céu e o Inferno* (1865),
@@ -29,78 +29,90 @@ O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básic
 
 Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
 
-Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de ✨ *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻 *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
 
 O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
 
 Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite
 
+::: kardec
 👴🏻 ▸ … resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc.
 
-📓 Revista Espírita
-Outubro, 1862
+📓 Revista Espírita, Outubro, 1862
+:::
 
 De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
 
 Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
+::: spirit
 ✨ ▸ O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
 
-LDE, [Q.207](#q207)
+👻 O Livro dos Espíritos, [Q.207](#q207)
+:::
 
+::: kardec
 👴🏻 ▸ … o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor.
 
-📓 Revista Espírita
-Outubro, 1861
+📓 Revista Espírita, Outubro, 1861
+:::
 
+:::
 👴🏻 ▸ Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes.
 
 Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo.
 
 Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes.
 
-📓 Revista Espírita
-Junho, 1867
+📓 Revista Espírita, Junho, 1867
+:::
 
+::: kardec
 👴🏻 ▸ Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade.
 
-🌱 A Gênese
-cap. 1, item 36
-📓 Revista Espírita
-Setembro, 1867
+🌱 A Gênese, cap. 1, item 36
+📓 Revista Espírita, Setembro, 1867
+:::
 
 Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
 
 É baseado nesses informes "_científicos_ " da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
 
+::: kardec
 👴🏻 ▸ Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais.
 
-**Allan Kardec**
-📓 Revista Espírita
-Janeiro, 1863
+📓 Revista Espírita, Janeiro, 1863
+:::
 
+:::
 👴🏻 ▸ O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus.
 
-🕊️ O Evangelho segundo o Espiritismo
-cap. 17, item 3
+🕊️ O Evangelho segundo o Espiritismo, cap. 17, item 3
+:::
 
 É importante compreender, também, que os textos publicados por Allan Kardec na 📓 Revista Espírita tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱*A Gênese*, o Codificador explica essa metodologia:
 
+::: kardec
 👴🏻 ▸ Quando, na 📓 Revista Espírita de janeiro de 1862, publicamos um artigo sobre a "interpretação da doutrina dos anjos decaídos", apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
  
-🌱 A Gênese
-cap. 11, item 43, Nota
+🌱 A Gênese, cap. 11, item 43, Nota
+:::
 
 Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
 
+::: kardec
 👴🏻 ▸ É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações.
  
-📓 Revista Espírita
-Janeiro, 1862
+📓 Revista Espírita, Janeiro, 1862
+:::
 
 Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (*benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas*), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.
 
 A Editora (FEB)
+
+[^27]
+
+⚓
 
 ---
 
@@ -564,8 +576,8 @@ desprendimento e – [Q.433](#q433)
 espíritos imperfeitos e – [Q.430](#q430)
 
 ###### 🏷️ Classificação {#classificacao}
-espíritos e – [Q.97](#q97), [Q.100](#q100), [Q.124](#q124)
-mundo espiritual e – [Q.100](#q100)
+espíritos e – [Q.97](#q97), [100](#100), [Q.124](#q124)
+mundo espiritual e – [100](#100)
 
 ###### 🏷️ Clausura {#clausura}
 vida em – [Q.770](#q770)
@@ -949,7 +961,7 @@ defesa da mulher como – [Q.820](#q820)
 missão e – [Q.575](#q575)
 
 ###### 🏷️ Diabrete {#diabrete}
-– [Q.103](#q103)
+– [103](#103)
 
 ###### 🏷️ Dificuldade {#dificuldade}
 passagem pela prova da riqueza com – [Q.816](#q816)
@@ -1021,7 +1033,7 @@ conceito de – [Q.757](#q757)
 suicídio e – [Q.758](#q758)
 
 ###### 🏷️ Duende {#duende}
-– [Q.103](#q103)
+– [103](#103)
 
 ###### 🏷️ Dupla vista {#dupla-vista}
 aparente hereditariedade na – [Q.451](#q451)
@@ -1186,8 +1198,8 @@ suicídio pelo – [Q.948](#q948)
 
 ###### 🏷️ Escala {#escala}
 ascensão nos graus da – [Q.561](#q561)
-elevação na – [Q.100](#q100)
-espírita – [Q.96](#q96), [Q.100](#q100), [Q.538a](#q538a)
+elevação na – [100](#100)
+espírita – [Q.96](#q96), [100](#100), [Q.538a](#q538a)
 espírita e idade do corpo físico – [Q.198](#q198)
 grau de conhecimento dos espíritos e – [Q.143](#q143)
 
@@ -1286,7 +1298,7 @@ universalidade do – [Conclusão 06](#lde-5-06)
 ponto de partida do – [Q.613](#q613)
 
 ###### 🏷️ Espírito bom {#espirito-bom}
-características do – [Q.107](#q107) a [Q.111](#q111)
+características do – [107](#107) a [111](#111)
 conselhos de – [Conclusão 09](#lde-5-09)
 encarnação de – [Q.361a](#q361a)
 homens de bem e – [Q.484](#q484)
@@ -1397,7 +1409,7 @@ ação nos fenômenos da natureza e os – [Q.540](#q540)
 amor dos * a certas pessoas – [Q.485](#q485)
 aptidões do – [Q.370](#q370)
 calamidades e – [Q.738a](#q738a)
-classificação dos – [Q.97](#q97), [Q.100](#q100)
+classificação dos – [Q.97](#q97), [100](#100)
 comunicação com os – [Q.935](#q935)
 conceitos de pátria e Universo para os – [Q.317](#q317)
 corpo físico e – [Q.196a](#q196a), [Q.309](#q309)
@@ -1482,53 +1494,53 @@ visão do – [Q.245](#q245), [Q.248](#q248), [Q.429](#q429)
 vontade do – [Q.345](#q345)
 
 ###### 🏷️ Espíritos batedores e perturbadores {#espiritos-batedores-e-perturbadores}
-características dos – [Q.106](#q106)
+características dos – [106](#106)
 
 ###### 🏷️ Espíritos benévolos {#espiritos-benevolos}
-caraterísticas dos – [Q.108](#q108)
+caraterísticas dos – [108](#108)
 
 ###### 🏷️ Espíritos sábios {#espiritos-sabios}
-características dos – [Q.110](#q110)
+características dos – [110](#110)
 
 ###### 🏷️ Espíritos encarnados {#espiritos-encarnados}
 assembleias de – [Q.417](#q417)
 
 ###### 🏷️ Espíritos imperfeitos {#espiritos-imperfeitos}
-características dos – [Q.101](#q101)
+características dos – [101](#101)
 exaltação do fanatismo e – [Q.481a](#q481a)
 influência de – [Q.122a](#q122a)
 
 ###### 🏷️ Espíritos impuros {#espiritos-impuros}
-características dos – [Q.102](#q102)
+características dos – [102](#102)
 
 ###### 🏷️ Espíritos inferiores {#espiritos-inferiores}
 rejeição à influência de – [Q.469](#q469)
 
 ###### 🏷️ Espíritos levianos {#espiritos-levianos}
-características dos – [Q.103](#q103)
+características dos – [103](#103)
 
 ###### 🏷️ Espíritos neutros {#espiritos-neutros}
-características dos – [Q.105](#q105)
+características dos – [105](#105)
 
 ###### 🏷️ Espíritos protetores {#espiritos-protetores}
 coletividades e grau de adiantamento de – [Q.520](#q520)
 personificação alegórica de – [Q.521](#q521)
 
 ###### 🏷️ Espíritos pseudossábios {#espiritos-pseudossabios}
-características dos – [Q.104](#q104)
+características dos – [104](#104)
 
 ###### 🏷️ Espíritos puros {#espiritos-puros}
-características dos – [Q.112](#q112), [Q.113](#q113)
+características dos – [112](#112), [113](#113)
 união de – [Q.300](#q300)
 
 ###### 🏷️ Espíritos sábios {#espiritos-sabios}
-características dos – [Q.109](#q109)
+características dos – [109](#109)
 
 ###### 🏷️ Espíritos simpáticos {#espiritos-simpaticos}
 atração ou repulsão de – [Q.518](#q518)
 
 ###### 🏷️ Espíritos superiores {#espiritos-superiores}
-características dos – [Q.111](#q111)
+características dos – [111](#111)
 encarnação de – [Q.402](#q402)
 local de reunião dos – [Q.188](#q188)
 
@@ -1585,7 +1597,7 @@ conceito de tempo e fases da – [Q.560](#q560)
 duração das penas e – [Q.1006](#q1006)
 encarnação em mundos superiores e – [Q.173](#q173)
 erraticidade e – [Q.230](#q230)
-escala e gradação na – [Q.100](#q100)
+escala e gradação na – [100](#100)
 Espírito e – [Q.114](#q114)
 espíritos vulgares e – [Q.566a](#q566a)
 estacionada – [Q.987](#q987)
@@ -1598,7 +1610,7 @@ moradia do Espírito e grau de – [Q.188](#q188)
 moral e da inteligência – [Q.791](#q791)
 paixão e – [Q.191a](#q191a)
 planetas distantes do Sol e grau de – [Q.188](#q188)
-progressão do Espírito e – [Q.100](#q100), [Q.114](#q114)
+progressão do Espírito e – [100](#100), [Q.114](#q114)
 reencarnação e – [Q.612](#q612)
 vidas sucessivas e – [Q.787b](#q787b)
 
@@ -1870,7 +1882,7 @@ aborto e – [Q.358](#q358)
 reencarnação e – [Q.214](#q214)
 
 ###### 🏷️ Gnomo {#gnomo}
-– [Q.103](#q103)
+– [103](#103)
 
 ###### 🏷️ Gozo {#gozo}
 excessos de todo gênero e – [Q.714](#q714)
@@ -2977,7 +2989,7 @@ atração pelo – [Q.467](#q467)
 conhecimento pelos espíritos de nosso – [Q.457](#q457)
 culpa e – [Q.977](#q977)
 encobrimento da individualidade e do – [Q.283](#q283)
-espíritos e – [Q.100](#q100)
+espíritos e – [100](#100)
 fase da infância e – [Q.380](#q380)
 identidade de – [Q.513](#q513)
 influenciação e – [Q.525a](#q525a)
@@ -3992,13 +4004,13 @@ progressiva – [Q.997](#q997)
 colônia de – [Q.234](#q234)
 espíritos errantes e – [Q.234](#q234)
 instinto em fase de – [Q.589](#q589)
-ordem espiritual e – [Q.100](#q100)
+ordem espiritual e – [100](#100)
 
 ###### 🏷️ Transmigração {#transmigracao}
 progressiva – [Q.189](#q189) a [Q.196](#q196)
 
 ###### 🏷️ Trasgo {#trasgo}
-– [Q.103](#q103)
+– [103](#103)
 
 ###### 🏷️ Túmulo {#tumulo}
 igualdade e – [Q.823](#q823)
@@ -4188,58 +4200,60 @@ excesso de – [Q.736](#q736)
 
 ### 6.03 📃 Notas de rodapé {#lde-6-03}
 
-[^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
+[^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião. 🔤
   
-[^2]: Nota de Allan Kardec (A.K.): Há entre esta doutrina da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada no curso da presente obra.
+[^2]: Nota de Allan Kardec (A.K.): Há entre esta doutrina da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada no curso da presente obra. 🔤
   
-[^3]: A.K.: A cepa que se vê nesta página é uma representação artística da que os Espíritos desenharam.
+[^3]: Nota do *Re-editor* (N.R.): A cepa que se vê, é uma *representação artística* da que os Espíritos desenharam.
   
-[^4]: A.K.: O texto colocado entre aspas, em seguida às perguntas, é a resposta que os Espíritos deram. Para destacar as notas e explicações aditadas pelo autor, quando haja possibilidade de serem confundidas com o texto da resposta, empregou-se um outro tipo menor. Quando formam capítulos inteiros, sem ser possível a confusão, o mesmo tipo usado para as perguntas e respostas foi o empregado.
+[^4]: Nota do *Re-editor* (N.R.): Ao invés da tipografia original, resolvemos usar o emoji ✨ (sparkles) para denotar a resposta que os Espíritos deram. Para destacar as notas e explicaçôes aditadas por Allan Kardec, usamos o emoji 👴🏻 (older_man).
   
-[^5]: N.E.: A definição dada na resposta à Q.1 — Cause Première — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como causa primária, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide Reformador de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do Grande dicionário francês-português, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: premier, ière … Fig. La cause première, a causa primária, Deus.
+[^5]: N.E.: A definição dada na resposta à [Q.1](#q.1) de o 👻 *Livro dos Espíritos* — *cause Première* — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como *causa primária*, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide *Reformador* de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do *Grande dicionário francês-português*, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: "premier, ière […] || Fig. *La cause première*, a causa primária, Deus. 🔤
   
-[^6]: A.K.: Este princípio explica o fenômeno conhecido de todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias. Desde que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade.
+[^6]: A.K.: Este princípio explica o fenômeno conhecido de todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias. Desde que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade. 🔤
   
-[^7]: N.E.: Ano do calendário judaico.
+[^7]: N.E.: Ano do calendário judaico. 🔤
   
-[^8]: A.K. Ver a explicação sobre o termo **alma** (👉LDE-0-02-02).
+[^8]: A.K. Ver, na [Introduçâo](#lde-0-03-02), a explicação sobre o termo *alma*, 2º paragráfo. 🔤
   
-[^9]: N.E.: Ver 👉Nota explicativa.
+[^9]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^10]: A.K.: Segundo os Espíritos, de todos os mundos que compõem o nosso sistema planetário, a Terra é dos que têm habitantes menos adiantados, física e moralmente. Marte lhe estaria ainda abaixo, sendo-lhe Júpiter superior de muito, a todos os respeitos. O Sol não seria mundo habitado por seres corpóreos, mas simplesmente um lugar de reunião dos Espíritos superiores, os quais de lá irradiam seus pensamentos para os outros mundos, que eles dirigem por intermédio de Espíritos menos elevados, transmitindo-os a estes por meio do fluido universal. Considerado do ponto de vista da sua constituição física, o Sol seria um foco de eletricidade. Todos os sóis como que estariam em situação análoga. O volume de cada um e a distância a que esteja do Sol nenhuma relação necessária guardam com o grau do seu adiantamento, pois que, do contrário, Vênus deveria ser tida por mais adiantada do que a Terra e Saturno menos do que Júpiter. Muitos Espíritos, que na Terra animaram personalidades conhecidas, disseram estar reencarnados em Júpiter, um dos mundos mais próximos da perfeição, e há causado espanto que, nesse globo tão adiantado, estivessem homens a quem a opinião geral aqui não atribuía tanta elevação. Nisso nada há de surpreendente, desde que se atenda a que, possivelmente, certos Espíritos, habitantes daquele planeta, foram mandados à Terra para desempenharem aí certa missão que, aos nossos olhos, os não colocava na primeira plana. Em segundo lugar, deve-se atender a que, entre a existência que tiveram na Terra e a que passaram a ter em Júpiter, podem eles ter tido outras intermédias, em que se melhoraram. Finalmente, cumpre se considere que, naquele mundo, como no nosso, múltiplos são os graus de desenvolvimento e que, entre esses graus, pode mediar lá a distância que vai, entre nós, do selvagem ao homem civilizado. Assim, do fato de um Espírito habitar Júpiter não se segue que esteja no nível dos seres mais adiantados, do mesmo modo que ninguém pode considerar-se na categoria de um sábio do Instituto, só porque resida em Paris. As condições de longevidade não são, tampouco, em qualquer parte, as mesmas que na Terra e as idades não se podem comparar. Evocado, um Espírito que desencarnara havia alguns anos, disse que, desde seis meses antes, estava encarnado em mundo cujo nome nos é desconhecido. Interrogado sobre a idade que tinha nesse mundo, disse: Não posso avaliá-lo, porque não contamos o tempo como contais. Depois, os modos de existência não são idênticos. Nós, lá, nos desenvolvemos muito mais rapidamente. Entretanto, se bem não haja mais de seis dos vossos meses que lá estou, posso dizer que, quanto à inteligência, tenho trinta anos da idade que tive na Terra. Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apresenta de inverossímil. Não vemos que, na Terra, uma imensidade de animais em poucos meses adquire o desenvolvimento normal? Por que não se poderia dar o mesmo com o homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na Terra aos trinta anos talvez não passe de uma espécie de infância, comparado com o que lhe cumpre atingir. Bem curto de vista se revela quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a Divindade o imaginar-se que, fora o homem, nada mais seja possível a Deus.
+[^10]: A.K.: Segundo os Espíritos, de todos os mundos que compõem o nosso sistema planetário, a *Terra* é dos que têm habitantes menos adiantados, física e moralmente. *Marte* lhe estaria ainda abaixo, sendo-lhe *Júpiter* superior de muito, a todos os respeitos. O *Sol* não seria mundo habitado por seres corpóreos, mas simplesmente um lugar de reunião dos Espíritos superiores, os quais de lá irradiam seus pensamentos para os outros mundos, que eles dirigem por intermédio de Espíritos menos elevados, transmitindo-os a estes por meio do fluido universal. Considerado do ponto de vista da sua constituição física, o Sol seria um foco de eletricidade. Todos os sóis como que estariam em situação análoga.
+O volume de cada um e a distância a que esteja do Sol nenhuma relação necessária guardam com o grau do seu adiantamento, pois que, do contrário, Vênus deveria ser tida por mais adiantada do que a Terra e Saturno menos do que Júpiter. 
+Muitos Espíritos, que na Terra animaram personalidades conhecidas, disseram estar reencarnados em Júpiter, um dos mundos mais próximos da perfeição, e há causado espanto que, nesse globo tão adiantado, estivessem homens a quem a opinião geral aqui não atribuía tanta elevação. Nisso nada há de surpreendente, desde que se atenda a que, possivelmente, certos Espíritos, habitantes daquele planeta, foram mandados à Terra para desempenharem aí certa missão que, aos nossos olhos, os não colocava na primeira plana. Em segundo lugar, deve-se atender a que, entre a existência que tiveram na Terra e a que passaram a ter em Júpiter, podem eles ter tido outras intermédias, em que se melhoraram. Finalmente, cumpre se considere que, naquele mundo, como no nosso, múltiplos são os graus de desenvolvimento e que, entre esses graus, pode mediar lá a distância que vai, entre nós, do selvagem ao homem civilizado. Assim, do fato de um Espírito habitar Júpiter não se segue que esteja no nível dos seres mais adiantados, do mesmo modo que ninguém pode considerar-se na categoria de um sábio do Instituto, só porque resida em Paris.
+As condições de longevidade não são, tampouco, em qualquer parte, as mesmas que na Terra e as idades não se podem comparar. Evocado, um Espírito que desencarnara havia alguns anos, disse que, desde seis meses antes, estava encarnado em mundo cujo nome nos é desconhecido. Interrogado sobre a idade que tinha nesse mundo, disse: *"Não posso avaliá-lo, porque não contamos o tempo como contais. Depois, os modos de existência não são idênticos. Nós, lá, nos desenvolvemos muito mais rapidamente. Entretanto, se bem não haja mais de seis dos vossos meses que lá estou, posso dizer que, quanto à inteligência, tenho trinta anos da idade que tive na Terra."*
+Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apresenta de inverossímil. Não vemos que, na Terra, uma imensidade de animais em poucos meses adquire o desenvolvimento normal? Por que não se poderia dar o mesmo com o homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na Terra aos trinta anos talvez não passe de uma espécie de infância, comparado com o que lhe cumpre atingir. Bem curto de vista se revela quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a Divindade o imaginar-se que, fora o homem, nada mais seja possível a Deus. 🔤
   
-[^11]: N.E.: Ver 👉Nota explicativa.
+[^11]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^12]: N.E.: Ver 👉Nota explicativa.
+[^12]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^13]: N.E.: Ver 👉Nota explicativa.
+[^13]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^14]: N.E.: Ver 👉Nota explicativa.
+[^14]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^15]: N.E.: Ver 👉Nota explicativa.
+[^15]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, 664, é do Espírito **São Luís, IX de França**.
+[^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, [Q.664](#q664), é do Espírito São Luís, IX de França. 🔤
   
-[^17]: N.E.: Ver 👉Nota explicativa.
+[^17]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^18]: N.E.: Ver 👉Nota explicativa.
+[^18]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^19]: N.E.: Ver 👉Nota explicativa.
+[^19]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^20]: N.E.: Ver 👉Nota explicativa.
+[^20]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^21]: N.E.: Ver 👉Nota explicativa.
+[^21]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^22]: N.E.: Ver 👉Nota explicativa.
+[^22]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^23]: N.E.: Ver 👉Nota explicativa.
+[^23]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^24]: N.E.: Frase atribuída ao filósofo grego **Sócrates** (470–399 a.C.)
+[^24]: N.E.: Frase atribuída ao filósofo grego Sócrates (470–399 a.C.) 🔤
   
-[^25]: N.E.: Na 2ª impressão da 2ª edição de *O Livro dos Espíritos*, as questões 1012 a 1019 correspondiam às questões 1011 a 1018 da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº 1010 e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica.
+[^25]: N.E.: Na 2ª impressão da 2ª edição de 👻 *O Livro dos Espíritos*, as questões [1012](#q1012) a [1019](#q1019) correspondiam às questões [1011](#q1011) a [1018](#q1018) da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº [1010](#q1010) e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica. 🔤
   
-[^26]: N.E.: Ver 👉Nota explicativa.
+[^26]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
-[^27]: N.E.: Esta Nota explicativa, publicada de acordo com o Termo de Compromisso com o Ministério Público Federal/Procuradoria da República no Estado da Bahia, datado de 28 de setembro de
-  2007, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de
-  fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
+[^27]: N.E.: Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita. 🔤
