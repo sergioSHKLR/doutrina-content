@@ -14,14 +14,13 @@ editor: "Federação Espírita Brasileira (FEB)"
 edition: "93ª edição – 8ª impressão (Edição Histórica)"
 isbn: "978-85-7328-728-8"
 originalTitle: "Le Livre des Esprits"
-original_publication: "Paris, 18 de abril de 1857"
+originalPublication: "Paris, 18 de abril de 1857"
 publicationDate: "2019-05"
 language: "pt-BR"
 
 # =============================================================================
 # DISCLAIMER & COPYRIGHT (Legal)
 # =============================================================================
-copyright: "© Federação Espírita Brasileira – Todos os direitos reservados."
 disclaimer: |
   Esta é uma **edição digital educacional e gratuita** destinada ao estudo.
   
@@ -186,23 +185,18 @@ emojiDefinitions:
     🔤: "textual"
 ---
 
-# ✨ O Livro dos Espíritos {#lde}
-
-## 0. 🗃️ Pré-textual {#lde-0}
-
 ### 📄 0.00 Copyright e Créditos {#lde-0-00}
 
 ::: grey-center
-**Edição Digital Educacional**
+**Edição Digital Educacional • Domínio Público**
 
 A tradução de **Guillon Ribeiro** (falecido em 26 de outubro de 1943)  
 encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
 nos termos da Lei nº 9.610/1998.
 
-Esta é uma edição gratuita destinada ao estudo e à divulgação da Doutrina Espírita.
+Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
 
-**Todos os direitos de publicação da edição impressa** pertencem à  
-**Federação Espírita Brasileira – FEB**.
+**Todos os direitos da edição impressa pertencem à Federação Espírita Brasileira – FEB.**
 
 Baseado na 93ª edição – 8ª impressão (Edição Histórica)  
 ISBN 978-85-7328-728-8
@@ -215,23 +209,28 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 ### 📄 0.01. Folha de rosto {#lde-0-01}
 
 ::: grey-center
-Filosofia Espiritualista
+
+**Filosofia Espiritualista**
 
 ✨ **O Livro dos Espíritos**
 
-Princípios da Doutrina Espírita
+**Princípios da Doutrina Espírita**
 
-Sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados
+sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados
 
-por 👴🏻 Allan Kardec
+**por** 👴🏻 **Allan Kardec**
 
-Tradução de Guillon Ribeiro
+**Tradução de** Guillon Ribeiro
 
-> Baseado no original ISBN 978-85-7328-728-8
-> 
-> Modificado para o consumo digital  
->
-> por Sergio de [💧 doutrina.org ](https://doutrina.org) 
+---
+
+**Edição Histórica da FEB**  
+ISBN 978-85-7328-728-8
+
+**Edição digital educacional**  
+organizada e adaptada por Sergio Schickler  
+[💧 doutrina.org](https://doutrina.org) — 2025
+
 :::
 
 ---
