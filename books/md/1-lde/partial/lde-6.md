@@ -12,7 +12,7 @@ A investigação rigorosamente racional e científica de fatos que revelavam a c
 
 A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
 
-1. 👻 *O Livro dos Espíritos* (1857),
+1. ✨ *O Livro dos Espíritos* (1857),
 2. ✒️ *O Livro dos Médiuns* (1861),
 3. 🕊️ *O Evangelho segundo o Espiritismo* (1864),
 4. 🔥 *O Céu e o Inferno* (1865),
@@ -29,7 +29,7 @@ O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básic
 
 Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
 
-Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻 *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de ✨ *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
 
 O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
 
@@ -48,7 +48,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 ::: spirit
 ✨ ▸ O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
 
-👻 O Livro dos Espíritos, [Q.207](#q207)
+✨ O Livro dos Espíritos, [Q.207](#q207)
 :::
 
 ::: kardec
@@ -4208,7 +4208,7 @@ excesso de – [Q.736](#q736)
   
 [^4]: Nota do *Re-editor* (N.R.): Ao invés da tipografia original, resolvemos usar o emoji ✨ (sparkles) para denotar a resposta que os Espíritos deram. Para destacar as notas e explicaçôes aditadas por Allan Kardec, usamos o emoji 👴🏻 (older_man).
   
-[^5]: N.E.: A definição dada na resposta à [Q.1](#q.1) de o 👻 *Livro dos Espíritos* — *cause Première* — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como *causa primária*, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide *Reformador* de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do *Grande dicionário francês-português*, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: "premier, ière […] || Fig. *La cause première*, a causa primária, Deus. 🔤
+[^5]: N.E.: A definição dada na resposta à [Q.1](#q.1) de o ✨ *Livro dos Espíritos* — *cause Première* — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como *causa primária*, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide *Reformador* de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do *Grande dicionário francês-português*, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: "premier, ière […] || Fig. *La cause première*, a causa primária, Deus. 🔤
   
 [^6]: A.K.: Este princípio explica o fenômeno conhecido de todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias. Desde que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade. 🔤
   
@@ -4252,7 +4252,7 @@ Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apres
   
 [^24]: N.E.: Frase atribuída ao filósofo grego Sócrates (470–399 a.C.) 🔤
   
-[^25]: N.E.: Na 2ª impressão da 2ª edição de 👻 *O Livro dos Espíritos*, as questões [1012](#q1012) a [1019](#q1019) correspondiam às questões [1011](#q1011) a [1018](#q1018) da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº [1010](#q1010) e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica. 🔤
+[^25]: N.E.: Na 2ª impressão da 2ª edição de ✨ *O Livro dos Espíritos*, as questões [1012](#q1012) a [1019](#q1019) correspondiam às questões [1011](#q1011) a [1018](#q1018) da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº [1010](#q1010) e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica. 🔤
   
 [^26]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   

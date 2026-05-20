@@ -1,26 +1,43 @@
 ---
+# =============================================================================
+# METADATA PRINCIPAL
+# =============================================================================
 title: "O Livro dos Espíritos"
 subtitle: "Filosofia Espiritualista"
 description: "Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados por Allan Kardec. Tradução de Guillon Ribeiro (Edição FEB Histórica)."
+
 author: "Allan Kardec"
-translator: "Guillon Ribeiro"
 codifier: "Allan Kardec"
+translator: "Guillon Ribeiro"
 editor: "Federação Espírita Brasileira (FEB)"
+
 edition: "93ª edição – 8ª impressão (Edição Histórica)"
 isbn: "978-85-7328-728-8"
 originalTitle: "Le Livre des Esprits"
-originalPublicationDate: "1857-04-18"
-publicationDate: "2019"
+original_publication: "Paris, 18 de abril de 1857"
+publicationDate: "2019-05"
 language: "pt-BR"
 
-# === DISCLAIMER & COPYRIGHT ===
+# =============================================================================
+# DISCLAIMER & COPYRIGHT (Legal)
+# =============================================================================
 copyright: "© Federação Espírita Brasileira – Todos os direitos reservados."
 disclaimer: |
-  Esta é uma edição digital modificada para consumo educacional e de estudo. 
-  O autor (Sergio Schickler / doutrina.org) NÃO possui os direitos autorais sobre a obra. Todos os direitos sobre o texto original pertencem à Federação Espírita Brasileira (FEB). Baseado na edição com ISBN 978-85-7328-728-8.
-license: "Uso educacional e não-comercial permitido. Proibida a venda ou uso comercial sem autorização da FEB."
-rights: "Todos os direitos reservados à FEB. Reprodução autorizada apenas para fins doutrinários e educativos."
+  Esta é uma **edição digital educacional e gratuita** destinada ao estudo.
+  
+  A tradução de **Guillon Ribeiro** (falecido em 26 de outubro de 1943) encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014, nos termos da Lei 9.610/1998.
+  
+  O mantenedor deste site **não detém os direitos autorais** sobre a obra. 
+  Baseado na Edição Histórica da FEB (ISBN 978-85-7328-728-8).
+  
+  Agradecemos à Federação Espírita Brasileira pela preservação e divulgação da Doutrina Espírita.
 
+license: "Uso educacional, não-comercial e doutrinário permitido. Proibida a venda ou reprodução comercial sem autorização da FEB."
+rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Doutrina Espírita."
+
+# =============================================================================
+# TAXONOMY & ORGANIZATION
+# =============================================================================
 tags:
   - "espiritismo"
   - "allan-kardec"
@@ -32,6 +49,7 @@ tags:
   - "perispírito"
   - "obras-básicas"
   - "kardecismo"
+  - "dominio-publico"
 
 categories:
   - "Obras Básicas do Espiritismo"
@@ -40,15 +58,13 @@ categories:
 
 series: "Obras Básicas do Espiritismo"
 seriesPosition: 1
+
+# =============================================================================
+# SITE & NAVIGATION
+# =============================================================================
 layout: "book"
 template: "lde-full"
 permalink: "/lde/"
-eleventyNavigation:
-  key: "O Livro dos Espíritos"
-  parent: "Obras de Allan Kardec"
-  order: 1
-  title: "LDE — O Livro dos Espíritos"
-
 date: "2025-05-18"
 updated: "{{ currentDate }}"
 draft: false
@@ -62,39 +78,23 @@ showTags: true
 showExpanders: true
 showSpiritQuotes: true
 
-css:
-  - "/css/lde.css"
-  - "/css/spirit.css"
-  - "/css/grey-center.css"
-javascript:
-  - "/js/lde-search.js"
-  - "/js/tag-filter.js"
-  - "/js/question-nav.js"
+eleventyNavigation:
+  key: "O Livro dos Espíritos"
+  parent: "Obras de Allan Kardec"
+  order: 1
+  title: "LDE — O Livro dos Espíritos"
 
-ogImage: "/images/lde-cover.jpg"
-twitterImage: "/images/lde-cover.jpg"
+# =============================================================================
+# VISUALS
+# =============================================================================
+cover: "/images/lde-cover-oficial.jpg"
+ogImage: "/images/lde-cover-oficial.jpg"
+heroImage: "/images/lde-ai-reimagined.jpg"
+thumbnail: "/images/lde-cover-oficial.jpg"
 
-schemaType: "Book"
-schema:
-  bookFormat: "EBook"
-  genre: "ReligiousText"
-  inLanguage: "pt-BR"
-  numberOfPages: 526
-  about:
-    - "Espiritismo"
-    - "Reencarnação"
-    - "Imortalidade da Alma"
-    - "Leis Morais"
-  author:
-    name: "Allan Kardec"
-    url: "https://pt.wikipedia.org/wiki/Allan_Kardec"
-  publisher:
-    name: "Federação Espírita Brasileira"
-    url: "https://www.febeditora.com.br"
-  datePublished: "1857"
-  dateModified: "2019"
-  isPartOf: "Obras Básicas do Espiritismo"
-
+# =============================================================================
+# CONTENT STRUCTURE
+# =============================================================================
 contentStructure:
   preTextual:
     - "Folha de rosto"
@@ -119,6 +119,38 @@ contentStructure:
   tagsIndex: true
   questionMap: true
 
+# =============================================================================
+# METADATA & SEO
+# =============================================================================
+excerpt: "A obra fundamental do Espiritismo, codificada por Allan Kardec na tradução clássica de Guillon Ribeiro."
+readingTime: "≈ 18 horas"
+wordCount: "≈ 185.000"
+difficulty: "Intermediário"
+
+schemaType: "Book"
+schema:
+  bookFormat: "EBook"
+  genre: "ReligiousText"
+  inLanguage: "pt-BR"
+  numberOfPages: 526
+  about:
+    - "Espiritismo"
+    - "Reencarnação"
+    - "Imortalidade da Alma"
+    - "Leis Morais"
+  author:
+    name: "Allan Kardec"
+    url: "https://pt.wikipedia.org/wiki/Allan_Kardec"
+  publisher:
+    name: "Federação Espírita Brasileira"
+    url: "https://www.febeditora.com.br"
+  datePublished: "1857"
+  dateModified: "2019"
+  isPartOf: "Obras Básicas do Espiritismo"
+
+# =============================================================================
+# CUSTOM FEATURES & EMOJIS
+# =============================================================================
 metadata:
   sourceFile: "1-lde-full.md"
   processedBy: "doutrina.org digital edition"
@@ -126,37 +158,59 @@ metadata:
   spiritualSignature: "Espírito da Verdade, São Luís, São Vicente de Paulo, etc."
 
 emojiDefinitions:
-- Publicações:
-  👻: "Livro dos Espíritos"
-  ✒️: "Livro dos Médiuns"
-  🕊️: "O Evangelho segundo o Espiritismo"
-  🔥: "O Céu e o Inferno"
-  🌱: "A Gênese"
-  🪦: "Obras Póstumas"
-  📓: "Revista Espírita"
-  🔍: "O que é o Espiritismo"
-- Legenda deste livro:
-  ✨: "Comunicação espiritual"
-  ✝️: "Citação bíblica"
-  👴🏻: "Allan Kardec"
-  🗃️: "Parte do Livro"
-  🗂️: "Capítulo da Parte"
-  📄: "Tópico do Capítulo"
-  #️⃣: "Questão"
-  👉🏻: "Tópico relacionado"
-  🔗: "Lista de termos do Índice"
-  🏷️: "Termo do Índice"
-- Conferência de qualidade:
-  ⚓: "notas de rodapé"
-  📐: "italics"
-  🏋️: "negrito"
-  ⚜️: "comentário de Kardec"
-  🔤: "textual"
+  Publicações:
+    ✨: "Livro dos Espíritos"
+    ✒️: "Livro dos Médiuns"
+    🕊️: "O Evangelho segundo o Espiritismo"
+    🔥: "O Céu e o Inferno"
+    🌱: "A Gênese"
+    🪦: "Obras Póstumas"
+    📓: "Revista Espírita"
+    🔍: "O que é o Espiritismo"
+  "Legenda deste livro":
+    ✨: "Comunicação espiritual"
+    ✝️: "Citação bíblica"
+    👴🏻: "Allan Kardec"
+    🗃️: "Parte do Livro"
+    🗂️: "Capítulo da Parte"
+    📄: "Tópico do Capítulo"
+    #️⃣: "Questão"
+    👉🏻: "Tópico relacionado"
+    🔗: "Lista de termos do Índice"
+    🏷️: "Termo do Índice"
+  "Conferência de qualidade":
+    ⚓: "notas de rodapé"
+    📐: "italics"
+    🏋️: "negrito"
+    ⚜️: "comentário de Kardec"
+    🔤: "textual"
 ---
 
 # ✨ O Livro dos Espíritos {#lde}
 
 ## 0. 🗃️ Pré-textual {#lde-0}
+
+### 📄 0.00 Copyright e Créditos {#lde-0-00}
+
+::: grey-center
+**Edição Digital Educacional**
+
+A tradução de **Guillon Ribeiro** (falecido em 26 de outubro de 1943)  
+encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
+nos termos da Lei nº 9.610/1998.
+
+Esta é uma edição gratuita destinada ao estudo e à divulgação da Doutrina Espírita.
+
+**Todos os direitos de publicação da edição impressa** pertencem à  
+**Federação Espírita Brasileira – FEB**.
+
+Baseado na 93ª edição – 8ª impressão (Edição Histórica)  
+ISBN 978-85-7328-728-8
+
+Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
+:::
+
+---
 
 ### 📄 0.01. Folha de rosto {#lde-0-01}
 
@@ -177,11 +231,7 @@ Tradução de Guillon Ribeiro
 > 
 > Modificado para o consumo digital  
 >
-> por Sergio de  
->
-> [💧 doutrina.org ](https://doutrina.org) 
-> 
-> [⚖️ Avisos Legais]()![]()
+> por Sergio de [💧 doutrina.org ](https://doutrina.org) 
 :::
 
 ---
@@ -265,7 +315,7 @@ entre outros.**
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão inerente à variedade de sentidos das mesmas palavras. Os vocábulos *espiritual*, *espiritualista*, *espiritualismo* têm acepção bem definida. Dar-lhes outra, para aplicá-los à Doutrina dos Espíritos, fora multiplicar as causas já numerosas de anfibologia. Com efeito, o espiritualismo é o oposto do materialismo. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos Espíritos ou em suas comunicações com o mundo visível. Em vez das palavras *espiritual*, *espiritualismo*, empregamos, para indicar a crença a que vimos de referir-nos, os termos *espírita* e *Espiritismo*, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente inteligíveis, deixando ao vocábulo *espiritualismo* a acepção que lhe é própria. Diremos, pois, que a Doutrina *Espírita* ou o *Espiritismo* tem por princípio as relações do mundo material com os Espíritos ou seres do mundo invisível. Os adeptos do Espiritismo serão os *espíritas*, ou, se quiserem, os *espiritistas*.
 
-Como especialidade, 👻 *O Livro dos Espíritos* contém a Doutrina Espírita; como generalidade, prende-se à doutrina *espiritualista*, uma de cujas fases apresenta. Essa a razão por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
+Como especialidade, ✨ *O Livro dos Espíritos* contém a Doutrina Espírita; como generalidade, prende-se à doutrina *espiritualista*, uma de cujas fases apresenta. Essa a razão por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
 
 ::: expand 🔗
 🏷️ [Espiritismo](#espiritismo)

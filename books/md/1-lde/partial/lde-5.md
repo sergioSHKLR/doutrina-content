@@ -192,3 +192,23 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 
 ---
 
+::: grey-center
+**📖 O Livro dos Espíritos — Edição Digital Educacional**
+
+**A tradução de Guillon Ribeiro** está em **domínio público** desde 1º de janeiro de 2014.
+
+Esta edição é oferecida gratuitamente para fins de estudo e divulgação da Doutrina Espírita.
+
+**Todos os direitos de publicação da edição impressa pertencem à Federação Espírita Brasileira – FEB.**
+
+[🌐 Comprar a edição oficial da FEB](https://www.febeditora.com.br/o-livro-dos-espiritos---guillon-ribeiro)  
+[📘 Edição digital gratuita da FEB](https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Esp%C3%ADritos-Guillon-1.pdf)  
+
+**Agradecemos à FEB** pela cuidadosa preservação e divulgação das obras de Allan Kardec.
+
+*Baseado na 93ª edição – 8ª impressão (Edição Histórica) – ISBN 978-85-7328-728-8*  
+*Tradução de Guillon Ribeiro • doutrina.org — Maio de 2025*
+:::
+
+---
+

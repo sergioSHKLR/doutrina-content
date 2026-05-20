@@ -1,26 +1,43 @@
 ---
+# =============================================================================
+# METADATA PRINCIPAL
+# =============================================================================
 title: "O Livro dos Espíritos"
 subtitle: "Filosofia Espiritualista"
 description: "Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados por Allan Kardec. Tradução de Guillon Ribeiro (Edição FEB Histórica)."
+
 author: "Allan Kardec"
-translator: "Guillon Ribeiro"
 codifier: "Allan Kardec"
+translator: "Guillon Ribeiro"
 editor: "Federação Espírita Brasileira (FEB)"
+
 edition: "93ª edição – 8ª impressão (Edição Histórica)"
 isbn: "978-85-7328-728-8"
 originalTitle: "Le Livre des Esprits"
-originalPublicationDate: "1857-04-18"
-publicationDate: "2019"
+original_publication: "Paris, 18 de abril de 1857"
+publicationDate: "2019-05"
 language: "pt-BR"
 
-# === DISCLAIMER & COPYRIGHT ===
+# =============================================================================
+# DISCLAIMER & COPYRIGHT (Legal)
+# =============================================================================
 copyright: "© Federação Espírita Brasileira – Todos os direitos reservados."
 disclaimer: |
-  Esta é uma edição digital modificada para consumo educacional e de estudo. 
-  O autor (Sergio Schickler / doutrina.org) NÃO possui os direitos autorais sobre a obra. Todos os direitos sobre o texto original pertencem à Federação Espírita Brasileira (FEB). Baseado na edição com ISBN 978-85-7328-728-8.
-license: "Uso educacional e não-comercial permitido. Proibida a venda ou uso comercial sem autorização da FEB."
-rights: "Todos os direitos reservados à FEB. Reprodução autorizada apenas para fins doutrinários e educativos."
+  Esta é uma **edição digital educacional e gratuita** destinada ao estudo.
+  
+  A tradução de **Guillon Ribeiro** (falecido em 26 de outubro de 1943) encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014, nos termos da Lei 9.610/1998.
+  
+  O mantenedor deste site **não detém os direitos autorais** sobre a obra. 
+  Baseado na Edição Histórica da FEB (ISBN 978-85-7328-728-8).
+  
+  Agradecemos à Federação Espírita Brasileira pela preservação e divulgação da Doutrina Espírita.
 
+license: "Uso educacional, não-comercial e doutrinário permitido. Proibida a venda ou reprodução comercial sem autorização da FEB."
+rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Doutrina Espírita."
+
+# =============================================================================
+# TAXONOMY & ORGANIZATION
+# =============================================================================
 tags:
   - "espiritismo"
   - "allan-kardec"
@@ -32,6 +49,7 @@ tags:
   - "perispírito"
   - "obras-básicas"
   - "kardecismo"
+  - "dominio-publico"
 
 categories:
   - "Obras Básicas do Espiritismo"
@@ -40,15 +58,13 @@ categories:
 
 series: "Obras Básicas do Espiritismo"
 seriesPosition: 1
+
+# =============================================================================
+# SITE & NAVIGATION
+# =============================================================================
 layout: "book"
 template: "lde-full"
 permalink: "/lde/"
-eleventyNavigation:
-  key: "O Livro dos Espíritos"
-  parent: "Obras de Allan Kardec"
-  order: 1
-  title: "LDE — O Livro dos Espíritos"
-
 date: "2025-05-18"
 updated: "{{ currentDate }}"
 draft: false
@@ -62,39 +78,23 @@ showTags: true
 showExpanders: true
 showSpiritQuotes: true
 
-css:
-  - "/css/lde.css"
-  - "/css/spirit.css"
-  - "/css/grey-center.css"
-javascript:
-  - "/js/lde-search.js"
-  - "/js/tag-filter.js"
-  - "/js/question-nav.js"
+eleventyNavigation:
+  key: "O Livro dos Espíritos"
+  parent: "Obras de Allan Kardec"
+  order: 1
+  title: "LDE — O Livro dos Espíritos"
 
-ogImage: "/images/lde-cover.jpg"
-twitterImage: "/images/lde-cover.jpg"
+# =============================================================================
+# VISUALS
+# =============================================================================
+cover: "/images/lde-cover-oficial.jpg"
+ogImage: "/images/lde-cover-oficial.jpg"
+heroImage: "/images/lde-ai-reimagined.jpg"
+thumbnail: "/images/lde-cover-oficial.jpg"
 
-schemaType: "Book"
-schema:
-  bookFormat: "EBook"
-  genre: "ReligiousText"
-  inLanguage: "pt-BR"
-  numberOfPages: 526
-  about:
-    - "Espiritismo"
-    - "Reencarnação"
-    - "Imortalidade da Alma"
-    - "Leis Morais"
-  author:
-    name: "Allan Kardec"
-    url: "https://pt.wikipedia.org/wiki/Allan_Kardec"
-  publisher:
-    name: "Federação Espírita Brasileira"
-    url: "https://www.febeditora.com.br"
-  datePublished: "1857"
-  dateModified: "2019"
-  isPartOf: "Obras Básicas do Espiritismo"
-
+# =============================================================================
+# CONTENT STRUCTURE
+# =============================================================================
 contentStructure:
   preTextual:
     - "Folha de rosto"
@@ -119,6 +119,38 @@ contentStructure:
   tagsIndex: true
   questionMap: true
 
+# =============================================================================
+# METADATA & SEO
+# =============================================================================
+excerpt: "A obra fundamental do Espiritismo, codificada por Allan Kardec na tradução clássica de Guillon Ribeiro."
+readingTime: "≈ 18 horas"
+wordCount: "≈ 185.000"
+difficulty: "Intermediário"
+
+schemaType: "Book"
+schema:
+  bookFormat: "EBook"
+  genre: "ReligiousText"
+  inLanguage: "pt-BR"
+  numberOfPages: 526
+  about:
+    - "Espiritismo"
+    - "Reencarnação"
+    - "Imortalidade da Alma"
+    - "Leis Morais"
+  author:
+    name: "Allan Kardec"
+    url: "https://pt.wikipedia.org/wiki/Allan_Kardec"
+  publisher:
+    name: "Federação Espírita Brasileira"
+    url: "https://www.febeditora.com.br"
+  datePublished: "1857"
+  dateModified: "2019"
+  isPartOf: "Obras Básicas do Espiritismo"
+
+# =============================================================================
+# CUSTOM FEATURES & EMOJIS
+# =============================================================================
 metadata:
   sourceFile: "1-lde-full.md"
   processedBy: "doutrina.org digital edition"
@@ -126,37 +158,59 @@ metadata:
   spiritualSignature: "Espírito da Verdade, São Luís, São Vicente de Paulo, etc."
 
 emojiDefinitions:
-- Publicações:
-  👻: "Livro dos Espíritos"
-  ✒️: "Livro dos Médiuns"
-  🕊️: "O Evangelho segundo o Espiritismo"
-  🔥: "O Céu e o Inferno"
-  🌱: "A Gênese"
-  🪦: "Obras Póstumas"
-  📓: "Revista Espírita"
-  🔍: "O que é o Espiritismo"
-- Legenda deste livro:
-  ✨: "Comunicação espiritual"
-  ✝️: "Citação bíblica"
-  👴🏻: "Allan Kardec"
-  🗃️: "Parte do Livro"
-  🗂️: "Capítulo da Parte"
-  📄: "Tópico do Capítulo"
-  #️⃣: "Questão"
-  👉🏻: "Tópico relacionado"
-  🔗: "Lista de termos do Índice"
-  🏷️: "Termo do Índice"
-- Conferência de qualidade:
-  ⚓: "notas de rodapé"
-  📐: "italics"
-  🏋️: "negrito"
-  ⚜️: "comentário de Kardec"
-  🔤: "textual"
+  Publicações:
+    ✨: "Livro dos Espíritos"
+    ✒️: "Livro dos Médiuns"
+    🕊️: "O Evangelho segundo o Espiritismo"
+    🔥: "O Céu e o Inferno"
+    🌱: "A Gênese"
+    🪦: "Obras Póstumas"
+    📓: "Revista Espírita"
+    🔍: "O que é o Espiritismo"
+  "Legenda deste livro":
+    ✨: "Comunicação espiritual"
+    ✝️: "Citação bíblica"
+    👴🏻: "Allan Kardec"
+    🗃️: "Parte do Livro"
+    🗂️: "Capítulo da Parte"
+    📄: "Tópico do Capítulo"
+    #️⃣: "Questão"
+    👉🏻: "Tópico relacionado"
+    🔗: "Lista de termos do Índice"
+    🏷️: "Termo do Índice"
+  "Conferência de qualidade":
+    ⚓: "notas de rodapé"
+    📐: "italics"
+    🏋️: "negrito"
+    ⚜️: "comentário de Kardec"
+    🔤: "textual"
 ---
 
 # ✨ O Livro dos Espíritos {#lde}
 
 ## 0. 🗃️ Pré-textual {#lde-0}
+
+### 📄 0.00 Copyright e Créditos {#lde-0-00}
+
+::: grey-center
+**Edição Digital Educacional**
+
+A tradução de **Guillon Ribeiro** (falecido em 26 de outubro de 1943)  
+encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
+nos termos da Lei nº 9.610/1998.
+
+Esta é uma edição gratuita destinada ao estudo e à divulgação da Doutrina Espírita.
+
+**Todos os direitos de publicação da edição impressa** pertencem à  
+**Federação Espírita Brasileira – FEB**.
+
+Baseado na 93ª edição – 8ª impressão (Edição Histórica)  
+ISBN 978-85-7328-728-8
+
+Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
+:::
+
+---
 
 ### 📄 0.01. Folha de rosto {#lde-0-01}
 
@@ -177,11 +231,7 @@ Tradução de Guillon Ribeiro
 > 
 > Modificado para o consumo digital  
 >
-> por Sergio de  
->
-> [💧 doutrina.org ](https://doutrina.org) 
-> 
-> [⚖️ Avisos Legais]()![]()
+> por Sergio de [💧 doutrina.org ](https://doutrina.org) 
 :::
 
 ---
@@ -265,7 +315,7 @@ entre outros.**
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão inerente à variedade de sentidos das mesmas palavras. Os vocábulos *espiritual*, *espiritualista*, *espiritualismo* têm acepção bem definida. Dar-lhes outra, para aplicá-los à Doutrina dos Espíritos, fora multiplicar as causas já numerosas de anfibologia. Com efeito, o espiritualismo é o oposto do materialismo. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos Espíritos ou em suas comunicações com o mundo visível. Em vez das palavras *espiritual*, *espiritualismo*, empregamos, para indicar a crença a que vimos de referir-nos, os termos *espírita* e *Espiritismo*, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente inteligíveis, deixando ao vocábulo *espiritualismo* a acepção que lhe é própria. Diremos, pois, que a Doutrina *Espírita* ou o *Espiritismo* tem por princípio as relações do mundo material com os Espíritos ou seres do mundo invisível. Os adeptos do Espiritismo serão os *espíritas*, ou, se quiserem, os *espiritistas*.
 
-Como especialidade, 👻 *O Livro dos Espíritos* contém a Doutrina Espírita; como generalidade, prende-se à doutrina *espiritualista*, uma de cujas fases apresenta. Essa a razão por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
+Como especialidade, ✨ *O Livro dos Espíritos* contém a Doutrina Espírita; como generalidade, prende-se à doutrina *espiritualista*, uma de cujas fases apresenta. Essa a razão por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
 
 ::: expand 🔗
 🏷️ [Espiritismo](#espiritismo)
@@ -17947,7 +17997,7 @@ Examinai o que pudestes ter obrado contra Deus, depois contra o vosso próximo e
 
 O conhecimento de si mesmo é, portanto, a chave do progresso individual. Direis, como há de alguém julgar-se a si mesmo? Não está aí a ilusão do amor-próprio para atenuar as faltas e torná-las desculpáveis? O avarento se considera apenas econômico e previdente; o orgulhoso julga que em si só há dignidade. Isto é muito real, mas tendes um meio de verificação que não pode iludir-vos. Quando estiverdes indecisos sobre o valor de uma de vossas ações, inquiri como a qualificaríeis, se praticada por outra pessoa. Se a censurais noutrem, não na podereis ter por legítima quando fordes o seu autor, pois que Deus não usa de duas medidas na aplicação de sua justiça. Procurai também saber o que dela pensam os vossos semelhantes e não desprezeis a opinião dos vossos inimigos, porquanto esses nenhum interesse têm em mascarar a verdade e Deus muitas vezes os coloca ao vosso lado como um espelho, a fim de que sejais advertidos com mais franqueza do que o faria um amigo. Perscrute, conseguintemente, a sua consciência aquele que se sinta possuído do desejo sério de melhorar-se, a fim de extirpar de si os maus pendores, como do seu jardim arranca as ervas daninhas; dê balanço no seu dia moral para, a exemplo do comerciante, avaliar suas perdas e seus lucros e eu vos asseguro que a conta destes será mais avultada que a daquelas. Se puder dizer que foi bom o seu dia, poderá dormir em paz e aguardar sem receio o despertar na outra vida.
 
-Formulai, pois, de vós para convosco, questões nítidas e precisas e não temais multiplicá-las. Justo é que se gastem alguns minutos para conquistar uma felicidade eterna. Não trabalhais todos os dias com o fito de juntar haveres que vos garantam repouso na velhice? Não constitui esse repouso o objeto de todos os vossos desejos, o fim que vos faz suportar fadigas e privações temporárias? Pois bem! que é esse descanso de alguns dias, turbado sempre pelas enfermidades do corpo, em comparação com o que espera o homem de bem? Não valerá este outro a pena de alguns esforços? Sei haver muitos que dizem ser positivo o presente e incerto o futuro. Ora, esta exatamente a ideia que estamos encarregados de eliminar do vosso íntimo, visto desejarmos fazer que compreendais esse futuro, de modo a não restar nenhuma dúvida em vossa alma. Por isso foi que primeiro chamamos a vossa atenção por meio de fenônemo capazes de ferir-vos os sentidos e que agora vos damos instruções, que cada um de vós se acha encarregado de espalhar. Com este objetivo é que ditamos 👻 *O Livro dos Espíritos*.
+Formulai, pois, de vós para convosco, questões nítidas e precisas e não temais multiplicá-las. Justo é que se gastem alguns minutos para conquistar uma felicidade eterna. Não trabalhais todos os dias com o fito de juntar haveres que vos garantam repouso na velhice? Não constitui esse repouso o objeto de todos os vossos desejos, o fim que vos faz suportar fadigas e privações temporárias? Pois bem! que é esse descanso de alguns dias, turbado sempre pelas enfermidades do corpo, em comparação com o que espera o homem de bem? Não valerá este outro a pena de alguns esforços? Sei haver muitos que dizem ser positivo o presente e incerto o futuro. Ora, esta exatamente a ideia que estamos encarregados de eliminar do vosso íntimo, visto desejarmos fazer que compreendais esse futuro, de modo a não restar nenhuma dúvida em vossa alma. Por isso foi que primeiro chamamos a vossa atenção por meio de fenônemo capazes de ferir-vos os sentidos e que agora vos damos instruções, que cada um de vós se acha encarregado de espalhar. Com este objetivo é que ditamos ✨ *O Livro dos Espíritos*.
 
 **Santo Agostinho**
 :::
@@ -20097,6 +20147,26 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 
 ---
 
+::: grey-center
+**📖 O Livro dos Espíritos — Edição Digital Educacional**
+
+**A tradução de Guillon Ribeiro** está em **domínio público** desde 1º de janeiro de 2014.
+
+Esta edição é oferecida gratuitamente para fins de estudo e divulgação da Doutrina Espírita.
+
+**Todos os direitos de publicação da edição impressa pertencem à Federação Espírita Brasileira – FEB.**
+
+[🌐 Comprar a edição oficial da FEB](https://www.febeditora.com.br/o-livro-dos-espiritos---guillon-ribeiro)  
+[📘 Edição digital gratuita da FEB](https://www.febnet.org.br/wp-content/uploads/2012/07/WEB-Livro-dos-Esp%C3%ADritos-Guillon-1.pdf)  
+
+**Agradecemos à FEB** pela cuidadosa preservação e divulgação das obras de Allan Kardec.
+
+*Baseado na 93ª edição – 8ª impressão (Edição Histórica) – ISBN 978-85-7328-728-8*  
+*Tradução de Guillon Ribeiro • doutrina.org — Maio de 2025*
+:::
+
+---
+
 
 ## 6. 🗃️ Pós-textual {#lde-6}
 
@@ -20112,7 +20182,7 @@ A investigação rigorosamente racional e científica de fatos que revelavam a c
 
 A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
 
-1. 👻 *O Livro dos Espíritos* (1857),
+1. ✨ *O Livro dos Espíritos* (1857),
 2. ✒️ *O Livro dos Médiuns* (1861),
 3. 🕊️ *O Evangelho segundo o Espiritismo* (1864),
 4. 🔥 *O Céu e o Inferno* (1865),
@@ -20129,7 +20199,7 @@ O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básic
 
 Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
 
-Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de 👻 *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de ✨ *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
 
 O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
 
@@ -20148,7 +20218,7 @@ Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 ::: spirit
 ✨ ▸ O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
 
-👻 O Livro dos Espíritos, [Q.207](#q207)
+✨ O Livro dos Espíritos, [Q.207](#q207)
 :::
 
 ::: kardec
@@ -24308,7 +24378,7 @@ excesso de – [Q.736](#q736)
   
 [^4]: Nota do *Re-editor* (N.R.): Ao invés da tipografia original, resolvemos usar o emoji ✨ (sparkles) para denotar a resposta que os Espíritos deram. Para destacar as notas e explicaçôes aditadas por Allan Kardec, usamos o emoji 👴🏻 (older_man).
   
-[^5]: N.E.: A definição dada na resposta à [Q.1](#q.1) de o 👻 *Livro dos Espíritos* — *cause Première* — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como *causa primária*, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide *Reformador* de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do *Grande dicionário francês-português*, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: "premier, ière […] || Fig. *La cause première*, a causa primária, Deus. 🔤
+[^5]: N.E.: A definição dada na resposta à [Q.1](#q.1) de o ✨ *Livro dos Espíritos* — *cause Première* — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como *causa primária*, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide *Reformador* de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do *Grande dicionário francês-português*, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: "premier, ière […] || Fig. *La cause première*, a causa primária, Deus. 🔤
   
 [^6]: A.K.: Este princípio explica o fenômeno conhecido de todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias. Desde que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade. 🔤
   
@@ -24352,7 +24422,7 @@ Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apres
   
 [^24]: N.E.: Frase atribuída ao filósofo grego Sócrates (470–399 a.C.) 🔤
   
-[^25]: N.E.: Na 2ª impressão da 2ª edição de 👻 *O Livro dos Espíritos*, as questões [1012](#q1012) a [1019](#q1019) correspondiam às questões [1011](#q1011) a [1018](#q1018) da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº [1010](#q1010) e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica. 🔤
+[^25]: N.E.: Na 2ª impressão da 2ª edição de ✨ *O Livro dos Espíritos*, as questões [1012](#q1012) a [1019](#q1019) correspondiam às questões [1011](#q1011) a [1018](#q1018) da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº [1010](#q1010) e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica. 🔤
   
 [^26]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   
