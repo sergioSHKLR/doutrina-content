@@ -21,10 +21,12 @@ Concebe-se que o homem será feliz na Terra quando a Humanidade estiver transfor
 
 ::: spirit
 ✨ ▸ O homem é quase sempre o obreiro da sua própria infelicidade. Praticando a Lei de Deus, a muitos males se forrará e proporcionará a si mesmo felicidade tão grande quanto o comporte a sua existência grosseira.
+:::
 
-Aquele que se acha bem compenetrado de seu destino futuro não vê na vida corporal mais do que uma estação temporária, uma como parada momentânea em péssima hospedaria. Facilmente se consola de alguns aborrecimentos passageiros de uma viagem que o levará a tanto melhor posição, quanto melhor tenha cuidado dos preparativos para empreendê-la.
+::: kardec
+👴🏻 ▸ Aquele que se acha bem compenetrado de seu destino futuro não vê na vida corporal mais do que uma estação temporária, uma como parada momentânea em péssima hospedaria. Facilmente se consola de alguns aborrecimentos passageiros de uma viagem que o levará a tanto melhor posição, quanto melhor tenha cuidado dos preparativos para empreendê-la.
 
-Já nesta vida somos punidos pelas infrações que cometemos das leis que regem a existência corpórea, sofrendo os males consequentes dessas mesmas infrações e dos nossos próprios excessos. Se, gradativamente, remontarmos à origem do que chamamos as nossas desgraças terrenas, veremos que, na maioria dos casos, elas são a consequência de um primeiro afastamento nosso do caminho reto. Desviando-nos deste, enveredamos por outro, mau, e, de consequência em consequência, caímos na desgraça.
+Já nesta vida somos punidos pelas infrações que cometemos das leis que regem a existência corpórea, sofrendo os males consequentes dessas mesmas infrações e dos nossos próprios excessos. Se, gradativamente, remontarmos à origem do que chamamos as nossas desgraças terrenas, veremos que, na maioria dos casos, elas são a consequência de um primeiro afastamento nosso do caminho reto. Desviando-nos deste, enveredamos por outro, mau, e, de consequência em consequência, caímos na desgraça. ⚜️
 :::
 
 ::: expand 🔗
@@ -158,8 +160,10 @@ Acharíeis então justo que o filho de um homem altamente colocado na sociedade 
 
 ::: spirit
 ✨ ▸ Cumpre não cair no absurdo, nem exagerar coisa alguma: a civilização tem suas exigências. Por que haveria de fabricar tamancos o filho de um homem altamente colocado, como dizes, se pode fazer outra coisa? Poderá sempre tornar-se útil à medida de suas faculdades, desde que não as aplique às avessas. Assim, por exemplo, em vez de mau advogado, talvez desse bom mecânico etc.
+:::
 
-No afastarem-se os homens da sua esfera intelectual reside indubitavelmente uma das mais frequentes causas de decepção. A inaptidão para a carreira abraçada constitui fonte inesgotável de reveses. Depois, o amor-próprio, sobrevindo a tudo isso, impede que o que fracassou recorra a uma profissão mais humilde e lhe mostra o suicídio como remédio para escapar ao que se lhe afigura humilhação. *Se uma educação moral o houvesse colocado acima dos tolos preconceitos do orgulho, jamais se teria deixado apanhar desprevenido*.
+::: kardec
+👴🏻 ▸ No afastarem-se os homens da sua esfera intelectual reside indubitavelmente uma das mais frequentes causas de decepção. A inaptidão para a carreira abraçada constitui fonte inesgotável de reveses. Depois, o amor-próprio, sobrevindo a tudo isso, impede que o que fracassou recorra a uma profissão mais humilde e lhe mostra o suicídio como remédio para escapar ao que se lhe afigura humilhação. *Se uma educação moral o houvesse colocado acima dos tolos preconceitos do orgulho, jamais se teria deixado apanhar desprevenido*. ⚜️
 :::
 
 ---
@@ -186,8 +190,10 @@ Pessoas há, que, baldas de todos os recursos, embora no seu derredor reine a ab
 
 ::: spirit
 ✨ ▸ Numa sociedade organizada segundo a lei do Cristo ninguém deve morrer de fome.
+:::
 
-Com uma organização social criteriosa e previdente, ao homem só por culpa sua pode faltar o necessário, porém suas próprias faltas são frequentemente resultado do meio onde se acha colocado. Quando praticar a Lei de Deus, terá uma ordem social fundada na justiça e na solidariedade e ele próprio também será melhor.
+::: kardec
+👴🏻 ▸ Com uma organização social criteriosa e previdente, ao homem só por culpa sua pode faltar o necessário, porém suas próprias faltas são frequentemente resultado do meio onde se acha colocado. Quando praticar a Lei de Deus, terá uma ordem social fundada na justiça e na solidariedade e ele próprio também será melhor. ⚜️
 :::
 
 ::: expand 🔗
@@ -240,14 +246,16 @@ Assim como, quase sempre, é o homem o causador de seus sofrimentos materiais, t
 ✨ ▸ Mais ainda, porque os sofrimentos materiais algumas vezes independem da vontade; mas o orgulho ferido, a ambição frustrada, a ansiedade da avareza, a inveja, o ciúme, todas as paixões, numa palavra, são torturas da alma.
 
 A inveja e o ciúme! Felizes os que desconhecem estes dois vermes roedores! Para aquele que a inveja e o ciúme atacam, não há calma, nem repouso possíveis. À sua frente, como fantasmas que lhe não dão tréguas e o perseguem até durante o sono, se levantam os objetos de sua cobiça, do seu ódio, do seu despeito. O invejoso e o ciumento vivem ardendo em contínua febre. Será essa uma situação desejável e não compreendeis que, com as suas paixões, o homem cria para si mesmo suplícios voluntários, tornando-se-lhe a Terra verdadeiro inferno?
+:::
 
-Muitas expressões pintam energicamente o efeito de certas paixões. Diz-se: ímpar de orgulho, morrer de inveja, secar de ciúme ou de despeito, não comer nem beber de ciúmes etc. Este quadro é sumamente real. Acontece até não ter o ciúme objeto determinado. Há pessoas ciumentas, por natureza, de tudo o que se eleva, de tudo o que sai da craveira vulgar, embora nenhum interesse direto tenham, mas unicamente porque não podem conseguir outro tanto. Ofusca-as tudo o que lhes parece estar acima do horizonte e, se constituíssem maioria na sociedade, trabalhariam para reduzir tudo ao nível em que se acham. É o ciúme aliado à mediocridade.
+::: kardec
+👴🏻 ▸ Muitas expressões pintam energicamente o efeito de certas paixões. Diz-se: ímpar de orgulho, morrer de inveja, secar de ciúme ou de despeito, não comer nem beber de ciúmes etc. Este quadro é sumamente real. Acontece até não ter o ciúme objeto determinado. Há pessoas ciumentas, por natureza, de tudo o que se eleva, de tudo o que sai da craveira vulgar, embora nenhum interesse direto tenham, mas unicamente porque não podem conseguir outro tanto. Ofusca-as tudo o que lhes parece estar acima do horizonte e, se constituíssem maioria na sociedade, trabalhariam para reduzir tudo ao nível em que se acham. É o ciúme aliado à mediocridade.
 
 De ordinário, o homem só é infeliz pela importância que liga às coisas deste mundo. Fazem-lhe a infelicidade a vaidade, a ambição e a cobiça desiludidas. Se se colocar fora do círculo acanhado da vida material, se elevar seus pensamentos para o infinito, que é seu destino, mesquinhas e pueris lhe parecerão as vicissitudes da Humanidade, como o são as tristezas da criança que se aflige pela perda de um brinquedo, que resumia a sua felicidade suprema.
 
 Aquele que só vê felicidade na satisfação do orgulho e dos apetites grosseiros é infeliz, desde que não os pode satisfazer, ao passo que aquele que nada pede ao supérfluo é feliz com os que outros consideram calamidades.
 
-Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as suas necessidades, não tem os mesmos motivos de cobiça e de angústias. Diversa é a sua maneira de ver as coisas. Como civilizado, o homem raciocina sobre a sua infelicidade e a analisa. Por isso é que esta mais o fere, mas também lhe é facultado raciocinar sobre os meios de obter consolação e de analisá-los. Essa consolação ele a encontra *no sentimento cristão, que lhe dá a esperança de melhor futuro, e no Espiritismo, que lhe dá a certeza desse futuro*.
+Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as suas necessidades, não tem os mesmos motivos de cobiça e de angústias. Diversa é a sua maneira de ver as coisas. Como civilizado, o homem raciocina sobre a sua infelicidade e a analisa. Por isso é que esta mais o fere, mas também lhe é facultado raciocinar sobre os meios de obter consolação e de analisá-los. Essa consolação ele a encontra *no sentimento cristão, que lhe dá a esperança de melhor futuro, e no Espiritismo, que lhe dá a certeza desse futuro*. ⚜️
 :::
 
 ::: expand 🔗
@@ -282,8 +290,10 @@ Que se deve pensar da opinião dos que consideram profanação as comunicações
 
 ::: spirit
 ✨ ▸ Não pode haver nisso profanação, quando haja recolhimento e quando a evocação seja praticada respeitosa e convenientemente. A prova de que assim é tendes no fato de que os Espíritos que vos consagram afeição acodem com prazer ao vosso chamado. Sentem-se felizes por vos lembrardes deles e por se comunicarem convosco. Haveria profanação, se isso fosse feito levianamente.
+:::
 
-A possibilidade de nos pormos em comunicação com os Espíritos é uma dulcíssima consolação, pois que nos proporciona meio de conversarmos com os nossos parentes e amigos, que deixaram antes de nós a Terra. Pela evocação, aproximamo-los de nós, eles vêm colocar-se ao nosso lado, nos ouvem e respondem. Cessa assim, por bem dizer, toda separação entre eles e nós. Auxiliam-nos com seus conselhos, testemunham-nos o afeto que nos guardam e a alegria que experimentam por nos lembrarmos deles. Para nós, grande satisfação é sabê-los ditosos, informar-nos, *por seu intermédio*, dos pormenores da nova existência a que passaram e adquirir a certeza de que um dia nos iremos a eles juntar.
+::: kardec
+👴🏻 ▸ A possibilidade de nos pormos em comunicação com os Espíritos é uma dulcíssima consolação, pois que nos proporciona meio de conversarmos com os nossos parentes e amigos, que deixaram antes de nós a Terra. Pela evocação, aproximamo-los de nós, eles vêm colocar-se ao nosso lado, nos ouvem e respondem. Cessa assim, por bem dizer, toda separação entre eles e nós. Auxiliam-nos com seus conselhos, testemunham-nos o afeto que nos guardam e a alegria que experimentam por nos lembrarmos deles. Para nós, grande satisfação é sabê-los ditosos, informar-nos, *por seu intermédio*, dos pormenores da nova existência a que passaram e adquirir a certeza de que um dia nos iremos a eles juntar. ⚜️
 :::
 
 ::: expand 🔗
@@ -300,14 +310,16 @@ Como é que as dores inconsoláveis dos que sobrevivem se refletem nos Espírito
 
 ::: spirit
 ✨ ▸ O Espírito é sensível à lembrança e às saudades dos que lhe eram caros na Terra, mas uma dor incessante e desarrazoada o toca penosamente, porque, nessa dor excessiva, ele vê falta de fé no futuro e de confiança em Deus e, por conseguinte, um obstáculo ao adiantamento dos que o choram e talvez à sua reunião com estes.
+:::
 
-Estando o Espírito mais feliz no Espaço que na Terra, lamentar que ele tenha deixado a vida corpórea é deplorar que seja feliz. Figuremos dois amigos que se achem metidos na mesma prisão. Ambos alcançarão um dia a liberdade, mas um a obtém antes do outro. Seria caridoso que o que continuou preso se entristecesse porque o seu amigo foi libertado primeiro? Não haveria, de sua parte, mais egoísmo do que afeição em querer que do seu cativeiro e do seu sofrer partilhasse o outro por igual tempo? O mesmo se dá com dois seres que se amam na Terra. O que parte primeiro é o que primeiro se liberta e só nos cabe felicitá-lo, aguardando com paciência o momento em que a nosso turno também o seremos.
+::: kardec
+👴🏻 ▸ Estando o Espírito mais feliz no Espaço que na Terra, lamentar que ele tenha deixado a vida corpórea é deplorar que seja feliz. Figuremos dois amigos que se achem metidos na mesma prisão. Ambos alcançarão um dia a liberdade, mas um a obtém antes do outro. Seria caridoso que o que continuou preso se entristecesse porque o seu amigo foi libertado primeiro? Não haveria, de sua parte, mais egoísmo do que afeição em querer que do seu cativeiro e do seu sofrer partilhasse o outro por igual tempo? O mesmo se dá com dois seres que se amam na Terra. O que parte primeiro é o que primeiro se liberta e só nos cabe felicitá-lo, aguardando com paciência o momento em que a nosso turno também o seremos.
 
 Façamos ainda, a este propósito, outra comparação. Tendes um amigo que, junto de vós, se encontra em penosíssima situação. Sua saúde ou seus interesses exigem que vá para outro país, onde estará melhor a todos os respeitos. Deixará temporariamente de se achar ao vosso lado, mas com ele vos correspondereis sempre: a separação será apenas material. Desgostar-vos-ia o seu afastamento, embora para bem dele.
 
 Pelas provas patentes, que ministra, da vida futura, da presença, em torno de nós, daqueles a quem amamos, da continuidade da afeição e da solicitude que nos dispensavam; pelas relações que nos faculta manter com eles, a Doutrina Espírita nos oferece suprema consolação, por ocasião de uma das mais legítimas dores. Com o Espiritismo, não mais solidão, não mais abandono: o homem, por muito insulado que esteja, tem sempre perto de si amigos com quem pode comunicar-se.
 
-Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos parecem, que não compreendemos possamos sofrê-las. Entretanto, se as tivermos suportado corajosamente, se soubermos impor silêncio às nossas murmurações, felicitar-nos-emos, quando fora desta prisão terrena, como o doente que sofre se felicita, quando curado, por se haver submetido a um tratamento doloroso.
+Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos parecem, que não compreendemos possamos sofrê-las. Entretanto, se as tivermos suportado corajosamente, se soubermos impor silêncio às nossas murmurações, felicitar-nos-emos, quando fora desta prisão terrena, como o doente que sofre se felicita, quando curado, por se haver submetido a um tratamento doloroso. ⚜️
 :::
 
 ::: expand 🔗
@@ -354,8 +366,10 @@ Mas isso não impede que se lhe ulcere o coração. Ora, daí não poderá nasce
 
 ::: spirit
 ✨ ▸ Pode, se preferir a felicidade do egoísta. Triste felicidade essa! Saiba, pois, que os amigos ingratos que o abandonam não são dignos de sua amizade e que se enganou a respeito deles. Assim sendo, não há de que lamentar o tê-los perdido. Mais tarde achará outros, que saberão compreendê-lo melhor. Lastimai os que usam para convosco de um procedimento que não tenhais merecido, pois bem triste se lhes apresentará o reverso da medalha. Não vos aflijais, porém, com isso: será o meio de vos colocardes acima deles.
+:::
 
-A Natureza deu ao homem a necessidade de amar e de ser amado. Um dos maiores gozos que lhe são concedidos na Terra é o de encontrar corações que com o seu simpatizem. Dá-lhe ela, assim, as primícias da felicidade que o aguarda no mundo dos Espíritos perfeitos, onde tudo é amor e benignidade. Desse gozo está excluído o egoísta.
+::: kardec
+👴🏻 ▸ A Natureza deu ao homem a necessidade de amar e de ser amado. Um dos maiores gozos que lhe são concedidos na Terra é o de encontrar corações que com o seu simpatizem. Dá-lhe ela, assim, as primícias da felicidade que o aguarda no mundo dos Espíritos perfeitos, onde tudo é amor e benignidade. Desse gozo está excluído o egoísta. ⚜️
 :::
 
 ::: expand 🔗
@@ -426,9 +440,14 @@ Para muitas pessoas, o temor da morte é uma causa de perplexidade. Donde lhes v
 
 ::: spirit
 ✨ ▸ Falece-lhes fundamento para semelhante temor. Mas que queres! se procuram persuadi-las, quando crianças, de que há um inferno e um paraíso e que mais certo é irem para o inferno, visto que também lhes disseram que o que está na Natureza constitui pecado mortal para a alma! Sucede então que, tornadas adultas, essas pessoas, se algum juízo têm, não podem admitir tal coisa e se fazem ateias ou materialistas. São assim levadas a crer que, além da vida presente, nada mais há. Quanto aos que persistiram nas suas crenças da infância, esses temem aquele fogo eterno que os queimará sem os consumir.
-Ao justo, nenhum temor inspira a morte, porque, com *a fé*, tem ele a certeza do futuro. A *esperança* fá-lo contar com uma vida melhor; e a *caridade*, a cuja lei obedece, lhe dá a segurança de que, no mundo para onde terá de ir, nenhum ser encontrará cujo olhar lhe seja de temer. (👉🏻 Veja [Q.730](#q730)) O homem carnal, mais preso à vida corpórea do que à vida espiritual, tem, na Terra, penas e gozos materiais. Sua felicidade consiste na satisfação fugaz de todos os seus desejos. Sua alma, constantemente preocupada e angustiada pelas vicissitudes da vida, se conserva numa ansiedade e numa tortura perpétuas. A morte o assusta, porque ele duvida do futuro e porque tem de deixar no mundo todas as suas afeições e esperanças.
 
-O homem moral, que se colocou acima das necessidades factícias criadas pelas paixões, já neste mundo experimenta gozos que o homem material desconhece. A moderação de seus desejos lhe dá ao Espírito calma e serenidade. Ditoso pelo bem que faz, não há para ele decepções e as contrariedades lhe deslizam por sobre a alma, sem nenhuma impressão dolorosa deixarem.
+Ao justo, nenhum temor inspira a morte, porque, com *a fé*, tem ele a certeza do futuro. A *esperança* fá-lo contar com uma vida melhor; e a *caridade*, a cuja lei obedece, lhe dá a segurança de que, no mundo para onde terá de ir, nenhum ser encontrará cujo olhar lhe seja de temer. (👉🏻 Veja [Q.730](#q730))
+:::
+
+::: kardec
+👴🏻 ▸ O homem carnal, mais preso à vida corpórea do que à vida espiritual, tem, na Terra, penas e gozos materiais. Sua felicidade consiste na satisfação fugaz de todos os seus desejos. Sua alma, constantemente preocupada e angustiada pelas vicissitudes da vida, se conserva numa ansiedade e numa tortura perpétuas. A morte o assusta, porque ele duvida do futuro e porque tem de deixar no mundo todas as suas afeições e esperanças.
+
+O homem moral, que se colocou acima das necessidades factícias criadas pelas paixões, já neste mundo experimenta gozos que o homem material desconhece. A moderação de seus desejos lhe dá ao Espírito calma e serenidade. Ditoso pelo bem que faz, não há para ele decepções e as contrariedades lhe deslizam por sobre a alma, sem nenhuma impressão dolorosa deixarem. ⚜️
 :::
 
 ---
@@ -571,8 +590,10 @@ Será desculpável o suicídio, quando tenha por fim obstar a que a vergonha cai
 
 ::: spirit
 ✨ ▸ O que assim procede não faz bem, mas como pensa que o faz, Deus lhe leva isso em conta, pois que é uma expiação que ele se impõe a si mesmo. A intenção lhe atenua a falta; entretanto, nem por isso deixa de haver falta. Ademais, eliminai da vossa sociedade os abusos e os preconceitos e deixará de haver desses suicídios.
+:::
 
-Aquele que tira a si mesmo a vida, para fugir à vergonha de uma ação má, prova que dá mais apreço à estima dos homens do que à de Deus, visto que volta para a vida espiritual carregado de suas iniquidades, tendo-se privado dos meios de repará-las durante a vida corpórea. Deus, geralmente, é menos inexorável do que os homens. Perdoa aos que sinceramente se arrependem e atende à reparação. O suicida nada repara.
+::: kardec
+👴🏻 ▸ Aquele que tira a si mesmo a vida, para fugir à vergonha de uma ação má, prova que dá mais apreço à estima dos homens do que à de Deus, visto que volta para a vida espiritual carregado de suas iniquidades, tendo-se privado dos meios de repará-las durante a vida corpórea. Deus, geralmente, é menos inexorável do que os homens. Perdoa aos que sinceramente se arrependem e atende à reparação. O suicida nada repara. ⚜️
 :::
 
 ::: expand 🔗
@@ -598,8 +619,10 @@ Não é, às vezes, meritório o sacrifício da vida, quando aquele que o faz vi
 
 ::: spirit
 ✨ ▸ Isso é sublime, conforme a intenção, e, em tal caso, o sacrifício da vida não constitui suicídio. Deus, porém, se opõe a todo sacrifício inútil e não o pode ver de bom grado, se tem o orgulho a manchá-lo. Só o desinteresse torna meritório o sacrifício e, não raro, quem o faz guarda oculto um pensamento, que lhe diminui o valor aos olhos de Deus.
+:::
 
-Todo sacrifício que o homem faça à custa da sua própria felicidade é um ato soberanamente meritório aos olhos de Deus, porque resulta da prática da lei de caridade. Ora, sendo a vida o bem terreno a que maior apreço dá o homem, não comete atentado o que a ela renuncia pelo bem de seus semelhantes: cumpre um sacrifício; mas, antes de o cumprir, deve refletir sobre se sua vida não será mais útil do que sua morte.
+::: kardec
+👴🏻 ▸ Todo sacrifício que o homem faça à custa da sua própria felicidade é um ato soberanamente meritório aos olhos de Deus, porque resulta da prática da lei de caridade. Ora, sendo a vida o bem terreno a que maior apreço dá o homem, não comete atentado o que a ela renuncia pelo bem de seus semelhantes: cumpre um sacrifício; mas, antes de o cumprir, deve refletir sobre se sua vida não será mais útil do que sua morte. ⚜️
 :::
 
 ::: expand 🔗
@@ -719,11 +742,14 @@ Quais, em geral, com relação ao estado do Espírito, as consequências do suic
 
 ::: spirit
 ✨ ▸ Muito diversas são as consequências do suicídio. Não há penas determinadas e, em todos os casos, correspondem sempre às causas que o produziram. Há, porém, uma consequência a que o suicida não pode escapar: é o *desapontamento*. A sorte, porém, não é a mesma para todos: depende das circunstâncias; alguns expiam a falta imediatamente, outros em nova existência, que será pior do que aquela cujo curso interromperam.
+:::
 
-A observação, realmente, mostra que os efeitos do suicídio não são idênticos. Alguns há, porém, comuns a todos os casos de morte violenta e que são a consequência da interrupção brusca da vida. Há, primeiro, a persistência mais prolongada e tenaz do laço que une o Espírito ao corpo, por estar quase sempre esse laço na plenitude da sua força no momento em que é partido, ao passo que, no caso de morte natural, ele se enfraquece gradualmente e muitas vezes se desfaz antes que a vida se haja extinguido completamente. As consequências deste estado de coisas são o prolongamento da perturbação espiritual, seguindo-se à ilusão em que, durante mais ou menos tempo, o Espírito se conserva de que ainda pertence ao número dos vivos. (👉🏻 Veja [Q.155](#q155) e [Q.165](#q165)). 
+::: kardec
+👴🏻 ▸ A observação, realmente, mostra que os efeitos do suicídio não são idênticos. Alguns há, porém, comuns a todos os casos de morte violenta e que são a consequência da interrupção brusca da vida. Há, primeiro, a persistência mais prolongada e tenaz do laço que une o Espírito ao corpo, por estar quase sempre esse laço na plenitude da sua força no momento em que é partido, ao passo que, no caso de morte natural, ele se enfraquece gradualmente e muitas vezes se desfaz antes que a vida se haja extinguido completamente. As consequências deste estado de coisas são o prolongamento da perturbação espiritual, seguindo-se à ilusão em que, durante mais ou menos tempo, o Espírito se conserva de que ainda pertence ao número dos vivos. (👉🏻 Veja [Q.155](#q155) e [Q.165](#q165))
+
 A afinidade que permanece entre o Espírito e o corpo produz, nalguns suicidas, uma espécie de repercussão do estado do corpo no Espírito, que, assim, a seu mau grado, sente os efeitos da decomposição, donde lhe resulta uma sensação cheia de angústias e de horror, estado esse que também pode durar pelo tempo que devia durar a vida que sofreu interrupção. Não é geral este efeito; mas, em caso algum, o suicida fica isento das consequências da sua falta de coragem e, cedo ou tarde, expia, de um modo ou de outro, a culpa em que incorreu. Assim é que certos Espíritos, que foram muito desgraçados na Terra, disseram ter-se suicidado na existência precedente e submetido voluntariamente a novas provas, para tentarem suportá-las com mais resignação. Em alguns, verifica-se uma espécie de ligação à matéria, de que inutilmente procuram desembaraçar-se, a fim de voarem para mundos melhores, cujo acesso, porém, se lhes conserva interdito. A maior parte deles sofre o pesar de haver feito uma coisa inútil, pois que só decepções encontram.
 
-A religião, a moral, todas as filosofias condenam o suicídio como contrário às Leis da Natureza. Todas nos dizem, em princípio, que ninguém tem o direito de abreviar voluntariamente a vida. Entretanto, por que não se tem esse direito? Por que não é livre o homem de pôr termo aos seus sofrimentos? Ao Espiritismo estava reservado demonstrar, pelo exemplo dos que sucumbiram, que o suicídio não é uma falta, somente por constituir infração de uma lei moral, consideração de pouco peso para certos indivíduos, mas também um ato estúpido, pois que nada ganha quem o pratica, o contrário é o que se dá, como no-lo ensinam, não a teoria, porém os fatos que ele nos põe sob as vistas.
+A religião, a moral, todas as filosofias condenam o suicídio como contrário às Leis da Natureza. Todas nos dizem, em princípio, que ninguém tem o direito de abreviar voluntariamente a vida. Entretanto, por que não se tem esse direito? Por que não é livre o homem de pôr termo aos seus sofrimentos? Ao Espiritismo estava reservado demonstrar, pelo exemplo dos que sucumbiram, que o suicídio não é uma falta, somente por constituir infração de uma lei moral, consideração de pouco peso para certos indivíduos, mas também um ato estúpido, pois que nada ganha quem o pratica, o contrário é o que se dá, como no-lo ensinam, não a teoria, porém os fatos que ele nos põe sob as vistas. ⚜️
 :::
 
 ::: expand 🔗
@@ -752,13 +778,17 @@ Por que tem o homem, instintivamente, horror ao nada?
 Donde nasce, para o homem, o sentimento instintivo da vida futura?
 
 ::: spirit
-✨ ▸ Já temos dito: antes de encarnar, o Espírito conhecia todas essas coisas e a alma conserva uma vaga lembrança do que sabe e do que viu no estado espiritual. (👉🏻 Veja [Q.393](#q393)) Em todos os tempos, o homem se preocupou com o seu futuro para lá do túmulo e isso é muito natural. Qualquer que seja a importância que ligue à vida presente, não pode ele furtar-se a considerar quanto essa vida é curta e, sobretudo, precária, pois que a cada instante está sujeita a interromper-se, nenhuma certeza lhe sendo permitida acerca do dia seguinte. Que será dele, após o instante fatal? Questão grave esta, porquanto não se trata de alguns anos apenas, mas da eternidade. Aquele que tem de passar longo tempo, em país estrangeiro, se preocupa com a situação em que lá se achará. Como, então, não nos havia de preocupar a em que nos veremos, deixando este mundo, uma vez que é para sempre.
+✨ ▸ Já temos dito: antes de encarnar, o Espírito conhecia todas essas coisas e a alma conserva uma vaga lembrança do que sabe e do que viu no estado espiritual. (👉🏻 Veja [Q.393](#q393))
+:::
+
+::: kardec
+👴🏻 ▸ Em todos os tempos, o homem se preocupou com o seu futuro para lá do túmulo e isso é muito natural. Qualquer que seja a importância que ligue à vida presente, não pode ele furtar-se a considerar quanto essa vida é curta e, sobretudo, precária, pois que a cada instante está sujeita a interromper-se, nenhuma certeza lhe sendo permitida acerca do dia seguinte. Que será dele, após o instante fatal? Questão grave esta, porquanto não se trata de alguns anos apenas, mas da eternidade. Aquele que tem de passar longo tempo, em país estrangeiro, se preocupa com a situação em que lá se achará. Como, então, não nos havia de preocupar a em que nos veremos, deixando este mundo, uma vez que é para sempre.
 
 A ideia do nada tem qualquer coisa que repugna à razão. O homem que mais despreocupado seja durante a vida, em chegando o momento supremo, pergunta a si mesmo o que vai ser dele e, sem o querer, espera.
 
 Crer em Deus, sem admitir a vida futura, fora um contrassenso. O sentimento de uma existência melhor reside no foro íntimo de todos os homens e não é possível que Deus aí o tenha colocado em vão.
 
-A vida futura implica a conservação da nossa individualidade, após a morte. Com efeito, que nos importaria sobreviver ao corpo, se a nossa essência moral houvesse de perder-se no oceano do infinito? As consequências, para nós, seriam as mesmas que se tivéssemos de nos sumir no nada.
+A vida futura implica a conservação da nossa individualidade, após a morte. Com efeito, que nos importaria sobreviver ao corpo, se a nossa essência moral houvesse de perder-se no oceano do infinito? As consequências, para nós, seriam as mesmas que se tivéssemos de nos sumir no nada. ⚜️
 :::
 
 ::: expand 🔗
@@ -803,10 +833,12 @@ Como pode haver céticos, uma vez que a alma traz ao homem o sentimento das cois
 
 ::: spirit
 ✨ ▸ Eles são em número muito menor do que se julga. Muitos se fazem de espíritos fortes, durante a vida, somente por orgulho. No momento da morte, porém, deixam de ser tão fanfarrões.
+:::
 
-A responsabilidade dos nossos atos é a consequência da realidade da vida futura. Dizem-nos a razão e a justiça que, na partilha da felicidade a que todos aspiram, não podem estar confundidos os bons e os maus. Não é possível que Deus queira que uns gozem, sem trabalho, de bens que outros só alcançam com esforço e perseverança.
+::: kardec
+👴🏻 ▸ A responsabilidade dos nossos atos é a consequência da realidade da vida futura. Dizem-nos a razão e a justiça que, na partilha da felicidade a que todos aspiram, não podem estar confundidos os bons e os maus. Não é possível que Deus queira que uns gozem, sem trabalho, de bens que outros só alcançam com esforço e perseverança.
 
-A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e de sua bondade não nos permite acreditar que o justo e o mau estejam na mesma categoria a seus olhos, nem duvidar de que recebam, algum dia, um a recompensa, o castigo o outro, pelo bem ou pelo mal que tenham feito. Por isso é que o sentimento inato que temos da justiça nos dá a intuição das penas e recompensas futuras.
+A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e de sua bondade não nos permite acreditar que o justo e o mau estejam na mesma categoria a seus olhos, nem duvidar de que recebam, algum dia, um a recompensa, o castigo o outro, pelo bem ou pelo mal que tenham feito. Por isso é que o sentimento inato que temos da justiça nos dá a intuição das penas e recompensas futuras. ⚜️
 :::
 
 ::: expand 🔗
@@ -839,14 +871,16 @@ Mas será necessário que Deus atente em cada um dos nossos atos, para nos recom
 Foste guloso, vou punir-te.
 
 Ele traçou um limite; as enfermidades e muitas vezes a morte são a consequência dos excessos. Eis aí a punição: é o resultado da infração da lei. Assim em tudo.
+:::
 
-Todas as nossas ações estão submetidas às Leis de Deus. Nenhuma há, *por mais insignificante que nos pareça*, que não possa ser uma violação daquelas leis. Se sofremos as consequências dessa violação, só nos devemos queixar de nós mesmos, que desse modo nos fazemos os causadores da nossa felicidade, ou da nossa infelicidade futuras.
+::: kardec
+👴🏻 ▸ Todas as nossas ações estão submetidas às Leis de Deus. Nenhuma há, *por mais insignificante que nos pareça*, que não possa ser uma violação daquelas leis. Se sofremos as consequências dessa violação, só nos devemos queixar de nós mesmos, que desse modo nos fazemos os causadores da nossa felicidade, ou da nossa infelicidade futuras.
 
 Esta verdade se torna evidente por meio do apólogo seguinte.
 
 Um pai deu a seu filho educação e instrução, isto é, os meios de se guiar. Cede-lhe um campo para que o cultive e lhe diz: Aqui estão a regra que deves seguir e todos os instrumentos necessários a tornares fértil este campo e assegurares a tua existência. Dei-te a instrução para compreenderes esta regra. Se a seguires, teu campo produzirá muito e te proporcionará o repouso na velhice. Se a desprezares, nada produzirá e morrerás de fome. Dito isso, deixa-o proceder livremente.
 
-Não é verdade que esse campo produzirá na razão dos cuidados que forem dispensados à sua cultura e que toda negligência redundará em prejuízo da colheita? Na velhice, portanto, o filho será ditoso ou desgraçado, conforme haja seguido ou não a regra que seu pai lhe traçou. Deus ainda é mais previdente, pois que nos adverte, a cada instante, de que estamos fazendo bem ou mal. Envia-nos os Espíritos para nos inspirarem, porém não os escutamos. Há mais esta diferença: Deus faculta sempre ao homem, concedendo-lhe novas existências, recursos para reparar seus erros passados, enquanto ao filho de quem falamos, se empregou mal o seu tempo, nenhum recurso resta.
+Não é verdade que esse campo produzirá na razão dos cuidados que forem dispensados à sua cultura e que toda negligência redundará em prejuízo da colheita? Na velhice, portanto, o filho será ditoso ou desgraçado, conforme haja seguido ou não a regra que seu pai lhe traçou. Deus ainda é mais previdente, pois que nos adverte, a cada instante, de que estamos fazendo bem ou mal. Envia-nos os Espíritos para nos inspirarem, porém não os escutamos. Há mais esta diferença: Deus faculta sempre ao homem, concedendo-lhe novas existências, recursos para reparar seus erros passados, enquanto ao filho de quem falamos, se empregou mal o seu tempo, nenhum recurso resta. ⚜️
 :::
 
 ::: expand 🔗
@@ -1002,8 +1036,12 @@ Quais os sofrimentos maiores a que os Espíritos maus se veem sujeitos?
 
 ::: spirit
 ✨ ▸ Não há descrição possível das torturas morais que constituem a punição de certos crimes. Mesmo o que as sofre teria dificuldade em vos dar delas uma ideia. Indubitavelmente, porém, a mais horrível consiste em pensarem que estão condenados sem remissão.
+:::
 
-Das penas e gozos da alma após a morte forma o homem ideia mais ou menos elevada, conforme o estado de sua inteligência. Quanto mais ele se desenvolve, tanto mais essa ideia se apura e se escoima da matéria; compreende as coisas de um ponto de vista mais racional, deixando de tomar ao pé da letra as imagens de uma linguagem figurada. Ensinando-nos que a alma é um ser todo espiritual, a razão, mais esclarecida, nos diz, por isso mesmo, que ela não pode ser atingida pelas impressões que apenas sobre a matéria atuam. Não se segue, porém, daí que esteja isenta de sofrimentos, nem que não receba o castigo de suas faltas. (👉🏻 Veja [Q.237](#q237)) As comunicações espíritas tiveram como resultado mostrar o estado futuro da alma, não mais em teoria, porém na realidade. Põem-nos diante dos olhos todas as peripécias da vida de além-túmulo. Ao mesmo tempo, entretanto, no-las mostram como consequências perfeitamente lógicas da vida terrestre e, embora despojadas do aparato fantástico que a imaginação dos homens criou, não são menos pessoais para os que fizeram mau uso de suas faculdades. Infinita é a variedade dessas consequências, mas, em tese geral, pode-se dizer: cada um é punido por aquilo em que pecou. Assim é que uns o são pela visão incessante do mal que fizeram; outros, pelo pesar, pelo temor, pela vergonha, pela dúvida, pelo insulamento, pelas trevas, pela separação dos entes que lhes são caros etc.
+::: kardec
+👴🏻 ▸ Das penas e gozos da alma após a morte forma o homem ideia mais ou menos elevada, conforme o estado de sua inteligência. Quanto mais ele se desenvolve, tanto mais essa ideia se apura e se escoima da matéria; compreende as coisas de um ponto de vista mais racional, deixando de tomar ao pé da letra as imagens de uma linguagem figurada. Ensinando-nos que a alma é um ser todo espiritual, a razão, mais esclarecida, nos diz, por isso mesmo, que ela não pode ser atingida pelas impressões que apenas sobre a matéria atuam. Não se segue, porém, daí que esteja isenta de sofrimentos, nem que não receba o castigo de suas faltas. (👉🏻 Veja [Q.237](#q237))
+
+As comunicações espíritas tiveram como resultado mostrar o estado futuro da alma, não mais em teoria, porém na realidade. Põem-nos diante dos olhos todas as peripécias da vida de além-túmulo. Ao mesmo tempo, entretanto, no-las mostram como consequências perfeitamente lógicas da vida terrestre e, embora despojadas do aparato fantástico que a imaginação dos homens criou, não são menos pessoais para os que fizeram mau uso de suas faculdades. Infinita é a variedade dessas consequências, mas, em tese geral, pode-se dizer: cada um é punido por aquilo em que pecou. Assim é que uns o são pela visão incessante do mal que fizeram; outros, pelo pesar, pelo temor, pela vergonha, pela dúvida, pelo insulamento, pelas trevas, pela separação dos entes que lhes são caros etc. ⚜️
 :::
 
 ::: expand 🔗
@@ -1037,8 +1075,10 @@ Mas o temor desse fogo não produzirá bom resultado?
 
 ::: spirit
 ✨ ▸ Vede se serve de freio, mesmo entre os que o ensinam. Se ensinardes coisas que mais tarde a razão venha a repelir, causareis uma impressão que não será duradoura, nem salutar.
+:::
 
-Impotente para, na sua linguagem, definir a natureza daqueles sofrimentos, o homem não encontrou comparação mais enérgica do que a do fogo, pois, para ele, o fogo é o tipo do mais cruel suplício e o símbolo da ação mais violenta. Por isso é que a crença no fogo eterno data da mais remota antiguidade, tendo-a os povos modernos herdado dos mais antigos. Por isso também é que o homem diz, em sua linguagem figurada: o fogo das paixões; abrasar de amor, de ciúme etc.
+::: kardec
+👴🏻 ▸ Impotente para, na sua linguagem, definir a natureza daqueles sofrimentos, o homem não encontrou comparação mais enérgica do que a do fogo, pois, para ele, o fogo é o tipo do mais cruel suplício e o símbolo da ação mais violenta. Por isso é que a crença no fogo eterno data da mais remota antiguidade, tendo-a os povos modernos herdado dos mais antigos. Por isso também é que o homem diz, em sua linguagem figurada: o fogo das paixões; abrasar de amor, de ciúme etc. ⚜️
 :::
 
 ---
@@ -1051,8 +1091,10 @@ Os Espíritos inferiores compreendem a felicidade do justo?
 ✨ ▸ Sim, e isso lhes é um suplício, porque compreendem que estão dela privados por sua culpa. Daí resulta que o Espírito, liberto da matéria, aspira à nova vida corporal, pois que cada existência, *se for bem empregada*, abrevia um tanto a duração desse suplício. É então que procede à escolha das provas por meio das quais possa expiar suas faltas. Porque, ficai sabendo, o Espírito sofre por todo o mal que praticou, ou de que foi causa voluntária, por todo o bem que houvera podido fazer e não fez *e por todo o mal que decorra de não haver feito o bem*.
 
 Para o Espírito errante, já não há véus. *Ele se acha como tendo saído de um nevoeiro* e vê o que o distancia da felicidade. Mais sofre então, porque compreende quanto foi culpado. *Não tem mais ilusões*: vê as coisas na sua realidade.
+:::
 
-Na erraticidade, o Espírito descortina, de um lado, todas as suas existências passadas; de outro, o futuro que lhe está prometido e percebe o que lhe falta para atingi-lo. É qual viajor que chega ao cume de uma montanha: vê o caminho que percorreu e o que lhe resta percorrer, a fim de chegar ao fim da sua jornada.
+::: kardec
+👴🏻 ▸ Na erraticidade, o Espírito descortina, de um lado, todas as suas existências passadas; de outro, o futuro que lhe está prometido e percebe o que lhe falta para atingi-lo. É qual viajor que chega ao cume de uma montanha: vê o caminho que percorreu e o que lhe resta percorrer, a fim de chegar ao fim da sua jornada. ⚜️
 :::
 
 ::: expand 🔗
@@ -1110,10 +1152,12 @@ Serão um castigo para o culpado essa divulgação de todos os nossos atos repro
 
 ::: spirit
 ✨ ▸ Maior do que se pensa, mas tão somente até que o culpado tenha expiado suas faltas, quer como Espírito, quer como homem, em novas existências corpóreas.
+:::
 
-Quando nos achamos no mundo dos Espíritos, estando patente todo o nosso passado, o bem e o mal que houvermos feito serão igualmente conhecidos. Em vão, aquele que haja praticado o mal tentará escapar ao olhar de suas vítimas: a presença inevitável destas lhe será um castigo e um remorso incessante, até que haja expiado seus erros, ao passo que o homem de bem por toda parte só encontrará olhares amigos e benevolentes.
+::: kardec
+👴🏻 ▸ Quando nos achamos no mundo dos Espíritos, estando patente todo o nosso passado, o bem e o mal que houvermos feito serão igualmente conhecidos. Em vão, aquele que haja praticado o mal tentará escapar ao olhar de suas vítimas: a presença inevitável destas lhe será um castigo e um remorso incessante, até que haja expiado seus erros, ao passo que o homem de bem por toda parte só encontrará olhares amigos e benevolentes.
 
-Para o mau, não há maior tormento, na Terra, do que a presença de suas vítimas, razão pela qual as evita continuamente. Que será quando, dissipada a ilusão das paixões, compreender o mal que fez, vir patenteados os seus atos mais secretos, desmascarada a sua hipocrisia e não puder subtrair-se à visão delas? Enquanto a alma do homem perverso é presa da vergonha, do pesar e do remorso, a do justo goza perfeita serenidade.
+Para o mau, não há maior tormento, na Terra, do que a presença de suas vítimas, razão pela qual as evita continuamente. Que será quando, dissipada a ilusão das paixões, compreender o mal que fez, vir patenteados os seus atos mais secretos, desmascarada a sua hipocrisia e não puder subtrair-se à visão delas? Enquanto a alma do homem perverso é presa da vergonha, do pesar e do remorso, a do justo goza perfeita serenidade. ⚜️
 :::
 
 ::: expand 🔗
@@ -1145,8 +1189,10 @@ Não serão, para a alma, causa de penosa apreensão, que lhe altera a felicidad
 
 ::: spirit
 ✨ ▸ Para a alma ainda maculada, são. Daí vem que ela não pode gozar de felicidade perfeita, senão quando esteja completamente pura. Para aquela, porém, que já se elevou, nada tem de penoso o pensar nas provas que ainda haja de sofrer.
+:::
 
-Goza da felicidade a alma que chegou a um certo grau de pureza. Domina-a um sentimento de grata satisfação. Sente-se feliz por tudo o que vê, por tudo o que a cerca. Levanta-se-lhe o véu que encobria os mistérios e as maravilhas da Criação e as perfeições divinas em todo o esplendor lhe aparecem.
+::: kardec
+👴🏻 ▸ Goza da felicidade a alma que chegou a um certo grau de pureza. Domina-a um sentimento de grata satisfação. Sente-se feliz por tudo o que vê, por tudo o que a cerca. Levanta-se-lhe o véu que encobria os mistérios e as maravilhas da Criação e as perfeições divinas em todo o esplendor lhe aparecem. ⚜️
 :::
 
 ::: expand 🔗
@@ -1162,8 +1208,10 @@ O laço de simpatia que une os Espíritos da mesma ordem constitui para eles uma
 
 ::: spirit
 ✨ ▸ Os Espíritos entre os quais há recíproca simpatia *para o bem* encontram na sua união um dos maiores gozos, visto que não receiam vê-la turbada pelo egoísmo. Formam, no mundo inteiramente espiritual, famílias pela identidade de sentimentos, consistindo nisto a felicidade espiritual, do mesmo modo que no vosso mundo vos grupais em categorias e experimentais certo prazer quando vos achais reunidos. Na afeição pura e sincera que cada um vota aos outros e de que é por sua vez objeto, têm eles um manancial de felicidade, porquanto lá não há falsos amigos, nem hipócritas.
+:::
 
-Das primícias dessa felicidade goza o homem na Terra, quando se lhe deparam almas com as quais pode confundir-se numa união pura e santa. Em uma vida mais purificada, inefável e ilimitado será esse gozo, pois aí ele só encontrará almas simpáticas, *que o egoísmo não tornará frias*. Porque, na Natureza, tudo é amor: o egoísmo é que o mata.
+::: kardec
+👴🏻 ▸ Das primícias dessa felicidade goza o homem na Terra, quando se lhe deparam almas com as quais pode confundir-se numa união pura e santa. Em uma vida mais purificada, inefável e ilimitado será esse gozo, pois aí ele só encontrará almas simpáticas, *que o egoísmo não tornará frias*. Porque, na Natureza, tudo é amor: o egoísmo é que o mata. ⚜️
 :::
 
 ::: expand 🔗
@@ -1194,8 +1242,11 @@ Com relação ao estado futuro do Espírito, haverá diferença entre um que, em
 Será necessário que professemos o Espiritismo e creiamos nas manifestações espíritas, para termos assegurada a nossa sorte na vida futura?
 
 ::: spirit
-✨ ▸ Se assim fosse, seguir-se-ia que estariam deserdados todos os que não creem, ou que não tiveram ensejo de esclarecer-se, o que seria absurdo. Só o bem assegura a sorte futura. Ora, o bem é sempre o bem, qualquer que seja o caminho que a ele conduza. (👉🏻 Veja [Q.165](#q165) a [Q.799](#q799)) 
-A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sobre certos pontos do futuro. Apressa o adiantamento dos indivíduos e das massas, porque faculta nos inteiremos do que seremos um dia. É um ponto de apoio, uma luz que nos guia. O Espiritismo ensina o homem a suportar as provas com paciência e resignação; afasta-o dos atos que possam retardar-lhe a felicidade, mas ninguém diz que, sem ele, não possa ela ser conseguida.
+✨ ▸ Se assim fosse, seguir-se-ia que estariam deserdados todos os que não creem, ou que não tiveram ensejo de esclarecer-se, o que seria absurdo. Só o bem assegura a sorte futura. Ora, o bem é sempre o bem, qualquer que seja o caminho que a ele conduza. (👉🏻 Veja [Q.165](#q165) a [Q.799](#q799))
+:::
+
+::: kardec
+👴🏻 ▸ A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sobre certos pontos do futuro. Apressa o adiantamento dos indivíduos e das massas, porque faculta nos inteiremos do que seremos um dia. É um ponto de apoio, uma luz que nos guia. O Espiritismo ensina o homem a suportar as provas com paciência e resignação; afasta-o dos atos que possam retardar-lhe a felicidade, mas ninguém diz que, sem ele, não possa ela ser conseguida. ⚜️
 :::
 
 ::: expand 🔗
@@ -1239,11 +1290,11 @@ Constitui recompensa a reencarnação da alma em um mundo menos grosseiro?
 
 ::: spirit
 ✨ ▸ É a consequência de sua depuração, porquanto, à medida que se vão depurando, os Espíritos passam a encarnar em mundos cada vez mais perfeitos, até que se tenham despojado totalmente da matéria e lavado de todas as impurezas, para eternamente gozarem da felicidade dos Espíritos puros, no seio de Deus.
-
-Nos mundos onde a existência é menos material do que neste, menos grosseiras são as necessidades e menos agudos os sofrimentos físicos. Lá, os homens desconhecem as paixões más, que, nos mundos inferiores, os fazem inimigos uns dos outros. Nenhum motivo tendo de ódio, ou de ciúme, vivem em paz, porque praticam a lei de justiça, amor e caridade. Não conhecem os aborrecimentos e cuidados que nascem da inveja, do orgulho e do egoísmo, causas do tormento da nossa existência terrestre.
 :::
 
-👉🏻 Veja [Q.172](#q172) e [Q.182](#q182)
+::: kardec
+👴🏻 ▸ Nos mundos onde a existência é menos material do que neste, menos grosseiras são as necessidades e menos agudos os sofrimentos físicos. Lá, os homens desconhecem as paixões más, que, nos mundos inferiores, os fazem inimigos uns dos outros. Nenhum motivo tendo de ódio, ou de ciúme, vivem em paz, porque praticam a lei de justiça, amor e caridade. Não conhecem os aborrecimentos e cuidados que nascem da inveja, do orgulho e do egoísmo, causas do tormento da nossa existência terrestre. 👉🏻 Veja [Q.172](#q172) e [Q.182](#q182) ⚜️
+:::
 
 ##### #️⃣ Q.986 {#q986}
 
@@ -1425,7 +1476,11 @@ Pois que os Espíritos veem o mal que lhes resulta de suas imperfeições, como 
 Veem-se Espíritos, de notória inferioridade, acessíveis aos bons sentimentos e sensíveis às preces que por eles se fazem. Como se explica que outros Espíritos, que devêramos supor mais esclarecidos, revelem um endurecimento e um cinismo, dos quais coisa alguma consegue triunfar?
 
 ::: spirit
-✨ ▸ A prece só tem efeito sobre o Espírito que se arrepende. Com relação aos que, impelidos pelo orgulho, se revoltam contra Deus e persistem nos seus desvarios, chegando mesmo a exagerá-los, como o fazem alguns desgraçados Espíritos, a prece nada pode e nada poderá, senão no dia em que um clarão de arrependimento se produza neles. (👉🏻 Veja [Q.664](#q664)) Não se deve perder de vista que o Espírito não se transforma subitamente, após a morte do corpo. Se viveu vida condenável, é porque era imperfeito. Ora, a morte não o torna imediatamente perfeito. Pode, pois, persistir em seus erros, em suas falsas opiniões, em seus preconceitos, até que se haja esclarecido pelo estudo, pela reflexão e pelo sofrimento.
+✨ ▸ A prece só tem efeito sobre o Espírito que se arrepende. Com relação aos que, impelidos pelo orgulho, se revoltam contra Deus e persistem nos seus desvarios, chegando mesmo a exagerá-los, como o fazem alguns desgraçados Espíritos, a prece nada pode e nada poderá, senão no dia em que um clarão de arrependimento se produza neles. (👉🏻 Veja [Q.664](#q664))
+:::
+
+::: kardec
+👴🏻 ▸  Não se deve perder de vista que o Espírito não se transforma subitamente, após a morte do corpo. Se viveu vida condenável, é porque era imperfeito. Ora, a morte não o torna imediatamente perfeito. Pode, pois, persistir em seus erros, em suas falsas opiniões, em seus preconceitos, até que se haja esclarecido pelo estudo, pela reflexão e pelo sofrimento. ⚜️
 :::
 
 ::: expand 🔗
@@ -1659,8 +1714,8 @@ Oh! em verdade vos digo, cessai, cessai de pôr em paralelo, na sua eternidade, 
 **Paulo, apóstolo**
 :::
 
-::: spirit
-✨ ▸ Com o atrativo de recompensas e temor de castigos, procura-se estimular o homem para o bem e desviá-lo do mal. Se esses castigos, porém, lhe são apresentados de forma que a sua razão se recuse a admiti-los, nenhuma influência terão sobre ele. Longe disso, rejeitará tudo: a forma e o fundo. Se, ao contrário, lhe apresentarem o futuro de maneira lógica, ele não o repelirá. O Espiritismo lhe dá essa explicação.
+::: kardec
+👴🏻 ▸  Com o atrativo de recompensas e temor de castigos, procura-se estimular o homem para o bem e desviá-lo do mal. Se esses castigos, porém, lhe são apresentados de forma que a sua razão se recuse a admiti-los, nenhuma influência terão sobre ele. Longe disso, rejeitará tudo: a forma e o fundo. Se, ao contrário, lhe apresentarem o futuro de maneira lógica, ele não o repelirá. O Espiritismo lhe dá essa explicação.
 
 A doutrina da eternidade das penas, em sentido absoluto, faz do Ente supremo um Deus implacável. Seria lógico dizer-se, de um soberano, que é muito bom, muito magnânimo, muito indulgente, que só quer a felicidade dos que o cercam, mas que ao mesmo tempo é cioso, vingativo, de inflexível rigor e que pune com o castigo extremo as três quartas partes dos seus súditos, por uma ofensa ou uma infração de suas leis, mesmo quando praticada pelos que não as conheciam? Não haveria aí contradição? Ora, pode Deus ser menos bom do que o seria um homem.
 
@@ -1668,7 +1723,7 @@ Outra contradição. Pois que Deus tudo sabe, sabia, ao criar uma alma, se esta 
 
 Na linguagem vulgar, a palavra *eterno* é muitas vezes empregada figuradamente, para designar uma coisa de longa duração, cujo termo não se prevê, embora se saiba muito bem que esse termo existe. Dizemos, por exemplo, os gelos eternos das altas montanhas, dos polos, embora saibamos, de um lado, que o mundo físico pode ter fim e, de outro lado, que o estado dessas regiões pode mudar pelo deslocamento normal do eixo da Terra, ou por um cataclismo. Assim, neste caso, o vocábulo *eterno* não quer dizer perpétuo ao infinito. Quando sofremos de uma enfermidade duradoura, dizemos que o nosso mal é eterno. Que há, pois, de admirar em que Espíritos que sofrem há anos, há séculos, há milênios mesmo, assim também se exprimam? Não esqueçamos, principalmente, que, não lhes permitindo a sua inferioridade divisar o ponto extremo do caminho, creem que terão de sofrer sempre, o que lhes é uma punição.
 
-Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra *fogo* é usada figuradamente e que se deve entender como significando ogo moral (👉🏻 Veja [Q.974](#q974)). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra *eterno* se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá.
+Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra *fogo* é usada figuradamente e que se deve entender como significando ogo moral (👉🏻 Veja [Q.974](#q974)). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra *eterno* se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá. ⚜️
 :::
 
 ::: expand 🔗
@@ -1712,9 +1767,10 @@ Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrin
 **São Luís, IX de França**
 :::
 
-Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a matéria e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do fenômeno da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
+::: kardec
+👴🏻 ▸  Efetivamente, a Ciência demonstra a impossibilidade da ressurreição, segundo a ideia vulgar. Se os despojos do corpo humano se conservassem homogêneos, embora dispersos e reduzidos a pó, ainda se conceberia que pudessem reunir-se em dado momento. As coisas, porém, não se passam assim. O corpo é formado de elementos diversos: oxigênio, hidrogênio, azoto, carbono etc. Pela decomposição, esses elementos se dispersam, mas para servir à formação de novos corpos, de tal sorte que uma mesma molécula, de carbono, por exemplo, terá entrado na composição de muitos milhares de corpos diferentes (falamos unicamente dos corpos humanos, sem ter em conta os dos animais); que um indivíduo tem talvez em seu corpo moléculas que já pertenceram a homens das primitivas idades do mundo; que essas mesmas moléculas orgânicas que absorveis nos alimentos provêm, possivelmente, do corpo de tal outro indivíduo que conhecestes e assim por diante. Existindo em quantidade definida a matéria e sendo indefinidas as suas combinações, como poderia cada um daqueles corpos reconstituir-se com os mesmos elementos? Há aí impossibilidade material. Racionalmente, pois, não se pode admitir a ressurreição da carne, senão como uma figura simbólica do fenômeno da reencarnação. E, então, nada mais há que aberre da razão, que esteja em contradição com os dados da Ciência.
 
-É exato que, segundo o dogma, essa ressurreição só no fim dos tempos se dará, ao passo que, segundo a Doutrina Espírita , ocorre todos os dias. Nesse quadro do julgamento final, porém, não haverá uma grande e bela imagem a ocultar, sob o véu da alegoria, uma dessas verdades imutáveis, em presença das quais deixará de haver céticos, desde que lhes seja restituída a verdadeira significação? Dignem-se de meditar a teoria espírita sobre o futuro das almas e sobre a sorte que lhes cabe, por efeito das diferentes provas que lhes cumpre sofrer, e verão que, exceção feita da simultaneidade, o juízo que as condena ou absolve não é uma ficção, como pensam os incrédulos. Notemos mais que aquela teoria é a consequência natural da pluralidade dos mundos, hoje perfeitamente admitida, enquanto, segundo a doutrina do juízo final, a Terra passa por ser o único mundo habitado.
+É exato que, segundo o dogma, essa ressurreição só no fim dos tempos se dará, ao passo que, segundo a Doutrina Espírita , ocorre todos os dias. Nesse quadro do julgamento final, porém, não haverá uma grande e bela imagem a ocultar, sob o véu da alegoria, uma dessas verdades imutáveis, em presença das quais deixará de haver céticos, desde que lhes seja restituída a verdadeira significação? Dignem-se de meditar a teoria espírita sobre o futuro das almas e sobre a sorte que lhes cabe, por efeito das diferentes provas que lhes cumpre sofrer, e verão que, exceção feita da simultaneidade, o juízo que as condena ou absolve não é uma ficção, como pensam os incrédulos. Notemos mais que aquela teoria é a consequência natural da pluralidade dos mundos, hoje perfeitamente admitida, enquanto, segundo a doutrina do juízo final, a Terra passa por ser o único mundo habitado. ⚜️
 :::
 
 ⚓
@@ -1740,7 +1796,8 @@ De acordo, então, com o que vindes de dizer, o inferno e o paraíso não existe
 ::: spirit
 ✨ ▸ São simples alegorias: por toda parte há Espíritos ditosos e inditosos. Entretanto, conforme também já dissemos, os Espíritos de uma mesma ordem se reúnem por simpatia; mas podem reunir-se onde queiram, quando são perfeitos.
 
-A localização absoluta das regiões das penas e das recompensas só na imaginação do homem existe. Provém da sua tendência a *materializar* e *circunscrever* as coisas, cuja essência infinita não lhe é possível compreender.
+::: kardec
+👴🏻 ▸  A localização absoluta das regiões das penas e das recompensas só na imaginação do homem existe. Provém da sua tendência a *materializar* e *circunscrever* as coisas, cuja essência infinita não lhe é possível compreender. ⚜️
 :::
 
 ---
@@ -1751,8 +1808,10 @@ Que se deve entender por purgatório?
 
 ::: spirit
 ✨ ▸ Dores físicas e morais: o tempo da expiação. Quase sempre, na Terra é que fazeis o vosso purgatório e que Deus vos obriga a expiar as vossas faltas.
+:::
 
-O que o homem chama *purgatório* é igualmente uma alegoria, devendo-se entender como tal, não um lugar determinado, porém o estado dos Espíritos imperfeitos, que se acham em expiação até alcançarem a purificação completa, que os elevará à categoria dos Espíritos bem-aventurados. Operando-se essa purificação por meio das diversas encarnações, o purgatório consiste nas provas da vida corporal.
+::: kardec
+👴🏻 ▸  O que o homem chama *purgatório* é igualmente uma alegoria, devendo-se entender como tal, não um lugar determinado, porém o estado dos Espíritos imperfeitos, que se acham em expiação até alcançarem a purificação completa, que os elevará à categoria dos Espíritos bem-aventurados. Operando-se essa purificação por meio das diversas encarnações, o purgatório consiste nas provas da vida corporal.
 :::
 
 ::: expand 🔗
@@ -1819,10 +1878,12 @@ Alguns Espíritos disseram estar habitando o quarto, o quinto céus etc. Que que
 
 ::: spirit
 ✨ ▸ Perguntando-lhes que céu habitam, é que formais ideia de muitos céus dispostos como os andares de uma casa. Eles, então, respondem de acordo com a vossa linguagem. Por estas palavras — quarto e quinto céus —, porém, exprimem diferentes graus de purificação e, por conseguinte, de felicidade. É exatamente como quando se pergunta a um Espírito se está no inferno. Se for desgraçado, dirá — sim, porque, para ele, *inferno* é sinônimo de sofrimento. Sabe, porém, muito bem que não é uma fornalha. Um pagão diria estar no *Tártaro*.
+:::
 
-O mesmo ocorre com outras expressões análogas, tais como: cidade das flores, cidade dos eleitos, primeira, segunda, ou terceira esfera etc., que apenas são alegorias usadas por alguns Espíritos, quer como figuras, quer, algumas vezes, por ignorância da realidade das coisas, e até das mais simples noções científicas.
+::: kardec
+👴🏻 ▸  O mesmo ocorre com outras expressões análogas, tais como: cidade das flores, cidade dos eleitos, primeira, segunda, ou terceira esfera etc., que apenas são alegorias usadas por alguns Espíritos, quer como figuras, quer, algumas vezes, por ignorância da realidade das coisas, e até das mais simples noções científicas.
 
-De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das recompensas e, sobretudo, de acordo com a opinião de que a Terra era o centro do Universo, de que o firmamento formava uma abóbada e que havia uma região das estrelas, *o céu era situado no alto e o inferno embaixo*. Daí as expressões: subir ao céu, estar no mais alto dos céus, ser precipitado nos infernos. Hoje, que a Ciência demonstrou ser a Terra apenas, entre tantos milhões de outros, um dos menores mundos, sem importância especial; que traçou a história da sua formação e lhe descreveu a constituição; que provou ser infinito o Espaço, não haver alto nem baixo no Universo, teve-se que renunciar a situar o céu acima das nuvens e o inferno nos lugares inferiores. Quanto ao purgatório, nenhum lugar lhe fora designado. Estava reservado ao Espiritismo dar de tudo isso a explicação mais racional, mais grandiosa e, ao mesmo tempo, mais consoladora para a Humanidade. Pode-se assim dizer que trazemos em nós mesmos o nosso inferno e o nosso paraíso. O purgatório, achamo-lo na encarnação, nas vidas corporais ou físicas.
+De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das recompensas e, sobretudo, de acordo com a opinião de que a Terra era o centro do Universo, de que o firmamento formava uma abóbada e que havia uma região das estrelas, *o céu era situado no alto e o inferno embaixo*. Daí as expressões: subir ao céu, estar no mais alto dos céus, ser precipitado nos infernos. Hoje, que a Ciência demonstrou ser a Terra apenas, entre tantos milhões de outros, um dos menores mundos, sem importância especial; que traçou a história da sua formação e lhe descreveu a constituição; que provou ser infinito o Espaço, não haver alto nem baixo no Universo, teve-se que renunciar a situar o céu acima das nuvens e o inferno nos lugares inferiores. Quanto ao purgatório, nenhum lugar lhe fora designado. Estava reservado ao Espiritismo dar de tudo isso a explicação mais racional, mais grandiosa e, ao mesmo tempo, mais consoladora para a Humanidade. Pode-se assim dizer que trazemos em nós mesmos o nosso inferno e o nosso paraíso. O purgatório, achamo-lo na encarnação, nas vidas corporais ou físicas. ⚜️
 :::
 
 ::: expand 🔗

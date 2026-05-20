@@ -64,12 +64,14 @@ Dado é ao homem aprofundar umas e outras?
 
 ::: spirit
 ✨ ▸ É, mas uma única existência não lhe basta para isso.
+:::
 
-Efetivamente, que são alguns anos para a aquisição de tudo o de que precisa o ser, a fim de se considerar perfeito, embora apenas se tenha em conta a distância que vai do selvagem ao homem civilizado? Insuficiente seria, para tanto, a existência mais longa que se possa imaginar. Ainda com mais forte razão o será quando curta, como é para a maior parte dos homens.
+::: kardec
+👴🏻 ▸ Efetivamente, que são alguns anos para a aquisição de tudo o de que precisa o ser, a fim de se considerar perfeito, embora apenas se tenha em conta a distância que vai do selvagem ao homem civilizado? Insuficiente seria, para tanto, a existência mais longa que se possa imaginar. Ainda com mais forte razão o será quando curta, como é para a maior parte dos homens.
 
 Entre as leis divinas, umas regulam o movimento e as relações da matéria bruta: as leis físicas, cujo estudo pertence ao domínio da Ciência.
 
-As outras dizem respeito especialmente ao homem considerado em si mesmo e nas suas relações com Deus e com seus semelhantes. Contêm as regras da vida do corpo, bem como as da vida da alma: são as leis morais.
+As outras dizem respeito especialmente ao homem considerado em si mesmo e nas suas relações com Deus e com seus semelhantes. Contêm as regras da vida do corpo, bem como as da vida da alma: são as leis morais. ⚜️
 :::
 
 ::: expand 🔗
@@ -101,8 +103,10 @@ A todos os homens facultou Deus os meios de conhecerem sua Lei?
 
 ::: spirit
 ✨ ▸ Todos podem conhecê-la, mas nem todos a compreendem. Os homens de bem e os que se decidem a investigá-la são os que melhor a compreendem. Todos, entretanto, a compreenderão um dia, porquanto forçoso é que o progresso se efetue.
+:::
 
-A justiça das diversas encarnações do homem é uma consequência deste princípio, pois que, em cada nova existência, sua inteligência se acha mais desenvolvida e ele compreende melhor o que é bem e o que é mal. Se numa só existência tudo lhe devesse ficar ultimado, qual seria a sorte de tantos milhões de seres que morrem todos os dias no embrutecimento da selvageria, ou nas trevas da ignorância, sem que deles tenha dependido o se instruírem?
+::: kardec
+👴🏻 ▸ A justiça das diversas encarnações do homem é uma consequência deste princípio, pois que, em cada nova existência, sua inteligência se acha mais desenvolvida e ele compreende melhor o que é bem e o que é mal. Se numa só existência tudo lhe devesse ficar ultimado, qual seria a sorte de tantos milhões de seres que morrem todos os dias no embrutecimento da selvageria, ou nas trevas da ignorância, sem que deles tenha dependido o se instruírem? ⚜️
 :::
 
 ---
@@ -203,8 +207,10 @@ Qual o tipo mais perfeito que Deus tem oferecido ao homem, para lhe servir de gu
 ✨ ▸ Jesus.
 
 Para o homem, Jesus constitui o tipo da perfeição moral a que a Humanidade pode aspirar na Terra. Deus no-lo oferece como o mais perfeito modelo e a doutrina que ensinou é a expressão mais pura da Lei do Senhor, porque, sendo Ele o mais puro de quantos têm aparecido na Terra, o Espírito divino o animava.
+:::
 
-Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, ensinando-lhe falsos princípios, isso aconteceu por haverem deixado que os dominassem sentimentos demasiado terrenos e por terem confundido as leis que regulam as condições da vida da alma, com as que regem a vida do corpo. Muitos hão apresentado como leis divinas simples leis humanas estatuídas para servir às paixões e dominar os homens.
+::: kardec
+👴🏻 ▸ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, ensinando-lhe falsos princípios, isso aconteceu por haverem deixado que os dominassem sentimentos demasiado terrenos e por terem confundido as leis que regulam as condições da vida da alma, com as que regem a vida do corpo. Muitos hão apresentado como leis divinas simples leis humanas estatuídas para servir às paixões e dominar os homens. ⚜️
 :::
 
 ::: expand 🔗
@@ -313,6 +319,7 @@ Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e d
 
 ::: spirit
 ✨ ▸ Jesus disse:
+:::
 
 ::: bible
 ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.*
@@ -357,8 +364,10 @@ Das diferentes posições sociais nascem necessidades que não são idênticas p
 
 ::: spirit
 ✨ ▸ Essas diferentes posições são da natureza das coisas e conformes a lei do progresso. Isso não infirma a unidade da lei natural, que se aplica a tudo.
+:::
 
-As condições de existência do homem mudam de acordo com os tempos e os lugares, do que lhe resultam necessidades diferentes e posições sociais apropriadas a essas necessidades. Pois que está na ordem das coisas, tal diversidade é conforme a Lei de Deus, lei que não deixa de ser una quanto ao seu princípio. À razão cabe distinguir as necessidades reais das factícias ou convencionais.
+::: kardec
+👴🏻 ▸ As condições de existência do homem mudam de acordo com os tempos e os lugares, do que lhe resultam necessidades diferentes e posições sociais apropriadas a essas necessidades. Pois que está na ordem das coisas, tal diversidade é conforme a Lei de Deus, lei que não deixa de ser una quanto ao seu princípio. À razão cabe distinguir as necessidades reais das factícias ou convencionais. ⚜️
 :::
 
 ::: expand 🔗
@@ -389,8 +398,10 @@ Será culpado o selvagem que, cedendo ao seu instinto, se nutre de carne humana?
 
 ::: spirit
 ✨ ▸ Eu disse que o mal depende da vontade. Pois bem! Tanto mais culpado é o homem, quanto melhor sabe o que faz.
+:::
 
-As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete o homem faltas, que, nem por serem consequência da posição em que a sociedade o colocou, se tornam menos repreensíveis. A responsabilidade do homem é proporcionada aos meios de que ele dispõe para compreender o bem e o mal. Assim, mais culpado é, aos olhos de Deus, o homem instruído que pratica uma simples injustiça, do que o selvagem ignorante que se entrega aos seus instintos.
+::: kardec
+👴🏻 ▸ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete o homem faltas, que, nem por serem consequência da posição em que a sociedade o colocou, se tornam menos repreensíveis. A responsabilidade do homem é proporcionada aos meios de que ele dispõe para compreender o bem e o mal. Assim, mais culpado é, aos olhos de Deus, o homem instruído que pratica uma simples injustiça, do que o selvagem ignorante que se entrega aos seus instintos. ⚜️
 :::
 
 ::: expand 🔗
@@ -523,6 +534,7 @@ Estará subordinado a determinadas condições o mérito do bem que se pratique?
 
 ::: spirit
 ✨ ▸ O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra, disse-o Jesus, a propósito do óbolo da viúva.
+:::
 
 ::: bible
 ✝️ ▸ **Marcos, cap. 12, vers. 41.44 e Lucas, cap. 21, vers. 1.4, ARC**
@@ -788,8 +800,10 @@ Pode-se, com utilidade, orar por outrem?
 
 ::: spirit
 ✨ ▸ O Espírito de quem ora atua pela sua vontade de praticar o bem. Atrai a si, mediante a prece, os bons Espíritos e estes se associam ao bem que deseje fazer.
+:::
 
-O pensamento e a vontade representam em nós um poder de ação que alcança muito além dos limites da nossa esfera corporal. A prece que façamos por outrem é um ato dessa vontade. Se for ardente e sincera, pode chamar, em auxílio daquele por quem oramos, os bons Espíritos, que lhe virão sugerir bons pensamentos e dar a força de que necessitem seu corpo e sua alma. Ainda aqui, a prece do coração é tudo, a dos lábios nada vale.
+::: kardec
+👴🏻 ▸ O pensamento e a vontade representam em nós um poder de ação que alcança muito além dos limites da nossa esfera corporal. A prece que façamos por outrem é um ato dessa vontade. Se for ardente e sincera, pode chamar, em auxílio daquele por quem oramos, os bons Espíritos, que lhe virão sugerir bons pensamentos e dar a força de que necessitem seu corpo e sua alma. Ainda aqui, a prece do coração é tudo, a dos lábios nada vale. ⚜️
 :::
 
 ::: expand 🔗
@@ -850,6 +864,7 @@ Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por
 **Mateus, cap. 22, vers. 39, ARC**
 :::
 
+::: spirit
 Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas *só* então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
 :::
 
@@ -896,10 +911,12 @@ Tendo-se produzido em todos os tempos e sendo conhecidos desde as primeiras idad
 
 ::: spirit
 ✨ ▸ Sem dúvida, porquanto, chamando *deus* a tudo o que era sobre-humano, os homens tinham por deuses os Espíritos. Daí veio que, quando um homem, pelas suas ações, pelo seu gênio, ou por um poder oculto que o vulgo não lograva compreender, se distinguia dos demais, faziam dele um deus e, por sua morte, lhe rendiam culto. (👉🏻 Veja [Q.603](#q603)).
+:::
 
-A palavra *deus* tinha, entre os Antigos, acepção muito ampla. Não indicava, como presentemente, uma personificação do Senhor da Natureza. Era uma qualificação genérica, que se dava a todo ser existente fora das condições da Humanidade. Ora, tendo-lhes as manifestações espíritas revelado a existência de seres incorpóreos a atuarem como potência da Natureza, a esses seres deram eles o nome de *deuses*, como lhes damos atualmente o de *Espíritos*. Pura questão de palavras, com a única diferença de que, na ignorância em que se achavam, mantida intencionalmente pelos que nisso tinham interesse, eles erigiram templos e altares muito lucrativos a tais deuses, ao passo que hoje os consideramos simples criaturas como nós, mais ou menos perfeitas e despidas de seus invólucros terrestres. Se estudarmos atentamente os diversos atributos das divindades pagãs, reconheceremos, sem esforço, todos os de que vemos dotados os Espíritos nos diferentes graus da escala espírita, o estado físico em que se encontram nos mundos superiores, todas as propriedades do perispírito e os papéis que desempenham nas coisas da Terra.
+::: kardec
+👴🏻 ▸ A palavra *deus* tinha, entre os Antigos, acepção muito ampla. Não indicava, como presentemente, uma personificação do Senhor da Natureza. Era uma qualificação genérica, que se dava a todo ser existente fora das condições da Humanidade. Ora, tendo-lhes as manifestações espíritas revelado a existência de seres incorpóreos a atuarem como potência da Natureza, a esses seres deram eles o nome de *deuses*, como lhes damos atualmente o de *Espíritos*. Pura questão de palavras, com a única diferença de que, na ignorância em que se achavam, mantida intencionalmente pelos que nisso tinham interesse, eles erigiram templos e altares muito lucrativos a tais deuses, ao passo que hoje os consideramos simples criaturas como nós, mais ou menos perfeitas e despidas de seus invólucros terrestres. Se estudarmos atentamente os diversos atributos das divindades pagãs, reconheceremos, sem esforço, todos os de que vemos dotados os Espíritos nos diferentes graus da escala espírita, o estado físico em que se encontram nos mundos superiores, todas as propriedades do perispírito e os papéis que desempenham nas coisas da Terra.
 
-Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs destruir uma coisa que está na Natureza. Orientou, porém, a adoração para aquele a quem é devida. Quanto aos Espíritos, a lembrança deles se há perpetuado, conforme os povos, sob diversos nomes, e suas manifestações, que nunca deixaram de produzir-se, foram interpretadas de maneiras diferentes e muitas vezes exploradas sob o prestígio do mistério. Enquanto para a religião essas manifestações eram fenônemo miraculosos, para os incrédulos sempre foram embustes. Hoje, mercê de um estudo mais sério, feito à luz meridiana, o Espiritismo, escoimado das ideias supersticiosas que o ensombraram durante séculos, nos revela um dos maiores e mais sublimes princípios da Natureza.
+Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs destruir uma coisa que está na Natureza. Orientou, porém, a adoração para aquele a quem é devida. Quanto aos Espíritos, a lembrança deles se há perpetuado, conforme os povos, sob diversos nomes, e suas manifestações, que nunca deixaram de produzir-se, foram interpretadas de maneiras diferentes e muitas vezes exploradas sob o prestígio do mistério. Enquanto para a religião essas manifestações eram fenônemo miraculosos, para os incrédulos sempre foram embustes. Hoje, mercê de um estudo mais sério, feito à luz meridiana, o Espiritismo, escoimado das ideias supersticiosas que o ensombraram durante séculos, nos revela um dos maiores e mais sublimes princípios da Natureza. ⚜️
 :::
 
 ::: expand 🔗
@@ -1202,8 +1219,10 @@ Então, que há de fazer o velho que precisa trabalhar para viver e não pode?
 
 ::: spirit
 ✨ ▸ O forte deve trabalhar para o fraco. Não tendo este família, a sociedade deve fazer as vezes desta. É a lei de caridade.
+:::
 
-Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que aquele que tem de prover à sua existência por meio do trabalho encontre em que se ocupar, o que nem sempre acontece. Quando se generaliza, a suspensão do trabalho assume as proporções de um flagelo, qual a miséria. A ciência econômica procura remédio para isso no equilíbrio entre a produção e o consumo. Esse equilíbrio, porém, dado seja possível estabelecer-se, sofrerá sempre intermitências, durante as quais não deixa o trabalhador de ter que viver. Há um elemento, que se não costuma fazer pesar na balança e sem o qual a ciência econômica não passa de simples teoria. Esse elemento é a *educação*, não a educação intelectual, mas a educação moral. Não nos referimos, porém, à educação moral pelos livros e sim à que consiste na *arte de formar os caracteres*, à que *incute* *hábitos*, porquanto *a educação é o conjunto dos hábitos adquiridos*. Considerando-se a aluvião de indivíduos que todos os dias são lançados na torrente da população, sem princípios, sem freio e entregues a seus próprios instintos, serão de espantar as consequências desastrosas que daí decorrem? Quando essa arte for conhecida, compreendida e praticada, o homem terá no mundo hábitos de *ordem e de previdência* para consigo mesmo e para com os seus, *de respeito a tudo o que é respeitável*, hábitos que lhe permitirão atravessar menos penosamente os maus dias inevitáveis. A desordem e a imprevidência são duas chagas que só uma educação bem entendida pode curar. Esse o ponto de partida, o elemento real do bem-estar, o penhor da segurança de todos.
+::: kardec
+👴🏻 ▸ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que aquele que tem de prover à sua existência por meio do trabalho encontre em que se ocupar, o que nem sempre acontece. Quando se generaliza, a suspensão do trabalho assume as proporções de um flagelo, qual a miséria. A ciência econômica procura remédio para isso no equilíbrio entre a produção e o consumo. Esse equilíbrio, porém, dado seja possível estabelecer-se, sofrerá sempre intermitências, durante as quais não deixa o trabalhador de ter que viver. Há um elemento, que se não costuma fazer pesar na balança e sem o qual a ciência econômica não passa de simples teoria. Esse elemento é a *educação*, não a educação intelectual, mas a educação moral. Não nos referimos, porém, à educação moral pelos livros e sim à que consiste na *arte de formar os caracteres*, à que *incute* *hábitos*, porquanto *a educação é o conjunto dos hábitos adquiridos*. Considerando-se a aluvião de indivíduos que todos os dias são lançados na torrente da população, sem princípios, sem freio e entregues a seus próprios instintos, serão de espantar as consequências desastrosas que daí decorrem? Quando essa arte for conhecida, compreendida e praticada, o homem terá no mundo hábitos de *ordem e de previdência* para consigo mesmo e para com os seus, *de respeito a tudo o que é respeitável*, hábitos que lhe permitirão atravessar menos penosamente os maus dias inevitáveis. A desordem e a imprevidência são duas chagas que só uma educação bem entendida pode curar. Esse o ponto de partida, o elemento real do bem-estar, o penhor da segurança de todos. ⚜️
 :::
 
 ::: expand 🔗
@@ -1393,8 +1412,10 @@ Que efeito teria sobre a sociedade humana a abolição do casamento?
 
 ::: spirit
 ✨ ▸ Seria uma regressão à vida dos animais.
+:::
 
-O estado de natureza é o da união livre e fortuita dos sexos. O casamento constitui um dos primeiros atos de progresso nas sociedades humanas, porque estabelece a solidariedade fraterna e se observa entre todos os povos, se bem que em condições diversas. A abolição do casamento seria, pois, regredir à infância da Humanidade e colocaria o homem abaixo mesmo de certos animais que lhe dão o exemplo de uniões constantes.
+::: kardec
+👴🏻 ▸ O estado de natureza é o da união livre e fortuita dos sexos. O casamento constitui um dos primeiros atos de progresso nas sociedades humanas, porque estabelece a solidariedade fraterna e se observa entre todos os povos, se bem que em condições diversas. A abolição do casamento seria, pois, regredir à infância da Humanidade e colocaria o homem abaixo mesmo de certos animais que lhe dão o exemplo de uniões constantes. ⚜️
 :::
 
 ::: expand 🔗
@@ -1438,8 +1459,10 @@ Da parte de certas pessoas, o celibato não será um sacrifício que fazem com o
 
 ::: spirit
 ✨ ▸ Isso é muito diferente. Eu disse: por egoísmo. Todo sacrifício pessoal é meritório, quando feito para o bem. Quanto maior o sacrifício, tanto maior o mérito.
+:::
 
-Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fez. Nenhum mérito, portanto, pode haver na violação da sua lei. Se o celibato, em si mesmo, não é um estado meritório, outro tanto não se dá quando constitui, pela renúncia, às alegrias da família, um sacrifício praticado em prol da Humanidade. Todo sacrifício pessoal, tendo em vista o bem *e sem qualquer ideia egoísta*, eleva o homem acima da sua condição material.
+::: kardec
+👴🏻 ▸ Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fez. Nenhum mérito, portanto, pode haver na violação da sua lei. Se o celibato, em si mesmo, não é um estado meritório, outro tanto não se dá quando constitui, pela renúncia, às alegrias da família, um sacrifício praticado em prol da Humanidade. Todo sacrifício pessoal, tendo em vista o bem *e sem qualquer ideia egoísta*, eleva o homem acima da sua condição material. ⚜️
 :::
 
 ::: expand 🔗
@@ -1466,10 +1489,12 @@ Qual das duas, a poligamia ou a monogamia, é mais conforme a Lei da Natureza?
 
 ::: spirit
 ✨ ▸ A poligamia é lei humana cuja abolição marca um progresso social. O casamento, segundo as vistas de Deus, tem que se fundar na afeição dos seres que se unem. Na poligamia não há afeição real: há apenas sensualidade.
+:::
 
-Se a poligamia fosse conforme a Lei da Natureza, devera ter possibilidade de tornar-se universal, o que seria materialmente impossível, dada a igualdade numérica dos sexos.
+::: kardec
+👴🏻 ▸ Se a poligamia fosse conforme a Lei da Natureza, devera ter possibilidade de tornar-se universal, o que seria materialmente impossível, dada a igualdade numérica dos sexos.
 
-Deve ser considerada como um uso ou legislação especial apropriada a certos costumes e que o aperfeiçoamento social fez que desaparecesse pouco a pouco.
+Deve ser considerada como um uso ou legislação especial apropriada a certos costumes e que o aperfeiçoamento social fez que desaparecesse pouco a pouco. ⚜️
 :::
 
 ::: expand 🔗
@@ -1555,9 +1580,13 @@ Por bens da Terra unicamente se devem entender os produtos do solo?
 É frequente a certos indivíduos faltarem os meios de subsistência, ainda quando os cerca a abundância. A que se deve atribuir isso?
 
 ::: spirit
-✨ ▸ Ao egoísmo dos homens, que nem sempre fazem o que lhes cumpre. Depois e as mais das vezes, devem-no a si mesmos. Buscai e achareis; estas palavras não querem dizer que, para achar o que deseje, basta que o homem olhe para a terra, mas que lhe é preciso procurá-lo, não com indolência, e sim com ardor e perseverança, sem desanimar ante os obstáculos, que muito amiúde são simples meios de que se utiliza a Providência, para lhe experimentar a constância, a paciência e a firmeza. (👉🏻 Veja [Q.534](#q534)) Se é certo que a civilização multiplica as necessidades, também o é que multiplica as fontes de trabalho e os meios de viver. Forçoso, porém, é convir em que, a tal respeito, muito ainda lhe resta por fazer. Quando ela houver concluído a sua obra, ninguém deverá haver que possa queixar-se de lhe faltar o necessário, a não ser por sua própria culpa. A desgraça, para muitos, provém de enveredarem por uma senda diversa da que a Natureza lhes traçou. É então que lhes falece a inteligência para o bom êxito. Para todos há lugar ao sol, mas com a condição de que cada um ocupe o seu e não o dos outros. A Natureza não pode ser responsável pelos defeitos da organização social, nem pelas consequências da ambição e do amor-próprio.
+✨ ▸ Ao egoísmo dos homens, que nem sempre fazem o que lhes cumpre. Depois e as mais das vezes, devem-no a si mesmos. Buscai e achareis; estas palavras não querem dizer que, para achar o que deseje, basta que o homem olhe para a terra, mas que lhe é preciso procurá-lo, não com indolência, e sim com ardor e perseverança, sem desanimar ante os obstáculos, que muito amiúde são simples meios de que se utiliza a Providência, para lhe experimentar a constância, a paciência e a firmeza. (👉🏻 Veja [Q.534](#q534))
+:::
 
-Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, por esse lado, têm feito os povos mais adiantados. Graças aos louváveis esforços que, juntas, a Filantropia e a Ciência não cessam de despender para melhorar a condição material dos homens e malgrado o crescimento incessante das populações, a insuficiência da produção se acha atenuada, pelo menos em grande parte, e os anos mais calamitosos do presente não se podem de modo algum comparar aos de outrora. A higiene pública, elemento tão essencial da força e da saúde, a higiene pública, que nossos pais não conheceram, é objeto de esclarecida solicitude. O infortúnio e o sofrimento encontram onde se refugiem. Por toda parte a Ciência contribui para acrescer o bem-estar. Poder-se-á dizer que já se haja chegado à perfeição? Oh! não, certamente; mas o que já se fez deixa prever o que, com perseverança, se logrará conseguir, se o homem se mostrar bastante avisado para procurar a sua felicidade nas coisas positivas e sérias e não em utopias que o levam a recuar em vez de fazê-lo avançar.
+::: kardec
+👴🏻 ▸ Se é certo que a civilização multiplica as necessidades, também o é que multiplica as fontes de trabalho e os meios de viver. Forçoso, porém, é convir em que, a tal respeito, muito ainda lhe resta por fazer. Quando ela houver concluído a sua obra, ninguém deverá haver que possa queixar-se de lhe faltar o necessário, a não ser por sua própria culpa. A desgraça, para muitos, provém de enveredarem por uma senda diversa da que a Natureza lhes traçou. É então que lhes falece a inteligência para o bom êxito. Para todos há lugar ao sol, mas com a condição de que cada um ocupe o seu e não o dos outros. A Natureza não pode ser responsável pelos defeitos da organização social, nem pelas consequências da ambição e do amor-próprio.
+
+Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, por esse lado, têm feito os povos mais adiantados. Graças aos louváveis esforços que, juntas, a Filantropia e a Ciência não cessam de despender para melhorar a condição material dos homens e malgrado o crescimento incessante das populações, a insuficiência da produção se acha atenuada, pelo menos em grande parte, e os anos mais calamitosos do presente não se podem de modo algum comparar aos de outrora. A higiene pública, elemento tão essencial da força e da saúde, a higiene pública, que nossos pais não conheceram, é objeto de esclarecida solicitude. O infortúnio e o sofrimento encontram onde se refugiem. Por toda parte a Ciência contribui para acrescer o bem-estar. Poder-se-á dizer que já se haja chegado à perfeição? Oh! não, certamente; mas o que já se fez deixa prever o que, com perseverança, se logrará conseguir, se o homem se mostrar bastante avisado para procurar a sua felicidade nas coisas positivas e sérias e não em utopias que o levam a recuar em vez de fazê-lo avançar. ⚜️
 :::
 
 ::: expand 🔗
@@ -1650,8 +1679,10 @@ Qual o objetivo dessa tentação?
 
 ::: spirit
 ✨ ▸ Desenvolver-lhe a razão, que deve preservá-lo dos excessos.
+:::
 
-Se o homem só fosse instigado a usar dos bens terrenos pela utilidade que têm, sua indiferença houvera talvez comprometido a harmonia do Universo. Deus imprimiu a esse uso o atrativo do prazer, porque assim é o homem impelido ao cumprimento dos desígnios providenciais. Além disso, porém, dando àquele uso esse atrativo, quis Deus também experimentar o homem por meio da tentação, que o arrasta para o abuso, de que deve a razão defendê-lo.
+::: kardec
+👴🏻 ▸ Se o homem só fosse instigado a usar dos bens terrenos pela utilidade que têm, sua indiferença houvera talvez comprometido a harmonia do Universo. Deus imprimiu a esse uso o atrativo do prazer, porque assim é o homem impelido ao cumprimento dos desígnios providenciais. Além disso, porém, dando àquele uso esse atrativo, quis Deus também experimentar o homem por meio da tentação, que o arrasta para o abuso, de que deve a razão defendê-lo. ⚜️
 :::
 
 ::: expand 🔗
@@ -1693,7 +1724,7 @@ Perto da morte física, ou da morte moral?
 :::
 
 ::: kardec
-👴🏻 ▸ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se abaixo do bruto, pois que este sabe deter-se, quando satisfeita a sua necessidade. Abdica da razão que Deus lhe deu por guia e quanto maiores forem seus excessos, tanto maior preponderância confere ele à sua natureza animal sobre a sua natureza espiritual. As doenças, as enfermidades e, ainda, a morte, que resultam do abuso, são, ao mesmo tempo, o castigo à transgressão da Lei de Deus.
+👴🏻 ▸ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se abaixo do bruto, pois que este sabe deter-se, quando satisfeita a sua necessidade. Abdica da razão que Deus lhe deu por guia e quanto maiores forem seus excessos, tanto maior preponderância confere ele à sua natureza animal sobre a sua natureza espiritual. As doenças, as enfermidades e, ainda, a morte, que resultam do abuso, são, ao mesmo tempo, o castigo à transgressão da Lei de Deus. ⚜️
 :::
 
 ::: expand 🔗
@@ -1739,8 +1770,10 @@ Que se há de pensar dos que açambarcam os bens da Terra para se proporcionarem
 
 ::: spirit
 ✨ ▸ Olvidam a Lei de Deus e terão que responder pelas privações que houverem causado aos outros.
+:::
 
-Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilização criou necessidades que o selvagem desconhece e os Espíritos que ditaram os preceitos acima não pretendem que o homem civilizado deva viver como o selvagem. Tudo é relativo, cabendo à razão regrar as coisas. A civilização desenvolve o senso moral e, ao mesmo tempo, o sentimento de caridade, que leva os homens a se prestarem mútuo apoio. Os que vivem à custa das privações dos outros exploram, em seu proveito, os benefícios da civilização. Desta têm apenas o verniz, como muitos há que da religião só têm a máscara.
+::: kardec
+👴🏻 ▸ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilização criou necessidades que o selvagem desconhece e os Espíritos que ditaram os preceitos acima não pretendem que o homem civilizado deva viver como o selvagem. Tudo é relativo, cabendo à razão regrar as coisas. A civilização desenvolve o senso moral e, ao mesmo tempo, o sentimento de caridade, que leva os homens a se prestarem mútuo apoio. Os que vivem à custa das privações dos outros exploram, em seu proveito, os benefícios da civilização. Desta têm apenas o verniz, como muitos há que da religião só têm a máscara. ⚜️
 :::
 
 ::: expand 🔗
@@ -2115,8 +2148,10 @@ Mas nem por isso as vítimas desses flagelos deixam de o ser.
 
 ::: spirit
 ✨ ▸ Se considerásseis a vida qual ela é e quão pouca coisa representa com relação ao infinito, menos importância lhe daríeis. Em outra vida, essas vítimas acharão ampla compensação aos seus sofrimentos, se souberem suportá-los sem murmurar.
+:::
 
-Venha por um flagelo a morte, ou por uma causa comum, ninguém deixa por isso de morrer, desde que haja soado a hora da partida. A única diferença, em caso de flagelo, é que maior número parte ao mesmo tempo. Se, pelo pensamento, pudéssemos elevar-nos de maneira a dominar a Humanidade e a abrangê-la em seu conjunto, esses tão terríveis flagelos não nos pareceriam mais do que passageiras tempestades no destino do mundo.
+::: kardec
+👴🏻 ▸ Venha por um flagelo a morte, ou por uma causa comum, ninguém deixa por isso de morrer, desde que haja soado a hora da partida. A única diferença, em caso de flagelo, é que maior número parte ao mesmo tempo. Se, pelo pensamento, pudéssemos elevar-nos de maneira a dominar a Humanidade e a abrangê-la em seu conjunto, esses tão terríveis flagelos não nos pareceriam mais do que passageiras tempestades no destino do mundo. ⚜️
 :::
 
 ::: expand 🔗
@@ -2162,8 +2197,10 @@ Dado é ao homem conjurar os flagelos que o afligem?
 
 ::: spirit
 ✨ ▸ Em parte, é; não, porém, como geralmente o entendem. Muitos flagelos resultam da imprevidência do homem. À medida que adquire conhecimentos e experiência, ele os vai podendo conjurar, isto é, prevenir, se lhes sabe pesquisar as causas. Contudo, entre os males que afligem a Humanidade, alguns há de caráter geral, que estão nos decretos da Providência e dos quais cada indivíduo recebe, mais ou menos, o contragolpe. A esses nada pode o homem opor, a não ser sua submissão à vontade de Deus. Esses mesmos males, entretanto, ele muitas vezes os agrava pela sua negligência.
+:::
 
-Na primeira linha dos flagelos destruidores, naturais e independentes do homem, devem ser colocadas a peste, a fome, as inundações e as intempéries fatais às produções da terra. Não tem, porém, o homem encontrado na Ciência, nas obras de arte, no aperfeiçoamento da agricultura, nos afolhamentos e nas irrigações, no estudo das condições higiênicas, meios de impedir, ou, quando menos, de atenuar muitos desastres? Certas regiões, outrora assoladas por terríveis flagelos, não estão hoje preservadas deles? Que não fará, portanto, o homem pelo seu bem-estar material, quando souber aproveitar-se de todos os recursos da sua inteligência e quando, aos cuidados da sua conservação pessoal, souber aliar o sentimento de verdadeira caridade para com os seus semelhantes?
+::: kardec
+👴🏻 ▸ Na primeira linha dos flagelos destruidores, naturais e independentes do homem, devem ser colocadas a peste, a fome, as inundações e as intempéries fatais às produções da terra. Não tem, porém, o homem encontrado na Ciência, nas obras de arte, no aperfeiçoamento da agricultura, nos afolhamentos e nas irrigações, no estudo das condições higiênicas, meios de impedir, ou, quando menos, de atenuar muitos desastres? Certas regiões, outrora assoladas por terríveis flagelos, não estão hoje preservadas deles? Que não fará, portanto, o homem pelo seu bem-estar material, quando souber aproveitar-se de todos os recursos da sua inteligência e quando, aos cuidados da sua conservação pessoal, souber aliar o sentimento de verdadeira caridade para com os seus semelhantes? ⚜️
 :::
 
 ::: expand 🔗
@@ -2446,8 +2483,10 @@ E quando as probabilidades são as mesmas para ambos os duelistas, haverá assas
 
 ::: spirit
 ✨ ▸ Um e outro.
+:::
 
-Em todos os casos, mesmo quando as probabilidades são idênticas para ambos os combatentes, o duelista incorre em culpa, primeiro, porque atenta friamente e de propósito deliberado contra a vida de seu semelhante; depois, porque expõe inutilmente a sua própria vida, sem proveito para ninguém.
+::: kardec
+👴🏻 ▸ Em todos os casos, mesmo quando as probabilidades são idênticas para ambos os combatentes, o duelista incorre em culpa, primeiro, porque atenta friamente e de propósito deliberado contra a vida de seu semelhante; depois, porque expõe inutilmente a sua própria vida, sem proveito para ninguém. ⚜️
 :::
 
 ::: expand 🔗
@@ -2477,8 +2516,10 @@ Mas não há casos em que a honra se acha verdadeiramente empenhada e em que uma
 
 ::: spirit
 ✨ ▸ Isso depende dos usos e costumes. Cada país e cada século tem a esse respeito um modo de ver diferente. Quando os homens forem melhores e estiverem mais adiantados em moral, compreenderão que o verdadeiro ponto de honra está acima das paixões terrenas e que não é matando, nem se deixando matar, que repararão agravos.
+:::
 
-Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu alguma falta, ou em perdoar, se de seu lado esteja a razão, e, qualquer que seja o caso, em desprezar os insultos, que o não podem atingir.
+::: kardec
+👴🏻 ▸ Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu alguma falta, ou em perdoar, se de seu lado esteja a razão, e, qualquer que seja o caso, em desprezar os insultos, que o não podem atingir. ⚜️
 :::
 
 ::: expand 🔗
@@ -2496,8 +2537,10 @@ Desaparecerá algum dia, da legislação humana, a pena de morte?
 
 ::: spirit
 ✨ ▸ Incontestavelmente desaparecerá e a sua supressão assinalará um progresso da Humanidade. Quando os homens estiverem mais esclarecidos, a pena de morte será completamente abolida na Terra. Não mais precisarão os homens de ser julgados pelos homens. Refiro-me a uma época ainda muito distante de vós.
+:::
 
-Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto para com a sociedade moderna, no seio dos povos mais adiantados, quem não visse um progresso nas restrições postas à pena de morte e à natureza dos crimes a que a sua aplicação se acha limitada. Se, entre esses mesmos povos, compararmos as garantias de que a justiça procura cercar o acusado, a humanidade de que usa para com ele, mesmo quando o reconhece culpado, com o que se praticava em tempos que ainda não vão muito longe, não poderemos negar o avanço do gênero humano na senda do progresso.
+::: kardec
+👴🏻 ▸ Sem dúvida, o progresso social ainda muito deixa a desejar, mas seria injusto para com a sociedade moderna, no seio dos povos mais adiantados, quem não visse um progresso nas restrições postas à pena de morte e à natureza dos crimes a que a sua aplicação se acha limitada. Se, entre esses mesmos povos, compararmos as garantias de que a justiça procura cercar o acusado, a humanidade de que usa para com ele, mesmo quando o reconhece culpado, com o que se praticava em tempos que ainda não vão muito longe, não poderemos negar o avanço do gênero humano na senda do progresso. ⚜️
 :::
 
 ---
@@ -2561,6 +2604,7 @@ Estas palavras não consagram a pena de talião e, assim, a morte dada ao assass
 
 ::: spirit
 ✨ ▸ Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, *como acerca de outras*. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, *nesta existência ou em outra*. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também:
+:::
 
 ::: bible
 ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.*
@@ -2568,7 +2612,9 @@ Estas palavras não consagram a pena de talião e, assim, a morte dada ao assass
 **Mateus, cap. 06, vers. 14, ARC**
 :::
 
+::: spirit
 E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, *na mesma proporção* em que houverdes perdoado, compreendei-o bem?
+:::
 
 ##### #️⃣ Q.765 {#q765}
 
@@ -2624,8 +2670,10 @@ Procurando a sociedade, não fará o homem mais do que obedecer a um sentimento 
 
 ::: spirit
 ✨ ▸ O homem tem que progredir. Insulado, não lhe é isso possível, por não dispor de todas as faculdades. Falta-lhe o contato com os outros homens. No insulamento, ele se embrutece e estiola.
+:::
 
-Homem nenhum possui faculdades completas. Mediante a união social é que elas umas às outras se completam, para lhe assegurarem o bem-estar e o progresso. Por isso é que, precisando uns dos outros, os homens foram feitos para viver em sociedade e não insulados.
+::: kardec
+👴🏻 ▸ Homem nenhum possui faculdades completas. Mediante a união social é que elas umas às outras se completam, para lhe assegurarem o bem-estar e o progresso. Por isso é que, precisando uns dos outros, os homens foram feitos para viver em sociedade e não insulados. ⚜️
 :::
 
 ::: expand 🔗
@@ -2713,8 +2761,10 @@ Que pensar do voto de silêncio prescrito por algumas seitas, desde a mais remot
 
 ::: spirit
 ✨ ▸ Perguntai, antes, a vós mesmos se a palavra é faculdade natural e por que Deus a concedeu ao homem. Deus condena o abuso e não o uso das faculdades que lhe outorgou. Entretanto, o silêncio é útil, pois no silêncio pões em prática o recolhimento; teu espírito se torna mais livre e pode entrar em comunicação conosco. O *voto* de silêncio, porém, é uma tolice. Sem dúvida obedecem a boa intenção os que consideram essas privações como atos de virtude. Enganam-se, no entanto, porque não compreendem suficientemente as verdadeiras Leis de Deus.
+:::
 
-O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o homem das relações sociais que lhe podem facultar ocasiões de fazer o bem e de cumprir a lei do progresso.
+::: kardec
+👴🏻 ▸ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o homem das relações sociais que lhe podem facultar ocasiões de fazer o bem e de cumprir a lei do progresso. ⚜️
 :::
 
 ::: expand 🔗
@@ -2779,8 +2829,10 @@ Serão coisas idênticas o estado de natureza e a lei natural?
 
 ::: spirit
 ✨ ▸ Não, o estado de natureza é o estado primitivo. A civilização é incompatível com o estado de natureza, ao passo que a lei natural contribui para o progresso da Humanidade.
+:::
 
-O estado de natureza é a infância da Humanidade e o ponto de partida do seu desenvolvimento intelectual e moral. Sendo perfectível e trazendo em si o gérmen do seu aperfeiçoamento, o homem não foi destinado a viver perpetuamente no estado de natureza, como não o foi a viver eternamente na infância. Aquele estado é transitório para o homem, que dele sai por virtude do progresso e da civilização. A lei natural, ao contrário, rege a Humanidade inteira e o homem se melhora à medida que melhor a compreende e pratica.
+::: kardec
+👴🏻 ▸ O estado de natureza é a infância da Humanidade e o ponto de partida do seu desenvolvimento intelectual e moral. Sendo perfectível e trazendo em si o gérmen do seu aperfeiçoamento, o homem não foi destinado a viver perpetuamente no estado de natureza, como não o foi a viver eternamente na infância. Aquele estado é transitório para o homem, que dele sai por virtude do progresso e da civilização. A lei natural, ao contrário, rege a Humanidade inteira e o homem se melhora à medida que melhor a compreende e pratica. ⚜️
 :::
 
 ---
@@ -2896,8 +2948,10 @@ Que se deve pensar dos que tentam deter a marcha do progresso e fazer que a Huma
 
 ::: spirit
 ✨ ▸ Pobres seres, que Deus castigará! Serão levados de roldão pela torrente que procuram deter.
+:::
 
-Sendo o progresso uma condição da natureza humana, não está no poder do homem opor-se-lhe. É uma *força viva*, cuja ação pode ser retardada, porém não anulada, por leis humanas más. Quando estas se tornam incompatíveis com ele, despedaça-as juntamente com os que se esforcem por mantê-las. Assim será, até que o homem tenha posto suas leis em concordância com a Justiça divina, que quer que todos participem do bem e não a vigência de leis feitas pelo forte em detrimento do fraco.
+::: kardec
+👴🏻 ▸ Sendo o progresso uma condição da natureza humana, não está no poder do homem opor-se-lhe. É uma *força viva*, cuja ação pode ser retardada, porém não anulada, por leis humanas más. Quando estas se tornam incompatíveis com ele, despedaça-as juntamente com os que se esforcem por mantê-las. Assim será, até que o homem tenha posto suas leis em concordância com a Justiça divina, que quer que todos participem do bem e não a vigência de leis feitas pelo forte em detrimento do fraco. ⚜️
 :::
 
 ::: expand 🔗
@@ -2926,8 +2980,10 @@ Segue sempre marcha progressiva e lenta o aperfeiçoamento da Humanidade?
 
 ::: spirit
 ✨ ▸ Há o progresso regular e lento, que resulta da força das coisas. Quando, porém, um povo não progride tão depressa quanto devera, Deus o sujeita, de tempos a tempos, a um abalo físico ou moral que o transforma.
+:::
 
-O homem não pode conservar-se indefinidamente na ignorância, porque tem de atingir a finalidade que a Providência lhe assinalou. Ele se instrui pela força das coisas. As revoluções morais, como as revoluções sociais, se infiltram nas ideias pouco a pouco; germinam durante séculos; depois, irrompem subitamente e produzem o desmoronamento do carunchoso edifício do passado, que deixou de estar em harmonia com as necessidades novas e com as novas aspirações. Nessas comoções, o homem quase nunca percebe senão a desordem e a confusão momentâneas que o ferem nos seus interesses materiais. Aquele, porém, que eleva o pensamento acima da sua própria personalidade, admira os desígnios da Providência, que do mal faz sair o bem. São a procela, a tempestade que saneiam a atmosfera, depois de a terem agitado violentamente.
+::: kardec
+👴🏻 ▸ O homem não pode conservar-se indefinidamente na ignorância, porque tem de atingir a finalidade que a Providência lhe assinalou. Ele se instrui pela força das coisas. As revoluções morais, como as revoluções sociais, se infiltram nas ideias pouco a pouco; germinam durante séculos; depois, irrompem subitamente e produzem o desmoronamento do carunchoso edifício do passado, que deixou de estar em harmonia com as necessidades novas e com as novas aspirações. Nessas comoções, o homem quase nunca percebe senão a desordem e a confusão momentâneas que o ferem nos seus interesses materiais. Aquele, porém, que eleva o pensamento acima da sua própria personalidade, admira os desígnios da Providência, que do mal faz sair o bem. São a procela, a tempestade que saneiam a atmosfera, depois de a terem agitado violentamente. ⚜️
 :::
 
 ::: expand 🔗
@@ -2956,7 +3012,11 @@ Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto
 Qual o maior obstáculo ao progresso?
 
 ::: spirit
-✨ ▸ O orgulho e o egoísmo. Refiro-me ao progresso moral, porquanto o intelectual se efetua sempre. À primeira vista, parece mesmo que o progresso intelectual reduplica a atividade daqueles vícios, desenvolvendo a ambição e o gosto das riquezas, que, a seu turno, incitam o homem a empreender pesquisas que lhe esclarecem o Espírito. Assim é que tudo se prende, no mundo moral, como no mundo físico, e que do próprio mal pode nascer o bem. Curta, porém, é a duração desse estado de coisas, que mudará à proporção que o homem compreender melhor que, além da que o gozo dos bens terrenos proporciona, uma felicidade existe maior e infinitamente mais duradoura. (👉🏻 Veja *O egoísmo*) Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas que, no entanto, não marcham lado a lado: o progresso intelectual e o progresso moral. Entre os povos civilizados, o primeiro tem recebido, no correr deste século, todos os incentivos. Por isso mesmo atingiu um grau a que ainda não chegara antes da época atual. Muito falta para que o segundo se ache no mesmo nível. Entretanto, comparando-se os costumes sociais de hoje com os de alguns séculos atrás, só um cego negaria o progresso realizado. Ora, sendo assim, por que haveria essa marcha ascendente de parar, com relação, de preferência, ao moral, do que com relação ao intelectual? Por que será impossível que entre o século XIX e o século XXIV haja, a esse respeito, tanta diferença quanta entre o século XIV e o século XIX? Duvidar fora pretender que a Humanidade está no apogeu da perfeição, o que seria absurdo, ou que ela não é perfectível moralmente, o que a experiência desmente.
+✨ ▸ O orgulho e o egoísmo. Refiro-me ao progresso moral, porquanto o intelectual se efetua sempre. À primeira vista, parece mesmo que o progresso intelectual reduplica a atividade daqueles vícios, desenvolvendo a ambição e o gosto das riquezas, que, a seu turno, incitam o homem a empreender pesquisas que lhe esclarecem o Espírito. Assim é que tudo se prende, no mundo moral, como no mundo físico, e que do próprio mal pode nascer o bem. Curta, porém, é a duração desse estado de coisas, que mudará à proporção que o homem compreender melhor que, além da que o gozo dos bens terrenos proporciona, uma felicidade existe maior e infinitamente mais duradoura. (👉🏻 Veja *O egoísmo*)
+:::
+
+::: kardec
+👴🏻 ▸ Há duas espécies de progresso, que uma a outra se prestam mútuo apoio, mas que, no entanto, não marcham lado a lado: o progresso intelectual e o progresso moral. Entre os povos civilizados, o primeiro tem recebido, no correr deste século, todos os incentivos. Por isso mesmo atingiu um grau a que ainda não chegara antes da época atual. Muito falta para que o segundo se ache no mesmo nível. Entretanto, comparando-se os costumes sociais de hoje com os de alguns séculos atrás, só um cego negaria o progresso realizado. Ora, sendo assim, por que haveria essa marcha ascendente de parar, com relação, de preferência, ao moral, do que com relação ao intelectual? Por que será impossível que entre o século XIX e o século XXIV haja, a esse respeito, tanta diferença quanta entre o século XIV e o século XIX? Duvidar fora pretender que a Humanidade está no apogeu da perfeição, o que seria absurdo, ou que ela não é perfectível moralmente, o que a experiência desmente. ⚜️
 :::
 
 ::: expand 🔗
@@ -2974,8 +3034,10 @@ Mostra-nos a História que muitos povos, depois de abalos que os revolveram prof
 
 ::: spirit
 ✨ ▸ Quando tua casa ameaça ruína, mandas demoli-la e constróis outra mais sólida e mais cômoda. Mas, enquanto esta não se apronta, há perturbação e confusão na tua morada.
+:::
 
-Compreende mais o seguinte: eras pobre e habitavas um casebre; tornando-te rico, deixaste-o, para habitar um palácio. Então, um pobre diabo, como eras antes, vem tomar o lugar que ocupavas e fica muito contente, porque estava sem ter onde se abrigar. Pois bem! aprende que os Espíritos que, encarnados, constituem o povo degenerado não são os que o constituíam ao tempo do seu esplendor. Os de então, tendo-se adiantado, passaram para habitações mais perfeitas e progrediram, enquanto os outros, menos adiantados, tomaram o lugar que ficara vago e que também, a seu turno, terão um dia que deixar.
+::: kardec
+👴🏻 ▸ Compreende mais o seguinte: eras pobre e habitavas um casebre; tornando-te rico, deixaste-o, para habitar um palácio. Então, um pobre diabo, como eras antes, vem tomar o lugar que ocupavas e fica muito contente, porque estava sem ter onde se abrigar. Pois bem! aprende que os Espíritos que, encarnados, constituem o povo degenerado não são os que o constituíam ao tempo do seu esplendor. Os de então, tendo-se adiantado, passaram para habitações mais perfeitas e progrediram, enquanto os outros, menos adiantados, tomaram o lugar que ficara vago e que também, a seu turno, terão um dia que deixar. ⚜️
 :::
 
 ::: expand 🔗
@@ -3049,14 +3111,16 @@ O progresso fará que todos os povos da Terra se achem um dia reunidos, formando
 
 ::: spirit
 ✨ ▸ Uma nação única, não; seria impossível, visto que da diversidade dos climas se originam costumes e necessidades diferentes, que constituem as nacionalidades, tornando indispensáveis sempre leis apropriadas a esses costumes e necessidades. A caridade, porém, desconhece latitudes e não distingue a cor dos homens. Quando, por toda parte, a Lei de Deus servir de base à lei humana, os povos praticarão entre si a caridade, como os indivíduos. Então, viverão felizes e em paz, porque nenhum cuidará de causar dano ao seu vizinho, nem de viver a expensas dele.
+:::
 
-A Humanidade progride, por meio dos indivíduos que pouco a pouco se melhoram e instruem. Quando estes preponderam pelo número, tomam a dianteira e arrastam os outros. De tempos a tempos, surgem no seio dela homens de gênio que lhe dão um impulso; vêm depois, como instrumentos de Deus, os que têm autoridade e, nalguns anos, fazem-na adiantar-se de muitos séculos.
+::: kardec
+👴🏻 ▸ A Humanidade progride, por meio dos indivíduos que pouco a pouco se melhoram e instruem. Quando estes preponderam pelo número, tomam a dianteira e arrastam os outros. De tempos a tempos, surgem no seio dela homens de gênio que lhe dão um impulso; vêm depois, como instrumentos de Deus, os que têm autoridade e, nalguns anos, fazem-na adiantar-se de muitos séculos.
 
 O progresso dos povos também realça a justiça da reencarnação. Louváveis esforços empregam os homens de bem para conseguir que uma nação se adiante, moral e intelectualmente. Transformada, a nação será mais ditosa neste mundo e no outro, concebe-se, mas, durante a sua marcha lenta através dos séculos, milhares de indivíduos morrem todos os dias. Qual a sorte de todos os que sucumbem ao longo do trajeto? Privá-los-á, a sua relativa inferioridade, da felicidade reservada aos que chegam por último? Ou também relativa será a felicidade que lhes cabe? Não é possível que a Justiça divina haja consagrado semelhante injustiça. Com a pluralidade das existências, é igual para todos o direito à felicidade, porque ninguém fica privado do progresso. Podendo, os que viveram ao tempo da barbaria, voltar, na época da civilização, a viver no seio do mesmo povo, ou de outro, é claro que todos tiram proveito da marcha ascensional.
 
 Outra dificuldade, no entanto, apresenta aqui o sistema da unicidade das existências. Segundo este sistema, a alma é criada no momento em que nasce o ser humano. Então, se um homem é mais adiantado do que outro, é que Deus criou para ele uma alma mais adiantada. Por que esse favor? Que merecimento tem esse homem, que não viveu mais do que outro, que talvez haja vivido menos, para ser dotado de uma alma superior? Esta, porém, não é a dificuldade principal. Uma nação passa, em mil anos, da barbaria à civilização. Se os homens vivessem um milênio, conceber-se-ia que, nesse período milenar, tivessem tempo de progredir. Diariamente, porém, morrem criaturas em todas as idades; incessantemente se renovam na face do planeta, de tal sorte que todos os dias aparece uma multidão delas e outra desaparece. Ao cabo de mil anos, já não há naquela nação vestígio de seus antigos habitantes. Contudo, de bárbara, que era, ela se tornou policiada. Que foi o que progrediu? Foram os indivíduos outrora bárbaros? mas esses morreram há muito tempo. Teriam sido os recém-chegados? mas, se suas almas foram criadas no momento em que eles nasceram, essas almas não existiam na época da barbaria e forçoso será então admitir-se que *os esforços que se despendem para civilizar um povo têm o poder, não de melhorar almas imperfeitas, porém de fazer que Deus crie almas mais perfeitas*.
 
-Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As almas vindas no tempo da civilização tiveram sua infância, como todas as outras, *mas já tinham vivido antes* e vêm adiantadas por efeito do progresso realizado anteriormente. Vêm atraídas por um meio que lhes é simpático e que se acha em relação com o estado em que atualmente se encontram. De sorte que, os cuidados dispensados à civilização de um povo não têm como consequência fazer que, de futuro, se criem almas mais perfeitas; têm, sim, o de atrair as que já progrediram, quer tenham vivido no seio do povo que se figura, ao tempo da sua barbaria, quer venham de outra parte. Aqui se nos depara igualmente a chave do progresso da Humanidade inteira. Quando todos os povos estiverem no mesmo nível, no tocante ao sentimento do bem, a Terra será ponto de reunião exclusivamente de bons Espíritos, que viverão fraternalmente unidos. Os maus, sentindo-se aí repelidos e deslocados, irão procurar, em mundos inferiores, o meio que lhes convém, até que sejam dignos de volver ao nosso, então transformado. Da teoria vulgar ainda resulta que os trabalhos de melhoria social só às gerações presentes e futuras aproveitam, sendo de resultados nulos para as gerações passadas, que cometeram o erro de vir muito cedo e que ficam sendo o que podem ser, sobrecarregadas com o peso de seus atos de barbaria. Segundo a Doutrina dos Espíritos, os progressos ulteriores aproveitam igualmente às gerações pretéritas, que voltam a viver em melhores condições e podem assim aperfeiçoar-se no foco da civilização.
+Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As almas vindas no tempo da civilização tiveram sua infância, como todas as outras, *mas já tinham vivido antes* e vêm adiantadas por efeito do progresso realizado anteriormente. Vêm atraídas por um meio que lhes é simpático e que se acha em relação com o estado em que atualmente se encontram. De sorte que, os cuidados dispensados à civilização de um povo não têm como consequência fazer que, de futuro, se criem almas mais perfeitas; têm, sim, o de atrair as que já progrediram, quer tenham vivido no seio do povo que se figura, ao tempo da sua barbaria, quer venham de outra parte. Aqui se nos depara igualmente a chave do progresso da Humanidade inteira. Quando todos os povos estiverem no mesmo nível, no tocante ao sentimento do bem, a Terra será ponto de reunião exclusivamente de bons Espíritos, que viverão fraternalmente unidos. Os maus, sentindo-se aí repelidos e deslocados, irão procurar, em mundos inferiores, o meio que lhes convém, até que sejam dignos de volver ao nosso, então transformado. Da teoria vulgar ainda resulta que os trabalhos de melhoria social só às gerações presentes e futuras aproveitam, sendo de resultados nulos para as gerações passadas, que cometeram o erro de vir muito cedo e que ficam sendo o que podem ser, sobrecarregadas com o peso de seus atos de barbaria. Segundo a Doutrina dos Espíritos, os progressos ulteriores aproveitam igualmente às gerações pretéritas, que voltam a viver em melhores condições e podem assim aperfeiçoar-se no foco da civilização. 👉🏻 Veja [222](#222) ⚜️
 :::
 
 ::: expand 🔗
@@ -3143,10 +3207,12 @@ Por que indícios se pode reconhecer uma civilização completa?
 
 ::: spirit
 ✨ ▸ Reconhecê-la-eis pelo desenvolvimento moral. Credes que estais muito adiantados, porque tendes feito grandes descobertas e obtido maravilhosas invenções; porque vos alojais e vestis melhor do que os selvagens. Todavia, não tereis verdadeiramente o direito de dizer-vos civilizados, senão quando de vossa sociedade houverdes banido os vícios que a desonram e quando viverdes como irmãos, praticando a caridade cristã. Até então, sereis apenas povos esclarecidos, que hão percorrido a primeira fase da civilização.
+:::
 
-A civilização, como todas as coisas, apresenta gradações diversas. Uma civilização incompleta é um estado transitório, que gera males especiais, desconhecidos do homem no estado primitivo. Nem por isso, entretanto, constitui menos um progresso natural, necessário, que traz consigo o remédio para o mal que causa. À medida que a civilização se aperfeiçoa, faz cessar alguns dos males que gerou, males que desaparecerão todos com o progresso moral.
+::: kardec
+👴🏻 ▸ A civilização, como todas as coisas, apresenta gradações diversas. Uma civilização incompleta é um estado transitório, que gera males especiais, desconhecidos do homem no estado primitivo. Nem por isso, entretanto, constitui menos um progresso natural, necessário, que traz consigo o remédio para o mal que causa. À medida que a civilização se aperfeiçoa, faz cessar alguns dos males que gerou, males que desaparecerão todos com o progresso moral.
 
-De duas nações que tenham chegado ao ápice da escala social, somente pode considerar-se a mais civilizada, na legítima acepção do termo, aquela em que exista menos egoísmo, menos cobiça e menos orgulho; em que os hábitos sejam mais intelectuais e morais do que materiais; em que a inteligência possa desenvolver-se com maior liberdade; em que haja mais bondade, boa-fé, benevolência e generosidade recíprocas; em que menos enraizados se mostrem os preconceitos de casta e de nascimento, por isso que tais preconceitos são incompatíveis com o verdadeiro amor do próximo; em que as leis nenhum privilégio consagrem e sejam as mesmas, assim para o último, como para o primeiro; em que com menos parcialidade se exerça a justiça; em que o fraco encontre sempre amparo contra o forte; em que a vida do homem, suas crenças e opiniões sejam melhormente respeitadas; em que exista menor número de desgraçados; enfim, em que todo homem de boa vontade esteja certo de lhe não faltar o necessário.
+De duas nações que tenham chegado ao ápice da escala social, somente pode considerar-se a mais civilizada, na legítima acepção do termo, aquela em que exista menos egoísmo, menos cobiça e menos orgulho; em que os hábitos sejam mais intelectuais e morais do que materiais; em que a inteligência possa desenvolver-se com maior liberdade; em que haja mais bondade, boa-fé, benevolência e generosidade recíprocas; em que menos enraizados se mostrem os preconceitos de casta e de nascimento, por isso que tais preconceitos são incompatíveis com o verdadeiro amor do próximo; em que as leis nenhum privilégio consagrem e sejam as mesmas, assim para o último, como para o primeiro; em que com menos parcialidade se exerça a justiça; em que o fraco encontre sempre amparo contra o forte; em que a vida do homem, suas crenças e opiniões sejam melhormente respeitadas; em que exista menor número de desgraçados; enfim, em que todo homem de boa vontade esteja certo de lhe não faltar o necessário. ⚜️
 :::
 
 ::: expand 🔗
@@ -3176,8 +3242,10 @@ Qual a causa da instabilidade das leis humanas?
 
 ::: spirit
 ✨ ▸ Nas épocas de barbaria, são os mais fortes que fazem as leis e eles as fizeram para si. À proporção que os homens foram compreendendo melhor a justiça, indispensável se tornou a modificação delas. Quanto mais se aproximam da vera justiça, tanto menos instáveis são as leis humanas, isto é, tanto mais estáveis se vão tornando, conforme vão sendo feitas para todos e se identificam com a lei natural.
+:::
 
-A civilização criou necessidades novas para o homem, necessidades relativas à posição social que ele ocupe. Tem-se então que regular, por meio de leis humanas, os direitos e deveres dessa posição. Influenciado, porém, pelas suas paixões, o homem não raro há criado direitos e deveres imaginários, que a lei natural condena e que os povos riscam de seus códigos à medida que progridem. A lei natural é imutável e a mesma para todos; a lei humana é variável e progressiva. Na infância das sociedades, esta só pôde consagrar o direito do mais forte.
+::: kardec
+👴🏻 ▸ A civilização criou necessidades novas para o homem, necessidades relativas à posição social que ele ocupe. Tem-se então que regular, por meio de leis humanas, os direitos e deveres dessa posição. Influenciado, porém, pelas suas paixões, o homem não raro há criado direitos e deveres imaginários, que a lei natural condena e que os povos riscam de seus códigos à medida que progridem. A lei natural é imutável e a mesma para todos; a lei humana é variável e progressiva. Na infância das sociedades, esta só pôde consagrar o direito do mais forte. ⚜️
 :::
 
 ::: expand 🔗
@@ -3227,8 +3295,10 @@ O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como cren�
 
 ::: spirit
 ✨ ▸ Certamente que se tornará crença geral e marcará nova era na história da Humanidade, porque está na natureza e chegou o tempo em que ocupará lugar entre os conhecimentos humanos. Terá, no entanto, que sustentar grandes lutas, mais contra o interesse, do que contra a convicção, porquanto não há como dissimular a existência de pessoas interessadas em combatê-lo, umas por amor-próprio, outras por causas inteiramente materiais. Porém, como virão a ficar insulados, seus contraditores se sentirão forçados a pensar como os demais, sob pena de se tornarem ridículos.
+:::
 
-As ideias só com o tempo se transformam; nunca de súbito. De geração em geração, elas se enfraquecem e acabam por desaparecer, paulatinamente, com os que as professavam, os quais vêm a ser substituídos por outros indivíduos imbuídos de novos princípios, como sucede com as ideias políticas. Vede o paganismo. Não há hoje mais quem professe as ideias religiosas dos tempos pagãos. Todavia, muitos séculos após o advento do Cristianismo, delas ainda restavam vestígios, que somente a completa renovação das raças conseguiu apagar. Assim será com o Espiritismo. Ele progride muito; mas, durante duas ou três gerações, ainda haverá um fermento de incredulidade, que unicamente o tempo aniquilará. Sua marcha, porém, será mais célere que a do Cristianismo, porque o próprio Cristianismo é quem lhe abre o caminho e serve de apoio. O Cristianismo tinha que destruir; o Espiritismo só tem que edificar.
+::: kardec
+👴🏻 ▸ As ideias só com o tempo se transformam; nunca de súbito. De geração em geração, elas se enfraquecem e acabam por desaparecer, paulatinamente, com os que as professavam, os quais vêm a ser substituídos por outros indivíduos imbuídos de novos princípios, como sucede com as ideias políticas. Vede o paganismo. Não há hoje mais quem professe as ideias religiosas dos tempos pagãos. Todavia, muitos séculos após o advento do Cristianismo, delas ainda restavam vestígios, que somente a completa renovação das raças conseguiu apagar. Assim será com o Espiritismo. Ele progride muito; mas, durante duas ou três gerações, ainda haverá um fermento de incredulidade, que unicamente o tempo aniquilará. Sua marcha, porém, será mais célere que a do Cristianismo, porque o próprio Cristianismo é quem lhe abre o caminho e serve de apoio. O Cristianismo tinha que destruir; o Espiritismo só tem que edificar. ⚜️
 :::
 
 ::: expand 🔗
@@ -3312,8 +3382,10 @@ Perante Deus, são iguais todos os homens?
 
 ::: spirit
 ✨ ▸ Sim, todos tendem para o mesmo fim e Deus fez suas leis para todos. Dizeis frequentemente: 'O Sol luz para todos' e enunciais assim uma verdade maior e mais geral do que pensais.
+:::
 
-Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igualmente fracos, acham-se sujeitos às mesmas dores e o corpo do rico se destrói como o do pobre. Deus a nenhum homem concedeu superioridade natural, nem pelo nascimento, nem pela morte: todos, aos seus olhos, são iguais.
+::: kardec
+👴🏻 ▸ Todos os homens estão submetidos às mesmas Leis da Natureza. Todos nascem igualmente fracos, acham-se sujeitos às mesmas dores e o corpo do rico se destrói como o do pobre. Deus a nenhum homem concedeu superioridade natural, nem pelo nascimento, nem pela morte: todos, aos seus olhos, são iguais. ⚜️
 :::
 
 ---
@@ -3336,8 +3408,10 @@ Passando de um mundo superior a outro inferior, conserva o Espírito, integralme
 
 ::: spirit
 ✨ ▸ Sim, já temos dito que o Espírito que progrediu não retrocede. Poderá escolher, no estado de Espírito livre, um invólucro mais grosseiro, ou uma posição mais precária do que as que já teve, porém tudo isso para lhe servir de ensinamento e ajudá-lo a progredir.
+:::
 
-Assim, a diversidade das aptidões entre os homens não deriva da natureza íntima da sua criação, mas do grau de aperfeiçoamento a que tenham chegado os Espíritos encarnados neles. Deus, portanto, não criou faculdades desiguais; permitiu, porém, que os Espíritos em graus diversos de desenvolvimento estivessem em contato, para que os mais adiantados pudessem auxiliar o progresso dos mais atrasados e também para que os homens, necessitando uns dos outros, compreendessem a lei de caridade que os deve unir.
+::: kardec
+👴🏻 ▸ Assim, a diversidade das aptidões entre os homens não deriva da natureza íntima da sua criação, mas do grau de aperfeiçoamento a que tenham chegado os Espíritos encarnados neles. Deus, portanto, não criou faculdades desiguais; permitiu, porém, que os Espíritos em graus diversos de desenvolvimento estivessem em contato, para que os mais adiantados pudessem auxiliar o progresso dos mais atrasados e também para que os homens, necessitando uns dos outros, compreendessem a lei de caridade que os deve unir. ⚜️
 :::
 
 ::: expand 🔗
@@ -3563,15 +3637,22 @@ Estando o rico sujeito a maiores tentações, também não dispõe, por outro la
 
 ::: spirit
 ✨ ▸ Mas é justamente o que nem sempre faz. Torna-se egoísta, orgulhoso e insaciável. Com a riqueza, suas necessidades aumentam e ele nunca julga possuir o bastante para si unicamente.
+:::
 
-A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhantes são provas tão grandes e tão escorregadias como a desgraça, porque, quanto mais rico e poderoso é ele, *tanto mais obrigações tem que cumprir* e tanto mais abundantes são os meios de que dispõe para fazer o bem e o mal. Deus experimenta o pobre pela resignação e o rico pelo emprego que dá aos seus bens e ao seu poder.
+::: kardec
+👴🏻 ▸ A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhantes são provas tão grandes e tão escorregadias como a desgraça, porque, quanto mais rico e poderoso é ele, *tanto mais obrigações tem que cumprir* e tanto mais abundantes são os meios de que dispõe para fazer o bem e o mal. Deus experimenta o pobre pela resignação e o rico pelo emprego que dá aos seus bens e ao seu poder.
 
 A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse:
+:::
 
 ::: bible
 ✝️ ▸ *E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de Deus.*
 
 **Mateus, cap. 19, vers. 24, ARC**
+:::
+
+::: kardec
+👉🏻 Veja [Q.266](#q266) ⚜️
 :::
 
 ::: expand 🔗
@@ -3628,8 +3709,10 @@ A fraqueza física da mulher não a coloca naturalmente sob a dependência do ho
 
 ::: spirit
 ✨ ▸ Deus a uns deu a força, para protegerem o fraco e não para o escravizarem.
+:::
 
-Deus apropriou a organização de cada ser às funções que lhe cumpre desempenhar. Tendo dado à mulher menor força física, deu-lhe ao mesmo tempo maior sensibilidade, em relação com a delicadeza das funções maternais e com a fraqueza dos seres confiados aos seus cuidados.
+::: kardec
+👴🏻 ▸ Deus apropriou a organização de cada ser às funções que lhe cumpre desempenhar. Tendo dado à mulher menor força física, deu-lhe ao mesmo tempo maior sensibilidade, em relação com a delicadeza das funções maternais e com a fraqueza dos seres confiados aos seus cuidados. ⚜️
 :::
 
 ::: expand 🔗
@@ -3710,8 +3793,10 @@ Reprovais então, de modo absoluto, a pompa dos funerais?
 
 ::: spirit
 ✨ ▸ Não; quando se tenha em vista honrar a memória de um homem de bem, é justo e de bom exemplo.
+:::
 
-O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelmente todas as distinções humanas. Em vão tenta o rico perpetuar a sua memória, mandando erigir faustosos monumentos. O tempo os destruirá, como lhe consumirá o corpo. Assim o quer a Natureza. Menos perecível do que o seu túmulo será a lembrança de suas ações boas e más. A pompa dos funerais não o limpará das suas torpezas, nem o fará subir um degrau que seja na hierarquia espiritual.
+::: kardec
+👴🏻 ▸ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelmente todas as distinções humanas. Em vão tenta o rico perpetuar a sua memória, mandando erigir faustosos monumentos. O tempo os destruirá, como lhe consumirá o corpo. Assim o quer a Natureza. Menos perecível do que o seu túmulo será a lembrança de suas ações boas e más. A pompa dos funerais não o limpará das suas torpezas, nem o fará subir um degrau que seja na hierarquia espiritual. ⚜️
 :::
 
 ::: expand 🔗
@@ -3794,8 +3879,10 @@ Haverá homens que estejam, por natureza, destinados a ser propriedades de outro
 
 ::: spirit
 ✨ ▸ É contrária à Lei de Deus toda sujeição absoluta de um homem a outro homem. A escravidão é um abuso da força. Desaparece com o progresso, como gradativamente desaparecerão todos os abusos.
+:::
 
-É contrária à Natureza a lei humana que consagra a escravidão, pois que assemelha o homem ao irracional e o degrada física e moralmente.
+::: kardec
+👴🏻 ▸ É contrária à Natureza a lei humana que consagra a escravidão, pois que assemelha o homem ao irracional e o degrada física e moralmente. ⚜️
 :::
 
 ---
@@ -3950,8 +4037,10 @@ Será atentar contra a liberdade de consciência pôr óbices a crenças capazes
 
 ::: spirit
 ✨ ▸ Podem reprimir-se os atos, mas a crença íntima é inacessível.
+:::
 
-Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo a terceiros, não é atentar contra a liberdade de consciência, pois que essa repressão em nada tira à crença a liberdade, que ela conserva integral.
+::: kardec
+👴🏻 ▸ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo a terceiros, não é atentar contra a liberdade de consciência, pois que essa repressão em nada tira à crença a liberdade, que ela conserva integral. ⚜️
 :::
 
 ::: expand 🔗
@@ -4124,8 +4213,10 @@ Há pessoas que parecem perseguidas por uma fatalidade, independente da maneira 
 
 ::: spirit
 ✨ ▸ São, talvez, provas que lhes caiba sofrer e que elas escolheram. Porém, ainda aqui lançais à conta do destino o que as mais das vezes é apenas consequência de vossas próprias faltas. Trata de ter pura a consciência em meio dos males que te afligem e já bastante consolado te sentirás.
+:::
 
-As ideias exatas ou falsas que fazemos das coisas nos levam a ser bem ou malsucedidos, de acordo com o nosso caráter e a nossa posição social. Achamos mais simples e menos humilhante para o nosso amor-próprio atribuir antes à sorte ou ao destino os insucessos que experimentamos, do que à nossa própria falta. É certo que para isso contribui algumas vezes a influência dos Espíritos, mas também o é que podemos sempre forrar-nos a essa influência, repelindo as ideias que eles nos sugerem, quando más.
+::: kardec
+👴🏻 ▸ As ideias exatas ou falsas que fazemos das coisas nos levam a ser bem ou malsucedidos, de acordo com o nosso caráter e a nossa posição social. Achamos mais simples e menos humilhante para o nosso amor-próprio atribuir antes à sorte ou ao destino os insucessos que experimentamos, do que à nossa própria falta. É certo que para isso contribui algumas vezes a influência dos Espíritos, mas também o é que podemos sempre forrar-nos a essa influência, repelindo as ideias que eles nos sugerem, quando más. ⚜️
 :::
 
 ::: expand 🔗
@@ -4283,8 +4374,10 @@ Ao escolher a sua existência, o Espírito daquele que comete um assassínio sab
 
 ::: spirit
 ✨ ▸ Não. Escolhendo uma vida de lutas, sabe que terá ensejo de matar um de seus semelhantes, mas não sabe se o fará, visto que ao crime precederá quase sempre, de sua parte, a deliberação de praticá-lo. Ora, aquele que delibera sobre uma coisa é sempre livre de fazê-la, ou não. Se soubesse previamente que, como homem, teria que cometer um crime, o Espírito estaria a isso predestinado. Ficai, porém, sabendo que ninguém há predestinado ao crime e que todo crime, como qualquer outro ato, resulta sempre da vontade e do livre-arbítrio.
+:::
 
-Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da vida e os atos da vida moral. A fatalidade, que algumas vezes há, só existe com relação àqueles sucessos materiais, cuja causa reside fora de vós e que independem da vossa vontade. Quanto aos atos da vida moral, esses emanam sempre do próprio homem que, por conseguinte, tem sempre a liberdade de escolher. No tocante, pois, a esses atos, *nunca* há fatalidade.
+::: kardec
+👴🏻 ▸ Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da vida e os atos da vida moral. A fatalidade, que algumas vezes há, só existe com relação àqueles sucessos materiais, cuja causa reside fora de vós e que independem da vossa vontade. Quanto aos atos da vida moral, esses emanam sempre do próprio homem que, por conseguinte, tem sempre a liberdade de escolher. No tocante, pois, a esses atos, *nunca* há fatalidade. ⚜️
 :::
 
 ::: expand 🔗
@@ -4413,9 +4506,13 @@ Mas, se convém que o futuro permaneça oculto, por que permite Deus que seja re
 Pois que Deus tudo sabe, não ignora se um homem sucumbirá ou não em determinada prova. Assim sendo, qual a necessidade dessa prova, uma vez que nada acrescentará ao que Deus já sabe a respeito desse homem?
 
 ::: spirit
-✨ ▸ Isso equivale a perguntar por que não criou Deus o homem perfeito e acabado (👉🏻 Q.119); por que passa o homem pela infância, antes de chegar à condição de adulto (👉🏻 Q.379). A prova não tem por fim dar a Deus esclarecimentos sobre o homem, pois que Deus sabe perfeitamente o que ele vale, mas dar ao homem toda a responsabilidade de sua ação, uma vez que tem a liberdade de fazer ou não fazer. Dotado da faculdade de escolher entre o bem e o mal, a prova tem por efeito pô-lo em luta com as tentações do mal e conferir-lhe todo o mérito da resistência. Ora, conquanto saiba de antemão se ele se sairá bem ou não, Deus não o pode, em sua justiça, punir, nem recompensar, por um ato ainda não praticado. (👉🏻 Veja [Q.258](#q258)) Assim sucede entre os homens. Por muito capaz que seja um estudante, por grande que seja a certeza que se tenha de que alcançará bom êxito, ninguém lhe confere grau algum sem exame, isto é, sem prova. Do mesmo modo, o juiz não condena um acusado, senão com fundamento num ato consumado e não na previsão de que ele possa ou deva consumar esse ato.
+✨ ▸ Isso equivale a perguntar por que não criou Deus o homem perfeito e acabado (👉🏻 Q.119); por que passa o homem pela infância, antes de chegar à condição de adulto (👉🏻 Q.379). A prova não tem por fim dar a Deus esclarecimentos sobre o homem, pois que Deus sabe perfeitamente o que ele vale, mas dar ao homem toda a responsabilidade de sua ação, uma vez que tem a liberdade de fazer ou não fazer. Dotado da faculdade de escolher entre o bem e o mal, a prova tem por efeito pô-lo em luta com as tentações do mal e conferir-lhe todo o mérito da resistência. Ora, conquanto saiba de antemão se ele se sairá bem ou não, Deus não o pode, em sua justiça, punir, nem recompensar, por um ato ainda não praticado. (👉🏻 Veja [Q.258](#q258))
+:::
 
-Quanto mais se reflete nas consequências que teria para o homem o conhecimento do futuro, melhor se vê quanto foi sábia a Providência em lho ocultar. A certeza de um acontecimento venturoso o lançaria na inação. A de um acontecimento infeliz o encheria de desânimo. Em ambos os casos, suas forças ficariam paralisadas. Daí o não lhe ser mostrado o futuro, senão como *meta* que lhe cumpre atingir por seus esforços, mas ignorando os trâmites por que terá de passar para alcançá-la. O conhecimento de todos os incidentes da jornada lhe tolheria a iniciativa e o uso do livre-arbítrio. Ele se deixaria resvalar pelo declive fatal dos acontecimentos, sem exercer suas faculdades. Quando o feliz êxito de uma coisa está assegurado, ninguém mais com ela se preocupa.
+::: kardec
+👴🏻 ▸ Assim sucede entre os homens. Por muito capaz que seja um estudante, por grande que seja a certeza que se tenha de que alcançará bom êxito, ninguém lhe confere grau algum sem exame, isto é, sem prova. Do mesmo modo, o juiz não condena um acusado, senão com fundamento num ato consumado e não na previsão de que ele possa ou deva consumar esse ato.
+
+Quanto mais se reflete nas consequências que teria para o homem o conhecimento do futuro, melhor se vê quanto foi sábia a Providência em lho ocultar. A certeza de um acontecimento venturoso o lançaria na inação. A de um acontecimento infeliz o encheria de desânimo. Em ambos os casos, suas forças ficariam paralisadas. Daí o não lhe ser mostrado o futuro, senão como *meta* que lhe cumpre atingir por seus esforços, mas ignorando os trâmites por que terá de passar para alcançá-la. O conhecimento de todos os incidentes da jornada lhe tolheria a iniciativa e o uso do livre-arbítrio. Ele se deixaria resvalar pelo declive fatal dos acontecimentos, sem exercer suas faculdades. Quando o feliz êxito de uma coisa está assegurado, ninguém mais com ela se preocupa. ⚜️
 :::
 
 ::: expand 🔗
@@ -4427,13 +4524,14 @@ Quanto mais se reflete nas consequências que teria para o homem o conhecimento 
 
 #### 📄 Resumo teórico do móvel das ações humanas
 
-##### #️⃣ Q.872 {#q872}
+##### #️⃣ 872 {#872}
 
-A questão do livre-arbítrio se pode resumir assim: O homem não é fatalmente levado ao mal; os atos que pratica não foram previamente determinados; os crimes que comete não resultam de uma sentença do destino. Ele pode, por prova e por expiação, escolher uma existência em que seja arrastado ao crime, quer pelo meio em que se ache colocado, quer pelas circunstâncias que sobrevenham, mas será sempre livre de agir ou não agir. Assim, o livre-arbítrio existe para ele, quando no estado de Espírito, ao fazer a escolha da existência e das provas e, como encarnado, na faculdade de ceder ou de resistir aos arrastamentos a que todos nos temos voluntariamente submetido. Cabe à educação combater essas más tendências. Fá-lo-á utilmente, quando se basear no estudo aprofundado da natureza moral do homem. Pelo conhecimento das leis que regem essa natureza moral, chegar-se-á a modificá-la, como se modifica a inteligência pela instrução e o temperamento pela higiene.
+👴🏻 ▸ A questão do livre-arbítrio se pode resumir assim: O homem não é fatalmente levado ao mal; os atos que pratica não foram previamente determinados; os crimes que comete não resultam de uma sentença do destino. Ele pode, por prova e por expiação, escolher uma existência em que seja arrastado ao crime, quer pelo meio em que se ache colocado, quer pelas circunstâncias que sobrevenham, mas será sempre livre de agir ou não agir. Assim, o livre-arbítrio existe para ele, quando no estado de Espírito, ao fazer a escolha da existência e das provas e, como encarnado, na faculdade de ceder ou de resistir aos arrastamentos a que todos nos temos voluntariamente submetido. Cabe à educação combater essas más tendências. Fá-lo-á utilmente, quando se basear no estudo aprofundado da natureza moral do homem. Pelo conhecimento das leis que regem essa natureza moral, chegar-se-á a modificá-la, como se modifica a inteligência pela instrução e o temperamento pela higiene.
 
 Desprendido da matéria e no estado de erraticidade, o Espírito procede à escolha de suas futuras existências corporais, de acordo com o grau de perfeição a que haja chegado e é nisto, como temos dito, que consiste sobretudo o seu livre-arbítrio. Esta liberdade, a encarnação não a anula. Se ele cede à influência da matéria, é que sucumbe nas provas que por si mesmo escolheu. Para ter quem o ajude a vencê-las, concedido lhe é invocar a assistência de Deus e dos bons Espíritos. (👉🏻 Veja [Q.337](#q337)) Sem o livre-arbítrio, o homem não teria nem culpa por praticar o mal, nem mérito em praticar o bem. E isto a tal ponto está reconhecido que, no mundo, a censura ou o elogio são feitos à intenção, isto é, à vontade. Ora, quem diz vontade diz liberdade. Nenhuma desculpa poderá, portanto, o homem buscar, para os seus delitos, na sua organização física, sem abdicar da razão e da sua condição de ser humano, para se equiparar ao bruto. Se fora assim quanto ao mal, assim não poderia deixar de ser relativamente ao bem. Mas, quando o homem pratica o bem, tem grande cuidado de averbar o fato à sua conta, como mérito, e não cogita de por ele gratificar os seus órgãos, o que prova que, por instinto, não renuncia, malgrado a opinião de alguns sistemáticos, ao mais belo privilégio de sua espécie: a liberdade de pensar. A fatalidade, como vulgarmente é entendida, supõe a decisão prévia e irrevogável de todos os sucessos da vida, qualquer que seja a importância deles. Se tal fosse a ordem das coisas, o homem seria qual máquina sem vontade. De que lhe serviria a inteligência, desde que houvesse de estar invariavelmente dominado, em todos os seus atos, pela força do destino? Semelhante doutrina, se verdadeira, conteria a destruição de toda liberdade moral; já não haveria para o homem responsabilidade, nem, por conseguinte, bem, nem mal, crimes ou virtudes. Não seria possível que Deus, soberanamente justo, castigasse suas criaturas por faltas cujo cometimento não dependera delas, nem que as recompensasse por virtudes de que nenhum mérito teriam. Ademais, tal lei seria a negação da do progresso, porquanto o homem, tudo esperando da sorte, nada tentaria para melhorar a sua posição, visto que não conseguiria ser mais nem menos.
 
-Contudo, a fatalidade não é uma palavra vã. Existe na posição que o homem ocupa na Terra e nas funções que aí desempenha, em consequência do gênero de vida que seu Espírito escolheu como *prova*, *expiação* ou *missão*. Ele sofre fatalmente todas as vicissitudes dessa existência e todas as *tendências* boas ou más, que lhe são inerentes. Aí, porém, acaba a fatalidade, pois da sua vontade depende ceder ou não a essas tendências. *Os pormenores dos acontecimentos, esses ficam subordinados às circunstâncias que ele próprio cria pelos seus atos*, sendo que nessas circunstâncias podem os Espíritos influir pelos pensamentos que sugiram. (👉🏻 Veja [Q.459](#q459)) 
+Contudo, a fatalidade não é uma palavra vã. Existe na posição que o homem ocupa na Terra e nas funções que aí desempenha, em consequência do gênero de vida que seu Espírito escolheu como *prova*, *expiação* ou *missão*. Ele sofre fatalmente todas as vicissitudes dessa existência e todas as *tendências* boas ou más, que lhe são inerentes. Aí, porém, acaba a fatalidade, pois da sua vontade depende ceder ou não a essas tendências. *Os pormenores dos acontecimentos, esses ficam subordinados às circunstâncias que ele próprio cria pelos seus atos*, sendo que nessas circunstâncias podem os Espíritos influir pelos pensamentos que sugiram. (👉🏻 Veja [Q.459](#q459))
+
 Há fatalidade, portanto, nos acontecimentos que se apresentam, por serem estes consequência da escolha que o Espírito fez da sua existência de homem. Pode deixar de haver fatalidade no resultado de tais acontecimentos, visto ser possível ao homem, pela sua prudência, modificar-lhes o curso. *Nunca há fatalidade nos atos da vida moral*.
 
 No que concerne à morte é que o homem se acha submetido, em absoluto, à inexorável lei da fatalidade, por isso que não pode escapar à sentença que lhe marca o termo da existência, nem ao gênero de morte que haja de cortar a esta o fio.
@@ -4448,7 +4546,7 @@ Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, 
 
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
 
-Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espécie humana e, como o nosso mundo é um dos menos adiantados, nele se conta maior número de Espíritos maus do que de bons. Tal a razão por que aí vemos tanta perversidade. Façamos, pois, todos os esforços para a este planeta não voltarmos, após a presente estada, e para merecermos ir repousar em mundo melhor, em um desses mundos privilegiados, onde não nos lembraremos da nossa passagem por aqui, senão como de um exílio temporário.
+Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espécie humana e, como o nosso mundo é um dos menos adiantados, nele se conta maior número de Espíritos maus do que de bons. Tal a razão por que aí vemos tanta perversidade. Façamos, pois, todos os esforços para a este planeta não voltarmos, após a presente estada, e para merecermos ir repousar em mundo melhor, em um desses mundos privilegiados, onde não nos lembraremos da nossa passagem por aqui, senão como de um exílio temporário. ⚜️
 
 ::: expand 🔗
 🏷️ [Falta](#falta)
@@ -4526,6 +4624,7 @@ Posto de parte o direito que a lei humana consagra, qual a base da justiça, seg
 
 ::: spirit
 ✨ ▸ Disse o Cristo:
+:::
 
 ::: bible
 ✝️ ▸ *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas*.
@@ -4533,9 +4632,11 @@ Posto de parte o direito que a lei humana consagra, qual a base da justiça, seg
 **Mateus, cap. 7, vers. 12 ARC**
 :::
 
-No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria consciência não lhe podia Deus haver dado.
+::: kardec
+👴🏻 ▸ No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria consciência não lhe podia Deus haver dado.
 
-Efetivamente, o critério da verdadeira justiça está em querer cada um para os outros o que para si mesmo quereria e não em querer para si o que quereria para os outros, o que absolutamente não é a mesma coisa. Não sendo natural que haja quem deseje o mal para si, desde que cada um tome por modelo o seu desejo pessoal, é evidente que nunca ninguém desejará para o seu semelhante senão o bem. Em todos os tempos e sob o império de todas as crenças, sempre o homem se esforçou para que prevalecesse o seu direito pessoal. *A sublimidade da religião cristã está em que ela tomou o direito pessoal por base do direito do próximo.*
+Efetivamente, o critério da verdadeira justiça está em querer cada um para os outros o que para si mesmo quereria e não em querer para si o que quereria para os outros, o que absolutamente não é a mesma coisa. Não sendo natural que haja quem deseje o mal para si, desde que cada um tome por modelo o seu desejo pessoal, é evidente que nunca ninguém desejará para o seu semelhante senão o bem. Em todos os tempos e sob o império de todas as crenças, sempre o homem se esforçou para que prevalecesse o seu direito pessoal. *A sublimidade da religião cristã está em que ela tomou o direito pessoal por base do direito do próximo.* ⚜️
+:::
 
 ##### #️⃣ Q.877 {#q877}
 
@@ -4648,7 +4749,8 @@ E Jesus não disse:
 **Mateus, cap. 22, vers. 21, ARC**
 :::
 
-O que, por meio do trabalho *honesto*, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
+::: kardec
+👴🏻 ▸ O que, por meio do trabalho *honesto*, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver. ⚜️
 :::
 
 ::: expand 🔗
@@ -4694,8 +4796,10 @@ Qual o caráter da legítima propriedade?
 ✨ ▸ Propriedade legítima só é a que foi adquirida sem prejuízo de outrem.
 
 👉🏻 Veja [Q.808](#q808)
+:::
 
-Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, a lei de amor e de justiça nos proíbe, *ipso facto*, a aquisição de bens por quaisquer meios que lhe sejam contrários.
+::: kardec
+👴🏻 ▸ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, a lei de amor e de justiça nos proíbe, *ipso facto*, a aquisição de bens por quaisquer meios que lhe sejam contrários. ⚜️
 :::
 
 ::: expand 🔗
@@ -4727,8 +4831,10 @@ Qual o verdadeiro sentido da palavra *caridade*, como a entendia Jesus?
 
 ::: spirit
 ✨ ▸ Benevolência para com todos, indulgência para as imperfeições dos outros, perdão das ofensas.
+:::
 
-O amor e a caridade são o complemento da lei de justiça, pois amar o próximo é fazer-lhe todo o bem que nos seja possível e que desejáramos nos fosse feito. Tal o sentido destas palavras de Jesus:
+::: kardec
+👴🏻 ▸ O amor e a caridade são o complemento da lei de justiça, pois amar o próximo é fazer-lhe todo o bem que nos seja possível e que desejáramos nos fosse feito. Tal o sentido destas palavras de Jesus:
 :::
 
 ::: bible
@@ -4737,7 +4843,8 @@ O amor e a caridade são o complemento da lei de justiça, pois amar o próximo 
 **Mateus, cap. 22, vers. 39, ARC**
 :::
 
-A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
+::: kardec
+A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa. ⚜️
 :::
 
 ---
@@ -4805,7 +4912,7 @@ Amai-vos uns aos outros, eis toda a lei, Lei divin.a, mediante a qual governa De
 
 Não esqueçais nunca que o Espírito, qualquer que seja o grau de seu adiantamento, sua situação como reencarnado, ou na erraticidade, está *sempre* colocado entre um superior, que o guia e aperfeiçoa, e um inferior, para com o qual tem que cumprir esses mesmos deveres. Sede, pois, caridosos, praticando, não só a caridade que vos faz dar friamente o óbolo que tirais do bolso ao que vo-lo ousa pedir, mas a que vos leve ao encontro das misérias ocultas. Sede indulgentes com os defeitos dos vossos semelhantes. Em vez de votardes desprezo à ignorância e ao vício, instruí os ignorantes e moralizai os viciados. Sede brandos e benevolentes para com tudo o que vos seja inferior. Sede-o para com os seres mais ínfimos da criação e tereis obedecido à Lei de Deus.
 
-São Vicente de Paulo
+**São Vicente de Paulo**
 :::
 
 ::: expand 🔗
@@ -5136,14 +5243,16 @@ Como se poderá determinar o limite em que as paixões deixam de ser boas para s
 
 ::: spirit
 ✨ ▸ As paixões são como um corcel, que só tem utilidade quando governado e que se torna perigoso desde que passe a governar. Uma paixão se torna perigosa a partir do momento em que deixais de poder governá-la e que dá em resultado um prejuízo qualquer para vós mesmos, ou para outrem.
+:::
 
-As paixões são alavancas que decuplicam as forças do homem e o auxiliam na execução dos desígnios da Providência. Se o homem, porém, em vez de as dirigir, deixa que elas o dirijam, cai o homem nos excessos e a própria força que, manejada pelas suas mãos, poderia produzir o bem, contra ele se volta e o esmaga.
+::: kardec
+👴🏻 ▸ As paixões são alavancas que decuplicam as forças do homem e o auxiliam na execução dos desígnios da Providência. Se o homem, porém, em vez de as dirigir, deixa que elas o dirijam, cai o homem nos excessos e a própria força que, manejada pelas suas mãos, poderia produzir o bem, contra ele se volta e o esmaga.
 
 Todas as paixões têm seu princípio num sentimento ou numa necessidade natural. O princípio das paixões não é, assim, um mal, pois que assenta numa das condições providenciais da nossa existência. A paixão propriamente dita é a exageração de uma necessidade ou de um sentimento. Está no excesso e não na causa e este excesso se torna um mal, quando tem como consequência um mal qualquer.
 
 Toda paixão que aproxima o homem da natureza animal afasta-o da *natureza espiritual*.
 
-Todo sentimento que eleva o homem acima da natureza animal denota predominância do Espírito sobre a matéria e o aproxima da perfeição.
+Todo sentimento que eleva o homem acima da natureza animal denota predominância do Espírito sobre a matéria e o aproxima da perfeição. ⚜️
 :::
 
 ::: expand 🔗
@@ -5273,13 +5382,13 @@ O choque, que o homem experimenta, do egoísmo dos outros é o que muitas vezes 
 **Fénelon**
 :::
 
-Louváveis esforços indubitavelmente se empregam para fazer que a Humanidade progrida. Os bons sentimentos são animados, estimulados e honrados mais do que em qualquer outra época. Entretanto, o egoísmo, verme roedor, continua a ser a chaga social. É um mal real, que se alastra por todo o mundo e do qual cada homem é mais ou menos vítima. Cumpre, pois, combatê-lo, como se combate uma enfermidade epidêmica. Para isso, deve-se proceder como procedem os médicos: ir à origem do mal. Procurem-se em todas as partes do organismo social, da família aos povos, da choupana ao palácio, todas as causas, todas as influências que, ostensiva ou ocultamente, excitam, alimentam e desenvolvem o sentimento do egoísmo. Conhecidas as causas, o remédio se apresentará por si mesmo. Só restará então destruí-las, senão totalmente, de uma só vez, ao menos parcialmente, e o veneno pouco a pouco será eliminado. Poderá ser longa a cura, porque numerosas são as causas, mas não é impossível. Contudo, ela só se obterá se o mal for atacado em sua raiz, isto é, pela educação, não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem. A educação, convenientemente entendida, constitui a chave do progresso moral. Quando se conhecer a arte de manejar os caracteres, como se conhece a de manejar as inteligências, conseguir-se-á corrigi-los, do mesmo modo que se aprumam plantas novas. Essa arte, porém, exige muito tato, muita experiência e profunda observação. É grave erro pensar-se que, para exercê-la com proveito, baste o conhecimento da Ciência.
+::: kardec
+👴🏻 ▸ Louváveis esforços indubitavelmente se empregam para fazer que a Humanidade progrida. Os bons sentimentos são animados, estimulados e honrados mais do que em qualquer outra época. Entretanto, o egoísmo, verme roedor, continua a ser a chaga social. É um mal real, que se alastra por todo o mundo e do qual cada homem é mais ou menos vítima. Cumpre, pois, combatê-lo, como se combate uma enfermidade epidêmica. Para isso, deve-se proceder como procedem os médicos: ir à origem do mal. Procurem-se em todas as partes do organismo social, da família aos povos, da choupana ao palácio, todas as causas, todas as influências que, ostensiva ou ocultamente, excitam, alimentam e desenvolvem o sentimento do egoísmo. Conhecidas as causas, o remédio se apresentará por si mesmo. Só restará então destruí-las, senão totalmente, de uma só vez, ao menos parcialmente, e o veneno pouco a pouco será eliminado. Poderá ser longa a cura, porque numerosas são as causas, mas não é impossível. Contudo, ela só se obterá se o mal for atacado em sua raiz, isto é, pela educação, não por essa educação que tende a fazer homens instruídos, mas pela que tende a fazer homens de bem. A educação, convenientemente entendida, constitui a chave do progresso moral. Quando se conhecer a arte de manejar os caracteres, como se conhece a de manejar as inteligências, conseguir-se-á corrigi-los, do mesmo modo que se aprumam plantas novas. Essa arte, porém, exige muito tato, muita experiência e profunda observação. É grave erro pensar-se que, para exercê-la com proveito, baste o conhecimento da Ciência. Quem acompanhar assim o filho do rico, como o do pobre, desde o instante do nascimento, e observar todas as influências perniciosas que sobre eles atuam, em consequência da fraqueza, da incúria e da ignorância dos que os dirigem, observando igualmente com quanta frequência falham os meios empregados para moralizá-los, não poderá espantar-se de encontrar pelo mundo tantas esquisitices. Faça-se com o moral o que se faz com a inteligência e ver-se-á que, se há naturezas refratárias, muito maior do que se julga é o número das que apenas reclamam boa cultura, para produzir bons frutos. 👉🏻 Veja [Q.872](#q872)
 
-Quem acompanhar assim o filho do rico, como o do pobre, desde o instante do nascimento, e observar todas as influências perniciosas que sobre eles atuam, em consequência da fraqueza, da incúria e da ignorância dos que os dirigem, observando igualmente com quanta frequência falham os meios empregados para moralizá-los, não poderá espantar-se de encontrar pelo mundo tantas esquisitices. Faça-se com o moral o que se faz com a inteligência e ver-se-á que, se há naturezas refratárias, muito maior do que se julga é o número das que apenas reclamam boa cultura, para produzir bons frutos.
+O homem deseja ser feliz e natural é o sentimento que dá origem a esse desejo. Por isso é que trabalha incessantemente para melhorar a sua posição na Terra, que pesquisa as causas de seus males para remediá-los. Quando compreender bem que no egoísmo reside uma dessas causas, a que gera o orgulho, a ambição, a cupidez, a inveja, o ódio, o ciúme, que a cada momento o magoam, a que perturba todas as relações sociais, provoca as dissensões, aniquila a confiança, a que o obriga a se manter constantemente na defensiva contra o seu vizinho, enfim, a que do amigo faz inimigo, ele compreenderá também que esse vício é incompatível com a sua felicidade e, podemos mesmo acrescentar, com a sua própria segurança. E quanto mais haja sofrido por efeito desse vício, mais sentirá a necessidade de combatê-lo, como se combatem a peste, os animais nocivos e todos os outros flagelos. O seu próprio interesse a isso o induzirá. (👉🏻 Veja [Q.784](#q784))
 
-👉🏻 Veja [Q.872](#q872)
-
-O homem deseja ser feliz e natural é o sentimento que dá origem a esse desejo. Por isso é que trabalha incessantemente para melhorar a sua posição na Terra, que pesquisa as causas de seus males para remediá-los. Quando compreender bem que no egoísmo reside uma dessas causas, a que gera o orgulho, a ambição, a cupidez, a inveja, o ódio, o ciúme, que a cada momento o magoam, a que perturba todas as relações sociais, provoca as dissensões, aniquila a confiança, a que o obriga a se manter constantemente na defensiva contra o seu vizinho, enfim, a que do amigo faz inimigo, ele compreenderá também que esse vício é incompatível com a sua felicidade e, podemos mesmo acrescentar, com a sua própria segurança. E quanto mais haja sofrido por efeito desse vício, mais sentirá a necessidade de combatê-lo, como se combatem a peste, os animais nocivos e todos os outros flagelos. O seu próprio interesse a isso o induzirá. (👉🏻 Veja [Q.784](#q784)) O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virtudes. Destruir um e desenvolver a outra, tal deve ser o alvo de todos os esforços do homem, se quiser assegurar a sua felicidade neste mundo, tanto quanto no futuro.
+O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virtudes. Destruir um e desenvolver a outra, tal deve ser o alvo de todos os esforços do homem, se quiser assegurar a sua felicidade neste mundo, tanto quanto no futuro. ⚜️
+:::
 
 ::: expand 🔗
 🏷️ [Combate](#combate)
@@ -5303,7 +5412,8 @@ Por que indícios se pode reconhecer em um homem o progresso real que lhe elevar
 ✨ ▸ O Espírito prova a sua elevação, quando todos os atos de sua vida corporal representam a prática da Lei de Deus e quando antecipadamente compreende a vida espiritual.
 :::
 
-Verdadeiramente, homem de bem é o que pratica a lei de justiça, amor e caridade, na sua maior pureza. Se interrogar a própria consciência sobre os atos que praticou, perguntará se não transgrediu essa lei, se não fez o mal, se fez todo bem *que podia*, se ninguém tem motivos para dele se queixar, enfim, se fez aos outros o que desejara que lhe fizessem.
+::: kardec
+👴🏻 ▸ Verdadeiramente, homem de bem é o que pratica a lei de justiça, amor e caridade, na sua maior pureza. Se interrogar a própria consciência sobre os atos que praticou, perguntará se não transgrediu essa lei, se não fez o mal, se fez todo bem *que podia*, se ninguém tem motivos para dele se queixar, enfim, se fez aos outros o que desejara que lhe fizessem.
 
 Possuído do sentimento de caridade e de amor ao próximo, faz o bem pelo bem, sem contar com qualquer retribuição, e sacrifica seus interesses à justiça.
 
@@ -5314,6 +5424,7 @@ Se Deus lhe outorgou o poder e a riqueza, considera essas coisas como UM DEPÓSI
 Se sob a sua dependência a ordem social colocou outros homens, trata-os com bondade e complacência, porque são seus iguais perante Deus. Usa da sua autoridade para lhes levantar o moral e não para os esmagar com o seu orgulho.
 
 É indulgente para com as fraquezas alheias, porque sabe que também precisa da indulgência dos outros e se lembra destas palavras do Cristo:
+:::
 
 ::: bible
 ✝️ *Atire a primeira pedra aquele que estiver sem pecado*.
@@ -5321,9 +5432,10 @@ Se sob a sua dependência a ordem social colocou outros homens, trata-os com bon
  **João, cap. 8, vers. 7 ARC**
  :::
 
+::: kardec
 Não é vingativo. A exemplo de Jesus, perdoa as ofensas, para só se lembrar dos benefícios, pois não ignora que, *como houver perdoado, assim perdoado lhe será*.
 
-Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza lhes concedem, como quer que os mesmos direitos lhe sejam respeitados.
+Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza lhes concedem, como quer que os mesmos direitos lhe sejam respeitados. ⚜️
 :::
 
 ⚓
@@ -5364,7 +5476,8 @@ Formulai, pois, de vós para convosco, questões nítidas e precisas e não tema
 **Santo Agostinho**
 :::
 
-Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós.
+::: kardec
+👴🏻 ▸ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós. ⚜️
 :::
 
 ::: expand 🔗

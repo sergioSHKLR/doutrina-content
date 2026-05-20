@@ -103,7 +103,7 @@ Será certo dizer-se que os Espíritos são imateriais?
 :::
 
 ::: kardec
-👴🏻 ▸ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria. Um povo de cegos careceria de termos para exprimir a luz e seus efeitos. O cego de nascença se julga capaz de todas as percepções pelo ouvido, pelo olfato, pelo paladar e pelo tato. Não compreende as ideias que só lhe poderiam ser dadas pelo sentido que lhe falta. Nós outros somos verdadeiros cegos com relação à essência dos seres sobre-humanos. Não os podemos definir senão por meio de comparações sempre imperfeitas ou por um esforço da imaginação.
+👴🏻 ▸ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria. Um povo de cegos careceria de termos para exprimir a luz e seus efeitos. O cego de nascença se julga capaz de todas as percepções pelo ouvido, pelo olfato, pelo paladar e pelo tato. Não compreende as ideias que só lhe poderiam ser dadas pelo sentido que lhe falta. Nós outros somos verdadeiros cegos com relação à essência dos seres sobre-humanos. Não os podemos definir senão por meio de comparações sempre imperfeitas ou por um esforço da imaginação. ⚜️
 :::
 
 ::: expand 🔗
@@ -114,7 +114,7 @@ Será certo dizer-se que os Espíritos são imateriais?
 
 ##### #️⃣ Q.83 {#q83}
 
-Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o elemento) de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
+Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles emanam, mas o que perguntamos é se suas individualidades têm um termo e se, em dado tempo, mais ou menos longo, o elementou de que são formados não se dissemina e volta à massa donde saiu, como sucede com os corpos materiais. É difícil de conceber-se que uma coisa que teve começo possa não ter fim.
 
 ::: spirit
 ✨ ▸ Há muitas coisas que não compreendeis, porque tendes limitada a inteligência. Isso, porém, não é razão para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o sábio apreende. Dizemos que a existência dos Espíritos não tem fim. É tudo o que podemos, por agora, dizer.
@@ -206,7 +206,7 @@ Essa chama ou centelha tem cor?
 :::
 
 ::: kardec
-👴🏻 ▸ Representam-se de ordinário os gênios com uma chama ou estrela na fronte. É uma alegoria, que lembra a natureza essencial dos Espíritos. Colocam-na no alto da cabeça, porque aí está a sede da inteligência.
+👴🏻 ▸ Representam-se de ordinário os gênios com uma chama ou estrela na fronte. É uma alegoria, que lembra a natureza essencial dos Espíritos. Colocam-na no alto da cabeça, porque aí está a sede da inteligência. ⚜️
 :::
 
 ---
@@ -297,7 +297,7 @@ Todos os Espíritos irradiam com igual força?
 :::
 
 ::: kardec
-👴🏻 ▸ Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da ubiquidade atribuído aos Espíritos. Dá-se com eles o que se dá com uma centelha, que projeta longe a sua claridade e pode ser percebida de todos os pontos do horizonte; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos.
+👴🏻 ▸ Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da ubiquidade atribuído aos Espíritos. Dá-se com eles o que se dá com uma centelha, que projeta longe a sua claridade e pode ser percebida de todos os pontos do horizonte; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos. ⚜️
 :::
 
 ::: expand 🔗
@@ -317,7 +317,7 @@ O Espírito, propriamente dito, nenhuma cobertura tem ou, como pretendem alguns,
 :::
 
 ::: kardec
-👴🏻 ▸ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância que, por comparação, se pode chamar *perispírito*, serve de envoltório ao Espírito propriamente dito.
+👴🏻 ▸ Envolvendo o germe de um fruto, há o perisperma; do mesmo modo, uma substância que, por comparação, se pode chamar *perispírito*, serve de envoltório ao Espírito propriamente dito. ⚜️
 :::
 
 ---
@@ -692,7 +692,7 @@ Não podia Deus isentar os Espíritos das provas que lhes cumpre sofrer para che
 :::
 
 ::: kardec
-👴🏻 ▸ Pois que, na vida social, todos os homens podem chegar às mais altas funções, seria o caso de perguntar-se por que o soberano de um país não faz de cada um de seus soldados um general; por que todos os empregados subalternos não são funcionários superiores; por que todos os colegiais não são mestres. Ora, entre a vida social e a espiritual há esta diferença: enquanto a primeira é limitada e nem sempre permite que o homem suba todos os seus degraus, a segunda é indefinida e a todos oferece a possibilidade de se elevarem ao grau supremo.
+👴🏻 ▸ Pois que, na vida social, todos os homens podem chegar às mais altas funções, seria o caso de perguntar-se por que o soberano de um país não faz de cada um de seus soldados um general; por que todos os empregados subalternos não são funcionários superiores; por que todos os colegiais não são mestres. Ora, entre a vida social e a espiritual há esta diferença: enquanto a primeira é limitada e nem sempre permite que o homem suba todos os seus degraus, a segunda é indefinida e a todos oferece a possibilidade de se elevarem ao grau supremo. ⚜️
 :::
 
 ↩️ Voltar para [Q.634](#q634)
@@ -817,7 +817,7 @@ Os Espíritos que enveredaram pela senda do mal poderão chegar ao mesmo grau de
 :::
 
 ::: kardec
-👴🏻 ▸ Por estas palavras – *as eternidades* – se deve entender a ideia que os Espíritos inferiores fazem da perpetuidade de seus sofrimentos, cujo termo não lhes é dado ver, ideia que revive todas as vezes que sucumbem numa prova.
+👴🏻 ▸ Por estas palavras – *as eternidades* – se deve entender a ideia que os Espíritos inferiores fazem da perpetuidade de seus sofrimentos, cujo termo não lhes é dado ver, ideia que revive todas as vezes que sucumbem numa prova. ⚜️
 :::
 
 ::: expand 🔗
@@ -851,7 +851,7 @@ Os Espíritos são criados iguais quanto às faculdades intelectuais?
 :::
 
 ::: kardec
-👴🏻 ▸ Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são Espíritos perfeitos. Não têm, é certo, maus pendores, mas precisam adquirir a experiência e os conhecimentos indispensáveis para alcançar a perfeição. Podemos compará-los a crianças que, seja qual for a bondade de seus instintos naturais, necessitam de se desenvolver e esclarecer e que não passam, sem transição, da infância à madureza. Simplesmente, assim como há homens que são bons e outros que são maus desde a infância, também há Espíritos que são bons ou maus desde a origem, com a diferença capital de que a criança tem instintos já inteiramente formados, enquanto o Espírito, ao formar-se, não é nem bom nem mau; tem todas as tendências e toma uma ou outra direção, por efeito do seu livre-arbítrio.
+👴🏻 ▸ Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são Espíritos perfeitos. Não têm, é certo, maus pendores, mas precisam adquirir a experiência e os conhecimentos indispensáveis para alcançar a perfeição. Podemos compará-los a crianças que, seja qual for a bondade de seus instintos naturais, necessitam de se desenvolver e esclarecer e que não passam, sem transição, da infância à madureza. Simplesmente, assim como há homens que são bons e outros que são maus desde a infância, também há Espíritos que são bons ou maus desde a origem, com a diferença capital de que a criança tem instintos já inteiramente formados, enquanto o Espírito, ao formar-se, não é nem bom nem mau; tem todas as tendências e toma uma ou outra direção, por efeito do seu livre-arbítrio. ⚜️
 :::
 
 ::: expand 🔗
@@ -873,7 +873,7 @@ Os seres a que chamamos anjos, arcanjos, serafins, formam uma categoria especial
 :::
 
 ::: kardec
-👴🏻 ▸ A palavra *anjo* desperta geralmente a ideia de perfeição moral. Entretanto, ela se aplica muitas vezes à designação de todos os seres, bons e maus, que estão fora da Humanidade. Diz-se: o anjo bom e o anjo mau; o anjo de luz e o anjo das trevas. Neste caso, o termo é sinônimo de *Espírito* ou de *gênio*. Tomamo-lo aqui na sua melhor acepção.
+👴🏻 ▸ A palavra *anjo* desperta geralmente a ideia de perfeição moral. Entretanto, ela se aplica muitas vezes à designação de todos os seres, bons e maus, que estão fora da Humanidade. Diz-se: o anjo bom e o anjo mau; o anjo de luz e o anjo das trevas. Neste caso, o termo é sinônimo de *Espírito* ou de *gênio*. Tomamo-lo aqui na sua melhor acepção. ⚜️
 :::
 
 ---
@@ -930,11 +930,11 @@ A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no
 :::
 
 ::: kardec
-👴🏻 ▸ Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
+Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
 
 Os homens fizeram com os demônios o que fizeram com os anjo. Como acreditaram na existência de seres perfeitos desde toda a eternidade, tomaram os Espíritos inferiores por seres perpetuamente maus. Por demônios se devem entender os Espíritos impuros, que muitas vezes não valem mais do que as entidades designadas por esse nome, mas com a diferença de ser transitório o estado deles. São Espíritos imperfeitos, que se rebelam contra as provas que lhes tocam e que, por isso, as sofrem mais longamente, porém, que, a seu turno, chegarão a sair daquele estado, quando o quiserem. Poder-se-ia, pois, aceitar o termo *demônio* com esta restrição. Como o entendem atualmente, dando-se-lhe um sentido exclusivo, ele induziria em erro, com o fazer crer na existência de seres especiais criados para o mal.
 
-Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a Divindade e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da verdade etc. Os modernos representaram os anjos, os puros Espíritos, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao pé da letra, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo.
+Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a Divindade e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da verdade etc. Os modernos representaram os anjos, os puros Espíritos, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao pé da letra, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo. ⚜️
 :::
 
 ::: expand 🔗
@@ -963,7 +963,7 @@ Qual o objetivo da encarnação dos Espíritos?
 :::
 
 ::: kardec
-👴🏻 ▸ A ação dos seres corpóreos é necessária à marcha do Universo. Deus, porém, na sua sabedoria, quis que nessa mesma ação eles encontrassem um meio de progredir e de se aproximar dele. Deste modo, por uma admirável lei da Providência, tudo se encadeia, tudo é solidário na Natureza.
+👴🏻 ▸ A ação dos seres corpóreos é necessária à marcha do Universo. Deus, porém, na sua sabedoria, quis que nessa mesma ação eles encontrassem um meio de progredir e de se aproximar dele. Deste modo, por uma admirável lei da Providência, tudo se encadeia, tudo é solidário na Natureza. ⚜️
 :::
 
 ---
@@ -1070,7 +1070,7 @@ De que natureza é esse laço?
 
 2. a alma, Espírito encarnado que tem no corpo a sua habitação.  
 
-3. o princípio intermediário, ou *perispírito*, substância semimaterial que serve de primeiro envoltório ao Espírito e liga a alma ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
+3. o princípio intermediário, ou *perispírito*, substância semimaterial que serve de primeiro envoltório ao Espírito e liga a alma ao corpo. Tal, num fruto, o germe, o perisperma e a casca. ⚜️
 :::
 
 ::: expand 🔗
@@ -1165,7 +1165,7 @@ Alguns Espíritos e, antes deles, alguns filósofos definiram a alma como: uma c
 :::
 
 ::: kardec
-👴🏻 ▸ O vocábulo *alma* se emprega para exprimir coisas muito diferentes. Uns chamam alma ao princípio da vida e, nesta acepção, se pode com acerto dizer, *figuradamente*, que a alma é uma centelha anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a morte, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da matéria e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de alma e nesta acepção é que se pode dizer que a alma é um Espírito encarnado. Dando da alma definições diversas, os Espíritos falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia, donde uma imensidade de equívocos e discussões. Eis por que os Espíritos superiores nos dizem que primeiro nos entendamos acerca das palavras.[^8]
+👴🏻 ▸ O vocábulo *alma* se emprega para exprimir coisas muito diferentes. Uns chamam alma ao princípio da vida e, nesta acepção, se pode com acerto dizer, *figuradamente*, que a alma é uma centelha anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a morte, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da matéria e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de alma e nesta acepção é que se pode dizer que a alma é um Espírito encarnado. Dando da alma definições diversas, os Espíritos falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia, donde uma imensidade de equívocos e discussões. Eis por que os Espíritos superiores nos dizem que primeiro nos entendamos acerca das palavras.[^8] ⚜️
 :::
 
 ::: expand 🔗
@@ -1203,7 +1203,7 @@ Entretanto, alguns Espíritos deram essa definição.
 :::
 
 ::: kardec
-👴🏻 ▸ A alma atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o Espírito que habita o corpo durante a vida e o deixa por ocasião da morte.
+👴🏻 ▸ A alma atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o Espírito que habita o corpo durante a vida e o deixa por ocasião da morte. ⚜️
 :::
 
 ::: expand 🔗
@@ -1340,7 +1340,7 @@ O homem tem, instintivamente, a convicção de que nem tudo se lhe acaba com a v
 
 Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina que não pode ser assim e a razão no-lo confirma. Uma existência futura, porém, vaga e indefinida não apresenta o que satisfaça ao nosso desejo do positivo. Essa, em muitos, a origem da dúvida. Possuímos alma, está bem; mas que é a nossa alma? Tem forma, uma aparência qualquer? É um ser limitado ou indefinido? Dizem alguns que é um sopro de Deus; outros, uma centelha; outros, uma parcela do grande Todo, o princípio da vida e da inteligência. Que é, porém, o que de tudo isto ficamos sabendo? Que nos importa ter uma alma, se, extinguindo-se-nos a vida, ela desaparece na imensidade, como as gotas de água no oceano? A perda da nossa individualidade não equivale, para nós, ao nada? Diz-se também que a alma é imaterial. Ora, uma coisa imaterial carece de proporções determinadas. Desde então, nada é, para nós. A religião ainda nos ensina que seremos felizes ou desgraçados, conforme o bem ou o mal que houvermos feito. Que vem a ser, porém, essa felicidade que nos aguarda no seio de Deus? Será uma beatitude, uma contemplação eterna, sem outra ocupação mais do que entoar louvores ao Criador? As chamas do inferno serão uma realidade ou um símbolo? A própria Igreja lhes dá esta última significação; mas, então, que são aqueles sofrimentos? Onde esse lugar de suplício? Numa palavra, que é o que se faz, que é o que se vê, nesse outro mundo que a todos nos espera? Dizem que ninguém jamais voltou de lá para nos dar informações.
 
-É erro dizê-lo e a missão do Espiritismo consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples presunção, de uma probabilidade sobre a qual cada um conjeture à vontade, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a fé e os tíbios a renovação do fervor e da confiança. O Espiritismo é, pois, o mais potente auxiliar da religião. Se ele aí está, é porque Deus o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à senda do bem pela perspectiva do futuro.
+É erro dizê-lo e a missão do Espiritismo consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples presunção, de uma probabilidade sobre a qual cada um conjeture à vontade, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a fé e os tíbios a renovação do fervor e da confiança. O Espiritismo é, pois, o mais potente auxiliar da religião. Se ele aí está, é porque Deus o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à senda do bem pela perspectiva do futuro. ⚜️
 :::
 
 ::: expand 🔗
@@ -1436,7 +1436,7 @@ Que prova podemos ter da individualidade da alma depois da morte?
 ::: kardec
 👴🏻 ▸ Os que pensam que, pela morte, a alma reingressa no *todo universal* estão em erro, se supõem que, semelhante à gota de água que cai no oceano, ela perde ali a sua individualidade. Estão certos, se por todo universal entendem o conjunto dos seres incorpóreos, conjunto de que cada alma ou Espírito é um elemento.
 
-Se as almas se confundissem num amálgama só teriam as qualidades do conjunto, nada as distinguiria umas das outras. Careceriam de inteligência e de qualidades pessoais quando, ao contrário, em tºodas as comunicações, denotam ter consciência do seu *eu* e vontade própria. A diversidade infinita que apresentam, sob todos os aspectos, é a consequência mesma de constituírem individualidades diversas. Se, após a morte, só houvesse o que se chama o grande Todo, a absorver todas as individualidades, esse Todo seria uniforme e, então, as comunicações que se recebessem do mundo invisível seriam idênticas. Desde que, porém, lá se nos deparam seres bons e maus, sábios e ignorantes, felizes e desgraçados; que lá os há de todos os caracteres: alegres e tristes, levianos e ponderados etc., patente se faz que eles são seres distintos. A individualidade ainda mais evidente se torna, quando esses seres provam a sua identidade por indicações incontestáveis, particularidades individuais verificáveis, referentes às suas vidas terrestres. Também não pode ser posta em dúvida, quando se fazem visíveis nas aparições. A individualidade da alma nos era ensinada em teoria, como artigo de fé. O Espiritismo a torna manifesta e, de certo modo, material.
+Se as almas se confundissem num amálgama só teriam as qualidades do conjunto, nada as distinguiria umas das outras. Careceriam de inteligência e de qualidades pessoais quando, ao contrário, em tºodas as comunicações, denotam ter consciência do seu *eu* e vontade própria. A diversidade infinita que apresentam, sob todos os aspectos, é a consequência mesma de constituírem individualidades diversas. Se, após a morte, só houvesse o que se chama o grande Todo, a absorver todas as individualidades, esse Todo seria uniforme e, então, as comunicações que se recebessem do mundo invisível seriam idênticas. Desde que, porém, lá se nos deparam seres bons e maus, sábios e ignorantes, felizes e desgraçados; que lá os há de todos os caracteres: alegres e tristes, levianos e ponderados etc., patente se faz que eles são seres distintos. A individualidade ainda mais evidente se torna, quando esses seres provam a sua identidade por indicações incontestáveis, particularidades individuais verificáveis, referentes às suas vidas terrestres. Também não pode ser posta em dúvida, quando se fazem visíveis nas aparições. A individualidade da alma nos era ensinada em teoria, como artigo de fé. O Espiritismo a torna manifesta e, de certo modo, material. ⚜️
 :::
 
 ::: expand 🔗
@@ -1486,7 +1486,7 @@ Não seria mais exato chamar *vida eterna* a dos Espíritos puros, dos que, tend
 :::
 
 ::: kardec
-👴🏻 ▸ Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo.
+👴🏻 ▸ Na morte natural, a que sobrevém pelo esgotamento dos órgãos, em consequência da idade, o homem deixa a vida sem o perceber: é uma lâmpada que se apaga por falta de óleo. ⚜️
 :::
 
 ---
@@ -1516,7 +1516,7 @@ A separação se dá instantaneamente por brusca transição? Haverá alguma lin
 :::
 
 ::: kardec
-👴🏻 ▸ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-material ou perispírito. A morte é a destruição do corpo somente, não a desse outro invólucro, que do corpo se separa quando cessa neste a vida orgânica. A observação demonstra que, no instante da morte, o desprendimento do perispírito não se completa subitamente; que, ao contrário, se opera gradualmente e com uma lentidão muito variável conforme os indivíduos. Em uns é bastante rápido, podendo dizer-se que o momento da morte é o da libertação, com apenas algumas horas de diferença. Em outros, naqueles sobretudo cuja vida foi *toda material e sensual, o desprendimento é muito menos rápido, durando algumas vezes dias, semanas e até meses, o que não implica existir, no corpo, a menor vitalidade, nem a possibilidade de volver à vida, mas uma simples afinidade com o Espírito, afinidade que guarda sempre proporção com a preponderância que, durante a vida, o Espírito deu à matéria. É, com efeito, racional conceber-se que, quanto mais o Espírito se haja identificado com a matéria, tanto mais penoso lhe seja separar-se dela; ao passo que a atividade intelectual e moral, a elevação dos pensamentos operam um começo de desprendimento, mesmo durante a vida do corpo, de modo que, chegando a morte, ele é quase instantâneo. Tal o resultado dos estudos feitos em todos os indivíduos que se têm podido observar por ocasião da morte. Essas observações ainda provam que a afinidade, persistente entre a alma e o corpo, em certos indivíduos, é, às vezes, muito penosa, porquanto o Espírito pode experimentar o horror da decomposição. Este caso, porém, é excepcional e peculiar a certos gêneros de vida e a certos gêneros de morte. Verifica-se com alguns suicidas.
+👴🏻 ▸ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-material ou perispírito. A morte é a destruição do corpo somente, não a desse outro invólucro, que do corpo se separa quando cessa neste a vida orgânica. A observação demonstra que, no instante da morte, o desprendimento do perispírito não se completa subitamente; que, ao contrário, se opera gradualmente e com uma lentidão muito variável conforme os indivíduos. Em uns é bastante rápido, podendo dizer-se que o momento da morte é o da libertação, com apenas algumas horas de diferença. Em outros, naqueles sobretudo cuja vida foi *toda material e sensual*, o desprendimento é muito menos rápido, durando algumas vezes dias, semanas e até meses, o que não implica existir, no corpo, a menor vitalidade, nem a possibilidade de volver à vida, mas uma simples afinidade com o Espírito, afinidade que guarda sempre proporção com a preponderância que, durante a vida, o Espírito deu à matéria. É, com efeito, racional conceber-se que, quanto mais o Espírito se haja identificado com a matéria, tanto mais penoso lhe seja separar-se dela; ao passo que a atividade intelectual e moral, a elevação dos pensamentos operam um começo de desprendimento, mesmo durante a vida do corpo, de modo que, chegando a morte, ele é quase instantâneo. Tal o resultado dos estudos feitos em todos os indivíduos que se têm podido observar por ocasião da morte. Essas observações ainda provam que a afinidade, persistente entre a alma e o corpo, em certos indivíduos, é, às vezes, muito penosa, porquanto o Espírito pode experimentar o horror da decomposição. Este caso, porém, é excepcional e peculiar a certos gêneros de vida e a certos gêneros de morte. Verifica-se com alguns suicidas. ⚜️
 :::
 
 ::: expand 🔗
@@ -1626,7 +1626,7 @@ Após a decapitação, por exemplo, conserva o homem por alguns instantes a cons
 :::
 
 ::: kardec
-👴🏻 ▸ Trata-se aqui da consciência que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como Espírito. Se não perdeu essa consciência antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o perispírito esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da extinção gradual das forças vitais, mais *tenazes* os laços que prendem o corpo ao perispírito e, portanto, mais lento o desprendimento completo.
+👴🏻 ▸ Trata-se aqui da consciência que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como Espírito. Se não perdeu essa consciência antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o perispírito esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da extinção gradual das forças vitais, mais *tenazes* os laços que prendem o corpo ao perispírito e, portanto, mais lento o desprendimento completo. ⚜️
 :::
 
 ::: expand 🔗
@@ -1683,7 +1683,7 @@ Aquela perturbação apresenta circunstâncias especiais, de acordo com os carac
 
 A perturbação que se segue à morte nada tem de penosa para o homem de bem, que se conserva calmo, semelhante em tudo a quem acompanha as fases de um tranquilo despertar. Para aquele cuja consciência ainda não está pura, a perturbação é cheia de ansiedade e de angústias, que aumentam à proporção que ele da sua situação se compenetra.
 
-Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesmo tempo nem sempre tornam a ver-se logo. Presas da perturbação que se segue à morte, cada um vai para seu lado, ou só se preocupa com os que lhe interessam.
+Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesmo tempo nem sempre tornam a ver-se logo. Presas da perturbação que se segue à morte, cada um vai para seu lado, ou só se preocupa com os que lhe interessam. ⚜️
 :::
 
 ↩️ Voltar para [Q.957](#q957)
@@ -1827,7 +1827,7 @@ Não obraria Deus com equidade, nem de acordo com a sua bondade, se condenasse p
 
 A doutrina da reencarnação, isto é, a que consiste em admitir para o Espírito muitas existências sucessivas, é a única que corresponde à ideia que formamos da Justiça de Deus para com os homens que se acham em condição moral inferior; a única que pode explicar o futuro e firmar as nossas esperanças, pois que nos oferece os meios de resgatarmos os nossos erros por novas provações. A razão no-la indica e os Espíritos a ensinam.
 
-O homem, que tem consciência da sua inferioridade, haure consoladora esperança na doutrina da reencarnação. Se crê na Justiça de Deus, não pode contar que venha a achar-se, para sempre, em pé de igualdade com os que mais fizeram do que ele. Sustém-no, porém, e lhe reanima a coragem a ideia de que aquela inferioridade não o deserda eternamente do supremo bem e que, mediante novos esforços, dado lhe será conquistá-lo. Quem é que, ao cabo da sua carreira, não deplora haver tão tarde ganho uma experiência de que já não mais pode tirar proveito? Entretanto, essa experiência tardia não fica perdida; o Espírito a utilizará em nova existência.
+O homem, que tem consciência da sua inferioridade, haure consoladora esperança na doutrina da reencarnação. Se crê na Justiça de Deus, não pode contar que venha a achar-se, para sempre, em pé de igualdade com os que mais fizeram do que ele. Sustém-no, porém, e lhe reanima a coragem a ideia de que aquela inferioridade não o deserda eternamente do supremo bem e que, mediante novos esforços, dado lhe será conquistá-lo. Quem é que, ao cabo da sua carreira, não deplora haver tão tarde ganho uma experiência de que já não mais pode tirar proveito? Entretanto, essa experiência tardia não fica perdida; o Espírito a utilizará em nova existência. ⚜️
 :::
 
 ↩️ Voltar para [Q.619](#q619)
@@ -2105,7 +2105,7 @@ Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 
 Da purificação do Espírito decorre o aperfeiçoamento moral, para os seres que eles constituem, quando encarnados. As paixões animais se enfraquecem e o egoísmo cede lugar ao sentimento da fraternidade. Assim é que, nos mundos superiores ao nosso, se desconhecem as guerras, carecendo de objeto os ódios e as discórdias, porque ninguém pensa em causar dano ao seu semelhante. A intuição que seus habitantes têm do futuro, a segurança que uma consciência isenta de remorsos lhes dá, fazem que a morte nenhuma apreensão lhes cause. Encaram-na de frente, sem temor, como simples transformação.
 
-A duração da vida, nos diferentes mundos, parece guardar proporção com o grau de superioridade física e moral de cada um, o que é perfeitamente racional. Quanto menos material o corpo, menos sujeito às vicissitudes que o desorganizam. Quanto mais puro o Espírito, menos paixões a miná-lo. É essa ainda uma graça da Providência, que desse modo abrevia os sofrimentos.
+A duração da vida, nos diferentes mundos, parece guardar proporção com o grau de superioridade física e moral de cada um, o que é perfeitamente racional. Quanto menos material o corpo, menos sujeito às vicissitudes que o desorganizam. Quanto mais puro o Espírito, menos paixões a miná-lo. É essa ainda uma graça da Providência, que desse modo abrevia os sofrimentos. ⚜️
 :::
 
 ↩️ Voltar para [Q.985](#q985)
@@ -2170,7 +2170,7 @@ O estado físico e moral dos seres vivos é perpetuamente o mesmo em cada mundo?
 :::
 
 ::: kardec
-👴🏻 ▸ É assim que as raças, que hoje povoam a Terra, desaparecerão um dia, substituídas por seres cada vez mais perfeitos, pois que essas novas raças transformadas sucederão às atuais, como estas sucederam a outras ainda mais grosseiras.
+👴🏻 ▸ É assim que as raças, que hoje povoam a Terra, desaparecerão um dia, substituídas por seres cada vez mais perfeitos, pois que essas novas raças transformadas sucederão às atuais, como estas sucederam a outras ainda mais grosseiras. ⚜️
 :::
 
 ⚓
@@ -2295,7 +2295,7 @@ Então, as paixões são um sinal de desenvolvimento?
 :::
 
 ::: kardec
-👴🏻 ▸ A vida do Espírito, em seu conjunto, apresenta as mesmas fases que observamos na vida corporal. Ele passa gradualmente do estado de embrião ao de infância, para chegar, percorrendo sucessivos períodos, ao de adulto, que é o da perfeição, com a diferença de que para o Espírito não há declínio, nem decrepitude, como na vida corporal; que a sua vida, que teve começo, não terá fim; que imenso tempo lhe é necessário, do nosso ponto de vista, para passar da infância espírita ao completo desenvolvimento; e que o seu progresso se realiza, não num único mundo, mas vivendo ele em mundos diversos. A vida do Espírito, pois, se compõe de uma série de existências corpóreas, cada uma das quais representa para ele uma ocasião de progredir, do mesmo modo que cada existência corporal se compõe de uma série de dias, em cada um dos quais o homem obtém um acréscimo de experiência e de instrução. Mas, assim como, na vida do homem, há dias que nenhum fruto produzem, na do Espírito, há existências corporais de que ele nenhum resultado colhe, porque não as soube aproveitar.
+👴🏻 ▸ A vida do Espírito, em seu conjunto, apresenta as mesmas fases que observamos na vida corporal. Ele passa gradualmente do estado de embrião ao de infância, para chegar, percorrendo sucessivos períodos, ao de adulto, que é o da perfeição, com a diferença de que para o Espírito não há declínio, nem decrepitude, como na vida corporal; que a sua vida, que teve começo, não terá fim; que imenso tempo lhe é necessário, do nosso ponto de vista, para passar da infância espírita ao completo desenvolvimento; e que o seu progresso se realiza, não num único mundo, mas vivendo ele em mundos diversos. A vida do Espírito, pois, se compõe de uma série de existências corpóreas, cada uma das quais representa para ele uma ocasião de progredir, do mesmo modo que cada existência corporal se compõe de uma série de dias, em cada um dos quais o homem obtém um acréscimo de experiência e de instrução. Mas, assim como, na vida do homem, há dias que nenhum fruto produzem, na do Espírito, há existências corporais de que ele nenhum resultado colhe, porque não as soube aproveitar. ⚜️
 :::
 
 ::: expand 🔗
@@ -2382,7 +2382,7 @@ A alma de um homem perverso pode tornar-se a de um homem de bem?
 :::
 
 ::: kardec
-👴🏻 ▸ A marcha dos Espíritos é progressiva, jamais retrógrada. Eles se elevam gradualmente na hierarquia e não descem da categoria a que ascenderam. Em suas diferentes existências corporais, podem descer como homens, não como Espíritos. Assim, a alma de um potentado da Terra pode mais tarde animar o mais humilde obreiro e vice-versa, por isso que, entre os homens, as categorias estão, frequentemente, na razão inversa da elevação das qualidades morais. Herodes era rei e Jesus, carpinteiro.
+👴🏻 ▸ A marcha dos Espíritos é progressiva, jamais retrógrada. Eles se elevam gradualmente na hierarquia e não descem da categoria a que ascenderam. Em suas diferentes existências corporais, podem descer como homens, não como Espíritos. Assim, a alma de um potentado da Terra pode mais tarde animar o mais humilde obreiro e vice-versa, por isso que, entre os homens, as categorias estão, frequentemente, na razão inversa da elevação das qualidades morais. Herodes era rei e Jesus, carpinteiro. ⚜️
 :::
 
 ::: expand 🔗
@@ -2403,7 +2403,7 @@ A possibilidade de se melhorarem noutra existência não será de molde a fazer 
 :::
 
 ::: kardec
-👴🏻 ▸ O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível. Aquele, que se acha persuadido de que as tribulações da vida terrena são consequência de suas imperfeições, procurará garantir para si uma nova existência menos penosa e esta ideia o desviará mais depressa da senda do mal do que a do fogo eterno, em que não acredita.
+👴🏻 ▸ O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível. Aquele, que se acha persuadido de que as tribulações da vida terrena são consequência de suas imperfeições, procurará garantir para si uma nova existência menos penosa e esta ideia o desviará mais depressa da senda do mal do que a do fogo eterno, em que não acredita. ⚜️
 :::
 
 ::: expand 🔗
@@ -2437,7 +2437,7 @@ Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulaçõe
 :::
 
 ::: kardec
-👴🏻 ▸ O suco da vide nos oferece um símile material dos diferentes graus da depuração da alma. Ele contém o licor que se chama espírito ou álcool, mas enfraquecido por uma imensidade de matérias estranhas, que lhe alteram a essência. Esta só chega à pureza absoluta depois de múltiplas destilações, em cada uma das quais se despoja de algumas impurezas. O corpo é o alambique em que a alma tem que entrar para se purificar. Às matérias estranhas se assemelha o perispírito, que também se depura, à medida que o Espírito se aproxima da perfeição.
+👴🏻 ▸ O suco da vide nos oferece um símile material dos diferentes graus da depuração da alma. Ele contém o licor que se chama espírito ou álcool, mas enfraquecido por uma imensidade de matérias estranhas, que lhe alteram a essência. Esta só chega à pureza absoluta depois de múltiplas destilações, em cada uma das quais se despoja de algumas impurezas. O corpo é o alambique em que a alma tem que entrar para se purificar. Às matérias estranhas se assemelha o perispírito, que também se depura, à medida que o Espírito se aproxima da perfeição. ⚜️
 :::
 
 ::: expand 🔗
@@ -2510,7 +2510,7 @@ Que sucede ao Espírito de uma criança que morre pequenina?
 
 Semelhante ordem de coisas não corresponderia à Justiça de Deus. Com a reencarnação, a igualdade é real para todos. O futuro a todos toca sem exceção e sem favor para quem quer que seja. Os retardatários só de si mesmos se podem queixar. Forçoso é que o homem tenha o merecimento de seus atos, como tem deles a responsabilidade.
 
-Aliás, não é racional considerar-se a infância como um estado normal de inocência. Não se veem crianças dotadas dos piores instintos, numa idade em que ainda nenhuma influência pode ter tido a educação? Algumas não há que parecem trazer do berço a astúcia, a felonia, a perfídia, até pendor para o roubo e para o assassínio, não obstante os bons exemplos que de todos os lados se lhes dão? A lei civil as absolve de seus crimes, porque diz que elas obraram sem discernimento. Tem razão a lei, porque, de fato, elas obram mais por instinto do que intencionalmente. Donde, porém, provirão instintos tão diversos em crianças da mesma idade, educadas em condições idênticas e sujeitas às mesmas influências? Donde a precoce perversidade, senão da inferioridade do Espírito, uma vez que a educação em nada contribuiu para isso? As que se revelam viciosas, é porque seus Espíritos muito pouco hão progredido. Sofrem então, por efeito dessa falta de progresso, as consequências, não dos atos que praticam na infância, mas dos de suas existências anteriores. Assim é que a lei é uma só para todos e que todos são atingidos pela Justiça de Deus.
+Aliás, não é racional considerar-se a infância como um estado normal de inocência. Não se veem crianças dotadas dos piores instintos, numa idade em que ainda nenhuma influência pode ter tido a educação? Algumas não há que parecem trazer do berço a astúcia, a felonia, a perfídia, até pendor para o roubo e para o assassínio, não obstante os bons exemplos que de todos os lados se lhes dão? A lei civil as absolve de seus crimes, porque diz que elas obraram sem discernimento. Tem razão a lei, porque, de fato, elas obram mais por instinto do que intencionalmente. Donde, porém, provirão instintos tão diversos em crianças da mesma idade, educadas em condições idênticas e sujeitas às mesmas influências? Donde a precoce perversidade, senão da inferioridade do Espírito, uma vez que a educação em nada contribuiu para isso? As que se revelam viciosas, é porque seus Espíritos muito pouco hão progredido. Sofrem então, por efeito dessa falta de progresso, as consequências, não dos atos que praticam na infância, mas dos de suas existências anteriores. Assim é que a lei é uma só para todos e que todos são atingidos pela Justiça de Deus. ⚜️
 :::
 
 ::: expand 🔗
@@ -2557,7 +2557,7 @@ Quando errante, que prefere o Espírito: encarnar no corpo de um homem, ou no de
 :::
 
 ::: kardec
-👴🏻 ▸ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Visto que lhes cumpre progredir em tudo, cada sexo, como cada posição social, lhes proporciona provações e deveres especiais e, com isso, ensejo de ganharem experiência. Aquele que só como homem encarnasse só saberia o que sabem os homens.
+👴🏻 ▸ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Visto que lhes cumpre progredir em tudo, cada sexo, como cada posição social, lhes proporciona provações e deveres especiais e, com isso, ensejo de ganharem experiência. Aquele que só como homem encarnasse só saberia o que sabem os homens. ⚜️
 :::
 
 ::: expand 🔗
@@ -2813,7 +2813,7 @@ E do caráter físico de suas existências pretéritas conserva o Espírito tra�
 :::
 
 ::: kardec
-👴🏻 ▸ Nenhuma relação *essencial* guardando o corpo que a alma toma numa encarnação com o de que se revestiu em encarnação anterior, visto que aquele lhe pode vir de procedência muito diversa da deste, fora absurdo pretender-se que, numa série de existências, haja uma semelhança que é inteiramente fortuita. Todavia, as qualidades do Espírito frequentemente modificam os órgãos que lhe servem para as manifestações e lhe imprimem ao semblante físico e até ao conjunto de suas maneiras um cunho especial. É assim que, sob um envoltório corporal da mais humilde aparência, se pode deparar a expressão da grandeza e da dignidade, enquanto sob um envoltório de aspecto senhoril se percebe frequentemente a da baixeza e da ignomínia. Não é pouco frequente observar-se que certas pessoas, elevando-se da mais ínfima posição, tomam sem esforços os hábitos e as maneiras da alta sociedade. Parece que elas aí vêm a *achar-se de novo* no seu elemento. Outras, contrariamente, apesar do nascimento e da educação, se mostram sempre deslocadas em tal meio. De que modo se há de explicar esse fato, senão como reflexo daquilo que o Espírito foi antes?
+👴🏻 ▸ Nenhuma relação *essencial* guardando o corpo que a alma toma numa encarnação com o de que se revestiu em encarnação anterior, visto que aquele lhe pode vir de procedência muito diversa da deste, fora absurdo pretender-se que, numa série de existências, haja uma semelhança que é inteiramente fortuita. Todavia, as qualidades do Espírito frequentemente modificam os órgãos que lhe servem para as manifestações e lhe imprimem ao semblante físico e até ao conjunto de suas maneiras um cunho especial. É assim que, sob um envoltório corporal da mais humilde aparência, se pode deparar a expressão da grandeza e da dignidade, enquanto sob um envoltório de aspecto senhoril se percebe frequentemente a da baixeza e da ignomínia. Não é pouco frequente observar-se que certas pessoas, elevando-se da mais ínfima posição, tomam sem esforços os hábitos e as maneiras da alta sociedade. Parece que elas aí vêm a *achar-se de novo* no seu elemento. Outras, contrariamente, apesar do nascimento e da educação, se mostram sempre deslocadas em tal meio. De que modo se há de explicar esse fato, senão como reflexo daquilo que o Espírito foi antes? ⚜️
 :::
 
 ::: expand 🔗
@@ -2932,7 +2932,7 @@ Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina Esp
 
 #### 222 {#222}
 
-Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
+👴🏻 ▸ Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
 
 Portanto, ensinando o dogma da pluralidade das existências corporais, os Espíritos renovam uma doutrina que teve origem nas primeiras idades do mundo e que se conservou no íntimo de muitas pessoas, até os nossos dias. Simplesmente, eles a apresentam de um ponto de vista mais racional, mais acorde com as leis progressivas da Natureza e mais de conformidade com a sabedoria do Criador, despindo-a de todos os acessórios da superstição. Circunstância digna de nota é que não só neste livro os Espíritos a ensinaram no decurso dos últimos tempos: já antes da sua publicação, numerosas comunicações da mesma natureza se obtiveram em vários países, multiplicando-se depois, consideravelmente. Talvez fosse aqui o caso de examinarmos por que os Espíritos não parecem todos de acordo sobre esta questão. Mais tarde, porém, voltaremos a este assunto.
 
@@ -3020,7 +3020,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito:
 ::: bible
 ✝️ ▸ Respondendo a Nicodemos, disse Jesus: *Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.* Disse-lhe Nicodemos: Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu Jesus: *Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer***.
 
-**João, cap. 3, vers. 3.7, ARC**
+**João, cap. 3, vers. 3-7, ARC**
 :::
 
 👉🏻 Veja [Q.1010](#q1010)
@@ -3119,7 +3119,7 @@ Poder-se-á dizer que são errantes todos os Espíritos que não estão encarnad
 :::
 
 ::: kardec
-👴🏻 ▸ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou graus, pelos quais vão passando sucessivamente, à medida que se purificam. Com relação ao estado em que se acham, podem ser: *encarnados*, isto é, ligados a um corpo; *errantes*, isto é, sem corpo material e aguardando nova encarnação para se melhorarem; *Espíritos puros*, isto é, perfeitos, não precisando mais de encarnação.
+👴🏻 ▸ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou graus, pelos quais vão passando sucessivamente, à medida que se purificam. Com relação ao estado em que se acham, podem ser: *encarnados*, isto é, ligados a um corpo; *errantes*, isto é, sem corpo material e aguardando nova encarnação para se melhorarem; *Espíritos puros*, isto é, perfeitos, não precisando mais de encarnação. ⚜️
 :::
 
 ::: expand 🔗
@@ -3353,7 +3353,7 @@ Em que época?
 :::
 
 ::: kardec
-👴🏻 ▸ Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum há o vazio; tudo é habitado, há vida em toda parte. Assim, durante a dilatada sucessão dos séculos que passaram antes do aparecimento do homem na Terra, durante os lentos períodos de transição que as camadas geológicas atestam, antes mesmo da formação dos primeiros seres orgânicos, naquela massa informe, naquele árido caos, onde os elementos se achavam em confusão, não havia ausência de vida. Seres isentos das nossas necessidades, das nossas sensações físicas, lá encontravam refúgio. Quis Deus que, mesmo assim, ainda imperfeita, a Terra servisse para alguma coisa. Quem ousaria afirmar que, entre os milhares de mundos que giram na imensidade, um só, um dos menores, perdido no seio da multidão infinita deles, goza do privilégio exclusivo de ser povoado? Qual então a utilidade dos demais? Tê-los-ia Deus feito unicamente para nos recrearem a vista? Suposição absurda, incompatível com a sabedoria que esplende em todas as suas obras e inadmissível desde que ponderemos na existência de todos os que não podemos perceber. Ninguém contestará que, nesta ideia da existência de mundos ainda impróprios para a vida material e, não obstante, já povoados de seres vivos apropriados a tal meio, há qualquer coisa de grande e sublime, em que talvez se encontre a solução de mais de um problema.
+👴🏻 ▸ Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum há o vazio; tudo é habitado, há vida em toda parte. Assim, durante a dilatada sucessão dos séculos que passaram antes do aparecimento do homem na Terra, durante os lentos períodos de transição que as camadas geológicas atestam, antes mesmo da formação dos primeiros seres orgânicos, naquela massa informe, naquele árido caos, onde os elementos se achavam em confusão, não havia ausência de vida. Seres isentos das nossas necessidades, das nossas sensações físicas, lá encontravam refúgio. Quis Deus que, mesmo assim, ainda imperfeita, a Terra servisse para alguma coisa. Quem ousaria afirmar que, entre os milhares de mundos que giram na imensidade, um só, um dos menores, perdido no seio da multidão infinita deles, goza do privilégio exclusivo de ser povoado? Qual então a utilidade dos demais? Tê-los-ia Deus feito unicamente para nos recrearem a vista? Suposição absurda, incompatível com a sabedoria que esplende em todas as suas obras e inadmissível desde que ponderemos na existência de todos os que não podemos perceber. Ninguém contestará que, nesta ideia da existência de mundos ainda impróprios para a vida material e, não obstante, já povoados de seres vivos apropriados a tal meio, há qualquer coisa de grande e sublime, em que talvez se encontre a solução de mais de um problema. ⚜️
 :::
 
 ::: expand 🔗
@@ -3417,7 +3417,7 @@ A duração, os Espíritos a compreendem como nós?
 :::
 
 ::: kardec
-👴🏻 ▸ Os Espíritos vivem fora do tempo como o compreendemos. A duração, para eles, deixa, por assim dizer, de existir. Os séculos, para nós tão longos, não passam, aos olhos deles, de instantes que se movem na eternidade, do mesmo modo que os relevos do solo se apagam e desaparecem para quem se eleva no espaço.
+👴🏻 ▸ Os Espíritos vivem fora do tempo como o compreendemos. A duração, para eles, deixa, por assim dizer, de existir. Os séculos, para nós tão longos, não passam, aos olhos deles, de instantes que se movem na eternidade, do mesmo modo que os relevos do solo se apagam e desaparecem para quem se eleva no espaço. ⚜️
 :::
 
 ↩️ Voltar para [Q.1005](#q1005)
@@ -3569,10 +3569,10 @@ Para verem o que se passa em dois pontos diferentes, precisam transportar-se a e
 :::
 
 ::: kardec
-👴🏻 ▸ No Espírito, a faculdade de ver é uma propriedade inerente à sua natureza e que reside em todo o seu ser, como a luz reside em todas as partes de um corpo luminoso. É uma espécie de lucidez universal que se estende a tudo, que abrange simultaneamente o espaço, os tempos e as coisas, lucidez para a qual não há trevas, nem obstáculos materiais. Compreende-se que deva ser assim. No homem, a visão se dá pelo funcionamento de um órgão que a luz impressiona. Daí se segue que, não havendo luz, o homem fica na obscuridade. No Espírito, como a faculdade de ver constitui um atributo seu, abstração feita de qualquer agente exterior, a visão independe da luz.
+👴🏻 ▸ No Espírito, a faculdade de ver é uma propriedade inerente à sua natureza e que reside em todo o seu ser, como a luz reside em todas as partes de um corpo luminoso. É uma espécie de lucidez universal que se estende a tudo, que abrange simultaneamente o espaço, os tempos e as coisas, lucidez para a qual não há trevas, nem obstáculos materiais. Compreende-se que deva ser assim. No homem, a visão se dá pelo funcionamento de um órgão que a luz impressiona. Daí se segue que, não havendo luz, o homem fica na obscuridade. No Espírito, como a faculdade de ver constitui um atributo seu, abstração feita de qualquer agente exterior, a visão independe da luz.  ⚜️
 :::
 
-👉🏻 Veja [Q.92](#q92)
+👉🏻 Veja Ubiquidade, [Q.92](#q92)
 
 ::: expand 🔗
 🏷️ [Locomoção](#locomocao)
@@ -3731,9 +3731,9 @@ Como é então que alguns Espíritos se têm queixado de sofrer frio ou calor?
 
 #### 2.06.04 📄 Ensaio teórico da sensação nos Espíritos {#lde-2-06-04}
 
-##### #️⃣ Q.257 {#q257}
+##### #️⃣ 257 {#q257}
 
-O corpo é o instrumento da dor. Se não é a causa primária desta é, pelo menos, a causa imediata. A alma tem a percepção da dor: essa percepção é o efeito. A lembrança que da dor a alma conserva pode ser muito penosa, mas não pode ter ação física. De fato, nem o frio, nem o calor são capazes de desorganizar os tecidos da alma, que não é suscetível de congelar-se, nem de queimar-se. Não vemos todos os dias a recordação ou a apreensão de um mal físico produzirem o efeito desse mal, como se real fora? Não as vemos até causar a morte? Toda gente sabe que aqueles a quem se amputou um membro costumam sentir dor no membro que lhes falta. Certo que aí não está a sede, ou, sequer, o ponto de partida da dor. O que há, apenas, é que o cérebro guardou desta a impressão. Lícito, portanto, será admitir-se que coisa análoga ocorra nos sofrimentos do Espírito após a morte. Um estudo aprofundado do perispírito, que tão importante papel desempenha em todos os fenônemo espíritas; nas aparições vaporosas ou tangíveis; no estado em que o Espírito vem a encontrar-se por ocasião da morte; na ideia, que tão frequentemente manifesta, de que ainda está vivo; nas situações tão comoventes que nos revelam os dos suicidas, dos supliciados, dos que se deixaram absorver pelos gozos materiais; e inúmeros outros fatos, muita luz lançaram sobre esta questão, dando lugar a explicações que passamos a resumir.
+👴🏻 ▸ O corpo é o instrumento da dor. Se não é a causa primária desta é, pelo menos, a causa imediata. A alma tem a percepção da dor: essa percepção é o efeito. A lembrança que da dor a alma conserva pode ser muito penosa, mas não pode ter ação física. De fato, nem o frio, nem o calor são capazes de desorganizar os tecidos da alma, que não é suscetível de congelar-se, nem de queimar-se. Não vemos todos os dias a recordação ou a apreensão de um mal físico produzirem o efeito desse mal, como se real fora? Não as vemos até causar a morte? Toda gente sabe que aqueles a quem se amputou um membro costumam sentir dor no membro que lhes falta. Certo que aí não está a sede, ou, sequer, o ponto de partida da dor. O que há, apenas, é que o cérebro guardou desta a impressão. Lícito, portanto, será admitir-se que coisa análoga ocorra nos sofrimentos do Espírito após a morte. Um estudo aprofundado do perispírito, que tão importante papel desempenha em todos os fenônemo espíritas; nas aparições vaporosas ou tangíveis; no estado em que o Espírito vem a encontrar-se por ocasião da morte; na ideia, que tão frequentemente manifesta, de que ainda está vivo; nas situações tão comoventes que nos revelam os dos suicidas, dos supliciados, dos que se deixaram absorver pelos gozos materiais; e inúmeros outros fatos, muita luz lançaram sobre esta questão, dando lugar a explicações que passamos a resumir.
 
 O perispírito é o laço que à matéria do corpo prende o Espírito, que o tira do meio ambiente, do fluido universal. Participa ao mesmo tempo da eletricidade, do fluido magnético e, até certo ponto, da matéria inerte. Poder-se-ia dizer que é a quintessência da matéria. É o princípio da vida orgânica, porém, não o da vida intelectual, que reside no Espírito. É, além disso, o agente das sensações exteriores. No corpo, os órgãos, servindo-lhes de condutos, localizam essas sensações. Destruído o corpo, elas se tornam gerais. Daí o Espírito não dizer que sofre mais da cabeça do que dos pés, ou vice-versa. Não se confundam, porém, as sensações do perispírito, que se tornou independente, com as do corpo. Estas últimas só por termo de comparação as podemos tomar e não por analogia. Liberto do corpo, o Espírito pode sofrer, mas esse sofrimento não é corporal, embora não seja exclusivamente moral, como o remorso, pois que ele se queixa de frio e calor. Também não sofre mais no inverno do que no verão: temo-los visto atravessar chamas, sem experimentarem qualquer dor.
 
@@ -3749,6 +3749,7 @@ E acrescentava:
 
 ::: spirit
 ✨ ▸ *No entanto, sinto os vermes a me roerem.*
+:::
 
 Ora, indubitavelmente, os vermes não lhe roíam o perispírito e ainda menos o Espírito; roíam-lhe apenas o corpo. Como, porém, não era completa a separação do corpo e do perispírito, uma espécie de repercussão moral se produzia, transmitindo ao Espírito o que estava ocorrendo no corpo. Repercussão talvez não seja o termo próprio, porque pode induzir à suposição de um efeito muito material. Era antes a visão do que se passava com o corpo, ao qual ainda o conservava ligado o perispírito, o que lhe causava a ilusão, que ele tomava por realidade. Assim, pois, não haveria no caso uma reminiscência, porquanto ele não fora, em vida, roído pelos vermes: havia o sentimento de um fato da atualidade. Isto mostra que deduções se podem tirar dos fatos, quando atentamente observados.
 
@@ -3764,8 +3765,7 @@ Objetarão, talvez: toda esta teoria nada tem de tranquilizadora. Pensávamos qu
 
 Os sofrimentos deste mundo independem, algumas vezes, de nós; muito mais vezes, contudo, são devidos à nossa vontade. Remonte cada um à origem deles e verá que a maior parte de tais sofrimentos são efeitos de causas que lhe teria sido possível evitar. Quantos males, quantas enfermidades não deve o homem aos seus excessos, à sua ambição, numa palavra: às suas paixões? Aquele que sempre vivesse com sobriedade, que de nada abusasse, que fosse sempre simples nos gostos e modesto nos desejos, a muitas tribulações se forraria. O mesmo se dá com o Espírito. Os sofrimentos por que passa são sempre a consequência da maneira por que viveu na Terra. Certo já não sofrerá mais de gota, nem de reumatismo; no entanto, experimentará outros sofrimentos que nada ficam a dever àqueles. Vimos que seu sofrer resulta dos laços que ainda o prendem à matéria; que quanto mais livre estiver da influência desta, ou, por outra, quanto mais desmaterializado se achar, menos dolorosas sensações experimentará. Ora, está nas suas mãos libertar-se de tal influência desde a vida atual. Ele tem o livre-arbítrio, tem, por conseguinte, a faculdade de escolha entre o fazer e o não fazer. Dome suas paixões animais; não alimente ódio, nem inveja, nem ciúme, nem orgulho; não se deixe dominar pelo egoísmo; purifique-se, nutrindo bons sentimentos; pratique o bem; não ligue às coisas deste mundo importância que não merecem; e, então, embora revestido do invólucro corporal, já estará depurado, já estará liberto do jugo da matéria e, quando deixar esse invólucro, não mais lhe sofrerá a influência. Nenhuma recordação dolorosa lhe advirá dos sofrimentos físicos que haja padecido; nenhuma impressão desagradável eles lhe deixarão, porque apenas terão atingido o corpo e não a alma. Sentir-se-á feliz por se haver libertado deles e a paz da sua consciência o isentará de qualquer sofrimento moral.
 
-Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as classes da sociedade, ocuparam todas as posições sociais; estudamo-los em todos os períodos da vida espírita, a partir do momento em que abandonaram o corpo; acompanhamo-los passo a passo na vida de Além-túmulo, para observar as mudanças que se operavam neles, nas suas ideias, nos seus sentimentos e, sob esse aspecto, não foram os que aqui se contaram entre os homens mais vulgares os que nos proporcionaram menos preciosos elementos de estudo. Ora, notamos sempre que os sofrimentos guardavam relação com o proceder que eles tiveram e cujas consequências experimentavam; que a outra vida é fonte de inefável ventura para os que seguiram o bom caminho. Deduz-se daí que, aos que sofrem, isso acontece porque o quiseram; que, portanto, só de si mesmos se devem queixar, quer no outro mundo, quer neste.
-:::
+Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as classes da sociedade, ocuparam todas as posições sociais; estudamo-los em todos os períodos da vida espírita, a partir do momento em que abandonaram o corpo; acompanhamo-los passo a passo na vida de Além-túmulo, para observar as mudanças que se operavam neles, nas suas ideias, nos seus sentimentos e, sob esse aspecto, não foram os que aqui se contaram entre os homens mais vulgares os que nos proporcionaram menos preciosos elementos de estudo. Ora, notamos sempre que os sofrimentos guardavam relação com o proceder que eles tiveram e cujas consequências experimentavam; que a outra vida é fonte de inefável ventura para os que seguiram o bom caminho. Deduz-se daí que, aos que sofrem, isso acontece porque o quiseram; que, portanto, só de si mesmos se devem queixar, quer no outro mundo, quer neste. ⚜️
 
 ↩️ Voltar para [Q.965](#q965)
 
@@ -3953,7 +3953,7 @@ Não vemos, aliás, todos os dias, exemplos de escolhas tais? Que faz o homem qu
 
 O viajante que atravessa profundo vale ensombrado por espesso nevoeiro não logra apanhar com a vista a extensão da estrada por onde vai, nem os seus pontos extremos. Chegando, porém, ao cume da montanha, abrange com o olhar quanto percorreu do caminho e quanto lhe resta dele a percorrer. Divisa-lhe o termo, vê os obstáculos que ainda terá de transpor e combina então os meios mais seguros de atingi-lo. O Espírito encarnado é qual viajante no sopé da montanha. Desenleado dos liames terrenais, sua visão tudo domina, como a daquele que subiu à crista da serrania. Para o viajor, no termo da sua jornada está o repouso após a fadiga; para o Espírito, está a felicidade suprema, após as tribulações e as provas.
 
-Dizem todos os Espíritos que, na erraticidade, eles se aplicam a pesquisar, estudar, observar, a fim de fazerem a sua escolha. Na vida corporal não se nos oferece um exemplo deste fato? Não levamos, frequentemente, anos a procurar a carreira pela qual afinal nos decidimos, certos de ser a mais apropriada a nos facilitar o caminho da vida? Se numa o nosso intento se malogra, recorremos a outra. Cada uma das que abraçamos representa uma fase, um período da vida. Não nos ocupamos cada dia em cogitar do que faremos no dia seguinte? Ora, que são, para o Espírito, as diversas existências corporais, senão fases, períodos, dias da sua vida espírita, que é, como sabemos, a vida normal, visto que a outra é transitória, passageira?
+Dizem todos os Espíritos que, na erraticidade, eles se aplicam a pesquisar, estudar, observar, a fim de fazerem a sua escolha. Na vida corporal não se nos oferece um exemplo deste fato? Não levamos, frequentemente, anos a procurar a carreira pela qual afinal nos decidimos, certos de ser a mais apropriada a nos facilitar o caminho da vida? Se numa o nosso intento se malogra, recorremos a outra. Cada uma das que abraçamos representa uma fase, um período da vida. Não nos ocupamos cada dia em cogitar do que faremos no dia seguinte? Ora, que são, para o Espírito, as diversas existências corporais, senão fases, períodos, dias da sua vida espírita, que é, como sabemos, a vida normal, visto que a outra é transitória, passageira? ⚜️
 :::
 
 ↩️ Voltar para [Q.816](#q816)
@@ -4044,7 +4044,7 @@ Estudando, na erraticidade, as diversas condições em que poderá progredir, co
 :::
 
 ::: kardec
-👴🏻 ▸ Sabemos que os nossos antropófagos não se acham no último degrau da escala espiritual e que mundos há onde a bruteza e a ferocidade não têm analogia na Terra. Os Espíritos que aí encarnam são, portanto, inferiores aos mais ínfimos que no nosso mundo encarnam. Para eles, pois, nascer entre os nossos selvagens representa um progresso, como progresso seria, para os antropófagos terrenos, exercerem entre nós uma profissão que os obrigasse a fazer correr sangue. Não podem pôr mais alto suas vistas, porque sua inferioridade moral não lhes permite compreender maior progresso. O Espírito só gradativamente avança. Não lhe é dado transpor de um salto a distância que da civilização separa a barbárie e é esta uma das razões que nos mostram ser necessária a reencarnação, que verdadeiramente corresponde à Justiça de Deus. De outro modo, que seria desses milhões de criaturas que todos os dias morrem na maior degradação, se não tivessem meios de alcançar a superioridade? Por que os privaria Deus dos favores concedidos aos outros homens?
+👴🏻 ▸ Sabemos que os nossos antropófagos não se acham no último degrau da escala espiritual e que mundos há onde a bruteza e a ferocidade não têm analogia na Terra. Os Espíritos que aí encarnam são, portanto, inferiores aos mais ínfimos que no nosso mundo encarnam. Para eles, pois, nascer entre os nossos selvagens representa um progresso, como progresso seria, para os antropófagos terrenos, exercerem entre nós uma profissão que os obrigasse a fazer correr sangue. Não podem pôr mais alto suas vistas, porque sua inferioridade moral não lhes permite compreender maior progresso. O Espírito só gradativamente avança. Não lhe é dado transpor de um salto a distância que da civilização separa a barbárie e é esta uma das razões que nos mostram ser necessária a reencarnação, que verdadeiramente corresponde à Justiça de Deus. De outro modo, que seria desses milhões de criaturas que todos os dias morrem na maior degradação, se não tivessem meios de alcançar a superioridade? Por que os privaria Deus dos favores concedidos aos outros homens? ⚜️
 :::
 
 ##### #️⃣ Q.272 {#q272}
@@ -4056,7 +4056,7 @@ Poderá dar-se que Espíritos vindos de um mundo inferior à Terra, ou de um pov
 :::
 
 ::: kardec
-👴🏻 ▸ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilização. Voltando para o meio dos canibais, não sofrem uma degradação; apenas volvem ao lugar que lhes é próprio e com isso talvez até ganhem.
+👴🏻 ▸ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilização. Voltando para o meio dos canibais, não sofrem uma degradação; apenas volvem ao lugar que lhes é próprio e com isso talvez até ganhem. ⚜️
 :::
 
 ::: expand 🔗
@@ -4133,6 +4133,7 @@ Como devemos entender essa elevação e esse rebaixamento?
 
 ::: spirit
 ✨ ▸ Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus:
+:::
 
 ::: bible
 ✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*
@@ -4179,7 +4180,7 @@ Os Espíritos das diferentes ordens se acham misturados uns com os outros?
 :::
 
 ::: kardec
-👴🏻 ▸ Tal uma grande cidade onde os homens de todas as classes e de todas as condições se veem e encontram, sem se confundirem; onde as sociedades se formam pela analogia dos gostos; onde a virtude e o vício se acotovelam, sem trocarem palavra.
+👴🏻 ▸ Tal uma grande cidade onde os homens de todas as classes e de todas as condições se veem e encontram, sem se confundirem; onde as sociedades se formam pela analogia dos gostos; onde a virtude e o vício se acotovelam, sem trocarem palavra. ⚜️
 :::
 
 ::: expand 🔗
@@ -4409,7 +4410,7 @@ Conservarão ressentimento um do outro, no mundo dos Espíritos, dois seres que 
 :::
 
 ::: kardec
-👴🏻 ▸ Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhecem a puerilidade de suas dissensões infantis e deixam de se malquerer.
+👴🏻 ▸ Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhecem a puerilidade de suas dissensões infantis e deixam de se malquerer. ⚜️
 :::
 
 ::: expand 🔗
@@ -4554,7 +4555,7 @@ Podem deixar de ser simpáticos um ao outro dois Espíritos que já o sejam?
 :::
 
 ::: kardec
-👴🏻 ▸ A teoria das metades eternas encerra uma simples figura, representativa da união de dois Espíritos simpáticos. Trata-se de uma expressão usada até na linguagem vulgar e que se não deve tomar ao pé da letra. Não pertencem decerto a uma ordem elevada os Espíritos que a empregaram. Necessariamente, limitado sendo o campo de suas ideias, exprimiram seus pensamentos com os termos de que se teriam utilizado na vida corporal. Não se deve, pois, aceitar a ideia de que, criados um para o outro, dois Espíritos tenham, fatalmente, que se reunir um dia na eternidade, depois de haverem estado separados por tempo mais ou menos longo.
+👴🏻 ▸ A teoria das metades eternas encerra uma simples figura, representativa da união de dois Espíritos simpáticos. Trata-se de uma expressão usada até na linguagem vulgar e que se não deve tomar ao pé da letra. Não pertencem decerto a uma ordem elevada os Espíritos que a empregaram. Necessariamente, limitado sendo o campo de suas ideias, exprimiram seus pensamentos com os termos de que se teriam utilizado na vida corporal. Não se deve, pois, aceitar a ideia de que, criados um para o outro, dois Espíritos tenham, fatalmente, que se reunir um dia na eternidade, depois de haverem estado separados por tempo mais ou menos longo. ⚜️
 :::
 
 ::: expand 🔗
@@ -4574,7 +4575,7 @@ Lembra-se o Espírito da sua existência corporal?
 :::
 
 ::: kardec
-👴🏻 ▸ Tal qual o homem, que chegou à madureza e que ri das suas loucuras de moço, ou das suas puerilidades na meninice.
+👴🏻 ▸ Tal qual o homem, que chegou à madureza e que ri das suas loucuras de moço, ou das suas puerilidades na meninice. ⚜️
 :::
 
 ---
@@ -4748,7 +4749,7 @@ O homem, que neste mundo foi feliz, deplora a felicidade que perdeu, deixando a 
 :::
 
 ::: kardec
-👴🏻 ▸ Exatamente como sucede ao homem que, na idade da madureza, nenhuma importância liga ao que tanto o deliciava na infância.
+👴🏻 ▸ Exatamente como sucede ao homem que, na idade da madureza, nenhuma importância liga ao que tanto o deliciava na infância. ⚜️
 :::
 
 ::: expand 🔗
@@ -4809,7 +4810,7 @@ Após a morte, conservam os Espíritos o amor da pátria?
 :::
 
 ::: kardec
-👴🏻 ▸ As condições dos Espíritos e as maneiras por que veem as coisas variam ao infinito, de conformidade com os graus de desenvolvimento moral e intelectual em que se achem. Geralmente, os Espíritos de ordem elevada só por breve tempo se aproximam da Terra. Tudo o que aí se faz é tão mesquinho em comparação com as grandezas do infinito, tão pueris são, aos olhos deles, as coisas a que os homens mais importância ligam, que quase nenhum atrativo lhes oferece o nosso mundo, a menos que para aí os leve o propósito de concorrerem para o progresso da Humanidade. Os Espíritos de ordem intermédia são os que mais frequentemente baixam a este planeta, se bem considerem as coisas de um ponto de vista mais alto do que quando encarnados. Os Espíritos vulgares, esses são os que aí mais se comprazem e constituem a massa da população invisível do globo terráqueo. Conservam quase que as mesmas ideias, os mesmos gostos e as mesmas inclinações que tinham quando revestidos do invólucro corpóreo. Metem-se em nossas reuniões, negócios, divertimentos, nos quais tomam parte mais ou menos ativa, segundo seus caracteres. Não podendo satisfazer às suas paixões, gozam na companhia dos que a elas se entregam e os excitam a cultivá-las. Entre eles, no entanto, muitos há, sérios, que veem e observam para se instruírem e aperfeiçoarem.
+👴🏻 ▸ As condições dos Espíritos e as maneiras por que veem as coisas variam ao infinito, de conformidade com os graus de desenvolvimento moral e intelectual em que se achem. Geralmente, os Espíritos de ordem elevada só por breve tempo se aproximam da Terra. Tudo o que aí se faz é tão mesquinho em comparação com as grandezas do infinito, tão pueris são, aos olhos deles, as coisas a que os homens mais importância ligam, que quase nenhum atrativo lhes oferece o nosso mundo, a menos que para aí os leve o propósito de concorrerem para o progresso da Humanidade. Os Espíritos de ordem intermédia são os que mais frequentemente baixam a este planeta, se bem considerem as coisas de um ponto de vista mais alto do que quando encarnados. Os Espíritos vulgares, esses são os que aí mais se comprazem e constituem a massa da população invisível do globo terráqueo. Conservam quase que as mesmas ideias, os mesmos gostos e as mesmas inclinações que tinham quando revestidos do invólucro corpóreo. Metem-se em nossas reuniões, negócios, divertimentos, nos quais tomam parte mais ou menos ativa, segundo seus caracteres. Não podendo satisfazer às suas paixões, gozam na companhia dos que a elas se entregam e os excitam a cultivá-las. Entre eles, no entanto, muitos há, sérios, que veem e observam para se instruírem e aperfeiçoarem. ⚜️
 :::
 
 ::: expand 🔗
@@ -5246,7 +5247,7 @@ No momento de encarnar, o Espírito sofre perturbação semelhante à que experi
 :::
 
 ::: kardec
-👴🏻 ▸ O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará. O mesmo se dá com o Espírito: conhece o gênero das provas a que se submete, mas não sabe se sucumbirá. Assim como, para o Espírito, a morte do corpo é uma espécie de renascimento, a reencarnação é uma espécie de morte, ou antes, de exílio, de clausura. Ele deixa o mundo dos Espíritos pelo mundo corporal, como o homem deixa este mundo por aquele. Sabe que reencarnará, como o homem sabe que morrerá. Mas, como este com relação à morte, o Espírito só no instante supremo, quando chegou o momento predestinado, tem consciência de que vai reencarnar. Então, qual o homem em agonia, dele se apodera a perturbação, que se prolonga até que a nova existência se ache positivamente encetada. À aproximação do momento de reencarnar, sente uma espécie de agonia.
+👴🏻 ▸ O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará. O mesmo se dá com o Espírito: conhece o gênero das provas a que se submete, mas não sabe se sucumbirá. Assim como, para o Espírito, a morte do corpo é uma espécie de renascimento, a reencarnação é uma espécie de morte, ou antes, de exílio, de clausura. Ele deixa o mundo dos Espíritos pelo mundo corporal, como o homem deixa este mundo por aquele. Sabe que reencarnará, como o homem sabe que morrerá. Mas, como este com relação à morte, o Espírito só no instante supremo, quando chegou o momento predestinado, tem consciência de que vai reencarnar. Então, qual o homem em agonia, dele se apodera a perturbação, que se prolonga até que a nova existência se ache positivamente encetada. À aproximação do momento de reencarnar, sente uma espécie de agonia. ⚜️
 :::
 
 ::: expand 🔗
@@ -5692,7 +5693,7 @@ Que se deve pensar da opinião dos que pretendem que as diferentes faculdades in
 :::
 
 ::: kardec
-👴🏻 ▸ O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de semelhança. Enquanto se detiveram na aparência dos fenômenos, os cientistas acreditaram fosse múltipla a matéria. Hoje, compreende-se ser bem possível que tão variados fenômenos consistam apenas em modificações da matéria elementar única. As diversas faculdades são manifestações de uma mesma causa, que é a alma, ou do Espírito encarnado, e não de muitas almas, exatamente como os diferentes sons do órgão, os quais procedem todos do ar e não de tantas espécies de ar, quantos os sons. De semelhante sistema decorreria que, quando um homem perde ou adquire certas aptidões, certos pendores, isso significaria que outros tantos Espíritos teriam vindo habitá-lo ou o teriam deixado, o que o tornaria um ser múltiplo, sem individualidade e, conseguintemente, sem responsabilidade. Acresce que o contradizem numerosíssimos exemplos de manifestações de Espíritos, em que estes provam suas personalidades e identidade.
+👴🏻 ▸ O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de semelhança. Enquanto se detiveram na aparência dos fenômenos, os cientistas acreditaram fosse múltipla a matéria. Hoje, compreende-se ser bem possível que tão variados fenômenos consistam apenas em modificações da matéria elementar única. As diversas faculdades são manifestações de uma mesma causa, que é a alma, ou do Espírito encarnado, e não de muitas almas, exatamente como os diferentes sons do órgão, os quais procedem todos do ar e não de tantas espécies de ar, quantos os sons. De semelhante sistema decorreria que, quando um homem perde ou adquire certas aptidões, certos pendores, isso significaria que outros tantos Espíritos teriam vindo habitá-lo ou o teriam deixado, o que o tornaria um ser múltiplo, sem individualidade e, conseguintemente, sem responsabilidade. Acresce que o contradizem numerosíssimos exemplos de manifestações de Espíritos, em que estes provam suas personalidades e identidade. ⚜️
 :::
 
 ::: expand 🔗
@@ -5704,8 +5705,6 @@ Que se deve pensar da opinião dos que pretendem que as diferentes faculdades in
 ---
 
 #### 2.07.04 📄 Influência do corpo {#lde-2-07-04}
-:::
-
 ↩️ Voltar para [Q.846](#q846)
 
 ---
@@ -5748,7 +5747,7 @@ Assim, o invólucro material é obstáculo à livre manifestação das faculdade
 :::
 
 ::: kardec
-👴🏻 ▸ Pode-se comparar a ação que a matéria grosseira exerce sobre o Espírito à de um charco lodoso sobre um corpo nele mergulhado, ao qual tira a liberdade dos movimentos.
+👴🏻 ▸ Pode-se comparar a ação que a matéria grosseira exerce sobre o Espírito à de um charco lodoso sobre um corpo nele mergulhado, ao qual tira a liberdade dos movimentos. ⚜️
 :::
 
 ::: expand 🔗
@@ -5798,7 +5797,7 @@ Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva 
 :::
 
 ::: kardec
-👴🏻 ▸ Encarnando, traz o Espírito certas predisposições e, se se admitir que a cada uma corresponda no cérebro um órgão, o desenvolvimento desses órgãos será efeito e não causa. Se nos órgãos estivesse o princípio das faculdades, o homem seria uma máquina sem livre-arbítrio e sem a responsabilidade de seus atos. Forçoso então fora admitir-se que os maiores gênios, os sábios, os poetas, os artistas, só o são porque o acaso lhes deu órgãos especiais, donde se seguiria que, sem esses órgãos, não teriam sido gênios e que, assim, o maior dos imbecis houvera podido ser um Newton, um Vergílio, ou um Rafael, desde que de certos órgãos se achassem providos. Ainda mais absurda se mostra semelhante hipótese, se a aplicarmos às qualidades morais. Efetivamente, segundo esse sistema, um Vicente de Paulo, se a Natureza o dotara de tal ou tal órgão, teria podido ser um celerado e o maior dos celerados não precisaria senão de um certo órgão para ser um Vicente de Paulo. Admita-se, ao contrário, que os órgãos especiais, dado que existam, são consequentes, que se desenvolvem por efeito do exercício da faculdade, como os músculos por efeito do movimento, e a nenhuma conclusão irracional se chegará. Sirvamo-nos de uma comparação, trivial à força de ser verdadeira. Por alguns sinais fisionômicos se reconhece que um homem tem o vício da embriaguez. Serão esses sinais que fazem dele um ébrio, ou será a ebriedade que nele imprime aqueles sinais? Pode dizer-se que os órgãos recebem o cunho das faculdades.
+👴🏻 ▸ Encarnando, traz o Espírito certas predisposições e, se se admitir que a cada uma corresponda no cérebro um órgão, o desenvolvimento desses órgãos será efeito e não causa. Se nos órgãos estivesse o princípio das faculdades, o homem seria uma máquina sem livre-arbítrio e sem a responsabilidade de seus atos. Forçoso então fora admitir-se que os maiores gênios, os sábios, os poetas, os artistas, só o são porque o acaso lhes deu órgãos especiais, donde se seguiria que, sem esses órgãos, não teriam sido gênios e que, assim, o maior dos imbecis houvera podido ser um Newton, um Vergílio, ou um Rafael, desde que de certos órgãos se achassem providos. Ainda mais absurda se mostra semelhante hipótese, se a aplicarmos às qualidades morais. Efetivamente, segundo esse sistema, um Vicente de Paulo, se a Natureza o dotara de tal ou tal órgão, teria podido ser um celerado e o maior dos celerados não precisaria senão de um certo órgão para ser um Vicente de Paulo. Admita-se, ao contrário, que os órgãos especiais, dado que existam, são consequentes, que se desenvolvem por efeito do exercício da faculdade, como os músculos por efeito do movimento, e a nenhuma conclusão irracional se chegará. Sirvamo-nos de uma comparação, trivial à força de ser verdadeira. Por alguns sinais fisionômicos se reconhece que um homem tem o vício da embriaguez. Serão esses sinais que fazem dele um ébrio, ou será a ebriedade que nele imprime aqueles sinais? Pode dizer-se que os órgãos recebem o cunho das faculdades. ⚜️
 :::
 
 ::: expand 🔗
@@ -5846,7 +5845,7 @@ Não há, pois, fundamento para dizer-se que os órgãos nada influem sobre as f
 :::
 
 ::: kardec
-👴🏻 ▸ Importa se distinga o estado normal do estado patológico. No primeiro, o moral vence os obstáculos que a matéria lhe opõe. Há, porém, casos em que a matéria oferece tal resistência que as manifestações anímicas ficam obstadas ou desnaturadas, como nos de idiotismo e de loucura. São casos patológicos e, não gozando nesse estado a alma de toda a sua liberdade, a própria lei humana a isenta da responsabilidade de seus atos.
+👴🏻 ▸ Importa se distinga o estado normal do estado patológico. No primeiro, o moral vence os obstáculos que a matéria lhe opõe. Há, porém, casos em que a matéria oferece tal resistência que as manifestações anímicas ficam obstadas ou desnaturadas, como nos de idiotismo e de loucura. São casos patológicos e, não gozando nesse estado a alma de toda a sua liberdade, a própria lei humana a isenta da responsabilidade de seus atos. ⚜️
 :::
 
 ::: expand 🔗
@@ -5880,7 +5879,9 @@ Pode assim o corpo de um idiota conter um Espírito que tenha animado um homem d
 :::
 
 ::: kardec
-👴🏻 ▸ A superioridade moral nem sempre guarda proporção com a superioridade intelectual e os grandes gênios podem ter muito que expiar. Daí, frequentemente, lhes resulta uma existência inferior à que tiveram e uma causa de sofrimentos. Os embaraços que o Espírito encontra para suas manifestações se lhe assemelham às algemas que tolhem os movimentos a um homem vigoroso. Pode dizer-se que os cretinos e os idiotas são estropiados do cérebro, como o coxo o é das pernas e dos olhos o cego.
+👴🏻 ▸ A superioridade moral nem sempre guarda proporção com a superioridade intelectual e os grandes gênios podem ter muito que expiar.
+
+Daí, frequentemente, lhes resulta uma existência inferior à que tiveram e uma causa de sofrimentos. Os embaraços que o Espírito encontra para suas manifestações se lhe assemelham às algemas que tolhem os movimentos a um homem vigoroso. Pode dizer-se que os cretinos e os idiotas são estropiados do cérebro, como o coxo o é das pernas e dos olhos o cego. ⚜️
 :::
 
 ::: expand 🔗
@@ -6005,7 +6006,7 @@ Abstraindo do obstáculo que a imperfeição dos órgãos opõe à sua livre man
 :::
 
 ::: kardec
-👴🏻 ▸ Há um fato de observação, que apoia esta resposta. Os sonhos, numa criança, não apresentam o caráter dos de um adulto. Quase sempre pueril é o objeto dos sonhos infantis, o que indica de que natureza são as preocupações do respectivo Espírito.
+👴🏻 ▸ Há um fato de observação, que apoia esta resposta. Os sonhos, numa criança, não apresentam o caráter dos de um adulto. Quase sempre pueril é o objeto dos sonhos infantis, o que indica de que natureza são as preocupações do respectivo Espírito. ⚜️
 :::
 
 ::: expand 🔗
@@ -6227,7 +6228,7 @@ Como pode o homem ser responsável por atos e resgatar faltas de que se não lem
 :::
 
 ::: kardec
-👴🏻 ▸ Não temos, é certo, durante a vida corpórea, lembrança exata do que fomos e do que fizemos em anteriores existências; mas temos de tudo isso a intuição, sendo as nossas tendências instintivas uma reminiscência do passado. E a nossa consciência, que é o desejo que experimentamos de não reincidir nas faltas já cometidas, nos concita à resistência àqueles pendores.
+👴🏻 ▸ Não temos, é certo, durante a vida corpórea, lembrança exata do que fomos e do que fizemos em anteriores existências; mas temos de tudo isso a intuição, sendo as nossas tendências instintivas uma reminiscência do passado. E a nossa consciência, que é o desejo que experimentamos de não reincidir nas faltas já cometidas, nos concita à resistência àqueles pendores. ⚜️
 :::
 
 ↩️ Voltar para [Q.959](#q959)
@@ -6254,7 +6255,7 @@ Nos mundos mais elevados do que a Terra, onde os que os habitam não se veem pre
 ::: kardec
 👴🏻 ▸ No esquecimento das existências anteriormente transcorridas, sobretudo quando foram amarguradas, não há qualquer coisa de providencial e que revela a sabedoria divina? Nos mundos superiores, quando o recordá-las já não constitui pesadelo, é que as vidas desgraçadas se apresentam à memória. Nos mundos inferiores, a lembrança de todas as que se tenham sofrido não agravaria as infelicidades presentes? Concluamos, pois, daí que tudo o que Deus fez é perfeito e que não nos toca criticar-lhe as obras, nem lhe ensinar como deveria ter regulado o Universo.
 
-Gravíssimos inconvenientes teria o nos lembrarmos das nossas individualidades anteriores. Em certos casos, humilhar-nos-ia sobremaneira. Em outros, nos exaltaria o orgulho, peando-nos, em consequência, o livre-arbítrio. Para nos melhorarmos, dá-nos Deus exatamente o que nos é necessário e basta: a voz da consciência e os pendores instintivos. Priva-nos do que nos prejudicaria. Acrescentemos que, se nos recordássemos dos nossos precedentes atos pessoais, igualmente nos recordaríamos dos dos outros homens, do que resultaria talvez os mais desastrosos efeitos para as relações sociais. Nem sempre podendo honrar-nos do nosso passado, melhor é que sobre ele um véu seja lançado. Isto concorda perfeitamente com a Doutrina dos Espíritos acerca dos mundos superiores à Terra. Nesses mundos, em que só reina o bem, a reminiscência do passado nada tem de dolorosa. Tal a razão por que neles as criaturas se lembram da sua antecedente existência, como nos lembramos do que fizemos na véspera. Quanto à estada em mundos inferiores, não passa então, como já dissemos, de mau sonho.
+Gravíssimos inconvenientes teria o nos lembrarmos das nossas individualidades anteriores. Em certos casos, humilhar-nos-ia sobremaneira. Em outros, nos exaltaria o orgulho, peando-nos, em consequência, o livre-arbítrio. Para nos melhorarmos, dá-nos Deus exatamente o que nos é necessário e basta: a voz da consciência e os pendores instintivos. Priva-nos do que nos prejudicaria. Acrescentemos que, se nos recordássemos dos nossos precedentes atos pessoais, igualmente nos recordaríamos dos dos outros homens, do que resultaria talvez os mais desastrosos efeitos para as relações sociais. Nem sempre podendo honrar-nos do nosso passado, melhor é que sobre ele um véu seja lançado. Isto concorda perfeitamente com a Doutrina dos Espíritos acerca dos mundos superiores à Terra. Nesses mundos, em que só reina o bem, a reminiscência do passado nada tem de dolorosa. Tal a razão por que neles as criaturas se lembram da sua antecedente existência, como nos lembramos do que fizemos na véspera. Quanto à estada em mundos inferiores, não passa então, como já dissemos, de mau sonho. ⚜️
 :::
 
 ::: expand 🔗
@@ -6350,7 +6351,9 @@ Sendo as vicissitudes da vida corporal expiação das faltas do passado e, ao me
 :::
 
 ::: kardec
-👴🏻 ▸ Chegado ao termo que a Providência lhe assinou à vida na erraticidade, o próprio Espírito escolhe as provas a que deseja submeter-se para apressar o seu adiantamento, isto é, escolhe meios de adiantar-se e tais provas estão sempre em relação com as faltas que lhe cumpre expiar. Se delas triunfa, eleva-se; se sucumbe, tem que recomeçar. O Espírito goza sempre do livre-arbítrio. Em virtude dessa liberdade é que escolhe, quando desencarnado, as provas da vida corporal e que, quando encarnado, decide fazer ou não uma coisa e procede à escolha entre o bem e o mal. Negar ao homem o livre-arbítrio fora reduzi-lo à condição de máquina.
+👴🏻 ▸ Chegado ao termo que a Providência lhe assinou à vida na erraticidade, o próprio Espírito escolhe as provas a que deseja submeter-se para apressar o seu adiantamento, isto é, escolhe meios de adiantar-se e tais provas estão sempre em relação com as faltas que lhe cumpre expiar. Se delas triunfa, eleva-se; se sucumbe, tem que recomeçar.
+
+O Espírito goza sempre do livre-arbítrio. Em virtude dessa liberdade é que escolhe, quando desencarnado, as provas da vida corporal e que, quando encarnado, decide fazer ou não uma coisa e procede à escolha entre o bem e o mal. Negar ao homem o livre-arbítrio fora reduzi-lo à condição de máquina.
 
 Mergulhado na vida corpórea, perde o Espírito, momentaneamente, a lembrança de suas existências anteriores, como se um véu as cobrisse. Todavia, conserva algumas vezes vaga consciência dessas vidas, que, mesmo em certas circunstâncias, lhe podem ser reveladas. Esta revelação, porém, só os Espíritos superiores espontaneamente lha fazem, com um fim útil, nunca para satisfazer a vã curiosidade.
 
@@ -6362,7 +6365,7 @@ O homem não conhece os atos que praticou em suas existências pretéritas, mas 
 
 As vicissitudes da vida corpórea constituem expiação das faltas do passado e, simultaneamente, provas com relação ao futuro. Depuram-nos e elevam-nos, se as suportamos resignados e sem murmurar.
 
-A natureza dessas vicissitudes e das provas que sofremos também nos podem esclarecer acerca do que fomos e do que fizemos, do mesmo modo que neste mundo julgamos dos atos de um culpado pelo castigo que lhe inflige a lei. Assim, o orgulhoso será castigado no seu orgulho, mediante a humilhação de uma existência subalterna; o mau rico, o avarento, pela miséria; o que foi cruel para os outros, pelas crueldades que sofrerá; o tirano, pela escravidão; o mau filho, pela ingratidão de seus filhos; o preguiçoso, por um trabalho forçado etc.
+A natureza dessas vicissitudes e das provas que sofremos também nos podem esclarecer acerca do que fomos e do que fizemos, do mesmo modo que neste mundo julgamos dos atos de um culpado pelo castigo que lhe inflige a lei. Assim, o orgulhoso será castigado no seu orgulho, mediante a humilhação de uma existência subalterna; o mau rico, o avarento, pela miséria; o que foi cruel para os outros, pelas crueldades que sofrerá; o tirano, pela escravidão; o mau filho, pela ingratidão de seus filhos; o preguiçoso, por um trabalho forçado etc. ⚜️
 :::
 
 ↩️ Voltar para [Q.983](#q983)
@@ -6429,7 +6432,9 @@ Tratai de distinguir essas duas espécies de sonhos nos de que vos lembrais, do 
 :::
 
 ::: kardec
-👴🏻 ▸ Os sonhos são efeito da emancipação da alma, que mais independente se torna pela suspensão da vida ativa e de relação. Daí uma espécie de clarividência indefinida que se alonga até aos mais afastados lugares e até mesmo a outros mundos. Daí também a lembrança que traz à memória acontecimentos da precedente existência ou das existências anteriores. As singulares imagens do que se passa ou se passou em mundos desconhecidos, entremeados de coisas do mundo atual, é que formam esses conjuntos estranhos e confusos, que nenhum sentido ou ligação parecem ter. A incoerência dos sonhos ainda se explica pelas lacunas que apresenta a recordação incompleta que conservamos do que nos apareceu quando sonhávamos. É como se a uma narração se truncassem frases ou trechos ao acaso. Reunidos depois, os fragmentos restantes nenhuma significação racional teriam.
+👴🏻 ▸ Os sonhos são efeito da emancipação da alma, que mais independente se torna pela suspensão da vida ativa e de relação. Daí uma espécie de clarividência indefinida que se alonga até aos mais afastados lugares e até mesmo a outros mundos. Daí também a lembrança que traz à memória acontecimentos da precedente existência ou das existências anteriores. As singulares imagens do que se passa ou se passou em mundos desconhecidos, entremeados de coisas do mundo atual, é que formam esses conjuntos estranhos e confusos, que nenhum sentido ou ligação parecem ter.
+
+A incoerência dos sonhos ainda se explica pelas lacunas que apresenta a recordação incompleta que conservamos do que nos apareceu quando sonhávamos. É como se a uma narração se truncassem frases ou trechos ao acaso. Reunidos depois, os fragmentos restantes nenhuma significação racional teriam. ⚜️
 :::
 
 ::: expand 🔗
@@ -6504,7 +6509,7 @@ Quando em sonho vemos pessoas vivas, muito nossas conhecidas, a praticarem atos 
 :::
 
 ::: kardec
-👴🏻 ▸ É assim que a sonolência ou o simples torpor dos sentidos apresenta, frequentemente, as mesmas imagens do sonho.
+👴🏻 ▸ É assim que a sonolência ou o simples torpor dos sentidos apresenta, frequentemente, as mesmas imagens do sonho. ⚜️
 :::
 
 ::: expand 🔗
@@ -6667,7 +6672,7 @@ Podem Espíritos encarnados reunir-se em certo número e formar assembleias?
 :::
 
 ::: kardec
-👴🏻 ▸ Pelo termo *antigos* se devem entender os laços de amizade contraída em existências anteriores. Ao despertar, guardamos intuição das ideias que haurimos nesses colóquios, mas ficamos na ignorância da fonte donde promanaram.
+👴🏻 ▸ Pelo termo *antigos* se devem entender os laços de amizade contraída em existências anteriores. Ao despertar, guardamos intuição das ideias que haurimos nesses colóquios, mas ficamos na ignorância da fonte donde promanaram. ⚜️
 :::
 
 ::: expand 🔗
@@ -6702,7 +6707,7 @@ Que é o que dá causa a que uma ideia, a de uma descoberta, por exemplo, surja 
 :::
 
 ::: kardec
-👴🏻 ▸ Desse modo, o nosso próprio Espírito revela muitas vezes, a outros Espíritos, mau grado nosso, o que constituía objeto de nossas preocupações no estado de vigília.
+👴🏻 ▸ Desse modo, o nosso próprio Espírito revela muitas vezes, a outros Espíritos, mau grado nosso, o que constituía objeto de nossas preocupações no estado de vigília. ⚜️
 :::
 
 ---
@@ -6730,7 +6735,7 @@ Como se explica que duas pessoas, perfeitamente acordadas, tenham instantaneamen
 :::
 
 ::: kardec
-👴🏻 ▸ Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que dá causa a que duas pessoas se vejam e compreendam sem precisarem dos sinais ostensivos da linguagem. Poder-se-ia dizer que falam entre si a linguagem dos Espíritos.
+👴🏻 ▸ Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que dá causa a que duas pessoas se vejam e compreendam sem precisarem dos sinais ostensivos da linguagem. Poder-se-ia dizer que falam entre si a linguagem dos Espíritos. ⚜️
 :::
 
 ::: expand 🔗
@@ -6790,7 +6795,7 @@ Por meio de cuidados dispensados a tempo, podem reatar-se laços prestes a se de
 :::
 
 ::: kardec
-👴🏻 ▸ A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporária da sensibilidade e do movimento, por uma causa fisiológica ainda inexplicada. Diferem uma da outra em que, na letargia, a suspensão das forças vitais é geral e dá ao corpo todas as aparências da morte; na catalepsia, fica localizada, podendo atingir uma parte mais ou menos extensa do corpo, de sorte a permitir que a inteligência se manifeste livremente, o que a torna inconfundível com a morte. A letargia é sempre natural; a catalepsia é por vezes espontânea, mas pode ser provocada e suprimida, artificialmente, pela ação magnética.
+👴🏻 ▸ A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporária da sensibilidade e do movimento, por uma causa fisiológica ainda inexplicada. Diferem uma da outra em que, na letargia, a suspensão das forças vitais é geral e dá ao corpo todas as aparências da morte; na catalepsia, fica localizada, podendo atingir uma parte mais ou menos extensa do corpo, de sorte a permitir que a inteligência se manifeste livremente, o que a torna inconfundível com a morte. A letargia é sempre natural; a catalepsia é por vezes espontânea, mas pode ser provocada e suprimida, artificialmente, pela ação magnética. ⚜️
 :::
 
 ::: expand 🔗
@@ -6811,7 +6816,7 @@ O sonambulismo natural tem alguma relação com os sonhos? Como explicá-lo?
 :::
 
 ::: kardec
-👴🏻 ▸ No sonambulismo, o Espírito está na posse plena de si mesmo. Os órgãos materiais, achando-se de certa forma em estado de catalepsia, deixam de receber as impressões *exteriores*. Esse estado se apresenta principalmente durante o sono, ocasião em que o Espírito pode abandonar provisoriamente o corpo, por se encontrar este gozando do repouso indispensável à matéria. Quando se produzem os fatos do sonambulismo, é que o Espírito, preocupado com uma coisa ou outra, se aplica a uma ação qualquer, para cuja prática necessita de utilizar-se do corpo. Serve-se então deste, como se serve de uma mesa ou de outro objeto material no fenômeno das manifestações físicas, ou mesmo como se utiliza da mão do médium nas comunicações escritas. Nos sonhos de que se tem consciência, os órgãos, inclusive os da memória, começam a despertar. Recebem imperfeitamente as impressões produzidas por objetos ou causas externas e as comunicam ao Espírito, que, então, também em repouso, só experimenta, do que lhe é transmitido, sensações confusas e, amiúde, desordenadas, sem nenhuma aparente razão de ser, mescladas que se apresentam de vagas recordações, quer da existência atual, quer de anteriores. Facilmente, portanto, se compreende por que os sonâmbulos nenhuma lembrança guardam do que se passou quando estiveram no estado sonambúlico e por que os sonhos, de que se conserva memória, as mais das vezes não têm sentido. Digo — as mais das vezes, porque também sucede serem a consequência de lembrança exata de acontecimentos de uma vida anterior e até, não raro, uma espécie de intuição do futuro.
+👴🏻 ▸ No sonambulismo, o Espírito está na posse plena de si mesmo. Os órgãos materiais, achando-se de certa forma em estado de catalepsia, deixam de receber as impressões *exteriores*. Esse estado se apresenta principalmente durante o sono, ocasião em que o Espírito pode abandonar provisoriamente o corpo, por se encontrar este gozando do repouso indispensável à matéria. Quando se produzem os fatos do sonambulismo, é que o Espírito, preocupado com uma coisa ou outra, se aplica a uma ação qualquer, para cuja prática necessita de utilizar-se do corpo. Serve-se então deste, como se serve de uma mesa ou de outro objeto material no fenômeno das manifestações físicas, ou mesmo como se utiliza da mão do médium nas comunicações escritas. Nos sonhos de que se tem consciência, os órgãos, inclusive os da memória, começam a despertar. Recebem imperfeitamente as impressões produzidas por objetos ou causas externas e as comunicam ao Espírito, que, então, também em repouso, só experimenta, do que lhe é transmitido, sensações confusas e, amiúde, desordenadas, sem nenhuma aparente razão de ser, mescladas que se apresentam de vagas recordações, quer da existência atual, quer de anteriores. Facilmente, portanto, se compreende por que os sonâmbulos nenhuma lembrança guardam do que se passou quando estiveram no estado sonambúlico e por que os sonhos, de que se conserva memória, as mais das vezes não têm sentido. Digo — as mais das vezes, porque também sucede serem a consequência de lembrança exata de acontecimentos de uma vida anterior e até, não raro, uma espécie de intuição do futuro. ⚜️
 :::
 
 ---
@@ -6896,7 +6901,7 @@ Qual a origem das ideias inatas do sonâmbulo e como pode falar com exatidão de
 :::
 
 ::: kardec
-👴🏻 ▸ Mostra a experiência que os sonâmbulos também recebem comunicações de outros Espíritos, que lhes transmitem o que devam dizer e suprem à incapacidade que denotam. Isto se verifica principalmente nas prescrições médicas. O Espírito do sonâmbulo vê o mal, outro lhe indica o remédio. Essa dupla ação é às vezes patente e se revela, além disso, por estas expressões muito frequentes: **dizem-me** que diga, ou *proíbem-me* que diga tal coisa. Neste último caso, há sempre perigo em insistir-se por uma revelação negada, porque se dá azo a que intervenham Espíritos levianos, que falam de tudo sem escrúpulo e sem se importarem com a verdade.
+👴🏻 ▸ Mostra a experiência que os sonâmbulos também recebem comunicações de outros Espíritos, que lhes transmitem o que devam dizer e suprem à incapacidade que denotam. Isto se verifica principalmente nas prescrições médicas. O Espírito do sonâmbulo vê o mal, outro lhe indica o remédio. Essa dupla ação é às vezes patente e se revela, além disso, por estas expressões muito frequentes: *dizem-me* que diga, ou *proíbem-me* que diga tal coisa. Neste último caso, há sempre perigo em insistir-se por uma revelação negada, porque se dá azo a que intervenham Espíritos levianos, que falam de tudo sem escrúpulo e sem se importarem com a verdade. ⚜️
 :::
 
 ::: expand 🔗
@@ -6959,7 +6964,7 @@ Pode o sonâmbulo ver os outros Espíritos?
 :::
 
 ::: kardec
-👴🏻 ▸ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma alteração notando ao seu derredor e parecendo-lhes que os Espíritos têm corpos iguais aos nossos, tomam por corpos reais os corpos aparentes com que os mesmos Espíritos se lhes apresentam.
+👴🏻 ▸ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma alteração notando ao seu derredor e parecendo-lhes que os Espíritos têm corpos iguais aos nossos, tomam por corpos reais os corpos aparentes com que os mesmos Espíritos se lhes apresentam. ⚜️
 :::
 
 ::: expand 🔗
@@ -7211,7 +7216,7 @@ Por que a segunda vista parece hereditária em algumas famílias?
 :::
 
 ::: kardec
-👴🏻 ▸ Nas épocas de crises e de calamidades, as grandes emoções, todas as causas, enfim, de superexcitação do moral provocam não raro o desenvolvimento da dupla vista. Parece que a Providência, quando um perigo nos ameaça, nos dá o meio de conjurá-lo. Todas as seitas e partidos perseguidos oferecem múltiplos exemplos desse fato.
+👴🏻 ▸ Nas épocas de crises e de calamidades, as grandes emoções, todas as causas, enfim, de superexcitação do moral provocam não raro o desenvolvimento da dupla vista. Parece que a Providência, quando um perigo nos ameaça, nos dá o meio de conjurá-lo. Todas as seitas e partidos perseguidos oferecem múltiplos exemplos desse fato. ⚜️
 :::
 
 ::: expand 🔗
@@ -7265,9 +7270,9 @@ Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 #### 2.08.08 📄 Resumo teórico do sonambulismo, do êxtase e da dupla vista {#lde-2-08-08}
 
-##### #️⃣ Q.455 {#q455}
+##### #️⃣ 455 {#455}
 
-Os fenômenos do sonambulismo natural se produzem espontaneamente e independem de qualquer causa exterior conhecida. Em certas pessoas dotadas de especial organização, porém, podem ser provocados artificialmente, pela ação do agente magnético.
+👴🏻 ▸ Os fenômenos do sonambulismo natural se produzem espontaneamente e independem de qualquer causa exterior conhecida. Em certas pessoas dotadas de especial organização, porém, podem ser provocados artificialmente, pela ação do agente magnético.
 
 O estado que se designa pelo nome de *sonambulismo magnético* apenas difere do sonambulismo natural em que um é provocado, enquanto o outro é espontâneo.
 
@@ -7311,8 +7316,7 @@ Aos dotados desta faculdade ela se afigura tão natural, como a que todos temos 
 
 O poder da vista dupla varia, indo desde a sensação confusa até a percepção clara e nítida das coisas presentes ou ausentes. Quando rudimentar, confere a certas pessoas o tato, a perspicácia, uma certa segurança nos atos, a que se pode dar o qualificativo de *precisão de golpe de vista moral*. Um pouco desenvolvida, desperta os pressentimentos. Mais desenvolvida, mostra os acontecimentos que deram ou estão para dar-se.
 
-O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma causa. Esses fenômenos, como os sonhos, estão na ordem da natureza. Tal a razão por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais.
-:::
+O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma causa. Esses fenômenos, como os sonhos, estão na ordem da natureza. Tal a razão por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais. ⚜️
 
 ::: expand 🔗
 🏷️ [Êxtase](#extase)
@@ -7430,7 +7434,7 @@ Como havemos de distinguir os pensamentos que nos são próprios dos que nos sã
 :::
 
 ::: kardec
-👴🏻 ▸ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos próprios dos que nos são sugeridos, Deus nos houvera proporcionado os meios de o conseguirmos, como nos concedeu o de diferençarmos o dia da noite. Quando uma coisa se conserva imprecisa, é que convém assim aconteça.
+👴🏻 ▸ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos próprios dos que nos são sugeridos, Deus nos houvera proporcionado os meios de o conseguirmos, como nos concedeu o de diferençarmos o dia da noite. Quando uma coisa se conserva imprecisa, é que convém assim aconteça. ⚜️
 :::
 
 ::: expand 🔗
@@ -7522,7 +7526,7 @@ Por que permite Deus que Espíritos nos excitem ao mal?
 :::
 
 ::: kardec
-👴🏻 ▸ É assim que Deus confia à nossa consciência a escolha do caminho que devamos seguir e a liberdade de ceder a uma ou outra das influências contrárias que se exercem sobre nós.
+👴🏻 ▸ É assim que Deus confia à nossa consciência a escolha do caminho que devamos seguir e a liberdade de ceder a uma ou outra das influências contrárias que se exercem sobre nós. ⚜️
 :::
 
 ::: expand 🔗
@@ -7568,6 +7572,7 @@ Por que meio podemos neutralizar a influência dos maus Espíritos?
 
 ::: spirit
 ✨ ▸ Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer:
+:::
 
 ::: bible
 ✝️ ▸ *E não nos induzas à tentação, mas livra-nos do mal ….*
@@ -7644,7 +7649,7 @@ Desde que não há possessão propriamente dita, isto é, coabitação de dois E
 :::
 
 ::: kardec
-👴🏻 ▸ O vocábulo *possesso*, na sua acepção vulgar, supõe a existência de demônios, isto é, de uma categoria de seres maus por natureza, e a coabitação de um desses seres com a alma de um indivíduo, no seu corpo. Pois que, *nesse sentido*, não há demônios e que dois Espíritos não podem habitar simultaneamente o mesmo corpo, não há possessos na conformidade da ideia a que esta palavra se acha associada. O termo *possesso* só se deve admitir como exprimindo a dependência absoluta em que uma alma pode achar-se com relação a Espíritos imperfeitos que a subjuguem.
+👴🏻 ▸ O vocábulo *possesso*, na sua acepção vulgar, supõe a existência de demônios, isto é, de uma categoria de seres maus por natureza, e a coabitação de um desses seres com a alma de um indivíduo, no seu corpo. Pois que, *nesse sentido*, não há demônios e que dois Espíritos não podem habitar simultaneamente o mesmo corpo, não há possessos na conformidade da ideia a que esta palavra se acha associada. O termo *possesso* só se deve admitir como exprimindo a dependência absoluta em que uma alma pode achar-se com relação a Espíritos imperfeitos que a subjuguem. ⚜️
 :::
 
 ::: expand 🔗
@@ -7774,7 +7779,7 @@ Como é que sucede estender-se subitamente a toda uma população o estado anorm
 :::
 
 ::: kardec
-👴🏻 ▸ Entre as singulares faculdades que se notam nos convulsionários, algumas facilmente se reconhecem, de que numerosos exemplos oferecem o sonambulismo e o magnetismo, tais como, além de outras, a insensibilidade física, a leitura do pensamento, a transmissão das dores, por simpatia etc. Não há, pois, duvidar de que aqueles em quem tais crises se manifestam estejam numa espécie de sonambulismo desperto, provocado pela influência que exercem uns sobre os outros. Eles são ao mesmo tempo magnetizadores e magnetizados, inconscientemente.
+👴🏻 ▸ Entre as singulares faculdades que se notam nos convulsionários, algumas facilmente se reconhecem, de que numerosos exemplos oferecem o sonambulismo e o magnetismo, tais como, além de outras, a insensibilidade física, a leitura do pensamento, a transmissão das dores, por simpatia etc. Não há, pois, duvidar de que aqueles em quem tais crises se manifestam estejam numa espécie de sonambulismo desperto, provocado pela influência que exercem uns sobre os outros. Eles são ao mesmo tempo magnetizadores e magnetizados, inconscientemente. ⚜️
 :::
 
 ::: expand 🔗
@@ -7794,7 +7799,7 @@ Qual a causa da insensibilidade física que se observa em alguns convulsionário
 ::: kardec
 👴🏻 ▸ A exaltação fanática e o entusiasmo hão proporcionado, em casos de suplícios, múltiplos exemplos de uma calma e de um sangue frio que não seriam capazes de triunfar de uma dor aguda, senão admitindo-se que a sensibilidade se acha neutralizada, como por efeito de um anestésico. Sabe-se que, no ardor da batalha, combatentes há que não se apercebem de que estão gravemente feridos, ao passo que, em circunstâncias ordinárias, uma simples arranhadura os poria trêmulos.
 
-Visto que esses fenônemo dependem de uma causa física e da ação de certos Espíritos, lícito se torna perguntar como há podido uma autoridade pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos Espíritos, que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a causa que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve razão para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante intervenção nenhum poder absolutamente tem, quando a ação dos Espíritos é direta e espontânea.
+Visto que esses fenônemo dependem de uma causa física e da ação de certos Espíritos, lícito se torna perguntar como há podido uma autoridade pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos Espíritos, que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a causa que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve razão para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante intervenção nenhum poder absolutamente tem, quando a ação dos Espíritos é direta e espontânea. ⚜️
 :::
 
 ::: expand 🔗
@@ -7862,7 +7867,7 @@ Dentre os nossos males, de que natureza são os de que mais se afligem os Espír
 
 Pouco se incomodam com as desgraças que apenas atingem as nossas ideias mundanas, tal qual fazemos com as mágoas pueris das crianças.
 
-Vendo nas amarguras da vida um meio de nos adiantarmos, os Espíritos as consideram como a crise ocasional de que resultará a salvação do doente. Compadecem-se dos nossos sofrimentos, como nos compadecemos dos de um amigo. Porém, enxergando as coisas de um ponto de vista mais justo, os apreciam de um modo diverso do nosso. Então, ao passo que os bons nos levantam o ânimo no interesse do nosso futuro, os outros nos impelem ao desespero, objetivando comprometer-nos.
+Vendo nas amarguras da vida um meio de nos adiantarmos, os Espíritos as consideram como a crise ocasional de que resultará a salvação do doente. Compadecem-se dos nossos sofrimentos, como nos compadecemos dos de um amigo. Porém, enxergando as coisas de um ponto de vista mais justo, os apreciam de um modo diverso do nosso. Então, ao passo que os bons nos levantam o ânimo no interesse do nosso futuro, os outros nos impelem ao desespero, objetivando comprometer-nos. ⚜️
 :::
 
 ::: expand 🔗
@@ -8018,7 +8023,7 @@ Não receeis fatigar-nos com as vossas perguntas. Ao contrário, procurai estar 
 :::
 
 ::: kardec
-👴🏻 ▸ Nada tem de surpreendente a doutrina dos anjos guardiães, a velarem pelos seus protegidos, malgrado a distância que medeia entre os mundos. É, ao contrário, grandiosa e sublime. Não vemos na Terra o pai velar pelo filho, ainda que de muito longe, e auxiliá-lo com seus conselhos, correspondendo-se com ele? Que motivo de espanto haverá, então, em que os Espíritos possam, de um outro mundo, guiar os que, habitantes da Terra, eles tomaram sob sua proteção, uma vez que, para eles, a distância que vai de um mundo a outro é menor do que a que, neste planeta, separa os continentes? Não dispõem, além disso, do fluido universal, que entrelaça todos os mundos, tornando-os solidários; veículo imenso da transmissão dos pensamentos, como o ar é, para nós, o da transmissão do som?
+👴🏻 ▸ Nada tem de surpreendente a doutrina dos anjos guardiães, a velarem pelos seus protegidos, malgrado a distância que medeia entre os mundos. É, ao contrário, grandiosa e sublime. Não vemos na Terra o pai velar pelo filho, ainda que de muito longe, e auxiliá-lo com seus conselhos, correspondendo-se com ele? Que motivo de espanto haverá, então, em que os Espíritos possam, de um outro mundo, guiar os que, habitantes da Terra, eles tomaram sob sua proteção, uma vez que, para eles, a distância que vai de um mundo a outro é menor do que a que, neste planeta, separa os continentes? Não dispõem, além disso, do fluido universal, que entrelaça todos os mundos, tornando-os solidários; veículo imenso da transmissão dos pensamentos, como o ar é, para nós, o da transmissão do som? ⚜️
 :::
 
 ::: expand 🔗
@@ -8352,7 +8357,7 @@ Os Espíritos familiares se ligam a certas pessoas por laços mais ou menos dur�
 
 Os Espíritos simpáticos são os que se sentem atraídos para o nosso lado por afeições particulares e ainda por uma certa semelhança de gostos e de sentimentos, tanto para o bem como para o mal. De ordinário, a duração de suas relações se acha subordinada às circunstâncias.
 
-O mau gênio é um Espírito imperfeito ou perverso, que se liga ao homem para desviá-lo do bem. Obra, porém, por impulso próprio e não no desempenho de missão. A tenacidade da sua ação está em relação direta com a maior ou menor facilidade de acesso que encontre por parte do homem, que goza sempre da liberdade de escutar-lhe a voz ou de lhe cerrar os ouvidos.
+O mau gênio é um Espírito imperfeito ou perverso, que se liga ao homem para desviá-lo do bem. Obra, porém, por impulso próprio e não no desempenho de missão. A tenacidade da sua ação está em relação direta com a maior ou menor facilidade de acesso que encontre por parte do homem, que goza sempre da liberdade de escutar-lhe a voz ou de lhe cerrar os ouvidos. ⚜️
 :::
 
 ::: expand 🔗
@@ -8466,7 +8471,7 @@ Podem certos Espíritos auxiliar o progresso das artes, protegendo os que às ar
 
 Tendo todo homem Espíritos que com ele simpatizam, claro é que, *nos corpos coletivos*, a generalidade dos Espíritos que lhes votam simpatia está em proporção com a generalidade dos indivíduos; que os Espíritos estranhos são atraídos para essas coletividades pela identidade dos gostos e das ideias; em suma, que esses agregados de pessoas, tanto quanto os indivíduos, são mais ou menos bem assistidos e influenciados, de acordo com a natureza dos sentimentos dominantes entre os elementos que os compõem.
 
-Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o caráter dominante e sobretudo as leis, porque o caráter de uma nação se reflete nas suas leis. Fazendo reinar em seu seio a justiça, os homens combatem a influência dos maus Espíritos. Onde quer que as leis consagrem coisas injustas, contrárias à Humanidade, os bons Espíritos ficam em minoria e a multidão que aflui dos maus mantém a nação aferrada às suas ideias e paralisa as boas influências parciais, que ficam perdidas no conjunto, como insuladas espigas entre espinheiros. Estudando-se os costumes dos povos ou de qualquer reunião de homens, facilmente se forma ideia da população oculta que se lhes imiscui no modo de pensar e nos atos.
+Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o caráter dominante e sobretudo as leis, porque o caráter de uma nação se reflete nas suas leis. Fazendo reinar em seu seio a justiça, os homens combatem a influência dos maus Espíritos. Onde quer que as leis consagrem coisas injustas, contrárias à Humanidade, os bons Espíritos ficam em minoria e a multidão que aflui dos maus mantém a nação aferrada às suas ideias e paralisa as boas influências parciais, que ficam perdidas no conjunto, como insuladas espigas entre espinheiros. Estudando-se os costumes dos povos ou de qualquer reunião de homens, facilmente se forma ideia da população oculta que se lhes imiscui no modo de pensar e nos atos. ⚜️
 :::
 
 ::: expand 🔗
@@ -8517,7 +8522,7 @@ Os avisos dos Espíritos protetores objetivam unicamente o nosso procedimento mo
 :::
 
 ::: kardec
-👴🏻 ▸ Os Espíritos protetores nos ajudam com seus conselhos, mediante a voz da consciência, que fazem ressoar em nosso íntimo. Como, porém, nem sempre ligamos a isso a devida importância, outros conselhos mais diretos eles nos dão, servindo-se das pessoas que nos cercam. Examine cada um as diversas circunstâncias felizes ou infelizes de sua vida e verá que em muitas ocasiões recebeu conselhos de que se não aproveitou e que lhe teriam poupado muitos desgostos, se os houvera escutado.
+👴🏻 ▸ Os Espíritos protetores nos ajudam com seus conselhos, mediante a voz da consciência, que fazem ressoar em nosso íntimo. Como, porém, nem sempre ligamos a isso a devida importância, outros conselhos mais diretos eles nos dão, servindo-se das pessoas que nos cercam. Examine cada um as diversas circunstâncias felizes ou infelizes de sua vida e verá que em muitas ocasiões recebeu conselhos de que se não aproveitou e que lhe teriam poupado muitos desgostos, se os houvera escutado. ⚜️
 :::
 
 ::: expand 🔗
@@ -8550,7 +8555,7 @@ Exercem essa influência por outra forma que não apenas pelos pensamentos que s
 :::
 
 ::: kardec
-👴🏻 ▸ Imaginamos erradamente que aos Espíritos só caiba manifestar sua ação por fenônemo extraordinários. Quiséramos que nos viessem auxiliar por meio de milagres e os figuramos sempre armados de uma varinha mágica. Por não ser assim é que oculta nos parece a intervenção que têm nas coisas deste mundo e muito natural o que se executa com o concurso deles. Assim é que, provocando, por exemplo, o encontro de duas pessoas, que suporão encontrar-se por acaso; inspirando a alguém a ideia de passar por determinado lugar; chamando-lhe a atenção para certo ponto, se disso resulta o que tenham em vista, eles obram de tal maneira que o homem, crente de que obedece a um impulso próprio, conserva sempre o seu livre-arbítrio.
+👴🏻 ▸ Imaginamos erradamente que aos Espíritos só caiba manifestar sua ação por fenônemo extraordinários. Quiséramos que nos viessem auxiliar por meio de milagres e os figuramos sempre armados de uma varinha mágica. Por não ser assim é que oculta nos parece a intervenção que têm nas coisas deste mundo e muito natural o que se executa com o concurso deles. Assim é que, provocando, por exemplo, o encontro de duas pessoas, que suporão encontrar-se por acaso; inspirando a alguém a ideia de passar por determinado lugar; chamando-lhe a atenção para certo ponto, se disso resulta o que tenham em vista, eles obram de tal maneira que o homem, crente de que obedece a um impulso próprio, conserva sempre o seu livre-arbítrio. ⚜️
 :::
 
 ::: expand 🔗
@@ -8685,7 +8690,7 @@ Pode-se pôr termo a isso? Por que meio?
 :::
 
 ::: kardec
-👴🏻 ▸ A experiência demonstra que alguns Espíritos continuam em outra existência a exercer as vinganças que vinham tomando e que assim, cedo ou tarde, o homem paga o mal que tenha feito a outrem.
+👴🏻 ▸ A experiência demonstra que alguns Espíritos continuam em outra existência a exercer as vinganças que vinham tomando e que assim, cedo ou tarde, o homem paga o mal que tenha feito a outrem. ⚜️
 :::
 
 ::: expand 🔗
@@ -8943,7 +8948,7 @@ Durante uma batalha, há Espíritos assistindo e amparando cada um dos exército
 :::
 
 ::: kardec
-👴🏻 ▸ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses deuses eram simplesmente Espíritos representados por alegorias.
+👴🏻 ▸ Os antigos figuravam os deuses tomando o partido deste ou daquele povo. Esses deuses eram simplesmente Espíritos representados por alegorias. ⚜️
 :::
 
 ---
@@ -9015,7 +9020,7 @@ No tumulto dos combates, que se passa com os Espíritos dos que sucumbem? Contin
 :::
 
 ::: kardec
-👴🏻 ▸ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no primeiro momento, o Espírito fica surpreendido e como que atordoado. Julga não estar morto. Parece-lhe que ainda toma parte na ação. Só pouco a pouco a realidade lhe surge.
+👴🏻 ▸ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no primeiro momento, o Espírito fica surpreendido e como que atordoado. Julga não estar morto. Parece-lhe que ainda toma parte na ação. Só pouco a pouco a realidade lhe surge. ⚜️
 :::
 
 ::: expand 🔗
@@ -9079,7 +9084,7 @@ Algo de verdade haverá nos pactos com os maus Espíritos?
 :::
 
 ::: kardec
-👴🏻 ▸ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores nasce de se entregar aos maus pensamentos que estes lhe sugerem e não de estipulações quaisquer que com eles faça. O pacto, no sentido vulgar do termo, é uma alegoria representativa da simpatia existente entre um indivíduo de natureza má e Espíritos malfazejos.
+👴🏻 ▸ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores nasce de se entregar aos maus pensamentos que estes lhe sugerem e não de estipulações quaisquer que com eles faça. O pacto, no sentido vulgar do termo, é uma alegoria representativa da simpatia existente entre um indivíduo de natureza má e Espíritos malfazejos. ⚜️
 :::
 
 ::: expand 🔗
@@ -9180,7 +9185,7 @@ Que sentido se deve dar ao qualificativo de feiticeiro?
 :::
 
 ::: kardec
-👴🏻 ▸ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenônemo sobre os quais a ignorância teceu um sem-número de fábulas, em que os fatos se apresentam exagerados pela imaginação. O conhecimento lúcido dessas duas ciências que, a bem dizer, formam uma única, mostrando a realidade das coisas e suas verdadeiras causas, constitui o melhor preservativo contra as ideias supersticiosas, porque revela o que é possível e o que é impossível, o que está nas Leis da Natureza e o que não passa de ridícula crendice.
+👴🏻 ▸ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenônemo sobre os quais a ignorância teceu um sem-número de fábulas, em que os fatos se apresentam exagerados pela imaginação. O conhecimento lúcido dessas duas ciências que, a bem dizer, formam uma única, mostrando a realidade das coisas e suas verdadeiras causas, constitui o melhor preservativo contra as ideias supersticiosas, porque revela o que é possível e o que é impossível, o que está nas Leis da Natureza e o que não passa de ridícula crendice. ⚜️
 :::
 
 ::: expand 🔗
@@ -9271,7 +9276,7 @@ São permanentes para cada um e estão nas atribuições exclusivas de certas cl
 :::
 
 ::: kardec
-👴🏻 ▸ É o que sucede entre os homens, onde ninguém chega ao supremo grau de perfeição numa arte qualquer, sem que tenha adquirido os conhecimentos necessários, praticando os rudimentos dessa arte.
+👴🏻 ▸ É o que sucede entre os homens, onde ninguém chega ao supremo grau de perfeição numa arte qualquer, sem que tenha adquirido os conhecimentos necessários, praticando os rudimentos dessa arte. ⚜️
 :::
 
 ::: expand 🔗
@@ -9396,7 +9401,7 @@ Costumam os Espíritos imiscuir-se em nossos prazeres e ocupações?
 :::
 
 ::: kardec
-👴🏻 ▸ Com as coisas deste mundo, os Espíritos se ocupam conforme o grau de elevação ou de inferioridade em que se achem. Os Espíritos superiores dispõem, sem dúvida, da faculdade de examiná-las nas suas mínimas particularidades, mas só o fazem na medida em que isso seja útil ao progresso. Unicamente os Espíritos inferiores ligam a essas coisas uma importância relativa às reminiscências que ainda conservam e às ideias materiais que ainda se não extinguiram neles.
+👴🏻 ▸ Com as coisas deste mundo, os Espíritos se ocupam conforme o grau de elevação ou de inferioridade em que se achem. Os Espíritos superiores dispõem, sem dúvida, da faculdade de examiná-las nas suas mínimas particularidades, mas só o fazem na medida em que isso seja útil ao progresso. Unicamente os Espíritos inferiores ligam a essas coisas uma importância relativa às reminiscências que ainda conservam e às ideias materiais que ainda se não extinguiram neles. ⚜️
 :::
 
 ::: expand 🔗
@@ -9428,7 +9433,7 @@ Em que consistem as missões de que podem ser encarregados os Espíritos errante
 :::
 
 ::: kardec
-👴🏻 ▸ As missões dos Espíritos têm sempre por objeto o bem. Quer como Espíritos, quer como homens, são incumbidos de auxiliar o progresso da Humanidade, dos povos ou dos indivíduos, dentro de um círculo de ideias mais ou menos amplas, mais ou menos especiais e de velar pela execução de determinadas coisas. Alguns desempenham missões mais restritas e, de certo modo, pessoais ou inteiramente locais, como sejam assistir os enfermos, os agonizantes, os aflitos, velar por aqueles de quem se constituíram guias e protetores, dirigi-los, dando-lhes conselhos ou inspirando-lhes bons pensamentos. Pode dizer-se que há tantos gêneros de missões quantas as espécies de interesses a resguardar, assim no mundo físico, como no moral. O Espírito se adianta conforme a maneira por que desempenha a sua tarefa.
+👴🏻 ▸ As missões dos Espíritos têm sempre por objeto o bem. Quer como Espíritos, quer como homens, são incumbidos de auxiliar o progresso da Humanidade, dos povos ou dos indivíduos, dentro de um círculo de ideias mais ou menos amplas, mais ou menos especiais e de velar pela execução de determinadas coisas. Alguns desempenham missões mais restritas e, de certo modo, pessoais ou inteiramente locais, como sejam assistir os enfermos, os agonizantes, os aflitos, velar por aqueles de quem se constituíram guias e protetores, dirigi-los, dando-lhes conselhos ou inspirando-lhes bons pensamentos. Pode dizer-se que há tantos gêneros de missões quantas as espécies de interesses a resguardar, assim no mundo físico, como no moral. O Espírito se adianta conforme a maneira por que desempenha a sua tarefa. ⚜️
 :::
 
 ::: expand 🔗
@@ -9744,7 +9749,7 @@ Outros, finalmente, presidem aos fenônemo da Natureza, de que se fazem os agent
 
 Os Espíritos vulgares se imiscuem em nossas ocupações e diversões.
 
-Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em que praza a Deus proporcionar-lhes meios de se adiantarem. Se praticam o mal, é pelo despeito de ainda não poderem gozar do bem.
+Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em que praza a Deus proporcionar-lhes meios de se adiantarem. Se praticam o mal, é pelo despeito de ainda não poderem gozar do bem. ⚜️
 :::
 
 ### 2.11. 🗂️ Os três reinos {#lde-2-11}
@@ -9760,7 +9765,7 @@ Que pensais da divisão da Natureza em três reinos, ou melhor, em duas classes:
 :::
 
 ::: kardec
-👴🏻 ▸ Esses quatro graus apresentam, com efeito, caracteres determinados, muito embora pareçam confundir-se nos seus limites extremos. A matéria inerte, que constitui o reino mineral, só tem em si uma força mecânica. As plantas, ainda que compostas de matéria inerte, são dotadas de vitalidade. Os animais, também compostos de matéria inerte e igualmente dotados de vitalidade, possuem, além disso, uma espécie de inteligência instintiva, limitada, e a consciência de sua existência e de suas individualidades. O homem, tendo tudo o que há nas plantas e nos animais, domina todas as outras classes por uma inteligência especial, indefinida, que lhe dá a consciência do seu futuro, a percepção das coisas extra-materiais e o conhecimento de Deus.
+👴🏻 ▸ Esses quatro graus apresentam, com efeito, caracteres determinados, muito embora pareçam confundir-se nos seus limites extremos. A matéria inerte, que constitui o reino mineral, só tem em si uma força mecânica. As plantas, ainda que compostas de matéria inerte, são dotadas de vitalidade. Os animais, também compostos de matéria inerte e igualmente dotados de vitalidade, possuem, além disso, uma espécie de inteligência instintiva, limitada, e a consciência de sua existência e de suas individualidades. O homem, tendo tudo o que há nas plantas e nos animais, domina todas as outras classes por uma inteligência especial, indefinida, que lhe dá a consciência do seu futuro, a percepção das coisas extra-materiais e o conhecimento de Deus. ⚜️
 :::
 
 ::: expand 🔗
@@ -9826,7 +9831,7 @@ Algumas plantas, como a sensitiva e a dioneia, por exemplo, executam movimentos 
 :::
 
 ::: kardec
-👴🏻 ▸ O organismo humano nos proporciona exemplo de movimentos análogos, sem participação da vontade, nas funções digestivas e circulatórias. O piloro se contrai, ao contato de certos corpos, para lhes negar passagem. O mesmo provavelmente se dá na sensitiva, cujos movimentos de nenhum modo implicam a necessidade de percepção e, ainda menos, da vontade.
+👴🏻 ▸ O organismo humano nos proporciona exemplo de movimentos análogos, sem participação da vontade, nas funções digestivas e circulatórias. O piloro se contrai, ao contato de certos corpos, para lhes negar passagem. O mesmo provavelmente se dá na sensitiva, cujos movimentos de nenhum modo implicam a necessidade de percepção e, ainda menos, da vontade. ⚜️
 :::
 
 ::: expand 🔗
@@ -9885,7 +9890,7 @@ Poder-se-á dizer que os animais só obram por instinto?
 :::
 
 ::: kardec
-👴🏻 ▸ Não se poderia negar que, além de possuírem o instinto, alguns animais praticam atos combinados, que denunciam vontade de operar em determinado sentido e de acordo com as circunstâncias. Há, pois, neles, uma espécie de inteligência, mas cujo exercício quase que se circunscreve à utilização dos meios de satisfazerem às suas necessidades físicas e de proverem à conservação própria. Nada, porém, criam, nem melhora alguma realizam. Qualquer que seja a arte com que executem seus trabalhos, fazem hoje o que faziam outrora e o fazem, nem melhor, nem pior, segundo formas e proporções constantes e invariáveis. A cria, separada dos de sua espécie, não deixa por isso de construir o seu ninho de perfeita conformidade com os seus maiores, sem que tenha recebido nenhum ensino. O desenvolvimento intelectual de alguns, que se mostram suscetíveis de certa educação, desenvolvimento, aliás, que não pode ultrapassar acanhados limites, é devido à ação do homem sobre uma natureza maleável, porquanto não há aí progresso que lhe seja próprio. Mesmo o progresso que realizam pela ação do homem é efêmero e puramente individual, visto que, entregue a si mesmo, não tarda que o animal volte a encerrar-se nos limites que lhe traçou a Natureza.
+👴🏻 ▸ Não se poderia negar que, além de possuírem o instinto, alguns animais praticam atos combinados, que denunciam vontade de operar em determinado sentido e de acordo com as circunstâncias. Há, pois, neles, uma espécie de inteligência, mas cujo exercício quase que se circunscreve à utilização dos meios de satisfazerem às suas necessidades físicas e de proverem à conservação própria. Nada, porém, criam, nem melhora alguma realizam. Qualquer que seja a arte com que executem seus trabalhos, fazem hoje o que faziam outrora e o fazem, nem melhor, nem pior, segundo formas e proporções constantes e invariáveis. A cria, separada dos de sua espécie, não deixa por isso de construir o seu ninho de perfeita conformidade com os seus maiores, sem que tenha recebido nenhum ensino. O desenvolvimento intelectual de alguns, que se mostram suscetíveis de certa educação, desenvolvimento, aliás, que não pode ultrapassar acanhados limites, é devido à ação do homem sobre uma natureza maleável, porquanto não há aí progresso que lhe seja próprio. Mesmo o progresso que realizam pela ação do homem é efêmero e puramente individual, visto que, entregue a si mesmo, não tarda que o animal volte a encerrar-se nos limites que lhe traçou a Natureza. ⚜️
 :::
 
 ::: expand 🔗
@@ -9918,7 +9923,7 @@ Há, entretanto, animais que carecem de voz. Esses parece que nenhuma linguagem 
 :::
 
 ::: kardec
-👴🏻 ▸ Efetivamente, os peixes que, como as andorinhas, emigram em cardumes, obedientes ao guia que os conduz, devem ter meios de se advertirem, de se entenderem e combinarem. É possível que disponham de uma vista mais penetrante e esta lhes permita perceber os sinais que mutuamente façam. Pode ser também que tenham na água um veículo próprio para a transmissão de certas vibrações. Como quer que seja, o que é incontestável é que lhes não falecem meios de se entenderem, do mesmo modo que a todos os animais carentes de voz e que, não obstante, trabalham em comum. Diante disso, que admiração pode causar que os Espíritos entre si se comuniquem sem o auxílio da palavra articulada?
+👴🏻 ▸ Efetivamente, os peixes que, como as andorinhas, emigram em cardumes, obedientes ao guia que os conduz, devem ter meios de se advertirem, de se entenderem e combinarem. É possível que disponham de uma vista mais penetrante e esta lhes permita perceber os sinais que mutuamente façam. Pode ser também que tenham na água um veículo próprio para a transmissão de certas vibrações. Como quer que seja, o que é incontestável é que lhes não falecem meios de se entenderem, do mesmo modo que a todos os animais carentes de voz e que, não obstante, trabalham em comum. Diante disso, que admiração pode causar que os Espíritos entre si se comuniquem sem o auxílio da palavra articulada? ⚜️
 :::
 
 ::: expand 🔗
@@ -10041,7 +10046,7 @@ Os animais estão sujeitos, como o homem, a uma lei progressiva?
 :::
 
 ::: kardec
-👴🏻 ▸ Nada há nisso de extraordinário. Tomemos os nossos mais inteligentes animais, o cão, o elefante, o cavalo, e imaginemo-los dotados de uma conformação apropriada a trabalhos manuais. Que não fariam sob a direção do homem?
+👴🏻 ▸ Nada há nisso de extraordinário. Tomemos os nossos mais inteligentes animais, o cão, o elefante, o cavalo, e imaginemo-los dotados de uma conformação apropriada a trabalhos manuais. Que não fariam sob a direção do homem? ⚜️
 :::
 
 ::: expand 🔗
@@ -10118,7 +10123,7 @@ A inteligência é então uma propriedade comum, um ponto de contato entre a alm
 Considerando-se todos os pontos de contato que existem entre o homem e os animais, não seria lícito pensar que o homem possui duas almas: a alma animal e a alma espírita e que, se esta última não existisse, só como o bruto poderia ele viver? Por outra: que o animal é um ser semelhante ao homem, tendo de menos a alma espírita? Dessa maneira de ver resultaria serem os bons e os maus instintos do homem efeito da predominância de uma ou outra dessas almas?
 
 ::: spirit
-✨ ▸ Não, o homem não tem duas almas. O corpo, porém, tem seus instintos, resultantes da sensação peculiar aos órgãos. Dupla, no homem, só é a natureza. Há nele a natureza animal e a natureza espiritual. Participa, pelo seu corpo, da natureza dos animais e de seus instintos. Por sua alma, participa da dos Espíritos.
+✨ ▸ Não, o homem não tem duas almas. O corpo, porém, tem seus instintos, resultantes da sensação peculiar aos órgãos. Dupla, no homem, só é a natureza. Há nele a natureza animal e a natureza espiritual. Participa, pelo seu corpo, da natureza dos animais e de seus instintos. Por sua alma, participa da dos Espíritos. ⚜️
 :::
 
 ::: expand 🔗
@@ -10136,7 +10141,7 @@ De modo que, além de suas próprias imperfeições de que cumpre ao Espírito d
 :::
 
 ::: kardec
-👴🏻 ▸ Encarnando no corpo do homem, o Espírito lhe traz o princípio intelectual e moral, que o torna superior aos animais. As duas naturezas nele existentes dão às suas paixões duas origens diferentes: umas provêm dos instintos da natureza animal, provindo as outras das impurezas do Espírito, de cuja encarnação é ele a imagem e que mais ou menos simpatiza com a grosseria dos apetites animais. Purificando-se, o Espírito se liberta pouco a pouco da influência da matéria. Sob essa influência, aproxima-se do bruto. Isento dela, eleva-se à sua verdadeira destinação.
+👴🏻 ▸ Encarnando no corpo do homem, o Espírito lhe traz o princípio intelectual e moral, que o torna superior aos animais. As duas naturezas nele existentes dão às suas paixões duas origens diferentes: umas provêm dos instintos da natureza animal, provindo as outras das impurezas do Espírito, de cuja encarnação é ele a imagem e que mais ou menos simpatiza com a grosseria dos apetites animais. Purificando-se, o Espírito se liberta pouco a pouco da influência da matéria. Sob essa influência, aproxima-se do bruto. Isento dela, eleva-se à sua verdadeira destinação. ⚜️
 :::
 
 ::: expand 🔗
@@ -10322,7 +10327,7 @@ O ponto inicial do Espírito é uma dessas questões que se prendem à origem da
 
 As diferentes espécies de animais não procedem *intelectualmente* umas das outras, mediante progressão. Assim, o espírito da ostra não se torna sucessivamente o do peixe, do pássaro, do quadrúpede e do quadrúmano. Cada espécie constitui, física e moralmente, um tipo *absoluto*, cada um de cujos indivíduos haure na fonte universal a quantidade do princípio inteligente que lhe seja necessário, de acordo com a perfeição de seus órgãos e com o trabalho que tenha de executar nos fenônemo da Natureza, quantidade que ele, por sua morte, restitui ao reservatório donde a tirou. Os dos mundos mais adiantados que o nosso (👉🏻 Veja [Q.188](#q188)) constituem igualmente raças distintas, apropriadas às necessidades desses mundos e ao grau de adiantamento dos homens, cujos auxiliares eles são, mas de modo nenhum procedem das da Terra, espiritualmente falando. Outro tanto não se dá com o homem. Do ponto de vista físico, este forma evidentemente um elo da cadeia dos seres vivos; porém, do ponto de vista moral, há, entre o animal e o homem, solução de continuidade. O homem possui, como propriedade sua, a alma ou Espírito, centelha divina que lhe confere o senso moral e um alcance intelectual de que carecem os animais e que é nele o ser principal, que preexiste e sobrevive ao corpo, conservando sua individualidade. Qual a origem do Espírito? Onde o seu ponto inicial? Forma-se do princípio inteligente individualizado? Tudo isso são mistérios que fora inútil querer devassar e sobre os quais, como dissemos, nada mais se pode fazer do que construir sistemas. O que é constante, o que ressalta do raciocínio e da experiência é a sobrevivência do Espírito, a conservação de sua individualidade após a morte, a progressividade de suas faculdades, seu estado feliz ou desgraçado de acordo com o seu adiantamento na senda do bem e todas as verdades morais decorrentes deste princípio.
 
-Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de Deus, como muitas outras coisas, cujo conhecimento *atual* nada importa ao nosso progresso e sobre as quais seria inútil determo-nos.
+Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de Deus, como muitas outras coisas, cujo conhecimento *atual* nada importa ao nosso progresso e sobre as quais seria inútil determo-nos. ⚜️
 :::
 
 ::: expand 🔗
