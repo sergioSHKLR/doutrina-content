@@ -1,9 +1,9 @@
 
-## 2. 🗃️ Mundo Espírita {#lde-2}
+## 2. 🗃️ Mundo espiritual {#lde-2}
 
 ### 2.01. 🗂️ Espíritos {#lde-2-01}
 
-#### 2.01.01 📄 Origem e natureza dos Espíritos {#lde-2-01-01}
+#### 2.01.01. 📄 Origem e natureza dos Espíritos {#lde-2-01-01}
 
 ##### #️⃣ Q.76 {#q76}
 
@@ -127,7 +127,7 @@ Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles em
 
 ---
 
-#### 2.01.02 📄 Mundo normal primitivo {#lde-2-01-02}
+#### 2.01.02. 📄 Mundo normal primitivo {#lde-2-01-02}
 
 ##### #️⃣ Q.84 {#q84}
 
@@ -185,7 +185,7 @@ Ocupam os Espíritos uma região determinada e circunscrita no Espaço?
 
 ---
 
-#### 2.01.03 📄 Forma e ubiquidade dos Espíritos {#lde-2-01-03}
+#### 2.01.03. 📄 Forma e ubiquidade dos Espíritos {#lde-2-01-03}
 
 ##### #️⃣ Q.88 {#q88}
 
@@ -306,7 +306,7 @@ Todos os Espíritos irradiam com igual força?
 
 ---
 
-#### 2.01.04 📄 Perispírito {#lde-2-01-04}
+#### 2.01.04. 📄 Perispírito {#lde-2-01-04}
 
 ##### #️⃣ Q.93 {#q93}
 
@@ -364,7 +364,7 @@ O invólucro semimaterial do Espírito tem formas determinadas e pode ser percep
 
 ---
 
-#### 2.01.05 📄 Diferentes ordens de Espíritos {#lde-2-01-05}
+#### 2.01.05. 📄 Diferentes ordens de Espíritos {#lde-2-01-05}
 
 ##### #️⃣ Q.96 {#q96}
 
@@ -421,7 +421,7 @@ Os da terceira ordem são todos essencialmente maus?
 
 ---
 
-#### 2.01.06 📄 Escala espírita {#lde-2-01-06}
+#### 2.01.06. 📄 Escala espírita {#lde-2-01-06}
 
 ##### #️⃣ 100 {100}
 
@@ -439,7 +439,7 @@ Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o gr
 
 ---
 
-#### 2.01.07 📄 3ª ordem – Espíritos imperfeitos {#lde-2-01-07}
+#### 2.01.07. 📄 3ª ordem – Espíritos imperfeitos {#lde-2-01-07}
 
 ##### #️⃣ 101 {101}
 
@@ -527,7 +527,7 @@ Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os d
 
 ---
 
-#### 2.01.08 📄 2ª ordem – Bons Espíritos {#lde-2-01-08}
+#### 2.01.08. 📄 2ª ordem – Bons Espíritos {#lde-2-01-08}
 
 ##### #️⃣ 107 {107}
 
@@ -586,7 +586,7 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 
 ---
 
-#### 2.01.09 📄 1ª ordem – Espíritos puros {#lde-2-01-09}
+#### 2.01.09. 📄 1ª ordem – Espíritos puros {#lde-2-01-09}
 
 ##### #️⃣ 112 {112}
 
@@ -606,7 +606,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-#### 2.01.10 📄 Progressão dos Espíritos {#lde-2-01-10}
+#### 2.01.10. 📄 Progressão dos Espíritos {#lde-2-01-10}
 
 ##### #️⃣ Q.114 {#q114}
 
@@ -862,7 +862,7 @@ Os Espíritos são criados iguais quanto às faculdades intelectuais?
 
 ---
 
-#### 2.01.11 📄 Anjos e demônios {#lde-2-01-11}
+#### 2.01.11. 📄 Anjos e demônios {#lde-2-01-11}
 
 ##### #️⃣ Q.128 {#q128}
 
@@ -952,7 +952,7 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 
 ### 2.02. 🗂️ Encarnação {#lde-2-02}
 
-#### 2.02.01 📄 Objetivo da encarnação {#lde-2-02-01}
+#### 2.02.01. 📄 Objetivo da encarnação {#lde-2-02-01}
 
 ##### #️⃣ Q.132 {#q132}
 
@@ -1000,7 +1000,7 @@ Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso
 
 ---
 
-#### 2.02.02 📄 A alma {#lde-2-02-02}
+#### 2.02.02. 📄 A alma {#lde-2-02-02}
 
 ##### #️⃣ Q.134 {#q134}
 
@@ -1313,7 +1313,7 @@ Que se deve pensar da opinião dos que situam a alma num centro vital?
 
 ---
 
-#### 2.02.03 📄 Materialismo {#lde-2-02-03}
+#### 2.02.03. 📄 Materialismo {#lde-2-02-03}
 
 ##### #️⃣ Q.147 {#q147}
 
@@ -1355,7 +1355,7 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 ### 2.03. 🗂️ Retorno à vida espiritual {#lde-2-03}
 
-#### 2.03.01 📄 A alma após a morte. Vida eterna {#lde-2-03-01}
+#### 2.03.01. 📄 A alma após a morte. Vida eterna {#lde-2-03-01}
 
 ##### #️⃣ Q.149 {#q149}
 
@@ -1475,7 +1475,7 @@ Não seria mais exato chamar *vida eterna* a dos Espíritos puros, dos que, tend
 
 ---
 
-#### 2.03.02 📄 Separação da alma e do corpo {#lde-2-03-02}
+#### 2.03.02. 📄 Separação da alma e do corpo {#lde-2-03-02}
 
 ##### #️⃣ Q.154 {#q154}
 
@@ -1636,7 +1636,7 @@ Após a decapitação, por exemplo, conserva o homem por alguns instantes a cons
 
 ---
 
-#### 2.03.03 📄 Perturbação espiritual {#lde-2-03-03}
+#### 2.03.03. 📄 Perturbação espiritual {#lde-2-03-03}
 
 ##### #️⃣ Q.163 {#q163}
 
@@ -1701,7 +1701,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 ### 2.04. 🗂️ Pluralidade das existências {#lde-2-04}
 
-#### 2.04.01 📄 A reencarnação {#lde-2-04-01}
+#### 2.04.01. 📄 A reencarnação {#lde-2-04-01}
 
 ##### #️⃣ Q.166 {#q166}
 
@@ -1810,7 +1810,7 @@ O que fica sendo o Espírito depois da sua última encarnação?
 
 ---
 
-#### 2.04.02 📄 Justiça da reencarnação {#lde-2-04-02}
+#### 2.04.02. 📄 Justiça da reencarnação {#lde-2-04-02}
 
 ##### #️⃣ Q.171 {#q171}
 
@@ -1834,7 +1834,7 @@ O homem, que tem consciência da sua inferioridade, haure consoladora esperança
 
 ---
 
-#### 2.04.03 📄 Encarnação nos diferentes mundos {#lde-2-04-03}
+#### 2.04.03. 📄 Encarnação nos diferentes mundos {#lde-2-04-03}
 
 ##### #️⃣ Q.172 {#q172}
 
@@ -2242,7 +2242,7 @@ Os Espíritos puros habitam mundos especiais, ou se acham no espaço universal, 
 
 ---
 
-#### 2.04.04 📄 Transmigrações progressivas {#lde-2-04-04}
+#### 2.04.04. 📄 Transmigrações progressivas {#lde-2-04-04}
 
 ##### #️⃣ Q.189 {#q189}
 
@@ -2447,7 +2447,7 @@ Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulaçõe
 
 ---
 
-#### 2.04.05 📄 Sorte das crianças depois da morte {#lde-2-04-05}
+#### 2.04.05. 📄 Sorte das crianças depois da morte {#lde-2-04-05}
 
 ##### #️⃣ Q.197 {#q197}
 
@@ -2522,7 +2522,7 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 
 ---
 
-#### 2.04.06 📄 Sexos nos Espíritos {#lde-2-04-06}
+#### 2.04.06. 📄 Sexos nos Espíritos {#lde-2-04-06}
 
 ##### #️⃣ Q.200 {#q200}
 
@@ -2566,7 +2566,7 @@ Quando errante, que prefere o Espírito: encarnar no corpo de um homem, ou no de
 
 ---
 
-#### 2.04.07 📄 Parentesco, filiação {#lde-2-04-07}
+#### 2.04.07. 📄 Parentesco, filiação {#lde-2-04-07}
 
 ##### #️⃣ Q.203 {#q203}
 
@@ -2645,7 +2645,7 @@ Do fato de não haver filiação entre os Espíritos dos descendentes de qualque
 
 ---
 
-#### 2.04.08 📄 Parecenças físicas e morais {#lde-2-04-08}
+#### 2.04.08. 📄 Parecenças físicas e morais {#lde-2-04-08}
 
 ##### #️⃣ Q.207 {#q207}
 
@@ -2823,7 +2823,7 @@ E do caráter físico de suas existências pretéritas conserva o Espírito tra�
 
 ---
 
-#### 2.04.09 📄 Ideias inatas {#lde-2-04-09}
+#### 2.04.09. 📄 Ideias inatas {#lde-2-04-09}
 
 ##### #️⃣ Q.218 {#q218}
 
@@ -3038,7 +3038,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito:
 
 ### 2.06. 🗂️ Vida espírita {#lde-2-06}
 
-#### 2.06.01 📄 Espíritos errantes {#lde-2-06-01}
+#### 2.06.01. 📄 Espíritos errantes {#lde-2-06-01}
 
 ##### #️⃣ Q.223 {#q223}
 
@@ -3230,7 +3230,7 @@ Os Espíritos já purificados descem aos mundos inferiores?
 
 ---
 
-#### 2.06.02 📄 Mundos transitórios {#lde-2-06-02}
+#### 2.06.02. 📄 Mundos transitórios {#lde-2-06-02}
 
 ##### #️⃣ Q.234 {#q234}
 
@@ -3364,7 +3364,7 @@ Em que época?
 
 ---
 
-#### 2.06.03 📄 Percepções, sensações e sofrimentos dos Espíritos {#lde-2-06-03}
+#### 2.06.03. 📄 Percepções, sensações e sofrimentos dos Espíritos {#lde-2-06-03}
 
 ##### #️⃣ Q.237 {#q237}
 
@@ -3729,7 +3729,7 @@ Como é então que alguns Espíritos se têm queixado de sofrer frio ou calor?
 
 ---
 
-#### 2.06.04 📄 Ensaio teórico da sensação nos Espíritos {#lde-2-06-04}
+#### 2.06.04. 📄 Ensaio teórico da sensação nos Espíritos {#lde-2-06-04}
 
 ##### #️⃣ 257 {#q257}
 
@@ -3775,7 +3775,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-#### 2.06.05 📄 Escolha das provas {#lde-2-06-05}
+#### 2.06.05. 📄 Escolha das provas {#lde-2-06-05}
 
 ##### #️⃣ Q.258 {#q258}
 
@@ -4087,7 +4087,7 @@ Será possível que um homem de raça civilizada reencarne, por expiação, numa
 
 ---
 
-#### 2.06.06 📄 As relações no além-túmulo {#lde-2-06-06}
+#### 2.06.06. 📄 As relações no além-túmulo {#lde-2-06-06}
 
 ##### #️⃣ Q.274 {#q274}
 
@@ -4370,7 +4370,7 @@ Os parentes e amigos sempre se reúnem depois da morte?
 
 ---
 
-#### 2.06.07 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas {#lde-2-06-07}
+#### 2.06.07. 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas {#lde-2-06-07}
 
 ##### #️⃣ Q.291 {#q291}
 
@@ -4564,7 +4564,7 @@ Podem deixar de ser simpáticos um ao outro dois Espíritos que já o sejam?
 
 ---
 
-#### 2.06.08 📄 Recordação da existência corpórea {#lde-2-06-08}
+#### 2.06.08. 📄 Recordação da existência corpórea {#lde-2-06-08}
 
 ##### #️⃣ Q.304 {#q304}
 
@@ -4856,7 +4856,7 @@ Já tendo o Espírito vivido a vida espírita antes da sua encarnação, como se
 
 ---
 
-#### 2.06.09 📄 Comemoração dos mortos. Funerais {#lde-2-06-09}
+#### 2.06.09. 📄 Comemoração dos mortos. Funerais {#lde-2-06-09}
 
 ##### #️⃣ Q.320 {#q320}
 
@@ -5058,7 +5058,7 @@ O instintivo respeito que, em todos os tempos e entre todos os povos, o homem co
 
 ### 2.07. 🗂️ Volta à vida material {#lde-2-07}
 
-#### 2.07.01 📄 Prelúdio da volta {#lde-2-07-01}
+#### 2.07.01. 📄 Prelúdio da volta {#lde-2-07-01}
 
 ##### #️⃣ Q.330 {#q330}
 
@@ -5301,7 +5301,7 @@ Os que vemos, em sonho, que nos testemunham afeto e que se nos apresentam com de
 
 ---
 
-#### 2.07.02 📄 União do espírito e do corpo {#lde-2-07-02}
+#### 2.07.02. 📄 União do espírito e do corpo {#lde-2-07-02}
 
 ##### #️⃣ Q.344 {#q344}
 
@@ -5591,7 +5591,7 @@ Será racional ter-se para com um feto as mesmas atenções que se costuma dispe
 
 ---
 
-#### 2.07.03 📄 Faculdades morais e intelectuais do homem {#lde-2-07-03}
+#### 2.07.03. 📄 Faculdades morais e intelectuais do homem {#lde-2-07-03}
 
 ##### #️⃣ Q.361 {#q361}
 
@@ -5704,7 +5704,7 @@ Que se deve pensar da opinião dos que pretendem que as diferentes faculdades in
 
 ---
 
-#### 2.07.04 📄 Influência do corpo {#lde-2-07-04}
+#### 2.07.04. 📄 Influência do corpo {#lde-2-07-04}
 ↩️ Voltar para [Q.846](#q846)
 
 ---
@@ -5807,7 +5807,7 @@ Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva 
 
 ---
 
-#### 2.07.05 📄 Idiotismo, loucura {#lde-2-07-05}
+#### 2.07.05. 📄 Idiotismo, loucura {#lde-2-07-05}
 
 ##### #️⃣ Q.371 {#q371}
 
@@ -5983,7 +5983,7 @@ De que modo a alteração do cérebro reage sobre o Espírito depois da morte?
 
 ---
 
-#### 2.07.06 📄 A infância {#lde-2-07-06}
+#### 2.07.06. 📄 A infância {#lde-2-07-06}
 
 ##### #️⃣ Q.379 {#q379}
 
@@ -6105,7 +6105,7 @@ Assim, portanto, a infância é não só útil, necessária, indispensável, mas
 
 ---
 
-#### 2.07.07 📄 Simpatia e antipatia materiais {#lde-2-07-07}
+#### 2.07.07. 📄 Simpatia e antipatia materiais {#lde-2-07-07}
 
 ##### #️⃣ Q.386 {#q386}
 
@@ -6204,7 +6204,7 @@ A antipatia entre duas pessoas nasce primeiro na que tem pior Espírito, ou na q
 
 ---
 
-#### 2.07.08 📄 Esquecimento do passado {#lde-2-07-08}
+#### 2.07.08. 📄 Esquecimento do passado {#lde-2-07-08}
 
 ##### #️⃣ Q.392 {#q392}
 
@@ -6384,7 +6384,7 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 
 ### 2.08. 🗂️ Emancipação da alma {#lde-2-08}
 
-#### 2.08.01 📄 O sono e os sonhos {#lde-2-08-01}
+#### 2.08.01. 📄 O sono e os sonhos {#lde-2-08-01}
 
 ##### #️⃣ Q.400 {#q400}
 
@@ -6608,7 +6608,7 @@ Pode a atividade do Espírito, durante o repouso, ou o sono corporal, fatigar o 
 
 ---
 
-#### 2.08.02 📄 Visitas espíritas entre pessoas vivas {#lde-2-08-02}
+#### 2.08.02. 📄 Visitas espíritas entre pessoas vivas {#lde-2-08-02}
 
 ##### #️⃣ Q.413 {#q413}
 
@@ -6696,7 +6696,7 @@ Uma pessoa que julgasse morto um de seus amigos, sem que tal fosse a realidade, 
 
 ---
 
-#### 2.08.03 📄 Transmissão oculta do pensamento {#lde-2-08-03}
+#### 2.08.03. 📄 Transmissão oculta do pensamento {#lde-2-08-03}
 
 ##### #️⃣ Q.419 {#q419}
 
@@ -6744,7 +6744,7 @@ Como se explica que duas pessoas, perfeitamente acordadas, tenham instantaneamen
 
 ---
 
-#### 2.08.04 📄 Letargia, catalepsia, mortes aparentes {#lde-2-08-04}
+#### 2.08.04. 📄 Letargia, catalepsia, mortes aparentes {#lde-2-08-04}
 
 ##### #️⃣ Q.422 {#q422}
 
@@ -6805,7 +6805,7 @@ Por meio de cuidados dispensados a tempo, podem reatar-se laços prestes a se de
 
 ---
 
-#### 2.08.05 📄 Sonambulismo {#lde-2-08-05}
+#### 2.08.05. 📄 Sonambulismo {#lde-2-08-05}
 
 ##### #️⃣ Q.425 {#q425}
 
@@ -7010,7 +7010,7 @@ O uso que um sonâmbulo faz da sua faculdade influi no estado do seu Espírito d
 
 ---
 
-#### 2.08.06 📄 Êxtase {#lde-2-08-06}
+#### 2.08.06. 📄 Êxtase {#lde-2-08-06}
 
 ##### #️⃣ Q.439 {#q439}
 
@@ -7124,7 +7124,7 @@ Poderiam tais fenômenos adequar-se às ideias materialistas?
 
 ---
 
-#### 2.08.07 📄 Dupla vista {#lde-2-08-07}
+#### 2.08.07. 📄 Dupla vista {#lde-2-08-07}
 
 ##### #️⃣ Q.447 {#q447}
 
@@ -7268,7 +7268,7 @@ Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 ---
 
-#### 2.08.08 📄 Resumo teórico do sonambulismo, do êxtase e da dupla vista {#lde-2-08-08}
+#### 2.08.08. 📄 Resumo teórico do sonambulismo, do êxtase e da dupla vista {#lde-2-08-08}
 
 ##### #️⃣ 455 {#455}
 
@@ -7328,7 +7328,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 ### 2.09. 🗂️ Intervenção no mundo material {#lde-2-09}
 
-#### 2.09.01 📄 Faculdade que têm os Espíritos de penetrar os nossos pensamentos {#lde-2-09-01}
+#### 2.09.01. 📄 Faculdade que têm os Espíritos de penetrar os nossos pensamentos {#lde-2-09-01}
 
 ##### #️⃣ Q.456 {#q456}
 
@@ -7382,7 +7382,7 @@ Que pensam de nós os Espíritos que nos cercam e observam?
 
 ---
 
-#### 2.09.02 📄 Influência oculta dos Espíritos em nossos pensamentos e atos {#lde-2-09-02}
+#### 2.09.02. 📄 Influência oculta dos Espíritos em nossos pensamentos e atos {#lde-2-09-02}
 
 ##### #️⃣ Q.459 {#q459}
 
@@ -7628,7 +7628,7 @@ Os Espíritos que procuram atrair-nos para o mal se limitam a aproveitar as circ
 
 ---
 
-#### 2.09.03 📄 Possessos {#lde-2-09-03}
+#### 2.09.03. 📄 Possessos {#lde-2-09-03}
 
 ##### #️⃣ Q.473 {#q473}
 
@@ -7750,7 +7750,7 @@ Que se deve pensar da expulsão dos demônios, mencionada no Evangelho?
 
 ---
 
-#### 2.09.04 📄 Convulsionários {#lde-2-09-04}
+#### 2.09.04. 📄 Convulsionários {#lde-2-09-04}
 
 ##### #️⃣ Q.481 {#q481}
 
@@ -7811,7 +7811,7 @@ Visto que esses fenônemo dependem de uma causa física e da ação de certos Es
 
 ---
 
-#### 2.09.05 📄 Afeição que os Espíritos votam a certas pessoas {#lde-2-09-05}
+#### 2.09.05. 📄 Afeição que os Espíritos votam a certas pessoas {#lde-2-09-05}
 
 ##### #️⃣ Q.484 {#q484}
 
@@ -7905,7 +7905,7 @@ São sensíveis à afeição que lhes conservamos?
 
 ---
 
-#### 2.09.06 📄 Anjos da guarda. Espíritos protetores, familiares ou simpáticos {#lde-2-09-06}
+#### 2.09.06. 📄 Anjos da guarda. Espíritos protetores, familiares ou simpáticos {#lde-2-09-06}
 
 ##### #️⃣ Q.489 {#q489}
 
@@ -8485,7 +8485,7 @@ Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o car
 
 ---
 
-#### 2.09.07 📄 Pressentimentos {#lde-2-09-07}
+#### 2.09.07. 📄 Pressentimentos {#lde-2-09-07}
 
 ##### #️⃣ Q.522 {#q522}
 
@@ -8532,7 +8532,7 @@ Os avisos dos Espíritos protetores objetivam unicamente o nosso procedimento mo
 
 ---
 
-#### 2.09.08 📄 Influência dos Espíritos nos acontecimentos da vida {#lde-2-09-08}
+#### 2.09.08. 📄 Influência dos Espíritos nos acontecimentos da vida {#lde-2-09-08}
 
 ##### #️⃣ Q.525 {#q525}
 
@@ -8809,7 +8809,7 @@ No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem!
 
 ---
 
-#### 2.09.09 📄 Ação dos Espíritos nos fenômenos da Natureza {#lde-2-09-09}
+#### 2.09.09. 📄 Ação dos Espíritos nos fenômenos da Natureza {#lde-2-09-09}
 
 ##### #️⃣ Q.536 {#q536}
 
@@ -8937,7 +8937,7 @@ Os Espíritos que exercem ação nos fenônemo da Natureza operam com conhecimen
 
 ---
 
-#### 2.09.10 📄 Os Espíritos durante os combates {#lde-2-09-10}
+#### 2.09.10. 📄 Os Espíritos durante os combates {#lde-2-09-10}
 
 ##### #️⃣ Q.541 {#q541}
 
@@ -9073,7 +9073,7 @@ O Espírito que, como espectador, assiste calmamente a um combate observa o ato 
 
 ---
 
-#### 2.09.11 📄 Pactos {#lde-2-09-11}
+#### 2.09.11. 📄 Pactos {#lde-2-09-11}
 
 ##### #️⃣ Q.549 {#q549}
 
@@ -9107,7 +9107,7 @@ Qual o sentido das lendas fantásticas em que figuram indivíduos que teriam ven
 
 ---
 
-#### 2.09.12 📄 Poder oculto. Talismãs. Feiticeiros {#lde-2-09-12}
+#### 2.09.12. 📄 Poder oculto. Talismãs. Feiticeiros {#lde-2-09-12}
 
 ##### #️⃣ Q.551 {#q551}
 
@@ -9209,7 +9209,7 @@ Têm algumas pessoas, verdadeiramente, o poder de curar pelo simples contato?
 
 ---
 
-#### 2.09.13 📄 Bênçãos e maldições {#lde-2-09-13}
+#### 2.09.13. 📄 Bênçãos e maldições {#lde-2-09-13}
 
 ##### #️⃣ Q.557 {#q557}
 
@@ -9754,7 +9754,7 @@ Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em qu
 
 ### 2.11. 🗂️ Os três reinos {#lde-2-11}
 
-#### 2.11.01 📄 Os minerais e as plantas {#lde-2-11-01}
+#### 2.11.01. 📄 Os minerais e as plantas {#lde-2-11-01}
 
 ##### #️⃣ Q.585 {#q585}
 
@@ -9869,7 +9869,7 @@ Nos mundos superiores, as plantas são de natureza mais perfeita, como os outros
 
 ---
 
-#### 2.11.02 📄 Os animais e o homem {#lde-2-11-02}
+#### 2.11.02. 📄 Os animais e o homem {#lde-2-11-02}
 
 ##### #️⃣ Q.592 {#q592}
 
@@ -10275,7 +10275,7 @@ Ter-se-ão enganado os Espíritos que disseram constituir o homem um ser à part
 
 ---
 
-#### 2.11.03 📄 Metempsicose {#lde-2-11-03}
+#### 2.11.03. 📄 Metempsicose {#lde-2-11-03}
 
 ##### #️⃣ Q.611 {#q611}
 

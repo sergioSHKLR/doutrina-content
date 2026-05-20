@@ -173,10 +173,12 @@ emojiDefinitions:
     🗃️: "Parte do Livro"
     🗂️: "Capítulo da Parte"
     📄: "Tópico do Capítulo"
-    #️⃣: "Questão"
+    #️⃣: "Item numerado"
     👉🏻: "Tópico relacionado"
     🔗: "Lista de termos do Índice"
     🏷️: "Termo do Índice"
+    📃: "Notas de rodapé"
+    📝: "Nota"
   "Conferência de qualidade":
     ⚓: "notas de rodapé"
     📐: "italics"
@@ -235,7 +237,78 @@ organizada e adaptada por Sergio Schickler
 
 ---
 
-### 📄 0.02 Prefácio {#lde-0-02}
+### 0.02.📄 Sumário Geral {#lde-0-02}
+
+::: grey-center
+**Sumário Interativo** — Clique nos itens para navegar
+:::
+
+**Parte 0. 🗃️ Pré-textual**
+- [0.00 ⚖️ Legal e Créditos](#lde-0-00)
+- [0.01 📄 Folha de rosto](#lde-0-01)
+- [0.02 🗂️ Prefácio](#lde-0-03)
+- [0.03 🗂️ Introdução](#lde-0-04)
+
+**Parte 1. 🗃️ Causas primárias**
+- [1.01. 🗂️ Deus](#lde-1-01)
+- [1.02. 🗂️ Elementos gerais do Universo](#lde-1-02)
+- [1.03. 🗂️ Criação](#lde-1-03)
+- [1.04. 🗂️ Princípio vital](#lde-1-04)
+
+**Parte 2. 🗃️ Mundo espiritual**
+- [2.01. 🗂️ Espíritos](#lde-2-01)
+- [2.02. 🗂️ Encarnação](#lde-2-02)
+- [2.03. 🗂️ Retorno à vida espiritual](#lde-2-03)
+- [2.04. 🗂️ Pluralidade das existências](#lde-2-04)
+- [2.05. 🗂️ Considerações sobre a pluralidade das existências](#lde-2-05)
+- [2.06. 🗂️ Vida espírita](#lde-2-06)
+- [2.07. 🗂️ Volta à vida material](#lde-2-07)
+- [2.08. 🗂️ Emancipação da alma](#lde-2-08)
+- [2.09. 🗂️ Intervenção no mundo material](#lde-2-09)
+- [2.10. 🗂️ Ocupações e missões](#lde-2-10)
+- [2.11. 🗂️ Os três reinos](#lde-2-11)
+
+**Parte 3. 🗃️ Leis morais**
+- [3.01. 🗂️ Lei divina](#lde-3-01)
+- [3.02. 🗂️ Lei de adoração](#lde-3-02)
+- [3.03. 🗂️ Lei do trabalho](#lde-3-03)
+- [3.04. 🗂️ Lei de reprodução](#lde-3-04)
+- [3.05. 🗂️ Lei de conservação](#lde-3-05)
+- [3.06. 🗂️ Lei de destruição](#lde-3-06)
+- [3.07. 🗂️ Lei de sociedade](#lde-3-07)
+- [3.08. 🗂️ Lei do progresso](#lde-3-08)
+- [3.09. 🗂️ Lei de igualdade](#lde-3-09)
+- [3.10. 🗂️ Lei de liberdade](#lde-3-10)
+- [3.11. 🗂️ Lei de justiça, de amor, e de caridade](#lde-3-11)
+- [3.12. 🗂️ Perfeição moral](#lde-3-12)
+
+**Parte 4. 🗃️ Esperanças e Consolações**
+- [4.01. 🗂️ Penas e felicidades materiais](#lde-4-01)
+- [4.02. 🗂️ Penas e felicidades futuras](#lde-4-02)
+
+**Parte 5. 🗃️ Conclusão**
+- [5.01. 📄 Conclusão 01](#lde-5-01)
+- [5.02. 📄 Conclusão 02](#lde-5-02)
+- [5.03. 📄 Conclusão 03](#lde-5-03)
+- [5.04. 📄 Conclusão 04](#lde-5-04)
+- [5.05. 📄 Conclusão 05](#lde-5-05)
+- [5.06. 📄 Conclusão 06](#lde-5-06)
+- [5.07. 📄 Conclusão 07](#lde-5-07)
+- [5.08. 📄 Conclusão 08](#lde-5-08)
+- [5.09. 📄 Conclusão 09](#lde-5-09)
+
+**Parte 6. 🗃️ Pós-textual**
+- [6.01. 📄 Nota explicativa](#lde-6-01)
+- [6.02. 📄 Índice geral](#lde-6-02)
+- [6.03. 📄 Notas de rodapé](#lde-6-03)
+
+---
+
+**Dica:** Use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
+
+---
+
+### 0.02 📄 Prefácio {#lde-0-03}
 
 ::: grey-center
 ![Cepa Espírita](/images/vine.png)
@@ -308,9 +381,33 @@ entre outros.**
 
 ---
 
-### 🗂️ 0.03 Introdução {#lde-0-03}
+### 0.03 🗂️ Introdução {#lde-0-04}
 
-#### 0.03.01 📄 Intro 01 {#lde-0-03-01}
+::: chapter toc
+Neste capítulo:
+<!-- no toc -->
+- [0.03.01. 📄 Intro 01](#lde-0-04-01)
+- [0.03.02. 📄 Intro 02](#lde-0-04-02)
+- [0.03.03. 📄 Intro 03](#lde-0-04-03)
+- [0.03.04. 📄 Intro 04](#lde-0-04-04)
+- [0.03.05. 📄 Intro 05](#lde-0-04-05)
+- [0.03.06. 📄 Intro 06](#lde-0-04-06)
+- [0.03.07. 📄 Intro 07](#lde-0-04-07)
+- [0.03.08. 📄 Intro 08](#lde-0-04-08)
+- [0.03.09. 📄 Intro 09](#lde-0-04-09)
+- [0.03.10. 📄 Intro 10](#lde-0-04-10)
+- [0.03.11. 📄 Intro 11](#lde-0-04-11)
+- [0.03.12. 📄 Intro 12](#lde-0-04-12)
+- [0.03.13. 📄 Intro 13](#lde-0-04-13)
+- [0.03.14. 📄 Intro 14](#lde-0-04-14)
+- [0.03.15. 📄 Intro 15](#lde-0-04-15)
+- [0.03.16. 📄 Intro 16](#lde-0-04-16)
+- [0.03.17. 📄 Intro 17](#lde-0-04-17)
+Voltar para:
+- [0.02. 📄 Sumário Geral](#lde-0-02)
+:::
+
+#### 0.03.01. 📄 Intro 01 {#lde-0-04-01}
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão inerente à variedade de sentidos das mesmas palavras. Os vocábulos *espiritual*, *espiritualista*, *espiritualismo* têm acepção bem definida. Dar-lhes outra, para aplicá-los à Doutrina dos Espíritos, fora multiplicar as causas já numerosas de anfibologia. Com efeito, o espiritualismo é o oposto do materialismo. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos Espíritos ou em suas comunicações com o mundo visível. Em vez das palavras *espiritual*, *espiritualismo*, empregamos, para indicar a crença a que vimos de referir-nos, os termos *espírita* e *Espiritismo*, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente inteligíveis, deixando ao vocábulo *espiritualismo* a acepção que lhe é própria. Diremos, pois, que a Doutrina *Espírita* ou o *Espiritismo* tem por princípio as relações do mundo material com os Espíritos ou seres do mundo invisível. Os adeptos do Espiritismo serão os *espíritas*, ou, se quiserem, os *espiritistas*.
 
@@ -325,7 +422,7 @@ Como especialidade, ✨ *O Livro dos Espíritos* contém a Doutrina Espírita; c
 
 ---
 
-#### 0.03.02 📄 Intro 02 {#lde-0-03-02}
+#### 0.03.02. 📄 Intro 02 {#lde-0-04-02}
 
 Há outra palavra acerca da qual importa igualmente que todos se entendam, por constituir um dos fechos de abóbada de toda doutrina moral e ser objeto de inúmeras controvérsias, à míngua de uma acepção bem determinada. É a palavra *alma*. A divergência de opiniões sobre a natureza da alma provém da aplicação particular que cada um dá a esse termo. Uma língua perfeita, em que cada ideia fosse expressa por um termo próprio, evitaria muitas discussões. Com uma palavra para cada coisa, todos se entenderiam.
 
@@ -365,7 +462,7 @@ Passemos agora ao objeto principal desta instrução preliminar.
 
 ---
 
-#### 0.03.03 📄 Intro 03 {#lde-0-03-03}
+#### 0.03.03. 📄 Intro 03 {#lde-0-04-03}
 
 Como tudo que constitui novidade, a Doutrina Espírita conta adeptos e contraditores. Vamos tentar responder a algumas das objeções destes últimos, examinando o valor dos motivos em que se apoiam sem alimentarmos, todavia, a pretensão de convencer a todos, pois muitos há que creem ter sido a luz feita exclusivamente para eles. Dirigimo-nos aos de boa-fé, aos que não trazem ideias preconcebidas ou decididamente firmadas contra tudo e todos, aos que sinceramente desejam instruir-se e lhes demonstraremos que a maior parte das objeções opostas à doutrina promanam de incompleta observação dos fatos e de juízo leviano e precipitadamente formado.
 
@@ -404,7 +501,7 @@ Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Pergunt
 
 ---
 
-#### 0.03.04 📄 Intro 04 {#lde-0-03-04}
+#### 0.03.04. 📄 Intro 04 {#lde-0-04-04}
 
 Se os fenômenos, com que nos estamos ocupando, houvessem ficado restritos ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem singular. Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a intervenção de uma causa inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência inteligente? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da Humanidade? Eis outras questões que decorrem da anterior.
 
@@ -443,7 +540,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 
 ---
 
-#### 0.03.05 📄 Intro 05 {#lde-0-03-05}
+#### 0.03.05. 📄 Intro 05 {#lde-0-04-05}
 
 Reconheceu-se mais tarde que a cesta e a prancheta não eram, realmente, mais do que um apêndice da mão; e o médium, tomando diretamente do lápis, se pôs a escrever por um impulso involuntário e quase febril. Dessa maneira, as comunicações se tornaram mais rápidas, mais fáceis e mais completas. Hoje é esse o meio geralmente empregado e com tanto mais razão quanto o número das pessoas dotadas dessa aptidão é muito considerável e cresce todos os dias. Finalmente, a experiência deu a conhecer muitas outras variedades da faculdade mediadora, vindo-se a saber que as comunicações podiam igualmente ser transmitidas pela palavra, pela audição, pela visão, pelo tato etc., e até pela escrita direta dos Espíritos, isto é, sem o concurso da mão do médium, nem do lápis.
 
@@ -468,7 +565,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 
 ---
 
-#### 0.03.06 📄 Intro 06 {#lde-0-03-06}
+#### 0.03.06. 📄 Intro 06 {#lde-0-04-06}
 
 Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de Espíritos ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.
 
@@ -531,7 +628,7 @@ Este o resumo da Doutrina Espírita , como resulta dos ensinamentos dados pelos 
 
 ---
 
-#### 0.03.07 📄 Intro 07 {#lde-0-03-07}
+#### 0.03.07. 📄 Intro 07 {#lde-0-04-07}
 
 Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte presunção contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar azo a que de nós digam que escouceamos. Temo-los, ao contrário, em grande apreço e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença irrevogável.
 
@@ -565,7 +662,7 @@ O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles
 
 ---
 
-#### 0.03.08 📄 Intro 08 {#lde-0-03-08}
+#### 0.03.08. 📄 Intro 08 {#lde-0-04-08}
 
 Acrescentemos que o estudo de uma doutrina, qual a Doutrina Espírita , que nos lança de súbito numa ordem de coisas tão nova quão grande, só pode ser feito com utilidade por homens sérios, perseverantes, livres de prevenções e animados de firme e sincera vontade de chegar a um resultado. Não sabemos como dar esses qualificativos aos que julgam *a priori*, levianamente, sem tudo ter visto; que não imprimem a seus estudos a continuidade, a regularidade e o recolhimento indispensáveis. Ainda menos saberíamos dá-los a alguns que, para não decaírem da reputação de homens de espírito, se afadigam por achar um lado burlesco nas coisas mais verdadeiras, ou tidas como tais por pessoas cujo saber, caráter e convicções lhes dão direito à consideração de quem quer que se preze de bem-educado. Abstenham-se, portanto, os que entendem não serem dignos de sua atenção os fatos. Ninguém pensa em lhes violentar a crença; concordem, pois, em respeitar a dos outros.
 
@@ -582,7 +679,7 @@ Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobr
 
 ---
 
-#### 0.03.09 📄 Intro 09 {#lde-0-03-09}
+#### 0.03.09. 📄 Intro 09 {#lde-0-04-09}
 
 O movimento dos objetos é um fato incontestável. A questão está em saber se, nesse movimento, há ou não uma manifestação inteligente e, em caso de afirmativa, qual a origem dessa manifestação.
 
@@ -603,7 +700,7 @@ Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em b
 
 ---
 
-#### 0.03.10 📄 Intro 10 {#lde-0-03-10}
+#### 0.03.10. 📄 Intro 10 {#lde-0-04-10}
 
 Entre as objeções, algumas há das mais especiosas, ao menos na aparência, porque tiradas da observação e feitas por pessoas respeitáveis.
 
@@ -633,7 +730,7 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 
 ---
 
-#### 0.03.11 📄 Intro 11 {#lde-0-03-11}
+#### 0.03.11. 📄 Intro 11 {#lde-0-04-11}
 
 Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conhecidas e perguntam por que são eles os únicos a se manifestarem. Há ainda aqui um erro, oriundo, como tantos outros, de superficial observação. Dentre os Espíritos que vêm espontaneamente, muito maior é, para nós, o número dos desconhecidos do que o dos ilustres, designando-se aqueles por um nome qualquer, muitas vezes por um nome alegórico ou característico. Quanto aos que se evocam, desde que não se trate de parente ou amigo, é muito natural nos dirijamos aos que conhecemos, de preferência a chamar pelos que nos são desconhecidos. O nome das personagens ilustres atrai mais a atenção, por isso é que são notadas.
 
@@ -654,7 +751,7 @@ devendo esta sentença entender-se com relação à categoria em que cada um de 
 
 ---
 
-#### 0.03.12 📄 Intro 12 {#lde-0-03-12}
+#### 0.03.12. 📄 Intro 12 {#lde-0-04-12}
 
 Um fato demonstrado pela observação e confirmado pelos próprios Espíritos é o de que os Espíritos inferiores muitas vezes usurpam nomes conhecidos e respeitados. Quem pode, pois, afirmar que os que dizem ter sido, por exemplo, Sócrates, Júlio César, Carlos Magno, Fénelon, Napoleão, Washington entre outros, tenham realmente animado essas personagens? Esta dúvida existe mesmo entre alguns adeptos fervorosos da Doutrina Espírita , os quais admitem a intervenção e a manifestação dos Espíritos, mas inquirem como se lhes pode comprovar a identidade. Semelhante prova é, de fato, bem difícil de produzir-se. Conquanto, porém, não o possa ser de modo tão autêntico como por uma certidão de registro civil, pode-o ao menos por presunção, segundo certos indícios.
 
@@ -683,7 +780,7 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 
 ---
 
-#### 0.03.13 📄 Intro 13 {#lde-0-03-13}
+#### 0.03.13. 📄 Intro 13 {#lde-0-04-13}
 
 As observações que aí ficam nos levam a dizer alguma coisa acerca de outra dificuldade, a da divergência que se nota na linguagem dos Espíritos.
 
@@ -706,7 +803,7 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 
 ---
 
-#### 0.03.14 📄 Intro 14 {#lde-0-03-14}
+#### 0.03.14. 📄 Intro 14 {#lde-0-04-14}
 
 Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, *a despeito da ignorância do médium*.
 
@@ -718,7 +815,7 @@ Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito d
 
 ---
 
-#### 0.03.15 📄 Intro 15 {#lde-0-03-15}
+#### 0.03.15. 📄 Intro 15 {#lde-0-04-15}
 
 Há também pessoas que vêem perigo por toda parte e em tudo o que não conhecem. Daí a pressa com que, do fato de haverem perdido a razão alguns dos que se entregaram a estes estudos, tiram conclusões desfavoráveis ao Espiritismo. Como é que homens sensatos enxergam nisto uma objeção valiosa? Não se dá o mesmo com todas as preocupações de ordem intelectual que empolguem um cérebro fraco? Quem será capaz de precisar quantos loucos e maníacos os estudos da Matemática, da Medicina, da Música, da Filosofia e outros têm produzido? Dever-se-ia, em consequência, banir esses estudos? Que prova isso? Nos trabalhos corporais, estropiam-se os braços e as pernas, que são os instrumentos da ação material; nos trabalhos da inteligência, estropia-se o cérebro, que é o do pensamento. Mas, por se haver quebrado o instrumento, não se segue que o mesmo tenha acontecido ao Espírito. Este permanece intacto e, desde que se liberte da matéria, gozará, tanto quanto qualquer outro, da plenitude das suas faculdades. No seu gênero, ele é, como homem, um mártir do trabalho.
 
@@ -738,7 +835,7 @@ Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo 
 
 ---
 
-#### 0.03.16 📄 Intro 16 {#lde-0-03-16}
+#### 0.03.16. 📄 Intro 16 {#lde-0-04-16}
 
 Resta-nos ainda examinar duas objeções, únicas que realmente merecem este nome, porque se baseiam em teorias racionais. Ambas admitem a realidade de todos os fenômenos materiais e morais, mas excluem a intervenção dos Espíritos.
 
@@ -772,7 +869,7 @@ Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, e
 
 ---
 
-#### 0.03.17 📄 Intro 17 {#lde-0-03-17}
+#### 0.03.17. 📄 Intro 17 {#lde-0-04-17}
 
 O ceticismo, no tocante à Doutrina Espírita, quando não resulta de uma oposição sistemática por interesse, origina-se quase sempre do conhecimento incompleto dos fatos, o que não obsta a que alguns cortem a questão como se a conhecessem a fundo. Pode-se ter muito atilamento, muita instrução mesmo, e carecer-se de bom senso. Ora, o primeiro indício da falta de bom senso está em crer alguém infalível o seu juízo. Há também muita gente para quem as manifestações espíritas nada mais são do que objeto de curiosidade. Confiamos em que, lendo este livro, encontrarão nesses extraordinários fenômenos alguma coisa mais do que simples passatempo.
 
@@ -792,11 +889,22 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 
 
-## 1. 🗃️ Causas Primárias {#lde-1}
+## 1. 🗃️ Causas primárias {#lde-1}
 
 ### 1.01. 🗂️ Deus {#lde-1-01}
 
-#### 1.01.01 📄 Deus e o infinito {#lde-1-01-01}
+::: chapter toc
+Neste capítulo:
+<!-- no toc -->
+- [1.01.01. 📄 Deus e o infinito](#lde-1-01-01)
+- [1.01.02. 📄 Provas da existência de Deus](#lde-1-01-02)
+- [1.01.03. 📄 Atributos da Divindade](#lde-1-01-03)
+- [1.01.04. 📄 Panteísmo](#lde-1-01-04)
+Voltar para:
+- [0.02. 📄 Sumário Geral](#lde-0-02)
+:::
+
+#### 1.01.01. 📄 Deus e o infinito {#lde-1-01-01}
 
 ##### #️⃣ Q.1 {#q1}
 
@@ -843,7 +951,7 @@ Poder-se-ia dizer que Deus é o infinito?
 
 ---
 
-#### 1.01.02 📄 Provas da existência de Deus {#lde-1-01-02}
+#### 1.01.02. 📄 Provas da existência de Deus {#lde-1-01-02}
 
 ##### #️⃣ Q.4 {#q4}
 
@@ -948,7 +1056,7 @@ Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela 
 
 ---
 
-#### 1.01.03 📄 Atributos da Divindade {#lde-1-01-03}
+#### 1.01.03. 📄 Atributos da Divindade {#lde-1-01-03}
 
 ##### #️⃣ Q.10 {#q10}
 
@@ -1022,7 +1130,7 @@ Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipo
 
 ---
 
-#### 1.01.04 📄 Panteísmo {#lde-1-01-04}
+#### 1.01.04. 📄 Panteísmo {#lde-1-01-04}
 
 ##### #️⃣ Q.14 {#q14}
 
@@ -1073,7 +1181,18 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 
 ### 1.02. 🗂️ Elementos gerais do Universo {#lde-1-02}
 
-#### 1.02.01 📄 Conhecimento do princípio das coisas {#lde-1-02-01}
+::: chapter toc
+Neste capítulo:
+<!-- no toc -->
+- [1.02.01. 📄 Conhecimento do princípio das coisas](#lde-1-02-01)
+- [1.02.02. 📄 Espírito e Matéria](#lde-1-02-02)
+- [1.02.03. 📄 Propriedades da Matéria](#lde-1-02-03)
+- [1.02.04. 📄 Espaço universal](#lde-1-02-04)
+Voltar para:
+- [0.02. 📄 Sumário Geral](#lde-0-02)
+:::
+
+#### 1.02.01. 📄 Conhecimento do princípio das coisas {#lde-1-02-01}
 
 ##### #️⃣ Q.17 {#q17}
 
@@ -1137,7 +1256,7 @@ Dado é ao homem receber, sem ser por meio das investigações da Ciência, comu
 
 ---
 
-#### 1.02.02 📄 Espírito e Matéria {#lde-1-02-02}
+#### 1.02.02. 📄 Espírito e Matéria {#lde-1-02-02}
 
 ##### #️⃣ Q.21 {#q21}
 
@@ -1318,7 +1437,7 @@ Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos suje
 
 ---
 
-#### 1.02.03 📄 Propriedades da Matéria {#lde-1-02-03}
+#### 1.02.03. 📄 Propriedades da Matéria {#lde-1-02-03}
 
 ##### #️⃣ Q.29 {#q29}
 
@@ -1429,7 +1548,7 @@ Essa forma é constante ou variável?
 
 ---
 
-#### 1.02.04 📄 Espaço universal {#lde-1-02-04}
+#### 1.02.04. 📄 Espaço universal {#lde-1-02-04}
 
 ##### #️⃣ Q.35 {#q35}
 
@@ -1462,7 +1581,20 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 
 ### 1.03. 🗂️ Criação {#lde-1-03}
 
-#### 1.03.01 📄 Formação dos mundos {#lde-1-03-01}
+::: chapter toc
+Neste capítulo:
+<!-- no toc -->
+- [1.03.01. 📄 Formação dos mundos](#lde-1-03-01)
+- [1.03.02. 📄 Formação dos seres vivos](#lde-1-03-02)
+- [1.03.03. 📄 Povoamento da Terra. Adão](#lde-1-03-03)
+- [1.03.04. 📄 Diversidade das raças humanas](#lde-1-03-04)
+- [1.03.05. 📄 Pluralidade dos mundos](#lde-1-03-04)
+- [1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação](#lde-1-03-04)
+Voltar para:
+- [0.02. 📄 Sumário Geral](#lde-0-02)
+:::
+
+#### 1.03.01. 📄 Formação dos mundos {#lde-1-03-01}
 
 ::: kardec
 👴🏻 ▸ O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem. ⚜️
@@ -1557,7 +1689,7 @@ Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exe
 
 ---
 
-#### 1.03.02 📄 Formação dos seres vivos {#lde-1-03-02}
+#### 1.03.02. 📄 Formação dos seres vivos {#lde-1-03-02}
 
 ##### #️⃣ Q.43 {#q43}
 
@@ -1661,7 +1793,7 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 
 ---
 
-#### 1.03.03 📄 Povoamento da Terra. Adão {#lde-1-03-03}
+#### 1.03.03. 📄 Povoamento da Terra. Adão {#lde-1-03-03}
 
 ##### #️⃣ Q.50 {#q50}
 
@@ -1692,7 +1824,7 @@ Poderemos saber em que época viveu Adão?
 
 ---
 
-#### 1.03.04 📄 Diversidade das raças humanas {#lde-1-03-04}
+#### 1.03.04. 📄 Diversidade das raças humanas {#lde-1-03-04}
 
 ##### #️⃣ Q.52 {#q52}
 
@@ -1740,7 +1872,7 @@ Pelo fato de não proceder de um só indivíduo a espécie humana, devem os home
 
 ---
 
-#### 1.03.05 📄 Pluralidade dos mundos {#lde-1-03-05}
+#### 1.03.05. 📄 Pluralidade dos mundos {#lde-1-03-05}
 
 ##### #️⃣ Q.55 {#q55}
 
@@ -1802,7 +1934,7 @@ Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de 
 
 ---
 
-#### 1.03.06 📄 Considerações e concordâncias bíblicas concernentes à Criação {#lde-1-03-06}
+#### 1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação {#lde-1-03-06}
 
 ##### #️⃣ Q.59 {#q59}
 
@@ -1835,7 +1967,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 ### 1.04. 🗂️ Princípio Vital {#lde-1-04}
 
-#### 1.04.01 📄 Seres orgânicos e inorgânicos {#lde-1-04-01}
+#### 1.04.01. 📄 Seres orgânicos e inorgânicos {#lde-1-04-01}
 
 👴🏻 ▸ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc. ⚜️
 
@@ -1983,7 +2115,7 @@ Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vi
 
 ---
 
-#### 1.04.02 📄 A vida e a morte {#lde-1-04-02}
+#### 1.04.02. 📄 A vida e a morte {#lde-1-04-02}
 
 ##### #️⃣ Q.68 {#q68}
 
@@ -2057,7 +2189,7 @@ O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maio
 
 ---
 
-#### 1.04.03 📄 Inteligência e instinto {#lde-1-04-03}
+#### 1.04.03. 📄 Inteligência e instinto {#lde-1-04-03}
 
 ##### #️⃣ Q.71 {#q71}
 
@@ -2176,11 +2308,11 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 
 
 
-## 2. 🗃️ Mundo Espírita {#lde-2}
+## 2. 🗃️ Mundo espiritual {#lde-2}
 
 ### 2.01. 🗂️ Espíritos {#lde-2-01}
 
-#### 2.01.01 📄 Origem e natureza dos Espíritos {#lde-2-01-01}
+#### 2.01.01. 📄 Origem e natureza dos Espíritos {#lde-2-01-01}
 
 ##### #️⃣ Q.76 {#q76}
 
@@ -2304,7 +2436,7 @@ Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles em
 
 ---
 
-#### 2.01.02 📄 Mundo normal primitivo {#lde-2-01-02}
+#### 2.01.02. 📄 Mundo normal primitivo {#lde-2-01-02}
 
 ##### #️⃣ Q.84 {#q84}
 
@@ -2362,7 +2494,7 @@ Ocupam os Espíritos uma região determinada e circunscrita no Espaço?
 
 ---
 
-#### 2.01.03 📄 Forma e ubiquidade dos Espíritos {#lde-2-01-03}
+#### 2.01.03. 📄 Forma e ubiquidade dos Espíritos {#lde-2-01-03}
 
 ##### #️⃣ Q.88 {#q88}
 
@@ -2483,7 +2615,7 @@ Todos os Espíritos irradiam com igual força?
 
 ---
 
-#### 2.01.04 📄 Perispírito {#lde-2-01-04}
+#### 2.01.04. 📄 Perispírito {#lde-2-01-04}
 
 ##### #️⃣ Q.93 {#q93}
 
@@ -2541,7 +2673,7 @@ O invólucro semimaterial do Espírito tem formas determinadas e pode ser percep
 
 ---
 
-#### 2.01.05 📄 Diferentes ordens de Espíritos {#lde-2-01-05}
+#### 2.01.05. 📄 Diferentes ordens de Espíritos {#lde-2-01-05}
 
 ##### #️⃣ Q.96 {#q96}
 
@@ -2598,7 +2730,7 @@ Os da terceira ordem são todos essencialmente maus?
 
 ---
 
-#### 2.01.06 📄 Escala espírita {#lde-2-01-06}
+#### 2.01.06. 📄 Escala espírita {#lde-2-01-06}
 
 ##### #️⃣ 100 {100}
 
@@ -2616,7 +2748,7 @@ Com o auxílio desse quadro, fácil será determinar-se a ordem, assim como o gr
 
 ---
 
-#### 2.01.07 📄 3ª ordem – Espíritos imperfeitos {#lde-2-01-07}
+#### 2.01.07. 📄 3ª ordem – Espíritos imperfeitos {#lde-2-01-07}
 
 ##### #️⃣ 101 {101}
 
@@ -2704,7 +2836,7 @@ Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os d
 
 ---
 
-#### 2.01.08 📄 2ª ordem – Bons Espíritos {#lde-2-01-08}
+#### 2.01.08. 📄 2ª ordem – Bons Espíritos {#lde-2-01-08}
 
 ##### #️⃣ 107 {107}
 
@@ -2763,7 +2895,7 @@ Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e
 
 ---
 
-#### 2.01.09 📄 1ª ordem – Espíritos puros {#lde-2-01-09}
+#### 2.01.09. 📄 1ª ordem – Espíritos puros {#lde-2-01-09}
 
 ##### #️⃣ 112 {112}
 
@@ -2783,7 +2915,7 @@ Gozam de inalterável felicidade, porque não se acham submetidos às necessidad
 
 ---
 
-#### 2.01.10 📄 Progressão dos Espíritos {#lde-2-01-10}
+#### 2.01.10. 📄 Progressão dos Espíritos {#lde-2-01-10}
 
 ##### #️⃣ Q.114 {#q114}
 
@@ -3039,7 +3171,7 @@ Os Espíritos são criados iguais quanto às faculdades intelectuais?
 
 ---
 
-#### 2.01.11 📄 Anjos e demônios {#lde-2-01-11}
+#### 2.01.11. 📄 Anjos e demônios {#lde-2-01-11}
 
 ##### #️⃣ Q.128 {#q128}
 
@@ -3129,7 +3261,7 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 
 ### 2.02. 🗂️ Encarnação {#lde-2-02}
 
-#### 2.02.01 📄 Objetivo da encarnação {#lde-2-02-01}
+#### 2.02.01. 📄 Objetivo da encarnação {#lde-2-02-01}
 
 ##### #️⃣ Q.132 {#q132}
 
@@ -3177,7 +3309,7 @@ Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso
 
 ---
 
-#### 2.02.02 📄 A alma {#lde-2-02-02}
+#### 2.02.02. 📄 A alma {#lde-2-02-02}
 
 ##### #️⃣ Q.134 {#q134}
 
@@ -3490,7 +3622,7 @@ Que se deve pensar da opinião dos que situam a alma num centro vital?
 
 ---
 
-#### 2.02.03 📄 Materialismo {#lde-2-02-03}
+#### 2.02.03. 📄 Materialismo {#lde-2-02-03}
 
 ##### #️⃣ Q.147 {#q147}
 
@@ -3532,7 +3664,7 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 
 ### 2.03. 🗂️ Retorno à vida espiritual {#lde-2-03}
 
-#### 2.03.01 📄 A alma após a morte. Vida eterna {#lde-2-03-01}
+#### 2.03.01. 📄 A alma após a morte. Vida eterna {#lde-2-03-01}
 
 ##### #️⃣ Q.149 {#q149}
 
@@ -3652,7 +3784,7 @@ Não seria mais exato chamar *vida eterna* a dos Espíritos puros, dos que, tend
 
 ---
 
-#### 2.03.02 📄 Separação da alma e do corpo {#lde-2-03-02}
+#### 2.03.02. 📄 Separação da alma e do corpo {#lde-2-03-02}
 
 ##### #️⃣ Q.154 {#q154}
 
@@ -3813,7 +3945,7 @@ Após a decapitação, por exemplo, conserva o homem por alguns instantes a cons
 
 ---
 
-#### 2.03.03 📄 Perturbação espiritual {#lde-2-03-03}
+#### 2.03.03. 📄 Perturbação espiritual {#lde-2-03-03}
 
 ##### #️⃣ Q.163 {#q163}
 
@@ -3878,7 +4010,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 
 ### 2.04. 🗂️ Pluralidade das existências {#lde-2-04}
 
-#### 2.04.01 📄 A reencarnação {#lde-2-04-01}
+#### 2.04.01. 📄 A reencarnação {#lde-2-04-01}
 
 ##### #️⃣ Q.166 {#q166}
 
@@ -3987,7 +4119,7 @@ O que fica sendo o Espírito depois da sua última encarnação?
 
 ---
 
-#### 2.04.02 📄 Justiça da reencarnação {#lde-2-04-02}
+#### 2.04.02. 📄 Justiça da reencarnação {#lde-2-04-02}
 
 ##### #️⃣ Q.171 {#q171}
 
@@ -4011,7 +4143,7 @@ O homem, que tem consciência da sua inferioridade, haure consoladora esperança
 
 ---
 
-#### 2.04.03 📄 Encarnação nos diferentes mundos {#lde-2-04-03}
+#### 2.04.03. 📄 Encarnação nos diferentes mundos {#lde-2-04-03}
 
 ##### #️⃣ Q.172 {#q172}
 
@@ -4419,7 +4551,7 @@ Os Espíritos puros habitam mundos especiais, ou se acham no espaço universal, 
 
 ---
 
-#### 2.04.04 📄 Transmigrações progressivas {#lde-2-04-04}
+#### 2.04.04. 📄 Transmigrações progressivas {#lde-2-04-04}
 
 ##### #️⃣ Q.189 {#q189}
 
@@ -4624,7 +4756,7 @@ Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulaçõe
 
 ---
 
-#### 2.04.05 📄 Sorte das crianças depois da morte {#lde-2-04-05}
+#### 2.04.05. 📄 Sorte das crianças depois da morte {#lde-2-04-05}
 
 ##### #️⃣ Q.197 {#q197}
 
@@ -4699,7 +4831,7 @@ Aliás, não é racional considerar-se a infância como um estado normal de inoc
 
 ---
 
-#### 2.04.06 📄 Sexos nos Espíritos {#lde-2-04-06}
+#### 2.04.06. 📄 Sexos nos Espíritos {#lde-2-04-06}
 
 ##### #️⃣ Q.200 {#q200}
 
@@ -4743,7 +4875,7 @@ Quando errante, que prefere o Espírito: encarnar no corpo de um homem, ou no de
 
 ---
 
-#### 2.04.07 📄 Parentesco, filiação {#lde-2-04-07}
+#### 2.04.07. 📄 Parentesco, filiação {#lde-2-04-07}
 
 ##### #️⃣ Q.203 {#q203}
 
@@ -4822,7 +4954,7 @@ Do fato de não haver filiação entre os Espíritos dos descendentes de qualque
 
 ---
 
-#### 2.04.08 📄 Parecenças físicas e morais {#lde-2-04-08}
+#### 2.04.08. 📄 Parecenças físicas e morais {#lde-2-04-08}
 
 ##### #️⃣ Q.207 {#q207}
 
@@ -5000,7 +5132,7 @@ E do caráter físico de suas existências pretéritas conserva o Espírito tra�
 
 ---
 
-#### 2.04.09 📄 Ideias inatas {#lde-2-04-09}
+#### 2.04.09. 📄 Ideias inatas {#lde-2-04-09}
 
 ##### #️⃣ Q.218 {#q218}
 
@@ -5215,7 +5347,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito:
 
 ### 2.06. 🗂️ Vida espírita {#lde-2-06}
 
-#### 2.06.01 📄 Espíritos errantes {#lde-2-06-01}
+#### 2.06.01. 📄 Espíritos errantes {#lde-2-06-01}
 
 ##### #️⃣ Q.223 {#q223}
 
@@ -5407,7 +5539,7 @@ Os Espíritos já purificados descem aos mundos inferiores?
 
 ---
 
-#### 2.06.02 📄 Mundos transitórios {#lde-2-06-02}
+#### 2.06.02. 📄 Mundos transitórios {#lde-2-06-02}
 
 ##### #️⃣ Q.234 {#q234}
 
@@ -5541,7 +5673,7 @@ Em que época?
 
 ---
 
-#### 2.06.03 📄 Percepções, sensações e sofrimentos dos Espíritos {#lde-2-06-03}
+#### 2.06.03. 📄 Percepções, sensações e sofrimentos dos Espíritos {#lde-2-06-03}
 
 ##### #️⃣ Q.237 {#q237}
 
@@ -5906,7 +6038,7 @@ Como é então que alguns Espíritos se têm queixado de sofrer frio ou calor?
 
 ---
 
-#### 2.06.04 📄 Ensaio teórico da sensação nos Espíritos {#lde-2-06-04}
+#### 2.06.04. 📄 Ensaio teórico da sensação nos Espíritos {#lde-2-06-04}
 
 ##### #️⃣ 257 {#q257}
 
@@ -5952,7 +6084,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ---
 
-#### 2.06.05 📄 Escolha das provas {#lde-2-06-05}
+#### 2.06.05. 📄 Escolha das provas {#lde-2-06-05}
 
 ##### #️⃣ Q.258 {#q258}
 
@@ -6264,7 +6396,7 @@ Será possível que um homem de raça civilizada reencarne, por expiação, numa
 
 ---
 
-#### 2.06.06 📄 As relações no além-túmulo {#lde-2-06-06}
+#### 2.06.06. 📄 As relações no além-túmulo {#lde-2-06-06}
 
 ##### #️⃣ Q.274 {#q274}
 
@@ -6547,7 +6679,7 @@ Os parentes e amigos sempre se reúnem depois da morte?
 
 ---
 
-#### 2.06.07 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas {#lde-2-06-07}
+#### 2.06.07. 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas {#lde-2-06-07}
 
 ##### #️⃣ Q.291 {#q291}
 
@@ -6741,7 +6873,7 @@ Podem deixar de ser simpáticos um ao outro dois Espíritos que já o sejam?
 
 ---
 
-#### 2.06.08 📄 Recordação da existência corpórea {#lde-2-06-08}
+#### 2.06.08. 📄 Recordação da existência corpórea {#lde-2-06-08}
 
 ##### #️⃣ Q.304 {#q304}
 
@@ -7033,7 +7165,7 @@ Já tendo o Espírito vivido a vida espírita antes da sua encarnação, como se
 
 ---
 
-#### 2.06.09 📄 Comemoração dos mortos. Funerais {#lde-2-06-09}
+#### 2.06.09. 📄 Comemoração dos mortos. Funerais {#lde-2-06-09}
 
 ##### #️⃣ Q.320 {#q320}
 
@@ -7235,7 +7367,7 @@ O instintivo respeito que, em todos os tempos e entre todos os povos, o homem co
 
 ### 2.07. 🗂️ Volta à vida material {#lde-2-07}
 
-#### 2.07.01 📄 Prelúdio da volta {#lde-2-07-01}
+#### 2.07.01. 📄 Prelúdio da volta {#lde-2-07-01}
 
 ##### #️⃣ Q.330 {#q330}
 
@@ -7478,7 +7610,7 @@ Os que vemos, em sonho, que nos testemunham afeto e que se nos apresentam com de
 
 ---
 
-#### 2.07.02 📄 União do espírito e do corpo {#lde-2-07-02}
+#### 2.07.02. 📄 União do espírito e do corpo {#lde-2-07-02}
 
 ##### #️⃣ Q.344 {#q344}
 
@@ -7768,7 +7900,7 @@ Será racional ter-se para com um feto as mesmas atenções que se costuma dispe
 
 ---
 
-#### 2.07.03 📄 Faculdades morais e intelectuais do homem {#lde-2-07-03}
+#### 2.07.03. 📄 Faculdades morais e intelectuais do homem {#lde-2-07-03}
 
 ##### #️⃣ Q.361 {#q361}
 
@@ -7881,7 +8013,7 @@ Que se deve pensar da opinião dos que pretendem que as diferentes faculdades in
 
 ---
 
-#### 2.07.04 📄 Influência do corpo {#lde-2-07-04}
+#### 2.07.04. 📄 Influência do corpo {#lde-2-07-04}
 ↩️ Voltar para [Q.846](#q846)
 
 ---
@@ -7984,7 +8116,7 @@ Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva 
 
 ---
 
-#### 2.07.05 📄 Idiotismo, loucura {#lde-2-07-05}
+#### 2.07.05. 📄 Idiotismo, loucura {#lde-2-07-05}
 
 ##### #️⃣ Q.371 {#q371}
 
@@ -8160,7 +8292,7 @@ De que modo a alteração do cérebro reage sobre o Espírito depois da morte?
 
 ---
 
-#### 2.07.06 📄 A infância {#lde-2-07-06}
+#### 2.07.06. 📄 A infância {#lde-2-07-06}
 
 ##### #️⃣ Q.379 {#q379}
 
@@ -8282,7 +8414,7 @@ Assim, portanto, a infância é não só útil, necessária, indispensável, mas
 
 ---
 
-#### 2.07.07 📄 Simpatia e antipatia materiais {#lde-2-07-07}
+#### 2.07.07. 📄 Simpatia e antipatia materiais {#lde-2-07-07}
 
 ##### #️⃣ Q.386 {#q386}
 
@@ -8381,7 +8513,7 @@ A antipatia entre duas pessoas nasce primeiro na que tem pior Espírito, ou na q
 
 ---
 
-#### 2.07.08 📄 Esquecimento do passado {#lde-2-07-08}
+#### 2.07.08. 📄 Esquecimento do passado {#lde-2-07-08}
 
 ##### #️⃣ Q.392 {#q392}
 
@@ -8561,7 +8693,7 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 
 ### 2.08. 🗂️ Emancipação da alma {#lde-2-08}
 
-#### 2.08.01 📄 O sono e os sonhos {#lde-2-08-01}
+#### 2.08.01. 📄 O sono e os sonhos {#lde-2-08-01}
 
 ##### #️⃣ Q.400 {#q400}
 
@@ -8785,7 +8917,7 @@ Pode a atividade do Espírito, durante o repouso, ou o sono corporal, fatigar o 
 
 ---
 
-#### 2.08.02 📄 Visitas espíritas entre pessoas vivas {#lde-2-08-02}
+#### 2.08.02. 📄 Visitas espíritas entre pessoas vivas {#lde-2-08-02}
 
 ##### #️⃣ Q.413 {#q413}
 
@@ -8873,7 +9005,7 @@ Uma pessoa que julgasse morto um de seus amigos, sem que tal fosse a realidade, 
 
 ---
 
-#### 2.08.03 📄 Transmissão oculta do pensamento {#lde-2-08-03}
+#### 2.08.03. 📄 Transmissão oculta do pensamento {#lde-2-08-03}
 
 ##### #️⃣ Q.419 {#q419}
 
@@ -8921,7 +9053,7 @@ Como se explica que duas pessoas, perfeitamente acordadas, tenham instantaneamen
 
 ---
 
-#### 2.08.04 📄 Letargia, catalepsia, mortes aparentes {#lde-2-08-04}
+#### 2.08.04. 📄 Letargia, catalepsia, mortes aparentes {#lde-2-08-04}
 
 ##### #️⃣ Q.422 {#q422}
 
@@ -8982,7 +9114,7 @@ Por meio de cuidados dispensados a tempo, podem reatar-se laços prestes a se de
 
 ---
 
-#### 2.08.05 📄 Sonambulismo {#lde-2-08-05}
+#### 2.08.05. 📄 Sonambulismo {#lde-2-08-05}
 
 ##### #️⃣ Q.425 {#q425}
 
@@ -9187,7 +9319,7 @@ O uso que um sonâmbulo faz da sua faculdade influi no estado do seu Espírito d
 
 ---
 
-#### 2.08.06 📄 Êxtase {#lde-2-08-06}
+#### 2.08.06. 📄 Êxtase {#lde-2-08-06}
 
 ##### #️⃣ Q.439 {#q439}
 
@@ -9301,7 +9433,7 @@ Poderiam tais fenômenos adequar-se às ideias materialistas?
 
 ---
 
-#### 2.08.07 📄 Dupla vista {#lde-2-08-07}
+#### 2.08.07. 📄 Dupla vista {#lde-2-08-07}
 
 ##### #️⃣ Q.447 {#q447}
 
@@ -9445,7 +9577,7 @@ Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 ---
 
-#### 2.08.08 📄 Resumo teórico do sonambulismo, do êxtase e da dupla vista {#lde-2-08-08}
+#### 2.08.08. 📄 Resumo teórico do sonambulismo, do êxtase e da dupla vista {#lde-2-08-08}
 
 ##### #️⃣ 455 {#455}
 
@@ -9505,7 +9637,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 
 ### 2.09. 🗂️ Intervenção no mundo material {#lde-2-09}
 
-#### 2.09.01 📄 Faculdade que têm os Espíritos de penetrar os nossos pensamentos {#lde-2-09-01}
+#### 2.09.01. 📄 Faculdade que têm os Espíritos de penetrar os nossos pensamentos {#lde-2-09-01}
 
 ##### #️⃣ Q.456 {#q456}
 
@@ -9559,7 +9691,7 @@ Que pensam de nós os Espíritos que nos cercam e observam?
 
 ---
 
-#### 2.09.02 📄 Influência oculta dos Espíritos em nossos pensamentos e atos {#lde-2-09-02}
+#### 2.09.02. 📄 Influência oculta dos Espíritos em nossos pensamentos e atos {#lde-2-09-02}
 
 ##### #️⃣ Q.459 {#q459}
 
@@ -9805,7 +9937,7 @@ Os Espíritos que procuram atrair-nos para o mal se limitam a aproveitar as circ
 
 ---
 
-#### 2.09.03 📄 Possessos {#lde-2-09-03}
+#### 2.09.03. 📄 Possessos {#lde-2-09-03}
 
 ##### #️⃣ Q.473 {#q473}
 
@@ -9927,7 +10059,7 @@ Que se deve pensar da expulsão dos demônios, mencionada no Evangelho?
 
 ---
 
-#### 2.09.04 📄 Convulsionários {#lde-2-09-04}
+#### 2.09.04. 📄 Convulsionários {#lde-2-09-04}
 
 ##### #️⃣ Q.481 {#q481}
 
@@ -9988,7 +10120,7 @@ Visto que esses fenônemo dependem de uma causa física e da ação de certos Es
 
 ---
 
-#### 2.09.05 📄 Afeição que os Espíritos votam a certas pessoas {#lde-2-09-05}
+#### 2.09.05. 📄 Afeição que os Espíritos votam a certas pessoas {#lde-2-09-05}
 
 ##### #️⃣ Q.484 {#q484}
 
@@ -10082,7 +10214,7 @@ São sensíveis à afeição que lhes conservamos?
 
 ---
 
-#### 2.09.06 📄 Anjos da guarda. Espíritos protetores, familiares ou simpáticos {#lde-2-09-06}
+#### 2.09.06. 📄 Anjos da guarda. Espíritos protetores, familiares ou simpáticos {#lde-2-09-06}
 
 ##### #️⃣ Q.489 {#q489}
 
@@ -10662,7 +10794,7 @@ Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o car
 
 ---
 
-#### 2.09.07 📄 Pressentimentos {#lde-2-09-07}
+#### 2.09.07. 📄 Pressentimentos {#lde-2-09-07}
 
 ##### #️⃣ Q.522 {#q522}
 
@@ -10709,7 +10841,7 @@ Os avisos dos Espíritos protetores objetivam unicamente o nosso procedimento mo
 
 ---
 
-#### 2.09.08 📄 Influência dos Espíritos nos acontecimentos da vida {#lde-2-09-08}
+#### 2.09.08. 📄 Influência dos Espíritos nos acontecimentos da vida {#lde-2-09-08}
 
 ##### #️⃣ Q.525 {#q525}
 
@@ -10986,7 +11118,7 @@ No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem!
 
 ---
 
-#### 2.09.09 📄 Ação dos Espíritos nos fenômenos da Natureza {#lde-2-09-09}
+#### 2.09.09. 📄 Ação dos Espíritos nos fenômenos da Natureza {#lde-2-09-09}
 
 ##### #️⃣ Q.536 {#q536}
 
@@ -11114,7 +11246,7 @@ Os Espíritos que exercem ação nos fenônemo da Natureza operam com conhecimen
 
 ---
 
-#### 2.09.10 📄 Os Espíritos durante os combates {#lde-2-09-10}
+#### 2.09.10. 📄 Os Espíritos durante os combates {#lde-2-09-10}
 
 ##### #️⃣ Q.541 {#q541}
 
@@ -11250,7 +11382,7 @@ O Espírito que, como espectador, assiste calmamente a um combate observa o ato 
 
 ---
 
-#### 2.09.11 📄 Pactos {#lde-2-09-11}
+#### 2.09.11. 📄 Pactos {#lde-2-09-11}
 
 ##### #️⃣ Q.549 {#q549}
 
@@ -11284,7 +11416,7 @@ Qual o sentido das lendas fantásticas em que figuram indivíduos que teriam ven
 
 ---
 
-#### 2.09.12 📄 Poder oculto. Talismãs. Feiticeiros {#lde-2-09-12}
+#### 2.09.12. 📄 Poder oculto. Talismãs. Feiticeiros {#lde-2-09-12}
 
 ##### #️⃣ Q.551 {#q551}
 
@@ -11386,7 +11518,7 @@ Têm algumas pessoas, verdadeiramente, o poder de curar pelo simples contato?
 
 ---
 
-#### 2.09.13 📄 Bênçãos e maldições {#lde-2-09-13}
+#### 2.09.13. 📄 Bênçãos e maldições {#lde-2-09-13}
 
 ##### #️⃣ Q.557 {#q557}
 
@@ -11931,7 +12063,7 @@ Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em qu
 
 ### 2.11. 🗂️ Os três reinos {#lde-2-11}
 
-#### 2.11.01 📄 Os minerais e as plantas {#lde-2-11-01}
+#### 2.11.01. 📄 Os minerais e as plantas {#lde-2-11-01}
 
 ##### #️⃣ Q.585 {#q585}
 
@@ -12046,7 +12178,7 @@ Nos mundos superiores, as plantas são de natureza mais perfeita, como os outros
 
 ---
 
-#### 2.11.02 📄 Os animais e o homem {#lde-2-11-02}
+#### 2.11.02. 📄 Os animais e o homem {#lde-2-11-02}
 
 ##### #️⃣ Q.592 {#q592}
 
@@ -12452,7 +12584,7 @@ Ter-se-ão enganado os Espíritos que disseram constituir o homem um ser à part
 
 ---
 
-#### 2.11.03 📄 Metempsicose {#lde-2-11-03}
+#### 2.11.03. 📄 Metempsicose {#lde-2-11-03}
 
 ##### #️⃣ Q.611 {#q611}
 
@@ -12524,11 +12656,11 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 
 
 
-## 3. 🗃️ Leis Morais {#lde-3}
+## 3. 🗃️ Leis morais {#lde-3}
 
 ### 3.01. 🗂️ Lei divina {#lde-3-01}
 
-#### 3.01.01 📄 Caracteres da lei natural {#lde-3-01-01}
+#### 3.01.01. 📄 Caracteres da lei natural {#lde-3-01-01}
 
 ##### #️⃣ Q.614 {#q614}
 
@@ -12620,7 +12752,7 @@ São as mesmas, para todos os mundos, as leis divinas?
 
 ---
 
-#### 3.01.02 📄 Conhecimento da lei natural {#lde-3-01-02}
+#### 3.01.02. 📄 Conhecimento da lei natural {#lde-3-01-02}
 
 ##### #️⃣ Q.619 {#q619}
 
@@ -12796,7 +12928,7 @@ Jamais permitiu Deus que o homem recebesse comunicações tão completas e instr
 
 ---
 
-#### 3.01.03 📄 O bem e o mal {#lde-3-01-03}
+#### 3.01.03. 📄 O bem e o mal {#lde-3-01-03}
 
 ##### #️⃣ Q.629 {#q629}
 
@@ -13072,7 +13204,7 @@ Estará subordinado a determinadas condições o mérito do bem que se pratique?
 
 ---
 
-#### 3.01.04 📄 Divisão da lei natural {#lde-3-01-04}
+#### 3.01.04. 📄 Divisão da lei natural {#lde-3-01-04}
 
 ##### #️⃣ Q.647 {#q647}
 
@@ -13100,7 +13232,7 @@ Que pensais da divisão da lei natural em dez partes, compreendendo as leis de *
 
 ### 3.02. 🗂️ Lei de adoração {#lde-3-02}
 
-#### 3.02.01 📄 Objetivo da adoração {#lde-3-02-01}
+#### 3.02.01. 📄 Objetivo da adoração {#lde-3-02-01}
 
 ##### #️⃣ Q.649 {#q649}
 
@@ -13156,7 +13288,7 @@ Poder-se-á considerar a lei natural como fonte originária da adoração?
 
 ---
 
-#### 3.02.02 📄 Adoração exterior {#lde-3-02-02}
+#### 3.02.02. 📄 Adoração exterior {#lde-3-02-02}
 
 ##### #️⃣ Q.653 {#q653}
 
@@ -13238,7 +13370,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-#### 3.02.03 📄 Vida contemplativa {#lde-3-02-03}
+#### 3.02.03. 📄 Vida contemplativa {#lde-3-02-03}
 
 ##### #️⃣ Q.657 {#q657}
 
@@ -13250,7 +13382,7 @@ Têm, perante Deus, algum mérito os que se consagram à vida contemplativa, uma
 
 ---
 
-#### 3.02.04 📄 A prece {#lde-3-02-04}
+#### 3.02.04. 📄 A prece {#lde-3-02-04}
 
 ##### #️⃣ Q.658 {#q658}
 
@@ -13418,7 +13550,7 @@ Pode-se orar aos Espíritos?
 
 ---
 
-#### 3.02.05 📄 Politeísmo {#lde-3-02-05}
+#### 3.02.05. 📄 Politeísmo {#lde-3-02-05}
 
 ##### #️⃣ Q.667 {#q667}
 
@@ -13454,7 +13586,7 @@ Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs dest
 
 ---
 
-#### 3.02.06 📄 Sacrifícios {#lde-3-02-06}
+#### 3.02.06. 📄 Sacrifícios {#lde-3-02-06}
 
 ##### #️⃣ Q.669 {#q669}
 
@@ -13563,7 +13695,7 @@ Não seria um meio de tornar essas oferendas agradáveis a Deus consagrá-las a 
 
 ### 3.03. 🗂️ Lei do trabalho {#lde-3-03}
 
-#### 3.03.01 📄 Necessidade do trabalho {#lde-3-03-01}
+#### 3.03.01. 📄 Necessidade do trabalho {#lde-3-03-01}
 
 ##### #️⃣ Q.674 {#q674}
 
@@ -13678,7 +13810,7 @@ A Lei da Natureza impõe aos filhos a obrigação de trabalharem para seus pais?
 
 ---
 
-#### 3.03.02 📄 Limite do trabalho. Repouso {#lde-3-03-02}
+#### 3.03.02. 📄 Limite do trabalho. Repouso {#lde-3-03-02}
 
 ##### #️⃣ Q.682 {#q682}
 
@@ -13761,7 +13893,7 @@ Então, que há de fazer o velho que precisa trabalhar para viver e não pode?
 
 ### 3.04. 🗂️ Lei de reprodução {#lde-3-04}
 
-#### 3.04.01 📄 População do globo {#lde-3-04-01}
+#### 3.04.01. 📄 População do globo {#lde-3-04-01}
 
 ##### #️⃣ Q.686 {#q686}
 
@@ -13790,7 +13922,7 @@ Indo sempre a população na progressão crescente que vemos, chegará tempo em 
 
 ---
 
-#### 3.04.02 📄 Sucessão e aperfeiçoamento das raças {#lde-3-04-02}
+#### 3.04.02. 📄 Sucessão e aperfeiçoamento das raças {#lde-3-04-02}
 
 ##### #️⃣ Q.688 {#q688}
 
@@ -13883,7 +14015,7 @@ Geralmente, os esforços que o homem emprega para conseguir a melhoria das raça
 
 ---
 
-#### 3.04.03 📄 Obstáculos à reprodução {#lde-3-04-03}
+#### 3.04.03. 📄 Obstáculos à reprodução {#lde-3-04-03}
 
 ##### #️⃣ Q.693 {#q693}
 
@@ -13919,7 +14051,7 @@ Que se deve pensar dos usos, cujo efeito consiste em obstar à reprodução, par
 
 ---
 
-#### 3.04.04 📄 Casamento e celibato {#lde-3-04-04}
+#### 3.04.04. 📄 Casamento e celibato {#lde-3-04-04}
 
 ##### #️⃣ Q.695 {#q695}
 
@@ -13996,7 +14128,7 @@ Da parte de certas pessoas, o celibato não será um sacrifício que fazem com o
 
 ---
 
-#### 3.04.05 📄 Poligamia {#lde-3-04-05}
+#### 3.04.05. 📄 Poligamia {#lde-3-04-05}
 
 ##### #️⃣ Q.700 {#q700}
 
@@ -14032,7 +14164,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 
 ### 3.05. 🗂️ Lei de conservação {#lde-3-05}
 
-#### 3.05.01 📄 Instinto de conservação {#lde-3-05-01}
+#### 3.05.01. 📄 Instinto de conservação {#lde-3-05-01}
 
 ##### #️⃣ Q.702 {#q702}
 
@@ -14059,7 +14191,7 @@ Com que fim outorgou Deus a todos os seres vivos o instinto de conservação?
 
 ---
 
-#### 3.05.02 📄 Meios de conservação {#lde-3-05-02}
+#### 3.05.02. 📄 Meios de conservação {#lde-3-05-02}
 
 ##### #️⃣ Q.704 {#q704}
 
@@ -14171,7 +14303,7 @@ Nos mundos de mais apurada organização, têm os seres vivos necessidade de ali
 
 ---
 
-#### 3.05.03 📄 Gozo dos bens terrenos {#lde-3-05-03}
+#### 3.05.03. 📄 Gozo dos bens terrenos {#lde-3-05-03}
 
 ##### #️⃣ Q.711 {#q711}
 
@@ -14259,7 +14391,7 @@ Perto da morte física, ou da morte moral?
 
 ---
 
-#### 3.05.04 📄 Necessário e supérfluo {#lde-3-05-04}
+#### 3.05.04. 📄 Necessário e supérfluo {#lde-3-05-04}
 
 ##### #️⃣ Q.715 {#q715}
 
@@ -14308,7 +14440,7 @@ Que se há de pensar dos que açambarcam os bens da Terra para se proporcionarem
 
 ---
 
-#### 3.05.05 📄 Privações voluntárias. Mortificações {#lde-3-05-05}
+#### 3.05.05. 📄 Privações voluntárias. Mortificações {#lde-3-05-05}
 
 ##### #️⃣ Q.718 {#q718}
 
@@ -14462,7 +14594,7 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 
 ### 3.06. 🗂️ Lei de destruição {#lde-3-06}
 
-#### 3.06.01 📄 Destruição necessária e destruição abusiva {#lde-3-06-01}
+#### 3.06.01. 📄 Destruição necessária e destruição abusiva {#lde-3-06-01}
 
 ##### #️⃣ Q.728 {#q728}
 
@@ -14619,7 +14751,7 @@ Especial merecimento terão os povos que levam ao excesso o escrúpulo, quanto �
 
 ---
 
-#### 3.06.02 📄 Flagelos destruidores {#lde-3-06-02}
+#### 3.06.02. 📄 Flagelos destruidores {#lde-3-06-02}
 
 ##### #️⃣ Q.737 {#q737}
 
@@ -14736,7 +14868,7 @@ Dado é ao homem conjurar os flagelos que o afligem?
 
 ---
 
-#### 3.06.03 📄 Guerras {#lde-3-06-03}
+#### 3.06.03. 📄 Guerras {#lde-3-06-03}
 
 ##### #️⃣ Q.742 {#q742}
 
@@ -14805,7 +14937,7 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 
 ---
 
-#### 3.06.04 📄 Assassínio {#lde-3-06-04}
+#### 3.06.04. 📄 Assassínio {#lde-3-06-04}
 
 ##### #️⃣ Q.746 {#q746}
 
@@ -14897,7 +15029,7 @@ Como se explica que entre alguns povos, já adiantados sob o ponto de vista inte
 
 ---
 
-#### 3.06.05 📄 Crueldade {#lde-3-06-05}
+#### 3.06.05. 📄 Crueldade {#lde-3-06-05}
 
 ##### #️⃣ Q.752 {#q752}
 
@@ -14976,7 +15108,7 @@ A sociedade dos homens de bem se verá algum dia expurgada dos seres malfazejos?
 
 ---
 
-#### 3.06.06 📄 Duelo {#lde-3-06-06}
+#### 3.06.06. 📄 Duelo {#lde-3-06-06}
 
 ##### #️⃣ Q.757 {#q757}
 
@@ -15054,7 +15186,7 @@ Mas não há casos em que a honra se acha verdadeiramente empenhada e em que uma
 
 ---
 
-#### 3.06.07 📄 Pena de morte {#lde-3-06-07}
+#### 3.06.07. 📄 Pena de morte {#lde-3-06-07}
 
 ##### #️⃣ Q.760 {#q760}
 
@@ -15159,7 +15291,7 @@ Que se deve pensar da pena de morte imposta em nome de Deus?
 
 ### 3.07. 🗂️ Lei de sociedade {#lde-3-07}
 
-#### 3.07.01 📄 Necessidade da vida social {#lde-3-07-01}
+#### 3.07.01. 📄 Necessidade da vida social {#lde-3-07-01}
 
 ##### #️⃣ Q.766 {#q766}
 
@@ -15210,7 +15342,7 @@ Procurando a sociedade, não fará o homem mais do que obedecer a um sentimento 
 
 ---
 
-#### 3.07.02 📄 Vida de insulamento. Voto de silêncio {#lde-3-07-02}
+#### 3.07.02. 📄 Vida de insulamento. Voto de silêncio {#lde-3-07-02}
 
 ##### #️⃣ Q.769 {#q769}
 
@@ -15299,7 +15431,7 @@ Que pensar do voto de silêncio prescrito por algumas seitas, desde a mais remot
 
 ---
 
-#### 3.07.03 📄 Laços de família {#lde-3-07-03}
+#### 3.07.03. 📄 Laços de família {#lde-3-07-03}
 
 ##### #️⃣ Q.773 {#q773}
 
@@ -15346,7 +15478,7 @@ Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 
 ### 3.08. 🗂️ Lei do progresso {#lde-3-08}
 
-#### 3.08.01 📄 Estado de natureza {#lde-3-08-01}
+#### 3.08.01. 📄 Estado de natureza {#lde-3-08-01}
 
 ##### #️⃣ Q.776 {#q776}
 
@@ -15393,7 +15525,7 @@ Pode o homem retrogradar para o estado de natureza?
 
 ---
 
-#### 3.08.02 📄 Marcha do progresso {#lde-3-08-02}
+#### 3.08.02. 📄 Marcha do progresso {#lde-3-08-02}
 
 ##### #️⃣ Q.779 {#q779}
 
@@ -15551,7 +15683,7 @@ Qual o maior obstáculo ao progresso?
 
 ---
 
-#### 3.08.03 📄 Povos degenerados {#lde-3-08-03}
+#### 3.08.03. 📄 Povos degenerados {#lde-3-08-03}
 
 ##### #️⃣ Q.786 {#q786}
 
@@ -15661,7 +15793,7 @@ Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As alm
 
 ---
 
-#### 3.08.04 📄 Civilização {#lde-3-08-04}
+#### 3.08.04. 📄 Civilização {#lde-3-08-04}
 
 ##### #️⃣ Q.790 {#q790}
 
@@ -15749,7 +15881,7 @@ De duas nações que tenham chegado ao ápice da escala social, somente pode con
 
 ---
 
-#### 3.08.05 📄 Progresso da legislação humana {#lde-3-08-05}
+#### 3.08.05. 📄 Progresso da legislação humana {#lde-3-08-05}
 
 ##### #️⃣ Q.794 {#q794}
 
@@ -15812,7 +15944,7 @@ Como poderá o homem ser levado a reformar suas leis?
 
 ---
 
-#### 3.08.06 📄 Influência do Espiritismo no progresso {#lde-3-08-06}
+#### 3.08.06. 📄 Influência do Espiritismo no progresso {#lde-3-08-06}
 
 ##### #️⃣ Q.798 {#q798}
 
@@ -15899,7 +16031,7 @@ Visto que o Espiritismo tem que marcar um progresso da Humanidade, por que não 
 
 ### 3.09. 🗂️ Lei de igualdade {#lde-3-09}
 
-#### 3.09.01 📄 Igualdade natural {#lde-3-09-01}
+#### 3.09.01. 📄 Igualdade natural {#lde-3-09-01}
 
 ##### #️⃣ Q.803 {#q803}
 
@@ -15915,7 +16047,7 @@ Perante Deus, são iguais todos os homens?
 
 ---
 
-#### 3.09.02 📄 Desigualdade das aptidões {#lde-3-09-02}
+#### 3.09.02. 📄 Desigualdade das aptidões {#lde-3-09-02}
 
 ##### #️⃣ Q.804 {#q804}
 
@@ -15949,7 +16081,7 @@ Passando de um mundo superior a outro inferior, conserva o Espírito, integralme
 
 ---
 
-#### 3.09.03 📄 Desigualdades sociais {#lde-3-09-03}
+#### 3.09.03. 📄 Desigualdades sociais {#lde-3-09-03}
 
 ##### #️⃣ Q.806 {#q806}
 
@@ -15997,7 +16129,7 @@ Veja [Q.684](#q684)
 
 ---
 
-#### 3.09.04 📄 Desigualdade das riquezas {#lde-3-09-04}
+#### 3.09.04. 📄 Desigualdade das riquezas {#lde-3-09-04}
 
 ##### #️⃣ Q.808 {#q808}
 
@@ -16129,7 +16261,7 @@ Veja [Q.685](#q685)
 
 ---
 
-#### 3.09.05 📄 As provas de riqueza e de miséria {#lde-3-09-05}
+#### 3.09.05. 📄 As provas de riqueza e de miséria {#lde-3-09-05}
 
 ##### #️⃣ Q.814 {#q814}
 
@@ -16189,7 +16321,7 @@ A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e
 
 ---
 
-#### 3.09.06 📄 Igualdade dos direitos do homem e da mulher {#lde-3-09-06}
+#### 3.09.06. 📄 Igualdade dos direitos do homem e da mulher {#lde-3-09-06}
 
 ##### #️⃣ Q.817 {#q817}
 
@@ -16292,7 +16424,7 @@ Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a ig
 
 ---
 
-#### 3.09.07 📄 Igualdade perante o túmulo {#lde-3-09-07}
+#### 3.09.07. 📄 Igualdade perante o túmulo {#lde-3-09-07}
 
 ##### #️⃣ Q.823 {#q823}
 
@@ -16334,7 +16466,7 @@ Reprovais então, de modo absoluto, a pompa dos funerais?
 
 ### 3.10. 🗂️ Lei de liberdade {#lde-3-10}
 
-#### 3.10.01 📄 Liberdade natural {#lde-3-10-01}
+#### 3.10.01. 📄 Liberdade natural {#lde-3-10-01}
 
 ##### #️⃣ Q.825 {#q825}
 
@@ -16396,7 +16528,7 @@ Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram nes
 
 ---
 
-#### 3.10.02 📄 Escravidão {#lde-3-10-02}
+#### 3.10.02. 📄 Escravidão {#lde-3-10-02}
 
 ##### #️⃣ Q.829 {#q829}
 
@@ -16458,7 +16590,7 @@ Há, no entanto, homens que tratam seus escravos com humanidade; que não deixam
 
 ---
 
-#### 3.10.03 📄 Liberdade de pensar {#lde-3-10-03}
+#### 3.10.03. 📄 Liberdade de pensar {#lde-3-10-03}
 
 ##### #️⃣ Q.833 {#q833}
 
@@ -16484,7 +16616,7 @@ Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze
 
 ---
 
-#### 3.10.04 📄 Liberdade de consciência {#lde-3-10-04}
+#### 3.10.04. 📄 Liberdade de consciência {#lde-3-10-04}
 
 ##### #️⃣ Q.835 {#q835}
 
@@ -16604,7 +16736,7 @@ Por que indícios se poderá reconhecer, entre todas as doutrinas que alimentam 
 
 ---
 
-#### 3.10.05 📄 Livre-arbítrio {#lde-3-10-05}
+#### 3.10.05. 📄 Livre-arbítrio {#lde-3-10-05}
 
 ##### #️⃣ Q.843 {#q843}
 
@@ -16720,7 +16852,7 @@ A posição social não constitui às vezes, para o homem, obstáculo à inteira
 
 ---
 
-#### 3.10.06 📄 Fatalidade {#lde-3-10-06}
+#### 3.10.06. 📄 Fatalidade {#lde-3-10-06}
 
 ##### #️⃣ Q.851 {#q851}
 
@@ -16989,7 +17121,7 @@ Donde vem a expressão: Nascer sob uma boa estrela?
 
 ---
 
-#### 3.10.07 📄 Conhecimento do futuro {#lde-3-10-07}
+#### 3.10.07. 📄 Conhecimento do futuro {#lde-3-10-07}
 
 ##### #️⃣ Q.868 {#q868}
 
@@ -17088,7 +17220,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ### 3.11. 🗂️ Lei de justiça, de amor, e de caridade {#lde-3-11}
 
-#### 3.11.01 📄 Justiça e direitos naturais {#lde-3-11-01}
+#### 3.11.01. 📄 Justiça e direitos naturais {#lde-3-11-01}
 
 ##### #️⃣ Q.873 {#q873}
 
@@ -17224,7 +17356,7 @@ Qual seria o caráter do homem que praticasse a justiça em toda a sua pureza?
 
 ---
 
-#### 3.11.02 📄 Direito de propriedade. Roubo {#lde-3-11-02}
+#### 3.11.02. 📄 Direito de propriedade. Roubo {#lde-3-11-02}
 
 ##### #️⃣ Q.880 {#q880}
 
@@ -17348,7 +17480,7 @@ Será ilimitado o direito de propriedade?
 
 ---
 
-#### 3.11.03 📄 Caridade e amor do próximo {#lde-3-11-03}
+#### 3.11.03. 📄 Caridade e amor do próximo {#lde-3-11-03}
 
 ##### #️⃣ Q.886 {#q886}
 
@@ -17467,7 +17599,7 @@ Não há homens que se veem condenados a mendigar por culpa sua?
 
 ---
 
-#### 3.11.04 📄 Amor materno e filial {#lde-3-11-04}
+#### 3.11.04. 📄 Amor materno e filial {#lde-3-11-04}
 
 ##### #️⃣ Q.890 {#q890}
 
@@ -17509,7 +17641,7 @@ Quando os filhos causam desgostos aos pais, não têm estes desculpa para o fato
 
 ### 3.12. 🗂️ Perfeição moral {#lde-3-12}
 
-#### 3.12.01 📄 As virtudes e os vícios {#lde-3-12-01}
+#### 3.12.01. 📄 As virtudes e os vícios {#lde-3-12-01}
 
 ##### #️⃣ Q.893 {#q893}
 
@@ -17750,7 +17882,7 @@ Será passível de censura o homem, por ter consciência do bem que faz e por co
 
 ---
 
-#### 3.12.02 📄 Paixões {#lde-3-12-02}
+#### 3.12.02. 📄 Paixões {#lde-3-12-02}
 
 ##### #️⃣ Q.907 {#q907}
 
@@ -17838,7 +17970,7 @@ Qual o meio mais eficiente de combater-se o predomínio da natureza corpórea?
 
 ---
 
-#### 3.12.03 📄 O egoísmo {#lde-3-12-03}
+#### 3.12.03. 📄 O egoísmo {#lde-3-12-03}
 
 ##### #️⃣ Q.913 {#q913}
 
@@ -17927,7 +18059,7 @@ O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virt
 
 ---
 
-#### 3.12.04 📄 Caracteres do homem de bem {#lde-3-12-04}
+#### 3.12.04. 📄 Caracteres do homem de bem {#lde-3-12-04}
 
 ##### #️⃣ Q.918 {#q918}
 
@@ -17967,7 +18099,7 @@ Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza 
 
 ---
 
-#### 3.12.05 📄 Conhecimento de si mesmo {#lde-3-12-05}
+#### 3.12.05. 📄 Conhecimento de si mesmo {#lde-3-12-05}
 
 ##### #️⃣ Q.919 {#q919}
 
@@ -18028,7 +18160,7 @@ Formulai, pois, de vós para convosco, questões nítidas e precisas e não tema
 
 ### 4.01. 🗂️ Penas e felicidades materiais {#lde-4-01}
 
-#### 4.01.01 📄 Felicidade e infelicidade relativas {#lde-4-01-01}
+#### 4.01.01. 📄 Felicidade e infelicidade relativas {#lde-4-01-01}
 
 ##### #️⃣ Q.920 {#q920}
 
@@ -18297,7 +18429,7 @@ Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as
 
 ---
 
-#### 4.01.02 📄 Perda dos entes queridos {#lde-4-01-02}
+#### 4.01.02. 📄 Perda dos entes queridos {#lde-4-01-02}
 
 ##### #️⃣ Q.934 {#q934}
 
@@ -18358,7 +18490,7 @@ Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos pare
 
 ---
 
-#### 4.01.03 📄 Decepções. Ingratidão. Afeições destruídas {#lde-4-01-03}
+#### 4.01.03. 📄 Decepções. Ingratidão. Afeições destruídas {#lde-4-01-03}
 
 ##### #️⃣ Q.937 {#q937}
 
@@ -18408,7 +18540,7 @@ Mas isso não impede que se lhe ulcere o coração. Ora, daí não poderá nasce
 
 ---
 
-#### 4.01.04 📄 Uniões antipáticas {#lde-4-01-04}
+#### 4.01.04. 📄 Uniões antipáticas {#lde-4-01-04}
 
 ##### #️⃣ Q.939 {#q939}
 
@@ -18457,7 +18589,7 @@ Mas, nesse caso, não há quase sempre uma vítima inocente?
 
 ---
 
-#### 4.01.05 📄 Temor da morte {#lde-4-01-05}
+#### 4.01.05. 📄 Temor da morte {#lde-4-01-05}
 
 ##### #️⃣ Q.941 {#q941}
 
@@ -18493,7 +18625,7 @@ Pessoas não haverá que achem um tanto banais esses conselhos para ser-se feliz
 
 ---
 
-#### 4.01.06 📄 Desgosto da vida. Suicídio {#lde-4-01-06}
+#### 4.01.06. 📄 Desgosto da vida. Suicídio {#lde-4-01-06}
 
 ##### #️⃣ Q.943 {#q943}
 
@@ -18786,7 +18918,7 @@ A religião, a moral, todas as filosofias condenam o suicídio como contrário �
 
 ### 4.02. 🗂️ Penas e felicidades futuras {#lde-4-02}
 
-#### 4.02.01 📄 O nada. Vida futura {#lde-4-02-01}
+#### 4.02.01. 📄 O nada. Vida futura {#lde-4-02-01}
 
 ##### #️⃣ Q.958 {#q958}
 
@@ -18822,7 +18954,7 @@ A vida futura implica a conservação da nossa individualidade, após a morte. C
 
 ---
 
-#### 4.02.02 📄 Intuição das penas e gozos futuros {#lde-4-02-02}
+#### 4.02.02. 📄 Intuição das penas e gozos futuros {#lde-4-02-02}
 
 ##### #️⃣ Q.960 {#q960}
 
@@ -18874,7 +19006,7 @@ A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e d
 
 ---
 
-#### 4.02.03 📄 Intervenção de Deus nas penas e recompensas {#lde-4-02-03}
+#### 4.02.03. 📄 Intervenção de Deus nas penas e recompensas {#lde-4-02-03}
 
 ##### #️⃣ Q.963 {#q963}
 
@@ -18915,7 +19047,7 @@ Não é verdade que esse campo produzirá na razão dos cuidados que forem dispe
 
 ---
 
-#### 4.02.04 📄 Natureza das penas e gozos futuros {#lde-4-02-04}
+#### 4.02.04. 📄 Natureza das penas e gozos futuros {#lde-4-02-04}
 
 ##### #️⃣ Q.965 {#q965}
 
@@ -19281,7 +19413,7 @@ Será necessário que professemos o Espiritismo e creiamos nas manifestações e
 
 ---
 
-#### 4.02.05 📄 Penas temporais {#lde-4-02-05}
+#### 4.02.05. 📄 Penas temporais {#lde-4-02-05}
 
 ##### #️⃣ Q.983 {#q983}
 
@@ -19388,7 +19520,7 @@ Pessoas há que, se bem não sejam positivamente más, tornam infelizes, pelos s
 
 ---
 
-#### 4.02.06 📄 Expiação e arrependimento {#lde-4-02-06}
+#### 4.02.06. 📄 Expiação e arrependimento {#lde-4-02-06}
 
 ##### #️⃣ Q.990 {#q990}
 
@@ -19616,7 +19748,7 @@ Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já
 
 ---
 
-#### 4.02.07 📄 Duração das penas futuras {#lde-4-02-07}
+#### 4.02.07. 📄 Duração das penas futuras {#lde-4-02-07}
 
 ##### #️⃣ Q.1003 {#q1003}
 
@@ -19765,7 +19897,7 @@ Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao T
 
 ---
 
-#### 4.02.08 📄 Ressurreição da carne {#lde-4-02-08}
+#### 4.02.08. 📄 Ressurreição da carne {#lde-4-02-08}
 
 ##### #️⃣ Q.1010 {#q1010}
 
@@ -19802,7 +19934,7 @@ Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrin
 
 ---
 
-#### 4.02.09 📄 Paraíso, inferno e purgatório {#lde-4-02-09}
+#### 4.02.09. 📄 Paraíso, inferno e purgatório {#lde-4-02-09}
 
 ##### #️⃣ Q.1012 {#q1012}
 
@@ -20169,7 +20301,7 @@ Esta edição é oferecida gratuitamente para fins de estudo e divulgação da D
 
 ## 6. 🗃️ Pós-textual {#lde-6}
 
-### 6.01 📄 Nota explicativa {#lde-6-01}
+### 6.01. 📄 Nota explicativa {#lde-6-01}
 
 ::: kardec
 👴🏻 ▸ Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
@@ -20285,7 +20417,7 @@ A Editora (FEB)
 
 ---
 
-### 6.02 📄 Índice geral {#lde-6-02}
+### 6.02. 📄 Índice geral {#lde-6-02}
 
 ::: expand
 
@@ -20304,7 +20436,7 @@ direito e – [Q.734](#q734)
 Deus e – [Q.663](#q663)
 
 ###### 🏷️ Ação {#acao}
-dos mortos como força invisível – [Intro 04](#lde-0-03-04)
+dos mortos como força invisível – [Intro 04](#lde-0-04-04)
 mérito e – [Q.919a](#q919a)
 reciprocidade de – [Q.375a](#q375a)
 
@@ -20374,8 +20506,8 @@ mundos elevados e – [Q.710](#q710)
 saúde e – [Q.722](#q722)
 
 ###### 🏷️ Allan Kardec {#allan-kardec}
-assistência espiritual a – [Prefácio](#lde-0-02)
-conselhos a – [Prefácio](#lde-0-02)
+assistência espiritual a – [Prefácio](#lde-0-03)
+conselhos a – [Prefácio](#lde-0-03)
 
 ###### 🏷️ Alma {#alma}
 afeição do corpo e da – [Q.939](#q939)
@@ -20565,7 +20697,7 @@ suicídio e – [Q.758a](#q758a)
 espíritos encarnados em – [Q.417](#q417)
 
 ###### 🏷️ Assistência espiritual {#assistencia-espiritual}
-Allan Kardec e – [Prefácio](#lde-0-02)
+Allan Kardec e – [Prefácio](#lde-0-03)
 artes, artistas e – [Q.521](#q521)
 de superior a inferior – [Q.495](#q495)
 família e – [Q.517](#q517)
@@ -20698,7 +20830,7 @@ graus de purificação e – [Q.1017](#q1017)
 localização do – [Q.1016](#q1016), [Q.1017](#q1017)
 
 ###### 🏷️ Charlatanismo {#charlatanismo}
-acusação de – [Intro 09](#lde-0-03-09)
+acusação de – [Intro 09](#lde-0-04-09)
 boa-fé e – [Q.553](#q553)
 magnetismo e – [Q.481](#q481)
 sonambulismo magnético e – [Q.455](#q455)
@@ -20709,16 +20841,16 @@ nascimento e – [Q.384](#q384)
 ###### 🏷️ Ciência {#ciencia}
 caridade material e – [Q.707](#q707)
 esforço para chegar à perfeição e – [Q.692](#q692)
-Espiritismo e – [Intro 07](#lde-0-03-07)
-falibilidade e – [Intro 07](#lde-0-03-07)
+Espiritismo e – [Intro 07](#lde-0-04-07)
+falibilidade e – [Intro 07](#lde-0-04-07)
 fenômenos sobrenaturais e – [Conclusão 02](#lde-5-02)
 flagelos destruidores e – [Q.741](#q741)
 mistério e – [Q.19](#q19)
 moral e – [Q.192](#q192)
-movimento das mesas girantes e – [Intro 03](#lde-0-03-03)
+movimento das mesas girantes e – [Intro 03](#lde-0-04-03)
 obra divina e – [Q.59](#q59)
 religião e – [Q.59](#q59)
-sábio e – [Intro 13](#lde-0-03-13)
+sábio e – [Intro 13](#lde-0-04-13)
 
 ###### 🏷️ Ciência espírita {#ciencia-espirita}
 consolidação da – [Conclusão 06](#lde-5-06)
@@ -20788,14 +20920,14 @@ pensamentos e sentimentos em – [Q.656](#q656)
 consolo pela – [Q.935](#q935)
 desprendimento e – [Q.455](#q455)
 entes queridos falecidos e – [Q.935](#q935)
-facilitação da – [Intro 04](#lde-0-03-04)
+facilitação da – [Intro 04](#lde-0-04-04)
 impedimento da – [Q.422](#q422)
-meios primitivos da – [Intro 04](#lde-0-03-04)
+meios primitivos da – [Intro 04](#lde-0-04-04)
 Moisés e – [Conclusão 02](#lde-5-02)
-mundo corpóreo e – [Prefácio](#lde-0-02)
+mundo corpóreo e – [Prefácio](#lde-0-03)
 pensamento e – [Q.421](#q421)
 resultado da – [Conclusão 08](#lde-5-08)
-tiptologia e – [Intro 16](#lde-0-03-16)
+tiptologia e – [Intro 16](#lde-0-04-16)
 vida futura e – [Q.973](#q973)
 
 ###### 🏷️ Comunicação {#comunicacao}
@@ -20852,10 +20984,10 @@ consciência da pessoa e – [Q.924](#q924)
 esperança e – [Q.924](#q924)
 
 ###### 🏷️ Contradição {#contradicao}
-ideia fundamental e – [Intro 13](#lde-0-03-13)
+ideia fundamental e – [Intro 13](#lde-0-04-13)
 
 ###### 🏷️ Convenção {#convencao}
-coisa importante e – [Intro 13](#lde-0-03-13)
+coisa importante e – [Intro 13](#lde-0-04-13)
 
 ###### 🏷️ Convivência {#convivencia}
 reconhecimento de espíritos pela primeira vez encarnados na Terra e – [Q.176b](#q176b)
@@ -20987,7 +21119,7 @@ livre-arbítrio e – [Q.544](#q544)
 
 ###### 🏷️ Demônio {#demonio}
 anjo e – [Q.128](#q128)
-comunicação espírita e – [Intro 10](#lde-0-03-10)
+comunicação espírita e – [Intro 10](#lde-0-04-10)
 expulsão do – [Q.480](#q480)
 maus espíritos e – [Conclusão 06](#lde-5-06)
 
@@ -21035,7 +21167,7 @@ das faculdades existentes no homem – [Q.754](#q754)
 do senso moral – [Q.754](#q754)
 
 ###### 🏷️ Desequilíbrio {#desequilibrio}
-emocional – [Intro 15](#lde-0-03-15)
+emocional – [Intro 15](#lde-0-04-15)
 
 ###### 🏷️ Desespero {#desespero}
 momento derradeiro e – [Q.708](#q708)
@@ -21047,7 +21179,7 @@ desaparecimento das – [Q.806a](#q806a)
 homem e – [Q.806](#q806)
 
 ###### 🏷️ Desmaterialização {#desmaterializacao}
-Espírito e – [Intro 12](#lde-0-03-12)
+Espírito e – [Intro 12](#lde-0-04-12)
 influência da matéria e – [Q.318](#q318)
 ocupações dos espíritos no estado de erraticidade ou de – [Q.584a](#q584a)
 
@@ -21097,7 +21229,7 @@ atributos de – [Q.13](#q13), [Q.16](#q16)
 auxílio de – [Q.964](#q964)
 bondade e – [Q.1009](#q1009)
 cada pessoa e – [Q.963](#q963)
-cepa como emblema do trabalho de – [Prefácio](#lde-0-02)
+cepa como emblema do trabalho de – [Prefácio](#lde-0-03)
 conceito de – [Q.1](#q1), [Q.668](#q668)
 criação de espíritos e – [Q.115](#q115)
 criação de espíritos e atributos de – [Q.131](#q131)
@@ -21108,7 +21240,7 @@ infinito e – [Q.3](#q3)
 intervenção de – [Q.963](#q963)
 julgamento de – [Q.670](#q670), [Q.672](#q672)
 justiça divina e – [Q.964](#q964)
-lacuna entre o homem e – [Intro 17](#lde-0-03-17)
+lacuna entre o homem e – [Intro 17](#lde-0-04-17)
 leis de – [Q.964](#q964)
 mensageiros de – [Q.562a](#q562a)
 missão dos espíritos e – [Q.569](#q569)
@@ -21233,7 +21365,7 @@ instituições humanas e – [Q.914](#q914)
 regeneração do homem e – [Q.796](#q796)
 
 ###### 🏷️ Efeitos inteligentes {#efeitos-inteligentes}
-causa de – [Prefácio](#lde-0-02), [Intro 05](#lde-0-03-05)
+causa de – [Prefácio](#lde-0-03), [Intro 05](#lde-0-04-05)
 
 ###### 🏷️ Egoísmo {#egoismo}
 adesão ao – [Q.917](#q917)
@@ -21319,7 +21451,7 @@ missão e – [Q.581](#q581)
 ###### 🏷️ Ensino {#ensino}
 divulgação de – [Q.581](#q581)
 dos espíritos e leis divinas – [Q.627](#q627)
-espíritos superiores e transmissão do – [Intro 06](#lde-0-03-06)
+espíritos superiores e transmissão do – [Intro 06](#lde-0-04-06)
 oportunidade favorável ao – [Q.801](#q801)
 
 ###### 🏷️ Entendimento {#entendimento}
@@ -21359,7 +21491,7 @@ bem, mal e – [Q.632](#q632)
 castigo pelo – [Q.1009](#q1009)
 constrangimento e – [Q.977a](#q977a)
 demonstração do – [222](#222)
-infalibilidade e – [Intro 07](#lde-0-03-07)
+infalibilidade e – [Intro 07](#lde-0-04-07)
 lembrança do – [Q.978](#q978)
 resgate do – [Q.978](#q978)
 revelação do – [Q.977a](#q977a)
@@ -21393,8 +21525,8 @@ liberdade e – [Q.832](#q832)
 responsabilidade do mal e – [Q.830](#q830)
 
 ###### 🏷️ Escrita {#escrita}
-manifestação inteligente e obtenção de – [Intro 09](#lde-0-03-09)
-substituição de cesta e prancheta pela * a mão – [Intro 05](#lde-0-03-05)
+manifestação inteligente e obtenção de – [Intro 09](#lde-0-04-09)
+substituição de cesta e prancheta pela * a mão – [Intro 05](#lde-0-04-05)
 
 ###### 🏷️ Escritor {#escritor}
 chagas da sociedade e – [Q.904a](#q904a)
@@ -21412,13 +21544,13 @@ consequências do pedido de – [Q.888](#q888)
 universal – [Q.35](#q35) a [Q.36](#q36)
 
 ###### 🏷️ Espiritismo {#espiritismo}
-adepto do – [Intro 01](#lde-0-03-01)
+adepto do – [Intro 01](#lde-0-04-01)
 adversários do – [Conclusão 07](#lde-5-07)
 ancianidade do – [Q.221a](#q221a)
 apelo aos adversários do – [Conclusão 01](#lde-5-01)
 aspectos do – [Conclusão 07](#lde-5-07)
 bases do – [Conclusão 05](#lde-5-05)
-ciência e – [Intro 07](#lde-0-03-07)
+ciência e – [Intro 07](#lde-0-04-07)
 ciência, filosofia e – [Conclusão 01](#lde-5-01)
 conhecimento do fenômeno da morte e – [Q.165](#q165)
 consequências do – [Conclusão 07](#lde-5-07)
@@ -21431,9 +21563,9 @@ divergências no – [Conclusão 09](#lde-5-09)
 duração do castigo segundo o – [Q.1009](#q1009)
 eliminação da solidão pelo – [Q.936](#q936)
 ensinamentos do – [Q.800](#q800), [Q.917](#q917), [Q.982](#q982)
-espiritualismo e – [Intro 01](#lde-0-03-01)
-estudo do – Intro VIII, [Intro 13](#lde-0-03-13)
-existência dos espíritos e – [Intro 17](#lde-0-03-17)
+espiritualismo e – [Intro 01](#lde-0-04-01)
+estudo do – Intro VIII, [Intro 13](#lde-0-04-13)
+existência dos espíritos e – [Intro 17](#lde-0-04-17)
 fé, resignação e – [Conclusão 03](#lde-5-03)
 felicidade e – [Conclusão 05](#lde-5-05)
 fenômeno, moral e prática do – [Conclusão 07](#lde-5-07)
@@ -21441,7 +21573,7 @@ filosofia e – [Conclusão 05](#lde-5-05)
 imortalidade e – [Conclusão 03](#lde-5-03)
 individualidade da alma e – [Q.152](#q152)
 influência do * no progresso – [Q.798](#q798)
-loucura e – [Intro 15](#lde-0-03-15)
+loucura e – [Intro 15](#lde-0-04-15)
 magnetismo e – [Q.555](#q555)
 manifestações materiais e – [Conclusão 06](#lde-5-06)
 marcha através do tempo e – [Q.798](#q798)
@@ -21450,13 +21582,13 @@ mesas girantes e – [Conclusão 01](#lde-5-01)
 milagres e – [Conclusão 02](#lde-5-02)
 missão do – [Q.148](#q148)
 necessidade do – [Q.982](#q982)
-O Livro dos Espíritos e – [Prefácio](#lde-0-02)
+O Livro dos Espíritos e – [Prefácio](#lde-0-03)
 oposição ao – concl., V, [Conclusão 06](#lde-5-06)
 origem da palavra – introd. I
 povos antigos e o – [Q.221a](#q221a)
-princípios básicos do – [Intro 06](#lde-0-03-06)
+princípios básicos do – [Intro 06](#lde-0-04-06)
 ressurreição, reencarnação e – [Q.1010](#q1010)
-resumo do – [Intro 06](#lde-0-03-06)
+resumo do – [Intro 06](#lde-0-04-06)
 Santo Agostinho e o – [Conclusão 09](#lde-5-09)
 sonambulismo e – [Q.455](#q455)
 teoria da pluralidade das existências e o – [Q.789](#q789)
@@ -21480,7 +21612,7 @@ reencarnação de – [Q.273](#q273)
 sofrimentos e benevolência de – [Q.486](#q486)
 
 ###### 🏷️ Espírito de Verdade {#espirito-de-verdade}
-equipe de – [Prefácio](#lde-0-02)
+equipe de – [Prefácio](#lde-0-03)
 
 ###### 🏷️ Espírito desencarnado {#espirito-desencarnado}
 sonâmbulo e – [Q.434](#q434)
@@ -21570,7 +21702,7 @@ orações pelo – [Q.664](#q664)
 passagem do tempo para o – [Q.1005](#q1005)
 
 ###### 🏷️ Espírito superior {#espirito-superior}
-reuniões sérias e – [Intro 08](#lde-0-03-08)
+reuniões sérias e – [Intro 08](#lde-0-04-08)
 
 ###### 🏷️ Espírito/s {#espirito/s}
 ação do – [Q.403](#q403)
@@ -21585,10 +21717,10 @@ corpo físico e – [Q.196a](#q196a), [Q.309](#q309)
 criação do – [Q.78](#q78), [Q.115](#q115)
 decomposição do corpo físico e – [Q.309a](#q309a)
 definição de – [Q.23](#q23), [Q.76](#q76), [Q.613](#q613)
-desigualdade de conhecimento e qualidades morais entre os – [Intro 10](#lde-0-03-10)
+desigualdade de conhecimento e qualidades morais entre os – [Intro 10](#lde-0-04-10)
 desigualdade nas provas e – [Q.119](#q119)
 deslocamento do – [Q.90](#q90)
-desmaterialização e – [Intro 12](#lde-0-03-12)
+desmaterialização e – [Intro 12](#lde-0-04-12)
 desorganização do cérebro e o – [Q.375](#q375)
 Deus e – [Q.77](#q77)
 dia de finados e presença de – [Q.321](#q321)
@@ -21598,12 +21730,12 @@ encarnações diferentes de um mesmo – [Q.218a](#q218a)
 ensino dos – [222](#222)
 entorpecimento do corpo e – [Q.409](#q409)
 escala dos – [Q.96](#q96)
-Espiritismo e existência do – [Intro 17](#lde-0-03-17)
+Espiritismo e existência do – [Intro 17](#lde-0-04-17)
 estacionamento e retrogradação do – [Q.118](#q118)
 evolução do – [Q.114](#q114), [Q.364](#q364), [Q.778](#q778)
 evolução dos – [Q.114](#q114) a [Q.127](#q127)
-existência dos – [Intro 05](#lde-0-03-05)
-famílias e grupos de – [Intro 12](#lde-0-03-12)
+existência dos – [Intro 05](#lde-0-04-05)
+famílias e grupos de – [Intro 12](#lde-0-04-12)
 fases da vida do – [Q.191a](#q191a)
 fenômeno da natureza e os – [Q.527](#q527)
 feto e – [Q.353](#q353)
@@ -21618,15 +21750,15 @@ inteligência e – [Q.24](#q24)
 intervenção dos – [Q.456](#q456)
 leis da natureza e – [Q.526](#q526)
 leis da natureza e atuação dos – [Q.527](#q527)
-linguagem dos – [Intro 13](#lde-0-03-13)
+linguagem dos – [Intro 13](#lde-0-04-13)
 locomoção do – [Q.89a](#q89a)
 matéria e – [Q.25](#q25), [Q.27](#q27), [Q.368a](#q368a), [Q.375a](#q375a), [Q.412](#q412), [Q.605a](#q605a)
 medição do tempo e – [Q.240](#q240)
 migração de – [Q.985](#q985), [Q.1019](#q1019)
-missão dos – [Prefácio](#lde-0-02), [Q.348](#q348), [Q.470](#q470)
-mistificação dos – [Intro 12](#lde-0-03-12)
+missão dos – [Prefácio](#lde-0-03), [Q.348](#q348), [Q.470](#q470)
+mistificação dos – [Intro 12](#lde-0-04-12)
 moradia do – [Q.76](#q76)
-movimentação de objetos e revelação por – [Intro 04](#lde-0-03-04)
+movimentação de objetos e revelação por – [Intro 04](#lde-0-04-04)
 natimorto e – [Q.356](#q356)
 natureza do – [Q.82](#q82), [Q.88](#q88)
 ociosos – [Q.995](#q995)
@@ -21714,9 +21846,9 @@ encarnação de – [Q.402](#q402)
 local de reunião dos – [Q.188](#q188)
 
 ###### 🏷️ Espiritualismo {#espiritualismo}
-adepto do – [Intro 01](#lde-0-03-01)
-conceito de alma e – [Intro 02](#lde-0-03-02)
-Espiritismo e – [Intro 01](#lde-0-03-01)
+adepto do – [Intro 01](#lde-0-04-01)
+conceito de alma e – [Intro 02](#lde-0-04-02)
+Espiritismo e – [Intro 01](#lde-0-04-01)
 
 ###### 🏷️ Esquecimento {#esquecimento}
 maus instintos e – [Q.620](#q620)
@@ -21733,11 +21865,11 @@ progresso e – [Q.776](#q776)
 mundos transitórios e – [Q.236b](#q236b)
 
 ###### 🏷️ Estudo {#estudo}
-Espiritismo e seriedade no – [Intro 08](#lde-0-03-08)
+Espiritismo e seriedade no – [Intro 08](#lde-0-04-08)
 procedência da sugestão e – [Q.464](#q464)
 
 ###### 🏷️ Estudo Sistematizado da Doutrina Espírita {#estudo-sistematizado-da-doutrina-espirita}
-aprendizado pelo – [Intro 08](#lde-0-03-08)
+aprendizado pelo – [Intro 08](#lde-0-04-08)
 
 ###### 🏷️ Eternidade {#eternidade}
 conceito de – [Q.125](#q125)
@@ -21806,7 +21938,7 @@ ineficácia do – [Q.477](#q477)
 missão e – [Q.580](#q580)
 
 ###### 🏷️ Experimentação {#experimentacao}
-reprodução idêntica de fenômeno na – [Intro 03](#lde-0-03-03)
+reprodução idêntica de fenômeno na – [Intro 03](#lde-0-04-03)
 
 ###### 🏷️ Expiação {#expiacao}
 animais e – [Q.602](#q602)
@@ -21832,7 +21964,7 @@ sonambulismo e – [Q.439](#q439)
 ##### F {#lde-6-02-f}
 
 ###### 🏷️ Falibilidade {#falibilidade}
-ciência e – [Intro 07](#lde-0-03-07)
+ciência e – [Intro 07](#lde-0-04-07)
 humana e Espírito superior – [Q.578](#q578)
 
 ###### 🏷️ Falsidade {#falsidade}
@@ -21844,7 +21976,7 @@ expiação e – [Q.957](#q957)
 suicídio e – [Q.948](#q948)
 
 ###### 🏷️ Família {#familia}
-espíritos e – [Intro 12](#lde-0-03-12)
+espíritos e – [Intro 12](#lde-0-04-12)
 espíritos protetores e – [Q.517](#q517)
 humana – [Q.53a](#q53a)
 humana e miscigenação – [Q.690](#q690)
@@ -21871,7 +22003,7 @@ livre-arbítrio e – [Q.866](#q866), [Q.872](#q872)
 morte e – [Q.853a](#q853a), [Q.872](#q872)
 
 ###### 🏷️ Fato {#fato}
-novo e ciência conhecida – [Intro 07](#lde-0-03-07)
+novo e ciência conhecida – [Intro 07](#lde-0-04-07)
 
 ###### 🏷️ Fé {#fe}
 falta de – [Q.943](#q943)
@@ -21911,17 +22043,17 @@ terrestre e moral – [Q.922](#q922)
 vida e – [Q.942](#q942)
 
 ###### 🏷️ Fenômeno {#fenomeno}
-causa inteligente do – [Intro 04](#lde-0-03-04)
-das mesas girantes – [Intro 03](#lde-0-03-03)
+causa inteligente do – [Intro 04](#lde-0-04-04)
+das mesas girantes – [Intro 03](#lde-0-04-03)
 
 ###### 🏷️ Fenômeno espírita {#fenomeno-espirita}
-ação inteligente – [Intro 07](#lde-0-03-07)
-autenticidade do – [Intro 09](#lde-0-03-09)
-ciência e – [Intro 03](#lde-0-03-03)
-demônio e – [Intro 10](#lde-0-03-10)
+ação inteligente – [Intro 07](#lde-0-04-07)
+autenticidade do – [Intro 09](#lde-0-04-09)
+ciência e – [Intro 03](#lde-0-04-03)
+demônio e – [Intro 10](#lde-0-04-10)
 Livro dos Espíritos e – [Q.919a](#q919a)
 politeísmo e – [Q.668](#q668)
-sonambulismo, influenciação e – [Intro 16](#lde-0-03-16)
+sonambulismo, influenciação e – [Intro 16](#lde-0-04-16)
 
 ###### 🏷️ Fenômeno mediúnico {#fenomeno-mediunico}
 espontâneo – [Q.408](#q408)
@@ -21930,7 +22062,7 @@ mediunidade e – [Q.409](#q409)
 revelado – [Conclusão 06](#lde-5-06)
 
 ###### 🏷️ Fenomenologia {#fenomenologia}
-conhecimento de novas leis e – [Intro 03](#lde-0-03-03)
+conhecimento de novas leis e – [Intro 03](#lde-0-04-03)
 
 ###### 🏷️ Fenômenos {#fenomenos}
 ação dos espíritos nos * da natureza – [Q.536b](#q536b)
@@ -21951,7 +22083,7 @@ transmissão de parecença moral de pais ao – [Q.207a](#q207a)
 
 ###### 🏷️ Filosofia {#filosofia}
 Espiritismo e – [Conclusão 05](#lde-5-05)
-racional e estabelecimento de fundamentos – [Prefácio](#lde-0-02)
+racional e estabelecimento de fundamentos – [Prefácio](#lde-0-03)
 
 ###### 🏷️ Finados {#finados}
 comemoração do dia de – [Q.321](#q321)
@@ -21996,7 +22128,7 @@ sociedade e – [Q.930](#q930)
 suicídio e – [Q.947](#q947)
 
 ###### 🏷️ Força {#forca}
-movimento de objetos por * mecânica cega – [Intro 04](#lde-0-03-04)
+movimento de objetos por * mecânica cega – [Intro 04](#lde-0-04-04)
 
 ###### 🏷️ Fortalecimento {#fortalecimento}
 tentações do mal e – [Q.660](#q660)
@@ -22009,8 +22141,8 @@ pretensão de igualdade de riquezas e – [Q.811a](#q811a)
 adoração e sentimento de – [Q.650](#q650)
 
 ###### 🏷️ Fraude {#fraude}
-explicação ignorada de fenômeno e – [Intro 03](#lde-0-03-03)
-rejeição de – [Intro 09](#lde-0-03-09)
+explicação ignorada de fenômeno e – [Intro 03](#lde-0-04-03)
+rejeição de – [Intro 09](#lde-0-04-09)
 
 ###### 🏷️ Fuga {#fuga}
 contratempos da vida e – [Q.770](#q770)
@@ -22097,7 +22229,7 @@ aquisições do Espírito no termo da jornada e o – [Q.266](#q266)
 carnal – [Q.941](#q941)
 civilizado – [Q.933](#q933)
 composição do – [Q.135a](#q135a)
-comunicação espírita e * eminente – [Intro 11](#lde-0-03-11)
+comunicação espírita e * eminente – [Intro 11](#lde-0-04-11)
 consequências dos atos do – [Q.714a](#q714a), [Q.964](#q964)
 destino do – [Q.774](#q774)
 direitos da mulher e do – [Q.817](#q817)
@@ -22148,15 +22280,15 @@ transformação da – [Q.1019](#q1019)
 período de – [Q.607b](#q607b)
 
 ###### 🏷️ Humildade {#humildade}
-desinteresse e – [Prefácio](#lde-0-02)
+desinteresse e – [Prefácio](#lde-0-03)
 
 ##### I {#lde-6-02-i}
 
 ###### 🏷️ Ideia {#ideia}
-forma e – [Intro 14](#lde-0-03-14)
+forma e – [Intro 14](#lde-0-04-14)
 intuição de – [Q.415](#q415)
 modificação de – [Q.800](#q800)
-nova e oposição – [Intro 07](#lde-0-03-07)
+nova e oposição – [Intro 07](#lde-0-04-07)
 terrena, conforme ponto de vista do extático – [Q.443](#q443)
 
 ###### 🏷️ Ideia religiosa {#ideia-religiosa}
@@ -22170,14 +22302,14 @@ teoria das – [Q.218a](#q218a)
 
 ###### 🏷️ Identidade {#identidade}
 adoção de – [Q.505](#q505)
-Espírito comunicante e usurpação de – [Intro 12](#lde-0-03-12)
-linguagem, caráter e – [Intro 12](#lde-0-03-12)
+Espírito comunicante e usurpação de – [Intro 12](#lde-0-04-12)
+linguagem, caráter e – [Intro 12](#lde-0-04-12)
 revelação de – [Q.504a](#q504a)
 
 ###### 🏷️ Identificação {#identificacao}
-Espírito antes da desmaterialização e – [Intro 12](#lde-0-03-12)
-indagação sobre a autoria de fatos extraordinários e – [Intro 04](#lde-0-03-04)
-indícios de – [Intro 12](#lde-0-03-12)
+Espírito antes da desmaterialização e – [Intro 12](#lde-0-04-12)
+indagação sobre a autoria de fatos extraordinários e – [Intro 04](#lde-0-04-04)
+indícios de – [Intro 12](#lde-0-04-12)
 
 ###### 🏷️ Idiota {#idiota}
 estado mental e – [Q.374](#q374)
@@ -22200,7 +22332,7 @@ natural – [Q.803](#q803)
 túmulo e – [Q.823](#q823)
 
 ###### 🏷️ Ilusão {#ilusao}
-vítimas de – [Intro 09](#lde-0-03-09)
+vítimas de – [Intro 09](#lde-0-04-09)
 
 ###### 🏷️ Imaginação {#imaginacao}
 lendas e – [Q.529](#q529)
@@ -22283,7 +22415,7 @@ pais e – [Q.208](#q208)
 bem-estar das pessoas sob – [Q.989](#q989)
 espíritos imperfeitos e – [Q.122a](#q122a)
 espiritual – [Q.525](#q525), [Q.971](#q971)
-fenômeno espírita e * do meio – [Intro 16](#lde-0-03-16)
+fenômeno espírita e * do meio – [Intro 16](#lde-0-04-16)
 inferioridade e – [Q.465](#q465)
 inspiração e – [Q.545](#q545)
 inteligência e – [Q.462](#q462)
@@ -22404,7 +22536,7 @@ pluralidade dos mundos e – [Q.1010](#q1010)
 ###### 🏷️ Julgamento {#julgamento}
 escolha de provas e capacidade de – [Q.269](#q269)
 participação no próprio – [Q.919a](#q919a)
-superficial e necessidade de observação – [Intro 10](#lde-0-03-10)
+superficial e necessidade de observação – [Intro 10](#lde-0-04-10)
 
 ###### 🏷️ Júpiter {#jupiter}
 Terra, Marte e – [Q.188](#q188)
@@ -22524,7 +22656,7 @@ catalepsia e – [Q.424](#q424)
 morte e – [Q.423](#q423)
 
 ###### 🏷️ Leviandade {#leviandade}
-ser humano e – [Intro 03](#lde-0-03-03)
+ser humano e – [Intro 03](#lde-0-04-03)
 
 ###### 🏷️ Liberdade {#liberdade}
 abuso da – [Q.735](#q735)
@@ -22547,14 +22679,14 @@ egoísmo e – [Q.936](#q936)
 ###### 🏷️ Linguagem {#linguagem}
 adequação de – [Q.28](#q28)
 alegorias pelo Cristo e – [Q.131](#q131)
-anfibologia e – [Intro 02](#lde-0-03-02)
+anfibologia e – [Intro 02](#lde-0-04-02)
 animais e – [Q.594](#q594)
 entendimento sobre a palavra alma e – [Q.139](#q139)
-espíritos – [Intro 13](#lde-0-03-13)
+espíritos – [Intro 13](#lde-0-04-13)
 espíritos superiores e – [Q.1014](#q1014)
 humana e particular conformação dos órgãos vocais – [Q.596](#q596)
-imperfeição da * humana – [Intro 14](#lde-0-03-14)
-palavra “alma” e a humana – [Intro 02](#lde-0-03-02)
+imperfeição da * humana – [Intro 14](#lde-0-04-14)
+palavra “alma” e a humana – [Intro 02](#lde-0-04-02)
 palavra e – [Q.594a](#q594a)
 
 ###### 🏷️ Livre-arbítrio {#livre-arbitrio}
@@ -22592,9 +22724,9 @@ responsabilidade pela prática do mal e – [Q.872](#q872)
 sabedoria divina e – [Q.123](#q123)
 
 ###### 🏷️ Livro dos Espíritos {#livro-dos-espiritos}
-autoria de – [Prefácio](#lde-0-02)
-Espiritismo e – [Prefácio](#lde-0-02)
-filosofia espiritualista e – [Intro 01](#lde-0-03-01)
+autoria de – [Prefácio](#lde-0-03)
+Espiritismo e – [Prefácio](#lde-0-03)
+filosofia espiritualista e – [Intro 01](#lde-0-04-01)
 
 ###### 🏷️ Locomoção {#locomocao}
 Espírito e – [Q.89](#q89), [Q.247](#q247)
@@ -22604,12 +22736,12 @@ doutrina e – [Q.131](#q131)
 reencarnação e – [222](#222)
 
 ###### 🏷️ Loucura {#loucura}
-causas da – [Intro 15](#lde-0-03-15)
+causas da – [Intro 15](#lde-0-04-15)
 cérebro desorganizado e – [Q.375](#q375)
 desencarnação e – [Q.377](#q377)
-Espiritismo e – [Intro 15](#lde-0-03-15)
+Espiritismo e – [Intro 15](#lde-0-04-15)
 manifestações da alma e – [Q.372a](#q372a)
-preservativo contra a – [Intro 15](#lde-0-03-15)
+preservativo contra a – [Intro 15](#lde-0-04-15)
 suicídio e – [Q.376](#q376)
 
 ###### 🏷️ Lucidez sonambúlica {#lucidez-sonambulica}
@@ -22668,7 +22800,7 @@ amor ao próximo e extensão do – [Q.665](#q665)
 
 ###### 🏷️ Manifestação {#manifestacao}
 espírita e liberdade da – [Conclusão 06](#lde-5-06)
-inteligente por meio de mesas – [Intro 04](#lde-0-03-04)
+inteligente por meio de mesas – [Intro 04](#lde-0-04-04)
 
 ###### 🏷️ Marte {#marte}
 Terra, Júpiter e – [Q.188](#q188)
@@ -22695,12 +22827,12 @@ tangibilidade da – [Q.91](#q91)
 ###### 🏷️ Materialismo {#materialismo}
 – [Q.147](#q147)
 aberração da inteligência e – [Q.148](#q148)
-conceito de alma e – [Intro 02](#lde-0-03-02)
+conceito de alma e – [Intro 02](#lde-0-04-02)
 Espiritismo e – concl., II, [Q.799](#q799)
 fenômenos do sonambulismo, do êxtase e – [Q.446](#q446)
 morte do – [Conclusão 08](#lde-5-08)
 negação do – [Conclusão 07](#lde-5-07)
-oposição ao – [Intro 01](#lde-0-03-01)
+oposição ao – [Intro 01](#lde-0-04-01)
 orgulho e – [Q.147](#q147)
 
 ###### 🏷️ Maternidade {#maternidade}
@@ -22712,14 +22844,14 @@ influência do – [Q.932](#q932)
 prosperidade do – [Q.926](#q926)
 
 ###### 🏷️ Médium {#medium}
-comunicabilidade dos espíritos e – [Intro 04](#lde-0-03-04)
+comunicabilidade dos espíritos e – [Intro 04](#lde-0-04-04)
 grande número de – [Conclusão 06](#lde-5-06)
-participação de – [Intro 05](#lde-0-03-05)
-teoria espírita e contribuição do – [Intro 16](#lde-0-03-16)
+participação de – [Intro 05](#lde-0-04-05)
+teoria espírita e contribuição do – [Intro 16](#lde-0-04-16)
 
 ###### 🏷️ Mediunidade {#mediunidade}
 afloramento sutil da – [Q.409](#q409)
-gêneros de – [Intro 05](#lde-0-03-05)
+gêneros de – [Intro 05](#lde-0-04-05)
 proibição da – [Conclusão 06](#lde-5-06)
 
 ###### 🏷️ Medo {#medo}
@@ -22746,9 +22878,9 @@ submissão a provas e – [Q.708](#q708)
 
 ###### 🏷️ Mesas girantes {#mesas-girantes}
 Espiritismo e – [Conclusão 01](#lde-5-01)
-fenômeno das – [Intro 03](#lde-0-03-03)
-manifestações inteligentes e – [Intro 04](#lde-0-03-04)
-tiptologia e – [Intro 04](#lde-0-03-04)
+fenômeno das – [Intro 03](#lde-0-04-03)
+manifestações inteligentes e – [Intro 04](#lde-0-04-04)
+tiptologia e – [Intro 04](#lde-0-04-04)
 
 ###### 🏷️ Metempsicose {#metempsicose}
 reencarnação e – [Q.611](#q611)
@@ -22790,7 +22922,7 @@ conhecimento e – [Q.18](#q18)
 criação do Espírito e – [Q.78](#q78)
 
 ###### 🏷️ Mistificação {#mistificacao}
-incerteza sobre – [Intro 09](#lde-0-03-09)
+incerteza sobre – [Intro 09](#lde-0-04-09)
 
 ###### 🏷️ Mitologia {#mitologia}
 combates e – [Q.541](#q541)
@@ -22867,14 +22999,14 @@ predominância de espíritos maus em – [Q.872](#q872)
 ###### 🏷️ Mundo espiritual {#mundo-espiritual}
 – [Q.84](#q84) a [Q.87](#q87)
 afeições entre espíritos no – [Q.297](#q297)
-composição do – [Intro 06](#lde-0-03-06)
-comunicação entre mundo corpóreo e – [Prefácio](#lde-0-02)
+composição do – [Intro 06](#lde-0-04-06)
+comunicação entre mundo corpóreo e – [Prefácio](#lde-0-03)
 culpado e vítima no – [Q.977a](#q977a)
-espíritos e – [Prefácio](#lde-0-02), [Q.84](#q84)
+espíritos e – [Prefácio](#lde-0-03), [Q.84](#q84)
 habitantes da Terra e – [Q.495](#q495)
 hierarquia e – [Q.540](#q540)
 inimigos no – [Q.293](#q293)
-lado mau do – [Intro 10](#lde-0-03-10)
+lado mau do – [Intro 10](#lde-0-04-10)
 locomoção no – [Q.232](#q232)
 malevolência e – [Q.531](#q531)
 mundo corpóreo e – [Q.86](#q86)
@@ -22986,7 +23118,7 @@ paixões e – [Q.792a](#q792a)
 evidência e – [Q.802](#q802)
 
 ###### 🏷️ Nome {#nome}
-importância espiritual do – [Intro 12](#lde-0-03-12)
+importância espiritual do – [Intro 12](#lde-0-04-12)
 
 ##### O {#lde-6-02-o}
 
@@ -23028,11 +23160,11 @@ prática do bem e – [Q.673](#q673)
 sacrifício animal e – [Q.672](#q672)
 
 ###### 🏷️ Opinião {#opiniao}
-sábios e – [Intro 07](#lde-0-03-07)
+sábios e – [Intro 07](#lde-0-04-07)
 
 ###### 🏷️ Oposição {#oposicao}
 Espiritismo e – [Q.798](#q798)
-ideias novas e – [Intro 07](#lde-0-03-07)
+ideias novas e – [Intro 07](#lde-0-04-07)
 liberdade de consciência e – [Q.837](#q837)
 
 ###### 🏷️ Oração {#oracao}
@@ -23062,7 +23194,7 @@ genealogia e – [Q.205a](#q205a)
 materialismo e – [Q.147](#q147)
 necessidade, trabalho e – [Q.929](#q929)
 profissões modestas e – [Q.928](#q928)
-razão e – [Intro 07](#lde-0-03-07)
+razão e – [Intro 07](#lde-0-04-07)
 retratação e – [Q.1000](#q1000)
 suicídio e – [Q.947](#q947)
 
@@ -23102,7 +23234,7 @@ linguagem e – [Q.594a](#q594a)
 
 ###### 🏷️ Panteísmo {#panteismo}
 – [Q.14](#q14), [Q.15](#q15)
-conceito de alma e – [Intro 02](#lde-0-03-02)
+conceito de alma e – [Intro 02](#lde-0-04-02)
 refutações ao – [Q.16](#q16)
 
 ###### 🏷️ Paraíso {#paraiso}
@@ -23235,12 +23367,12 @@ substância do * em diversos mundos – [Q.187](#q187)
 troca de – [Q.94a](#q94a)
 
 ###### 🏷️ Perseverança {#perseveranca}
-consequências da – [Prefácio](#lde-0-02)
+consequências da – [Prefácio](#lde-0-03)
 
 ###### 🏷️ Personalidade {#personalidade}
 egoísmo e sentimento da – [Q.917](#q917)
 identidade digna de confiança e – [Q.505](#q505)
-manifestações frequentes de * ilustre – [Intro 11](#lde-0-03-11)
+manifestações frequentes de * ilustre – [Intro 11](#lde-0-04-11)
 
 ###### 🏷️ Perturbação {#perturbacao}
 desencarnação e – [Q.319](#q319)
@@ -23259,7 +23391,7 @@ separação da alma e do corpo e – [Q.164](#q164)
 ###### 🏷️ Plano físico {#plano-fisico}
 apoio a Espírito na partida para o – [Q.342](#q342)
 malevolência e – [Q.531](#q531)
-mundo corporal e – [Intro 06](#lde-0-03-06)
+mundo corporal e – [Intro 06](#lde-0-04-06)
 reencontro no – [Q.386](#q386)
 
 ###### 🏷️ Platão {#platao}
@@ -23278,7 +23410,7 @@ honrarias terrenas e – [Q.275](#q275)
 prova do – [Q.816](#q816)
 
 ###### 🏷️ Poesia {#poesia}
-médium versejador e – [Intro 14](#lde-0-03-14)
+médium versejador e – [Intro 14](#lde-0-04-14)
 
 ###### 🏷️ Poligamia {#poligamia}
 aperfeiçoamento social e – [Q.701](#q701)
@@ -23381,10 +23513,10 @@ transformação do – [Q.607a](#q607a)
 
 ###### 🏷️ Princípio vital {#principio-vital}
 alma e – [Q.136](#q136)
-conceito de – [Intro 02](#lde-0-03-02)
+conceito de – [Intro 02](#lde-0-04-02)
 corpo físico e – [Q.67](#q67)
 Espírito, matéria e – [Q.64](#q64)
-fluido vital e – [Intro 02](#lde-0-03-02)
+fluido vital e – [Intro 02](#lde-0-04-02)
 fonte universal do – [Q.139](#q139)
 matéria e – [Q.62](#q62)
 modificações do – [Q.66](#q66)
@@ -23393,7 +23525,7 @@ seres orgânicos e – [Q.67a](#q67a)
 vida e – [Q.63](#q63)
 
 ###### 🏷️ Princípios básicos {#principios-basicos}
-Espiritismo e – [Intro 06](#lde-0-03-06)
+Espiritismo e – [Intro 06](#lde-0-04-06)
 
 ###### 🏷️ Privação {#privacao}
 culpa pela – [Q.927](#q927)
@@ -23748,7 +23880,7 @@ proporcionalidade de compreensão e – [Q.637](#q637)
 sociedade e – [Q.813](#q813)
 
 ###### 🏷️ Resposta {#resposta}
-participação de médium e – [Intro 05](#lde-0-03-05)
+participação de médium e – [Intro 05](#lde-0-04-05)
 
 ###### 🏷️ Ressurreição {#ressurreicao}
 ciência e – [Q.1010](#q1010)
@@ -23756,7 +23888,7 @@ Espiritismo e – [Q.1010](#q1010)
 reencarnação e – [Q.1010](#q1010)
 
 ###### 🏷️ Reunião {#reuniao}
-instrutiva – [Intro 08](#lde-0-03-08)
+instrutiva – [Intro 08](#lde-0-04-08)
 no espaço com revelação pelo sonho – [Q.406](#q406)
 parentes e amigos, após a morte, em – [Q.290](#q290)
 
@@ -23873,7 +24005,7 @@ morte de – [Q.70](#q70)
 princípio inteligente e – [Q.611](#q611)
 reprodução dos – [Q.686](#q686)
 seres inorgânicos e – [Q.585](#q585)
-vida material e – [Intro 02](#lde-0-03-02)
+vida material e – [Intro 02](#lde-0-04-02)
 
 ###### 🏷️ Sociedade {#sociedade}
 casamento e – [Q.696](#q696)
@@ -23948,7 +24080,7 @@ espécie de – [Q.482](#q482)
 Espiritismo e – [Q.455](#q455)
 êxtase e – [Q.439](#q439)
 faculdades do – [Q.438](#q438)
-fenômeno espírita e – [Intro 16](#lde-0-03-16)
+fenômeno espírita e – [Intro 16](#lde-0-04-16)
 magnético e sonambulismo natural – [Q.455](#q455)
 provocado – [Q.426](#q426)
 sensações e – [Q.437](#q437)
@@ -24052,7 +24184,7 @@ espécie de – [Q.482](#q482)
 Espiritismo e – [Q.455](#q455)
 êxtase e – [Q.439](#q439)
 faculdades do – [Q.438](#q438)
-fenômeno espírita e – [Intro 16](#lde-0-03-16)
+fenômeno espírita e – [Intro 16](#lde-0-04-16)
 magnético e sonambulismo natural – [Q.455](#q455)
 provocado – [Q.426](#q426)
 sensações e – [Q.437](#q437)
@@ -24140,8 +24272,8 @@ vontade divina e governo da – [Q.529a](#q529a)
 mal e * dos bons – [Q.932](#q932)
 
 ###### 🏷️ Tiptologia {#tiptologia}
-mesas girantes e – [Intro 04](#lde-0-03-04)
-sematologia e – [Intro 04](#lde-0-03-04)
+mesas girantes e – [Intro 04](#lde-0-04-04)
+sematologia e – [Intro 04](#lde-0-04-04)
 
 ###### 🏷️ Trabalho {#trabalho}
 bases fundamentais para o – [Q.718](#q718)
@@ -24346,7 +24478,7 @@ da alma – [Q.455](#q455)
 ###### 🏷️ Vocação {#vocacao}
 desvio da – [Q.928](#q928)
 orgulho e – [Q.928](#q928)
-ponto de vista de conhecimento e – [Intro 07](#lde-0-03-07)
+ponto de vista de conhecimento e – [Intro 07](#lde-0-04-07)
 profissional e felicidade – [Q.928](#q928)
 progresso em experiência corporal e – [Q.270](#q270)
 seguir a – [Q.928](#q928)
@@ -24367,7 +24499,7 @@ sociedade e – [Q.772](#q772)
 excesso de – [Q.736](#q736)
 :::
 
-### 6.03 📃 Notas de rodapé {#lde-6-03}
+### 6.03. 📃 Notas de rodapé {#lde-6-03}
 
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião. 🔤
   
@@ -24383,7 +24515,7 @@ excesso de – [Q.736](#q736)
   
 [^7]: N.E.: Ano do calendário judaico. 🔤
   
-[^8]: A.K. Ver, na [Introduçâo](#lde-0-03-02), a explicação sobre o termo *alma*, 2º paragráfo. 🔤
+[^8]: A.K. Ver, na [Introduçâo](#lde-0-04-02), a explicação sobre o termo *alma*, 2º paragráfo. 🔤
   
 [^9]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
   

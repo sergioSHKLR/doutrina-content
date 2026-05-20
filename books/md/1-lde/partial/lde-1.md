@@ -1,9 +1,20 @@
 
-## 1. 🗃️ Causas Primárias {#lde-1}
+## 1. 🗃️ Causas primárias {#lde-1}
 
 ### 1.01. 🗂️ Deus {#lde-1-01}
 
-#### 1.01.01 📄 Deus e o infinito {#lde-1-01-01}
+::: chapter toc
+Neste capítulo:
+<!-- no toc -->
+- [1.01.01. 📄 Deus e o infinito](#lde-1-01-01)
+- [1.01.02. 📄 Provas da existência de Deus](#lde-1-01-02)
+- [1.01.03. 📄 Atributos da Divindade](#lde-1-01-03)
+- [1.01.04. 📄 Panteísmo](#lde-1-01-04)
+Voltar para:
+- [0.02. 📄 Sumário Geral](#lde-0-02)
+:::
+
+#### 1.01.01. 📄 Deus e o infinito {#lde-1-01-01}
 
 ##### #️⃣ Q.1 {#q1}
 
@@ -50,7 +61,7 @@ Poder-se-ia dizer que Deus é o infinito?
 
 ---
 
-#### 1.01.02 📄 Provas da existência de Deus {#lde-1-01-02}
+#### 1.01.02. 📄 Provas da existência de Deus {#lde-1-01-02}
 
 ##### #️⃣ Q.4 {#q4}
 
@@ -155,7 +166,7 @@ Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela 
 
 ---
 
-#### 1.01.03 📄 Atributos da Divindade {#lde-1-01-03}
+#### 1.01.03. 📄 Atributos da Divindade {#lde-1-01-03}
 
 ##### #️⃣ Q.10 {#q10}
 
@@ -229,7 +240,7 @@ Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipo
 
 ---
 
-#### 1.01.04 📄 Panteísmo {#lde-1-01-04}
+#### 1.01.04. 📄 Panteísmo {#lde-1-01-04}
 
 ##### #️⃣ Q.14 {#q14}
 
@@ -280,7 +291,18 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 
 ### 1.02. 🗂️ Elementos gerais do Universo {#lde-1-02}
 
-#### 1.02.01 📄 Conhecimento do princípio das coisas {#lde-1-02-01}
+::: chapter toc
+Neste capítulo:
+<!-- no toc -->
+- [1.02.01. 📄 Conhecimento do princípio das coisas](#lde-1-02-01)
+- [1.02.02. 📄 Espírito e Matéria](#lde-1-02-02)
+- [1.02.03. 📄 Propriedades da Matéria](#lde-1-02-03)
+- [1.02.04. 📄 Espaço universal](#lde-1-02-04)
+Voltar para:
+- [0.02. 📄 Sumário Geral](#lde-0-02)
+:::
+
+#### 1.02.01. 📄 Conhecimento do princípio das coisas {#lde-1-02-01}
 
 ##### #️⃣ Q.17 {#q17}
 
@@ -344,7 +366,7 @@ Dado é ao homem receber, sem ser por meio das investigações da Ciência, comu
 
 ---
 
-#### 1.02.02 📄 Espírito e Matéria {#lde-1-02-02}
+#### 1.02.02. 📄 Espírito e Matéria {#lde-1-02-02}
 
 ##### #️⃣ Q.21 {#q21}
 
@@ -525,7 +547,7 @@ Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos suje
 
 ---
 
-#### 1.02.03 📄 Propriedades da Matéria {#lde-1-02-03}
+#### 1.02.03. 📄 Propriedades da Matéria {#lde-1-02-03}
 
 ##### #️⃣ Q.29 {#q29}
 
@@ -636,7 +658,7 @@ Essa forma é constante ou variável?
 
 ---
 
-#### 1.02.04 📄 Espaço universal {#lde-1-02-04}
+#### 1.02.04. 📄 Espaço universal {#lde-1-02-04}
 
 ##### #️⃣ Q.35 {#q35}
 
@@ -669,7 +691,20 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 
 ### 1.03. 🗂️ Criação {#lde-1-03}
 
-#### 1.03.01 📄 Formação dos mundos {#lde-1-03-01}
+::: chapter toc
+Neste capítulo:
+<!-- no toc -->
+- [1.03.01. 📄 Formação dos mundos](#lde-1-03-01)
+- [1.03.02. 📄 Formação dos seres vivos](#lde-1-03-02)
+- [1.03.03. 📄 Povoamento da Terra. Adão](#lde-1-03-03)
+- [1.03.04. 📄 Diversidade das raças humanas](#lde-1-03-04)
+- [1.03.05. 📄 Pluralidade dos mundos](#lde-1-03-04)
+- [1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação](#lde-1-03-04)
+Voltar para:
+- [0.02. 📄 Sumário Geral](#lde-0-02)
+:::
+
+#### 1.03.01. 📄 Formação dos mundos {#lde-1-03-01}
 
 ::: kardec
 👴🏻 ▸ O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem. ⚜️
@@ -764,7 +799,7 @@ Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exe
 
 ---
 
-#### 1.03.02 📄 Formação dos seres vivos {#lde-1-03-02}
+#### 1.03.02. 📄 Formação dos seres vivos {#lde-1-03-02}
 
 ##### #️⃣ Q.43 {#q43}
 
@@ -868,7 +903,7 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 
 ---
 
-#### 1.03.03 📄 Povoamento da Terra. Adão {#lde-1-03-03}
+#### 1.03.03. 📄 Povoamento da Terra. Adão {#lde-1-03-03}
 
 ##### #️⃣ Q.50 {#q50}
 
@@ -899,7 +934,7 @@ Poderemos saber em que época viveu Adão?
 
 ---
 
-#### 1.03.04 📄 Diversidade das raças humanas {#lde-1-03-04}
+#### 1.03.04. 📄 Diversidade das raças humanas {#lde-1-03-04}
 
 ##### #️⃣ Q.52 {#q52}
 
@@ -947,7 +982,7 @@ Pelo fato de não proceder de um só indivíduo a espécie humana, devem os home
 
 ---
 
-#### 1.03.05 📄 Pluralidade dos mundos {#lde-1-03-05}
+#### 1.03.05. 📄 Pluralidade dos mundos {#lde-1-03-05}
 
 ##### #️⃣ Q.55 {#q55}
 
@@ -1009,7 +1044,7 @@ Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de 
 
 ---
 
-#### 1.03.06 📄 Considerações e concordâncias bíblicas concernentes à Criação {#lde-1-03-06}
+#### 1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação {#lde-1-03-06}
 
 ##### #️⃣ Q.59 {#q59}
 
@@ -1042,7 +1077,7 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 ### 1.04. 🗂️ Princípio Vital {#lde-1-04}
 
-#### 1.04.01 📄 Seres orgânicos e inorgânicos {#lde-1-04-01}
+#### 1.04.01. 📄 Seres orgânicos e inorgânicos {#lde-1-04-01}
 
 👴🏻 ▸ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc. ⚜️
 
@@ -1190,7 +1225,7 @@ Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vi
 
 ---
 
-#### 1.04.02 📄 A vida e a morte {#lde-1-04-02}
+#### 1.04.02. 📄 A vida e a morte {#lde-1-04-02}
 
 ##### #️⃣ Q.68 {#q68}
 
@@ -1264,7 +1299,7 @@ O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maio
 
 ---
 
-#### 1.04.03 📄 Inteligência e instinto {#lde-1-04-03}
+#### 1.04.03. 📄 Inteligência e instinto {#lde-1-04-03}
 
 ##### #️⃣ Q.71 {#q71}
 

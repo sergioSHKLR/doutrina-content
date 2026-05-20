@@ -1,9 +1,9 @@
 
-## 3. 🗃️ Leis Morais {#lde-3}
+## 3. 🗃️ Leis morais {#lde-3}
 
 ### 3.01. 🗂️ Lei divina {#lde-3-01}
 
-#### 3.01.01 📄 Caracteres da lei natural {#lde-3-01-01}
+#### 3.01.01. 📄 Caracteres da lei natural {#lde-3-01-01}
 
 ##### #️⃣ Q.614 {#q614}
 
@@ -95,7 +95,7 @@ São as mesmas, para todos os mundos, as leis divinas?
 
 ---
 
-#### 3.01.02 📄 Conhecimento da lei natural {#lde-3-01-02}
+#### 3.01.02. 📄 Conhecimento da lei natural {#lde-3-01-02}
 
 ##### #️⃣ Q.619 {#q619}
 
@@ -271,7 +271,7 @@ Jamais permitiu Deus que o homem recebesse comunicações tão completas e instr
 
 ---
 
-#### 3.01.03 📄 O bem e o mal {#lde-3-01-03}
+#### 3.01.03. 📄 O bem e o mal {#lde-3-01-03}
 
 ##### #️⃣ Q.629 {#q629}
 
@@ -547,7 +547,7 @@ Estará subordinado a determinadas condições o mérito do bem que se pratique?
 
 ---
 
-#### 3.01.04 📄 Divisão da lei natural {#lde-3-01-04}
+#### 3.01.04. 📄 Divisão da lei natural {#lde-3-01-04}
 
 ##### #️⃣ Q.647 {#q647}
 
@@ -575,7 +575,7 @@ Que pensais da divisão da lei natural em dez partes, compreendendo as leis de *
 
 ### 3.02. 🗂️ Lei de adoração {#lde-3-02}
 
-#### 3.02.01 📄 Objetivo da adoração {#lde-3-02-01}
+#### 3.02.01. 📄 Objetivo da adoração {#lde-3-02-01}
 
 ##### #️⃣ Q.649 {#q649}
 
@@ -631,7 +631,7 @@ Poder-se-á considerar a lei natural como fonte originária da adoração?
 
 ---
 
-#### 3.02.02 📄 Adoração exterior {#lde-3-02-02}
+#### 3.02.02. 📄 Adoração exterior {#lde-3-02-02}
 
 ##### #️⃣ Q.653 {#q653}
 
@@ -713,7 +713,7 @@ O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que 
 
 ---
 
-#### 3.02.03 📄 Vida contemplativa {#lde-3-02-03}
+#### 3.02.03. 📄 Vida contemplativa {#lde-3-02-03}
 
 ##### #️⃣ Q.657 {#q657}
 
@@ -725,7 +725,7 @@ Têm, perante Deus, algum mérito os que se consagram à vida contemplativa, uma
 
 ---
 
-#### 3.02.04 📄 A prece {#lde-3-02-04}
+#### 3.02.04. 📄 A prece {#lde-3-02-04}
 
 ##### #️⃣ Q.658 {#q658}
 
@@ -893,7 +893,7 @@ Pode-se orar aos Espíritos?
 
 ---
 
-#### 3.02.05 📄 Politeísmo {#lde-3-02-05}
+#### 3.02.05. 📄 Politeísmo {#lde-3-02-05}
 
 ##### #️⃣ Q.667 {#q667}
 
@@ -929,7 +929,7 @@ Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs dest
 
 ---
 
-#### 3.02.06 📄 Sacrifícios {#lde-3-02-06}
+#### 3.02.06. 📄 Sacrifícios {#lde-3-02-06}
 
 ##### #️⃣ Q.669 {#q669}
 
@@ -1038,7 +1038,7 @@ Não seria um meio de tornar essas oferendas agradáveis a Deus consagrá-las a 
 
 ### 3.03. 🗂️ Lei do trabalho {#lde-3-03}
 
-#### 3.03.01 📄 Necessidade do trabalho {#lde-3-03-01}
+#### 3.03.01. 📄 Necessidade do trabalho {#lde-3-03-01}
 
 ##### #️⃣ Q.674 {#q674}
 
@@ -1153,7 +1153,7 @@ A Lei da Natureza impõe aos filhos a obrigação de trabalharem para seus pais?
 
 ---
 
-#### 3.03.02 📄 Limite do trabalho. Repouso {#lde-3-03-02}
+#### 3.03.02. 📄 Limite do trabalho. Repouso {#lde-3-03-02}
 
 ##### #️⃣ Q.682 {#q682}
 
@@ -1236,7 +1236,7 @@ Então, que há de fazer o velho que precisa trabalhar para viver e não pode?
 
 ### 3.04. 🗂️ Lei de reprodução {#lde-3-04}
 
-#### 3.04.01 📄 População do globo {#lde-3-04-01}
+#### 3.04.01. 📄 População do globo {#lde-3-04-01}
 
 ##### #️⃣ Q.686 {#q686}
 
@@ -1265,7 +1265,7 @@ Indo sempre a população na progressão crescente que vemos, chegará tempo em 
 
 ---
 
-#### 3.04.02 📄 Sucessão e aperfeiçoamento das raças {#lde-3-04-02}
+#### 3.04.02. 📄 Sucessão e aperfeiçoamento das raças {#lde-3-04-02}
 
 ##### #️⃣ Q.688 {#q688}
 
@@ -1358,7 +1358,7 @@ Geralmente, os esforços que o homem emprega para conseguir a melhoria das raça
 
 ---
 
-#### 3.04.03 📄 Obstáculos à reprodução {#lde-3-04-03}
+#### 3.04.03. 📄 Obstáculos à reprodução {#lde-3-04-03}
 
 ##### #️⃣ Q.693 {#q693}
 
@@ -1394,7 +1394,7 @@ Que se deve pensar dos usos, cujo efeito consiste em obstar à reprodução, par
 
 ---
 
-#### 3.04.04 📄 Casamento e celibato {#lde-3-04-04}
+#### 3.04.04. 📄 Casamento e celibato {#lde-3-04-04}
 
 ##### #️⃣ Q.695 {#q695}
 
@@ -1471,7 +1471,7 @@ Da parte de certas pessoas, o celibato não será um sacrifício que fazem com o
 
 ---
 
-#### 3.04.05 📄 Poligamia {#lde-3-04-05}
+#### 3.04.05. 📄 Poligamia {#lde-3-04-05}
 
 ##### #️⃣ Q.700 {#q700}
 
@@ -1507,7 +1507,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 
 ### 3.05. 🗂️ Lei de conservação {#lde-3-05}
 
-#### 3.05.01 📄 Instinto de conservação {#lde-3-05-01}
+#### 3.05.01. 📄 Instinto de conservação {#lde-3-05-01}
 
 ##### #️⃣ Q.702 {#q702}
 
@@ -1534,7 +1534,7 @@ Com que fim outorgou Deus a todos os seres vivos o instinto de conservação?
 
 ---
 
-#### 3.05.02 📄 Meios de conservação {#lde-3-05-02}
+#### 3.05.02. 📄 Meios de conservação {#lde-3-05-02}
 
 ##### #️⃣ Q.704 {#q704}
 
@@ -1646,7 +1646,7 @@ Nos mundos de mais apurada organização, têm os seres vivos necessidade de ali
 
 ---
 
-#### 3.05.03 📄 Gozo dos bens terrenos {#lde-3-05-03}
+#### 3.05.03. 📄 Gozo dos bens terrenos {#lde-3-05-03}
 
 ##### #️⃣ Q.711 {#q711}
 
@@ -1734,7 +1734,7 @@ Perto da morte física, ou da morte moral?
 
 ---
 
-#### 3.05.04 📄 Necessário e supérfluo {#lde-3-05-04}
+#### 3.05.04. 📄 Necessário e supérfluo {#lde-3-05-04}
 
 ##### #️⃣ Q.715 {#q715}
 
@@ -1783,7 +1783,7 @@ Que se há de pensar dos que açambarcam os bens da Terra para se proporcionarem
 
 ---
 
-#### 3.05.05 📄 Privações voluntárias. Mortificações {#lde-3-05-05}
+#### 3.05.05. 📄 Privações voluntárias. Mortificações {#lde-3-05-05}
 
 ##### #️⃣ Q.718 {#q718}
 
@@ -1937,7 +1937,7 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 
 ### 3.06. 🗂️ Lei de destruição {#lde-3-06}
 
-#### 3.06.01 📄 Destruição necessária e destruição abusiva {#lde-3-06-01}
+#### 3.06.01. 📄 Destruição necessária e destruição abusiva {#lde-3-06-01}
 
 ##### #️⃣ Q.728 {#q728}
 
@@ -2094,7 +2094,7 @@ Especial merecimento terão os povos que levam ao excesso o escrúpulo, quanto �
 
 ---
 
-#### 3.06.02 📄 Flagelos destruidores {#lde-3-06-02}
+#### 3.06.02. 📄 Flagelos destruidores {#lde-3-06-02}
 
 ##### #️⃣ Q.737 {#q737}
 
@@ -2211,7 +2211,7 @@ Dado é ao homem conjurar os flagelos que o afligem?
 
 ---
 
-#### 3.06.03 📄 Guerras {#lde-3-06-03}
+#### 3.06.03. 📄 Guerras {#lde-3-06-03}
 
 ##### #️⃣ Q.742 {#q742}
 
@@ -2280,7 +2280,7 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 
 ---
 
-#### 3.06.04 📄 Assassínio {#lde-3-06-04}
+#### 3.06.04. 📄 Assassínio {#lde-3-06-04}
 
 ##### #️⃣ Q.746 {#q746}
 
@@ -2372,7 +2372,7 @@ Como se explica que entre alguns povos, já adiantados sob o ponto de vista inte
 
 ---
 
-#### 3.06.05 📄 Crueldade {#lde-3-06-05}
+#### 3.06.05. 📄 Crueldade {#lde-3-06-05}
 
 ##### #️⃣ Q.752 {#q752}
 
@@ -2451,7 +2451,7 @@ A sociedade dos homens de bem se verá algum dia expurgada dos seres malfazejos?
 
 ---
 
-#### 3.06.06 📄 Duelo {#lde-3-06-06}
+#### 3.06.06. 📄 Duelo {#lde-3-06-06}
 
 ##### #️⃣ Q.757 {#q757}
 
@@ -2529,7 +2529,7 @@ Mas não há casos em que a honra se acha verdadeiramente empenhada e em que uma
 
 ---
 
-#### 3.06.07 📄 Pena de morte {#lde-3-06-07}
+#### 3.06.07. 📄 Pena de morte {#lde-3-06-07}
 
 ##### #️⃣ Q.760 {#q760}
 
@@ -2634,7 +2634,7 @@ Que se deve pensar da pena de morte imposta em nome de Deus?
 
 ### 3.07. 🗂️ Lei de sociedade {#lde-3-07}
 
-#### 3.07.01 📄 Necessidade da vida social {#lde-3-07-01}
+#### 3.07.01. 📄 Necessidade da vida social {#lde-3-07-01}
 
 ##### #️⃣ Q.766 {#q766}
 
@@ -2685,7 +2685,7 @@ Procurando a sociedade, não fará o homem mais do que obedecer a um sentimento 
 
 ---
 
-#### 3.07.02 📄 Vida de insulamento. Voto de silêncio {#lde-3-07-02}
+#### 3.07.02. 📄 Vida de insulamento. Voto de silêncio {#lde-3-07-02}
 
 ##### #️⃣ Q.769 {#q769}
 
@@ -2774,7 +2774,7 @@ Que pensar do voto de silêncio prescrito por algumas seitas, desde a mais remot
 
 ---
 
-#### 3.07.03 📄 Laços de família {#lde-3-07-03}
+#### 3.07.03. 📄 Laços de família {#lde-3-07-03}
 
 ##### #️⃣ Q.773 {#q773}
 
@@ -2821,7 +2821,7 @@ Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 
 ### 3.08. 🗂️ Lei do progresso {#lde-3-08}
 
-#### 3.08.01 📄 Estado de natureza {#lde-3-08-01}
+#### 3.08.01. 📄 Estado de natureza {#lde-3-08-01}
 
 ##### #️⃣ Q.776 {#q776}
 
@@ -2868,7 +2868,7 @@ Pode o homem retrogradar para o estado de natureza?
 
 ---
 
-#### 3.08.02 📄 Marcha do progresso {#lde-3-08-02}
+#### 3.08.02. 📄 Marcha do progresso {#lde-3-08-02}
 
 ##### #️⃣ Q.779 {#q779}
 
@@ -3026,7 +3026,7 @@ Qual o maior obstáculo ao progresso?
 
 ---
 
-#### 3.08.03 📄 Povos degenerados {#lde-3-08-03}
+#### 3.08.03. 📄 Povos degenerados {#lde-3-08-03}
 
 ##### #️⃣ Q.786 {#q786}
 
@@ -3136,7 +3136,7 @@ Comparemos esta teoria do progresso com a que os Espíritos apresentaram. As alm
 
 ---
 
-#### 3.08.04 📄 Civilização {#lde-3-08-04}
+#### 3.08.04. 📄 Civilização {#lde-3-08-04}
 
 ##### #️⃣ Q.790 {#q790}
 
@@ -3224,7 +3224,7 @@ De duas nações que tenham chegado ao ápice da escala social, somente pode con
 
 ---
 
-#### 3.08.05 📄 Progresso da legislação humana {#lde-3-08-05}
+#### 3.08.05. 📄 Progresso da legislação humana {#lde-3-08-05}
 
 ##### #️⃣ Q.794 {#q794}
 
@@ -3287,7 +3287,7 @@ Como poderá o homem ser levado a reformar suas leis?
 
 ---
 
-#### 3.08.06 📄 Influência do Espiritismo no progresso {#lde-3-08-06}
+#### 3.08.06. 📄 Influência do Espiritismo no progresso {#lde-3-08-06}
 
 ##### #️⃣ Q.798 {#q798}
 
@@ -3374,7 +3374,7 @@ Visto que o Espiritismo tem que marcar um progresso da Humanidade, por que não 
 
 ### 3.09. 🗂️ Lei de igualdade {#lde-3-09}
 
-#### 3.09.01 📄 Igualdade natural {#lde-3-09-01}
+#### 3.09.01. 📄 Igualdade natural {#lde-3-09-01}
 
 ##### #️⃣ Q.803 {#q803}
 
@@ -3390,7 +3390,7 @@ Perante Deus, são iguais todos os homens?
 
 ---
 
-#### 3.09.02 📄 Desigualdade das aptidões {#lde-3-09-02}
+#### 3.09.02. 📄 Desigualdade das aptidões {#lde-3-09-02}
 
 ##### #️⃣ Q.804 {#q804}
 
@@ -3424,7 +3424,7 @@ Passando de um mundo superior a outro inferior, conserva o Espírito, integralme
 
 ---
 
-#### 3.09.03 📄 Desigualdades sociais {#lde-3-09-03}
+#### 3.09.03. 📄 Desigualdades sociais {#lde-3-09-03}
 
 ##### #️⃣ Q.806 {#q806}
 
@@ -3472,7 +3472,7 @@ Veja [Q.684](#q684)
 
 ---
 
-#### 3.09.04 📄 Desigualdade das riquezas {#lde-3-09-04}
+#### 3.09.04. 📄 Desigualdade das riquezas {#lde-3-09-04}
 
 ##### #️⃣ Q.808 {#q808}
 
@@ -3604,7 +3604,7 @@ Veja [Q.685](#q685)
 
 ---
 
-#### 3.09.05 📄 As provas de riqueza e de miséria {#lde-3-09-05}
+#### 3.09.05. 📄 As provas de riqueza e de miséria {#lde-3-09-05}
 
 ##### #️⃣ Q.814 {#q814}
 
@@ -3664,7 +3664,7 @@ A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e
 
 ---
 
-#### 3.09.06 📄 Igualdade dos direitos do homem e da mulher {#lde-3-09-06}
+#### 3.09.06. 📄 Igualdade dos direitos do homem e da mulher {#lde-3-09-06}
 
 ##### #️⃣ Q.817 {#q817}
 
@@ -3767,7 +3767,7 @@ Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a ig
 
 ---
 
-#### 3.09.07 📄 Igualdade perante o túmulo {#lde-3-09-07}
+#### 3.09.07. 📄 Igualdade perante o túmulo {#lde-3-09-07}
 
 ##### #️⃣ Q.823 {#q823}
 
@@ -3809,7 +3809,7 @@ Reprovais então, de modo absoluto, a pompa dos funerais?
 
 ### 3.10. 🗂️ Lei de liberdade {#lde-3-10}
 
-#### 3.10.01 📄 Liberdade natural {#lde-3-10-01}
+#### 3.10.01. 📄 Liberdade natural {#lde-3-10-01}
 
 ##### #️⃣ Q.825 {#q825}
 
@@ -3871,7 +3871,7 @@ Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram nes
 
 ---
 
-#### 3.10.02 📄 Escravidão {#lde-3-10-02}
+#### 3.10.02. 📄 Escravidão {#lde-3-10-02}
 
 ##### #️⃣ Q.829 {#q829}
 
@@ -3933,7 +3933,7 @@ Há, no entanto, homens que tratam seus escravos com humanidade; que não deixam
 
 ---
 
-#### 3.10.03 📄 Liberdade de pensar {#lde-3-10-03}
+#### 3.10.03. 📄 Liberdade de pensar {#lde-3-10-03}
 
 ##### #️⃣ Q.833 {#q833}
 
@@ -3959,7 +3959,7 @@ Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze
 
 ---
 
-#### 3.10.04 📄 Liberdade de consciência {#lde-3-10-04}
+#### 3.10.04. 📄 Liberdade de consciência {#lde-3-10-04}
 
 ##### #️⃣ Q.835 {#q835}
 
@@ -4079,7 +4079,7 @@ Por que indícios se poderá reconhecer, entre todas as doutrinas que alimentam 
 
 ---
 
-#### 3.10.05 📄 Livre-arbítrio {#lde-3-10-05}
+#### 3.10.05. 📄 Livre-arbítrio {#lde-3-10-05}
 
 ##### #️⃣ Q.843 {#q843}
 
@@ -4195,7 +4195,7 @@ A posição social não constitui às vezes, para o homem, obstáculo à inteira
 
 ---
 
-#### 3.10.06 📄 Fatalidade {#lde-3-10-06}
+#### 3.10.06. 📄 Fatalidade {#lde-3-10-06}
 
 ##### #️⃣ Q.851 {#q851}
 
@@ -4464,7 +4464,7 @@ Donde vem a expressão: Nascer sob uma boa estrela?
 
 ---
 
-#### 3.10.07 📄 Conhecimento do futuro {#lde-3-10-07}
+#### 3.10.07. 📄 Conhecimento do futuro {#lde-3-10-07}
 
 ##### #️⃣ Q.868 {#q868}
 
@@ -4563,7 +4563,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ### 3.11. 🗂️ Lei de justiça, de amor, e de caridade {#lde-3-11}
 
-#### 3.11.01 📄 Justiça e direitos naturais {#lde-3-11-01}
+#### 3.11.01. 📄 Justiça e direitos naturais {#lde-3-11-01}
 
 ##### #️⃣ Q.873 {#q873}
 
@@ -4699,7 +4699,7 @@ Qual seria o caráter do homem que praticasse a justiça em toda a sua pureza?
 
 ---
 
-#### 3.11.02 📄 Direito de propriedade. Roubo {#lde-3-11-02}
+#### 3.11.02. 📄 Direito de propriedade. Roubo {#lde-3-11-02}
 
 ##### #️⃣ Q.880 {#q880}
 
@@ -4823,7 +4823,7 @@ Será ilimitado o direito de propriedade?
 
 ---
 
-#### 3.11.03 📄 Caridade e amor do próximo {#lde-3-11-03}
+#### 3.11.03. 📄 Caridade e amor do próximo {#lde-3-11-03}
 
 ##### #️⃣ Q.886 {#q886}
 
@@ -4942,7 +4942,7 @@ Não há homens que se veem condenados a mendigar por culpa sua?
 
 ---
 
-#### 3.11.04 📄 Amor materno e filial {#lde-3-11-04}
+#### 3.11.04. 📄 Amor materno e filial {#lde-3-11-04}
 
 ##### #️⃣ Q.890 {#q890}
 
@@ -4984,7 +4984,7 @@ Quando os filhos causam desgostos aos pais, não têm estes desculpa para o fato
 
 ### 3.12. 🗂️ Perfeição moral {#lde-3-12}
 
-#### 3.12.01 📄 As virtudes e os vícios {#lde-3-12-01}
+#### 3.12.01. 📄 As virtudes e os vícios {#lde-3-12-01}
 
 ##### #️⃣ Q.893 {#q893}
 
@@ -5225,7 +5225,7 @@ Será passível de censura o homem, por ter consciência do bem que faz e por co
 
 ---
 
-#### 3.12.02 📄 Paixões {#lde-3-12-02}
+#### 3.12.02. 📄 Paixões {#lde-3-12-02}
 
 ##### #️⃣ Q.907 {#q907}
 
@@ -5313,7 +5313,7 @@ Qual o meio mais eficiente de combater-se o predomínio da natureza corpórea?
 
 ---
 
-#### 3.12.03 📄 O egoísmo {#lde-3-12-03}
+#### 3.12.03. 📄 O egoísmo {#lde-3-12-03}
 
 ##### #️⃣ Q.913 {#q913}
 
@@ -5402,7 +5402,7 @@ O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virt
 
 ---
 
-#### 3.12.04 📄 Caracteres do homem de bem {#lde-3-12-04}
+#### 3.12.04. 📄 Caracteres do homem de bem {#lde-3-12-04}
 
 ##### #️⃣ Q.918 {#q918}
 
@@ -5442,7 +5442,7 @@ Respeita, enfim, em seus semelhantes, todos os direitos que as Leis da Natureza 
 
 ---
 
-#### 3.12.05 📄 Conhecimento de si mesmo {#lde-3-12-05}
+#### 3.12.05. 📄 Conhecimento de si mesmo {#lde-3-12-05}
 
 ##### #️⃣ Q.919 {#q919}
 

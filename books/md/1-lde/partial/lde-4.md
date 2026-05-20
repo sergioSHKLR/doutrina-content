@@ -3,7 +3,7 @@
 
 ### 4.01. 🗂️ Penas e felicidades materiais {#lde-4-01}
 
-#### 4.01.01 📄 Felicidade e infelicidade relativas {#lde-4-01-01}
+#### 4.01.01. 📄 Felicidade e infelicidade relativas {#lde-4-01-01}
 
 ##### #️⃣ Q.920 {#q920}
 
@@ -272,7 +272,7 @@ Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as
 
 ---
 
-#### 4.01.02 📄 Perda dos entes queridos {#lde-4-01-02}
+#### 4.01.02. 📄 Perda dos entes queridos {#lde-4-01-02}
 
 ##### #️⃣ Q.934 {#q934}
 
@@ -333,7 +333,7 @@ Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos pare
 
 ---
 
-#### 4.01.03 📄 Decepções. Ingratidão. Afeições destruídas {#lde-4-01-03}
+#### 4.01.03. 📄 Decepções. Ingratidão. Afeições destruídas {#lde-4-01-03}
 
 ##### #️⃣ Q.937 {#q937}
 
@@ -383,7 +383,7 @@ Mas isso não impede que se lhe ulcere o coração. Ora, daí não poderá nasce
 
 ---
 
-#### 4.01.04 📄 Uniões antipáticas {#lde-4-01-04}
+#### 4.01.04. 📄 Uniões antipáticas {#lde-4-01-04}
 
 ##### #️⃣ Q.939 {#q939}
 
@@ -432,7 +432,7 @@ Mas, nesse caso, não há quase sempre uma vítima inocente?
 
 ---
 
-#### 4.01.05 📄 Temor da morte {#lde-4-01-05}
+#### 4.01.05. 📄 Temor da morte {#lde-4-01-05}
 
 ##### #️⃣ Q.941 {#q941}
 
@@ -468,7 +468,7 @@ Pessoas não haverá que achem um tanto banais esses conselhos para ser-se feliz
 
 ---
 
-#### 4.01.06 📄 Desgosto da vida. Suicídio {#lde-4-01-06}
+#### 4.01.06. 📄 Desgosto da vida. Suicídio {#lde-4-01-06}
 
 ##### #️⃣ Q.943 {#q943}
 
@@ -761,7 +761,7 @@ A religião, a moral, todas as filosofias condenam o suicídio como contrário �
 
 ### 4.02. 🗂️ Penas e felicidades futuras {#lde-4-02}
 
-#### 4.02.01 📄 O nada. Vida futura {#lde-4-02-01}
+#### 4.02.01. 📄 O nada. Vida futura {#lde-4-02-01}
 
 ##### #️⃣ Q.958 {#q958}
 
@@ -797,7 +797,7 @@ A vida futura implica a conservação da nossa individualidade, após a morte. C
 
 ---
 
-#### 4.02.02 📄 Intuição das penas e gozos futuros {#lde-4-02-02}
+#### 4.02.02. 📄 Intuição das penas e gozos futuros {#lde-4-02-02}
 
 ##### #️⃣ Q.960 {#q960}
 
@@ -849,7 +849,7 @@ A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e d
 
 ---
 
-#### 4.02.03 📄 Intervenção de Deus nas penas e recompensas {#lde-4-02-03}
+#### 4.02.03. 📄 Intervenção de Deus nas penas e recompensas {#lde-4-02-03}
 
 ##### #️⃣ Q.963 {#q963}
 
@@ -890,7 +890,7 @@ Não é verdade que esse campo produzirá na razão dos cuidados que forem dispe
 
 ---
 
-#### 4.02.04 📄 Natureza das penas e gozos futuros {#lde-4-02-04}
+#### 4.02.04. 📄 Natureza das penas e gozos futuros {#lde-4-02-04}
 
 ##### #️⃣ Q.965 {#q965}
 
@@ -1256,7 +1256,7 @@ Será necessário que professemos o Espiritismo e creiamos nas manifestações e
 
 ---
 
-#### 4.02.05 📄 Penas temporais {#lde-4-02-05}
+#### 4.02.05. 📄 Penas temporais {#lde-4-02-05}
 
 ##### #️⃣ Q.983 {#q983}
 
@@ -1363,7 +1363,7 @@ Pessoas há que, se bem não sejam positivamente más, tornam infelizes, pelos s
 
 ---
 
-#### 4.02.06 📄 Expiação e arrependimento {#lde-4-02-06}
+#### 4.02.06. 📄 Expiação e arrependimento {#lde-4-02-06}
 
 ##### #️⃣ Q.990 {#q990}
 
@@ -1591,7 +1591,7 @@ Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já
 
 ---
 
-#### 4.02.07 📄 Duração das penas futuras {#lde-4-02-07}
+#### 4.02.07. 📄 Duração das penas futuras {#lde-4-02-07}
 
 ##### #️⃣ Q.1003 {#q1003}
 
@@ -1740,7 +1740,7 @@ Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao T
 
 ---
 
-#### 4.02.08 📄 Ressurreição da carne {#lde-4-02-08}
+#### 4.02.08. 📄 Ressurreição da carne {#lde-4-02-08}
 
 ##### #️⃣ Q.1010 {#q1010}
 
@@ -1777,7 +1777,7 @@ Assim, pelo dogma da ressurreição da carne, a própria Igreja ensina a doutrin
 
 ---
 
-#### 4.02.09 📄 Paraíso, inferno e purgatório {#lde-4-02-09}
+#### 4.02.09. 📄 Paraíso, inferno e purgatório {#lde-4-02-09}
 
 ##### #️⃣ Q.1012 {#q1012}
 
