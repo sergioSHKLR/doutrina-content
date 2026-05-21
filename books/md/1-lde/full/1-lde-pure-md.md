@@ -32,118 +32,8 @@ disclaimer: |
   Agradecemos à Federação Espírita Brasileira pela preservação e divulgação da Doutrina Espírita.
 
 # =============================================================================
-# TAXONOMY & ORGANIZATION
-# =============================================================================
-tags:
-  - "espiritismo"
-  - "allan-kardec"
-  - "doutrina-espírita"
-  - "filosofia-espiritualista"
-  - "reencarnação"
-  - "lei-moral"
-  - "vida-futura"
-  - "perispírito"
-  - "obras-básicas"
-  - "kardecismo"
-  - "dominio-publico"
-
-categories:
-  - "Obras Básicas do Espiritismo"
-  - "Livros de Allan Kardec"
-  - "Doutrina Espírita"
-
-series: "Obras Básicas do Espiritismo"
-seriesPosition: 1
-
-# =============================================================================
-# SITE & NAVIGATION
-# =============================================================================
-layout: "lde"
-permalink: "/lde/"
-date: "2025-05-18"
-updated: "{{ currentDate }}"
-draft: false
-featured: true
-toc: true
-showMetadata: true
-showIndex: true
-showTags: true
-showExpanders: true
-showSpiritQuotes: true
-
-eleventyNavigation:
-  key: "O Livro dos Espíritos"
-  parent: "Obras de Allan Kardec"
-  order: 1
-
-# =============================================================================
-# VISUALS
-# =============================================================================
-cover: "/images/lde-cover-oficial.jpg"
-ogImage: "/images/lde-cover-oficial.jpg"
-heroImage: "/images/lde-ai-reimagined.jpg"
-thumbnail: "/images/lde-cover-oficial.jpg"
-
-# =============================================================================
-# CONTENT STRUCTURE
-# =============================================================================
-contentStructure:
-  preTextual:
-    - "Folha de rosto"
-    - "Prefácio"
-    - "Introdução"
-  mainParts:
-    - name: "Parte Primeira"
-      chapters: 4
-    - name: "Parte Segunda"
-      chapters: 11
-    - name: "Parte Terceira"
-      chapters: 12
-    - name: "Parte Quarta"
-      chapters: 2
-  questions: 1019
-  notes: true
-  index: true
-  tagsIndex: true
-  questionMap: true
-
-# =============================================================================
-# METADATA & SEO
-# =============================================================================
-excerpt: "A obra fundamental do Espiritismo, codificada por Allan Kardec na tradução clássica de Guillon Ribeiro."
-readingTime: "≈ 18 horas"
-wordCount: "≈ 185.000"
-difficulty: "Intermediário"
-
-schemaType: "Book"
-schema:
-  bookFormat: "EBook"
-  genre: "ReligiousText"
-  inLanguage: "pt-BR"
-  numberOfPages: 526
-  about:
-    - "Espiritismo"
-    - "Reencarnação"
-    - "Imortalidade da Alma"
-    - "Leis Morais"
-  author:
-    name: "Allan Kardec"
-    url: "https://pt.wikipedia.org/wiki/Allan_Kardec"
-  publisher:
-    name: "Federação Espírita Brasileira"
-    url: "https://www.febeditora.com.br"
-  datePublished: "1857"
-  dateModified: "2019"
-  isPartOf: "Obras Básicas do Espiritismo"
-
-# =============================================================================
 # CUSTOM FEATURES & EMOJIS
 # =============================================================================
-metadata:
-  sourceFile: "1-lde-full.md"
-  processedBy: "doutrina.org digital edition"
-  license: "Uso educacional e doutrinário"
-  spiritualSignature: "Espírito da Verdade, São Luís, São Vicente de Paulo, etc."
 
 emojiDefinitions:
   Publicações:
@@ -182,7 +72,7 @@ emojiDefinitions:
 
 ### 0.00. ⚖️ Avisos Legais {#lde-0-00}
 
-::: grey-center
+
 **Edição Digital Educacional • Domínio Público**
 
 Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
@@ -201,7 +91,7 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 
 ### 0.01. 📄 Folha de rosto {#lde-0-01}
 
-::: grey-center
+
 
 Filosofia Espiritualista
 
@@ -229,47 +119,47 @@ Baseada no ISBN 978-85-7328-728-8
 Clique nos itens para navegar
 
 **Parte 0. 🗃️ Pré-textual**
-[0.00 ⚖️ Avisos Legais](#lde-0-00)
-[0.01 📄 Folha de rosto](#lde-0-01)
-[0.02 🗂️ Prefácio](#lde-0-03)
-[0.03 🗂️ Introdução](#lde-0-04)
+- [0.00 ⚖️ Avisos Legais](#lde-0-00)
+- [0.01 📄 Folha de rosto](#lde-0-01)
+- [0.02 🗂️ Prefácio](#lde-0-03)
+- [0.03 🗂️ Introdução](#lde-0-04)
 
 **Parte 1. 🗃️ Causas primárias**
-[1.01. 🗂️ Deus](#lde-1-01)
-[1.02. 🗂️ Elementos gerais do Universo](#lde-1-02)
-[1.03. 🗂️ Criação](#lde-1-03)
-[1.04. 🗂️ Princípio vital](#lde-1-04)
+- [1.01. 🗂️ Deus](#lde-1-01)
+- [1.02. 🗂️ Elementos gerais do Universo](#lde-1-02)
+- [1.03. 🗂️ Criação](#lde-1-03)
+- [1.04. 🗂️ Princípio vital](#lde-1-04)
 
 **Parte 2. 🗃️ Mundo espiritual**
-[2.01. 🗂️ Espíritos](#lde-2-01)
-[2.02. 🗂️ Encarnação](#lde-2-02)
-[2.03. 🗂️ Retorno à vida espiritual](#lde-2-03)
-[2.04. 🗂️ Pluralidade das existências](#lde-2-04)
-[2.05. 🗂️ Considerações sobre a pluralidade das existências](#lde-2-05)
-[2.06. 🗂️ Vida espírita](#lde-2-06)
-[2.07. 🗂️ Volta à vida material](#lde-2-07)
-[2.08. 🗂️ Emancipação da alma](#lde-2-08)
-[2.09. 🗂️ Intervenção no mundo material](#lde-2-09)
-[2.10. 🗂️ Ocupações e missões](#lde-2-10)
-[2.11. 🗂️ Os três reinos](#lde-2-11)
+- [2.01. 🗂️ Espíritos](#lde-2-01)
+- [2.02. 🗂️ Encarnação](#lde-2-02)
+- [2.03. 🗂️ Retorno à vida espiritual](#lde-2-03)
+- [2.04. 🗂️ Pluralidade das existências](#lde-2-04)
+- [2.05. 🗂️ Considerações sobre a pluralidade das existências](#lde-2-05)
+- [2.06. 🗂️ Vida espírita](#lde-2-06)
+- [2.07. 🗂️ Volta à vida material](#lde-2-07)
+- [2.08. 🗂️ Emancipação da alma](#lde-2-08)
+- [2.09. 🗂️ Intervenção no mundo material](#lde-2-09)
+- [2.10. 🗂️ Ocupações e missões](#lde-2-10)
+- [2.11. 🗂️ Os três reinos](#lde-2-11)
 
 **Parte 3. 🗃️ Leis morais**
-[3.01. 🗂️ Lei divina](#lde-3-01)
-[3.02. 🗂️ Lei de adoração](#lde-3-02)
-[3.03. 🗂️ Lei do trabalho](#lde-3-03)
-[3.04. 🗂️ Lei de reprodução](#lde-3-04)
-[3.05. 🗂️ Lei de conservação](#lde-3-05)
-[3.06. 🗂️ Lei de destruição](#lde-3-06)
-[3.07. 🗂️ Lei de sociedade](#lde-3-07)
-[3.08. 🗂️ Lei do progresso](#lde-3-08)
-[3.09. 🗂️ Lei de igualdade](#lde-3-09)
-[3.10. 🗂️ Lei de liberdade](#lde-3-10)
-[3.11. 🗂️ Lei de justiça, de amor, e de caridade](#lde-3-11)
-[3.12. 🗂️ Perfeição moral](#lde-3-12)
+- [3.01. 🗂️ Lei divina](#lde-3-01)
+- [3.02. 🗂️ Lei de adoração](#lde-3-02)
+- [3.03. 🗂️ Lei do trabalho](#lde-3-03)
+- [3.04. 🗂️ Lei de reprodução](#lde-3-04)
+- [3.05. 🗂️ Lei de conservação](#lde-3-05)
+- [3.06. 🗂️ Lei de destruição](#lde-3-06)
+- [3.07. 🗂️ Lei de sociedade](#lde-3-07)
+- [3.08. 🗂️ Lei do progresso](#lde-3-08)
+- [3.09. 🗂️ Lei de igualdade](#lde-3-09)
+- [3.10. 🗂️ Lei de liberdade](#lde-3-10)
+- [3.11. 🗂️ Lei de justiça, de amor, e de caridade](#lde-3-11)
+- [3.12. 🗂️ Perfeição moral](#lde-3-12)
 
 **Parte 4. 🗃️ Esperanças e Consolações**
-[4.01. 🗂️ Penas e felicidades materiais](#lde-4-01)
-[4.02. 🗂️ Penas e felicidades futuras](#lde-4-02)
+- [4.01. 🗂️ Penas e felicidades materiais](#lde-4-01)
+- [4.02. 🗂️ Penas e felicidades futuras](#lde-4-02)
 
 **[Parte 5. 🗃️ Conclusão](#lde-5)**
 
@@ -281,7 +171,7 @@ Clique nos itens para navegar
 
 ### 0.03. 📄 Prefácio {#lde-0-03}
 
-::: grey-center
+
 ![Cepa Espírita](/images/vine.png)
 Interpretação artística do desenho original (mediúnico).
 
@@ -347,25 +237,25 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ### 0.04. 🗂️ Introdução {#lde-0-04}
 
 Neste capítulo:
-[0.03.01. 📄 Intro 01](#lde-0-04-01)
-[0.03.02. 📄 Intro 02](#lde-0-04-02)
-[0.03.03. 📄 Intro 03](#lde-0-04-03)
-[0.03.04. 📄 Intro 04](#lde-0-04-04)
-[0.03.05. 📄 Intro 05](#lde-0-04-05)
-[0.03.06. 📄 Intro 06](#lde-0-04-06)
-[0.03.07. 📄 Intro 07](#lde-0-04-07)
-[0.03.08. 📄 Intro 08](#lde-0-04-08)
-[0.03.09. 📄 Intro 09](#lde-0-04-09)
-[0.03.10. 📄 Intro 10](#lde-0-04-10)
-[0.03.11. 📄 Intro 11](#lde-0-04-11)
-[0.03.12. 📄 Intro 12](#lde-0-04-12)
-[0.03.13. 📄 Intro 13](#lde-0-04-13)
-[0.03.14. 📄 Intro 14](#lde-0-04-14)
-[0.03.15. 📄 Intro 15](#lde-0-04-15)
-[0.03.16. 📄 Intro 16](#lde-0-04-16)
-[0.03.17. 📄 Intro 17](#lde-0-04-17)
+- [0.03.01. 📄 Intro 01](#lde-0-04-01)
+- [0.03.02. 📄 Intro 02](#lde-0-04-02)
+- [0.03.03. 📄 Intro 03](#lde-0-04-03)
+- [0.03.04. 📄 Intro 04](#lde-0-04-04)
+- [0.03.05. 📄 Intro 05](#lde-0-04-05)
+- [0.03.06. 📄 Intro 06](#lde-0-04-06)
+- [0.03.07. 📄 Intro 07](#lde-0-04-07)
+- [0.03.08. 📄 Intro 08](#lde-0-04-08)
+- [0.03.09. 📄 Intro 09](#lde-0-04-09)
+- [0.03.10. 📄 Intro 10](#lde-0-04-10)
+- [0.03.11. 📄 Intro 11](#lde-0-04-11)
+- [0.03.12. 📄 Intro 12](#lde-0-04-12)
+- [0.03.13. 📄 Intro 13](#lde-0-04-13)
+- [0.03.14. 📄 Intro 14](#lde-0-04-14)
+- [0.03.15. 📄 Intro 15](#lde-0-04-15)
+- [0.03.16. 📄 Intro 16](#lde-0-04-16)
+- [0.03.17. 📄 Intro 17](#lde-0-04-17)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 0.03.01. 📄 Intro 01 {#lde-0-04-01}
 
@@ -791,12 +681,12 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 ### 1.01. 🗂️ Deus {#lde-1-01}
 
 Neste capítulo:
-[1.01.01. 📄 Deus e o infinito](#lde-1-01-01)
-[1.01.02. 📄 Provas da existência de Deus](#lde-1-01-02)
-[1.01.03. 📄 Atributos da Divindade](#lde-1-01-03)
-[1.01.04. 📄 Panteísmo](#lde-1-01-04)
+- [1.01.01. 📄 Deus e o infinito](#lde-1-01-01)
+- [1.01.02. 📄 Provas da existência de Deus](#lde-1-01-02)
+- [1.01.03. 📄 Atributos da Divindade](#lde-1-01-03)
+- [1.01.04. 📄 Panteísmo](#lde-1-01-04)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 1.01.01. 📄 Deus e o infinito {#lde-1-01-01}
 
@@ -986,12 +876,12 @@ Pretendem os que professam esta doutrina achar nela a demonstração de alguns d
 ### 1.02. 🗂️ Elementos gerais do Universo {#lde-1-02}
 
 Neste capítulo:
-[1.02.01. 📄 Conhecimento do princípio das coisas](#lde-1-02-01)
-[1.02.02. 📄 Espírito e Matéria](#lde-1-02-02)
-[1.02.03. 📄 Propriedades da Matéria](#lde-1-02-03)
-[1.02.04. 📄 Espaço universal](#lde-1-02-04)
+- [1.02.01. 📄 Conhecimento do princípio das coisas](#lde-1-02-01)
+- [1.02.02. 📄 Espírito e Matéria](#lde-1-02-02)
+- [1.02.03. 📄 Propriedades da Matéria](#lde-1-02-03)
+- [1.02.04. 📄 Espaço universal](#lde-1-02-04)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 1.02.01. 📄 Conhecimento do princípio das coisas {#lde-1-02-01}
 
@@ -1250,14 +1140,14 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 ### 1.03. 🗂️ Criação {#lde-1-03}
 
 Neste capítulo:
-[1.03.01. 📄 Formação dos mundos](#lde-1-03-01)
-[1.03.02. 📄 Formação dos seres vivos](#lde-1-03-02)
-[1.03.03. 📄 Povoamento da Terra. Adão](#lde-1-03-03)
-[1.03.04. 📄 Diversidade das raças humanas](#lde-1-03-04)
-[1.03.05. 📄 Pluralidade dos mundos](#lde-1-03-04)
-[1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação](#lde-1-03-04)
+- [1.03.01. 📄 Formação dos mundos](#lde-1-03-01)
+- [1.03.02. 📄 Formação dos seres vivos](#lde-1-03-02)
+- [1.03.03. 📄 Povoamento da Terra. Adão](#lde-1-03-03)
+- [1.03.04. 📄 Diversidade das raças humanas](#lde-1-03-04)
+- [1.03.05. 📄 Pluralidade dos mundos](#lde-1-03-04)
+- [1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação](#lde-1-03-04)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 1.03.01. 📄 Formação dos mundos {#lde-1-03-01}
 
@@ -1514,11 +1404,11 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 ### 1.04. 🗂️ Princípio Vital {#lde-1-04}
 
 Neste capítulo:
-[1.04.01. 📄 Seres orgânicos e inorgânicos](#lde-1-04-01)
-[1.04.02. 📄 A vida e a morte](#lde-1-04-02)
-[1.04.03. 📄 Inteligência e instinto](#lde-1-04-03)
+- [1.04.01. 📄 Seres orgânicos e inorgânicos](#lde-1-04-01)
+- [1.04.02. 📄 A vida e a morte](#lde-1-04-02)
+- [1.04.03. 📄 Inteligência e instinto](#lde-1-04-03)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 1.04.01. 📄 Seres orgânicos e inorgânicos {#lde-1-04-01}
 
@@ -1756,19 +1646,19 @@ Por que nem sempre é guia infalível a razão?
 ### 2.01. 🗂️ Espíritos {#lde-2-01}
 
 Neste capítulo:
-[2.01.01. 📄 Origem e natureza dos Espíritos](#lde-2-01-01)
-[2.01.02. 📄 Mundo normal primitivo](#lde-2-01-02)
-[2.01.03. 📄 Forma e ubiquidade dos Espíritos](#lde-2-01-03)
-[2.01.04. 📄 Perispírito](#lde-2-01-04)
-[2.01.05. 📄 Diferentes ordens de Espíritos](#lde-2-01-05)
-[2.01.06. 📄 Escala espírita](#lde-2-01-06)
-[2.01.07. 📄 3ª ordem – Espíritos imperfeitos](#lde-2-01-07)
-[2.01.08. 📄 2ª ordem – Bons Espíritos](#lde-2-01-08)
-[2.01.09. 📄 1ª ordem – Espíritos puros](#lde-2-01-09)
-[2.01.10. 📄 Progressão dos Espíritos](#lde-2-01-10)
-[2.01.11. 📄 Anjos e demônios](#lde-2-01-11)
+- [2.01.01. 📄 Origem e natureza dos Espíritos](#lde-2-01-01)
+- [2.01.02. 📄 Mundo normal primitivo](#lde-2-01-02)
+- [2.01.03. 📄 Forma e ubiquidade dos Espíritos](#lde-2-01-03)
+- [2.01.04. 📄 Perispírito](#lde-2-01-04)
+- [2.01.05. 📄 Diferentes ordens de Espíritos](#lde-2-01-05)
+- [2.01.06. 📄 Escala espírita](#lde-2-01-06)
+- [2.01.07. 📄 3ª ordem – Espíritos imperfeitos](#lde-2-01-07)
+- [2.01.08. 📄 2ª ordem – Bons Espíritos](#lde-2-01-08)
+- [2.01.09. 📄 1ª ordem – Espíritos puros](#lde-2-01-09)
+- [2.01.10. 📄 Progressão dos Espíritos](#lde-2-01-10)
+- [2.01.11. 📄 Anjos e demônios](#lde-2-01-11)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 2.01.01. 📄 Origem e natureza dos Espíritos {#lde-2-01-01}
 
@@ -2442,11 +2332,11 @@ Há demônios, no sentido que se dá a esta palavra?
 ### 2.02. 🗂️ Encarnação {#lde-2-02}
 
 Neste capítulo:
-[2.02.01. 📄 Objetivo da encarnação](#lde-2-02-01)
-[2.02.02. 📄 A alma](#lde-2-02-02)
-[2.02.03. 📄 Materialismo](#lde-2-02-03)
+- [2.02.01. 📄 Objetivo da encarnação](#lde-2-02-01)
+- [2.02.02. 📄 A alma](#lde-2-02-02)
+- [2.02.03. 📄 Materialismo](#lde-2-02-03)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 2.02.01. 📄 Objetivo da encarnação {#lde-2-02-01}
 
@@ -2721,11 +2611,11 @@ Não é de lastimar que o materialismo seja uma consequência de estudos que dev
 ### 2.03. 🗂️ Retorno à vida espiritual {#lde-2-03}
 
 Neste capítulo:
-[2.03.01. 📄 A alma após a morte. Vida eterna](#lde-2-03-01)
-[2.03.02. 📄 Separação da alma e do corpo](#lde-2-03-02)
-[2.03.03. 📄 Perturbação espiritual](#lde-2-03-03)
+- [2.03.01. 📄 A alma após a morte. Vida eterna](#lde-2-03-01)
+- [2.03.02. 📄 Separação da alma e do corpo](#lde-2-03-02)
+- [2.03.03. 📄 Perturbação espiritual](#lde-2-03-03)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 2.03.01. 📄 A alma após a morte. Vida eterna {#lde-2-03-01}
 
@@ -2965,17 +2855,17 @@ O conhecimento do Espiritismo exerce alguma influência sobre a duração, mais 
 ### 2.04. 🗂️ Pluralidade das existências {#lde-2-04}
 
 Neste capítulo:
-[2.04.01. 📄 A reencarnação](#lde-2-04-01)
-[2.04.02. 📄 Justiça da reencarnação](#lde-2-04-02)
-[2.04.03. 📄 Encarnação nos diferentes mundos](#lde-2-04-03)
-[2.04.04. 📄 Transmigrações progressivas](#lde-2-04-04)
-[2.04.05. 📄 Sorte das crianças depois da morte](#lde-2-04-05)
-[2.04.06. 📄 Sexos nos Espíritos](#lde-2-04-06)
-[2.04.07. 📄 Parentesco, filiação](#lde-2-04-07)
-[2.04.08. 📄 Parecenças físicas e morais](#lde-2-04-08)
-[2.04.09. 📄 Ideias inatas](#lde-2-04-09)
+- [2.04.01. 📄 A reencarnação](#lde-2-04-01)
+- [2.04.02. 📄 Justiça da reencarnação](#lde-2-04-02)
+- [2.04.03. 📄 Encarnação nos diferentes mundos](#lde-2-04-03)
+- [2.04.04. 📄 Transmigrações progressivas](#lde-2-04-04)
+- [2.04.05. 📄 Sorte das crianças depois da morte](#lde-2-04-05)
+- [2.04.06. 📄 Sexos nos Espíritos](#lde-2-04-06)
+- [2.04.07. 📄 Parentesco, filiação](#lde-2-04-07)
+- [2.04.08. 📄 Parecenças físicas e morais](#lde-2-04-08)
+- [2.04.09. 📄 Ideias inatas](#lde-2-04-09)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 2.04.01. 📄 A reencarnação {#lde-2-04-01}
 
@@ -3909,17 +3799,17 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito:
 ### 2.06. 🗂️ Vida espírita {#lde-2-06}
 
 Neste capítulo:
-[2.06.01. 📄 Espíritos errantes](#lde-2-06-01)
-[2.06.02. 📄 Mundos transitórios](#lde-2-06-02)
-[2.06.03. 📄 Percepções, sensações e sofrimentos dos Espíritos](#lde-2-06-03)
-[2.06.04. 📄 Ensaio teórico da sensação nos Espíritos](#lde-2-06-04)
-[2.06.05. 📄 Escolha das provas](#lde-2-06-05)
-[2.06.06. 📄 As relações no além-túmulo](#lde-2-06-06)
-[2.06.07. 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas](#lde-2-06-07)
-[2.06.08. 📄 Recordação da existência corpórea](#lde-2-06-08)
-[2.06.09. 📄 Comemoração dos mortos. Funerais](#lde-2-06-09)
+- [2.06.01. 📄 Espíritos errantes](#lde-2-06-01)
+- [2.06.02. 📄 Mundos transitórios](#lde-2-06-02)
+- [2.06.03. 📄 Percepções, sensações e sofrimentos dos Espíritos](#lde-2-06-03)
+- [2.06.04. 📄 Ensaio teórico da sensação nos Espíritos](#lde-2-06-04)
+- [2.06.05. 📄 Escolha das provas](#lde-2-06-05)
+- [2.06.06. 📄 As relações no além-túmulo](#lde-2-06-06)
+- [2.06.07. 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas](#lde-2-06-07)
+- [2.06.08. 📄 Recordação da existência corpórea](#lde-2-06-08)
+- [2.06.09. 📄 Comemoração dos mortos. Funerais](#lde-2-06-09)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 2.06.01. 📄 Espíritos errantes {#lde-2-06-01}
 
@@ -5275,16 +5165,16 @@ O instintivo respeito que, em todos os tempos e entre todos os povos, o homem co
 ### 2.07. 🗂️ Volta à vida material {#lde-2-07}
 
 Neste capítulo:
-[2.07.01. 📄 Prelúdio da volta](#lde-2-07-01)
-[2.07.02. 📄 União do espírito e do corpo](#lde-2-07-02)
-[2.07.03. 📄 Faculdades morais e intelectuais do homem](#lde-2-07-03)
-[2.07.04. 📄 Influência do corpo](#lde-2-07-04)
-[2.07.05. 📄 Idiotismo, loucura](#lde-2-07-05)
-[2.07.06. 📄 A infância](#lde-2-07-06)
-[2.07.07. 📄 Simpatia e antipatia materiais](#lde-2-07-07)
-[2.07.08. 📄 Esquecimento do passado](#lde-2-07-08)
+- [2.07.01. 📄 Prelúdio da volta](#lde-2-07-01)
+- [2.07.02. 📄 União do espírito e do corpo](#lde-2-07-02)
+- [2.07.03. 📄 Faculdades morais e intelectuais do homem](#lde-2-07-03)
+- [2.07.04. 📄 Influência do corpo](#lde-2-07-04)
+- [2.07.05. 📄 Idiotismo, loucura](#lde-2-07-05)
+- [2.07.06. 📄 A infância](#lde-2-07-06)
+- [2.07.07. 📄 Simpatia e antipatia materiais](#lde-2-07-07)
+- [2.07.08. 📄 Esquecimento do passado](#lde-2-07-08)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 2.07.01. 📄 Prelúdio da volta {#lde-2-07-01}
 
@@ -6191,16 +6081,16 @@ Sendo as vicissitudes da vida corporal expiação das faltas do passado e, ao me
 ### 2.08. 🗂️ Emancipação da alma {#lde-2-08}
 
 Neste capítulo:
-[2.08.01. 📄 O sono e os sonhos](#lde-2-08-01)
-[2.08.02. 📄 Visitas espíritas entre pessoas vivas](#lde-2-08-02)
-[2.08.03. 📄 Transmissão oculta do pensamento](#lde-2-08-03)
-[2.08.04. 📄 Letargia, catalepsia, mortes aparentes](#lde-2-08-04)
-[2.08.05. 📄 Sonambulismo](#lde-2-08-05)
-[2.08.06. 📄 Êxtas](#lde-2-08-06)
-[2.08.07. 📄 Dupla vista](#lde-2-08-07)
-[2.08.08. 📄 Resumo teórico do sonambulismo, do êxtase e da dupla vista](#lde-2-08-08)
+- [2.08.01. 📄 O sono e os sonhos](#lde-2-08-01)
+- [2.08.02. 📄 Visitas espíritas entre pessoas vivas](#lde-2-08-02)
+- [2.08.03. 📄 Transmissão oculta do pensamento](#lde-2-08-03)
+- [2.08.04. 📄 Letargia, catalepsia, mortes aparentes](#lde-2-08-04)
+- [2.08.05. 📄 Sonambulismo](#lde-2-08-05)
+- [2.08.06. 📄 Êxtas](#lde-2-08-06)
+- [2.08.07. 📄 Dupla vista](#lde-2-08-07)
+- [2.08.08. 📄 Resumo teórico do sonambulismo, do êxtase e da dupla vista](#lde-2-08-08)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 2.08.01. 📄 O sono e os sonhos {#lde-2-08-01}
 
@@ -6847,21 +6737,21 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 ### 2.09. 🗂️ Intervenção no mundo material {#lde-2-09}
 
 Neste capítulo:
-[2.09.01. 📄 Faculdade que têm os Espíritos de penetrar os nossos pensamentos](#lde-2-09-01)
-[2.09.02. 📄 Influência oculta dos Espíritos em nossos pensamentos e atos](#lde-2-09-02)
-[2.09.03. 📄 Possessos](#lde-2-09-03)
-[2.09.04. 📄 Convulsionários](#lde-2-09-04)
-[2.09.05. 📄 Afeição que os Espíritos votam a certas pessoas](#lde-2-09-05)
-[2.09.06. 📄 Anjos da guarda. Espíritos protetores, familiares ou simpáticos](#lde-2-09-06)
-[2.09.07. 📄 Pressentimentos](#lde-2-09-07)
-[2.09.08. 📄 Influência dos Espíritos nos acontecimentos da vida](#lde-2-09-08)
-[2.09.09. 📄 Ação dos Espíritos nos fenômenos da Natureza](#lde-2-09-09)
-[2.09.10. 📄 Os Espíritos durante os combates](#lde-2-09-10)
-[2.09.11. 📄 Pactos](#lde-2-09-11)
-[2.09.12. 📄 Poder oculto. Talismãs. Feiticeiros](#lde-2-09-12)
-[2.09.13. 📄 Bênçãos e maldições](#lde-2-09-13)
+- [2.09.01. 📄 Faculdade que têm os Espíritos de penetrar os nossos pensamentos](#lde-2-09-01)
+- [2.09.02. 📄 Influência oculta dos Espíritos em nossos pensamentos e atos](#lde-2-09-02)
+- [2.09.03. 📄 Possessos](#lde-2-09-03)
+- [2.09.04. 📄 Convulsionários](#lde-2-09-04)
+- [2.09.05. 📄 Afeição que os Espíritos votam a certas pessoas](#lde-2-09-05)
+- [2.09.06. 📄 Anjos da guarda. Espíritos protetores, familiares ou simpáticos](#lde-2-09-06)
+- [2.09.07. 📄 Pressentimentos](#lde-2-09-07)
+- [2.09.08. 📄 Influência dos Espíritos nos acontecimentos da vida](#lde-2-09-08)
+- [2.09.09. 📄 Ação dos Espíritos nos fenômenos da Natureza](#lde-2-09-09)
+- [2.09.10. 📄 Os Espíritos durante os combates](#lde-2-09-10)
+- [2.09.11. 📄 Pactos](#lde-2-09-11)
+- [2.09.12. 📄 Poder oculto. Talismãs. Feiticeiros](#lde-2-09-12)
+- [2.09.13. 📄 Bênçãos e maldições](#lde-2-09-13)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 2.09.01. 📄 Faculdade que têm os Espíritos de penetrar os nossos pensamentos {#lde-2-09-01}
 
@@ -8491,11 +8381,11 @@ Nenhuma parte tendo na produção do bem que dessas calamidades passageiras poss
 ### 2.11. 🗂️ Os três reinos {#lde-2-11}
 
 Neste capítulo:
-[2.11.01. 📄 Os minerais e as plantas](#lde-2-11-01)
-[2.11.02. 📄 Os animais e o homem](#lde-2-11-02)
-[2.11.03. 📄 Metempsicose](#lde-2-11-03)
+- [2.11.01. 📄 Os minerais e as plantas](#lde-2-11-01)
+- [2.11.02. 📄 Os animais e o homem](#lde-2-11-02)
+- [2.11.03. 📄 Metempsicose](#lde-2-11-03)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 2.11.01. 📄 Os minerais e as plantas {#lde-2-11-01}
 
@@ -8898,12 +8788,12 @@ Embora de todo errônea, a ideia ligada à metempsicose não terá resultado do 
 ### 3.01. 🗂️ Lei divina {#lde-3-01}
 
 Neste capítulo:
-[3.01.01. 📄 Caracteres da lei natural](#lde-3-01-01)
-[3.01.02. 📄 Conhecimento da lei natural](#lde-3-01-02)
-[3.01.03. 📄 O bem e o mal](#lde-3-01-03)
-[3.01.04. 📄 Divisão da lei natural](#lde-3-01-04)
+- [3.01.01. 📄 Caracteres da lei natural](#lde-3-01-01)
+- [3.01.02. 📄 Conhecimento da lei natural](#lde-3-01-02)
+- [3.01.03. 📄 O bem e o mal](#lde-3-01-03)
+- [3.01.04. 📄 Divisão da lei natural](#lde-3-01-04)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.01.01. 📄 Caracteres da lei natural {#lde-3-01-01}
 
@@ -9296,14 +9186,14 @@ Que pensais da divisão da lei natural em dez partes, compreendendo as leis de *
 ### 3.02. 🗂️ Lei de adoração {#lde-3-02}
 
 Neste capítulo:
-[3.02.01. 📄 Objetivo da adoração](#lde-3-02-01)
-[3.02.02. 📄 Adoração exterior](#lde-3-02-02)
-[3.02.03. 📄 Vida contemplativa](#lde-3-02-03)
-[3.02.04. 📄 A prece](#lde-3-02-04)
-[3.02.05. 📄 Politeísmo](#lde-3-02-05)
-[3.02.06. 📄 Sacrifícios](#lde-3-02-06)
+- [3.02.01. 📄 Objetivo da adoração](#lde-3-02-01)
+- [3.02.02. 📄 Adoração exterior](#lde-3-02-02)
+- [3.02.03. 📄 Vida contemplativa](#lde-3-02-03)
+- [3.02.04. 📄 A prece](#lde-3-02-04)
+- [3.02.05. 📄 Politeísmo](#lde-3-02-05)
+- [3.02.06. 📄 Sacrifícios](#lde-3-02-06)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.02.01. 📄 Objetivo da adoração {#lde-3-02-01}
 
@@ -9631,10 +9521,10 @@ Não seria um meio de tornar essas oferendas agradáveis a Deus consagrá-las a 
 ### 3.03. 🗂️ Lei do trabalho {#lde-3-03}
 
 Neste capítulo:
-[3.03.01. 📄 Necessidade do trabalho](#lde-3-03-01)
-[3.03.02. 📄 Limite do trabalho. Repouso](#lde-3-03-02)
+- [3.03.01. 📄 Necessidade do trabalho](#lde-3-03-01)
+- [3.03.02. 📄 Limite do trabalho. Repouso](#lde-3-03-02)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.03.01. 📄 Necessidade do trabalho {#lde-3-03-01}
 
@@ -9774,13 +9664,13 @@ Então, que há de fazer o velho que precisa trabalhar para viver e não pode?
 ### 3.04. 🗂️ Lei de reprodução {#lde-3-04}
 
 Neste capítulo:
-[3.04.01. 📄 População do globo](#lde-3-04-01)
-[3.04.02. 📄 Sucessão e aperfeiçoamento das raças](#lde-3-04-02)
-[3.04.03. 📄 Obstáculos à reprodução](#lde-3-04-03)
-[3.04.04. 📄 Casamento e celibato](#lde-3-04-04)
-[3.04.05. 📄 Poligamia](#lde-3-04-05)
+- [3.04.01. 📄 População do globo](#lde-3-04-01)
+- [3.04.02. 📄 Sucessão e aperfeiçoamento das raças](#lde-3-04-02)
+- [3.04.03. 📄 Obstáculos à reprodução](#lde-3-04-03)
+- [3.04.04. 📄 Casamento e celibato](#lde-3-04-04)
+- [3.04.05. 📄 Poligamia](#lde-3-04-05)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.04.01. 📄 População do globo {#lde-3-04-01}
 
@@ -9962,13 +9852,13 @@ Qual das duas, a poligamia ou a monogamia, é mais conforme a Lei da Natureza?
 ### 3.05. 🗂️ Lei de conservação {#lde-3-05}
 
 Neste capítulo:
-[3.05.01. 📄 Instinto de conservação](#lde-3-05-01)
-[3.05.02. 📄 Meios de conservação](#lde-3-05-02)
-[3.05.03. 📄 Gozo dos bens terrenos](#lde-3-05-03)
-[3.05.04. 📄 Necessário e supérfluo](#lde-3-05-04)
-[3.05.05. 📄 Privações voluntárias. Mortificações](#lde-3-05-05)
+- [3.05.01. 📄 Instinto de conservação](#lde-3-05-01)
+- [3.05.02. 📄 Meios de conservação](#lde-3-05-02)
+- [3.05.03. 📄 Gozo dos bens terrenos](#lde-3-05-03)
+- [3.05.04. 📄 Necessário e supérfluo](#lde-3-05-04)
+- [3.05.05. 📄 Privações voluntárias. Mortificações](#lde-3-05-05)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.05.01. 📄 Instinto de conservação {#lde-3-05-01}
 
@@ -10267,15 +10157,15 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 ### 3.06. 🗂️ Lei de destruição {#lde-3-06}
 
 Neste capítulo:
-[3.06.01. 📄 Destruição necessária e destruição abusiva](#lde-3-06-01)
-[3.06.02. 📄 Flagelos destruidores](#lde-3-06-02)
-[3.06.03. 📄 Guerras](#lde-3-06-03)
-[3.06.04. 📄 Assassínio](#lde-3-06-04)
-[3.06.05. 📄 Crueldad](#lde-3-06-05)
-[3.06.06. 📄 Duelo](#lde-3-06-06)
-[3.06.07. 📄 Pena de morte](#lde-3-06-07)
+- [3.06.01. 📄 Destruição necessária e destruição abusiva](#lde-3-06-01)
+- [3.06.02. 📄 Flagelos destruidores](#lde-3-06-02)
+- [3.06.03. 📄 Guerras](#lde-3-06-03)
+- [3.06.04. 📄 Assassínio](#lde-3-06-04)
+- [3.06.05. 📄 Crueldad](#lde-3-06-05)
+- [3.06.06. 📄 Duelo](#lde-3-06-06)
+- [3.06.07. 📄 Pena de morte](#lde-3-06-07)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.06.01. 📄 Destruição necessária e destruição abusiva {#lde-3-06-01}
 
@@ -10762,11 +10652,11 @@ Que se deve pensar da pena de morte imposta em nome de Deus?
 ### 3.07. 🗂️ Lei de sociedade {#lde-3-07}
 
 Neste capítulo:
-[3.07.01. 📄 Necessidade da vida social](#lde-3-07-01)
-[3.07.02. 📄 Vida de insulamento. Voto de silêncio](#lde-3-07-02)
-[3.07.03. 📄 Laços de família](#lde-3-07-03)
+- [3.07.01. 📄 Necessidade da vida social](#lde-3-07-01)
+- [3.07.02. 📄 Vida de insulamento. Voto de silêncio](#lde-3-07-02)
+- [3.07.03. 📄 Laços de família](#lde-3-07-03)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.07.01. 📄 Necessidade da vida social {#lde-3-07-01}
 
@@ -10896,14 +10786,14 @@ Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 ### 3.08. 🗂️ Lei do progresso {#lde-3-08}
 
 Neste capítulo:
-[3.08.01. 📄 Estado de natureza](#lde-3-08-01)
-[3.08.02. 📄 Marcha do progresso](#lde-3-08-02)
-[3.08.03. 📄 Povos degenerados](#lde-3-08-03)
-[3.08.04. 📄 Civilização](#lde-3-08-04)
-[3.08.05. 📄 Progresso da legislação humana](#lde-3-08-05)
-[3.08.06. 📄 Influência do Espiritismo no progresso](#lde-3-08-06)
+- [3.08.01. 📄 Estado de natureza](#lde-3-08-01)
+- [3.08.02. 📄 Marcha do progresso](#lde-3-08-02)
+- [3.08.03. 📄 Povos degenerados](#lde-3-08-03)
+- [3.08.04. 📄 Civilização](#lde-3-08-04)
+- [3.08.05. 📄 Progresso da legislação humana](#lde-3-08-05)
+- [3.08.06. 📄 Influência do Espiritismo no progresso](#lde-3-08-06)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.08.01. 📄 Estado de natureza {#lde-3-08-01}
 
@@ -11289,15 +11179,15 @@ Visto que o Espiritismo tem que marcar um progresso da Humanidade, por que não 
 ### 3.09. 🗂️ Lei de igualdade {#lde-3-09}
 
 Neste capítulo:
-[3.09.01. 📄 Igualdade natural](#lde-3-09-01)
-[3.09.02. 📄 Desigualdade das aptidões](#lde-3-09-02)
-[3.09.03. 📄 Desigualdades sociais](#lde-3-09-03)
-[3.09.04. 📄 Desigualdade das riquezas](#lde-3-09-04)
-[3.09.05. 📄 As provas de riqueza e de miséria](#lde-3-09-05)
-[3.09.06. 📄 Igualdade dos direitos do homem e da mulher](#lde-3-09-06)
-[3.09.07. 📄 Igualdade perante o túmulo](#lde-3-09-07)
+- [3.09.01. 📄 Igualdade natural](#lde-3-09-01)
+- [3.09.02. 📄 Desigualdade das aptidões](#lde-3-09-02)
+- [3.09.03. 📄 Desigualdades sociais](#lde-3-09-03)
+- [3.09.04. 📄 Desigualdade das riquezas](#lde-3-09-04)
+- [3.09.05. 📄 As provas de riqueza e de miséria](#lde-3-09-05)
+- [3.09.06. 📄 Igualdade dos direitos do homem e da mulher](#lde-3-09-06)
+- [3.09.07. 📄 Igualdade perante o túmulo](#lde-3-09-07)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.09.01. 📄 Igualdade natural {#lde-3-09-01}
 
@@ -11600,15 +11490,15 @@ Reprovais então, de modo absoluto, a pompa dos funerais?
 ### 3.10. 🗂️ Lei de liberdade {#lde-3-10}
 
 Neste capítulo:
-[3.10.01. 📄 Liberdade natural](#lde-3-10-01)
-[3.10.02. 📄 Escravidão](#lde-3-10-02)
-[3.10.03. 📄 Liberdade de pensar](#lde-3-10-03)
-[3.10.04. 📄 Liberdade de consciência](#lde-3-10-04)
-[3.10.05. 📄 Livre-arbítrio](#lde-3-10-05)
-[3.10.06. 📄 Fatalidad](#lde-3-10-06)
-[3.10.07. 📄 Conhecimento do futuro](#lde-3-10-07)
+- [3.10.01. 📄 Liberdade natural](#lde-3-10-01)
+- [3.10.02. 📄 Escravidão](#lde-3-10-02)
+- [3.10.03. 📄 Liberdade de pensar](#lde-3-10-03)
+- [3.10.04. 📄 Liberdade de consciência](#lde-3-10-04)
+- [3.10.05. 📄 Livre-arbítrio](#lde-3-10-05)
+- [3.10.06. 📄 Fatalidad](#lde-3-10-06)
+- [3.10.07. 📄 Conhecimento do futuro](#lde-3-10-07)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.10.01. 📄 Liberdade natural {#lde-3-10-01}
 
@@ -12128,12 +12018,12 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 ### 3.11. 🗂️ Lei de justiça, de amor, e de caridade {#lde-3-11}
 
 Neste capítulo:
-[3.11.01. 📄 Justiça e direitos naturais](#lde-3-11-01)
-[3.11.02. 📄 Direito de propriedade. Roubo](#lde-3-11-02)
-[3.11.03. 📄 Caridade e amor do próximo](#lde-3-11-03)
-[3.11.04. 📄 Amor materno e filial](#lde-3-11-04)
+- [3.11.01. 📄 Justiça e direitos naturais](#lde-3-11-01)
+- [3.11.02. 📄 Direito de propriedade. Roubo](#lde-3-11-02)
+- [3.11.03. 📄 Caridade e amor do próximo](#lde-3-11-03)
+- [3.11.04. 📄 Amor materno e filial](#lde-3-11-04)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.11.01. 📄 Justiça e direitos naturais {#lde-3-11-01}
 
@@ -12430,13 +12320,13 @@ Quando os filhos causam desgostos aos pais, não têm estes desculpa para o fato
 ### 3.12. 🗂️ Perfeição moral {#lde-3-12}
 
 Neste capítulo:
-[3.12.01. 📄 As virtudes e os vícios](#lde-3-12-01)
-[3.12.02. 📄 Paixõe](#lde-3-12-02)
-[3.12.03. 📄 O egoísmo](#lde-3-12-03)
-[3.12.04. 📄 Caracteres do homem de bem](#lde-3-12-04)
-[3.12.05. 📄 Conhecimento de si mesmo](#lde-3-12-05)
+- [3.12.01. 📄 As virtudes e os vícios](#lde-3-12-01)
+- [3.12.02. 📄 Paixõe](#lde-3-12-02)
+- [3.12.03. 📄 O egoísmo](#lde-3-12-03)
+- [3.12.04. 📄 Caracteres do homem de bem](#lde-3-12-04)
+- [3.12.05. 📄 Conhecimento de si mesmo](#lde-3-12-05)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 3.12.01. 📄 As virtudes e os vícios {#lde-3-12-01}
 
@@ -12810,14 +12700,14 @@ Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisamen
 ## 4. 🗃️ Esperanças e Consolações {#lde-4}
 
 Neste capítulo:
-[4.01.01. 📄 Caracteres da lei natural](#lde-4-01-01)
-[4.01.02. 📄 Conhecimento da lei natural](#lde-4-01-02)
-[4.01.03. 📄 O bem e o mal](#lde-4-01-03)
-[4.01.04. 📄 Divisão da lei natural](#lde-4-01-04)
-[4.01.05. 📄 O bem e o mal](#lde-4-01-05)
-[4.01.06. 📄 Divisão da lei natural](#lde-4-01-06)
+- [4.01.01. 📄 Caracteres da lei natural](#lde-4-01-01)
+- [4.01.02. 📄 Conhecimento da lei natural](#lde-4-01-02)
+- [4.01.03. 📄 O bem e o mal](#lde-4-01-03)
+- [4.01.04. 📄 Divisão da lei natural](#lde-4-01-04)
+- [4.01.05. 📄 O bem e o mal](#lde-4-01-05)
+- [4.01.06. 📄 Divisão da lei natural](#lde-4-01-06)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 ### 4.01. 🗂️ Penas e felicidades materiais {#lde-4-01}
 
@@ -13352,17 +13242,17 @@ Quais, em geral, com relação ao estado do Espírito, as consequências do suic
 ### 4.02. 🗂️ Penas e felicidades futuras {#lde-4-02}
 
 Neste capítulo:
-[4.02.01. 📄 Caracteres da lei natural](#lde-4-02-01)
-[4.02.02. 📄 Conhecimento da lei natural](#lde-4-02-02)
-[4.02.03. 📄 O bem e o mal](#lde-4-02-03)
-[4.02.04. 📄 Divisão da lei natural](#lde-4-02-04)
-[4.02.05. 📄 Caracteres da lei natural](#lde-4-02-05)
-[4.02.06. 📄 Conhecimento da lei natural](#lde-4-02-06)
-[4.02.07. 📄 O bem e o mal](#lde-4-02-07)
-[4.02.08. 📄 Divisão da lei natural](#lde-4-02-08)
-[4.02.09. 📄 Divisão da lei natural](#lde-4-02-09)
+- [4.02.01. 📄 Caracteres da lei natural](#lde-4-02-01)
+- [4.02.02. 📄 Conhecimento da lei natural](#lde-4-02-02)
+- [4.02.03. 📄 O bem e o mal](#lde-4-02-03)
+- [4.02.04. 📄 Divisão da lei natural](#lde-4-02-04)
+- [4.02.05. 📄 Caracteres da lei natural](#lde-4-02-05)
+- [4.02.06. 📄 Conhecimento da lei natural](#lde-4-02-06)
+- [4.02.07. 📄 O bem e o mal](#lde-4-02-07)
+- [4.02.08. 📄 Divisão da lei natural](#lde-4-02-08)
+- [4.02.09. 📄 Divisão da lei natural](#lde-4-02-09)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 4.02.01. 📄 O nada. Vida futura {#lde-4-02-01}
 
@@ -14184,17 +14074,17 @@ Poderá jamais implantar-se na Terra o reinado do bem?
 ## 5. 🗃️ Conclusão {#lde-5}
 
 Neste capítulo:
-[5.01. 📄 Conclusão 01](#lde-5-01)
-[5.02. 📄 Conclusão 02](#lde-5-02)
-[5.03. 📄 Conclusão 03](#lde-5-03)
-[5.04. 📄 Conclusão 04](#lde-5-04)
-[5.05. 📄 Conclusão 05](#lde-5-05)
-[5.06. 📄 Conclusão 06](#lde-5-06)
-[5.07. 📄 Conclusão 07](#lde-5-07)
-[5.08. 📄 Conclusão 08](#lde-5-08)
-[5.09. 📄 Conclusão 09](#lde-5-09)
+- [5.01. 📄 Conclusão 01](#lde-5-01)
+- [5.02. 📄 Conclusão 02](#lde-5-02)
+- [5.03. 📄 Conclusão 03](#lde-5-03)
+- [5.04. 📄 Conclusão 04](#lde-5-04)
+- [5.05. 📄 Conclusão 05](#lde-5-05)
+- [5.06. 📄 Conclusão 06](#lde-5-06)
+- [5.07. 📄 Conclusão 07](#lde-5-07)
+- [5.08. 📄 Conclusão 08](#lde-5-08)
+- [5.09. 📄 Conclusão 09](#lde-5-09)
 - Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 5.01. 📄 Conclusão 01 {#lde-5-01}
 
@@ -14347,7 +14237,7 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 🔖 [União](#uniao)
 ---
 
-::: grey-center
+
 **📖 O Livro dos Espíritos — Edição Digital Educacional**
 
 **A tradução de Guillon Ribeiro** está em **domínio público** desde 1º de janeiro de 2014.
@@ -14368,11 +14258,11 @@ Esta edição é oferecida gratuitamente para fins de estudo e divulgação da D
 ## 6. 🗃️ Pós-textual {#lde-6}
 
  Nesta parte:
-[6.01. 📄 Nota explicativa](#lde-6-01)
-[6.02. 📄 Índice geral](#lde-6-02)
-[6.03. 📄 Notas de rodapé](#lde-6-03)
+- [6.01. 📄 Nota explicativa](#lde-6-01)
+- [6.02. 📄 Índice geral](#lde-6-02)
+- [6.03. 📄 Notas de rodapé](#lde-6-03)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 ### 6.01. 📄 Nota explicativa {#lde-6-01}
 
@@ -14492,7 +14382,7 @@ A Editora (FEB)
 [V](#lde-6-02-v)
 [Z](#lde-6-02-z)
 Voltar para:
-[0.02. 📋 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 
 > 
 > ##### A {#lde-6-02-a}
