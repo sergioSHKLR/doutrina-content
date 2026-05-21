@@ -105,10 +105,10 @@ por 👴🏻 **Allan Kardec**
 
 Tradução de **Guillon Ribeiro**
 
-Edição digital educacional
-organizada e adaptada por **Sergio Schickler** 
-[💧 doutrina.org](https://doutrina.org) — 2023
-Baseada no ISBN 978-85-7328-728-8
+Edição digital educacional  
+organizada e adaptada por **Sergio Schickler**  
+[💧 doutrina.org](https://doutrina.org) — 2023  
+Baseada no ISBN 978-85-7328-728-8  
 
 ---
 
@@ -219,19 +219,19 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 > Swedenborg,  
 > entre outros.**
 
-🔖 [Allan Kardec](#allan-kardec)
-🔖 [Assistência espiritual](#assistencia-espiritual)
-🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🔖 [Deus](#deus)
-🔖 [Efeitos inteligentes](#efeitos-inteligentes)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Espírito de Verdade](#espirito-de-verdade)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Filosofia](#filosofia)
-🔖 [Humildade](#humildade)
-🔖 [Livro dos Espíritos](#livro-dos-espiritos)
-🔖 [Mundo espiritual](#mundo-espiritual)
-🔖 [Perseverança](#perseveranca)
+- 🔖 [Allan Kardec](#allan-kardec)
+- 🔖 [Assistência espiritual](#assistencia-espiritual)
+- 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+- 🔖 [Deus](#deus)
+- 🔖 [Efeitos inteligentes](#efeitos-inteligentes)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Espírito de Verdade](#espirito-de-verdade)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Filosofia](#filosofia)
+- 🔖 [Humildade](#humildade)
+- 🔖 [Livro dos Espíritos](#livro-dos-espiritos)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Perseverança](#perseveranca)
 ---
 
 ### 0.04. 🗂️ Introdução {#lde-0-04}
@@ -254,6 +254,7 @@ Neste capítulo:
 - [0.03.15. 📄 Intro 15](#lde-0-04-15)
 - [0.03.16. 📄 Intro 16](#lde-0-04-16)
 - [0.03.17. 📄 Intro 17](#lde-0-04-17)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -263,10 +264,10 @@ Para se designarem coisas novas são precisos termos novos. Assim o exige a clar
 
 Como especialidade, ✨ *O Livro dos Espíritos* contém a Doutrina Espírita; como generalidade, prende-se à doutrina *espiritualista*, uma de cujas fases apresenta. Essa a razão por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
 
-🔖 [Espiritismo](#espiritismo)
-🔖 [Espiritualismo](#espiritualismo)
-🔖 [Livro dos Espíritos](#livro-dos-espiritos)
-🔖 [Materialismo](#materialismo)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Espiritualismo](#espiritualismo)
+- 🔖 [Livro dos Espíritos](#livro-dos-espiritos)
+- 🔖 [Materialismo](#materialismo)
 ---
 
 #### 0.03.02. 📄 Intro 02 {#lde-0-04-02}
@@ -295,13 +296,13 @@ Julgamos dever insistir nestas explicações pela razão de que a Doutrina Espí
 
 Passemos agora ao objeto principal desta instrução preliminar.
 
-🔖 [Alma](#alma)
-🔖 [Espiritualismo](#espiritualismo)
-🔖 [Linguagem](#linguagem)
-🔖 [Materialismo](#materialismo)
-🔖 [Panteísmo](#panteismo)
-🔖 [Princípio vital](#principio-vital)
-🔖 [Seres vivos](#seres-vivos)
+- 🔖 [Alma](#alma)
+- 🔖 [Espiritualismo](#espiritualismo)
+- 🔖 [Linguagem](#linguagem)
+- 🔖 [Materialismo](#materialismo)
+- 🔖 [Panteísmo](#panteismo)
+- 🔖 [Princípio vital](#principio-vital)
+- 🔖 [Seres vivos](#seres-vivos)
 ---
 
 #### 0.03.03. 📄 Intro 03 {#lde-0-04-03}
@@ -330,14 +331,14 @@ Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstân
 
 Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Perguntar-lhes-emos, em primeiro lugar, se estão bem certas de que haja fraudes e se não tomaram por fraude efeitos que não podiam explicar, mais ou menos como o camponês que tomava por destro escamoteador um sábio professor de Física a fazer experiências. Admitindo-se mesmo que tal coisa tenha podido verificar-se algumas vezes, constituiria isso razão para negar-se o fato? Dever-se-ia negar a Física, porque há prestidigitadores que se exornam com o título de físicos? Cumpre, ademais, se leve em conta o caráter das pessoas e o interesse que possam ter em iludir. Seria tudo, então, mero gracejo? Admite-se que uma pessoa se divirta por algum tempo, mas um gracejo prolongado indefinidamente se tornaria tão fastidioso para o mistificador, como para o mistificado. Acresce que, numa mistificação que se propaga de um extremo a outro do mundo e por entre as mais austeras, veneráveis e esclarecidas personalidades, alguma coisa há, com certeza, tão extraordinária, pelo menos, quanto o próprio fenômeno.
 
-🔖 [Ciência](#ciencia)
-🔖 [Experimentação](#experimentacao)
-🔖 [Fenomenologia](#fenomenologia)
-🔖 [Fenômeno](#fenomeno)
-🔖 [Fenômeno espírita](#fenomeno-espirita)
-🔖 [Fraude](#fraude)
-🔖 [Leviandade](#leviandade)
-🔖 [Mesas girantes](#mesas-girantes)
+- 🔖 [Ciência](#ciencia)
+- 🔖 [Experimentação](#experimentacao)
+- 🔖 [Fenomenologia](#fenomenologia)
+- 🔖 [Fenômeno](#fenomeno)
+- 🔖 [Fenômeno espírita](#fenomeno-espirita)
+- 🔖 [Fraude](#fraude)
+- 🔖 [Leviandade](#leviandade)
+- 🔖 [Mesas girantes](#mesas-girantes)
 ---
 
 #### 0.03.04. 📄 Intro 04 {#lde-0-04-04}
@@ -350,7 +351,7 @@ Tal meio de correspondência era, porém, demorado e incômodo. O Espírito (e i
 
 O conselho foi dado simultaneamente na América, na França e em diversos outros países. Eis em que termos o deram em Paris, a 10 de junho de 1853, a um dos mais fervorosos adeptos da Doutrina e que, havia muitos anos, desde 1849, se ocupava com a evocação dos Espíritos:
 
-> Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
+> ✨ ▸ Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
 
 Alguns instantes após, a cesta entrou a mover-se e o lápis escreveu, muito legível, esta frase:
 
@@ -360,16 +361,16 @@ O objeto a que se adapta o lápis, não passando de mero instrumento, completame
 
 A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de *médiuns*, isto é — meios ou intermediários entre os Espíritos e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há médiuns de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício.
 
-🔖 [Ação](#acao)
-🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Fenômeno](#fenomeno)
-🔖 [Força](#forca)
-🔖 [Identificação](#identificacao)
-🔖 [Manifestação](#manifestacao)
-🔖 [Mesas girantes](#mesas-girantes)
-🔖 [Médium](#medium)
-🔖 [Tiptologia](#tiptologia)
+- 🔖 [Ação](#acao)
+- 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Fenômeno](#fenomeno)
+- 🔖 [Força](#forca)
+- 🔖 [Identificação](#identificacao)
+- 🔖 [Manifestação](#manifestacao)
+- 🔖 [Mesas girantes](#mesas-girantes)
+- 🔖 [Médium](#medium)
+- 🔖 [Tiptologia](#tiptologia)
 ---
 
 #### 0.03.05. 📄 Intro 05 {#lde-0-04-05}
@@ -386,12 +387,12 @@ Eis, pois, efeitos patentes, que se produzem fora do círculo habitual das nossa
 
 Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres distintos dos humanos, pois que esta é a explicação ministrada pelas Inteligências que se manifestam, e vejamos o que eles nos dizem.
 
-🔖 [Efeitos inteligentes](#efeitos-inteligentes)
-🔖 [Escrita](#escrita)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Mediunidade](#mediunidade)
-🔖 [Médium](#medium)
-🔖 [Resposta](#resposta)
+- 🔖 [Efeitos inteligentes](#efeitos-inteligentes)
+- 🔖 [Escrita](#escrita)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Mediunidade](#mediunidade)
+- 🔖 [Médium](#medium)
+- 🔖 [Resposta](#resposta)
 ---
 
 #### 0.03.06. 📄 Intro 06 {#lde-0-04-06}
@@ -445,11 +446,11 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 
 Este o resumo da Doutrina Espírita , como resulta dos ensinamentos dados pelos Espíritos superiores. Vejamos agora as objeções que se lhe contrapõem.
 
-🔖 [Ensino](#ensino)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Mundo espiritual](#mundo-espiritual)
-🔖 [Plano físico](#plano-fisico)
-🔖 [Princípios básicos](#principios-basicos)
+- 🔖 [Ensino](#ensino)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Plano físico](#plano-fisico)
+- 🔖 [Princípios básicos](#principios-basicos)
 ---
 
 #### 0.03.07. 📄 Intro 07 {#lde-0-04-07}
@@ -470,17 +471,17 @@ Repetimos mais uma vez que, se os fatos a que aludimos se houvessem reduzido ao 
 
 O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles, cujas ideias são as mais falsas, se apoiam na sua própria razão e é por isso que rejeitam tudo o que lhes parece impossível. Os que outrora repeliram as admiráveis descobertas de que a Humanidade se honra, todos endereçavam seus apelos a esse juiz, para repeli-las. O que se chama razão não é muitas vezes senão orgulho disfarçado e quem quer que se considere infalível apresenta-se como igual a Deus. Dirigimo-nos, pois, aos ponderados, que duvidam do que não viram, mas que, julgando do futuro pelo passado, não creem que o homem haja chegado ao apogeu, nem que a Natureza lhe tenha facultado ler a última página do seu livro.
 
-🔖 [Ciência](#ciencia)
-🔖 [Erro](#erro)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Falibilidade](#falibilidade)
-🔖 [Fato](#fato)
-🔖 [Fenômeno espírita](#fenomeno-espirita)
-🔖 [Ideia](#ideia)
-🔖 [Opinião](#opiniao)
-🔖 [Oposição](#oposicao)
-🔖 [Orgulho](#orgulho)
-🔖 [Vocação](#vocacao)
+- 🔖 [Ciência](#ciencia)
+- 🔖 [Erro](#erro)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Falibilidade](#falibilidade)
+- 🔖 [Fato](#fato)
+- 🔖 [Fenômeno espírita](#fenomeno-espirita)
+- 🔖 [Ideia](#ideia)
+- 🔖 [Opinião](#opiniao)
+- 🔖 [Oposição](#oposicao)
+- 🔖 [Orgulho](#orgulho)
+- 🔖 [Vocação](#vocacao)
 ---
 
 #### 0.03.08. 📄 Intro 08 {#lde-0-04-08}
@@ -491,10 +492,10 @@ O que caracteriza um estudo sério é a continuidade que se lhe dá. Será de ad
 
 Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobretudo às em que reina perfeita comunhão de pensamentos e de sentimentos para o bem. A leviandade e as questões ociosas os afastam, como, entre os homens, afastam as pessoas criteriosas; o campo fica, então, livre à turba dos Espíritos mentirosos e frívolos, sempre à espreita de ocasiões propícias para zombarem de nós e se divertirem à nossa custa. Que é o que se dará com uma questão grave em reuniões de tal ordem? Será respondida; mas, por quem? Acontece como se a um bando de doidivanas, que estejam a divertir-se, propusésseis estas questões: Que é a alma? Que é a morte? e outras tão recreativas quanto essas. Se quereis respostas sisudas, haveis de comportar-vos com toda a sisudez, na mais ampla acepção do termo, e de preencher todas as condições reclamadas. Só assim obtereis grandes coisas. Sede, além do mais, laboriosos e perseverantes nos vossos estudos, sem o que os Espíritos superiores vos abandonarão, como faz um professor com os discípulos negligentes.
 
-🔖 [Espírito superior](#espirito-superior)
-🔖 [Estudo](#estudo)
-🔖 [Estudo Sistematizado da Doutrina Espírita](#estudo-sistematizado-da-doutrina-espirita)
-🔖 [Reunião](#reuniao)
+- 🔖 [Espírito superior](#espirito-superior)
+- 🔖 [Estudo](#estudo)
+- 🔖 [Estudo Sistematizado da Doutrina Espírita](#estudo-sistematizado-da-doutrina-espirita)
+- 🔖 [Reunião](#reuniao)
 ---
 
 #### 0.03.09. 📄 Intro 09 {#lde-0-04-09}
@@ -507,12 +508,12 @@ Que respondem a essa evidência os antagonistas? — Sois vítimas do charlatani
 
 Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em boa lógica, a qualidade das testemunhas é de alguma importância. Ora, é aqui o caso de perguntarmos se a Doutrina Espírita , que já conta milhões de adeptos, só os recruta entre os ignorantes? Os fenômenos em que ela se baseia são tão extraordinários que concebemos a existência da dúvida. O que, porém, não podemos admitir é a pretensão de alguns incrédulos, a de terem o monopólio do bom senso e que, sem guardarem as conveniências e respeitarem o valor moral de seus adversários, tachem, com desplante, de ineptos os que lhes não seguem o parecer. Aos olhos de qualquer pessoa judiciosa, a opinião das que, esclarecidas, observaram durante muito tempo, estudaram e meditaram uma coisa, constituirá sempre, quando não uma prova, uma presunção, no mínimo, a seu favor, visto ter logrado prender a atenção de homens respeitáveis, que não tinham interesse algum em propagar erros nem tempo a perder com futilidades.
 
-🔖 [Charlatanismo](#charlatanismo)
-🔖 [Escrita](#escrita)
-🔖 [Fenômeno espírita](#fenomeno-espirita)
-🔖 [Fraude](#fraude)
-🔖 [Ilusão](#ilusao)
-🔖 [Mistificação](#mistificacao)
+- 🔖 [Charlatanismo](#charlatanismo)
+- 🔖 [Escrita](#escrita)
+- 🔖 [Fenômeno espírita](#fenomeno-espirita)
+- 🔖 [Fraude](#fraude)
+- 🔖 [Ilusão](#ilusao)
+- 🔖 [Mistificação](#mistificacao)
 ---
 
 #### 0.03.10. 📄 Intro 10 {#lde-0-04-10}
@@ -534,11 +535,11 @@ Como variante dessa opinião, temos a dos que não veem, nas comunicações esp�
 
 Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons Espíritos? Se Ele não o pode fazer, não é onipotente; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam blasfemas. Note-se que admitir a comunicação dos maus Espíritos é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de Deus. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do bom senso e da religião.
 
-🔖 [Demônio](#demonio)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Fenômeno espírita](#fenomeno-espirita)
-🔖 [Julgamento](#julgamento)
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Demônio](#demonio)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Fenômeno espírita](#fenomeno-espirita)
+- 🔖 [Julgamento](#julgamento)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 #### 0.03.11. 📄 Intro 11 {#lde-0-04-11}
@@ -554,8 +555,8 @@ Acham também singular que os Espíritos dos homens eminentes acudam familiarmen
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados.
 
-🔖 [Homem](#homem)
-🔖 [Personalidade](#personalidade)
+- 🔖 [Homem](#homem)
+- 🔖 [Personalidade](#personalidade)
 ---
 
 #### 0.03.12. 📄 Intro 12 {#lde-0-04-12}
@@ -576,12 +577,12 @@ Inegavelmente a substituição dos Espíritos pode dar lugar a uma porção de e
 
 Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se apresentem por si mesmos. Frequentemente ocorrem por efeito de circunstâncias em que se não pensa. Para o observador atento e paciente os fatos abundam, por isso que ele descobre milhares de matizes característicos, que são verdadeiros raios de luz. O mesmo se dá com as ciências comuns. Ao passo que o homem superficial não vê numa flor mais do que uma forma elegante, o sábio descobre nela tesouros para o pensamento.
 
-🔖 [Desmaterialização](#desmaterializacao)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Família](#familia)
-🔖 [Identidade](#identidade)
-🔖 [Identificação](#identificacao)
-🔖 [Nome](#nome)
+- 🔖 [Desmaterialização](#desmaterializacao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Família](#familia)
+- 🔖 [Identidade](#identidade)
+- 🔖 [Identificação](#identificacao)
+- 🔖 [Nome](#nome)
 ---
 
 #### 0.03.13. 📄 Intro 13 {#lde-0-04-13}
@@ -596,21 +597,21 @@ A contradição, demais, nem sempre é tão real quanto possa parecer. Não vemo
 
 Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepção invariável, compreende-se que os Espíritos, como nós, divirjam na definição que dela deem: um poderá dizer que é o princípio da vida, outro chamar-lhe centelha anímica, um terceiro afirmar que ela é interna, um quarto que é externa etc., tendo todos razão, cada um do seu ponto de vista. Poder-se-á mesmo crer que alguns deles professem doutrinas materialistas e, todavia, não ser assim. Outro tanto acontece relativamente a **Deus**. Será: o princípio de todas as coisas, o criador do Universo, a inteligência suprema, o infinito, o grande Espírito etc. Em definitiva, será sempre Deus. Citemos, finalmente, a classificação dos Espíritos. Eles formam uma série ininterrupta, desde o mais ínfimo grau até o grau superior. A classificação é, pois, arbitrária. Um, grupá-los-á em três classes, outro em cinco, dez ou vinte, à vontade, sem que nenhum esteja em erro. Todas as ciências humanas nos oferecem idênticos exemplos. Cada sábio tem o seu sistema; os sistemas mudam, a Ciência, porém, não muda. Aprenda-se a Botânica pelo sistema de Linneu, ou pelo de Jussieu, ou pelo de Tournefort, nem por isso se saberá menos Botânica. Deixemos, conseguintemente, de emprestar a coisas de pura convenção mais importância do que merecem, para só nos atermos ao que é verdadeiramente importante e, não raro, a reflexão fará se descubra, no que pareça disparate, uma similitude que escapara a um primeiro exame.
 
-🔖 [Ciência](#ciencia)
-🔖 [Contradição](#contradicao)
-🔖 [Convenção](#convencao)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Linguagem](#linguagem)
+- 🔖 [Ciência](#ciencia)
+- 🔖 [Contradição](#contradicao)
+- 🔖 [Convenção](#convencao)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Linguagem](#linguagem)
 ---
 
 #### 0.03.14. 📄 Intro 14 {#lde-0-04-14}
 
 Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, *a despeito da ignorância do médium*.
 
-🔖 [Ideia](#ideia)
-🔖 [Linguagem](#linguagem)
-🔖 [Poesia](#poesia)
+- 🔖 [Ideia](#ideia)
+- 🔖 [Linguagem](#linguagem)
+- 🔖 [Poesia](#poesia)
 ---
 
 #### 0.03.15. 📄 Intro 15 {#lde-0-04-15}
@@ -625,9 +626,9 @@ Entre as causas mais comuns de sobre-excitação cerebral, devem contar-se as de
 
 Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo já desequilibrou mais de um cérebro. Quantas vítimas não têm feito os que abalam imaginações fracas com esse quadro, que cada vez mais pavoroso se esforçam por tornar, mediante horríveis pormenores? O diabo, dizem, só mete medo a crianças, é um freio para fazê-las ajuizadas. Sim, é, do mesmo modo que o papão e o lobisomem. Quando, porém, elas deixam de ter medo, estão piores do que dantes. E, para alcançar-se tão belo resultado, não se levam em conta as inúmeras epilepsias causadas pelo abalo de cérebros delicados. Bem frágil seria a religião se, por não infundir terror, sua força pudesse ficar comprometida. Felizmente, assim não é. De outros meios dispõe ela para atuar sobre as almas. Mais eficazes e mais sérios são os que o Espiritismo lhe faculta, desde que ela os saiba utilizar. Ele mostra a realidade das coisas e só com isso neutraliza os funestos efeitos de um temor exagerado.
 
-🔖 [Desequilíbrio](#desequilibrio)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Loucura](#loucura)
+- 🔖 [Desequilíbrio](#desequilibrio)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Loucura](#loucura)
 ---
 
 #### 0.03.16. 📄 Intro 16 {#lde-0-04-16}
@@ -654,11 +655,11 @@ A esse argumento retrucam os adversários, perguntando, a seu turno, por que os 
 
 Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, em dado momento e, passado este, não há pedidos, nem súplicas que os façam voltar? Se o médium obrasse unicamente por impulsão mental dos assistentes, é claro que, em tal circunstância, o concurso de todas as vontades reunidas haveria de estimular-lhe a clarividência. Desde, portanto, que não cede ao desejo da assembleia, corroborado pela própria vontade dele, é que o médium obedece a uma influência que lhe é estranha e aos que o cercam, influência que, por esse simples fato, testifica da sua independência e da sua individualidade.
 
-🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🔖 [Fenômeno espírita](#fenomeno-espirita)
-🔖 [Influenciação](#influenciacao)
-🔖 [Médium](#medium)
-🔖 [Sonambulismo](#sonambulismo)
+- 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+- 🔖 [Fenômeno espírita](#fenomeno-espirita)
+- 🔖 [Influenciação](#influenciacao)
+- 🔖 [Médium](#medium)
+- 🔖 [Sonambulismo](#sonambulismo)
 ---
 
 #### 0.03.17. 📄 Intro 17 {#lde-0-04-17}
@@ -671,9 +672,9 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 
 👴🏻 ▸ Allan Kardec
 
-🔖 [Deus](#deus)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Deus](#deus)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ## 1. 🗃️ Causas primárias {#lde-1}
@@ -685,6 +686,7 @@ Neste capítulo:
 - [1.01.02. 📄 Provas da existência de Deus](#lde-1-01-02)
 - [1.01.03. 📄 Atributos da Divindade](#lde-1-01-03)
 - [1.01.04. 📄 Panteísmo](#lde-1-01-04)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -705,7 +707,7 @@ Que se deve entender por infinito?
 
 > ✨ ▸ O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.
 
-🔖 [Infinito](#infinito)
+- 🔖 [Infinito](#infinito)
 ---
 
 ##### #️⃣ Q.3 {#q3}
@@ -716,8 +718,8 @@ Poder-se-ia dizer que Deus é o infinito?
 
 > 👴🏻 ▸ Deus é *infinito* em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
 
-🔖 [Deus](#deus)
-🔖 [Infinito](#infinito)
+- 🔖 [Deus](#deus)
+- 🔖 [Infinito](#infinito)
 ---
 
 #### 1.01.02. 📄 Provas da existência de Deus {#lde-1-01-02}
@@ -737,7 +739,7 @@ Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem
 
 > ✨ ▸ A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa.
 
-🔖 [Sentimento](#sentimento)
+- 🔖 [Sentimento](#sentimento)
 ---
 
 ##### #️⃣ Q.6 {#q6}
@@ -748,8 +750,8 @@ O sentimento íntimo que temos da existência de Deus não poderia ser fruto da 
 
 > 👴🏻 ▸ Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
 
-🔖 [Deus](#deus)
-🔖 [Universalidade](#universalidade)
+- 🔖 [Deus](#deus)
+- 🔖 [Universalidade](#universalidade)
 ---
 
 ##### #️⃣ Q.7 {#q7}
@@ -760,7 +762,7 @@ Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da for
 
 > 👴🏻 ▸ Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
 
-🔖 [Matéria](#materia)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.8 {#q8}
@@ -771,7 +773,7 @@ Que se deve pensar da opinião dos que atribuem a formação primária a uma com
 
 > 👴🏻 ▸ A harmonia existente no mecanismo do Universo patenteia combinações e desígnios determinados e, por isso mesmo, revela um poder inteligente. Atribuir a formação primária ao acaso é insensatez, pois que o acaso é cego e não pode produzir os efeitos que a inteligência produz. Um acaso inteligente já não seria acaso.
 
-🔖 [Harmonia](#harmonia)
+- 🔖 [Harmonia](#harmonia)
 ---
 
 ##### #️⃣ Q.9 {#q9}
@@ -784,7 +786,7 @@ Em que é que, na causa primária, se revela uma inteligência suprema e superio
 > 
 > Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela inteligência superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem.
 
-🔖 [Deus](#deus)
+- 🔖 [Deus](#deus)
 ---
 
 #### 1.01.03. 📄 Atributos da Divindade {#lde-1-01-03}
@@ -804,8 +806,8 @@ Será dado um dia ao homem compreender o mistério da Divindade?
 
 > 👴🏻 ▸ A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de Deus. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão.
 
-🔖 [Compreensão](#compreensao)
-🔖 [Deus](#deus)
+- 🔖 [Compreensão](#compreensao)
+- 🔖 [Deus](#deus)
 ---
 
 ##### #️⃣ Q.12 {#q12}
@@ -814,7 +816,7 @@ Embora não possamos compreender a natureza íntima de Deus, podemos formar idé
 
 > ✨ ▸ De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento.
 
-🔖 [Entendimento](#entendimento)
+- 🔖 [Entendimento](#entendimento)
 ---
 
 ##### #️⃣ Q.13 {#q13}
@@ -835,8 +837,8 @@ Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipo
 > 
 > É *soberanamente justo e bom*. A sabedoria providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa sabedoria não permite se duvide nem da Justiça nem da Bondade de Deus.
 
-🔖 [Deus](#deus)
-🔖 [Divindade](#divindade)
+- 🔖 [Deus](#deus)
+- 🔖 [Divindade](#divindade)
 ---
 
 #### 1.01.04. 📄 Panteísmo {#lde-1-01-04}
@@ -854,8 +856,8 @@ Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos
 
 > ✨ ▸ Não podendo fazer-se Deus, o homem quer ao menos ser uma parte de Deus.
 
-🔖 [Criatura](#criatura)
-🔖 [Panteísmo](#panteismo)
+- 🔖 [Criatura](#criatura)
+- 🔖 [Panteísmo](#panteismo)
 ---
 
 ##### #️⃣ Q.16 {#q16}
@@ -868,9 +870,9 @@ Pretendem os que professam esta doutrina achar nela a demonstração de alguns d
 > 
 > A inteligência de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio Deus, como o quadro não é o pintor que o concebeu e executou.
 
-🔖 [Deus](#deus)
-🔖 [Panteísmo](#panteismo)
-🔖 [Razão](#razao)
+- 🔖 [Deus](#deus)
+- 🔖 [Panteísmo](#panteismo)
+- 🔖 [Razão](#razao)
 ---
 
 ### 1.02. 🗂️ Elementos gerais do Universo {#lde-1-02}
@@ -880,6 +882,7 @@ Neste capítulo:
 - [1.02.02. 📄 Espírito e Matéria](#lde-1-02-02)
 - [1.02.03. 📄 Propriedades da Matéria](#lde-1-02-03)
 - [1.02.04. 📄 Espaço universal](#lde-1-02-04)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -898,7 +901,7 @@ Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 
 > ✨ ▸ O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui.
 
-🔖 [Mistério](#misterio)
+- 🔖 [Mistério](#misterio)
 ---
 
 ##### #️⃣ Q.19 {#q19}
@@ -909,8 +912,8 @@ Não pode o homem, pelas investigações científicas, penetrar alguns dos segre
 
 > 👴🏻 ▸ Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a sabedoria do Criador . Entretanto, seja por orgulho, seja por fraqueza, sua própria inteligência o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
 
-🔖 [Ciência](#ciencia)
-🔖 [Mistério](#misterio)
+- 🔖 [Ciência](#ciencia)
+- 🔖 [Mistério](#misterio)
 ---
 
 ##### #️⃣ Q.20 {#q20}
@@ -921,8 +924,8 @@ Dado é ao homem receber, sem ser por meio das investigações da Ciência, comu
 
 > 👴🏻 ▸ Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
 
-🔖 [Conhecimento](#conhecimento)
-🔖 [Revelação](#revelacao)
+- 🔖 [Conhecimento](#conhecimento)
+- 🔖 [Revelação](#revelacao)
 ---
 
 #### 1.02.02. 📄 Espírito e Matéria {#lde-1-02-02}
@@ -940,7 +943,7 @@ Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos 
 
 > ✨ ▸ Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
 
-🔖 [Matéria](#materia)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.22.a {#q22a}
@@ -951,7 +954,7 @@ Que definição podeis dar da matéria?
 
 > 👴🏻 ▸ Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
 
-🔖 [Matéria](#materia)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.23 {#q23}
@@ -960,7 +963,7 @@ Que é o espírito?
 
 > ✨ ▸ O princípio inteligente do Universo.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.23.a {#q23a}
@@ -969,7 +972,7 @@ Qual a natureza íntima do espírito?
 
 > ✨ ▸ Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.
 
-🔖 [Nada](#nada)
+- 🔖 [Nada](#nada)
 ---
 
 ##### #️⃣ Q.24 {#q24}
@@ -978,8 +981,8 @@ Qual a natureza íntima do espírito?
 
 > ✨ ▸ A inteligência é um atributo essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Inteligência](#inteligencia)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Inteligência](#inteligencia)
 ---
 
 ##### #️⃣ Q.25 {#q25}
@@ -988,8 +991,8 @@ O espírito independe da matéria, ou é apenas uma propriedade desta, como as c
 
 > ✨ ▸ São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Matéria](#materia)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.25.a {#q25a}
@@ -998,7 +1001,7 @@ Essa união é igualmente necessária para a manifestação do espírito? (Enten
 
 > ✨ ▸ É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos.
 
-🔖 [Percepção](#percepcao)
+- 🔖 [Percepção](#percepcao)
 ---
 
 ##### #️⃣ Q.26 {#q26}
@@ -1007,7 +1010,7 @@ Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
 
 > ✨ ▸ Pode-se, é fora de dúvida, pelo pensamento.
 
-🔖 [Percepção](#percepcao)
+- 🔖 [Percepção](#percepcao)
 ---
 
 ##### #️⃣ Q.27 {#q27}
@@ -1016,10 +1019,10 @@ Há então dois elementos gerais do Universo: a matéria e o espírito?
 
 > ✨ ▸ Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Fluido universal](#fluido-universal)
-🔖 [Matéria](#materia)
-🔖 [Pensamento](#pensamento)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Fluido universal](#fluido-universal)
+- 🔖 [Matéria](#materia)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 ##### #️⃣ Q.27.a {#q27a}
@@ -1028,8 +1031,8 @@ Esse fluido será o que designamos pelo nome de eletricidade?
 
 > ✨ ▸ Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.
 
-🔖 [Eletricidade](#eletricidade)
-🔖 [Fluido universal](#fluido-universal)
+- 🔖 [Eletricidade](#eletricidade)
+- 🔖 [Fluido universal](#fluido-universal)
 ---
 
 ##### #️⃣ Q.28 {#q28}
@@ -1040,8 +1043,8 @@ Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos suje
 
 > 👴🏻 ▸ Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus.
 
-🔖 [Linguagem](#linguagem)
-🔖 [Princípio inteligente](#principio-inteligente)
+- 🔖 [Linguagem](#linguagem)
+- 🔖 [Princípio inteligente](#principio-inteligente)
 ---
 
 #### 1.02.03. 📄 Propriedades da Matéria {#lde-1-02-03}
@@ -1085,7 +1088,7 @@ A mesma matéria elementar é suscetível de experimentar todas as modificaçõe
 
 > 👴🏻 ▸ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 
-🔖 [Matéria](#materia)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.33.a {#q33a}
@@ -1094,7 +1097,7 @@ Não parece que esta teoria dá razão aos que não admitem na matéria senão d
 
 > ✨ ▸ É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.
 
-🔖 [Matéria](#materia)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.34 {#q34}
@@ -1103,8 +1106,8 @@ As moléculas têm forma determinada?
 
 > ✨ ▸ Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.
 
-🔖 [Matéria](#materia)
-🔖 [Molécula](#molecula)
+- 🔖 [Matéria](#materia)
+- 🔖 [Molécula](#molecula)
 ---
 
 ##### #️⃣ Q.34.a {#q34a}
@@ -1113,7 +1116,7 @@ Essa forma é constante ou variável?
 
 > ✨ ▸ Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.
 
-🔖 [Molécula](#molecula)
+- 🔖 [Molécula](#molecula)
 ---
 
 #### 1.02.04. 📄 Espaço universal {#lde-1-02-04}
@@ -1133,8 +1136,8 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 
 > ✨ ▸ Não, não há o vácuo. O que te parece vazio) está ocupado por matéria que te escapa aos sentidos e aos instrumentos.
 
-🔖 [Espaço](#espaco)
-🔖 [Vácuo](#vacuo)
+- 🔖 [Espaço](#espaco)
+- 🔖 [Vácuo](#vacuo)
 ---
 
 ### 1.03. 🗂️ Criação {#lde-1-03}
@@ -1146,6 +1149,7 @@ Neste capítulo:
 - [1.03.04. 📄 Diversidade das raças humanas](#lde-1-03-04)
 - [1.03.05. 📄 Pluralidade dos mundos](#lde-1-03-04)
 - [1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação](#lde-1-03-04)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -1181,7 +1185,7 @@ Poderemos conhecer o modo de formação dos mundos?
 
 > ✨ ▸ Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela condensação da matéria disseminada no Espaço.
 
-🔖 [Deus](#deus)
+- 🔖 [Deus](#deus)
 ---
 
 ##### #️⃣ Q.40 {#q40}
@@ -1190,7 +1194,7 @@ Serão os cometas, como agora se pensa, um começo de condensação da matéria,
 
 > ✨ ▸ Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os corpos celestes influem de algum modo em certos fenônemo físicos.
 
-🔖 [Cometa](#cometa)
+- 🔖 [Cometa](#cometa)
 ---
 
 ##### #️⃣ Q.41 {#q41}
@@ -1199,7 +1203,7 @@ Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espa�
 
 > ✨ ▸ Sim, Deus renova os mundos, como renova os seres vivos.
 
-🔖 [Lei de destruição](#lei-de-destruicao)
+- 🔖 [Lei de destruição](#lei-de-destruicao)
 ---
 
 ##### #️⃣ Q.42 {#q42}
@@ -1208,8 +1212,8 @@ Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exe
 
 > ✨ ▸ Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.
 
-🔖 [Mundos](#mundos)
-🔖 [Tempo](#tempo)
+- 🔖 [Mundos](#mundos)
+- 🔖 [Tempo](#tempo)
 ---
 
 #### 1.03.02. 📄 Formação dos seres vivos {#lde-1-03-02}
@@ -1227,8 +1231,8 @@ Donde vieram para a Terra os seres vivos?
 
 > ✨ ▸ A Terra lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de inércia, como a crisálida e as sementes das plantas, até o momento propício ao surto de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
 
-🔖 [Geração espontânea](#geracao-espontanea)
-🔖 [Seres vivos](#seres-vivos)
+- 🔖 [Geração espontânea](#geracao-espontanea)
+- 🔖 [Seres vivos](#seres-vivos)
 ---
 
 ##### #️⃣ Q.45 {#q45}
@@ -1239,7 +1243,7 @@ Onde estavam os elementos orgânicos, antes da formação da Terra?
 
 > 👴🏻 ▸ A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio *latente* de vitalidade, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do caos pela força mesma da natureza, diminui de alguma coisa a grandeza de Deus? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta teoria não resolve, é verdade, a questão da origem dos elementos vitais; mas Deus tem seus mistérios e pôs limites às nossas investigações.
 
-🔖 [Elementos orgânicos](#elementos-organicos)
+- 🔖 [Elementos orgânicos](#elementos-organicos)
 ---
 
 ##### #️⃣ Q.46 {#q46}
@@ -1248,7 +1252,7 @@ Ainda há seres que nasçam espontaneamente?
 
 > ✨ ▸ Sim, mas o germe primitivo já existia em estado latente. Sois todos os dias testemunhas desse fenômeno. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação pútrida que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria.
 
-🔖 [Nascimento](#nascimento)
+- 🔖 [Nascimento](#nascimento)
 ---
 
 ##### #️⃣ Q.47 {#q47}
@@ -1257,8 +1261,8 @@ A espécie humana se encontrava entre os elementos orgânicos contidos no globo 
 
 > ✨ ▸ Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do limo da terra.
 
-🔖 [Cordão fluídico](#cordao-fluidico)
-🔖 [Elementos orgânicos](#elementos-organicos)
+- 🔖 [Cordão fluídico](#cordao-fluidico)
+- 🔖 [Elementos orgânicos](#elementos-organicos)
 ---
 
 ##### #️⃣ Q.48 {#q48}
@@ -1267,7 +1271,7 @@ Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na
 
 > ✨ ▸ Não; todos os vossos cálculos são quiméricos.
 
-🔖 [Homem](#homem)
+- 🔖 [Homem](#homem)
 ---
 
 ##### #️⃣ Q.49 {#q49}
@@ -1276,9 +1280,9 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 
 > ✨ ▸ O princípio das coisas está nos segredos de Deus. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos.
 
-🔖 [Geração espontânea](#geracao-espontanea)
-🔖 [Homem](#homem)
-🔖 [Seres vivos](#seres-vivos)
+- 🔖 [Geração espontânea](#geracao-espontanea)
+- 🔖 [Homem](#homem)
+- 🔖 [Seres vivos](#seres-vivos)
 ---
 
 #### 1.03.03. 📄 Povoamento da Terra. Adão {#lde-1-03-03}
@@ -1298,8 +1302,8 @@ Poderemos saber em que época viveu Adão?
 
 > 👴🏻 ▸ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do Cristo, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na Terra senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo.
 
-🔖 [Adão](#adao)
-🔖 [Povoamento](#povoamento)
+- 🔖 [Adão](#adao)
+- 🔖 [Povoamento](#povoamento)
 ---
 
 #### 1.03.04. 📄 Diversidade das raças humanas {#lde-1-03-04}
@@ -1317,7 +1321,7 @@ O homem surgiu em muitos pontos do globo?
 
 > ✨ ▸ Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram.
 
-🔖 [Homem](#homem)
+- 🔖 [Homem](#homem)
 ---
 
 ##### #️⃣ Q.53.a {#q53a}
@@ -1332,7 +1336,7 @@ Pelo fato de não proceder de um só indivíduo a espécie humana, devem os home
 
 > ✨ ▸ Todos os homens são irmãos em Deus, porque são animados pelo espírito e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal.
 
-🔖 [Família](#familia)
+- 🔖 [Família](#familia)
 ---
 
 #### 1.03.05. 📄 Pluralidade dos mundos {#lde-1-03-05}
@@ -1345,7 +1349,7 @@ São habitados todos os globos que se movem no Espaço?
 
 > 👴🏻 ▸ Deus povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da sabedoria de Deus, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
 
-🔖 [Pluralidade dos mundos habitados](#pluralidade-dos-mundos-habitados)
+- 🔖 [Pluralidade dos mundos habitados](#pluralidade-dos-mundos-habitados)
 ---
 
 ##### #️⃣ Q.56 {#q56}
@@ -1361,7 +1365,7 @@ Não sendo uma só para todos a constituição física dos mundos, seguir-se-á 
 
 > ✨ ▸ Sem dúvida, do mesmo modo que no vosso os peixes são feitos para viver na água e os pássaros no ar.
 
-🔖 [Mundos habitados](#mundos-habitados)
+- 🔖 [Mundos habitados](#mundos-habitados)
 ---
 
 ##### #️⃣ Q.58 {#q58}
@@ -1372,7 +1376,7 @@ Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de 
 
 > 👴🏻 ▸ As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem dúvida contêm elementos que desconhecemos. Não vemos na Terra as longas noites polares iluminadas pela eletricidade das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na Terra e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes.
 
-🔖 [Mundos habitados](#mundos-habitados)
+- 🔖 [Mundos habitados](#mundos-habitados)
 ---
 
 #### 1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação {#lde-1-03-06}
@@ -1395,10 +1399,10 @@ A diversidade das raças corrobora, igualmente, esta opinião. O clima e os cost
 
 Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo.
 
-🔖 [Mundo](#mundo)
-🔖 [Oriente](#oriente)
-🔖 [Raciocínio](#raciocinio)
-🔖 [Sentido](#sentido)
+- 🔖 [Mundo](#mundo)
+- 🔖 [Oriente](#oriente)
+- 🔖 [Raciocínio](#raciocinio)
+- 🔖 [Sentido](#sentido)
 ---
 
 ### 1.04. 🗂️ Princípio Vital {#lde-1-04}
@@ -1407,6 +1411,7 @@ Neste capítulo:
 - [1.04.01. 📄 Seres orgânicos e inorgânicos](#lde-1-04-01)
 - [1.04.02. 📄 A vida e a morte](#lde-1-04-02)
 - [1.04.03. 📄 Inteligência e instinto](#lde-1-04-03)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -1414,8 +1419,8 @@ Voltar para:
 
 👴🏻 ▸ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.
 
-🔖 [Dilúvio](#diluvio)
-🔖 [Lei de atração](#lei-de-atracao)
+- 🔖 [Dilúvio](#diluvio)
+- 🔖 [Lei de atração](#lei-de-atracao)
 ---
 
 ##### #️⃣ Q.60 {#q60}
@@ -1431,7 +1436,7 @@ Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 
 > ✨ ▸ A matéria é sempre a mesma, porém nos corpos orgânicos está animalizada.
 
-🔖 [Matéria](#materia)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.62 {#q62}
@@ -1440,8 +1445,8 @@ Qual a causa da animalização da matéria?
 
 > ✨ ▸ Sua união com o princípio vital.
 
-🔖 [Matéria](#materia)
-🔖 [Princípio vital](#principio-vital)
+- 🔖 [Matéria](#materia)
+- 🔖 [Princípio vital](#principio-vital)
 ---
 
 ##### #️⃣ Q.63 {#q63}
@@ -1450,7 +1455,7 @@ O princípio vital reside nalgum agente particular, ou é simplesmente uma propr
 
 > ✨ ▸ Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam.
 
-🔖 [Princípio vital](#principio-vital)
+- 🔖 [Princípio vital](#principio-vital)
 ---
 
 ##### #️⃣ Q.64 {#q64}
@@ -1461,7 +1466,7 @@ Vimos que o espírito e a matéria são dois elementos constitutivos do Universo
 
 ↩️ Voltar para [Q.680](#q680)
 
-🔖 [Princípio vital](#principio-vital)
+- 🔖 [Princípio vital](#principio-vital)
 ---
 
 ##### #️⃣ Q.64.a {#q64a}
@@ -1476,7 +1481,7 @@ O princípio vital reside em algum dos corpos que conhecemos?
 
 > ✨ ▸ Ele tem por fonte o fluido universal. É o que chamais fluido magnético ou fluido elétrico animalizado. É o intermediário, o elo existente entre o espírito e a matéria.
 
-🔖 [Matéria](#materia)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.66 {#q66}
@@ -1485,7 +1490,7 @@ O princípio vital é um só para todos os seres orgânicos?
 
 > ✨ ▸ Sim, modificado segundo as espécies. É ele que lhes dá movimento e atividade e os distingue da matéria inerte, porquanto o movimento da matéria não é a vida. Esse movimento ela o recebe, não o dá.
 
-🔖 [Princípio vital](#principio-vital)
+- 🔖 [Princípio vital](#principio-vital)
 ---
 
 ##### #️⃣ Q.67 {#q67}
@@ -1494,7 +1499,7 @@ A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pe
 
 > ✨ ▸ Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida.
 
-🔖 [Princípio vital](#principio-vital)
+- 🔖 [Princípio vital](#principio-vital)
 ---
 
 ##### #️⃣ Q.67.a {#q67a}
@@ -1505,7 +1510,7 @@ Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vi
 
 > 👴🏻 ▸ O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade daquele agente, quase como sucede com o atrito, que desenvolve o calor.
 
-🔖 [Princípio vital](#principio-vital)
+- 🔖 [Princípio vital](#principio-vital)
 ---
 
 #### 1.04.02. 📄 A vida e a morte {#lde-1-04-02}
@@ -1523,8 +1528,8 @@ Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorgan
 
 > ✨ ▸ Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue.
 
-🔖 [Corpo físico](#corpo-fisico)
-🔖 [Enfermidade](#enfermidade)
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Enfermidade](#enfermidade)
 ---
 
 ##### #️⃣ Q.69 {#q69}
@@ -1533,8 +1538,8 @@ Por que uma lesão do coração mais depressa causa a morte do que as de outros 
 
 > ✨ ▸ O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais.
 
-🔖 [Coração](#coracao)
-🔖 [Morte](#morte)
+- 🔖 [Coração](#coracao)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.70 {#q70}
@@ -1557,9 +1562,9 @@ Que é feito da matéria e do princípio vital dos seres orgânicos, quando este
 > 
 > O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se.
 
-🔖 [Fluido vital](#fluido-vital)
-🔖 [Princípio vital](#principio-vital)
-🔖 [Seres vivos](#seres-vivos)
+- 🔖 [Fluido vital](#fluido-vital)
+- 🔖 [Princípio vital](#principio-vital)
+- 🔖 [Seres vivos](#seres-vivos)
 ---
 
 #### 1.04.03. 📄 Inteligência e instinto {#lde-1-04-03}
@@ -1587,7 +1592,7 @@ Qual a fonte da inteligência?
 
 > ✨ ▸ Já o dissemos; a inteligência universal.
 
-🔖 [Inteligência](#inteligencia)
+- 🔖 [Inteligência](#inteligencia)
 ---
 
 ##### #️⃣ Q.72.a {#q72a}
@@ -1596,7 +1601,7 @@ Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte unive
 
 > ✨ ▸ Isto não passa de simples comparação, todavia inexata, porque a inteligência é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número.
 
-🔖 [Inteligência](#inteligencia)
+- 🔖 [Inteligência](#inteligencia)
 ---
 
 ##### #️⃣ Q.73 {#q73}
@@ -1605,7 +1610,7 @@ O instinto independe da inteligência?
 
 > ✨ ▸ Precisamente, não, por isso que o instinto é uma espécie de inteligência. É uma inteligência sem raciocínio. Por ele é que todos os seres proveem às suas necessidades.
 
-🔖 [Instinto](#instinto)
+- 🔖 [Instinto](#instinto)
 ---
 
 ##### #️⃣ Q.74 {#q74}
@@ -1614,7 +1619,7 @@ Pode estabelecer-se uma linha de separação entre instinto e a inteligência, i
 
 > ✨ ▸ Não, porque muitas vezes se confundem, mas muito bem se podem distinguir os atos que decorrem do instinto dos que são da inteligência.
 
-🔖 [Instinto](#instinto)
+- 🔖 [Instinto](#instinto)
 ---
 
 ##### #️⃣ Q.75 {#q75}
@@ -1623,7 +1628,7 @@ Pode estabelecer-se uma linha de separação entre instinto e a inteligência, i
 
 > ✨ ▸ Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia.
 
-🔖 [Razão](#razao)
+- 🔖 [Razão](#razao)
 ---
 
 ##### #️⃣ Q.75.a {#q75a}
@@ -1636,9 +1641,9 @@ Por que nem sempre é guia infalível a razão?
 > 
 > O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade.
 
-🔖 [Instinto](#instinto)
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Razão](#razao)
+- 🔖 [Instinto](#instinto)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Razão](#razao)
 ---
 
 ## 2. 🗃️ Mundo espiritual {#lde-2}
@@ -1657,6 +1662,7 @@ Neste capítulo:
 - [2.01.09. 📄 1ª ordem – Espíritos puros](#lde-2-01-09)
 - [2.01.10. 📄 Progressão dos Espíritos](#lde-2-01-10)
 - [2.01.11. 📄 Anjos e demônios](#lde-2-01-11)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -1678,8 +1684,8 @@ Os Espíritos são seres distintos da Divindade ou serão simples emanações ou
 
 > ✨ ▸ Meu Deus! São obra de Deus, exatamente como uma máquina o é do homem que a fabrica. Esta máquina é obra do homem, não é o próprio homem. Sabes que, quando faz alguma coisa bela, útil, o homem lhe chama sua filha, criação sua. Pois bem! O mesmo se dá com relação a Deus: somos seus filhos, pois que somos obra sua.
 
-🔖 [Deus](#deus)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Deus](#deus)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.78 {#q78}
@@ -1688,9 +1694,9 @@ Os Espíritos tiveram princípio ou existem, como Deus, de toda a eternidade?
 
 > ✨ ▸ Se não tivessem tido princípio, seriam iguais a Deus, quando, ao invés, são criação sua e se acham submetidos à sua vontade. Deus existe de toda a eternidade, é incontestável. Quanto, porém, ao modo por que nos criou e em que momento o fez, nada sabemos. Podes dizer que não tivemos princípio, se quiseres com isso significar que, sendo eterno, Deus há de ter sempre criado ininterruptamente. Mas quando e como cada um de nós foi feito, repito-te, nenhum o sabe: aí é que está o mistério.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Mistério](#misterio)
-🔖 [Trabalho](#trabalho)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Mistério](#misterio)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.79 {#q79}
@@ -1699,9 +1705,9 @@ Pois que há dois elementos gerais no Universo: o elemento inteligente e o eleme
 
 > ✨ ▸ Evidentemente. Os Espíritos são a individualização do princípio inteligente, como os corpos são a individualização do princípio material. A época e o modo por que essa formação se operou é que são desconhecidos.
 
-🔖 [Criação](#criacao)
-🔖 [Matéria](#materia)
-🔖 [Princípio inteligente](#principio-inteligente)
+- 🔖 [Criação](#criacao)
+- 🔖 [Matéria](#materia)
+- 🔖 [Princípio inteligente](#principio-inteligente)
 ---
 
 ##### #️⃣ Q.80 {#q80}
@@ -1710,7 +1716,7 @@ A criação dos Espíritos é permanente ou só se deu na origem dos tempos?
 
 > ✨ ▸ É permanente. Quer dizer: Deus jamais deixou de criar.
 
-🔖 [Trabalho](#trabalho)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.81 {#q81}
@@ -1719,7 +1725,7 @@ Os Espíritos se formam espontaneamente ou procedem uns dos outros?
 
 > ✨ ▸ Deus os cria, como a todas as outras criaturas, pela sua vontade. Mas repito ainda uma vez, a origem deles é mistério.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.82 {#q82}
@@ -1730,7 +1736,7 @@ Será certo dizer-se que os Espíritos são imateriais?
 
 > 👴🏻 ▸ Dizemos que os Espíritos são imateriais, porque, pela sua essência, diferem de tudo o que conhecemos sob o nome de matéria. Um povo de cegos careceria de termos para exprimir a luz e seus efeitos. O cego de nascença se julga capaz de todas as percepções pelo ouvido, pelo olfato, pelo paladar e pelo tato. Não compreende as ideias que só lhe poderiam ser dadas pelo sentido que lhe falta. Nós outros somos verdadeiros cegos com relação à essência dos seres sobre-humanos. Não os podemos definir senão por meio de comparações sempre imperfeitas ou por um esforço da imaginação.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.83 {#q83}
@@ -1739,8 +1745,8 @@ Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles em
 
 > ✨ ▸ Há muitas coisas que não compreendeis, porque tendes limitada a inteligência. Isso, porém, não é razão para que as repilais. O filho não compreende tudo o que a seu pai é compreensível, nem o ignorante tudo o que o sábio apreende. Dizemos que a existência dos Espíritos não tem fim. É tudo o que podemos, por agora, dizer.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Imortalidade](#imortalidade)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Imortalidade](#imortalidade)
 ---
 
 #### 2.01.02. 📄 Mundo normal primitivo {#lde-2-01-02}
@@ -1760,7 +1766,7 @@ Qual dos dois, o mundo espírita ou o mundo corpóreo, é o principal, na ordem 
 
 ↩️ Voltar para [Q.738a](#q738a)
 
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 ##### #️⃣ Q.86 {#q86}
@@ -1769,7 +1775,7 @@ O mundo corporal poderia deixar de existir, ou nunca ter existido, sem que isso 
 
 > ✨ ▸ Decerto. Eles são independentes; contudo, é incessante a correlação entre ambos, porquanto um sobre o outro incessantemente reagem.
 
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 ##### #️⃣ Q.87 {#q87}
@@ -1778,9 +1784,9 @@ Ocupam os Espíritos uma região determinada e circunscrita no Espaço?
 
 > ✨ ▸ Estão por toda parte. Povoam infinitamente os espaços infinitos. Tendes muitos deles de contínuo a vosso lado, observando-vos e sobre vós atuando, sem o perceberdes, pois que os Espíritos são uma das potências da natureza e os instrumentos de que Deus se serve para execução de seus desígnios providenciais. Nem todos, porém, vão a toda parte, por isso que há regiões interditas aos menos adiantados.
 
-🔖 [Erraticidade](#erraticidade)
-🔖 [Mundo espiritual](#mundo-espiritual)
-🔖 [Povoamento](#povoamento)
+- 🔖 [Erraticidade](#erraticidade)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Povoamento](#povoamento)
 ---
 
 #### 2.01.03. 📄 Forma e ubiquidade dos Espíritos {#lde-2-01-03}
@@ -1807,9 +1813,9 @@ Os Espíritos gastam algum tempo para percorrer o Espaço?
 
 > ✨ ▸ Sim, mas fazem-no com a rapidez do pensamento.
 
-🔖 [Locomoção](#locomocao)
-🔖 [Pensamento](#pensamento)
-🔖 [Velocidade](#velocidade)
+- 🔖 [Locomoção](#locomocao)
+- 🔖 [Pensamento](#pensamento)
+- 🔖 [Velocidade](#velocidade)
 ---
 
 ##### #️⃣ Q.89.a {#q89a}
@@ -1818,9 +1824,9 @@ O pensamento não é a própria alma que se transporta?
 
 > ✨ ▸ Quando o pensamento está em alguma parte, a alma também aí está, pois que é a alma que pensa. O pensamento é um atributo.
 
-🔖 [Alma](#alma)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Pensamento](#pensamento)
+- 🔖 [Alma](#alma)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 ##### #️⃣ Q.90 {#q90}
@@ -1829,7 +1835,7 @@ O Espírito que se transporta de um lugar a outro tem consciência da distância
 
 > ✨ ▸ Dá-se uma e outra coisa. O Espírito pode perfeitamente, se o quiser, inteirar-se da distância que percorre, mas também essa distância pode desaparecer completamente, dependendo isso da sua vontade, bem como da sua natureza mais ou menos depurada.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.91 {#q91}
@@ -1838,7 +1844,7 @@ A matéria opõe obstáculo aos Espíritos?
 
 > ✨ ▸ Nenhum; eles passam através de tudo. O ar, a terra, as águas e até mesmo o fogo lhes são igualmente acessíveis.
 
-🔖 [Matéria](#materia)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.92 {#q92}
@@ -1849,8 +1855,8 @@ Têm os Espíritos o dom da ubiquidade? Por outras palavras: um Espírito pode d
 
 ↩️ Voltar para [Q.247](#q247)
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Ubiquidade](#ubiquidade)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Ubiquidade](#ubiquidade)
 ---
 
 ##### #️⃣ Q.92.a {#q92a}
@@ -1861,7 +1867,7 @@ Todos os Espíritos irradiam com igual força?
 
 > 👴🏻 ▸ Cada Espírito é uma unidade indivisível, mas cada um pode lançar seus pensamentos para diversos lados, sem que se fracione para tal efeito. Nesse sentido unicamente é que se deve entender o dom da ubiquidade atribuído aos Espíritos. Dá-se com eles o que se dá com uma centelha, que projeta longe a sua claridade e pode ser percebida de todos os pontos do horizonte; ou, ainda, o que se dá com um homem que, sem mudar de lugar e sem se fracionar, transmite ordens, sinais e movimento a diferentes pontos.
 
-🔖 [Irradiação](#irradiacao)
+- 🔖 [Irradiação](#irradiacao)
 ---
 
 #### 2.01.04. 📄 Perispírito {#lde-2-01-04}
@@ -1881,7 +1887,7 @@ De onde tira o Espírito o seu invólucro semimaterial?
 
 > ✨ ▸ Do fluido universal de cada globo, razão por que não é idêntico em todos os mundos. Passando de um mundo a outro, o Espírito muda de envoltório, como mudais de roupa.
 
-🔖 [Perispírito](#perispirito)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 ##### #️⃣ Q.94.a {#q94a}
@@ -1890,7 +1896,7 @@ Assim, quando os Espíritos que habitam mundos superiores vêm ao nosso meio, to
 
 > ✨ ▸ É necessário que se revistam da vossa matéria, já o dissemos.
 
-🔖 [Perispírito](#perispirito)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 ##### #️⃣ Q.95 {#q95}
@@ -1899,7 +1905,7 @@ O invólucro semimaterial do Espírito tem formas determinadas e pode ser percep
 
 > ✨ ▸ Tem a forma que o Espírito queira. É assim que este vos aparece algumas vezes, quer em sonho, quer no estado de vigília, e que pode tomar forma visível, mesmo palpável.
 
-🔖 [Perispírito](#perispirito)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 #### 2.01.05. 📄 Diferentes ordens de Espíritos {#lde-2-01-05}
@@ -1917,9 +1923,9 @@ As ordens ou graus de perfeição dos Espíritos são em número determinado?
 
 > ✨ ▸ São ilimitadas em número, porque entre elas não há linhas de demarcação traçadas como barreiras, de sorte que as divisões podem ser multiplicadas ou restringidas livremente. Todavia, considerando-se os caracteres gerais dos Espíritos, elas podem reduzir-se a três principais. Na primeira, colocar-se-ão os que atingiram a perfeição máxima: os puros Espíritos. Formam a segunda os que chegaram ao meio da escala: o desejo do bem é o que neles predomina. Pertencerão à terceira os que ainda se acham na parte inferior da escala: os Espíritos imperfeitos. A ignorância, o desejo do mal e todas as paixões más que lhes retardam o progresso, eis o que os caracteriza.
 
-🔖 [Classificação](#classificacao)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Hierarquia](#hierarquia)
+- 🔖 [Classificação](#classificacao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Hierarquia](#hierarquia)
 ---
 
 ##### #️⃣ Q.98 {#q98}
@@ -1928,7 +1934,7 @@ Os Espíritos da segunda ordem, para os quais o bem constitui a preocupação do
 
 > ✨ ▸ Cada um deles dispõe desse poder, de acordo com o grau de perfeição a que chegou. Assim, uns possuem a ciência, outros a sabedoria e a bondade. Todos, porém, ainda têm que sofrer provas.
 
-🔖 [Espírito bom](#espirito-bom)
+- 🔖 [Espírito bom](#espirito-bom)
 ---
 
 ##### #️⃣ Q.99 {#q99}
@@ -1937,8 +1943,8 @@ Os da terceira ordem são todos essencialmente maus?
 
 > ✨ ▸ Não; uns há que não fazem nem o mal nem o bem; outros, ao contrário, se comprazem no mal e ficam satisfeitos quando se lhes depara ocasião de praticá-lo. Há também os levianos ou *estouvados*, mais perturbadores do que malignos, que se comprazem antes na malícia do que na malvadez e cujo prazer consiste em mistificar e causar pequenas contrariedades, de que se riem.
 
-🔖 [Espírito imperfeito](#espirito-imperfeito)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito imperfeito](#espirito-imperfeito)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 #### 2.01.06. 📄 Escala espírita {#lde-2-01-06}
@@ -1991,7 +1997,7 @@ Alguns povos os arvoraram em divindades maléficas; outros os designam pelos nom
 
 Quando encarnados, os seres vivos que eles constituem se mostram propensos a todos os vícios geradores das paixões vis e degradantes: a sensualidade, a crueldade, a felonia, a hipocrisia, a cupidez, a avareza sórdida. Fazem o mal por prazer, as mais das vezes sem motivo, e, por ódio ao bem, quase sempre escolhem suas vítimas entre as pessoas honestas. São flagelos para a Humanidade, pouco importando a categoria social a que pertençam, e o verniz da civilização não os forra ao opróbrio e à ignomínia.
 
-🔖 [Espíritos impuros](#espiritos-impuros)
+- 🔖 [Espíritos impuros](#espiritos-impuros)
 ---
 
 ##### #️⃣ Q.103 {#q103}
@@ -2000,25 +2006,25 @@ Nona classe. Espíritos levianos. — São ignorantes, maliciosos, irrefletidos 
 
 Em suas comunicações com os homens, a linguagem de que se servem é, amiúde, espirituosa e faceta, mas quase sempre sem profundeza de ideias. Aproveitam-se das esquisitices e dos ridículos humanos e os apreciam, mordazes e satíricos. Se tomam nomes supostos, é mais por malícia do que por maldade.
 
-🔖 [Diabrete](#diabrete)
-🔖 [Duende](#duende)
-🔖 [Espíritos levianos](#espiritos-levianos)
-🔖 [Gnomo](#gnomo)
-🔖 [Trasgo](#trasgo)
+- 🔖 [Diabrete](#diabrete)
+- 🔖 [Duende](#duende)
+- 🔖 [Espíritos levianos](#espiritos-levianos)
+- 🔖 [Gnomo](#gnomo)
+- 🔖 [Trasgo](#trasgo)
 ---
 
 ##### #️⃣ Q.104 {#q104}
 
 Oitava classe. Espíritos pseudossábios. — Dispõem de conhecimentos bastante amplos, porém, creem saber mais do que realmente sabem. Tendo realizado alguns progressos sob diversos pontos de vista, a linguagem deles aparenta um cunho de seriedade, de natureza a iludir com respeito às suas capacidades e luzes. Mas, em geral, isso não passa de reflexo dos preconceitos e ideias sistemáticas que nutriam na vida terrena. É uma mistura de algumas verdades com os erros mais absurdos, nos quais penetram a presunção, o orgulho, o ciúme e a obstinação, de que ainda não puderam despir-se.
 
-🔖 [Espíritos pseudossábios](#espiritos-pseudossabios)
+- 🔖 [Espíritos pseudossábios](#espiritos-pseudossabios)
 ---
 
 ##### #️⃣ Q.105 {#q105}
 
 Sétima classe. Espíritos neutros. — Nem bastante bons para fazerem o bem, nem bastante maus para fazerem o mal. Pendem tanto para um como para o outro e não ultrapassam a condição comum da Humanidade, quer no que concerne ao moral, quer no que toca à inteligência. Apegam-se às coisas deste mundo, de cujas grosseiras alegrias sentem saudades.
 
-🔖 [Espíritos neutros](#espiritos-neutros)
+- 🔖 [Espíritos neutros](#espiritos-neutros)
 ---
 
 ##### #️⃣ Q.106 {#q106}
@@ -2027,7 +2033,7 @@ Sexta classe. Espíritos batedores e perturbadores. — Estes Espíritos, propri
 
 Todos os Espíritos podem produzir tais fenômenos, mas os de ordem elevada os deixam, de ordinário, como atribuições dos subalternos, mais aptos para as coisas materiais do que para as coisas da inteligência; quando julgam úteis as manifestações desse gênero, lançam mão destes últimos como seus auxiliares.
 
-🔖 [Espíritos batedores e perturbadores](#espiritos-batedores-e-perturbadores)
+- 🔖 [Espíritos batedores e perturbadores](#espiritos-batedores-e-perturbadores)
 ---
 
 #### 2.01.08. 📄 2ª ordem – Bons Espíritos {#lde-2-01-08}
@@ -2050,21 +2056,21 @@ Podem ser divididos em quatro grupos principais:
 
 Quinta classe. Espíritos benévolos. — A bondade é neles a qualidade dominante. Apraz-lhes prestar serviço aos homens e protegê-los. Limitados, porém, são os seus conhecimentos. Hão progredido mais no sentido moral do que no sentido intelectual.
 
-🔖 [Espíritos benévolos](#espiritos-benevolos)
+- 🔖 [Espíritos benévolos](#espiritos-benevolos)
 ---
 
 ##### #️⃣ Q.109 {#q109}
 
 Quarta classe. Espíritos sábios. — Distinguem-se especialmente pela amplitude de seus conhecimentos. Preocupam-se menos com as questões morais, do que com as de natureza científica, para as quais têm maior aptidão. Entretanto, só encaram a ciência do ponto de vista da sua utilidade e jamais dominados por quaisquer paixões próprias dos Espíritos imperfeitos.
 
-🔖 [Espíritos sábios](#espiritos-sabios)
+- 🔖 [Espíritos sábios](#espiritos-sabios)
 ---
 
 ##### #️⃣ Q.110 {#q110}
 
 Terceira classe. Espíritos de sabedoria. — As qualidades morais da ordem mais elevada são o que os caracteriza. Sem possuírem ilimitados conhecimentos, são dotados de uma capacidade intelectual que lhes faculta juízo reto sobre os homens e as coisas.
 
-🔖 [Espíritos sábios](#espiritos-sabios)
+- 🔖 [Espíritos sábios](#espiritos-sabios)
 ---
 
 ##### #️⃣ Q.111 {#q111}
@@ -2073,8 +2079,8 @@ Segunda classe. Espíritos superiores. — Esses em si reúnem a ciência, a sab
 
 Quando, por exceção, encarnam na Terra, é para cumprir missão de progresso e então nos oferecem o tipo da perfeição a que a Humanidade pode aspirar neste mundo.
 
-🔖 [Espírito bom](#espirito-bom)
-🔖 [Espíritos superiores](#espiritos-superiores)
+- 🔖 [Espírito bom](#espirito-bom)
+- 🔖 [Espíritos superiores](#espiritos-superiores)
 ---
 
 #### 2.01.09. 📄 1ª ordem – Espíritos puros {#lde-2-01-09}
@@ -2090,7 +2096,7 @@ Primeira classe. Classe única. — Os Espíritos que a compõem percorreram tod
 
 Gozam de inalterável felicidade, porque não se acham submetidos às necessidades, nem às vicissitudes da vida material. Essa felicidade, porém, não é a de uma *ociosidade monótona, a transcorrer em perpétua contemplação*. Eles são os mensageiros e os ministros de Deus, cujas ordens executam para manutenção da harmonia universal. Comandam a todos os Espíritos que lhes são inferiores, auxiliam-nos na obra de seu aperfeiçoamento e lhes designam as suas missões. Assistir os homens nas suas aflições, concitá-los ao bem ou à expiação das faltas que os conservam distanciados da suprema felicidade, constitui para eles ocupação gratíssima. São designados às vezes pelos nomes de anjo , arcanjos ou serafins. Podem os homens pôr-se em comunicação com eles, mas extremamente presunçoso seria aquele que pretendesse tê-los constantemente às suas ordens.
 
-🔖 [Espíritos puros](#espiritos-puros)
+- 🔖 [Espíritos puros](#espiritos-puros)
 ---
 
 #### 2.01.10. 📄 Progressão dos Espíritos {#lde-2-01-10}
@@ -2110,10 +2116,10 @@ Dos Espíritos, uns terão sido criados bons e outros maus?
 
 ↩️ Voltar para [Q.634](#q634)
 
-🔖 [Criação](#criacao)
-🔖 [Deus](#deus)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Perfeição](#perfeicao)
+- 🔖 [Criação](#criacao)
+- 🔖 [Deus](#deus)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Perfeição](#perfeicao)
 ---
 
 ##### #️⃣ Q.115.a {#q115a}
@@ -2122,7 +2128,7 @@ Segundo o que acabais de dizer, os Espíritos, em sua origem, seriam como as cri
 
 > ✨ ▸ Sim, a comparação é boa. A criança rebelde se conserva ignorante e imperfeita. Seu aproveitamento depende da sua maior ou menor docilidade. Mas a vida do homem tem termo, ao passo que a dos Espíritos se prolonga ao infinito.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.116 {#q116}
@@ -2145,7 +2151,7 @@ Podem os Espíritos degenerar?
 
 ↩️ Voltar para [Q.612](#q612)
 
-🔖 [Progresso](#progresso)
+- 🔖 [Progresso](#progresso)
 ---
 
 ##### #️⃣ Q.119 {#q119}
@@ -2159,9 +2165,9 @@ Não podia Deus isentar os Espíritos das provas que lhes cumpre sofrer para che
 ↩️ Voltar para [Q.634](#q634)
 ↩️ Voltar para [Q.871](#q871)
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Perfeição](#perfeicao)
-🔖 [Vida espiritual](#vida-espiritual)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Perfeição](#perfeicao)
+- 🔖 [Vida espiritual](#vida-espiritual)
 ---
 
 ##### #️⃣ Q.120 {#q120}
@@ -2170,8 +2176,8 @@ Todos os Espíritos passam pela fieira do mal para chegar ao bem?
 
 > ✨ ▸ Pela fieira do mal, não; pela fieira da ignorância.
 
-🔖 [Ignorância](#ignorancia)
-🔖 [Mal](#mal)
+- 🔖 [Ignorância](#ignorancia)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.121 {#q121}
@@ -2180,7 +2186,7 @@ Por que alguns Espíritos seguiram o caminho do bem e outros o do mal?
 
 > ✨ ▸ Não têm eles o livre-arbítrio? Deus não os criou maus; criou-os simples e ignorantes, isto é, tendo tanta aptidão para o bem quanta para o mal. Os que são maus, assim se tornaram por vontade própria.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.122 {#q122}
@@ -2189,7 +2195,7 @@ Como podem os Espíritos, em sua origem, quando ainda não têm consciência de 
 
 > ✨ ▸ O livre-arbítrio se desenvolve à medida que o Espírito adquire a consciência de si mesmo. Já não haveria liberdade, desde que a escolha fosse determinada por uma causa independente da vontade do Espírito. A causa não está nele, está fora dele, nas influências a que cede em virtude da sua livre vontade. É o que se contém na grande figura emblemática da queda do homem e do pecado original: uns cederam à tentação, outros resistiram.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.122.a {#q122a}
@@ -2198,9 +2204,9 @@ Donde vêm as influências que sobre ele se exercem?
 
 > ✨ ▸ Dos Espíritos imperfeitos, que procuram apoderar-se dele, dominá-lo, e que rejubilam com o fazê-lo sucumbir. Foi isso o que se intentou simbolizar na figura de Satanás.
 
-🔖 [Espíritos imperfeitos](#espiritos-imperfeitos)
-🔖 [Influenciação](#influenciacao)
-🔖 [Obsessão](#obsessao)
+- 🔖 [Espíritos imperfeitos](#espiritos-imperfeitos)
+- 🔖 [Influenciação](#influenciacao)
+- 🔖 [Obsessão](#obsessao)
 ---
 
 ##### #️⃣ Q.122.b {#q122b}
@@ -2209,8 +2215,8 @@ Tal influência só se exerce sobre o Espírito em sua origem?
 
 > ✨ ▸ Acompanha-o na sua vida de Espírito, até que haja conseguido tanto império sobre si mesmo, que os maus desistem de obsidiá-lo.
 
-🔖 [Reforma íntima](#reforma-intima)
-🔖 [Vida espiritual](#vida-espiritual)
+- 🔖 [Reforma íntima](#reforma-intima)
+- 🔖 [Vida espiritual](#vida-espiritual)
 ---
 
 ##### #️⃣ Q.123 {#q123}
@@ -2219,7 +2225,7 @@ Por que há Deus permitido que os Espíritos possam tomar o caminho do mal?
 
 > ✨ ▸ Como ousais pedir a Deus contas de seus atos? Supondes poder penetrar-lhe os desígnios? Podeis, todavia, dizer o seguinte: A sabedoria de Deus está na liberdade de escolher que Ele deixa a cada um, porquanto, assim, cada um tem o mérito de suas obras.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.124 {#q124}
@@ -2228,7 +2234,7 @@ Pois que há Espíritos que desde o princípio seguem o caminho do bem absoluto 
 
 > ✨ ▸ Sim, certamente, e os que se acham nos graus intermédios constituem a maioria.
 
-🔖 [Classificação](#classificacao)
+- 🔖 [Classificação](#classificacao)
 ---
 
 ##### #️⃣ Q.125 {#q125}
@@ -2239,8 +2245,8 @@ Os Espíritos que enveredaram pela senda do mal poderão chegar ao mesmo grau de
 
 > 👴🏻 ▸ Por estas palavras – *as eternidades* – se deve entender a ideia que os Espíritos inferiores fazem da perpetuidade de seus sofrimentos, cujo termo não lhes é dado ver, ideia que revive todas as vezes que sucumbem numa prova.
 
-🔖 [Eternidade](#eternidade)
-🔖 [Perfeição](#perfeicao)
+- 🔖 [Eternidade](#eternidade)
+- 🔖 [Perfeição](#perfeicao)
 ---
 
 ##### #️⃣ Q.126 {#q126}
@@ -2249,8 +2255,8 @@ Chegados ao grau supremo da perfeição, os Espíritos que andaram pelo caminho 
 
 > ✨ ▸ Deus olha de igual maneira para os que se transviaram e para os outros e a todos ama com o mesmo coração. Aqueles são chamados maus, porque sucumbiram. Antes, não eram mais que simples Espíritos.
 
-🔖 [Deus](#deus)
-🔖 [Perfeição](#perfeicao)
+- 🔖 [Deus](#deus)
+- 🔖 [Perfeição](#perfeicao)
 ---
 
 ##### #️⃣ Q.127 {#q127}
@@ -2261,9 +2267,9 @@ Os Espíritos são criados iguais quanto às faculdades intelectuais?
 
 > 👴🏻 ▸ Os Espíritos que desde o princípio seguem o caminho do bem nem por isso são Espíritos perfeitos. Não têm, é certo, maus pendores, mas precisam adquirir a experiência e os conhecimentos indispensáveis para alcançar a perfeição. Podemos compará-los a crianças que, seja qual for a bondade de seus instintos naturais, necessitam de se desenvolver e esclarecer e que não passam, sem transição, da infância à madureza. Simplesmente, assim como há homens que são bons e outros que são maus desde a infância, também há Espíritos que são bons ou maus desde a origem, com a diferença capital de que a criança tem instintos já inteiramente formados, enquanto o Espírito, ao formar-se, não é nem bom nem mau; tem todas as tendências e toma uma ou outra direção, por efeito do seu livre-arbítrio.
 
-🔖 [Criação](#criacao)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Perfeição](#perfeicao)
+- 🔖 [Criação](#criacao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Perfeição](#perfeicao)
 ---
 
 #### 2.01.11. 📄 Anjos e demônios {#lde-2-01-11}
@@ -2283,8 +2289,8 @@ Os anjos hão percorrido todos os graus da escala?
 
 > ✨ ▸ Percorreram todos os graus, mas do modo que havemos dito: uns, aceitando sem murmurar suas missões, chegaram depressa; outros, gastaram mais ou menos tempo para chegar à perfeição.
 
-🔖 [Anjo](#anjo)
-🔖 [Perfeição](#perfeicao)
+- 🔖 [Anjo](#anjo)
+- 🔖 [Perfeição](#perfeicao)
 ---
 
 ##### #️⃣ Q.130 {#q130}
@@ -2293,7 +2299,7 @@ Sendo errônea a opinião dos que admitem a existência de seres criados perfeit
 
 > ✨ ▸ Fica sabendo que o mundo onde te achas não existe de toda a eternidade e que, muito tempo antes que ele existisse, já havia Espíritos que tinham atingido o grau supremo. Acreditaram os homens que eles eram assim desde todos os tempos.
 
-🔖 [Universo](#universo)
+- 🔖 [Universo](#universo)
 ---
 
 ##### #️⃣ Q.131 {#q131}
@@ -2319,14 +2325,14 @@ Há demônios, no sentido que se dá a esta palavra?
 > 
 > Satanás é evidentemente a personificação do mal sob forma alegórica, visto não se poder admitir que exista um ser mau a lutar, como de potência a potência, com a Divindade e cuja única preocupação consistisse em lhe contrariar os desígnios. Como precisa de figuras e imagens que lhe impressionem a imaginação, o homem pintou os seres incorpóreos sob uma forma material, com atributos que lembram as qualidades ou os defeitos humanos. É assim que os antigos, querendo personificar o Tempo, o pintaram com a figura de um velho munido de uma foice e uma ampulheta. Representá-lo pela figura de um mancebo fora contrassenso. O mesmo se verifica com as alegorias da fortuna, da verdade etc. Os modernos representaram os anjos, os puros Espíritos, por uma figura radiosa, de asas brancas, emblema da pureza; e Satanás com chifres, garras e os atributos da animalidade, emblema das paixões vis. O vulgo, que toma as coisas ao pé da letra, viu nesses emblemas individualidades reais, como vira outrora Saturno na alegoria do Tempo.
 
-🔖 [Anjo](#anjo)
-🔖 [Deus](#deus)
-🔖 [Doutrina](#doutrina)
-🔖 [Jesus](#jesus)
-🔖 [Linguagem](#linguagem)
-🔖 [Lógica](#logica)
-🔖 [Satanás](#satanas)
-🔖 [Tempo](#tempo)
+- 🔖 [Anjo](#anjo)
+- 🔖 [Deus](#deus)
+- 🔖 [Doutrina](#doutrina)
+- 🔖 [Jesus](#jesus)
+- 🔖 [Linguagem](#linguagem)
+- 🔖 [Lógica](#logica)
+- 🔖 [Satanás](#satanas)
+- 🔖 [Tempo](#tempo)
 ---
 
 ### 2.02. 🗂️ Encarnação {#lde-2-02}
@@ -2335,6 +2341,7 @@ Neste capítulo:
 - [2.02.01. 📄 Objetivo da encarnação](#lde-2-02-01)
 - [2.02.02. 📄 A alma](#lde-2-02-02)
 - [2.02.03. 📄 Materialismo](#lde-2-02-03)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -2355,9 +2362,9 @@ Têm necessidade de encarnação os Espíritos que, desde o princípio, seguiram
 
 > ✨ ▸ Todos são criados simples e ignorantes e se instruem nas lutas e tribulações da vida corporal. Deus, que é justo, não podia fazer felizes a uns, sem fadigas e trabalhos, conseguintemente sem mérito.
 
-🔖 [Encarnação](#encarnacao)
-🔖 [Esforço](#esforco)
-🔖 [Mérito](#merito)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Esforço](#esforco)
+- 🔖 [Mérito](#merito)
 ---
 
 ##### #️⃣ Q.133.a {#q133a}
@@ -2366,9 +2373,9 @@ Mas, então, de que serve aos Espíritos terem seguido o caminho do bem, se isso
 
 > ✨ ▸ Chegam mais depressa ao fim. Demais, as aflições da vida são muitas vezes a consequência da imperfeição do Espírito. Quanto menos imperfeições, tanto menos tormentos. Aquele que não é invejoso, nem ciumento, nem avaro, nem ambicioso, não sofrerá as torturas que se originam desses defeitos.
 
-🔖 [Imperfeição](#imperfeicao)
-🔖 [Perfeição](#perfeicao)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Imperfeição](#imperfeicao)
+- 🔖 [Perfeição](#perfeicao)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 #### 2.02.02. 📄 A alma {#lde-2-02-02}
@@ -2386,7 +2393,7 @@ Que era a alma antes de se unir ao corpo?
 
 > ✨ ▸ Espírito.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.134.b {#q134b}
@@ -2395,7 +2402,7 @@ As almas e os Espíritos são, portanto, idênticos, a mesma coisa?
 
 > ✨ ▸ Sim, as almas não são senão os Espíritos. Antes de se unir ao corpo, a alma é um dos seres inteligentes que povoam o mundo invisível, os quais temporariamente revestem um invólucro carnal para se purificarem e esclarecerem.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.135 {#q135}
@@ -2404,8 +2411,8 @@ Há no homem alguma outra coisa além da alma e do corpo?
 
 > ✨ ▸ Há o laço que liga a alma ao corpo.
 
-🔖 [Homem](#homem)
-🔖 [Perispírito](#perispirito)
+- 🔖 [Homem](#homem)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 ##### #️⃣ Q.135.a {#q135a}
@@ -2422,11 +2429,11 @@ De que natureza é esse laço?
 > 
 > 3. o princípio intermediário, ou *perispírito*, substância semimaterial que serve de primeiro envoltório ao Espírito e liga a alma ao corpo. Tal, num fruto, o germe, o perisperma e a casca.
 
-🔖 [Alma](#alma)
-🔖 [Corpo](#corpo)
-🔖 [Homem](#homem)
-🔖 [Matéria](#materia)
-🔖 [Perispírito](#perispirito)
+- 🔖 [Alma](#alma)
+- 🔖 [Corpo](#corpo)
+- 🔖 [Homem](#homem)
+- 🔖 [Matéria](#materia)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 ##### #️⃣ Q.136 {#q136}
@@ -2435,7 +2442,7 @@ A alma independe do princípio vital?
 
 > ✨ ▸ O corpo não é mais do que envoltório, repetimo-lo constantemente.
 
-🔖 [Princípio vital](#principio-vital)
+- 🔖 [Princípio vital](#principio-vital)
 ---
 
 ##### #️⃣ Q.136.a {#q136a}
@@ -2444,7 +2451,7 @@ Pode o corpo existir sem a alma?
 
 > ✨ ▸ Pode; entretanto, desde que cessa a vida do corpo, a alma o abandona. Antes do nascimento, ainda não há união definitiva entre a alma e o corpo; enquanto, depois de essa união se haver estabelecido, a morte do corpo rompe os laços que o prendem à alma e esta o abandona. A vida orgânica pode animar um corpo sem alma, mas a alma não pode habitar um corpo privado de vida orgânica.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.136.b {#q136b}
@@ -2453,7 +2460,7 @@ Que seria o nosso corpo, se não tivesse alma?
 
 > ✨ ▸ Simples massa de carne sem inteligência, tudo o que quiserdes, exceto um homem.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.137 {#q137}
@@ -2464,8 +2471,8 @@ Um Espírito pode encarnar a um tempo em dois corpos diferentes?
 
 👉🏻 Veja *LDM, Cap. 7*
 
-🔖 [Encarnação](#encarnacao)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.138 {#q138}
@@ -2474,7 +2481,7 @@ Que se deve pensar da opinião dos que consideram a alma o princípio da vida ma
 
 > ✨ ▸ É uma questão de palavras, com que nada temos. Começai por vos entenderdes mutuamente.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.139 {#q139}
@@ -2485,9 +2492,9 @@ Alguns Espíritos e, antes deles, alguns filósofos definiram a alma como: uma c
 
 > 👴🏻 ▸ O vocábulo *alma* se emprega para exprimir coisas muito diferentes. Uns chamam alma ao princípio da vida e, nesta acepção, se pode com acerto dizer, *figuradamente*, que a alma é uma centelha anímica emanada do grande Todo. Estas últimas palavras indicam a fonte universal do princípio vital de que cada ser absorve uma porção e que, após a morte, volta à massa donde saiu. Essa ideia de nenhum modo exclui a de um ser moral, distinto, independente da matéria e que conserva sua individualidade. A esse ser, igualmente, se dá o nome de alma e nesta acepção é que se pode dizer que a alma é um Espírito encarnado. Dando da alma definições diversas, os Espíritos falaram de acordo com o modo por que aplicavam a palavra e com as ideias terrenas de que ainda estavam mais ou menos imbuídos. Isto resulta da deficiência da linguagem humana, que não dispõe de uma palavra para cada ideia, donde uma imensidade de equívocos e discussões. Eis por que os Espíritos superiores nos dizem que primeiro nos entendamos acerca das palavras.[^8]
 
-🔖 [Alma](#alma)
-🔖 [Linguagem](#linguagem)
-🔖 [Princípio vital](#principio-vital)
+- 🔖 [Alma](#alma)
+- 🔖 [Linguagem](#linguagem)
+- 🔖 [Princípio vital](#principio-vital)
 ---
 
 ##### #️⃣ Q.140 {#q140}
@@ -2496,9 +2503,9 @@ Que se deve pensar da teoria da alma subdividida em tantas partes quantos são o
 
 > ✨ ▸ Ainda isto depende do sentido que se empreste à palavra *alma*. Se se entende por alma o fluido vital, essa teoria tem razão de ser; se se entende por alma o Espírito encarnado, é errônea. Já dissemos que o Espírito é indivisível. Ele imprime movimento aos órgãos, servindo-se do fluido intermediário, sem que para isso se divida.
 
-🔖 [Alma](#alma)
-🔖 [Fluido vital](#fluido-vital)
-🔖 [Teoria](#teoria)
+- 🔖 [Alma](#alma)
+- 🔖 [Fluido vital](#fluido-vital)
+- 🔖 [Teoria](#teoria)
 ---
 
 ##### #️⃣ Q.140.a {#q140a}
@@ -2509,8 +2516,8 @@ Entretanto, alguns Espíritos deram essa definição.
 
 > 👴🏻 ▸ A alma atua por intermédio dos órgãos e os órgãos são animados pelo fluido vital, que por eles se reparte, existindo em maior abundância nos que são centros ou focos de movimento. Esta explicação, porém, não procede, desde que se considere a alma o Espírito que habita o corpo durante a vida e o deixa por ocasião da morte.
 
-🔖 [Corpo físico](#corpo-fisico)
-🔖 [Fluido vital](#fluido-vital)
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Fluido vital](#fluido-vital)
 ---
 
 ##### #️⃣ Q.141 {#q141}
@@ -2519,7 +2526,7 @@ Há alguma coisa de verdadeiro na opinião dos que pretendem que a alma seja ext
 
 > ✨ ▸ A alma não se acha encerrada no corpo, qual pássaro numa gaiola. Irradia e se manifesta exteriormente, como a luz através de um globo de vidro, ou como o som em torno de um centro de sonoridade. Neste sentido se pode dizer que a alma é exterior, sem que por isso constitua o envoltório do corpo. A alma tem dois invólucros: um, sutil e leve, é o primeiro, ao qual chamas perispírito; outro, grosseiro, material e pesado, o corpo. A alma é o centro de todos os envoltórios, como o germe em um núcleo, já o temos dito.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.142 {#q142}
@@ -2528,8 +2535,8 @@ Que dizeis dessa outra teoria segundo a qual a alma, numa criança, se vai compl
 
 > ✨ ▸ O Espírito é uno e está todo na criança, como no adulto. Os órgãos, ou instrumentos das manifestações da alma, é que se desenvolvem e completam. Ainda aí tomam o efeito pela causa.
 
-🔖 [Criança](#crianca)
-🔖 [Encarnação](#encarnacao)
+- 🔖 [Criança](#crianca)
+- 🔖 [Encarnação](#encarnacao)
 ---
 
 ##### #️⃣ Q.143 {#q143}
@@ -2538,7 +2545,7 @@ Por que todos os Espíritos não definem do mesmo modo a alma?
 
 > ✨ ▸ Os Espíritos não se acham todos esclarecidos igualmente sobre estes assuntos. Há Espíritos de inteligência ainda limitada, que não compreendem as coisas abstratas. São como as crianças entre vós. Também há Espíritos pseudossábios, que fazem alarde de palavras, para se imporem, ainda como sucede entre vós. Depois, os próprios Espíritos esclarecidos podem exprimir-se em termos diferentes, cujo valor, entretanto, é, substancialmente, o mesmo, sobretudo quando se trata de coisas que a vossa linguagem se mostra impotente para traduzir com clareza. Recorrem então a figuras, a comparações, que tomais como realidade.
 
-🔖 [Escala](#escala)
+- 🔖 [Escala](#escala)
 ---
 
 ##### #️⃣ Q.144 {#q144}
@@ -2547,7 +2554,7 @@ Que se deve entender por alma do mundo?
 
 > ✨ ▸ O princípio universal da vida e da inteligência, do qual nascem as individualidades. Os que se servem dessa expressão, porém, não se compreendem, as mais das vezes, uns aos outros. O termo *alma* é tão elástico que cada um o interpreta ao sabor de suas fantasias. Também à Terra hão atribuído uma alma. Por alma da Terra se deve entender o conjunto dos Espíritos abnegados, que dirigem para o bem as vossas ações, quando os escutais, e que, de certo modo, são os lugares-tenentes de Deus com relação ao vosso planeta.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.145 {#q145}
@@ -2556,7 +2563,7 @@ Como se explica que tantos filósofos antigos e modernos, durante tão longo tem
 
 > ✨ ▸ Esses homens eram os precursores da eterna Doutrina Espírita , prepararam os caminhos. Eram homens e, como tais, se enganaram, tomando suas próprias ideias pela luz. No entanto, mesmo os seus erros servem para realçar a verdade, mostrando o pró e o contra. Demais, entre esses erros se encontram grandes verdades que um estudo comparativo torna apreensíveis.
 
-🔖 [Precursor](#precursor)
+- 🔖 [Precursor](#precursor)
 ---
 
 ##### #️⃣ Q.146 {#q146}
@@ -2565,7 +2572,7 @@ A alma tem, no corpo, sede determinada e circunscrita?
 
 > ✨ ▸ Não; porém, nos grandes gênios, em todos os que pensam muito, ela reside mais particularmente na cabeça, ao passo que ocupa principalmente o coração naqueles que muito sentem e cujas ações têm todas por objeto a Humanidade.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.146.a {#q146a}
@@ -2574,8 +2581,8 @@ Que se deve pensar da opinião dos que situam a alma num centro vital?
 
 > ✨ ▸ Quer isso dizer que o Espírito habita de preferência essa parte do vosso organismo, por ser aí o ponto de convergência de todas as sensações. Os que a situam no que consideram o centro da vitalidade, esses a confundem com o fluido ou princípio vital. Pode, todavia, dizer-se que a sede da alma se encontra especialmente nos órgãos que servem para as manifestações intelectuais e morais.
 
-🔖 [Alma](#alma)
-🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Alma](#alma)
+- 🔖 [Corpo físico](#corpo-fisico)
 ---
 
 #### 2.02.03. 📄 Materialismo {#lde-2-02-03}
@@ -2601,11 +2608,11 @@ Não é de lastimar que o materialismo seja uma consequência de estudos que dev
 > 
 > É erro dizê-lo e a missão do Espiritismo consiste precisamente em nos esclarecer acerca desse futuro, em fazer com que, até certo ponto, o toquemos com o dedo e o penetremos com o olhar, não mais pelo raciocínio somente, porém pelos fatos. Graças às comunicações espíritas, não se trata mais de uma simples presunção, de uma probabilidade sobre a qual cada um conjeture à vontade, que os poetas embelezem com suas ficções, ou cumulem de enganadoras imagens alegóricas. É a realidade que nos aparece, pois que são os próprios seres de além-túmulo que nos vêm descrever a situação em que se acham, relatar o que fazem, facultando-nos assistir, por assim dizer, a todas as peripécias da nova vida que lá vivem e mostrando-nos, por esse meio, a sorte inevitável que nos está reservada, de acordo com os nossos méritos e deméritos. Haverá nisso alguma coisa de antirreligioso? Muito ao contrário, porquanto os incrédulos encontram aí a fé e os tíbios a renovação do fervor e da confiança. O Espiritismo é, pois, o mais potente auxiliar da religião. Se ele aí está, é porque Deus o permite e o permite para que as nossas vacilantes esperanças se revigorem e para que sejamos reconduzidos à senda do bem pela perspectiva do futuro.
 
-🔖 [Alma](#alma)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Inteligência](#inteligencia)
-🔖 [Materialismo](#materialismo)
-🔖 [Nada](#nada)
+- 🔖 [Alma](#alma)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Inteligência](#inteligencia)
+- 🔖 [Materialismo](#materialismo)
+- 🔖 [Nada](#nada)
 ---
 
 ### 2.03. 🗂️ Retorno à vida espiritual {#lde-2-03}
@@ -2614,6 +2621,7 @@ Neste capítulo:
 - [2.03.01. 📄 A alma após a morte. Vida eterna](#lde-2-03-01)
 - [2.03.02. 📄 Separação da alma e do corpo](#lde-2-03-02)
 - [2.03.03. 📄 Perturbação espiritual](#lde-2-03-03)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -2632,8 +2640,8 @@ A alma, após a morte, conserva a sua individualidade?
 
 > ✨ ▸ Sim; jamais a perde. Que seria ela, se não a conservasse?
 
-🔖 [Alma](#alma)
-🔖 [Individualidade](#individualidade)
+- 🔖 [Alma](#alma)
+- 🔖 [Individualidade](#individualidade)
 ---
 
 ##### #️⃣ Q.150.a {#q150a}
@@ -2642,7 +2650,7 @@ Como comprova a alma a sua individualidade, uma vez que não tem mais corpo mate
 
 > ✨ ▸ Continua a ter um fluido que lhe é próprio, haurido na atmosfera do seu planeta, e que guarda a aparência de sua última encarnação: seu perispírito.
 
-🔖 [Perispírito](#perispirito)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 ##### #️⃣ Q.150.b {#q150b}
@@ -2651,7 +2659,7 @@ A alma nada leva consigo deste mundo?
 
 > ✨ ▸ Nada, a não ser a lembrança e o desejo de ir para um mundo melhor, lembrança cheia de doçura ou de amargor, conforme o uso que ela fez da vida. Quanto mais pura for, melhor compreenderá a futilidade do que deixa na Terra.
 
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 ##### #️⃣ Q.151 {#q151}
@@ -2660,8 +2668,8 @@ Que pensar da opinião dos que dizem que após a morte a alma retorna ao todo un
 
 > ✨ ▸ O conjunto dos Espíritos não forma um todo? Não constitui um mundo completo? Quando estás numa assembleia, és parte integrante dela; mas, não obstante, conservas sempre a tua individualidade.
 
-🔖 [Alma](#alma)
-🔖 [Individualidade](#individualidade)
+- 🔖 [Alma](#alma)
+- 🔖 [Individualidade](#individualidade)
 ---
 
 ##### #️⃣ Q.152 {#q152}
@@ -2674,8 +2682,8 @@ Que prova podemos ter da individualidade da alma depois da morte?
 > 
 > Se as almas se confundissem num amálgama só teriam as qualidades do conjunto, nada as distinguiria umas das outras. Careceriam de inteligência e de qualidades pessoais quando, ao contrário, em tºodas as comunicações, denotam ter consciência do seu *eu* e vontade própria. A diversidade infinita que apresentam, sob todos os aspectos, é a consequência mesma de constituírem individualidades diversas. Se, após a morte, só houvesse o que se chama o grande Todo, a absorver todas as individualidades, esse Todo seria uniforme e, então, as comunicações que se recebessem do mundo invisível seriam idênticas. Desde que, porém, lá se nos deparam seres bons e maus, sábios e ignorantes, felizes e desgraçados; que lá os há de todos os caracteres: alegres e tristes, levianos e ponderados etc., patente se faz que eles são seres distintos. A individualidade ainda mais evidente se torna, quando esses seres provam a sua identidade por indicações incontestáveis, particularidades individuais verificáveis, referentes às suas vidas terrestres. Também não pode ser posta em dúvida, quando se fazem visíveis nas aparições. A individualidade da alma nos era ensinada em teoria, como artigo de fé. O Espiritismo a torna manifesta e, de certo modo, material.
 
-🔖 [Espiritismo](#espiritismo)
-🔖 [Individualidade](#individualidade)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Individualidade](#individualidade)
 ---
 
 ##### #️⃣ Q.153 {#q153}
@@ -2684,8 +2692,8 @@ Em que sentido se deve entender a vida eterna?
 
 > ✨ ▸ A vida do Espírito é que é eterna; a do corpo é transitória e passageira. Quando o corpo morre, a alma retoma a vida eterna.
 
-🔖 [Alma](#alma)
-🔖 [Vida](#vida)
+- 🔖 [Alma](#alma)
+- 🔖 [Vida](#vida)
 ---
 
 ##### #️⃣ Q.153.a {#q153a}
@@ -2694,7 +2702,7 @@ Não seria mais exato chamar *vida eterna* a dos Espíritos puros, dos que, tend
 
 > ✨ ▸ Essa é antes a felicidade eterna, mas isto constitui uma questão de palavras. Chamai as coisas como quiserdes, contanto que vos entendais.
 
-🔖 [Felicidade](#felicidade)
+- 🔖 [Felicidade](#felicidade)
 ---
 
 #### 2.03.02. 📄 Separação da alma e do corpo {#lde-2-03-02}
@@ -2716,7 +2724,7 @@ Como se opera a separação da alma e do corpo?
 
 ↩️ Voltar para [Q.957](#q957)
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.155.a {#q155a}
@@ -2727,9 +2735,9 @@ A separação se dá instantaneamente por brusca transição? Haverá alguma lin
 
 > 👴🏻 ▸ Durante a vida, o Espírito se acha preso ao corpo pelo seu envoltório semi-material ou perispírito. A morte é a destruição do corpo somente, não a desse outro invólucro, que do corpo se separa quando cessa neste a vida orgânica. A observação demonstra que, no instante da morte, o desprendimento do perispírito não se completa subitamente; que, ao contrário, se opera gradualmente e com uma lentidão muito variável conforme os indivíduos. Em uns é bastante rápido, podendo dizer-se que o momento da morte é o da libertação, com apenas algumas horas de diferença. Em outros, naqueles sobretudo cuja vida foi *toda material e sensual*, o desprendimento é muito menos rápido, durando algumas vezes dias, semanas e até meses, o que não implica existir, no corpo, a menor vitalidade, nem a possibilidade de volver à vida, mas uma simples afinidade com o Espírito, afinidade que guarda sempre proporção com a preponderância que, durante a vida, o Espírito deu à matéria. É, com efeito, racional conceber-se que, quanto mais o Espírito se haja identificado com a matéria, tanto mais penoso lhe seja separar-se dela; ao passo que a atividade intelectual e moral, a elevação dos pensamentos operam um começo de desprendimento, mesmo durante a vida do corpo, de modo que, chegando a morte, ele é quase instantâneo. Tal o resultado dos estudos feitos em todos os indivíduos que se têm podido observar por ocasião da morte. Essas observações ainda provam que a afinidade, persistente entre a alma e o corpo, em certos indivíduos, é, às vezes, muito penosa, porquanto o Espírito pode experimentar o horror da decomposição. Este caso, porém, é excepcional e peculiar a certos gêneros de vida e a certos gêneros de morte. Verifica-se com alguns suicidas.
 
-🔖 [Desencarnação](#desencarnacao)
-🔖 [Desprendimento](#desprendimento)
-🔖 [Matéria](#materia)
+- 🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Desprendimento](#desprendimento)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.156 {#q156}
@@ -2738,10 +2746,10 @@ A separação definitiva da alma e do corpo pode ocorrer antes da cessação com
 
 > ✨ ▸ Na agonia, a alma, algumas vezes, já tem deixado o corpo; nada mais há que a vida orgânica. O homem já não tem consciência de si mesmo; entretanto, ainda lhe resta um sopro de vida orgânica. O corpo é a máquina que o coração põe em movimento. Existe, enquanto o coração faz circular nas veias o sangue, para o que não necessita da alma.
 
-🔖 [Alma](#alma)
-🔖 [Coração](#coracao)
-🔖 [Corpo físico](#corpo-fisico)
-🔖 [Morte](#morte)
+- 🔖 [Alma](#alma)
+- 🔖 [Coração](#coracao)
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.157 {#q157}
@@ -2750,8 +2758,8 @@ No momento da morte, a alma sente, alguma vez, qualquer aspiração ou êxtase q
 
 > ✨ ▸ Muitas vezes a alma sente que se desfazem os laços que a prendem ao corpo. *Emprega então todos os esforços para desfazê-los inteiramente*. Já em parte desprendida da matéria, vê o futuro desdobrar-se diante de si e goza, por antecipação, do estado de Espírito.
 
-🔖 [Alma](#alma)
-🔖 [Pressentimento](#pressentimento)
+- 🔖 [Alma](#alma)
+- 🔖 [Pressentimento](#pressentimento)
 ---
 
 ##### #️⃣ Q.158 {#q158}
@@ -2760,7 +2768,7 @@ O exemplo da lagarta que, primeiro, anda de rastos pela terra, depois se encerra
 
 > ✨ ▸ Uma ideia acanhada. A imagem é boa; todavia, cumpre não seja tomada ao pé da letra, como frequentemente vos sucede.
 
-🔖 [Além-túmulo](#alem-tumulo)
+- 🔖 [Além-túmulo](#alem-tumulo)
 ---
 
 ##### #️⃣ Q.159 {#q159}
@@ -2769,9 +2777,9 @@ Que sensação experimenta a alma no momento em que reconhece estar no mundo dos
 
 > ✨ ▸ Depende. Se praticaste o mal, impelido pelo desejo de o praticar, no primeiro momento te sentirás envergonhado de o haveres praticado. Com a alma do justo as coisas se passam de modo bem diferente. Ela se sente como que aliviada de grande peso, pois que não teme nenhum olhar perscrutador.
 
-🔖 [Alma](#alma)
-🔖 [Mundo espiritual](#mundo-espiritual)
-🔖 [Vida](#vida)
+- 🔖 [Alma](#alma)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Vida](#vida)
 ---
 
 ##### #️⃣ Q.160 {#q160}
@@ -2780,7 +2788,7 @@ O Espírito se encontra imediatamente com os que conheceu na Terra e que morrera
 
 > ✨ ▸ Sim, conforme a afeição que lhes votava e a que eles lhe consagravam. Muitas vezes aqueles seus conhecidos o vêm receber à entrada do mundo dos Espíritos e o *ajudam a desligar-se das faixas da matéria*. Encontra-se também com muitos dos que conheceu e perdeu de vista durante a sua vida terrena. Vê os que estão na erraticidade, como vê os encarnados e os vai visitar.
 
-🔖 [Reencontro](#reencontro)
+- 🔖 [Reencontro](#reencontro)
 ---
 
 ##### #️⃣ Q.161 {#q161}
@@ -2789,7 +2797,7 @@ Em caso de morte violenta e acidental, quando os órgãos ainda não se enfraque
 
 > ✨ ▸ Geralmente assim é; mas, em todos os casos, muito breve é o instante que medeia entre uma e outra.
 
-🔖 [Separação](#separacao)
+- 🔖 [Separação](#separacao)
 ---
 
 ##### #️⃣ Q.162 {#q162}
@@ -2800,8 +2808,8 @@ Após a decapitação, por exemplo, conserva o homem por alguns instantes a cons
 
 > 👴🏻 ▸ Trata-se aqui da consciência que o supliciado pode ter de si mesmo, como homem e por intermédio dos órgãos, e não como Espírito. Se não perdeu essa consciência antes do suplício, pode conservá-la por alguns breves instantes. Ela, porém, cessa necessariamente com a vida orgânica do cérebro, o que não quer dizer que o perispírito esteja inteiramente separado do corpo. Ao contrário: em todos os casos de morte violenta, quando a morte não resulta da extinção gradual das forças vitais, mais *tenazes* os laços que prendem o corpo ao perispírito e, portanto, mais lento o desprendimento completo.
 
-🔖 [Decapitação](#decapitacao)
-🔖 [Perispírito](#perispirito)
+- 🔖 [Decapitação](#decapitacao)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 #### 2.03.03. 📄 Perturbação espiritual {#lde-2-03-03}
@@ -2823,7 +2831,7 @@ A perturbação que se segue à separação da alma e do corpo é do mesmo grau 
 
 > ✨ ▸ Não; depende da elevação de cada um. Aquele que já está purificado, se reconhece quase imediatamente, pois que se libertou da matéria antes que cessasse a vida do corpo, enquanto o homem carnal, aquele cuja consciência ainda não está pura, guarda por muito mais tempo a impressão da matéria.
 
-🔖 [Perturbação](#perturbacao)
+- 🔖 [Perturbação](#perturbacao)
 ---
 
 ##### #️⃣ Q.165 {#q165}
@@ -2845,11 +2853,11 @@ O conhecimento do Espiritismo exerce alguma influência sobre a duração, mais 
 ↩️ Voltar para [Q.957](#q957)
 ↩️ Voltar para [Q.982](#q982)
 
-🔖 [Espiritismo](#espiritismo)
-🔖 [Morte](#morte)
-🔖 [Perispírito](#perispirito)
-🔖 [Perturbação](#perturbacao)
-🔖 [Vida espiritual](#vida-espiritual)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Morte](#morte)
+- 🔖 [Perispírito](#perispirito)
+- 🔖 [Perturbação](#perturbacao)
+- 🔖 [Vida espiritual](#vida-espiritual)
 ---
 
 ### 2.04. 🗂️ Pluralidade das existências {#lde-2-04}
@@ -2864,6 +2872,7 @@ Neste capítulo:
 - [2.04.07. 📄 Parentesco, filiação](#lde-2-04-07)
 - [2.04.08. 📄 Parecenças físicas e morais](#lde-2-04-08)
 - [2.04.09. 📄 Ideias inatas](#lde-2-04-09)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -2884,7 +2893,7 @@ Como realiza essa nova existência? Será pela sua transformação como Espírit
 
 > ✨ ▸ Depurando-se, a alma indubitavelmente experimenta uma transformação, mas para isso necessária lhe é a prova da vida corporal.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.166.b {#q166b}
@@ -2893,7 +2902,7 @@ A alma passa então por muitas existências corporais?
 
 > ✨ ▸ Sim, todos contamos muitas existências. Os que dizem o contrário pretendem manter-vos na ignorância em que eles próprios se encontram. Esse o desejo deles.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.166.c {#q166c}
@@ -2902,8 +2911,8 @@ Parece resultar desse princípio que a alma, depois de haver deixado um corpo, t
 
 > ✨ ▸ Evidentemente.
 
-🔖 [Corpo físico](#corpo-fisico)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.167 {#q167}
@@ -2918,7 +2927,7 @@ Qual o fim objetivado com a reencarnação?
 
 > ✨ ▸ A cada nova existência, o Espírito dá um passo para diante na senda do progresso. Desde que se ache limpo de todas as impurezas, não tem mais necessidade das provas da vida corporal.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.169 {#q169}
@@ -2927,8 +2936,8 @@ Qual o fim objetivado com a reencarnação?
 
 > ✨ ▸ Não; aquele que caminha depressa, a muitas provas se forra. Todavia, as encarnações sucessivas são sempre muito numerosas, porquanto o progresso é quase infinito.
 
-🔖 [Progresso](#progresso)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Progresso](#progresso)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.170 {#q170}
@@ -2937,8 +2946,8 @@ O que fica sendo o Espírito depois da sua última encarnação?
 
 > ✨ ▸ Espírito bem-aventurado; puro Espírito.
 
-🔖 [Espírito puro](#espirito-puro)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Espírito puro](#espirito-puro)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 #### 2.04.02. 📄 Justiça da reencarnação {#lde-2-04-02}
@@ -2979,7 +2988,7 @@ A cada nova existência corporal a alma passa de um mundo para outro, ou pode te
 
 ↩️ Voltar para [Q.986](#q986)
 
-🔖 [Evolução](#evolucao)
+- 🔖 [Evolução](#evolucao)
 ---
 
 ##### #️⃣ Q.173.a {#q173a}
@@ -2988,7 +2997,7 @@ Podemos então reaparecer muitas vezes na Terra?
 
 > ✨ ▸ Certamente.
 
-🔖 [Terra](#terra)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.173.b {#q173b}
@@ -2997,8 +3006,8 @@ Podemos voltar a este, depois de termos vivido em outros mundos?
 
 > ✨ ▸ Sem dúvida. É possível que já tenhais vivido algures e na Terra.
 
-🔖 [Reencarnação](#reencarnacao)
-🔖 [Universo](#universo)
+- 🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Universo](#universo)
 ---
 
 ##### #️⃣ Q.174 {#q174}
@@ -3007,8 +3016,8 @@ Tornar a viver na Terra constitui uma necessidade?
 
 > ✨ ▸ Não; mas, se não progredistes, podereis ir para outro mundo que não valha mais do que a Terra e que talvez até seja pior do que ela.
 
-🔖 [Reencarnação](#reencarnacao)
-🔖 [Terra](#terra)
+- 🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.175 {#q175}
@@ -3017,7 +3026,7 @@ Haverá alguma vantagem em voltar-se a habitar a Terra?
 
 > ✨ ▸ Nenhuma vantagem particular, a menos que seja em missão, caso em que se progride aí como em qualquer outro planeta.
 
-🔖 [Missão](#missao)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.175.a {#q175a}
@@ -3033,8 +3042,8 @@ Depois de haverem encarnado noutros mundos, podem os Espíritos encarnar neste, 
 
 > ✨ ▸ Sim, do mesmo modo que vós em outros. *Todos os mundos são solidários*: o que não se faz num faz-se noutro.
 
-🔖 [Encarnação](#encarnacao)
-🔖 [Terra](#terra)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.176.a {#q176a}
@@ -3043,8 +3052,8 @@ Assim, homens há que estão na Terra pela primeira vez?
 
 > ✨ ▸ Muitos, e em graus diversos de adiantamento.
 
-🔖 [Encarnação](#encarnacao)
-🔖 [Terra](#terra)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.176.b {#q176b}
@@ -3053,7 +3062,7 @@ Pode-se reconhecer, por um indício qualquer, que um Espírito está pela primei
 
 > ✨ ▸ Nenhuma utilidade teria isso.
 
-🔖 [Convivência](#convivencia)
+- 🔖 [Convivência](#convivencia)
 ---
 
 ##### #️⃣ Q.177 {#q177}
@@ -3062,7 +3071,7 @@ Para chegar à perfeição e à suprema felicidade, destino final de todos os ho
 
 > ✨ ▸ Não, porquanto muitos são os mundos correspondentes a cada grau da respectiva escala e o Espírito, saindo de um deles, nenhuma coisa nova aprenderia nos outros do mesmo grau.
 
-🔖 [Perfeição](#perfeicao)
+- 🔖 [Perfeição](#perfeicao)
 ---
 
 ##### #️⃣ Q.177.a {#q177a}
@@ -3071,7 +3080,7 @@ Como se explica então a pluralidade de suas existências em um mesmo globo?
 
 > ✨ ▸ De cada vez poderá ocupar posição diferente das anteriores e nessas diversas posições se lhe deparam outras tantas ocasiões de adquirir experiência.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.178 {#q178}
@@ -3080,8 +3089,8 @@ Podem os Espíritos encarnar em um mundo relativamente inferior a outro onde já
 
 > ✨ ▸ Sim, quando em missão, com o objetivo de auxiliarem o progresso, caso em que aceitam alegres as tribulações de tal existência, por lhes proporcionar meio de se adiantarem.
 
-🔖 [Missão](#missao)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Missão](#missao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.178.a {#q178a}
@@ -3090,8 +3099,8 @@ Mas não pode dar-se também por expiação? Não pode Deus degredar para mundos
 
 > ✨ ▸ Os Espíritos podem conservar-se estacionários, mas não retrogradam. Em caso de estacionamento, a punição deles consiste em não avançarem, em recomeçarem, no meio conveniente à sua natureza, as existências mal-empregadas.
 
-🔖 [Expiação](#expiacao)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Expiação](#expiacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.178.b {#q178b}
@@ -3100,7 +3109,7 @@ Quais os que têm de recomeçar a mesma existência?
 
 > ✨ ▸ Os que faliram em suas missões ou em suas provas.
 
-🔖 [Existência](#existencia)
+- 🔖 [Existência](#existencia)
 ---
 
 ##### #️⃣ Q.179 {#q179}
@@ -3109,7 +3118,7 @@ Os seres que habitam cada mundo hão todos alcançado o mesmo nível de perfeiç
 
 > ✨ ▸ Não; dá-se em cada um o que ocorre na Terra: uns Espíritos são mais adiantados do que outros.
 
-🔖 [Perfeição](#perfeicao)
+- 🔖 [Perfeição](#perfeicao)
 ---
 
 ##### #️⃣ Q.180 {#q180}
@@ -3120,7 +3129,7 @@ Passando deste planeta para outro, conserva o Espírito a inteligência que aqui
 
 ↩️ Voltar para [Q.805](#q805)
 
-🔖 [Inteligência](#inteligencia)
+- 🔖 [Inteligência](#inteligencia)
 ---
 
 ##### #️⃣ Q.181 {#q181}
@@ -3129,7 +3138,7 @@ Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 
 > ✨ ▸ É fora de dúvida que têm corpos, porque o Espírito precisa estar revestido de matéria para atuar sobre a matéria. Esse envoltório, porém, é mais ou menos material, conforme o grau de pureza a que chegaram os Espíritos. É isso o que assinala a diferença entre os mundos que temos de percorrer, porquanto muitas moradas há na casa de nosso Pai, sendo, conseguintemente, de muitos graus essas moradas. Alguns o sabem e desse fato têm consciência na Terra; com outros, no entanto, o mesmo não se dá.
 
-🔖 [Perispírito](#perispirito)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 ##### #️⃣ Q.182 {#q182}
@@ -3146,9 +3155,9 @@ Os seres que habitam os diferentes mundos têm corpos semelhantes aos nossos?
 
 ↩️ Voltar para [Q.985](#q985)
 
-🔖 [Purificação](#purificacao)
-🔖 [Revelação](#revelacao)
-🔖 [Terra](#terra)
+- 🔖 [Purificação](#purificacao)
+- 🔖 [Revelação](#revelacao)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.183 {#q183}
@@ -3157,7 +3166,7 @@ Indo de um mundo para outro, o Espírito passa por nova infância?
 
 > ✨ ▸ Em toda parte a infância é uma transição necessária, mas não é, em toda parte, tão obtusa como no vosso mundo.
 
-🔖 [Infância](#infancia)
+- 🔖 [Infância](#infancia)
 ---
 
 ##### #️⃣ Q.184 {#q184}
@@ -3166,8 +3175,8 @@ Tem o Espírito a faculdade de escolher o mundo em que passe a habitar?
 
 > ✨ ▸ Nem sempre. Pode pedir que lhe seja permitido ir para este ou aquele e pode obtê-lo, se o merecer, porquanto a acessibilidade dos mundos, para os Espíritos, depende do grau da elevação destes.
 
-🔖 [Escolha](#escolha)
-🔖 [Moradia](#moradia)
+- 🔖 [Escolha](#escolha)
+- 🔖 [Moradia](#moradia)
 ---
 
 ##### #️⃣ Q.184.a {#q184a}
@@ -3176,7 +3185,7 @@ Se o Espírito nada pedir, que é o que determina o mundo em que ele reencarnar�
 
 > ✨ ▸ O grau da sua elevação.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.185 {#q185}
@@ -3194,8 +3203,8 @@ Haverá mundos em que o Espírito, deixando de revestir corpos materiais, só te
 
 > ✨ ▸ Há e mesmo esse envoltório se torna tão etéreo que para vós é como se não existisse. Esse o estado dos Espíritos puros.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Perispírito](#perispirito)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 ##### #️⃣ Q.186.a {#q186a}
@@ -3204,8 +3213,8 @@ Parece resultar daí que, entre o estado correspondente às últimas encarnaçõ
 
 > ✨ ▸ Semelhante demarcação não existe. A diferença entre um e outro estado se vai apagando pouco a pouco e acaba por ser imperceptível, tal qual se dá com a noite às primeiras claridades do alvorecer.
 
-🔖 [Espírito puro](#espirito-puro)
-🔖 [Perispírito](#perispirito)
+- 🔖 [Espírito puro](#espirito-puro)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 ##### #️⃣ Q.187 {#q187}
@@ -3223,14 +3232,14 @@ Os Espíritos puros habitam mundos especiais, ou se acham no espaço universal, 
 
 ↩️ Voltar para [Q.613](#q613)
 
-🔖 [Encarnação](#encarnacao)
-🔖 [Espírito puro](#espirito-puro)
-🔖 [Espíritos superiores](#espiritos-superiores)
-🔖 [Evolução](#evolucao)
-🔖 [Júpiter](#jupiter)
-🔖 [Marte](#marte)
-🔖 [Moradia](#moradia)
-🔖 [Terra](#terra)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Espírito puro](#espirito-puro)
+- 🔖 [Espíritos superiores](#espiritos-superiores)
+- 🔖 [Evolução](#evolucao)
+- 🔖 [Júpiter](#jupiter)
+- 🔖 [Marte](#marte)
+- 🔖 [Moradia](#moradia)
+- 🔖 [Terra](#terra)
 ---
 
 #### 2.04.04. 📄 Transmigrações progressivas {#lde-2-04-04}
@@ -3250,8 +3259,8 @@ Qual o estado da alma na sua primeira encarnação?
 
 ↩️ Voltar para [Q.607](#q607)
 
-🔖 [Alma](#alma)
-🔖 [Encarnação](#encarnacao)
+- 🔖 [Alma](#alma)
+- 🔖 [Encarnação](#encarnacao)
 ---
 
 ##### #️⃣ Q.191 {#q191}
@@ -3260,8 +3269,8 @@ As dos nossos selvagens são almas no estado de infância?
 
 > ✨ ▸ De infância relativa, pois já são almas desenvolvidas, visto que já nutrem paixões.
 
-🔖 [Alma](#alma)
-🔖 [Selvagem](#selvagem)
+- 🔖 [Alma](#alma)
+- 🔖 [Selvagem](#selvagem)
 ---
 
 ##### #️⃣ Q.191.a {#q191a}
@@ -3272,11 +3281,11 @@ Então, as paixões são um sinal de desenvolvimento?
 
 > 👴🏻 ▸ A vida do Espírito, em seu conjunto, apresenta as mesmas fases que observamos na vida corporal. Ele passa gradualmente do estado de embrião ao de infância, para chegar, percorrendo sucessivos períodos, ao de adulto, que é o da perfeição, com a diferença de que para o Espírito não há declínio, nem decrepitude, como na vida corporal; que a sua vida, que teve começo, não terá fim; que imenso tempo lhe é necessário, do nosso ponto de vista, para passar da infância espírita ao completo desenvolvimento; e que o seu progresso se realiza, não num único mundo, mas vivendo ele em mundos diversos. A vida do Espírito, pois, se compõe de uma série de existências corpóreas, cada uma das quais representa para ele uma ocasião de progredir, do mesmo modo que cada existência corporal se compõe de uma série de dias, em cada um dos quais o homem obtém um acréscimo de experiência e de instrução. Mas, assim como, na vida do homem, há dias que nenhum fruto produzem, na do Espírito, há existências corporais de que ele nenhum resultado colhe, porque não as soube aproveitar.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Evolução](#evolucao)
-🔖 [Paixão](#paixao)
-🔖 [Vida](#vida)
-🔖 [Vida espiritual](#vida-espiritual)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Evolução](#evolucao)
+- 🔖 [Paixão](#paixao)
+- 🔖 [Vida](#vida)
+- 🔖 [Vida espiritual](#vida-espiritual)
 ---
 
 ##### #️⃣ Q.192 {#q192}
@@ -3287,11 +3296,11 @@ Pode alguém, por um proceder impecável na vida atual, transpor todos os graus 
 
 ↩️ Voltar para [Q.780](#q780)
 
-🔖 [Ciência](#ciencia)
-🔖 [Conhecimento](#conhecimento)
-🔖 [Moral](#moral)
-🔖 [Perfeição](#perfeicao)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Ciência](#ciencia)
+- 🔖 [Conhecimento](#conhecimento)
+- 🔖 [Moral](#moral)
+- 🔖 [Perfeição](#perfeicao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.192.a {#q192a}
@@ -3300,8 +3309,8 @@ Pode ao menos o homem, na vida presente, preparar com segurança, para si, uma e
 
 > ✨ ▸ Sem dúvida. Pode reduzir a extensão e as dificuldades do caminho. *Só o descuidoso permanece sempre no mesmo ponto*.
 
-🔖 [Reencarnação](#reencarnacao)
-🔖 [Vida futura](#vida-futura)
+- 🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Vida futura](#vida-futura)
 ---
 
 ##### #️⃣ Q.193 {#q193}
@@ -3310,8 +3319,8 @@ Pode um homem, nas suas novas existências, descer mais baixo do que esteja na a
 
 > ✨ ▸ Com relação à *posição social*, sim; como Espírito, não.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.194 {#q194}
@@ -3320,8 +3329,8 @@ Pode um homem, nas suas novas existências, descer mais baixo do que esteja na a
 
 > ✨ ▸ Não, visto que não pode degenerar.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.194.a {#q194a}
@@ -3332,10 +3341,10 @@ A alma de um homem perverso pode tornar-se a de um homem de bem?
 
 > 👴🏻 ▸ A marcha dos Espíritos é progressiva, jamais retrógrada. Eles se elevam gradualmente na hierarquia e não descem da categoria a que ascenderam. Em suas diferentes existências corporais, podem descer como homens, não como Espíritos. Assim, a alma de um potentado da Terra pode mais tarde animar o mais humilde obreiro e vice-versa, por isso que, entre os homens, as categorias estão, frequentemente, na razão inversa da elevação das qualidades morais. Herodes era rei e Jesus, carpinteiro.
 
-🔖 [Arrependimento](#arrependimento)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Homem](#homem)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Arrependimento](#arrependimento)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Homem](#homem)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.195 {#q195}
@@ -3346,7 +3355,7 @@ A possibilidade de se melhorarem noutra existência não será de molde a fazer 
 
 > 👴🏻 ▸ O homem, que ocupa uma posição má, deseja trocá-la o mais depressa possível. Aquele, que se acha persuadido de que as tribulações da vida terrena são consequência de suas imperfeições, procurará garantir para si uma nova existência menos penosa e esta ideia o desviará mais depressa da senda do mal do que a do fogo eterno, em que não acredita.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.196 {#q196}
@@ -3355,9 +3364,9 @@ Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulaçõe
 
 > ✨ ▸ Sim, é exatamente isso. Eles se melhoram nessas provas, evitando o mal e praticando o bem; porém, somente ao cabo de mais ou menos longo tempo, conforme os esforços que empreguem; somente após muitas encarnações ou depurações sucessivas, atingem a finalidade para que tendem.
 
-🔖 [Reencarnação](#reencarnacao)
-🔖 [Sofrimento](#sofrimento)
-🔖 [Transmigração](#transmigracao)
+- 🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Sofrimento](#sofrimento)
+- 🔖 [Transmigração](#transmigracao)
 ---
 
 ##### #️⃣ Q.196.a {#q196a}
@@ -3368,8 +3377,8 @@ Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulaçõe
 
 > 👴🏻 ▸ O suco da vide nos oferece um símile material dos diferentes graus da depuração da alma. Ele contém o licor que se chama espírito ou álcool, mas enfraquecido por uma imensidade de matérias estranhas, que lhe alteram a essência. Esta só chega à pureza absoluta depois de múltiplas destilações, em cada uma das quais se despoja de algumas impurezas. O corpo é o alambique em que a alma tem que entrar para se purificar. Às matérias estranhas se assemelha o perispírito, que também se depura, à medida que o Espírito se aproxima da perfeição.
 
-🔖 [Corpo físico](#corpo-fisico)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 #### 2.04.05. 📄 Sorte das crianças depois da morte {#lde-2-04-05}
@@ -3393,8 +3402,8 @@ Não tendo podido praticar o mal, o Espírito de uma criança que morreu em tenr
 
 > ✨ ▸ Se não fez o mal, igualmente não fez o bem e Deus não o isenta das provas que tenha de padecer. Se for um Espírito puro, não o é pelo fato de ter animado apenas uma criança, mas porque já progredira até à pureza.
 
-🔖 [Evocação](#evocacao)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Evocação](#evocacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.199 {#q199}
@@ -3403,8 +3412,8 @@ Por que tão frequentemente a vida se interrompe na infância?
 
 > ✨ ▸ A curta duração da vida da criança pode representar, para o Espírito que a animava, o complemento de existência precedente interrompida antes do momento em que devera terminar, e sua morte, também não raro, constitui *provação ou expiação para os pais*.
 
-🔖 [Criança](#crianca)
-🔖 [Pais](#pais)
+- 🔖 [Criança](#crianca)
+- 🔖 [Pais](#pais)
 ---
 
 ##### #️⃣ Q.199.a {#q199a}
@@ -3419,10 +3428,10 @@ Que sucede ao Espírito de uma criança que morre pequenina?
 > 
 > Aliás, não é racional considerar-se a infância como um estado normal de inocência. Não se veem crianças dotadas dos piores instintos, numa idade em que ainda nenhuma influência pode ter tido a educação? Algumas não há que parecem trazer do berço a astúcia, a felonia, a perfídia, até pendor para o roubo e para o assassínio, não obstante os bons exemplos que de todos os lados se lhes dão? A lei civil as absolve de seus crimes, porque diz que elas obraram sem discernimento. Tem razão a lei, porque, de fato, elas obram mais por instinto do que intencionalmente. Donde, porém, provirão instintos tão diversos em crianças da mesma idade, educadas em condições idênticas e sujeitas às mesmas influências? Donde a precoce perversidade, senão da inferioridade do Espírito, uma vez que a educação em nada contribuiu para isso? As que se revelam viciosas, é porque seus Espíritos muito pouco hão progredido. Sofrem então, por efeito dessa falta de progresso, as consequências, não dos atos que praticam na infância, mas dos de suas existências anteriores. Assim é que a lei é uma só para todos e que todos são atingidos pela Justiça de Deus.
 
-🔖 [Criança](#crianca)
-🔖 [Inocência](#inocencia)
-🔖 [Instinto](#instinto)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Criança](#crianca)
+- 🔖 [Inocência](#inocencia)
+- 🔖 [Instinto](#instinto)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 #### 2.04.06. 📄 Sexos nos Espíritos {#lde-2-04-06}
@@ -3440,7 +3449,7 @@ Em nova existência, pode o Espírito que animou o corpo de um homem animar o de
 
 > ✨ ▸ Decerto; são os mesmos os Espíritos que animam os homens e as mulheres.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.202 {#q202}
@@ -3451,7 +3460,7 @@ Quando errante, que prefere o Espírito: encarnar no corpo de um homem, ou no de
 
 > 👴🏻 ▸ Os Espíritos encarnam como homens ou como mulheres, porque não têm sexo. Visto que lhes cumpre progredir em tudo, cada sexo, como cada posição social, lhes proporciona provações e deveres especiais e, com isso, ensejo de ganharem experiência. Aquele que só como homem encarnasse só saberia o que sabem os homens.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 #### 2.04.07. 📄 Parentesco, filiação {#lde-2-04-07}
@@ -3469,8 +3478,8 @@ Uma vez que temos tido muitas existências, a nossa parentela vai além da que a
 
 > ✨ ▸ Não pode ser de outra maneira. A sucessão das existências corporais estabelece entre os Espíritos ligações que remontam às vossas existências anteriores. Daí, muitas vezes, a simpatia que vem a existir entre vós e certos Espíritos que vos parecem estranhos.
 
-🔖 [Parentela](#parentela)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Parentela](#parentela)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.205 {#q205}
@@ -3483,8 +3492,8 @@ A algumas pessoas a doutrina da reencarnação se afigura destruidora dos laços
 ↩️ Voltar para [Q.774](#q774)
 ↩️ Voltar para [Q.890](#q890)
 
-🔖 [Família](#familia)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Família](#familia)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.205.a {#q205a}
@@ -3493,9 +3502,9 @@ Ela, no entanto, diminui a importância que alguns dão à genealogia, visto que
 
 > ✨ ▸ É exato; mas essa importância assenta no orgulho. Os títulos, a categoria social, a riqueza, eis o que esses tais veneram nos seus antepassados. Um, que coraria de contar, como ascendente, honrado sapateiro, orgulhar-se-ia de descender de um gentil-homem devasso. Digam, porém, o que disserem, ou façam o que fizerem, não obstarão a que as coisas sejam como são, que não foi consultando-lhes a vaidade que Deus formulou as Leis da Natureza.
 
-🔖 [Genealogia](#genealogia)
-🔖 [Orgulho](#orgulho)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Genealogia](#genealogia)
+- 🔖 [Orgulho](#orgulho)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.206 {#q206}
@@ -3504,8 +3513,8 @@ Do fato de não haver filiação entre os Espíritos dos descendentes de qualque
 
 > ✨ ▸ De modo nenhum. Todo homem deve considerar-se ditoso por pertencer a uma família em que encarnaram Espíritos elevados. Se bem os Espíritos não procedam uns dos outros, nem por isso menos afeição consagram aos que lhes estão ligados pelos elos da família, dado que muitas vezes eles são atraídos para tal ou qual família pela simpatia, ou pelos laços que anteriormente se estabeleceram. Mas ficai certos de que os vossos antepassados não se honram com o culto que lhes tributais por orgulho. Em vós não se refletem os méritos de que eles gozem, senão na medida dos esforços que empregais por seguir os bons exemplos que vos deram. Somente nestas condições lhes é grata e até mesmo útil a lembrança que deles guardais.
 
-🔖 [Antepassados](#antepassados)
-🔖 [Parentela](#parentela)
+- 🔖 [Antepassados](#antepassados)
+- 🔖 [Parentela](#parentela)
 ---
 
 #### 2.04.08. 📄 Parecenças físicas e morais {#lde-2-04-08}
@@ -3516,7 +3525,7 @@ Frequentemente, os pais transmitem aos filhos a parecença física. Transmitirã
 
 > ✨ ▸ Não, que diferentes são as almas ou Espíritos de uns e outros. O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
 
-🔖 [Hereditariedade](#hereditariedade)
+- 🔖 [Hereditariedade](#hereditariedade)
 ---
 
 ##### #️⃣ Q.207.a {#q207a}
@@ -3525,7 +3534,7 @@ Donde se originam as parecenças morais que costuma haver entre pais e filhos?
 
 > ✨ ▸ É que uns e outros são Espíritos simpáticos, que reciprocamente se atraíram pela analogia dos pendores.
 
-🔖 [Filho](#filho)
+- 🔖 [Filho](#filho)
 ---
 
 ##### #️⃣ Q.208 {#q208}
@@ -3540,8 +3549,8 @@ Por que de pais bons e virtuosos nascem filhos de natureza perversa? Por outra: 
 
 > ✨ ▸ Não é raro que um mau Espírito peça lhe sejam dados bons pais, na esperança de que seus conselhos o encaminhem por melhor senda e muitas vezes Deus lhe concede o que deseja.
 
-🔖 [Influência](#influencia)
-🔖 [Pais](#pais)
+- 🔖 [Influência](#influencia)
+- 🔖 [Pais](#pais)
 ---
 
 ##### #️⃣ Q.210 {#q210}
@@ -3550,9 +3559,9 @@ Pelos seus pensamentos e preces podem os pais atrair para o corpo, em formação
 
 > ✨ ▸ Não, mas podem melhorar o Espírito do filho que lhes nasceu e está confiado. Esse o dever deles. Os maus filhos são uma provação para os pais.
 
-🔖 [Criança](#crianca)
-🔖 [Nascimento](#nascimento)
-🔖 [Oração](#oracao)
+- 🔖 [Criança](#crianca)
+- 🔖 [Nascimento](#nascimento)
+- 🔖 [Oração](#oracao)
 ---
 
 ##### #️⃣ Q.211 {#q211}
@@ -3561,7 +3570,7 @@ Donde deriva a semelhança de caráter que muitas vezes existe entre dois irmão
 
 > ✨ ▸ São Espíritos simpáticos que se aproximam por analogia de sentimentos *e se sentem felizes por estar juntos*.
 
-🔖 [Irmãos](#irmaos)
+- 🔖 [Irmãos](#irmaos)
 ---
 
 ##### #️⃣ Q.212 {#q212}
@@ -3570,7 +3579,7 @@ Há dois Espíritos, ou, por outra, duas almas, nas crianças cujos corpos nasce
 
 > ✨ ▸ Sim, mas a semelhança entre elas é tal que faz vos pareçam, em muitos casos, uma só.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.213 {#q213}
@@ -3579,8 +3588,8 @@ Pois que nos gêmeos os Espíritos encarnam por simpatia, donde provém a avers�
 
 > ✨ ▸ Não é de regra que sejam simpáticos os Espíritos dos gêmeos. Acontece também que Espíritos maus entendam de lutar juntos no palco da vida.
 
-🔖 [Gêmeos](#gemeos)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Gêmeos](#gemeos)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.214 {#q214}
@@ -3589,8 +3598,8 @@ Que se deve pensar dessas histórias de crianças que lutam no seio materno?
 
 > ✨ ▸ Lendas! Para significarem quão inveterado era o ódio que reciprocamente se votavam, figuram-no a se fazer sentir antes do nascimento delas. Em geral, não levais muito em conta as imagens poéticas.
 
-🔖 [Gestação](#gestacao)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Gestação](#gestacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.215 {#q215}
@@ -3599,7 +3608,7 @@ O que dá origem ao caráter distintivo que se nota em cada povo?
 
 > ✨ ▸ Também os Espíritos se grupam em famílias, formando-as pela analogia de seus pendores mais ou menos puros, conforme a elevação que tenham alcançado. Pois bem! um povo é uma grande família formada pela reunião de Espíritos simpáticos. Na tendência que apresentam os membros dessas famílias, para se unirem, é que está a origem da semelhança que, existindo entre os indivíduos, constitui o caráter distintivo de cada povo. Julgas que Espíritos bons e humanitários procurem, para nele encarnar, um povo rude e grosseiro? Não. Os Espíritos simpatizam com as coletividades, como simpatizam com os indivíduos. Naquelas em cujo seio se encontrem, eles se acham no meio que lhes é próprio.
 
-🔖 [Povos](#povos)
+- 🔖 [Povos](#povos)
 ---
 
 ##### #️⃣ Q.216 {#q216}
@@ -3610,7 +3619,7 @@ Em suas novas existências conservará o Espírito traços do caráter moral de 
 
 ↩️ Voltar para [Q.218b](#q218b)
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.217 {#q217}
@@ -3621,8 +3630,8 @@ E do caráter físico de suas existências pretéritas conserva o Espírito tra�
 
 > 👴🏻 ▸ Nenhuma relação *essencial* guardando o corpo que a alma toma numa encarnação com o de que se revestiu em encarnação anterior, visto que aquele lhe pode vir de procedência muito diversa da deste, fora absurdo pretender-se que, numa série de existências, haja uma semelhança que é inteiramente fortuita. Todavia, as qualidades do Espírito frequentemente modificam os órgãos que lhe servem para as manifestações e lhe imprimem ao semblante físico e até ao conjunto de suas maneiras um cunho especial. É assim que, sob um envoltório corporal da mais humilde aparência, se pode deparar a expressão da grandeza e da dignidade, enquanto sob um envoltório de aspecto senhoril se percebe frequentemente a da baixeza e da ignomínia. Não é pouco frequente observar-se que certas pessoas, elevando-se da mais ínfima posição, tomam sem esforços os hábitos e as maneiras da alta sociedade. Parece que elas aí vêm a *achar-se de novo* no seu elemento. Outras, contrariamente, apesar do nascimento e da educação, se mostram sempre deslocadas em tal meio. De que modo se há de explicar esse fato, senão como reflexo daquilo que o Espírito foi antes?
 
-🔖 [Reencarnação](#reencarnacao)
-🔖 [Semelhança](#semelhanca)
+- 🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Semelhança](#semelhanca)
 ---
 
 #### 2.04.09. 📄 Ideias inatas {#lde-2-04-09}
@@ -3640,9 +3649,9 @@ Não é, então, quimérica a teoria das ideias inatas?
 
 > ✨ ▸ Não; os conhecimentos adquiridos em cada existência não mais se perdem. Liberto da matéria, o Espírito sempre os tem presentes. Durante a encarnação, esquece-os em parte, momentaneamente; porém a intuição que deles conserva lhe auxilia o progresso. Se não fosse assim, teria que recomeçar constantemente. Em cada nova existência, o ponto de partida, para o Espírito, é o em que, na existência precedente, ele ficou.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Ideias inatas](#ideias-inatas)
-🔖 [Teoria](#teoria)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Ideias inatas](#ideias-inatas)
+- 🔖 [Teoria](#teoria)
 ---
 
 ##### #️⃣ Q.218.b {#q218b}
@@ -3653,7 +3662,7 @@ Grande conexão deve então haver entre duas existências consecutivas?
 > 
 > 👉🏻 Veja [Q.216](#q216)
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.219 {#q219}
@@ -3662,8 +3671,8 @@ Qual a origem das faculdades extraordinárias dos indivíduos que, sem estudo pr
 
 > ✨ ▸ Lembrança do passado; progresso anterior da alma, mas de que ela não tem consciência. Donde queres que venham tais conhecimentos? O corpo muda, o Espírito, porém, não muda, embora troque de roupagem.
 
-🔖 [Indivíduo](#individuo)
-🔖 [Passado](#passado)
+- 🔖 [Indivíduo](#individuo)
+- 🔖 [Passado](#passado)
 ---
 
 ##### #️⃣ Q.220 {#q220}
@@ -3672,8 +3681,8 @@ Pode o Espírito, mudando de corpo, perder algumas faculdades intelectuais, deix
 
 > ✨ ▸ Sim, desde que conspurcou a sua inteligência ou a utilizou mal. Ademais, uma faculdade qualquer pode permanecer adormecida durante uma existência, por querer o Espírito exercitar outra, que nenhuma relação tem com aquela. Esta, então, fica em estado latente, para reaparecer mais tarde.
 
-🔖 [Inteligência](#inteligencia)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Inteligência](#inteligencia)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.221 {#q221}
@@ -3682,9 +3691,9 @@ Dever-se-ão atribuir a uma lembrança retrospectiva o sentimento instintivo que
 
 > ✨ ▸ É uma lembrança que ele conserva do que sabia como Espírito antes de encarnar, mas o orgulho amiudadamente abafa esse sentimento.
 
-🔖 [Deus](#deus)
-🔖 [Ideias inatas](#ideias-inatas)
-🔖 [Vida futura](#vida-futura)
+- 🔖 [Deus](#deus)
+- 🔖 [Ideias inatas](#ideias-inatas)
+- 🔖 [Vida futura](#vida-futura)
 ---
 
 ##### #️⃣ Q.221.a {#q221a}
@@ -3693,8 +3702,8 @@ Serão devidas a essa mesma lembrança certas crenças relativas à Doutrina Esp
 
 > ✨ ▸ Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição.
 
-🔖 [Ancianidade](#ancianidade)
-🔖 [Espiritismo](#espiritismo)
+- 🔖 [Ancianidade](#ancianidade)
+- 🔖 [Espiritismo](#espiritismo)
 ---
 
 ### 2.05. 🗂️ Considerações sobre a pluralidade das existências {#lde-2-05}
@@ -3790,10 +3799,10 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito:
 ↩️ Voltar para [Q.619](#q619)
 ↩️ Voltar para [Q.789](#q789)
 
-🔖 [Batista, João](#batista-joao)
-🔖 [Elias](#elias)
-🔖 [Raciocínio](#raciocinio)
-🔖 [Racismo](#racismo)
+- 🔖 [Batista, João](#batista-joao)
+- 🔖 [Elias](#elias)
+- 🔖 [Raciocínio](#raciocinio)
+- 🔖 [Racismo](#racismo)
 ---
 
 ### 2.06. 🗂️ Vida espírita {#lde-2-06}
@@ -3808,6 +3817,7 @@ Neste capítulo:
 - [2.06.07. 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas](#lde-2-06-07)
 - [2.06.08. 📄 Recordação da existência corpórea](#lde-2-06-08)
 - [2.06.09. 📄 Comemoração dos mortos. Funerais](#lde-2-06-09)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -3826,9 +3836,9 @@ Que é a alma no intervalo das encarnações?
 
 > ✨ ▸ Espírito errante, que aspira a novo destino, que espera.
 
-🔖 [Alma](#alma)
-🔖 [Errante](#errante)
-🔖 [Espírito errante](#espirito-errante)
+- 🔖 [Alma](#alma)
+- 🔖 [Errante](#errante)
+- 🔖 [Espírito errante](#espirito-errante)
 ---
 
 ##### #️⃣ Q.224.a {#q224a}
@@ -3837,7 +3847,7 @@ Quanto podem durar esses intervalos?
 
 > ✨ ▸ Desde algumas horas até alguns milhares de séculos. Propriamente falando, não há extremo limite estabelecido para o estado de erraticidade, que pode prolongar-se muitíssimo, mas que nunca é perpétuo. Cedo ou tarde, o Espírito terá que volver a uma existência apropriada a purificá-lo das máculas de suas existências precedentes.
 
-🔖 [Erraticidade](#erraticidade)
+- 🔖 [Erraticidade](#erraticidade)
 ---
 
 ##### #️⃣ Q.224.b {#q224b}
@@ -3846,8 +3856,8 @@ Essa duração depende da vontade do Espírito, ou lhe pode ser imposta como exp
 
 > ✨ ▸ É uma consequência do livre-arbítrio. Os Espíritos sabem perfeitamente o que fazem. Mas, também, para alguns, constitui uma punição que Deus lhes inflige. Outros pedem que ela se prolongue, a fim de continuarem estudos que só na condição de Espírito livre podem efetuar-se com proveito.
 
-🔖 [Erraticidade](#erraticidade)
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Erraticidade](#erraticidade)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.225 {#q225}
@@ -3856,8 +3866,8 @@ A erraticidade é, por si só, um sinal de inferioridade dos Espíritos?
 
 > ✨ ▸ Não, porquanto há Espíritos errantes de todos os graus. A encarnação é um estado transitório, já o dissemos. O Espírito se acha no seu estado normal, quando liberto da matéria.
 
-🔖 [Erraticidade](#erraticidade)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Erraticidade](#erraticidade)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.226 {#q226}
@@ -3868,9 +3878,9 @@ Poder-se-á dizer que são errantes todos os Espíritos que não estão encarnad
 
 > 👴🏻 ▸ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou graus, pelos quais vão passando sucessivamente, à medida que se purificam. Com relação ao estado em que se acham, podem ser: *encarnados*, isto é, ligados a um corpo; *errantes*, isto é, sem corpo material e aguardando nova encarnação para se melhorarem; *Espíritos puros*, isto é, perfeitos, não precisando mais de encarnação.
 
-🔖 [Encarnado](#encarnado)
-🔖 [Encarnação](#encarnacao)
-🔖 [Espírito errante](#espirito-errante)
+- 🔖 [Encarnado](#encarnado)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Espírito errante](#espirito-errante)
 ---
 
 ##### #️⃣ Q.227 {#q227}
@@ -3879,7 +3889,7 @@ De que modo se instruem os Espíritos errantes? Certo não o fazem do mesmo modo
 
 > ✨ ▸ Estudam e procuram meios de elevar-se. Veem, observam o que ocorre nos lugares aonde vão; ouvem os discursos dos homens doutos e os conselhos dos Espíritos mais elevados e tudo isso lhes incute ideias que antes não tinham.
 
-🔖 [Espírito errante](#espirito-errante)
+- 🔖 [Espírito errante](#espirito-errante)
 ---
 
 ##### #️⃣ Q.228 {#q228}
@@ -3888,7 +3898,7 @@ Conservam os Espíritos algumas de suas paixões humanas?
 
 > ✨ ▸ Com o invólucro imaterial os Espíritos elevados deixam as paixões más e só guardam as do bem. Quanto aos Espíritos inferiores, esses as conservam, pois do contrário pertenceriam à primeira ordem.
 
-🔖 [Paixão](#paixao)
+- 🔖 [Paixão](#paixao)
 ---
 
 ##### #️⃣ Q.229 {#q229}
@@ -3897,7 +3907,7 @@ Por que, deixando a Terra, não deixam aí os Espíritos todas as más paixões,
 
 > ✨ ▸ Vês nesse mundo pessoas excessivamente invejosas. Imaginas que, mal o deixam, perdem esse defeito? Acompanha os que da Terra partem, sobretudo os que alimentaram paixões bem acentuadas, uma espécie de atmosfera que os envolve, conservando-lhes o que têm de mau, por não se achar o Espírito inteiramente desprendido da matéria. Só por momentos ele entrevê a verdade, que assim lhe aparece como que para mostrar-lhe o bom caminho.
 
-🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Desencarnação](#desencarnacao)
 ---
 
 ##### #️⃣ Q.230 {#q230}
@@ -3906,8 +3916,8 @@ Na erraticidade, o Espírito progride?
 
 > ✨ ▸ Pode melhorar-se muito, tais sejam a vontade e o desejo que tenha de consegui-lo. Todavia, na existência corporal é que põe em prática as ideias que adquiriu.
 
-🔖 [Erraticidade](#erraticidade)
-🔖 [Evolução](#evolucao)
+- 🔖 [Erraticidade](#erraticidade)
+- 🔖 [Evolução](#evolucao)
 ---
 
 ##### #️⃣ Q.231 {#q231}
@@ -3916,7 +3926,7 @@ São felizes ou desgraçados os Espíritos errantes?
 
 > ✨ ▸ Mais ou menos, conforme seus méritos. Sofrem por efeito das paixões cuja essência conservaram, ou são felizes, de conformidade com o grau de desmaterialização a que hajam chegado. Na erraticidade, o Espírito percebe o que lhe falta para ser mais feliz e, desde então, procura os meios de alcançá-lo. Nem sempre, porém, lhe é permitido reencarnar como fora de seu agrado, representando isso, para ele, uma punição.
 
-🔖 [Felicidade](#felicidade)
+- 🔖 [Felicidade](#felicidade)
 ---
 
 ##### #️⃣ Q.232 {#q232}
@@ -3925,7 +3935,7 @@ Podem os Espíritos errantes ir a todos os mundos?
 
 > ✨ ▸ Conforme. Pelo simples fato de haver deixado o corpo, o Espírito não se acha completamente desprendido da matéria e continua a pertencer ao mundo onde acabou de viver, ou a outro do mesmo grau, a menos que, durante a vida, se tenha elevado, o que, aliás, constitui o objetivo para que devem tender seus esforços, pois, do contrário, nunca se aperfeiçoaria. Pode, no entanto, ir a alguns mundos superiores, mas na qualidade de estrangeiro. A bem dizer, consegue apenas entrevê-los, donde lhe nasce o desejo de melhorar-se, para ser digno da felicidade de que gozam os que os habitam, para ser digno também de habitá-los mais tarde.
 
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 ##### #️⃣ Q.233 {#q233}
@@ -3934,8 +3944,8 @@ Os Espíritos já purificados descem aos mundos inferiores?
 
 > ✨ ▸ Fazem-no frequentemente, com o fim de auxiliar-lhes o progresso. A não ser assim, esses mundos estariam entregues a si mesmos, sem guias para dirigi-los.
 
-🔖 [Espírito puro](#espirito-puro)
-🔖 [Orientação](#orientacao)
+- 🔖 [Espírito puro](#espirito-puro)
+- 🔖 [Orientação](#orientacao)
 ---
 
 #### 2.06.02. 📄 Mundos transitórios {#lde-2-06-02}
@@ -3953,7 +3963,7 @@ Os Espíritos que habitam esses mundos podem deixá-los livremente?
 
 > ✨ ▸ Sim, os Espíritos que se encontram nesses mundos podem deixá-los, a fim de irem aonde devam ir. Figurai-os como bandos de aves que pousam numa ilha, para aí aguardarem que se lhes refaçam as forças, a fim de seguirem seu destino.
 
-🔖 [Colônia](#colonia)
+- 🔖 [Colônia](#colonia)
 ---
 
 ##### #️⃣ Q.235 {#q235}
@@ -3962,8 +3972,8 @@ Enquanto permanecem nos mundos transitórios, os Espíritos progridem?
 
 > ✨ ▸ Certamente. Os que vão a tais mundos levam o objetivo de se instruírem e de poderem mais facilmente obter permissão para passar a outros lugares melhores e chegar à perfeição que os eleitos atingem.
 
-🔖 [Colônia](#colonia)
-🔖 [Mundos transitórios](#mundos-transitorios)
+- 🔖 [Colônia](#colonia)
+- 🔖 [Mundos transitórios](#mundos-transitorios)
 ---
 
 ##### #️⃣ Q.236 {#q236}
@@ -3972,8 +3982,8 @@ Pela sua natureza especial, os mundos transitórios se conservam perpetuamente d
 
 > ✨ ▸ Não, a condição deles é meramente temporária.
 
-🔖 [Colônia](#colonia)
-🔖 [Mundos transitórios](#mundos-transitorios)
+- 🔖 [Colônia](#colonia)
+- 🔖 [Mundos transitórios](#mundos-transitorios)
 ---
 
 ##### #️⃣ Q.236.a {#q236a}
@@ -3982,8 +3992,8 @@ Esses mundos são ao mesmo tempo habitados por seres corpóreos?
 
 > ✨ ▸ Não; estéril é neles a superfície. Os que os habitam de nada precisam.
 
-🔖 [Colônia](#colonia)
-🔖 [Mundos transitórios](#mundos-transitorios)
+- 🔖 [Colônia](#colonia)
+- 🔖 [Mundos transitórios](#mundos-transitorios)
 ---
 
 ##### #️⃣ Q.236.b {#q236b}
@@ -3992,7 +4002,7 @@ Esses mundos são ao mesmo tempo habitados por seres corpóreos?
 
 > ✨ ▸ Não; são estéreis transitoriamente.
 
-🔖 [Esterilidade](#esterilidade)
+- 🔖 [Esterilidade](#esterilidade)
 ---
 
 ##### #️⃣ Q.236.c {#q236c}
@@ -4001,7 +4011,7 @@ Os mundos dessa categoria carecem então de belezas naturais?
 
 > ✨ ▸ A Natureza reflete as belezas da imensidade, que não são menos admiráveis do que aquilo a que dais o nome de belezas naturais.
 
-🔖 [Natureza](#natureza)
+- 🔖 [Natureza](#natureza)
 ---
 
 ##### #️⃣ Q.236.d {#q236d}
@@ -4010,8 +4020,8 @@ Sendo transitório o estado de semelhantes mundos, a Terra pertencerá algum dia
 
 > ✨ ▸ Já pertenceu.
 
-🔖 [Mundos transitórios](#mundos-transitorios)
-🔖 [Terra](#terra)
+- 🔖 [Mundos transitórios](#mundos-transitorios)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.236.e {#q236e}
@@ -4022,9 +4032,9 @@ Em que época?
 
 > 👴🏻 ▸ Nada é inútil na Natureza; tudo tem um fim, uma destinação. Em lugar algum há o vazio; tudo é habitado, há vida em toda parte. Assim, durante a dilatada sucessão dos séculos que passaram antes do aparecimento do homem na Terra, durante os lentos períodos de transição que as camadas geológicas atestam, antes mesmo da formação dos primeiros seres orgânicos, naquela massa informe, naquele árido caos, onde os elementos se achavam em confusão, não havia ausência de vida. Seres isentos das nossas necessidades, das nossas sensações físicas, lá encontravam refúgio. Quis Deus que, mesmo assim, ainda imperfeita, a Terra servisse para alguma coisa. Quem ousaria afirmar que, entre os milhares de mundos que giram na imensidade, um só, um dos menores, perdido no seio da multidão infinita deles, goza do privilégio exclusivo de ser povoado? Qual então a utilidade dos demais? Tê-los-ia Deus feito unicamente para nos recrearem a vista? Suposição absurda, incompatível com a sabedoria que esplende em todas as suas obras e inadmissível desde que ponderemos na existência de todos os que não podemos perceber. Ninguém contestará que, nesta ideia da existência de mundos ainda impróprios para a vida material e, não obstante, já povoados de seres vivos apropriados a tal meio, há qualquer coisa de grande e sublime, em que talvez se encontre a solução de mais de um problema.
 
-🔖 [Começo dos tempos](#comeco-dos-tempos)
-🔖 [Natureza](#natureza)
-🔖 [Terra](#terra)
+- 🔖 [Começo dos tempos](#comeco-dos-tempos)
+- 🔖 [Natureza](#natureza)
+- 🔖 [Terra](#terra)
 ---
 
 #### 2.06.03. 📄 Percepções, sensações e sofrimentos dos Espíritos {#lde-2-06-03}
@@ -4045,8 +4055,8 @@ São ilimitadas as percepções e os conhecimentos dos Espíritos? Numa palavra:
 
 > ✨ ▸ Quanto mais se aproximam da perfeição, tanto mais sabem. Se são Espíritos superiores, sabem muito. Os Espíritos inferiores são mais ou menos ignorantes acerca de tudo.
 
-🔖 [Perfeição](#perfeicao)
-🔖 [Sabedoria](#sabedoria)
+- 🔖 [Perfeição](#perfeicao)
+- 🔖 [Sabedoria](#sabedoria)
 ---
 
 ##### #️⃣ Q.239 {#q239}
@@ -4055,7 +4065,7 @@ Conhecem os Espíritos o princípio das coisas?
 
 > ✨ ▸ Conforme a elevação e a pureza que hajam atingido. Os de ordem inferior não sabem mais do que os homens.
 
-🔖 [Conhecimento](#conhecimento)
+- 🔖 [Conhecimento](#conhecimento)
 ---
 
 ##### #️⃣ Q.240 {#q240}
@@ -4068,8 +4078,8 @@ A duração, os Espíritos a compreendem como nós?
 
 ↩️ Voltar para [Q.1005](#q1005)
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Tempo](#tempo)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Tempo](#tempo)
 ---
 
 ##### #️⃣ Q.241 {#q241}
@@ -4078,8 +4088,8 @@ Os Espíritos fazem do presente mais precisa e exata ideia do que nós?
 
 > ✨ ▸ Do mesmo modo que aquele, que vê bem, faz mais exata ideia das coisas do que o cego. Os Espíritos veem o que não vedes. Tudo apreciam, pois, diversamente do modo por que o fazeis, mas também isso depende da elevação deles.
 
-🔖 [Percepção](#percepcao)
-🔖 [Presente](#presente)
+- 🔖 [Percepção](#percepcao)
+- 🔖 [Presente](#presente)
 ---
 
 ##### #️⃣ Q.242 {#q242}
@@ -4088,7 +4098,7 @@ Como é que os Espíritos têm conhecimento do passado? E esse conhecimento lhes
 
 > ✨ ▸ O passado, quando com ele nos ocupamos, é presente. Verifica-se então, precisamente, o que se passa contigo quando recordas qualquer coisa que te impressionou no curso do teu exílio. Simplesmente, como já nenhum véu material nos tolda a inteligência, lembramo-nos mesmo daquilo que se te apagou da memória. Nem tudo os Espíritos sabem, porém, a começar pela sua própria criação.
 
-🔖 [Passado](#passado)
+- 🔖 [Passado](#passado)
 ---
 
 ##### #️⃣ Q.243 {#q243}
@@ -4097,7 +4107,7 @@ E o futuro, os Espíritos o conhecem?
 
 > ✨ ▸ Ainda isto depende da elevação que tenham conquistado. Muitas vezes, apenas o entreveem, *porém, nem sempre lhes é permitido revelá-lo*. Quando o veem, parece-lhes presente. À medida que se aproxima de Deus, tanto mais claramente o Espírito descortina o futuro. Depois da morte, a alma vê e apreende num golpe de vista *suas passadas migrações*, mas não pode ver o que Deus lhe reserva. Para que tal aconteça, preciso é que, ao cabo de múltiplas existências, se haja integrado nele.
 
-🔖 [Futuro](#futuro)
+- 🔖 [Futuro](#futuro)
 ---
 
 ##### #️⃣ Q.243.a {#q243a}
@@ -4106,8 +4116,8 @@ Os Espíritos que alcançaram a perfeição absoluta têm conhecimento completo 
 
 > ✨ ▸ Completo não se pode dizer, por isso que só Deus é soberano Senhor e ninguém o pode igualar.
 
-🔖 [Espírito puro](#espirito-puro)
-🔖 [Futuro](#futuro)
+- 🔖 [Espírito puro](#espirito-puro)
+- 🔖 [Futuro](#futuro)
 ---
 
 ##### #️⃣ Q.244 {#q244}
@@ -4116,8 +4126,8 @@ Os Espíritos veem a Deus?
 
 > ✨ ▸ Só os Espíritos superiores o veem e compreendem. Os inferiores o sentem e adivinham.
 
-🔖 [Deus](#deus)
-🔖 [Visão](#visao)
+- 🔖 [Deus](#deus)
+- 🔖 [Visão](#visao)
 ---
 
 ##### #️⃣ Q.244.a {#q244a}
@@ -4126,7 +4136,7 @@ Quando um Espírito inferior diz que Deus lhe proíbe ou permite uma coisa, como
 
 > ✨ ▸ Ele não vê a Deus, mas sente a sua soberania e, quando não deva ser feita alguma coisa ou dita uma palavra, percebe, como por intuição, a proibição de fazê-la ou dizê-la. Não tendes vós mesmos pressentimentos, que se vos afiguram avisos secretos, para fazerdes, ou não, isto ou aquilo? O mesmo nos acontece, se bem que em grau mais alto, pois compreendes que, sendo mais sutil do que as vossas a essência dos Espíritos, podem estes receber melhor as advertências divinas.
 
-🔖 [Espírito inferior](#espirito-inferior)
+- 🔖 [Espírito inferior](#espirito-inferior)
 ---
 
 ##### #️⃣ Q.244.b {#q244b}
@@ -4135,7 +4145,7 @@ Deus transmite diretamente a ordem ao Espírito, ou por intermédio de outros Es
 
 > ✨ ▸ Ela não lhe vem direta de Deus. Para se comunicar com Deus, é-lhe necessário ser digno disso. Deus lhe transmite suas ordens por intermédio dos Espíritos imediatamente superiores em perfeição e instrução.
 
-🔖 [Comunicação](#comunicacao)
+- 🔖 [Comunicação](#comunicacao)
 ---
 
 ##### #️⃣ Q.245 {#q245}
@@ -4144,8 +4154,8 @@ O Espírito tem circunscrita a visão como os seres corpóreos?
 
 > ✨ ▸ Não, ela reside em todo ele.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Visão](#visao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Visão](#visao)
 ---
 
 ##### #️⃣ Q.246 {#q246}
@@ -4154,8 +4164,8 @@ Precisam da luz para ver?
 
 > ✨ ▸ Veem por si mesmos, sem precisarem de luz exterior. Para os Espíritos, não há trevas, salvo as em que podem achar-se por expiação.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Percepção](#percepcao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Percepção](#percepcao)
 ---
 
 ##### #️⃣ Q.247 {#q247}
@@ -4168,9 +4178,9 @@ Para verem o que se passa em dois pontos diferentes, precisam transportar-se a e
 
 👉🏻 Veja Ubiquidade, [Q.92](#q92)
 
-🔖 [Locomoção](#locomocao)
-🔖 [Pensamento](#pensamento)
-🔖 [Visão](#visao)
+- 🔖 [Locomoção](#locomocao)
+- 🔖 [Pensamento](#pensamento)
+- 🔖 [Visão](#visao)
 ---
 
 ##### #️⃣ Q.248 {#q248}
@@ -4179,7 +4189,7 @@ O Espírito vê as coisas tão distintamente como nós?
 
 > ✨ ▸ Mais distintamente, pois que sua vista penetra onde a vossa não pode penetrar. Nada a obscurece.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.249 {#q249}
@@ -4188,7 +4198,7 @@ Percebe os sons?
 
 > ✨ ▸ Sim, percebe mesmo sons imperceptíveis para os vossos sentidos obtusos.
 
-🔖 [Som](#som)
+- 🔖 [Som](#som)
 ---
 
 ##### #️⃣ Q.249.a {#q249a}
@@ -4197,7 +4207,7 @@ No Espírito, a faculdade de ouvir está em todo ele, como a de ver?
 
 > ✨ ▸ Todas as percepções constituem atributos do Espírito e lhe são inerentes ao ser. Quando o reveste um corpo material, elas só lhe chegam pelo conduto dos órgãos. Deixam, porém, de estar localizadas, em se achando ele na condição de Espírito livre.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.250 {#q250}
@@ -4206,8 +4216,8 @@ Constituindo elas atributos próprios do Espírito, ser-lhe-á possível subtrai
 
 > ✨ ▸ O Espírito unicamente vê e ouve o que quer. Dizemos isto de um ponto de vista geral e, em particular, com referência aos Espíritos elevados, porquanto os imperfeitos muitas vezes ouvem e veem, a seu mau grado, o que lhes possa ser útil ao aperfeiçoamento.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Percepção](#percepcao)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Percepção](#percepcao)
 ---
 
 ##### #️⃣ Q.251 {#q251}
@@ -4216,8 +4226,8 @@ São sensíveis à música os Espíritos?
 
 > ✨ ▸ Aludes à música terrena? Que é ela comparada à música celeste? a esta harmonia de que nada na Terra vos pode dar ideia? Uma está para a outra como o canto do selvagem para uma doce melodia. Não obstante, Espíritos vulgares podem experimentar certo prazer em ouvir a vossa música, por lhes não ser dado ainda compreenderem outra mais sublime. A música possui infinitos encantos para os Espíritos, por terem eles muito desenvolvidas as qualidades sensitivas. Refiro-me à música celeste, que é tudo o que de mais belo e delicado pode a imaginação espiritual conceber.
 
-🔖 [Música](#musica)
-🔖 [Sensação](#sensacao)
+- 🔖 [Música](#musica)
+- 🔖 [Sensação](#sensacao)
 ---
 
 ##### #️⃣ Q.252 {#q252}
@@ -4226,8 +4236,8 @@ São sensíveis, os Espíritos, às magnificências da Natureza?
 
 > ✨ ▸ Tão diferentes são as belezas naturais dos mundos, que longe estamos de as conhecer. Sim, os Espíritos são sensíveis a essas belezas, de acordo com as aptidões que tenham para as apreciar e compreender. Para os Espíritos elevados, há belezas de conjunto que, por assim dizer, apagam as das particularidades.
 
-🔖 [Natureza](#natureza)
-🔖 [Sensação](#sensacao)
+- 🔖 [Natureza](#natureza)
+- 🔖 [Sensação](#sensacao)
 ---
 
 ##### #️⃣ Q.253 {#q253}
@@ -4236,8 +4246,8 @@ Os Espíritos experimentam as nossas necessidades e sofrimentos físicos?
 
 > ✨ ▸ Eles os *conhecem*, porque os sofreram, não os experimentam, porém, materialmente, com vós outros: são Espíritos.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.254 {#q254}
@@ -4246,8 +4256,8 @@ E a fadiga, a necessidade de repouso, experimentam-nas?
 
 > ✨ ▸ Não podem sentir a fadiga, como a entendeis; conseguintemente, não precisam de descanso corporal, como vós, pois que não possuem órgãos cujas forças devam ser reparadas. O Espírito, entretanto, repousa, no sentido de não estar em constante atividade. Ele não atua materialmente. Sua ação é toda intelectual e inteiramente moral o seu repouso. Quer isto dizer que momentos há em que o seu pensamento deixa de ser tão ativo quanto de ordinário e não se fixa em qualquer objeto determinado. É um verdadeiro repouso, mas de nenhum modo comparável ao do corpo. A espécie de fadiga que os Espíritos são suscetíveis de sentir guarda relação com a inferioridade deles. Quanto mais elevados sejam, tanto menos precisarão de repousar.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Repouso](#repouso)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Repouso](#repouso)
 ---
 
 ##### #️⃣ Q.255 {#q255}
@@ -4256,8 +4266,8 @@ Quando um Espírito diz que sofre, de que natureza é o seu sofrimento?
 
 > ✨ ▸ Angústias morais, que o torturam mais dolorosamente do que todos os sofrimentos físicos.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.256 {#q256}
@@ -4266,8 +4276,8 @@ Como é então que alguns Espíritos se têm queixado de sofrer frio ou calor?
 
 > ✨ ▸ É reminiscência do que padecem durante a vida, reminiscência não raro tão aflitiva quanto a realidade. Muitas vezes, no que eles assim dizem apenas há uma comparação mediante a qual, em falta de coisa melhor, procuram exprimir a situação em que se acham. Quando se lembram do corpo que revestiram, têm impressão semelhante à de uma pessoa que, havendo tirado o manto que a envolvia, julga, passado algum tempo, que ainda o traz sobre os ombros.
 
-🔖 [Encarnado](#encarnado)
-🔖 [Vida espiritual](#vida-espiritual)
+- 🔖 [Encarnado](#encarnado)
+- 🔖 [Vida espiritual](#vida-espiritual)
 ---
 
 #### 2.06.04. 📄 Ensaio teórico da sensação nos Espíritos {#lde-2-06-04}
@@ -4306,7 +4316,7 @@ Interrogamos, aos milhares, Espíritos que na Terra pertenceram a todas as class
 
 ↩️ Voltar para [Q.965](#q965)
 
-🔖 [Investigação](#investigacao)
+- 🔖 [Investigação](#investigacao)
 ---
 
 #### 2.06.05. 📄 Escolha das provas {#lde-2-06-05}
@@ -4326,8 +4336,8 @@ Não é Deus, então, quem lhe impõe as tribulações da vida, como castigo?
 
 > ✨ ▸ Nada ocorre sem a permissão de Deus, porquanto foi Deus quem estabeleceu todas as leis que regem o Universo. Ide agora perguntar por que decretou Ele esta lei e não aquela. Dando ao Espírito a liberdade de escolher, Deus lhe deixa a inteira responsabilidade de seus atos e das consequências que estes tiverem. Nada lhe estorva o futuro; abertos se lhe acham, assim, o caminho do bem, como o do mal. Se vier a sucumbir, restar-lhe-á a consolação de que nem tudo se lhe acabou e que a Bondade divina lhe concede a liberdade de recomeçar o que foi malfeito. Ademais, cumpre se distinga o que é obra da vontade de Deus do que o é da vontade do homem. Se um perigo vos ameaça, não fostes vós quem o criou e sim Deus. Vosso, porém, foi o desejo de a ele vos expordes, por haverdes visto nisso um meio de progredirdes, e Deus o permitiu.
 
-🔖 [Lei divina](#lei-divina)
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Lei divina](#lei-divina)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.259 {#q259}
@@ -4336,8 +4346,8 @@ Do fato de pertencer ao Espírito a escolha do gênero de provas que deva sofrer
 
 > ✨ ▸ Todas, não, pois ninguém pode dizer que haveis previsto e buscado tudo o que vos sucede no mundo, até às mínimas coisas. Escolhestes apenas o gênero das provações. As particularidades correm por conta da posição em que vos achais; são, muitas vezes, consequências das vossas próprias ações. Escolhendo, por exemplo, nascer entre malfeitores, sabia o Espírito a que arrastamentos se expunha; ignorava, porém, quais os atos que viria a praticar. Esses atos resultam do exercício da sua vontade, ou do seu livre-arbítrio. Sabe o Espírito que, escolhendo tal caminho, terá que sustentar lutas de determinada espécie; sabe, portanto, de que natureza serão as vicissitudes que se lhe depararão, mas ignora se se verificará este ou aquele êxito. Os acontecimentos secundários se originam das circunstâncias e da força mesma das coisas. Previstos só são os fatos principais, os que influem no destino. Se tomares uma estrada cheia de sulcos profundos, sabes que terás de andar cautelosamente, porque há muitas probabilidades de caíres; ignoras, contudo, em que ponto cairás e bem pode suceder que não caias, se fores bastante prudente. Se, ao percorreres uma rua, uma telha te cair na cabeça, não creias que estava escrito, segundo vulgarmente se diz.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Provação](#provacao)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Provação](#provacao)
 ---
 
 ##### #️⃣ Q.260 {#q260}
@@ -4346,7 +4356,7 @@ Como pode o Espírito desejar nascer entre gente de má vida?
 
 > ✨ ▸ Forçoso é que seja posto num meio onde possa sofrer a prova que pediu. Pois bem! É necessário que haja analogia. Para lutar contra o instinto do roubo, preciso é que se ache em contato com gente dada à prática de roubar.
 
-🔖 [Nascimento](#nascimento)
+- 🔖 [Nascimento](#nascimento)
 ---
 
 ##### #️⃣ Q.260.a {#q260a}
@@ -4355,8 +4365,8 @@ Assim, se não houvesse na Terra gente de maus costumes, o Espírito não encont
 
 > ✨ ▸ E seria isso de lastimar-se? É o que ocorre nos mundos superiores, onde o mal não penetra. Eis por que, nesses mundos, só há Espíritos bons. Fazei que em breve o mesmo se dê na Terra.
 
-🔖 [Ambiente](#ambiente)
-🔖 [Provação](#provacao)
+- 🔖 [Ambiente](#ambiente)
+- 🔖 [Provação](#provacao)
 ---
 
 ##### #️⃣ Q.261 {#q261}
@@ -4365,7 +4375,7 @@ Nas provações por que lhe cumpre passar para atingir a perfeição, tem o Esp�
 
 > ✨ ▸ Certo que não, pois bem sabeis haver Espíritos que desde o começo tomam um caminho que os exime de muitas provas. Aquele, porém, que se deixa arrastar para o mau caminho, corre todos os perigos que o inçam. Pode um Espírito, por exemplo, pedir a riqueza e ser-lhe esta concedida. Então, conforme o seu caráter, poderá tornar-se avaro ou pródigo, egoísta ou generoso, ou ainda lançar-se a todos os gozos da sensualidade. Daí não se segue, entretanto, que haja de forçosamente passar por todas estas tendências.
 
-🔖 [Provação](#provacao)
+- 🔖 [Provação](#provacao)
 ---
 
 ##### #️⃣ Q.262 {#q262}
@@ -4374,9 +4384,9 @@ Como pode o Espírito, que, em sua origem, é simples, ignorante e carecido de e
 
 > ✨ ▸ Deus lhe supre a inexperiência, traçando-lhe o caminho que deve seguir, como fazeis com a criancinha. Deixa-o, porém, pouco a pouco, à medida que o seu livre-arbítrio se desenvolve, senhor de proceder à escolha e só então é que muitas vezes lhe acontece extraviar-se, tomando o mau caminho, por desatender os conselhos dos bons Espíritos. A isso é que se pode chamar a queda do homem.
 
-🔖 [Homem](#homem)
-🔖 [Providência divina](#providencia-divina)
-🔖 [Queda](#queda)
+- 🔖 [Homem](#homem)
+- 🔖 [Providência divina](#providencia-divina)
+- 🔖 [Queda](#queda)
 ---
 
 ##### #️⃣ Q.262.a {#q262a}
@@ -4385,8 +4395,8 @@ Quando o Espírito goza do livre-arbítrio, a escolha, que lhe cabe, da existên
 
 > ✨ ▸ Deus sabe esperar, não apressa a expiação. Todavia, pode impor certa existência a um Espírito, quando este, pela sua inferioridade ou má vontade, não se mostra apto a compreender o que lhe seria mais útil, e quando vê que tal existência servirá para a purificação e o progresso do Espírito, ao mesmo tempo que lhe sirva de expiação.
 
-🔖 [Expiação](#expiacao)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Expiação](#expiacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.263 {#q263}
@@ -4395,7 +4405,7 @@ O Espírito faz a sua escolha logo depois da morte?
 
 > ✨ ▸ Não, muitos acreditam na eternidade das penas, o que, como já se vos disse, é um castigo.
 
-🔖 [Morte](#morte)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.264 {#q264}
@@ -4404,7 +4414,7 @@ Que é o que dirige o Espírito na escolha das provas que queira sofrer?
 
 > ✨ ▸ Ele escolhe, de acordo com a natureza de suas faltas, as que o levem à expiação destas e a progredir mais depressa. Uns, portanto, impõem a si mesmos uma vida de misérias e privações, objetivando suportá-las com coragem; outros preferem experimentar as tentações da riqueza e do poder, muito mais perigosas, pelos abusos e má aplicação a que podem dar lugar, pelas paixões inferiores que uma e outros desenvolvem; muitos, finalmente, se decidem a experimentar suas forças nas lutas que terão de sustentar em contato com o vício.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.265 {#q265}
@@ -4413,8 +4423,8 @@ Havendo Espíritos que, por provação, escolhem o contato do vício, outros nã
 
 > ✨ ▸ Há, sem dúvida, mas tão somente entre aqueles cujo senso moral ainda está pouco desenvolvido. *A prova vem por si mesma e eles a sofrem mais demoradamente*. Cedo ou tarde, compreendem que a satisfação de suas paixões brutais lhes acarretou deploráveis consequências, que eles sofrerão durante um tempo que lhes parecerá eterno. E Deus os deixará nessa persuasão, até que se tornem conscientes da falta em que incorreram e peçam, por impulso próprio, lhes seja concedido resgatá-la, mediante úteis provações.
 
-🔖 [Paixão](#paixao)
-🔖 [Vício](#vicio)
+- 🔖 [Paixão](#paixao)
+- 🔖 [Vício](#vicio)
 ---
 
 ##### #️⃣ Q.266 {#q266}
@@ -4435,13 +4445,13 @@ Não parece natural que se escolham as provas menos dolorosas?
 
 ↩️ Voltar para [Q.816](#q816)
 
-🔖 [Escolha](#escolha)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Homem](#homem)
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Matéria](#materia)
-🔖 [Provas](#provas)
-🔖 [Vida espiritual](#vida-espiritual)
+- 🔖 [Escolha](#escolha)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Homem](#homem)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Matéria](#materia)
+- 🔖 [Provas](#provas)
+- 🔖 [Vida espiritual](#vida-espiritual)
 ---
 
 ##### #️⃣ Q.267 {#q267}
@@ -4450,7 +4460,7 @@ Pode o Espírito proceder à escolha de suas provas, enquanto encarnado?
 
 > ✨ ▸ O desejo que então alimenta pode influir na escolha que venha a fazer, dependendo isso da intenção que o anime. Dá-se, porém, que, como Espírito livre, quase sempre vê as coisas de modo diferente. O Espírito por si só é quem faz a escolha; entretanto, ainda uma vez o dizemos, possível lhe é fazê-la, mesmo na vida material, por isso que há sempre momentos em que o Espírito se torna independente da matéria que lhe serve de habitação.
 
-🔖 [Encarnado](#encarnado)
+- 🔖 [Encarnado](#encarnado)
 ---
 
 ##### #️⃣ Q.267.a {#q267a}
@@ -4459,7 +4469,7 @@ Não é decerto como expiação, ou como prova, que muita gente deseja as grande
 
 > ✨ ▸ Indubitavelmente, não. A matéria deseja essa grandeza para gozá-la e o Espírito para conhecer-lhe as vicissitudes.
 
-🔖 [Provação](#provacao)
+- 🔖 [Provação](#provacao)
 ---
 
 ##### #️⃣ Q.268 {#q268}
@@ -4468,7 +4478,7 @@ Até que chegue ao estado de pureza perfeita, tem o Espírito que passar constan
 
 > ✨ ▸ Sim, mas que não são como o entendeis, pois que só considerais provas as tribulações materiais. Ora, havendo-se elevado a um certo grau, o Espírito, embora não seja ainda perfeito, já não tem que sofrer provas. Continua, porém, sujeito a deveres nada penosos, cuja satisfação lhe auxilia o aperfeiçoamento, mesmo que consistam apenas em auxiliar os outros a se aperfeiçoarem.
 
-🔖 [Provas](#provas)
+- 🔖 [Provas](#provas)
 ---
 
 ##### #️⃣ Q.269 {#q269}
@@ -4477,8 +4487,8 @@ Pode o Espírito enganar-se quanto à eficiência da prova que escolheu?
 
 > ✨ ▸ Pode escolher uma que esteja acima de suas forças e sucumbir. Pode também escolher alguma que nada lhe aproveite, como sucederá se buscar vida ociosa e inútil. Mas, então, voltando ao mundo dos Espíritos, verifica que nada ganhou e pede outra que lhe faculte recuperar o tempo perdido.
 
-🔖 [Escolha](#escolha)
-🔖 [Julgamento](#julgamento)
+- 🔖 [Escolha](#escolha)
+- 🔖 [Julgamento](#julgamento)
 ---
 
 ##### #️⃣ Q.270 {#q270}
@@ -4503,8 +4513,8 @@ Poderá dar-se que Espíritos vindos de um mundo inferior à Terra, ou de um pov
 
 > 👴🏻 ▸ Tais seres nos oferecem o triste espetáculo da ferocidade dentro da civilização. Voltando para o meio dos canibais, não sofrem uma degradação; apenas volvem ao lugar que lhes é próprio e com isso talvez até ganhem.
 
-🔖 [Progresso](#progresso)
-🔖 [Vocação](#vocacao)
+- 🔖 [Progresso](#progresso)
+- 🔖 [Vocação](#vocacao)
 ---
 
 ##### #️⃣ Q.273 {#q273}
@@ -4516,9 +4526,9 @@ Será possível que um homem de raça civilizada reencarne, por expiação, numa
 ↩️ Voltar para [Q.684](#q684)
 ↩️ Voltar para [Q.983](#q983)
 
-🔖 [Espírito bom](#espirito-bom)
-🔖 [Expiação](#expiacao)
-🔖 [Missão](#missao)
+- 🔖 [Espírito bom](#espirito-bom)
+- 🔖 [Expiação](#expiacao)
+- 🔖 [Missão](#missao)
 ---
 
 #### 2.06.06. 📄 As relações no além-túmulo {#lde-2-06-06}
@@ -4536,7 +4546,7 @@ Podem os Espíritos inferiores subtrair-se à autoridade dos que lhes são super
 
 > ✨ ▸ Eu disse: irresistível.
 
-🔖 [Autoridade](#autoridade)
+- 🔖 [Autoridade](#autoridade)
 ---
 
 ##### #️⃣ Q.275 {#q275}
@@ -4545,7 +4555,7 @@ O poder e a consideração de que um homem gozou na Terra lhe dão supremacia no
 
 > ✨ ▸ Não; pois que os pequenos serão elevados e os grandes rebaixados. Lê os salmos.
 
-🔖 [Poder](#poder)
+- 🔖 [Poder](#poder)
 ---
 
 ##### #️⃣ Q.275.a {#q275a}
@@ -4566,7 +4576,7 @@ Aquele que foi grande na Terra e que, como Espírito, vem a achar-se entre os de
 
 > ✨ ▸ Às vezes bem grande, mormente se era orgulhoso e invejoso.
 
-🔖 [Mérito](#merito)
+- 🔖 [Mérito](#merito)
 ---
 
 ##### #️⃣ Q.277 {#q277}
@@ -4575,7 +4585,7 @@ O soldado que depois da batalha se encontra com o seu general, no mundo dos Esp�
 
 > ✨ ▸ O título nada vale, a superioridade real é que tem valor.
 
-🔖 [Inferior](#inferior)
+- 🔖 [Inferior](#inferior)
 ---
 
 ##### #️⃣ Q.278 {#q278}
@@ -4586,8 +4596,8 @@ Os Espíritos das diferentes ordens se acham misturados uns com os outros?
 
 > 👴🏻 ▸ Tal uma grande cidade onde os homens de todas as classes e de todas as condições se veem e encontram, sem se confundirem; onde as sociedades se formam pela analogia dos gostos; onde a virtude e o vício se acotovelam, sem trocarem palavra.
 
-🔖 [Relacionamento](#relacionamento)
-🔖 [Sociedade](#sociedade)
+- 🔖 [Relacionamento](#relacionamento)
+- 🔖 [Sociedade](#sociedade)
 ---
 
 ##### #️⃣ Q.279 {#q279}
@@ -4596,8 +4606,8 @@ Todos os Espíritos têm reciprocamente acesso aos diferentes grupos ou sociedad
 
 > ✨ ▸ Os bons vão a toda parte e assim deve ser, para que possam influir sobre os maus. As regiões, porém, que os bons habitam estão interditadas aos Espíritos imperfeitos, a fim de que não as perturbem com suas paixões inferiores.
 
-🔖 [Espírito bom](#espirito-bom)
-🔖 [Espírito imperfeito](#espirito-imperfeito)
+- 🔖 [Espírito bom](#espirito-bom)
+- 🔖 [Espírito imperfeito](#espirito-imperfeito)
 ---
 
 ##### #️⃣ Q.280 {#q280}
@@ -4606,8 +4616,8 @@ De que natureza são as relações entre os bons e os maus Espíritos?
 
 > ✨ ▸ Os bons se ocupam em combater as más inclinações dos outros, *a fim de ajudá-los a subir. É uma missão.
 
-🔖 [Espírito bom](#espirito-bom)
-🔖 [Missão](#missao)
+- 🔖 [Espírito bom](#espirito-bom)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.281 {#q281}
@@ -4622,8 +4632,8 @@ Como se comunicam entre si os Espíritos?
 
 > ✨ ▸ Eles se veem e se compreendem. A palavra é material, é o reflexo do Espírito. O fluido universal estabelece entre eles constante comunicação; é o veículo da transmissão de seus pensamentos, como, para vós, o ar o é do som. É uma espécie de telégrafo universal, que liga todos os mundos e permite que os Espíritos se correspondam de um mundo a outro.
 
-🔖 [Inveja](#inveja)
-🔖 [Mal](#mal)
+- 🔖 [Inveja](#inveja)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.283 {#q283}
@@ -4632,7 +4642,7 @@ Podem os Espíritos, reciprocamente, dissimular seus pensamentos? Podem ocultar-
 
 > ✨ ▸ Não; para os Espíritos, tudo é patente, sobretudo para os perfeitos. Podem afastar-se uns dos outros, mas sempre se veem. Isto, porém, não constitui regra absoluta, porquanto certos Espíritos podem muito bem tornar-se invisíveis a outros Espíritos, se julgarem útil fazê-lo.
 
-🔖 [Pensamento](#pensamento)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 ##### #️⃣ Q.284 {#q284}
@@ -4641,8 +4651,8 @@ Como podem os Espíritos, não tendo corpo, comprovar suas individualidades e di
 
 > ✨ ▸ Comprovam suas individualidades pelo perispírito, que os torna distinguíveis uns dos outros, como faz o corpo entre os homens.
 
-🔖 [Individualidade](#individualidade)
-🔖 [Perispírito](#perispirito)
+- 🔖 [Individualidade](#individualidade)
+- 🔖 [Perispírito](#perispirito)
 ---
 
 ##### #️⃣ Q.285 {#q285}
@@ -4651,7 +4661,7 @@ Os Espíritos se reconhecem por terem coabitado a Terra? O filho reconhece o pai
 
 > ✨ ▸ Perfeitamente e, assim, de geração em geração.
 
-🔖 [Reconhecimento](#reconhecimento)
+- 🔖 [Reconhecimento](#reconhecimento)
 ---
 
 ##### #️⃣ Q.285.a {#q285a}
@@ -4660,7 +4670,7 @@ Como é que os que se conheceram na Terra se reconhecem no mundo dos Espíritos?
 
 > ✨ ▸ Vemos a nossa vida pretérita e lemos nela como em um livro. Vendo a dos nossos amigos e dos nossos inimigos, aí vemos a passagem deles da vida corporal à outra.
 
-🔖 [Passado](#passado)
+- 🔖 [Passado](#passado)
 ---
 
 ##### #️⃣ Q.286 {#q286}
@@ -4669,7 +4679,7 @@ Deixando seus despojos mortais, a alma vê imediatamente os parentes e amigos qu
 
 > ✨ ▸ Imediatamente, ainda aqui, não é o termo próprio. Como já dissemos, é-lhe necessário algum tempo para que ela se reconheça a si mesma e alije o véu material.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.287 {#q287}
@@ -4678,7 +4688,7 @@ Como é acolhida a alma no seu regresso ao mundo dos Espíritos?
 
 > ✨ ▸ A do justo, como bem-amado irmão, desde muito tempo esperado. A do mau, como um ser desprezível.
 
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 ##### #️⃣ Q.288 {#q288}
@@ -4687,7 +4697,7 @@ Que sentimento desperta nos Espíritos impuros a chegada entre eles de outro Esp
 
 > ✨ ▸ Os maus ficam satisfeitos quando veem seres que se lhes assemelham e privados, também, da infinita ventura, qual na Terra um tratante entre seus iguais.
 
-🔖 [Espírito impuro](#espirito-impuro)
+- 🔖 [Espírito impuro](#espirito-impuro)
 ---
 
 ##### #️⃣ Q.289 {#q289}
@@ -4696,7 +4706,7 @@ Nossos parentes e amigos costumam vir-nos ao encontro quando deixamos a Terra?
 
 > ✨ ▸ Sim, os Espíritos vão ao encontro da alma a quem são afeiçoados. Felicitam-na, como se regressasse de uma viagem, por haver escapado aos perigos da estrada, *e ajudam-na a desprender-se dos liames corporais*. É uma graça concedida aos bons Espíritos o lhes virem ao encontro os que os amam, ao passo que aquele que se acha maculado permanece em isolamento, ou só tem a rodeá-lo os que lhe são semelhantes. É uma punição.
 
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 ##### #️⃣ Q.290 {#q290}
@@ -4705,7 +4715,7 @@ Os parentes e amigos sempre se reúnem depois da morte?
 
 > ✨ ▸ Depende isso da elevação deles e do caminho que seguem, procurando progredir. Se um está mais adiantado e caminha mais depressa do que outro, não podem os dois conservar-se juntos. Ver-se-ão de tempos a tempos, mas não estarão reunidos para sempre, senão quando puderem caminhar lado a lado, ou quando se houverem igualado na perfeição. Acresce que a privação de ver os parentes e amigos é, às vezes, uma punição.
 
-🔖 [Reunião](#reuniao)
+- 🔖 [Reunião](#reuniao)
 ---
 
 #### 2.06.07. 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas {#lde-2-06-07}
@@ -4716,7 +4726,7 @@ Além da simpatia geral, oriunda da semelhança que entre eles exista, votam-se 
 
 > ✨ ▸ Do mesmo modo que os homens, sendo, porém que mais forte é o laço que prende os Espíritos uns aos outros, quando carentes de corpo material, porque então esse laço não se acha exposto às vicissitudes das paixões.
 
-🔖 [Relações](#relacoes)
+- 🔖 [Relações](#relacoes)
 ---
 
 ##### #️⃣ Q.292 {#q292}
@@ -4725,8 +4735,8 @@ Alimentam ódio entre si os Espíritos?
 
 > ✨ ▸ Só entre os Espíritos impuros há ódio e são eles que insuflam nos homens as inimizades e as dissensões.
 
-🔖 [Espírito impuro](#espirito-impuro)
-🔖 [Ódio](#odio)
+- 🔖 [Espírito impuro](#espirito-impuro)
+- 🔖 [Ódio](#odio)
 ---
 
 ##### #️⃣ Q.293 {#q293}
@@ -4737,8 +4747,8 @@ Conservarão ressentimento um do outro, no mundo dos Espíritos, dois seres que 
 
 > 👴🏻 ▸ Sucede como entre dois colegiais que, chegando à idade da ponderação, reconhecem a puerilidade de suas dissensões infantis e deixam de se malquerer.
 
-🔖 [Antipatia](#antipatia)
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Antipatia](#antipatia)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 ##### #️⃣ Q.294 {#q294}
@@ -4754,7 +4764,7 @@ Que sentimento anima, depois da morte, aqueles a quem fizemos mal neste mundo?
 
 > ✨ ▸ Se são bons, eles vos perdoam, segundo o vosso arrependimento. Se maus, é possível que guardem ressentimento do mal que lhes fizestes e vos persigam até, não raro, em outra existência. Deus pode permitir que assim seja, por castigo.
 
-🔖 [Morte](#morte)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.296 {#q296}
@@ -4763,7 +4773,7 @@ São suscetíveis de alterar-se as afeições individuais dos Espíritos?
 
 > ✨ ▸ Não, por não estarem eles sujeitos a enganar-se. *Falta-lhes a máscara sob que se escondem os hipócritas*. Daí vem que, sendo puros, suas afeições são inalteráveis. Suprema felicidade lhes advém do amor que os une.
 
-🔖 [Espírito puro](#espirito-puro)
+- 🔖 [Espírito puro](#espirito-puro)
 ---
 
 ##### #️⃣ Q.297 {#q297}
@@ -4772,7 +4782,7 @@ Continua a existir sempre, no mundo dos Espíritos, a afeição mútua que dois 
 
 > ✨ ▸ Sem dúvida, desde que originada de verdadeira simpatia. Se, porém, nasceu principalmente de causas de ordem física, desaparece com a causa. As afeições entre os Espíritos são mais sólidas e duráveis do que na Terra, porque não se acham subordinadas aos caprichos dos interesses materiais e do amor-próprio.
 
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 ##### #️⃣ Q.298 {#q298}
@@ -4781,9 +4791,9 @@ As almas que devam unir-se estão, desde suas origens, predestinadas a essa uni�
 
 > ✨ ▸ Não; não há união particular e fatal, de duas almas. A união que há é a de todos os Espíritos, mas em graus diversos, segundo a categoria que ocupam, isto é, segundo a perfeição que tenham adquirido. Quanto mais perfeitos, tanto mais unidos. Da discórdia nascem todos os males dos humanos; da concórdia resulta a completa felicidade.
 
-🔖 [Discórdia](#discordia)
-🔖 [Perfeição](#perfeicao)
-🔖 [União](#uniao)
+- 🔖 [Discórdia](#discordia)
+- 🔖 [Perfeição](#perfeicao)
+- 🔖 [União](#uniao)
 ---
 
 ##### #️⃣ Q.299 {#q299}
@@ -4792,7 +4802,7 @@ Em que sentido se deve entender a palavra *metade*, de que alguns Espíritos se 
 
 > ✨ ▸ A expressão é inexata. Se um Espírito fosse a metade de outro, separados os dois, estariam ambos incompletos.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.300 {#q300}
@@ -4801,7 +4811,7 @@ Se dois Espíritos perfeitamente simpáticos se reunirem, estarão unidos para t
 
 > ✨ ▸ Todos os Espíritos estão reciprocamente unidos. Falo dos que atingiram a perfeição. Nas esferas inferiores, desde que um Espírito se eleva, já não simpatiza, como dantes, com os que lhe ficaram abaixo.
 
-🔖 [Espíritos puros](#espiritos-puros)
+- 🔖 [Espíritos puros](#espiritos-puros)
 ---
 
 ##### #️⃣ Q.301 {#q301}
@@ -4833,7 +4843,7 @@ Podem deixar de ser simpáticos um ao outro dois Espíritos que já o sejam?
 
 > 👴🏻 ▸ A teoria das metades eternas encerra uma simples figura, representativa da união de dois Espíritos simpáticos. Trata-se de uma expressão usada até na linguagem vulgar e que se não deve tomar ao pé da letra. Não pertencem decerto a uma ordem elevada os Espíritos que a empregaram. Necessariamente, limitado sendo o campo de suas ideias, exprimiram seus pensamentos com os termos de que se teriam utilizado na vida corporal. Não se deve, pois, aceitar a ideia de que, criados um para o outro, dois Espíritos tenham, fatalmente, que se reunir um dia na eternidade, depois de haverem estado separados por tempo mais ou menos longo.
 
-🔖 [Teoria](#teoria)
+- 🔖 [Teoria](#teoria)
 ---
 
 #### 2.06.08. 📄 Recordação da existência corpórea {#lde-2-06-08}
@@ -4853,7 +4863,7 @@ A lembrança da existência corporal se apresenta ao Espírito, completa e inopi
 
 > ✨ ▸ Não; vem-lhe pouco a pouco, qual imagem que surge gradualmente de uma névoa, à medida que nela fixa ele a sua atenção.
 
-🔖 [Morte](#morte)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.306 {#q306}
@@ -4862,7 +4872,7 @@ O Espírito se lembra, pormenorizadamente, de todos os acontecimentos de sua vid
 
 > ✨ ▸ Lembra-se das coisas, de conformidade com as consequências que delas resultaram para o estado em que se encontra como Espírito errante. Bem compreendes, portanto, que muitas circunstâncias haverá de sua vida a que não ligará importância alguma e das quais nem sequer procurará recordar-se.
 
-🔖 [Lembrança](#lembranca)
+- 🔖 [Lembrança](#lembranca)
 ---
 
 ##### #️⃣ Q.306.a {#q306a}
@@ -4871,8 +4881,8 @@ Mas, se o quisesse, poderia lembrar-se delas?
 
 > ✨ ▸ Pode lembrar-se dos mais minuciosos pormenores e incidentes, assim relativos aos fatos, como até aos seus pensamentos. Não o faz, porém, desde que não tenha utilidade.
 
-🔖 [Inutilidade](#inutilidade)
-🔖 [Lembrança](#lembranca)
+- 🔖 [Inutilidade](#inutilidade)
+- 🔖 [Lembrança](#lembranca)
 ---
 
 ##### #️⃣ Q.306.b {#q306b}
@@ -4881,8 +4891,8 @@ Entrevê o Espírito o objetivo da vida terrestre com relação à vida futura?
 
 > ✨ ▸ Certo que o vê e compreende muito melhor do que em vida do seu corpo. Compreende a necessidade da sua purificação para chegar ao infinito e percebe que em cada existência deixa algumas impurezas.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Vida terrena](#vida-terrena)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Vida terrena](#vida-terrena)
 ---
 
 ##### #️⃣ Q.307 {#q307}
@@ -4891,8 +4901,8 @@ Como é que ao Espírito se lhe desenha na memória a sua vida passada? Será po
 
 > ✨ ▸ De uma e outra formas. São-lhe como que presentes todos os atos de que tenha interesse em lembrar-se. Os outros lhe permanecem mais ou menos vagos na mente, ou esquecidos de todo. Quanto mais desmaterializado estiver, tanto menos importância dará às coisas materiais. Essa a razão por que muitas vezes evocas um Espírito que acabou de deixar a Terra e verificas que não se lembra dos nomes das pessoas que lhe eram caras, nem de uma porção de coisas que te parecem importantes. É que tudo isso, pouco lhe importando, logo caiu em esquecimento. Ele só se recorda perfeitamente bem dos fatos principais que concorrem para a sua melhoria.
 
-🔖 [Memória](#memoria)
-🔖 [Vidas passadas](#vidas-passadas)
+- 🔖 [Memória](#memoria)
+- 🔖 [Vidas passadas](#vidas-passadas)
 ---
 
 ##### #️⃣ Q.308 {#q308}
@@ -4901,7 +4911,7 @@ O Espírito se recorda de todas as existências que precederam a que acaba de te
 
 > ✨ ▸ Todo o seu passado se lhe desdobra à vista, quais a um viajor os trechos do caminho que percorreu. Mas, como já dissemos, não se recorda, de modo absoluto, de todos os seus atos. Lembra-se destes conforme a influência que tiveram na criação do seu estado atual. Quanto às primeiras existências, as que se podem considerar como a infância do Espírito, essas se perdem no vago e desaparecem na noite do esquecimento.
 
-🔖 [Esquecimento](#esquecimento)
+- 🔖 [Esquecimento](#esquecimento)
 ---
 
 ##### #️⃣ Q.309 {#q309}
@@ -4910,8 +4920,8 @@ Como considera o Espírito o corpo de que vem de separar-se?
 
 > ✨ ▸ Como veste imprestável, *que o embaraçava*, sentindo-se feliz por estar livre dela.
 
-🔖 [Corpo físico](#corpo-fisico)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.309.a {#q309a}
@@ -4920,8 +4930,8 @@ Que sensação lhe causa o espetáculo do seu corpo em decomposição?
 
 > ✨ ▸ Quase sempre se conserva indiferente a isso, como a uma coisa que em nada o interessa.
 
-🔖 [Corpo físico](#corpo-fisico)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.310 {#q310}
@@ -4930,7 +4940,7 @@ Ao cabo de algum tempo, reconhecerá o Espírito os ossos ou outros objetos que 
 
 > ✨ ▸ Algumas vezes, dependendo do ponto de vista mais ou menos elevado, donde considere as coisas terrenas.
 
-🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Corpo físico](#corpo-fisico)
 ---
 
 ##### #️⃣ Q.311 {#q311}
@@ -4939,7 +4949,7 @@ A veneração que se tenha pelos objetos materiais que pertenceram ao Espírito 
 
 > ✨ ▸ É sempre grato ao Espírito que se lembrem dele, e os objetos que lhe pertenceram trazem-no à memória dos que ele no mundo deixou. O que o atrai, porém, é o pensamento destas pessoas e não aqueles objetos.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.312 {#q312}
@@ -4948,8 +4958,8 @@ E a lembrança dos sofrimentos por que passaram na última existência corporal,
 
 > ✨ ▸ Frequentemente assim acontece e essa lembrança lhes faz compreender melhor o valor da felicidade de que podem gozar como Espíritos.
 
-🔖 [Desencarnado](#desencarnado)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Desencarnado](#desencarnado)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.313 {#q313}
@@ -4960,7 +4970,7 @@ O homem, que neste mundo foi feliz, deplora a felicidade que perdeu, deixando a 
 
 > 👴🏻 ▸ Exatamente como sucede ao homem que, na idade da madureza, nenhuma importância liga ao que tanto o deliciava na infância.
 
-🔖 [Espírito inferior](#espirito-inferior)
+- 🔖 [Espírito inferior](#espirito-inferior)
 ---
 
 ##### #️⃣ Q.314 {#q314}
@@ -4969,8 +4979,8 @@ Aquele que deu começo a trabalhos de vulto com um fim útil e, que os vê inter
 
 > ✨ ▸ Não, porque vê que outros estão destinados a concluí-los. Trata, ao contrário, de influenciar outros Espíritos humanos, para que os ultimem. Seu objetivo, na Terra, era o bem da Humanidade; o mesmo objetivo continua a ter no mundo dos Espíritos.
 
-🔖 [Bem](#bem)
-🔖 [Trabalho](#trabalho)
+- 🔖 [Bem](#bem)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.315 {#q315}
@@ -4979,7 +4989,7 @@ E o que deixou trabalhos de arte ou de literatura, conserva pelas suas obras o a
 
 > ✨ ▸ De acordo com a sua elevação, aprecia-as de outro ponto de vista e não é raro condene o que maior admiração lhe causava.
 
-🔖 [Apego](#apego)
+- 🔖 [Apego](#apego)
 ---
 
 ##### #️⃣ Q.316 {#q316}
@@ -4988,7 +4998,7 @@ No além, o Espírito se interessa pelos trabalhos que se executam na Terra, pel
 
 > ✨ ▸ Conforme a sua elevação ou a missão que possa ter que desempenhar. Muitas vezes, o que vos parece magnífico bem pouco é para certos Espíritos, que, então, o admiram, como o sábio admira a obra de um estudante. Atentam apenas no que prove a elevação dos encarnados e seus progressos.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.317 {#q317}
@@ -4999,10 +5009,10 @@ Após a morte, conservam os Espíritos o amor da pátria?
 
 > 👴🏻 ▸ As condições dos Espíritos e as maneiras por que veem as coisas variam ao infinito, de conformidade com os graus de desenvolvimento moral e intelectual em que se achem. Geralmente, os Espíritos de ordem elevada só por breve tempo se aproximam da Terra. Tudo o que aí se faz é tão mesquinho em comparação com as grandezas do infinito, tão pueris são, aos olhos deles, as coisas a que os homens mais importância ligam, que quase nenhum atrativo lhes oferece o nosso mundo, a menos que para aí os leve o propósito de concorrerem para o progresso da Humanidade. Os Espíritos de ordem intermédia são os que mais frequentemente baixam a este planeta, se bem considerem as coisas de um ponto de vista mais alto do que quando encarnados. Os Espíritos vulgares, esses são os que aí mais se comprazem e constituem a massa da população invisível do globo terráqueo. Conservam quase que as mesmas ideias, os mesmos gostos e as mesmas inclinações que tinham quando revestidos do invólucro corpóreo. Metem-se em nossas reuniões, negócios, divertimentos, nos quais tomam parte mais ou menos ativa, segundo seus caracteres. Não podendo satisfazer às suas paixões, gozam na companhia dos que a elas se entregam e os excitam a cultivá-las. Entre eles, no entanto, muitos há, sérios, que veem e observam para se instruírem e aperfeiçoarem.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Evolução](#evolucao)
-🔖 [Nação](#nacao)
-🔖 [Povoamento](#povoamento)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Evolução](#evolucao)
+- 🔖 [Nação](#nacao)
+- 🔖 [Povoamento](#povoamento)
 ---
 
 ##### #️⃣ Q.318 {#q318}
@@ -5011,8 +5021,8 @@ As ideias dos Espíritos se modificam quando na erraticidade?
 
 > ✨ ▸ Muito; sofrem grandes modificações, à proporção que o Espírito se desmaterializa. Pode este, algumas vezes, permanecer longo tempo imbuído das ideias que tinha na Terra; mas, pouco a pouco, a influência da matéria diminui e ele vê as coisas com maior clareza. É então que procura os meios de se tornar melhor.
 
-🔖 [Desmaterialização](#desmaterializacao)
-🔖 [Erraticidade](#erraticidade)
+- 🔖 [Desmaterialização](#desmaterializacao)
+- 🔖 [Erraticidade](#erraticidade)
 ---
 
 ##### #️⃣ Q.319 {#q319}
@@ -5024,9 +5034,9 @@ Já tendo o Espírito vivido a vida espírita antes da sua encarnação, como se
 👉🏻 Veja [Q.163](#q163) e seguintes.
 ↩️ Voltar para [Q.385](#q385)
 
-🔖 [Desencarnação](#desencarnacao)
-🔖 [Despertamento](#despertamento)
-🔖 [Perturbação](#perturbacao)
+- 🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Despertamento](#despertamento)
+- 🔖 [Perturbação](#perturbacao)
 ---
 
 #### 2.06.09. 📄 Comemoração dos mortos. Funerais {#lde-2-06-09}
@@ -5039,7 +5049,7 @@ Sensibiliza os Espíritos o lembrarem-se deles os que lhes foram caros na Terra?
 
 ↩️ Voltar para [Q.824](#q824)
 
-🔖 [Funeral](#funeral)
+- 🔖 [Funeral](#funeral)
 ---
 
 ##### #️⃣ Q.321 {#q321}
@@ -5048,8 +5058,8 @@ O dia da comemoração dos mortos é, para os Espíritos, mais solene do que os 
 
 > ✨ ▸ Os Espíritos acodem nesse dia ao chamado dos que da Terra lhes dirigem seus pensamentos, como o fazem noutro dia qualquer.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Finados](#finados)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Finados](#finados)
 ---
 
 ##### #️⃣ Q.321.a {#q321a}
@@ -5058,7 +5068,7 @@ Mas o de finados é, para eles, um dia especial de reunião junto de suas sepult
 
 > ✨ ▸ Nesse dia, em maior número se reúnem nas necrópoles, porque então também é maior, em tais lugares, o das pessoas que os chamam pelo pensamento. Porém, cada Espírito vai lá somente pelos seus amigos e não pela multidão dos indiferentes.
 
-🔖 [Presença](#presenca)
+- 🔖 [Presença](#presenca)
 ---
 
 ##### #️⃣ Q.321.b {#q321b}
@@ -5067,7 +5077,7 @@ Sob que forma aí comparecem e como os veríamos, se pudessem tornar-se visívei
 
 > ✨ ▸ Sob a que tinham quando encarnados.
 
-🔖 [Desencarnado](#desencarnado)
+- 🔖 [Desencarnado](#desencarnado)
 ---
 
 ##### #️⃣ Q.322 {#q322}
@@ -5076,7 +5086,7 @@ E os esquecidos, cujos túmulos ninguém vai visitar, também lá, não obstante
 
 > ✨ ▸ Que lhes importa a Terra? Só pelo coração nos achamos a ela presos. Desde que aí ninguém mais lhe vota afeição, nada mais prende a esse planeta o Espírito, que tem para si o Universo inteiro.
 
-🔖 [Túmulo](#tumulo)
+- 🔖 [Túmulo](#tumulo)
 ---
 
 ##### #️⃣ Q.323 {#q323}
@@ -5085,8 +5095,8 @@ A visita de um espírito a um túmulo causa maior contentamento ao Espírito, cu
 
 > ✨ ▸ Aquele que visita um túmulo apenas manifesta, por essa forma, que pensa no Espírito ausente. A visita é a representação exterior de um fato íntimo. Já dissemos que a prece é que santifica o ato da rememoração. Nada importa o lugar, desde que é feita com o coração.
 
-🔖 [Desencarnado](#desencarnado)
-🔖 [Morto](#morto)
+- 🔖 [Desencarnado](#desencarnado)
+- 🔖 [Morto](#morto)
 ---
 
 ##### #️⃣ Q.324 {#q324}
@@ -5095,7 +5105,7 @@ Os Espíritos das pessoas a quem se erigem estátuas ou monumentos assistem à i
 
 > ✨ ▸ Muitos comparecem a tais solenidades, quando podem; porém, menos os sensibiliza a homenagem que lhes prestam, do que a lembrança que deles guardam os homens.
 
-🔖 [Homenagem](#homenagem)
+- 🔖 [Homenagem](#homenagem)
 ---
 
 ##### #️⃣ Q.325 {#q325}
@@ -5110,7 +5120,7 @@ Deve-se considerar futilidade a reunião dos despojos mortais de todos os membro
 
 > ✨ ▸ Não; é um costume piedoso e um testemunho de simpatia que dão os que assim procedem aos que lhes foram entes queridos. Conquanto destituída de importância para os Espíritos, essa reunião é útil aos homens: mais concentradas se tornam suas recordações.
 
-🔖 [Sepultamento](#sepultamento)
+- 🔖 [Sepultamento](#sepultamento)
 ---
 
 ##### #️⃣ Q.326 {#q326}
@@ -5119,8 +5129,8 @@ Comovem a alma que volta à vida espiritual as honras que lhe prestem aos despoj
 
 > ✨ ▸ Quando já ascendeu a certo grau de perfeição, o Espírito se acha escoimado de vaidades terrenas e compreende a futilidade de todas essas coisas. Fica sabendo, porém, há Espíritos que, nos primeiros momentos que se seguem à sua morte material, experimentam grande prazer com as honras que lhes tributam, ou se aborrecem com o pouco caso que façam de seus envoltórios corporais. É que ainda conservam alguns dos preconceitos desse mundo.
 
-🔖 [Desencarnação](#desencarnacao)
-🔖 [Homenagem](#homenagem)
+- 🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Homenagem](#homenagem)
 ---
 
 ##### #️⃣ Q.327 {#q327}
@@ -5129,7 +5139,7 @@ O Espírito assiste ao seu enterro?
 
 > ✨ ▸ Frequentemente assiste, mas, algumas vezes, se ainda está perturbado, não percebe o que se passa.
 
-🔖 [Sepultamento](#sepultamento)
+- 🔖 [Sepultamento](#sepultamento)
 ---
 
 ##### #️⃣ Q.327.a {#q327a}
@@ -5138,7 +5148,7 @@ Lisonjeia-o a concorrência de muitas pessoas ao seu enterramento?
 
 > ✨ ▸ Mais ou menos, conforme o sentimento que as anima.
 
-🔖 [Sepultamento](#sepultamento)
+- 🔖 [Sepultamento](#sepultamento)
 ---
 
 ##### #️⃣ Q.328 {#q328}
@@ -5147,8 +5157,8 @@ O Espírito daquele que acaba de morrer assiste à reunião de seus herdeiros?
 
 > ✨ ▸ Quase sempre. Para seu ensinamento e castigo dos culpados, Deus permite que assim aconteça. Nessa ocasião, o Espírito julga do valor dos protestos que lhe faziam. Todos os sentimentos se lhe patenteiam e a decepção que lhe causa a rapacidade dos que entre si partilham os bens por ele deixados o esclarece acerca daqueles sentimentos. Chegará, porém, a vez dos que lhe motivam essa decepção.
 
-🔖 [Bens](#bens)
-🔖 [Herança](#heranca)
+- 🔖 [Bens](#bens)
+- 🔖 [Herança](#heranca)
 ---
 
 ##### #️⃣ Q.329 {#q329}
@@ -5157,9 +5167,9 @@ O instintivo respeito que, em todos os tempos e entre todos os povos, o homem co
 
 > ✨ ▸ É a consequência natural dessa intuição. Se assim não fosse, nenhuma razão de ser teria esse respeito.
 
-🔖 [Intuição](#intuicao)
-🔖 [Morto](#morto)
-🔖 [Vida futura](#vida-futura)
+- 🔖 [Intuição](#intuicao)
+- 🔖 [Morto](#morto)
+- 🔖 [Vida futura](#vida-futura)
 ---
 
 ### 2.07. 🗂️ Volta à vida material {#lde-2-07}
@@ -5173,6 +5183,7 @@ Neste capítulo:
 - [2.07.06. 📄 A infância](#lde-2-07-06)
 - [2.07.07. 📄 Simpatia e antipatia materiais](#lde-2-07-07)
 - [2.07.08. 📄 Esquecimento do passado](#lde-2-07-08)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -5193,8 +5204,8 @@ Então, a reencarnação é uma necessidade da vida espírita, como a morte o é
 
 > ✨ ▸ Certamente; assim é.
 
-🔖 [Reencarnação](#reencarnacao)
-🔖 [Vida espiritual](#vida-espiritual)
+- 🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Vida espiritual](#vida-espiritual)
 ---
 
 ##### #️⃣ Q.331 {#q331}
@@ -5203,8 +5214,8 @@ Todos os Espíritos se preocupam com a sua reencarnação?
 
 > ✨ ▸ Muitos há que em tal coisa não pensam, que nem sequer a compreendem. Depende de estarem mais ou menos adiantados. Para alguns, a incerteza em que se acham do futuro que os aguarda constitui punição.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.332 {#q332}
@@ -5215,7 +5226,7 @@ Pode o Espírito apressar ou retardar o momento da sua reencarnação?
 
 ↩️ Voltar para [Q.991](#q991)
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.333 {#q333}
@@ -5224,8 +5235,8 @@ Se se considerasse bastante feliz, numa condição mediana entre os Espíritos e
 
 > ✨ ▸ Indefinidamente, não. Cedo ou tarde, o Espírito sente a necessidade de progredir. Todos têm que se elevar; esse o destino de todos.
 
-🔖 [Espírito errante](#espirito-errante)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Espírito errante](#espirito-errante)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.334 {#q334}
@@ -5234,7 +5245,7 @@ Há predestinação na união da alma com tal ou tal corpo, ou só à última ho
 
 > ✨ ▸ O Espírito é sempre, de antemão, designado. Tendo escolhido a prova a que queira submeter-se, pede para encarnar. Ora, Deus, que tudo sabe e vê, já antecipadamente sabia e vira que tal Espírito se uniria a tal corpo.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.335 {#q335}
@@ -5243,9 +5254,9 @@ Cabe ao Espírito a escolha do corpo em que encarne, ou somente a do gênero de 
 
 > ✨ ▸ Pode também escolher o corpo, porquanto as imperfeições que este apresente ainda serão, para o Espírito, provas que lhe auxiliarão o progresso, se vencer os obstáculos que lhe oponha. Nem sempre, porém, lhe é permitida a escolha do seu invólucro corpóreo; mas, simplesmente, a faculdade de pedir que seja tal ou qual.
 
-🔖 [Corpo físico](#corpo-fisico)
-🔖 [Escolha](#escolha)
-🔖 [Provas](#provas)
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Escolha](#escolha)
+- 🔖 [Provas](#provas)
 ---
 
 ##### #️⃣ Q.335.a {#q335a}
@@ -5254,7 +5265,7 @@ Poderia o Espírito recusar, à última hora, tomar o corpo por ele escolhido?
 
 > ✨ ▸ Se recusasse, sofreria muito mais do que aquele que não tentasse prova alguma.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.336 {#q336}
@@ -5263,8 +5274,8 @@ Poderia dar-se não haver Espírito que aceitasse encarnar numa criança que hou
 
 > ✨ ▸ Deus a isso proveria. Quando uma criança tem que nascer vital, está predestinada sempre a ter uma alma. Nada se cria sem que à criação presida um desígnio.
 
-🔖 [Nascimento](#nascimento)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Nascimento](#nascimento)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.337 {#q337}
@@ -5275,7 +5286,7 @@ Pode a união do Espírito a determinado corpo ser imposta por Deus?
 
 ↩️ Voltar para [Q.872](#q872)
 
-🔖 [Nascimento](#nascimento)
+- 🔖 [Nascimento](#nascimento)
 ---
 
 ##### #️⃣ Q.338 {#q338}
@@ -5284,8 +5295,8 @@ Se acontecesse que muitos Espíritos se apresentassem para tomar determinado cor
 
 > ✨ ▸ Muitos podem pedi-lo; mas, em tal caso, Deus é quem julga qual o mais capaz de desempenhar a missão a que a criança se destina. Porém, como já eu disse, o Espírito é designado antes que soe o instante em que haja de unir-se ao corpo.
 
-🔖 [Missão](#missao)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Missão](#missao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.339 {#q339}
@@ -5294,8 +5305,8 @@ No momento de encarnar, o Espírito sofre perturbação semelhante à que experi
 
 > ✨ ▸ Muito maior e sobretudo mais longa. Pela morte, o Espírito sai da escravidão; pelo nascimento, entra para ela.
 
-🔖 [Perturbação](#perturbacao)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Perturbação](#perturbacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.340 {#q340}
@@ -5306,7 +5317,7 @@ No momento de encarnar, o Espírito sofre perturbação semelhante à que experi
 
 > 👴🏻 ▸ O viajante que embarca sabe a que perigo se lança, mas não sabe se naufragará. O mesmo se dá com o Espírito: conhece o gênero das provas a que se submete, mas não sabe se sucumbirá. Assim como, para o Espírito, a morte do corpo é uma espécie de renascimento, a reencarnação é uma espécie de morte, ou antes, de exílio, de clausura. Ele deixa o mundo dos Espíritos pelo mundo corporal, como o homem deixa este mundo por aquele. Sabe que reencarnará, como o homem sabe que morrerá. Mas, como este com relação à morte, o Espírito só no instante supremo, quando chegou o momento predestinado, tem consciência de que vai reencarnar. Então, qual o homem em agonia, dele se apodera a perturbação, que se prolonga até que a nova existência se ache positivamente encetada. À aproximação do momento de reencarnar, sente uma espécie de agonia.
 
-🔖 [Exílio](#exilio)
+- 🔖 [Exílio](#exilio)
 ---
 
 ##### #️⃣ Q.341 {#q341}
@@ -5315,8 +5326,8 @@ Na incerteza em que se vê, quanto às eventualidades do seu triunfo nas provas 
 
 > ✨ ▸ De ansiedade bem grande, pois que as provas da sua existência o retardarão ou farão avançar, conforme as suporte.
 
-🔖 [Provas](#provas)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Provas](#provas)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.342 {#q342}
@@ -5325,8 +5336,8 @@ No momento de reencarnar, o Espírito se acha acompanhado de outros Espíritos s
 
 > ✨ ▸ Depende da esfera a que pertença. Se já está nas em que reina a afeição, os Espíritos que lhe querem o acompanham até o último momento, animam e mesmo lhe seguem, muitas vezes, os passos pela vida afora.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Plano físico](#plano-fisico)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Plano físico](#plano-fisico)
 ---
 
 ##### #️⃣ Q.343 {#q343}
@@ -5335,8 +5346,8 @@ Os que vemos, em sonho, que nos testemunham afeto e que se nos apresentam com de
 
 > ✨ ▸ Muito frequentemente são eles que vos vêm visitar, como ides visitar um encarcerado.
 
-🔖 [Sonho](#sonho)
-🔖 [Visita](#visita)
+- 🔖 [Sonho](#sonho)
+- 🔖 [Visita](#visita)
 ---
 
 #### 2.07.02. 📄 União do espírito e do corpo {#lde-2-07-02}
@@ -5354,9 +5365,9 @@ Em que momento a alma se une ao corpo?
 
 > ✨ ▸ É definitiva a união, no sentido de que outro Espírito não poderia substituir o que está designado para aquele corpo. Como os laços que ao corpo prendem o Espírito são ainda muito fracos, facilmente se rompem e podem romper-se por vontade do Espírito, se este recua diante da prova que escolheu. Em tal caso, porém, a criança não vinga.
 
-🔖 [Concepção](#concepcao)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Vontade](#vontade)
+- 🔖 [Concepção](#concepcao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Vontade](#vontade)
 ---
 
 ##### #️⃣ Q.346 {#q346}
@@ -5365,7 +5376,7 @@ Que faz o Espírito, se o corpo que ele escolheu morre antes de se verificar o n
 
 > ✨ ▸ Escolhe outro.
 
-🔖 [Nascimento](#nascimento)
+- 🔖 [Nascimento](#nascimento)
 ---
 
 ##### #️⃣ Q.346.a {#q346a}
@@ -5374,7 +5385,7 @@ Qual a utilidade dessas mortes prematuras?
 
 > ✨ ▸ Dão-lhes causa, as mais das vezes, as imperfeições da matéria.
 
-🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Desencarnação](#desencarnacao)
 ---
 
 ##### #️⃣ Q.347 {#q347}
@@ -5383,7 +5394,7 @@ Que utilidade encontrará um Espírito na sua encarnação em um corpo que morre
 
 > ✨ ▸ O ser não tem então consciência plena da sua existência. Assim, a importância da morte é quase nenhuma. Conforme já dissemos, o que há nesses casos de morte prematura é uma prova para os pais.
 
-🔖 [Nascimento](#nascimento)
+- 🔖 [Nascimento](#nascimento)
 ---
 
 ##### #️⃣ Q.348 {#q348}
@@ -5392,7 +5403,7 @@ Sabe o Espírito, previamente, que o corpo de sua escolha não tem probabilidade
 
 > ✨ ▸ Sabe-o algumas vezes; mas, se nessa circunstância reside o motivo da escolha, isso significa que está fugindo à prova.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.349 {#q349}
@@ -5401,7 +5412,7 @@ Quando falha por qualquer causa a encarnação de um Espírito, é ela suprida i
 
 > ✨ ▸ Nem sempre o é imediatamente. Faz-se mister dar ao Espírito tempo para proceder a nova escolha, a menos que a reencarnação imediata corresponda a anterior determinação.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.350 {#q350}
@@ -5410,7 +5421,7 @@ Uma vez unido ao corpo da criança e quando já lhe não é possível voltar atr
 
 > ✨ ▸ Perguntas se, como homem, se queixa da vida que tem? Se desejara que outra fosse ela? Sim. Se se arrepende da escolha que fez? Não, pois não sabe ter sido sua a escolha. Depois de encarnado, não pode o Espírito lastimar uma escolha de que não tem consciência. Pode, entretanto, achar pesada demais a carga e considerá-la superior às suas forças. É quando isso acontece que recorre ao suicídio.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.351 {#q351}
@@ -5419,9 +5430,9 @@ No intervalo que medeia da concepção ao nascimento, goza o Espírito de todas 
 
 > ✨ ▸ Mais ou menos, conforme o ponto em que se ache dessa fase, porquanto ainda não está encarnado, apenas ligado. A partir do instante da concepção, começa o Espírito a ser tomado de perturbação, que o adverte de que lhe soou o momento de começar nova existência corpórea. Essa perturbação cresce de contínuo até ao nascimento. Nesse intervalo, seu estado é quase idêntico ao de um Espírito encarnado durante o sono. À medida que a hora do nascimento se aproxima, suas ideias se apagam, assim como a lembrança do passado, do qual deixa de ter consciência na condição de homem, logo que entra na vida. Essa lembrança, porém, lhe volta pouco a pouco ao retornar ao estado de Espírito.
 
-🔖 [Concepção](#concepcao)
-🔖 [Nascimento](#nascimento)
-🔖 [Perturbação](#perturbacao)
+- 🔖 [Concepção](#concepcao)
+- 🔖 [Nascimento](#nascimento)
+- 🔖 [Perturbação](#perturbacao)
 ---
 
 ##### #️⃣ Q.352 {#q352}
@@ -5430,8 +5441,8 @@ Imediatamente ao nascer recobra o Espírito a plenitude das suas faculdades?
 
 > ✨ ▸ Não, elas se desenvolvem gradualmente com os órgãos. O Espírito se acha numa existência nova; preciso é que aprenda a servir-se dos instrumentos de que dispõe. As ideias lhe voltam pouco a pouco, como a uma pessoa que desperta e se vê em situação diversa da que ocupava na véspera.
 
-🔖 [Aptidão](#aptidao)
-🔖 [Nascimento](#nascimento)
+- 🔖 [Aptidão](#aptidao)
+- 🔖 [Nascimento](#nascimento)
 ---
 
 ##### #️⃣ Q.353 {#q353}
@@ -5440,8 +5451,8 @@ Não sendo completa a união do Espírito ao corpo, não estando definitivamente
 
 > ✨ ▸ O Espírito que o vai animar existe, de certo modo, fora dele. O feto não tem pois, propriamente falando, uma alma, visto que a encarnação está apenas em via de operar-se. Acha-se, entretanto, ligado à alma que virá a possuir.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Feto](#feto)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Feto](#feto)
 ---
 
 ##### #️⃣ Q.354 {#q354}
@@ -5450,7 +5461,7 @@ Como se explica a vida intrauterina?
 
 > ✨ ▸ É a da planta que vegeta. A criança vive vida animal. O homem tem a vida vegetal e a vida animal que, pelo seu nascimento, se completam com a vida espiritual.
 
-🔖 [Vida](#vida)
+- 🔖 [Vida](#vida)
 ---
 
 ##### #️⃣ Q.355 {#q355}
@@ -5459,8 +5470,8 @@ Há, de fato, como o indica a Ciência, crianças que já no seio materno não s
 
 > ✨ ▸ Frequentemente isso se dá e Deus o permite como prova, quer para os pais do nascituro, quer para o Espírito designado a tomar lugar entre os vivos.
 
-🔖 [Pais](#pais)
-🔖 [Provas](#provas)
+- 🔖 [Pais](#pais)
+- 🔖 [Provas](#provas)
 ---
 
 ##### #️⃣ Q.356 {#q356}
@@ -5469,8 +5480,8 @@ Entre os natimortos alguns haverá que não tenham sido destinados à encarnaç�
 
 > ✨ ▸ Alguns há, efetivamente, a cujos corpos nunca nenhum Espírito esteve destinado. Nada tinha que se efetuar para eles. Tais crianças então só vêm por seus pais.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Natimorto](#natimorto)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Natimorto](#natimorto)
 ---
 
 ##### #️⃣ Q.356.a {#q356a}
@@ -5479,7 +5490,7 @@ Pode chegar a termo de nascimento um ser dessa natureza?
 
 > ✨ ▸ Algumas vezes; mas não vive.
 
-🔖 [Natimorto](#natimorto)
+- 🔖 [Natimorto](#natimorto)
 ---
 
 ##### #️⃣ Q.356.b {#q356b}
@@ -5488,7 +5499,7 @@ Segue-se daí que toda criança que vive após o nascimento tem forçosamente en
 
 > ✨ ▸ Que seria ela, se assim não acontecesse? Não seria um ser humano.
 
-🔖 [Criança](#crianca)
+- 🔖 [Criança](#crianca)
 ---
 
 ##### #️⃣ Q.357 {#q357}
@@ -5497,7 +5508,7 @@ Que consequências tem para o Espírito o aborto?
 
 > ✨ ▸ É uma existência nulificada e que ele terá de recomeçar.
 
-🔖 [Aborto](#aborto)
+- 🔖 [Aborto](#aborto)
 ---
 
 ##### #️⃣ Q.358 {#q358}
@@ -5506,8 +5517,8 @@ Constitui crime a provocação do aborto, em qualquer período da gestação?
 
 > ✨ ▸ Há crime sempre que transgredis a Lei de Deus. Uma mãe, ou quem quer que seja, cometerá crime sempre que tirar a vida a uma criança antes do seu nascimento, pois isso impede uma alma de passar pelas provas a que serviria de instrumento o corpo que se estava formando.
 
-🔖 [Aborto](#aborto)
-🔖 [Gestação](#gestacao)
+- 🔖 [Aborto](#aborto)
+- 🔖 [Gestação](#gestacao)
 ---
 
 ##### #️⃣ Q.359 {#q359}
@@ -5516,9 +5527,9 @@ Dado o caso que o nascimento da criança pusesse em perigo a vida da mãe dela, 
 
 > ✨ ▸ Preferível é se sacrifique o ser que ainda não existe a sacrificar-se o que já existe.
 
-🔖 [Aborto](#aborto)
-🔖 [Maternidade](#maternidade)
-🔖 [Mãe](#mae)
+- 🔖 [Aborto](#aborto)
+- 🔖 [Maternidade](#maternidade)
+- 🔖 [Mãe](#mae)
 ---
 
 ##### #️⃣ Q.360 {#q360}
@@ -5527,8 +5538,8 @@ Será racional ter-se para com um feto as mesmas atenções que se costuma dispe
 
 > ✨ ▸ Em tudo vede o cumprimento da vontade de Deus. Não trateis, pois, desatenciosamente, coisas que deveis respeitar. Por que não respeitar as obras da Criação, uma vez que, se se não completaram, é que assim o quis o Criador? Tudo ocorre segundo os seus desígnios e a ninguém é lícito julgar desses desígnios.
 
-🔖 [Feto](#feto)
-🔖 [Respeito](#respeito)
+- 🔖 [Feto](#feto)
+- 🔖 [Respeito](#respeito)
 ---
 
 #### 2.07.03. 📄 Faculdades morais e intelectuais do homem {#lde-2-07-03}
@@ -5550,9 +5561,9 @@ Seguir-se-á daí que o homem de bem é a encarnação de um bom Espírito e o h
 
 > ✨ ▸ Sim, mas, dize antes que o homem vicioso é a encarnação de um Espírito imperfeito, pois, do contrário, poderias fazer crer na existência de Espíritos sempre maus, a que chamais demônios.
 
-🔖 [Encarnação](#encarnacao)
-🔖 [Espírito bom](#espirito-bom)
-🔖 [Espírito mau](#espirito-mau)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Espírito bom](#espirito-bom)
+- 🔖 [Espírito mau](#espirito-mau)
 ---
 
 ##### #️⃣ Q.362 {#q362}
@@ -5561,7 +5572,7 @@ Qual o caráter dos indivíduos em que encarnam Espíritos desassisados e levian
 
 > ✨ ▸ São indivíduos estúrdios, maliciosos e, não raro, criaturas malfazejas.
 
-🔖 [Encarnação](#encarnacao)
+- 🔖 [Encarnação](#encarnacao)
 ---
 
 ##### #️⃣ Q.363 {#q363}
@@ -5570,7 +5581,7 @@ Têm os Espíritos paixões de que não partilhe a Humanidade?
 
 > ✨ ▸ Não, que, de outro modo, vo-las teriam comunicado.
 
-🔖 [Humanidade](#humanidade)
+- 🔖 [Humanidade](#humanidade)
 ---
 
 ##### #️⃣ Q.364 {#q364}
@@ -5579,8 +5590,8 @@ O mesmo Espírito dá ao homem as qualidades morais e as da inteligência?
 
 > ✨ ▸ Certamente e isso em virtude do grau de adiantamento a que se haja elevado. O homem não tem em si dois Espíritos.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Evolução](#evolucao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Evolução](#evolucao)
 ---
 
 ##### #️⃣ Q.365 {#q365}
@@ -5592,8 +5603,8 @@ Por que alguns homens muito inteligentes, o que indica acharem-se encarnados nel
 ↩️ Voltar para [Q.780](#q780)
 ↩️ Voltar para [Q.780b](#q780b)
 
-🔖 [Inteligência](#inteligencia)
-🔖 [Moral](#moral)
+- 🔖 [Inteligência](#inteligencia)
+- 🔖 [Moral](#moral)
 ---
 
 ##### #️⃣ Q.366 {#q366}
@@ -5604,9 +5615,9 @@ Que se deve pensar da opinião dos que pretendem que as diferentes faculdades in
 
 > 👴🏻 ▸ O mundo físico e o mundo moral nos oferecem, a este respeito, vários pontos de semelhança. Enquanto se detiveram na aparência dos fenômenos, os cientistas acreditaram fosse múltipla a matéria. Hoje, compreende-se ser bem possível que tão variados fenômenos consistam apenas em modificações da matéria elementar única. As diversas faculdades são manifestações de uma mesma causa, que é a alma, ou do Espírito encarnado, e não de muitas almas, exatamente como os diferentes sons do órgão, os quais procedem todos do ar e não de tantas espécies de ar, quantos os sons. De semelhante sistema decorreria que, quando um homem perde ou adquire certas aptidões, certos pendores, isso significaria que outros tantos Espíritos teriam vindo habitá-lo ou o teriam deixado, o que o tornaria um ser múltiplo, sem individualidade e, conseguintemente, sem responsabilidade. Acresce que o contradizem numerosíssimos exemplos de manifestações de Espíritos, em que estes provam suas personalidades e identidade.
 
-🔖 [Aptidão](#aptidao)
-🔖 [Individualidade](#individualidade)
-🔖 [Progresso](#progresso)
+- 🔖 [Aptidão](#aptidao)
+- 🔖 [Individualidade](#individualidade)
+- 🔖 [Progresso](#progresso)
 ---
 
 #### 2.07.04. 📄 Influência do corpo {#lde-2-07-04}
@@ -5619,8 +5630,8 @@ Unindo-se ao corpo, o Espírito se identifica com a matéria?
 
 > ✨ ▸ A matéria é apenas o envoltório do Espírito, como o vestuário o é do corpo. Unindo-se a este, o Espírito conserva os atributos da natureza espiritual.
 
-🔖 [Influência](#influencia)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Influência](#influencia)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.368 {#q368}
@@ -5629,7 +5640,7 @@ Após sua união com o corpo, exerce o Espírito, com liberdade plena, suas facu
 
 > ✨ ▸ O exercício das faculdades depende dos órgãos que lhes servem de instrumento. A grosseria da matéria as enfraquece.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.368.a {#q368a}
@@ -5640,8 +5651,8 @@ Assim, o invólucro material é obstáculo à livre manifestação das faculdade
 
 > 👴🏻 ▸ Pode-se comparar a ação que a matéria grosseira exerce sobre o Espírito à de um charco lodoso sobre um corpo nele mergulhado, ao qual tira a liberdade dos movimentos.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Matéria](#materia)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.369 {#q369}
@@ -5650,8 +5661,8 @@ O livre exercício das faculdades da alma está subordinado ao desenvolvimento d
 
 > ✨ ▸ Os órgãos são os instrumentos da manifestação das faculdades da alma, manifestação que se acha subordinada ao desenvolvimento e ao grau de perfeição dos órgãos, como a excelência de um trabalho o está à da ferramenta própria à sua execução.
 
-🔖 [Alma](#alma)
-🔖 [Organismo](#organismo)
+- 🔖 [Alma](#alma)
+- 🔖 [Organismo](#organismo)
 ---
 
 ##### #️⃣ Q.370 {#q370}
@@ -5660,9 +5671,9 @@ Da influência dos órgãos se pode inferir a existência de uma relação entre
 
 > ✨ ▸ Não confundais o efeito com a causa. O Espírito dispõe sempre das faculdades que lhe são próprias. Ora, não são os órgãos que dão as faculdades, e sim estas que impulsionam o desenvolvimento dos órgãos.
 
-🔖 [Cérebro](#cerebro)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Influência](#influencia)
+- 🔖 [Cérebro](#cerebro)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Influência](#influencia)
 ---
 
 ##### #️⃣ Q.370.a {#q370a}
@@ -5673,8 +5684,8 @@ Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva 
 
 > 👴🏻 ▸ Encarnando, traz o Espírito certas predisposições e, se se admitir que a cada uma corresponda no cérebro um órgão, o desenvolvimento desses órgãos será efeito e não causa. Se nos órgãos estivesse o princípio das faculdades, o homem seria uma máquina sem livre-arbítrio e sem a responsabilidade de seus atos. Forçoso então fora admitir-se que os maiores gênios, os sábios, os poetas, os artistas, só o são porque o acaso lhes deu órgãos especiais, donde se seguiria que, sem esses órgãos, não teriam sido gênios e que, assim, o maior dos imbecis houvera podido ser um Newton, um Vergílio, ou um Rafael, desde que de certos órgãos se achassem providos. Ainda mais absurda se mostra semelhante hipótese, se a aplicarmos às qualidades morais. Efetivamente, segundo esse sistema, um Vicente de Paulo, se a Natureza o dotara de tal ou tal órgão, teria podido ser um celerado e o maior dos celerados não precisaria senão de um certo órgão para ser um Vicente de Paulo. Admita-se, ao contrário, que os órgãos especiais, dado que existam, são consequentes, que se desenvolvem por efeito do exercício da faculdade, como os músculos por efeito do movimento, e a nenhuma conclusão irracional se chegará. Sirvamo-nos de uma comparação, trivial à força de ser verdadeira. Por alguns sinais fisionômicos se reconhece que um homem tem o vício da embriaguez. Serão esses sinais que fazem dele um ébrio, ou será a ebriedade que nele imprime aqueles sinais? Pode dizer-se que os órgãos recebem o cunho das faculdades.
 
-🔖 [Aptidão](#aptidao)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Aptidão](#aptidao)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 #### 2.07.05. 📄 Idiotismo, loucura {#lde-2-07-05}
@@ -5694,8 +5705,8 @@ Que objetivo visa a Providência criando seres desgraçados, como os cretinos e 
 
 > ✨ ▸ Os que habitam corpos de idiotas são Espíritos sujeitos a uma punição. Sofrem por efeito do constrangimento que experimentam e da impossibilidade em que estão de se manifestarem mediante órgãos não desenvolvidos ou desmantelados.
 
-🔖 [Punição](#punicao)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Punição](#punicao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.372.a {#q372a}
@@ -5706,9 +5717,9 @@ Não há, pois, fundamento para dizer-se que os órgãos nada influem sobre as f
 
 > 👴🏻 ▸ Importa se distinga o estado normal do estado patológico. No primeiro, o moral vence os obstáculos que a matéria lhe opõe. Há, porém, casos em que a matéria oferece tal resistência que as manifestações anímicas ficam obstadas ou desnaturadas, como nos de idiotismo e de loucura. São casos patológicos e, não gozando nesse estado a alma de toda a sua liberdade, a própria lei humana a isenta da responsabilidade de seus atos.
 
-🔖 [Aptidão](#aptidao)
-🔖 [Idiotismo](#idiotismo)
-🔖 [Loucura](#loucura)
+- 🔖 [Aptidão](#aptidao)
+- 🔖 [Idiotismo](#idiotismo)
+- 🔖 [Loucura](#loucura)
 ---
 
 ##### #️⃣ Q.373 {#q373}
@@ -5717,7 +5728,7 @@ Qual será o mérito da existência de seres que, como os cretinos e os idiotas,
 
 > ✨ ▸ É uma expiação decorrente do abuso que fizeram de certas faculdades. É um estacionamento temporário.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.373.a {#q373a}
@@ -5730,9 +5741,9 @@ Pode assim o corpo de um idiota conter um Espírito que tenha animado um homem d
 > 
 > Daí, frequentemente, lhes resulta uma existência inferior à que tiveram e uma causa de sofrimentos. Os embaraços que o Espírito encontra para suas manifestações se lhe assemelham às algemas que tolhem os movimentos a um homem vigoroso. Pode dizer-se que os cretinos e os idiotas são estropiados do cérebro, como o coxo o é das pernas e dos olhos o cego.
 
-🔖 [Expiação](#expiacao)
-🔖 [Gênio](#genio)
-🔖 [Idiotia](#idiotia)
+- 🔖 [Expiação](#expiacao)
+- 🔖 [Gênio](#genio)
+- 🔖 [Idiotia](#idiotia)
 ---
 
 ##### #️⃣ Q.374 {#q374}
@@ -5741,7 +5752,7 @@ Na condição de Espírito livre, tem o idiota consciência do seu estado mental
 
 > ✨ ▸ Frequentemente tem. Compreende que as cadeias que lhe obstam ao voo são prova e expiação.
 
-🔖 [Idiota](#idiota)
+- 🔖 [Idiota](#idiota)
 ---
 
 ##### #️⃣ Q.375 {#q375}
@@ -5750,10 +5761,10 @@ Qual, na loucura, a situação do Espírito?
 
 > ✨ ▸ O Espírito, quando em liberdade, recebe diretamente suas impressões e diretamente exerce sua ação sobre a matéria. Encarnado, porém, ele se encontra em condições muito diversas e na contingência de só o fazer com o auxílio de órgãos especiais. Altere-se uma parte ou o conjunto de tais órgãos e eis que se lhe interrompem, no que destes dependam, sua ação ou suas impressões. Se perde os olhos, fica cego; se o ouvido, torna-se surdo etc. Imagina agora que seja o órgão que preside às manifestações da inteligência o atacado ou modificado, parcial ou inteiramente, e fácil te será compreender que, só tendo o Espírito a seu serviço órgãos incompletos ou alterados, uma perturbação resultará de que ele, por si mesmo e no seu foro íntimo, tem perfeita consciência, mas cujo curso não lhe está nas mãos deter.
 
-🔖 [Cérebro](#cerebro)
-🔖 [Doença mental](#doenca-mental)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Loucura](#loucura)
+- 🔖 [Cérebro](#cerebro)
+- 🔖 [Doença mental](#doenca-mental)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Loucura](#loucura)
 ---
 
 ##### #️⃣ Q.375.a {#q375a}
@@ -5762,9 +5773,9 @@ Então, o desorganizado é sempre o corpo e não o Espírito?
 
 > ✨ ▸ Exatamente, mas convém não perder de vista que, assim como o Espírito atua sobre a matéria, também esta reage sobre ele, dentro de certos limites, e que pode acontecer impressionar-se o Espírito temporariamente com a alteração dos órgãos pelos quais se manifesta e recebe as impressões. Pode mesmo suceder que, com a continuação, durando longo tempo a loucura, a repetição dos mesmos atos acabe por exercer sobre o Espírito uma influência, de que ele não se libertará senão depois de se haver libertado de toda impressão material.
 
-🔖 [Ação](#acao)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Matéria](#materia)
+- 🔖 [Ação](#acao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.376 {#q376}
@@ -5773,7 +5784,7 @@ Por que razão a loucura leva o homem algumas vezes ao suicídio?
 
 > ✨ ▸ O Espírito sofre pelo constrangimento em que se acha e pela impossibilidade em que se vê de manifestar-se livremente, donde o procurar na morte um meio de quebrar seus grilhões.
 
-🔖 [Loucura](#loucura)
+- 🔖 [Loucura](#loucura)
 ---
 
 ##### #️⃣ Q.377 {#q377}
@@ -5782,8 +5793,8 @@ Depois da morte, o Espírito do alienado se ressente do desarranjo de suas facul
 
 > ✨ ▸ Pode ressentir-se, durante algum tempo após a morte, até que se desligue completamente da matéria, como o homem que desperta se ressente, por algum tempo, da perturbação em que o lançara o sono.
 
-🔖 [Desencarnação](#desencarnacao)
-🔖 [Loucura](#loucura)
+- 🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Loucura](#loucura)
 ---
 
 ##### #️⃣ Q.378 {#q378}
@@ -5792,8 +5803,8 @@ De que modo a alteração do cérebro reage sobre o Espírito depois da morte?
 
 > ✨ ▸ Como uma recordação. Um peso oprime o Espírito e, como ele não teve a compreensão de tudo o que se passou durante a sua loucura, sempre se faz mister um certo tempo, a fim de se pôr ao corrente de tudo. Por isso é que, quanto mais durar a loucura no curso da vida terrena, tanto mais lhe durará a incerteza, o constrangimento, depois da morte. Liberto do corpo, o Espírito se ressente, por certo tempo, da impressão dos laços que àquele o prendiam.
 
-🔖 [Cérebro](#cerebro)
-🔖 [Desencarnado](#desencarnado)
+- 🔖 [Cérebro](#cerebro)
+- 🔖 [Desencarnado](#desencarnado)
 ---
 
 #### 2.07.06. 📄 A infância {#lde-2-07-06}
@@ -5815,10 +5826,10 @@ Abstraindo do obstáculo que a imperfeição dos órgãos opõe à sua livre man
 
 > 👴🏻 ▸ Há um fato de observação, que apoia esta resposta. Os sonhos, numa criança, não apresentam o caráter dos de um adulto. Quase sempre pueril é o objeto dos sonhos infantis, o que indica de que natureza são as preocupações do respectivo Espírito.
 
-🔖 [Criança](#crianca)
-🔖 [Encarnação](#encarnacao)
-🔖 [Pensamento](#pensamento)
-🔖 [Sonho](#sonho)
+- 🔖 [Criança](#crianca)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Pensamento](#pensamento)
+- 🔖 [Sonho](#sonho)
 ---
 
 ##### #️⃣ Q.381 {#q381}
@@ -5827,9 +5838,9 @@ Por morte da criança, readquire o Espírito, imediatamente, o seu precedente vi
 
 > ✨ ▸ Assim tem que ser, pois que se vê desembaraçado de seu invólucro corporal. Entretanto, não readquire a anterior lucidez, senão quando se tenha completamente separado daquele envoltório, isto é, quando mais nenhum laço exista entre ele e o corpo.
 
-🔖 [Criança](#crianca)
-🔖 [Desencarnação](#desencarnacao)
-🔖 [Infância](#infancia)
+- 🔖 [Criança](#crianca)
+- 🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Infância](#infancia)
 ---
 
 ##### #️⃣ Q.382 {#q382}
@@ -5838,7 +5849,7 @@ Durante a infância sofre o Espírito encarnado, em consequência do constrangim
 
 > ✨ ▸ Não. Esse estado corresponde a uma necessidade, está na ordem da natureza e de acordo com as vistas da Providência. *É um período de repouso do Espírito*.
 
-🔖 [Infância](#infancia)
+- 🔖 [Infância](#infancia)
 ---
 
 ##### #️⃣ Q.383 {#q383}
@@ -5847,7 +5858,7 @@ Qual, para este, a utilidade de passar pelo estado de infância?
 
 > ✨ ▸ Encarnando, com o objetivo de se aperfeiçoar, o Espírito, durante esse período, é mais acessível às impressões que recebe, capazes de lhe auxiliarem o adiantamento, para o que devem contribuir os incumbidos de educá-lo.
 
-🔖 [Encarnação](#encarnacao)
+- 🔖 [Encarnação](#encarnacao)
 ---
 
 ##### #️⃣ Q.384 {#q384}
@@ -5856,8 +5867,8 @@ Por que é o choro a primeira manifestação da criança ao nascer?
 
 > ✨ ▸ Para estimular o interesse da genitora e provocar os cuidados de que há mister. Não é evidente que se suas manifestações fossem todas de alegria, quando ainda não sabe falar, pouco se inquietariam os que o cercam com os cuidados que lhe são indispensáveis? Admirai, pois, em tudo a sabedoria da Providência.
 
-🔖 [Choro](#choro)
-🔖 [Nascimento](#nascimento)
+- 🔖 [Choro](#choro)
+- 🔖 [Nascimento](#nascimento)
 ---
 
 ##### #️⃣ Q.385 {#q385}
@@ -5876,11 +5887,11 @@ Que é o que motiva a mudança que se opera no caráter do indivíduo em certa i
 
 ↩️ Voltar para [Q.890](#q890)
 
-🔖 [Adolescência](#adolescencia)
-🔖 [Criança](#crianca)
-🔖 [Esclarecimento](#esclarecimento)
-🔖 [Infância](#infancia)
-🔖 [Inocência](#inocencia)
+- 🔖 [Adolescência](#adolescencia)
+- 🔖 [Criança](#crianca)
+- 🔖 [Esclarecimento](#esclarecimento)
+- 🔖 [Infância](#infancia)
+- 🔖 [Inocência](#inocencia)
 ---
 
 #### 2.07.07. 📄 Simpatia e antipatia materiais {#lde-2-07-07}
@@ -5900,8 +5911,8 @@ Não lhes seria mais agradável reconhecerem-se?
 > 
 > 👉🏻 Veja [Q.392](#q392)
 
-🔖 [Lembrança](#lembranca)
-🔖 [Vidas passadas](#vidas-passadas)
+- 🔖 [Lembrança](#lembranca)
+- 🔖 [Vidas passadas](#vidas-passadas)
 ---
 
 ##### #️⃣ Q.387 {#q387}
@@ -5910,7 +5921,7 @@ A simpatia tem sempre por princípio um anterior conhecimento?
 
 > ✨ ▸ Não. Dois Espíritos, que se ligam bem, naturalmente se procuram um ao outro, sem que se tenham conhecido como homens.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.388 {#q388}
@@ -5919,7 +5930,7 @@ Os encontros, que costumam dar-se, de algumas pessoas e que comumente se atribue
 
 > ✨ ▸ Entre os seres pensantes há ligação que ainda não conheceis. O magnetismo é o piloto desta ciência, que mais tarde compreendereis melhor.
 
-🔖 [Magnetismo](#magnetismo)
+- 🔖 [Magnetismo](#magnetismo)
 ---
 
 ##### #️⃣ Q.389 {#q389}
@@ -5928,7 +5939,7 @@ E a repulsão instintiva que se experimenta por algumas pessoas, donde se origin
 
 > ✨ ▸ São Espíritos antipáticos que se adivinham e reconhecem, sem se falarem.
 
-🔖 [Antipatia](#antipatia)
+- 🔖 [Antipatia](#antipatia)
 ---
 
 ##### #️⃣ Q.390 {#q390}
@@ -5937,7 +5948,7 @@ A antipatia instintiva é sempre sinal de natureza má?
 
 > ✨ ▸ De não simpatizarem um com o outro, não se segue que dois Espíritos sejam necessariamente maus. A antipatia, entre eles, pode derivar de diversidade no modo de pensar. À proporção, porém, que se forem elevando, essa divergência irá desaparecendo e a antipatia deixará de existir.
 
-🔖 [Antipatia](#antipatia)
+- 🔖 [Antipatia](#antipatia)
 ---
 
 ##### #️⃣ Q.391 {#q391}
@@ -5946,7 +5957,7 @@ A antipatia entre duas pessoas nasce primeiro na que tem pior Espírito, ou na q
 
 > ✨ ▸ Numa e noutra indiferentemente, mas distintas são as causas e os efeitos nas duas. Um Espírito mau antipatiza com quem quer que o possa julgar e desmascarar. Ao ver pela primeira vez uma pessoa, logo sabe que vai ser censurado. Seu afastamento dessa pessoa se transforma em ódio, em inveja e lhe inspira o desejo de praticar o mal. O bom Espírito sente repulsão pelo mau, por saber que este o não compreenderá e porque díspares dos dele são os seus sentimentos. Entretanto, consciente da sua superioridade, não alimenta ódio, nem inveja contra o outro. Limita-se a evitá-lo e a lastimá-lo.
 
-🔖 [Antipatia](#antipatia)
+- 🔖 [Antipatia](#antipatia)
 ---
 
 #### 2.07.08. 📄 Esquecimento do passado {#lde-2-07-08}
@@ -5972,11 +5983,11 @@ Como pode o homem ser responsável por atos e resgatar faltas de que se não lem
 ↩️ Voltar para [Q.959](#q959)
 ↩️ Voltar para [Q.984](#q984)
 
-🔖 [Intuição](#intuicao)
-🔖 [Justiça divina](#justica-divina)
-🔖 [Lembrança](#lembranca)
-🔖 [Passado](#passado)
-🔖 [Vida espiritual](#vida-espiritual)
+- 🔖 [Intuição](#intuicao)
+- 🔖 [Justiça divina](#justica-divina)
+- 🔖 [Lembrança](#lembranca)
+- 🔖 [Passado](#passado)
+- 🔖 [Vida espiritual](#vida-espiritual)
 ---
 
 ##### #️⃣ Q.394 {#q394}
@@ -5989,10 +6000,10 @@ Nos mundos mais elevados do que a Terra, onde os que os habitam não se veem pre
 > 
 > Gravíssimos inconvenientes teria o nos lembrarmos das nossas individualidades anteriores. Em certos casos, humilhar-nos-ia sobremaneira. Em outros, nos exaltaria o orgulho, peando-nos, em consequência, o livre-arbítrio. Para nos melhorarmos, dá-nos Deus exatamente o que nos é necessário e basta: a voz da consciência e os pendores instintivos. Priva-nos do que nos prejudicaria. Acrescentemos que, se nos recordássemos dos nossos precedentes atos pessoais, igualmente nos recordaríamos dos dos outros homens, do que resultaria talvez os mais desastrosos efeitos para as relações sociais. Nem sempre podendo honrar-nos do nosso passado, melhor é que sobre ele um véu seja lançado. Isto concorda perfeitamente com a Doutrina dos Espíritos acerca dos mundos superiores à Terra. Nesses mundos, em que só reina o bem, a reminiscência do passado nada tem de dolorosa. Tal a razão por que neles as criaturas se lembram da sua antecedente existência, como nos lembramos do que fizemos na véspera. Quanto à estada em mundos inferiores, não passa então, como já dissemos, de mau sonho.
 
-🔖 [Felicidade](#felicidade)
-🔖 [Mundos evoluídos](#mundos-evoluidos)
-🔖 [Mundos habitados](#mundos-habitados)
-🔖 [Vidas passadas](#vidas-passadas)
+- 🔖 [Felicidade](#felicidade)
+- 🔖 [Mundos evoluídos](#mundos-evoluidos)
+- 🔖 [Mundos habitados](#mundos-habitados)
+- 🔖 [Vidas passadas](#vidas-passadas)
 ---
 
 ##### #️⃣ Q.395 {#q395}
@@ -6001,9 +6012,9 @@ Podemos ter algumas revelações a respeito de nossas vidas anteriores?
 
 > ✨ ▸ Nem sempre. Contudo, muitos sabem o que foram e o que faziam. Se se lhes permitisse dizê-lo abertamente, extraordinárias revelações fariam sobre o passado.
 
-🔖 [Conhecimento](#conhecimento)
-🔖 [Revelação](#revelacao)
-🔖 [Vidas passadas](#vidas-passadas)
+- 🔖 [Conhecimento](#conhecimento)
+- 🔖 [Revelação](#revelacao)
+- 🔖 [Vidas passadas](#vidas-passadas)
 ---
 
 ##### #️⃣ Q.396 {#q396}
@@ -6012,7 +6023,7 @@ Algumas pessoas julgam ter vaga recordação de um passado desconhecido, que se 
 
 > ✨ ▸ Algumas vezes, é uma impressão real; mas também, frequentemente, não passa de mera ilusão, contra a qual precisa o homem pôr-se em guarda, porquanto pode ser efeito de superexcitada imaginação.
 
-🔖 [Prevenção](#prevencao)
+- 🔖 [Prevenção](#prevencao)
 ---
 
 ##### #️⃣ Q.397 {#q397}
@@ -6021,8 +6032,8 @@ Nas existências corpóreas de natureza mais elevada do que a nossa, é mais cla
 
 > ✨ ▸ Sim, à medida que o corpo se torna menos material, com mais exatidão o homem se lembra do seu passado. Esta lembrança, os que habitam os mundos de ordem superior a têm mais nítida.
 
-🔖 [Lembrança](#lembranca)
-🔖 [Passado](#passado)
+- 🔖 [Lembrança](#lembranca)
+- 🔖 [Passado](#passado)
 ---
 
 ##### #️⃣ Q.398 {#q398}
@@ -6031,8 +6042,8 @@ Sendo os pendores instintivos uma reminiscência do seu passado, dar-se-á que, 
 
 > ✨ ▸ Até certo ponto, assim é. Preciso se torna, porém, levar em conta a melhora que se possa ter operado no Espírito e as resoluções que ele haja tomado na erraticidade. Pode suceder que a existência atual seja muito melhor que a precedente.
 
-🔖 [Conhecimento](#conhecimento)
-🔖 [Falta](#falta)
+- 🔖 [Conhecimento](#conhecimento)
+- 🔖 [Falta](#falta)
 ---
 
 ##### #️⃣ Q.398.a {#q398a}
@@ -6041,8 +6052,8 @@ Poderá também ser pior, isto é, poderá o Espírito cometer, numa existência
 
 > ✨ ▸ Depende do seu adiantamento. Se não souber triunfar das provas, possivelmente será arrastado a novas faltas, consequentes, então, da posição que escolheu. Mas, em geral, estas faltas denotam mais um estacionamento que uma retrogradação, porquanto o Espírito é suscetível de se adiantar ou de parar, nunca, porém, de retroceder.
 
-🔖 [Falta](#falta)
-🔖 [Perfeição](#perfeicao)
+- 🔖 [Falta](#falta)
+- 🔖 [Perfeição](#perfeicao)
 ---
 
 ##### #️⃣ Q.399 {#q399}
@@ -6069,13 +6080,13 @@ Sendo as vicissitudes da vida corporal expiação das faltas do passado e, ao me
 
 ↩️ Voltar para [Q.983](#q983)
 
-🔖 [Futuro](#futuro)
-🔖 [Lei de causa e efeito](#lei-de-causa-e-efeito)
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Passado](#passado)
-🔖 [Predição](#predicao)
-🔖 [Provas](#provas)
-🔖 [Revelação](#revelacao)
+- 🔖 [Futuro](#futuro)
+- 🔖 [Lei de causa e efeito](#lei-de-causa-e-efeito)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Passado](#passado)
+- 🔖 [Predição](#predicao)
+- 🔖 [Provas](#provas)
+- 🔖 [Revelação](#revelacao)
 ---
 
 ### 2.08. 🗂️ Emancipação da alma {#lde-2-08}
@@ -6089,6 +6100,7 @@ Neste capítulo:
 - [2.08.06. 📄 Êxtas](#lde-2-08-06)
 - [2.08.07. 📄 Dupla vista](#lde-2-08-07)
 - [2.08.08. 📄 Resumo teórico do sonambulismo, do êxtase e da dupla vista](#lde-2-08-08)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -6107,8 +6119,8 @@ Durante o sono, a alma repousa como o corpo?
 
 > ✨ ▸ Não, o Espírito jamais está inativo. Durante o sono, afrouxam-se os laços que o prendem ao corpo e, não precisando este então da sua presença, ele se lança pelo Espaço e *entra em relação mais direta com os outros Espíritos*.
 
-🔖 [Relacionamento](#relacionamento)
-🔖 [Sono](#sono)
+- 🔖 [Relacionamento](#relacionamento)
+- 🔖 [Sono](#sono)
 ---
 
 ##### #️⃣ Q.402 {#q402}
@@ -6133,12 +6145,12 @@ Como podemos julgar da liberdade do Espírito durante o sono?
 > 
 > A incoerência dos sonhos ainda se explica pelas lacunas que apresenta a recordação incompleta que conservamos do que nos apareceu quando sonhávamos. É como se a uma narração se truncassem frases ou trechos ao acaso. Reunidos depois, os fragmentos restantes nenhuma significação racional teriam.
 
-🔖 [Alma](#alma)
-🔖 [Corpo físico](#corpo-fisico)
-🔖 [Emancipação da alma](#emancipacao-da-alma)
-🔖 [Espíritos superiores](#espiritos-superiores)
-🔖 [Sonho](#sonho)
-🔖 [Sono](#sono)
+- 🔖 [Alma](#alma)
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Emancipação da alma](#emancipacao-da-alma)
+- 🔖 [Espíritos superiores](#espiritos-superiores)
+- 🔖 [Sonho](#sonho)
+- 🔖 [Sono](#sono)
 ---
 
 ##### #️⃣ Q.403 {#q403}
@@ -6147,7 +6159,7 @@ Por que não nos lembramos sempre dos sonhos?
 
 > ✨ ▸ Em o que chamas sono, só há o repouso do corpo, visto que o Espírito está constantemente em atividade. Recobra, durante o sono, um pouco da sua liberdade e se corresponde com os que lhe são caros, quer neste mundo, quer em outros. Mas, como é pesada e grosseira a matéria que o compõe, o corpo dificilmente conserva as impressões que o Espírito recebeu, porque a este não chegaram por intermédio dos órgãos corporais.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.404 {#q404}
@@ -6162,7 +6174,7 @@ Acontece com frequência verem-se em sonho coisas que parecem um pressentimento,
 
 > ✨ ▸ Pode suceder que tais pressentimentos venham a confirmar-se apenas para o Espírito. Quer dizer que este viu aquilo que desejava, *foi ao seu encontro*. É preciso não esquecer que, durante o sono, a alma está mais ou menos sob a influência da matéria e que, por conseguinte, nunca se liberta completamente de suas ideias terrenas, donde resulta que as preocupações do estado de vigília podem dar ao que se vê a aparência do que se deseja, ou do que se teme. A isto é que, em verdade, cabe chamar-se efeito da imaginação. Sempre que uma ideia nos preocupa fortemente, tudo o que vemos se nos mostra ligado a essa ideia.
 
-🔖 [Sonho](#sonho)
+- 🔖 [Sonho](#sonho)
 ---
 
 ##### #️⃣ Q.406 {#q406}
@@ -6171,9 +6183,9 @@ Quando em sonho vemos pessoas vivas, muito nossas conhecidas, a praticarem atos 
 
 > ✨ ▸ De que absolutamente não cogitam, dizes. Que sabes a tal respeito? Os Espíritos dessas pessoas vêm visitar o teu, como o teu os vai visitar, sem que saibas sempre o em que eles pensam. Ademais, não é raro atribuirdes, de acordo com o que desejais, a pessoas que conheceis, o que se deu ou se está dando em outras existências.
 
-🔖 [Reunião](#reuniao)
-🔖 [Sonho](#sonho)
-🔖 [Visita](#visita)
+- 🔖 [Reunião](#reuniao)
+- 🔖 [Sonho](#sonho)
+- 🔖 [Visita](#visita)
 ---
 
 ##### #️⃣ Q.407 {#q407}
@@ -6184,7 +6196,7 @@ Quando em sonho vemos pessoas vivas, muito nossas conhecidas, a praticarem atos 
 
 > 👴🏻 ▸ É assim que a sonolência ou o simples torpor dos sentidos apresenta, frequentemente, as mesmas imagens do sonho.
 
-🔖 [Emancipação da alma](#emancipacao-da-alma)
+- 🔖 [Emancipação da alma](#emancipacao-da-alma)
 ---
 
 ##### #️⃣ Q.408 {#q408}
@@ -6193,8 +6205,8 @@ E qual a razão de ouvirmos, algumas vezes em nós mesmos, palavras pronunciadas
 
 > ✨ ▸ É fato: ouvis até mesmo frases inteiras, principalmente quando os sentidos começam a entorpecer-se. É, quase sempre, fraco eco do que diz um Espírito que convosco se quer comunicar.
 
-🔖 [Comunicação](#comunicacao)
-🔖 [Fenômeno mediúnico](#fenomeno-mediunico)
+- 🔖 [Comunicação](#comunicacao)
+- 🔖 [Fenômeno mediúnico](#fenomeno-mediunico)
 ---
 
 ##### #️⃣ Q.409 {#q409}
@@ -6203,9 +6215,9 @@ Doutras vezes, num estado que ainda não é bem o do adormecimento, estando com 
 
 > ✨ ▸ Estando entorpecido o corpo, o Espírito trata de desprender-se. Transporta-se e vê. Se já fosse completo o sono, haveria sonho.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Fenômeno mediúnico](#fenomeno-mediunico)
-🔖 [Mediunidade](#mediunidade)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Fenômeno mediúnico](#fenomeno-mediunico)
+- 🔖 [Mediunidade](#mediunidade)
 ---
 
 ##### #️⃣ Q.410 {#q410}
@@ -6214,7 +6226,7 @@ Dá-se também que, durante o sono, ou quando nos achamos apenas ligeiramente ad
 
 > ✨ ▸ Provêm da liberdade do Espírito que se emancipa e que, emancipado, goza de suas faculdades com maior amplitude. Também são, frequentemente, conselhos que outros Espíritos dão.
 
-🔖 [Assistência espiritual](#assistencia-espiritual)
+- 🔖 [Assistência espiritual](#assistencia-espiritual)
 ---
 
 ##### #️⃣ Q.410.a {#q410a}
@@ -6223,7 +6235,7 @@ De que servem essas ideias e esses conselhos, desde que, por esquecê-los, não 
 
 > ✨ ▸ Essas ideias, em regra, mais dizem respeito ao mundo dos Espíritos do que ao mundo corpóreo. Pouco importa que comumente o Espírito as esqueça, quando unido ao corpo. Na ocasião oportuna, voltar-lhe-ão como inspiração de momento.
 
-🔖 [Vida futura](#vida-futura)
+- 🔖 [Vida futura](#vida-futura)
 ---
 
 ##### #️⃣ Q.411 {#q411}
@@ -6234,7 +6246,7 @@ Estando desprendido da matéria e atuando como Espírito, sabe o Espírito encar
 
 ↩️ Voltar para [Q.857](#q857)
 
-🔖 [Morte](#morte)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.412 {#q412}
@@ -6243,8 +6255,8 @@ Pode a atividade do Espírito, durante o repouso, ou o sono corporal, fatigar o 
 
 > ✨ ▸ Pode, pois que o Espírito se acha preso ao corpo qual balão cativo ao poste. Assim como as sacudiduras do balão abalam o poste, a atividade do Espírito reage sobre o corpo e pode fatigá-lo.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Sono](#sono)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Sono](#sono)
 ---
 
 #### 2.08.02. 📄 Visitas espíritas entre pessoas vivas {#lde-2-08-02}
@@ -6262,7 +6274,7 @@ Podem duas pessoas que se conhecem visitar-se durante o sono?
 
 > ✨ ▸ Certo e muitos que julgam não se conhecerem costumam reunir-se e falar-se. Podes ter, sem que o suspeites, amigos em outro país. É tão habitual o fato de irdes encontrar-vos, durante o sono, com amigos e parentes, com os que conheceis e que vos podem ser úteis, que quase todas as noites fazeis essas visitas.
 
-🔖 [Visita](#visita)
+- 🔖 [Visita](#visita)
 ---
 
 ##### #️⃣ Q.415 {#q415}
@@ -6271,7 +6283,7 @@ Que utilidade podem elas ter, se as olvidamos?
 
 > ✨ ▸ De ordinário, ao despertardes, guardais a intuição desse fato, do qual se originam certas ideias que vos vêm espontaneamente, sem que possais explicar como vos acudiram. São ideias que adquiristes nessas confabulações.
 
-🔖 [Ideia](#ideia)
+- 🔖 [Ideia](#ideia)
 ---
 
 ##### #️⃣ Q.416 {#q416}
@@ -6280,8 +6292,8 @@ Pode o homem, pela sua vontade, provocar as visitas espíritas? Pode, por exempl
 
 > ✨ ▸ O que se dá é o seguinte: Adormecendo o homem, seu Espírito desperta e, muitas vezes, nada disposto se mostra a fazer o que o homem resolvera, porque a vida deste pouco interessa ao seu Espírito, uma vez desprendido da matéria. Isto com relação a homens já bastante elevados espiritualmente. Os outros passam de modo muito diverso a fase espiritual de sua existência terrena. Entregam-se às paixões que os escravizaram, ou se mantêm inativos. Pode, pois, suceder, tais sejam os motivos que a isso o induzem, que o Espírito vá visitar aqueles com quem deseja encontrar-se, mas não constitui razão, para que semelhante coisa se verifique, o simples fato de ele o querer quando desperto.
 
-🔖 [Encontro](#encontro)
-🔖 [Visita](#visita)
+- 🔖 [Encontro](#encontro)
+- 🔖 [Visita](#visita)
 ---
 
 ##### #️⃣ Q.417 {#q417}
@@ -6292,8 +6304,8 @@ Podem Espíritos encarnados reunir-se em certo número e formar assembleias?
 
 > 👴🏻 ▸ Pelo termo *antigos* se devem entender os laços de amizade contraída em existências anteriores. Ao despertar, guardamos intuição das ideias que haurimos nesses colóquios, mas ficamos na ignorância da fonte donde promanaram.
 
-🔖 [Assembleia](#assembleia)
-🔖 [Espíritos encarnados](#espiritos-encarnados)
+- 🔖 [Assembleia](#assembleia)
+- 🔖 [Espíritos encarnados](#espiritos-encarnados)
 ---
 
 ##### #️⃣ Q.418 {#q418}
@@ -6302,7 +6314,7 @@ Uma pessoa que julgasse morto um de seus amigos, sem que tal fosse a realidade, 
 
 > ✨ ▸ Como Espírito, a pessoa que figuras pode ver o seu amigo e conhecer-lhe a sorte. Se lhe não houver sido imposto, por prova, crer na morte desse amigo, poderá ter um pressentimento da sua existência, como poderá tê-lo de sua morte.
 
-🔖 [Emancipação da alma](#emancipacao-da-alma)
+- 🔖 [Emancipação da alma](#emancipacao-da-alma)
 ---
 
 #### 2.08.03. 📄 Transmissão oculta do pensamento {#lde-2-08-03}
@@ -6322,7 +6334,7 @@ Podem os Espíritos comunicar-se, estando completamente despertos os corpos?
 
 > ✨ ▸ O Espírito não se acha encerrado no corpo como numa caixa; irradia por todos os lados. Segue-se que pode comunicar-se com outros Espíritos, mesmo em estado de vigília, se bem que mais dificilmente.
 
-🔖 [Irradiação](#irradiacao)
+- 🔖 [Irradiação](#irradiacao)
 ---
 
 ##### #️⃣ Q.421 {#q421}
@@ -6333,7 +6345,7 @@ Como se explica que duas pessoas, perfeitamente acordadas, tenham instantaneamen
 
 > 👴🏻 ▸ Há, entre os Espíritos que se encontram, uma comunicação de pensamento, que dá causa a que duas pessoas se vejam e compreendam sem precisarem dos sinais ostensivos da linguagem. Poder-se-ia dizer que falam entre si a linguagem dos Espíritos.
 
-🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+- 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
 ---
 
 #### 2.08.04. 📄 Letargia, catalepsia, mortes aparentes {#lde-2-08-04}
@@ -6351,7 +6363,7 @@ Por quê?
 
 > ✨ ▸ Porque a isso se opõe o estado do corpo. E esse estado especial dos órgãos vos prova que no homem há alguma coisa mais do que o corpo, pois que, então, o corpo já não funciona e, no entanto, o Espírito se mostra ativo.
 
-🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Corpo físico](#corpo-fisico)
 ---
 
 ##### #️⃣ Q.423 {#q423}
@@ -6360,9 +6372,9 @@ Na letargia, pode o Espírito separar-se inteiramente do corpo, de modo a imprim
 
 > ✨ ▸ Na letargia, o corpo não está morto, porquanto há funções que continuam a executar-se. Sua vitalidade se encontra em estado latente, como na crisálida, porém não aniquilada. Ora, enquanto o corpo vive, o Espírito se lhe acha ligado. Rompendo-se, por efeito da morte *real* e pela desagregação dos órgãos, os laços que prendem um ao outro, integral se torna a separação e o Espírito não volta mais ao seu envoltório. Desde que um homem, aparentemente morto, volve à vida, é que não era completa a morte.
 
-🔖 [Desencarnação](#desencarnacao)
-🔖 [Letargia](#letargia)
-🔖 [Morte](#morte)
+- 🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Letargia](#letargia)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.424 {#q424}
@@ -6373,8 +6385,8 @@ Por meio de cuidados dispensados a tempo, podem reatar-se laços prestes a se de
 
 > 👴🏻 ▸ A letargia e a catalepsia derivam do mesmo princípio, que é a perda temporária da sensibilidade e do movimento, por uma causa fisiológica ainda inexplicada. Diferem uma da outra em que, na letargia, a suspensão das forças vitais é geral e dá ao corpo todas as aparências da morte; na catalepsia, fica localizada, podendo atingir uma parte mais ou menos extensa do corpo, de sorte a permitir que a inteligência se manifeste livremente, o que a torna inconfundível com a morte. A letargia é sempre natural; a catalepsia é por vezes espontânea, mas pode ser provocada e suprimida, artificialmente, pela ação magnética.
 
-🔖 [Fluido vital](#fluido-vital)
-🔖 [Letargia](#letargia)
+- 🔖 [Fluido vital](#fluido-vital)
+- 🔖 [Letargia](#letargia)
 ---
 
 #### 2.08.05. 📄 Sonambulismo {#lde-2-08-05}
@@ -6394,7 +6406,7 @@ O chamado sonambulismo magnético tem alguma relação com o sonambulismo natura
 
 > ✨ ▸ É a mesma coisa, com a só diferença de ser provocado.
 
-🔖 [Sonambulismo](#sonambulismo)
+- 🔖 [Sonambulismo](#sonambulismo)
 ---
 
 ##### #️⃣ Q.427 {#q427}
@@ -6403,7 +6415,7 @@ De que natureza é o agente que se chama fluido magnético?
 
 > ✨ ▸ Fluido vital, eletricidade animalizada, que são modificações do fluido universal.
 
-🔖 [Fluido universal](#fluido-universal)
+- 🔖 [Fluido universal](#fluido-universal)
 ---
 
 ##### #️⃣ Q.428 {#q428}
@@ -6412,7 +6424,7 @@ Qual a causa da clarividência sonambúlica?
 
 > ✨ ▸ Já o dissemos: É a alma que vê.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.429 {#q429}
@@ -6421,8 +6433,8 @@ Como pode o sonâmbulo ver através dos corpos opacos?
 
 > ✨ ▸ Não há corpos opacos senão para os vossos grosseiros órgãos. Já precedentemente não dissemos que a matéria nenhum obstáculo oferece ao Espírito, que livremente a atravessa? Frequentemente ouvis o sonâmbulo dizer que vê pela fronte, pelo punho etc., porque, achando-vos inteiramente presos à matéria, não compreendeis lhe seja possível ver sem o auxílio dos órgãos. Ele próprio, pelo desejo que manifestais, julga precisar dos órgãos. Se, porém, o deixásseis livre, compreenderia que vê por todas as partes do seu corpo, ou, melhor falando, que vê de fora do seu corpo.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Visão](#visao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Visão](#visao)
 ---
 
 ##### #️⃣ Q.430 {#q430}
@@ -6431,7 +6443,7 @@ Pois que a sua clarividência é a de sua alma ou de seu Espírito, por que o so
 
 > ✨ ▸ Primeiramente, aos Espíritos imperfeitos não é dado verem tudo e tudo saberem. Não ignoras que ainda partilham dos vossos erros e prejuízos. Depois, quando unidos à matéria, não gozam de todas as suas faculdades de Espírito. Deus outorgou ao homem a faculdade sonambúlica para fim útil e sério, não para que se informe do que não deva saber. Eis por que os sonâmbulos nem tudo podem dizer.
 
-🔖 [Clarividência](#clarividencia)
+- 🔖 [Clarividência](#clarividencia)
 ---
 
 ##### #️⃣ Q.431 {#q431}
@@ -6442,9 +6454,9 @@ Qual a origem das ideias inatas do sonâmbulo e como pode falar com exatidão de
 
 > 👴🏻 ▸ Mostra a experiência que os sonâmbulos também recebem comunicações de outros Espíritos, que lhes transmitem o que devam dizer e suprem à incapacidade que denotam. Isto se verifica principalmente nas prescrições médicas. O Espírito do sonâmbulo vê o mal, outro lhe indica o remédio. Essa dupla ação é às vezes patente e se revela, além disso, por estas expressões muito frequentes: *dizem-me* que diga, ou *proíbem-me* que diga tal coisa. Neste último caso, há sempre perigo em insistir-se por uma revelação negada, porque se dá azo a que intervenham Espíritos levianos, que falam de tudo sem escrúpulo e sem se importarem com a verdade.
 
-🔖 [Ideias inatas](#ideias-inatas)
-🔖 [Receituário](#receituario)
-🔖 [Sonâmbulo](#sonambulo)
+- 🔖 [Ideias inatas](#ideias-inatas)
+- 🔖 [Receituário](#receituario)
+- 🔖 [Sonâmbulo](#sonambulo)
 ---
 
 ##### #️⃣ Q.432 {#q432}
@@ -6453,7 +6465,7 @@ Como se explica a visão a distância em certos sonâmbulos?
 
 > ✨ ▸ Durante o sono, a alma não se transporta? O mesmo se dá no sonambulismo.
 
-🔖 [Sonâmbulo](#sonambulo)
+- 🔖 [Sonâmbulo](#sonambulo)
 ---
 
 ##### #️⃣ Q.433 {#q433}
@@ -6462,7 +6474,7 @@ O desenvolvimento maior ou menor da clarividência sonambúlica depende da organ
 
 > ✨ ▸ De uma e outra. Há disposições físicas que permitem ao Espírito desprender-se mais ou menos facilmente da matéria.
 
-🔖 [Clarividência](#clarividencia)
+- 🔖 [Clarividência](#clarividencia)
 ---
 
 ##### #️⃣ Q.434 {#q434}
@@ -6471,8 +6483,8 @@ As faculdades de que goza o sonâmbulo são as que tem o Espírito depois da mor
 
 > ✨ ▸ Somente até certo ponto, pois cumpre se atenda à influência da matéria a que ainda se acha ligado.
 
-🔖 [Espírito desencarnado](#espirito-desencarnado)
-🔖 [Sonâmbulo](#sonambulo)
+- 🔖 [Espírito desencarnado](#espirito-desencarnado)
+- 🔖 [Sonâmbulo](#sonambulo)
 ---
 
 ##### #️⃣ Q.435 {#q435}
@@ -6483,8 +6495,8 @@ Pode o sonâmbulo ver os outros Espíritos?
 
 > 👴🏻 ▸ O mesmo se dá com os que, tendo morrido, ainda se julgam vivos. Nenhuma alteração notando ao seu derredor e parecendo-lhes que os Espíritos têm corpos iguais aos nossos, tomam por corpos reais os corpos aparentes com que os mesmos Espíritos se lhes apresentam.
 
-🔖 [Desencarnação](#desencarnacao)
-🔖 [Sonâmbulo](#sonambulo)
+- 🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Sonâmbulo](#sonambulo)
 ---
 
 ##### #️⃣ Q.436 {#q436}
@@ -6499,7 +6511,7 @@ Posto que o que se dá, nos fenônemo sonambúlicos, é que a alma se transporta
 
 > ✨ ▸ A alma, em tais casos, não tem deixado inteiramente o corpo; conserva-se-lhe presa pelo laço que os liga e que então desempenha o papel de condutor das sensações. Quando duas pessoas se comunicam de uma cidade para outra, por meio da eletricidade, esta constitui o laço que lhes liga os pensamentos. Daí vem que confabulam como se estivessem ao lado uma da outra.
 
-🔖 [Sonâmbulo](#sonambulo)
+- 🔖 [Sonâmbulo](#sonambulo)
 ---
 
 ##### #️⃣ Q.438 {#q438}
@@ -6508,7 +6520,7 @@ O uso que um sonâmbulo faz da sua faculdade influi no estado do seu Espírito d
 
 > ✨ ▸ Muito, como o bom ou mau uso que o homem faz de todas as faculdades com que Deus o dotou.
 
-🔖 [Sonambulismo](#sonambulismo)
+- 🔖 [Sonambulismo](#sonambulismo)
 ---
 
 #### 2.08.06. 📄 Êxtase {#lde-2-08-06}
@@ -6519,7 +6531,7 @@ Que diferença há entre o êxtase e o sonambulismo?
 
 > ✨ ▸ O êxtase é um sonambulismo mais apurado. A alma do extático ainda é mais independente.
 
-🔖 [Êxtase](#extase)
+- 🔖 [Êxtase](#extase)
 ---
 
 ##### #️⃣ Q.440 {#q440}
@@ -6528,7 +6540,7 @@ O Espírito do extático penetra realmente nos mundos superiores?
 
 > ✨ ▸ Vê esses mundos e compreende a felicidade dos que os habitam, donde lhe nasce o desejo de lá permanecer. Há, porém, mundos inacessíveis aos Espíritos que ainda não estão bastante purificados.
 
-🔖 [Mundos evoluídos](#mundos-evoluidos)
+- 🔖 [Mundos evoluídos](#mundos-evoluidos)
 ---
 
 ##### #️⃣ Q.441 {#q441}
@@ -6537,7 +6549,7 @@ Quando o extático manifesta o desejo de deixar a Terra, fala sinceramente, não
 
 > ✨ ▸ Isso depende do grau de purificação do Espírito. Se verifica que a sua futura situação será melhor do que a sua vida presente, esforça-se por desatar os laços que o prendem à Terra.
 
-🔖 [Terra](#terra)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.442 {#q442}
@@ -6546,7 +6558,7 @@ Se se deixasse o extático entregue a si mesmo, poderia sua alma abandonar defin
 
 > ✨ ▸ Perfeitamente, poderia morrer. Por isso é que preciso se torna chamá-lo a voltar, apelando para tudo o que o prende a este mundo, fazendo-lhe sobretudo compreender que a maneira mais certa de não ficar lá, onde vê que seria feliz, consistiria em partir a cadeia que o tem preso ao planeta terreno.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.443 {#q443}
@@ -6555,7 +6567,7 @@ Pretendendo que lhe é dado ver coisas que evidentemente são produto de uma ima
 
 > ✨ ▸ O que o extático vê é real para ele, mas como seu Espírito se conserva sempre debaixo da influência das ideias terrenas, pode acontecer que veja a seu modo, ou melhor, que exprima o que vê numa linguagem moldada pelos preconceitos e ideias de que se acha imbuído, ou, então, pelos vossos preconceitos e ideias, a fim de ser mais bem compreendido. Neste sentido, principalmente, é que lhe sucede errar.
 
-🔖 [Ideia](#ideia)
+- 🔖 [Ideia](#ideia)
 ---
 
 ##### #️⃣ Q.444 {#q444}
@@ -6564,7 +6576,7 @@ Que confiança se pode depositar nas revelações dos extáticos?
 
 > ✨ ▸ O extático está sujeito a enganar-se muito frequentemente, sobretudo quando pretende penetrar no que deva continuar a ser mistério para o homem, porque, então, se deixa levar pela corrente das suas próprias ideias, ou se torna joguete de Espíritos mistificadores, *que se aproveitam da sua exaltação* para fasciná-lo.
 
-🔖 [Confiança](#confianca)
+- 🔖 [Confiança](#confianca)
 ---
 
 ##### #️⃣ Q.445 {#q445}
@@ -6573,7 +6585,7 @@ Que deduções se podem tirar dos fenômenos do sonambulismo e do êxtase? Não 
 
 > ✨ ▸ A bem dizer, mediante esses fenômenos, o homem entrevê a vida passada e a vida futura. Estude-os e achará o aclaramento de mais de um mistério, que a sua razão inutilmente procura devassar.
 
-🔖 [Fenômenos](#fenomenos)
+- 🔖 [Fenômenos](#fenomenos)
 ---
 
 ##### #️⃣ Q.446 {#q446}
@@ -6582,7 +6594,7 @@ Poderiam tais fenômenos adequar-se às ideias materialistas?
 
 > ✨ ▸ Aquele que os estudar de boa-fé e sem prevenções não poderá ser materialista, nem ateu.
 
-🔖 [Materialismo](#materialismo)
+- 🔖 [Materialismo](#materialismo)
 ---
 
 #### 2.08.07. 📄 Dupla vista {#lde-2-08-07}
@@ -6600,7 +6612,7 @@ O fenômeno a que se dá a designação de *dupla vista* tem alguma relação co
 
 > ✨ ▸ A faculdade é, o exercício não. Nos mundos menos materiais do que o vosso, os Espíritos se desprendem mais facilmente e se põem em comunicação apenas pelo pensamento, sem que, todavia, fique abolida a linguagem articulada. Por isso mesmo, em tais mundos, a dupla vista é faculdade permanente, para a maioria de seus habitantes, cujo estado normal se pode comparar ao dos vossos sonâmbulos lúcidos. Essa também a razão por que esses Espíritos se vos manifestam com maior facilidade do que os encarnados em corpos mais grosseiros.
 
-🔖 [Dupla vista](#dupla-vista)
+- 🔖 [Dupla vista](#dupla-vista)
 ---
 
 ##### #️⃣ Q.449 {#q449}
@@ -6609,7 +6621,7 @@ A segunda vista aparece espontaneamente ou por efeito da vontade de quem a possu
 
 > ✨ ▸ As mais das vezes é espontânea, porém, a vontade também desempenha com grande frequência importante papel no seu aparecimento. Toma, para exemplo, de umas dessas pessoas a quem se dá o nome de ledoras da buena-dicha, algumas das quais dispõem desta faculdade, e verás que é com o auxílio da própria vontade que se colocam no estado de terem a dupla vista e o que chamas visão.
 
-🔖 [Dupla vista](#dupla-vista)
+- 🔖 [Dupla vista](#dupla-vista)
 ---
 
 ##### #️⃣ Q.450 {#q450}
@@ -6618,7 +6630,7 @@ A dupla vista é suscetível de desenvolver-se pelo exercício?
 
 > ✨ ▸ Sim, do trabalho sempre resulta o progresso e a dissipação do véu que encobre as coisas.
 
-🔖 [Dupla vista](#dupla-vista)
+- 🔖 [Dupla vista](#dupla-vista)
 ---
 
 ##### #️⃣ Q.450.a {#q450a}
@@ -6627,8 +6639,8 @@ Esta faculdade tem qualquer ligação com a organização física?
 
 > ✨ ▸ Incontestavelmente, o organismo influi para a sua existência. Há organismos que lhe são refratários.
 
-🔖 [Corpo físico](#corpo-fisico)
-🔖 [Dupla vista](#dupla-vista)
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Dupla vista](#dupla-vista)
 ---
 
 ##### #️⃣ Q.451 {#q451}
@@ -6637,7 +6649,7 @@ Por que a segunda vista parece hereditária em algumas famílias?
 
 > ✨ ▸ Por semelhança da organização, que se transmite como as outras qualidades físicas. Depois, a faculdade se desenvolve por uma espécie de educação, que também se transmite de um a outro.
 
-🔖 [Dupla vista](#dupla-vista)
+- 🔖 [Dupla vista](#dupla-vista)
 ---
 
 ##### #️⃣ Q.452 {#q452}
@@ -6648,7 +6660,7 @@ Por que a segunda vista parece hereditária em algumas famílias?
 
 > 👴🏻 ▸ Nas épocas de crises e de calamidades, as grandes emoções, todas as causas, enfim, de superexcitação do moral provocam não raro o desenvolvimento da dupla vista. Parece que a Providência, quando um perigo nos ameaça, nos dá o meio de conjurá-lo. Todas as seitas e partidos perseguidos oferecem múltiplos exemplos desse fato.
 
-🔖 [Dupla vista](#dupla-vista)
+- 🔖 [Dupla vista](#dupla-vista)
 ---
 
 ##### #️⃣ Q.453 {#q453}
@@ -6657,7 +6669,7 @@ As pessoas dotadas de dupla vista sempre têm consciência de que a possuem?
 
 > ✨ ▸ Nem sempre. Consideram isso coisa perfeitamente natural e muitos creem que, se cada um observasse o que se passa consigo, todos verificariam que são como eles.
 
-🔖 [Dupla vista](#dupla-vista)
+- 🔖 [Dupla vista](#dupla-vista)
 ---
 
 ##### #️⃣ Q.454 {#q454}
@@ -6666,8 +6678,8 @@ Poder-se-ia atribuir a uma espécie de segunda vista a perspicácia de algumas p
 
 > ✨ ▸ É sempre a alma a irradiar mais livremente e a apreciar melhor do que sob o véu da matéria.
 
-🔖 [Alma](#alma)
-🔖 [Irradiação](#irradiacao)
+- 🔖 [Alma](#alma)
+- 🔖 [Irradiação](#irradiacao)
 ---
 
 ##### #️⃣ Q.454.a {#q454a}
@@ -6676,7 +6688,7 @@ Pode esta faculdade, em alguns casos, dar a presciência das coisas?
 
 > ✨ ▸ Pode. Também dá os pressentimentos, pois que muitos são os graus em que ela existe, sendo possível que num mesmo indivíduo exista em todos os graus, ou em alguns somente.
 
-🔖 [Dupla vista](#dupla-vista)
+- 🔖 [Dupla vista](#dupla-vista)
 ---
 
 #### 2.08.08. 📄 Resumo teórico do sonambulismo, do êxtase e da dupla vista {#lde-2-08-08}
@@ -6729,9 +6741,9 @@ O poder da vista dupla varia, indo desde a sensação confusa até a percepção
 
 O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vários, ou de modalidades diversas, de uma mesma causa. Esses fenômenos, como os sonhos, estão na ordem da natureza. Tal a razão por que hão existido em todos os tempos. A História mostra que foram sempre conhecidos e até explorados desde a mais remota antiguidade e neles se nos depara a explicação de uma imensidade de fatos que os preconceitos fizeram fossem tidos por sobrenaturais.
 
-🔖 [Êxtase](#extase)
-🔖 [Lucidez sonambúlica](#lucidez-sonambulica)
-🔖 [Vista](#vista)
+- 🔖 [Êxtase](#extase)
+- 🔖 [Lucidez sonambúlica](#lucidez-sonambulica)
+- 🔖 [Vista](#vista)
 ---
 
 ### 2.09. 🗂️ Intervenção no mundo material {#lde-2-09}
@@ -6750,6 +6762,7 @@ Neste capítulo:
 - [2.09.11. 📄 Pactos](#lde-2-09-11)
 - [2.09.12. 📄 Poder oculto. Talismãs. Feiticeiros](#lde-2-09-12)
 - [2.09.13. 📄 Bênçãos e maldições](#lde-2-09-13)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -6768,7 +6781,7 @@ Podem os Espíritos conhecer os nossos mais secretos pensamentos?
 
 > ✨ ▸ Muitas vezes chegam a conhecer o que desejaríeis ocultar de vós mesmos. Nem atos, nem pensamentos se lhes podem dissimular.
 
-🔖 [Pensamento](#pensamento)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 ##### #️⃣ Q.457.a {#q457a}
@@ -6777,7 +6790,7 @@ Assim, mais fácil nos seria ocultar de uma pessoa viva qualquer coisa, do que a
 
 > ✨ ▸ Certamente. Quando vos julgais muito ocultos, é comum terdes ao vosso lado uma multidão de Espíritos que vos observam.
 
-🔖 [Desencarnado](#desencarnado)
+- 🔖 [Desencarnado](#desencarnado)
 ---
 
 ##### #️⃣ Q.458 {#q458}
@@ -6786,7 +6799,7 @@ Que pensam de nós os Espíritos que nos cercam e observam?
 
 > ✨ ▸ Depende. Os levianos riem das pequenas partidas que vos pregam e zombam das vossas impaciências. Os Espíritos sérios se condoem dos vossos reveses e procuram ajudar-vos.
 
-🔖 [Juízo](#juizo)
+- 🔖 [Juízo](#juizo)
 ---
 
 #### 2.09.02. 📄 Influência oculta dos Espíritos em nossos pensamentos e atos {#lde-2-09-02}
@@ -6807,7 +6820,7 @@ De par com os pensamentos que nos são próprios, outros haverá que nos sejam s
 
 > ✨ ▸ Vossa alma é um Espírito que pensa. Não ignorais que, frequentemente, muitos pensamentos vos acodem a um tempo sobre o mesmo assunto e, não raro, contrários uns aos outros. Pois bem! No conjunto deles, estão sempre de mistura os vossos com os nossos. Daí a incerteza em que vos vedes. É que tendes em vós duas ideias a se combaterem.
 
-🔖 [Pensamento](#pensamento)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 ##### #️⃣ Q.461 {#q461}
@@ -6816,7 +6829,7 @@ Como havemos de distinguir os pensamentos que nos são próprios dos que nos sã
 
 > ✨ ▸ Quando um pensamento vos é sugerido, tendes a impressão de que alguém vos fala. Geralmente, os pensamentos próprios são os que acodem em primeiro lugar. Afinal, não vos é de grande interesse estabelecer essa distinção. Muitas vezes, é útil que não saibais fazê-la. Não a fazendo, obra o homem com mais liberdade. Se se decide pelo bem, é voluntariamente que o pratica; se toma o mau caminho, maior será a sua responsabilidade.
 
-🔖 [Pensamento](#pensamento)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 ##### #️⃣ Q.462 {#q462}
@@ -6827,9 +6840,9 @@ Como havemos de distinguir os pensamentos que nos são próprios dos que nos sã
 
 > 👴🏻 ▸ Se fora útil que pudéssemos distinguir claramente os nossos pensamentos próprios dos que nos são sugeridos, Deus nos houvera proporcionado os meios de o conseguirmos, como nos concedeu o de diferençarmos o dia da noite. Quando uma coisa se conserva imprecisa, é que convém assim aconteça.
 
-🔖 [Conhecimento](#conhecimento)
-🔖 [Influenciação](#influenciacao)
-🔖 [Inteligência](#inteligencia)
+- 🔖 [Conhecimento](#conhecimento)
+- 🔖 [Influenciação](#influenciacao)
+- 🔖 [Inteligência](#inteligencia)
 ---
 
 ##### #️⃣ Q.463 {#q463}
@@ -6838,8 +6851,8 @@ Diz-se comumente ser sempre bom o primeiro impulso. É exato?
 
 > ✨ ▸ Pode ser bom ou mau, conforme a natureza do Espírito encarnado. É sempre bom naquele que atende às boas inspirações.
 
-🔖 [Encarnado](#encarnado)
-🔖 [Inspiração](#inspiracao)
+- 🔖 [Encarnado](#encarnado)
+- 🔖 [Inspiração](#inspiracao)
 ---
 
 ##### #️⃣ Q.464 {#q464}
@@ -6848,7 +6861,7 @@ Como distinguirmos se um pensamento sugerido procede de um bom Espírito ou de u
 
 > ✨ ▸ Estudai o caso. Os bons Espíritos só para o bem aconselham. Compete-vos discernir.
 
-🔖 [Estudo](#estudo)
+- 🔖 [Estudo](#estudo)
 ---
 
 ##### #️⃣ Q.465 {#q465}
@@ -6857,8 +6870,8 @@ Com que fim os Espíritos imperfeitos nos induzem ao mal?
 
 > ✨ ▸ Para que sofrais como eles sofrem.
 
-🔖 [Inferioridade](#inferioridade)
-🔖 [Influenciação](#influenciacao)
+- 🔖 [Inferioridade](#inferioridade)
+- 🔖 [Influenciação](#influenciacao)
 ---
 
 ##### #️⃣ Q.465.a {#q465a}
@@ -6867,7 +6880,7 @@ E isso lhes diminui os sofrimentos?
 
 > ✨ ▸ Não, mas fazem-no por inveja, por não poderem suportar que haja seres felizes.
 
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.465.b {#q465b}
@@ -6876,7 +6889,7 @@ De que natureza é o sofrimento que procuram infligir aos outros?
 
 > ✨ ▸ Os que resultam de ser de ordem inferior a criatura e de estar afastada de Deus.
 
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.466 {#q466}
@@ -6887,9 +6900,9 @@ Por que permite Deus que Espíritos nos excitem ao mal?
 
 > 👴🏻 ▸ É assim que Deus confia à nossa consciência a escolha do caminho que devamos seguir e a liberdade de ceder a uma ou outra das influências contrárias que se exercem sobre nós.
 
-🔖 [Bem](#bem)
-🔖 [Consciência](#consciencia)
-🔖 [Espírito imperfeito](#espirito-imperfeito)
+- 🔖 [Bem](#bem)
+- 🔖 [Consciência](#consciencia)
+- 🔖 [Espírito imperfeito](#espirito-imperfeito)
 ---
 
 ##### #️⃣ Q.467 {#q467}
@@ -6898,8 +6911,8 @@ Pode o homem eximir-se da influência dos Espíritos que procuram arrastá-lo ao
 
 > ✨ ▸ Pode, visto que tais Espíritos só se apegam aos que, pelos seus desejos, os chamam, ou aos que, pelos seus pensamentos, os atraem.
 
-🔖 [Desejo](#desejo)
-🔖 [Pensamento](#pensamento)
+- 🔖 [Desejo](#desejo)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 ##### #️⃣ Q.468 {#q468}
@@ -6908,7 +6921,7 @@ Renunciam às suas tentativas os Espíritos cuja influência a vontade do homem 
 
 > ✨ ▸ Que querias que fizessem? Quando nada conseguem, abandonam o campo. Entretanto, ficam à espreita de um momento propício, como o gato que tocaia o rato.
 
-🔖 [Influenciação](#influenciacao)
+- 🔖 [Influenciação](#influenciacao)
 ---
 
 ##### #️⃣ Q.469 {#q469}
@@ -6929,8 +6942,8 @@ Os Espíritos, que ao mal procuram induzir-nos e que põem assim em prova a noss
 
 > ✨ ▸ A nenhum Espírito é dada a missão de praticar o mal. Aquele que o faz fá-lo por conta própria, sujeitando-se, portanto, às consequências. Pode Deus permitir-lhe que assim proceda, para vos experimentar; nunca, porém, lhe determina tal procedimento. Compete-vos, pois, repeli-lo.
 
-🔖 [Espíritos inferiores](#espiritos-inferiores)
-🔖 [Influenciação](#influenciacao)
+- 🔖 [Espíritos inferiores](#espiritos-inferiores)
+- 🔖 [Influenciação](#influenciacao)
 ---
 
 ##### #️⃣ Q.471 {#q471}
@@ -6939,7 +6952,7 @@ Quando experimentamos uma sensação de angústia, de ansiedade indefinível, ou
 
 > ✨ ▸ É quase sempre efeito das comunicações em que inconscientemente entrais com os Espíritos, ou da que com eles tivestes durante o sono.
 
-🔖 [Sensação](#sensacao)
+- 🔖 [Sensação](#sensacao)
 ---
 
 ##### #️⃣ Q.472 {#q472}
@@ -6948,10 +6961,10 @@ Os Espíritos que procuram atrair-nos para o mal se limitam a aproveitar as circ
 
 > ✨ ▸ Aproveitam as circunstâncias ocorrentes, mas também costumam criá-las, impelindo-vos, mau grado vosso, para aquilo que cobiçais. Assim, por exemplo, encontra um homem, no seu caminho, certa quantia. Não penseis tenham sido os Espíritos que a trouxeram para ali, mas eles podem inspirar ao homem a ideia de tomar aquela direção e sugerir-lhe depois a de se apoderar da importância achada, enquanto outros lhe sugerem a de restituir o dinheiro ao seu legítimo dono. O mesmo se dá com relação a todas as demais tentações.
 
-🔖 [Conduta](#conduta)
-🔖 [Dinheiro](#dinheiro)
-🔖 [Mal](#mal)
-🔖 [Tentação](#tentacao)
+- 🔖 [Conduta](#conduta)
+- 🔖 [Dinheiro](#dinheiro)
+- 🔖 [Mal](#mal)
+- 🔖 [Tentação](#tentacao)
 ---
 
 #### 2.09.03. 📄 Possessos {#lde-2-09-03}
@@ -6971,11 +6984,11 @@ Desde que não há possessão propriamente dita, isto é, coabitação de dois E
 
 > 👴🏻 ▸ O vocábulo *possesso*, na sua acepção vulgar, supõe a existência de demônios, isto é, de uma categoria de seres maus por natureza, e a coabitação de um desses seres com a alma de um indivíduo, no seu corpo. Pois que, *nesse sentido*, não há demônios e que dois Espíritos não podem habitar simultaneamente o mesmo corpo, não há possessos na conformidade da ideia a que esta palavra se acha associada. O termo *possesso* só se deve admitir como exprimindo a dependência absoluta em que uma alma pode achar-se com relação a Espíritos imperfeitos que a subjuguem.
 
-🔖 [Epilepsia](#epilepsia)
-🔖 [Espírito mau](#espirito-mau)
-🔖 [Exorcismo](#exorcismo)
-🔖 [Obsessão](#obsessao)
-🔖 [Possesso](#possesso)
+- 🔖 [Epilepsia](#epilepsia)
+- 🔖 [Espírito mau](#espirito-mau)
+- 🔖 [Exorcismo](#exorcismo)
+- 🔖 [Obsessão](#obsessao)
+- 🔖 [Possesso](#possesso)
 ---
 
 ##### #️⃣ Q.475 {#q475}
@@ -6984,7 +6997,7 @@ Pode alguém por si mesmo afastar os maus Espíritos e libertar-se da dominaçã
 
 > ✨ ▸ Sempre é possível, a quem quer que seja, subtrair-se a um jugo, desde que com vontade firme o queira.
 
-🔖 [Obsessão](#obsessao)
+- 🔖 [Obsessão](#obsessao)
 ---
 
 ##### #️⃣ Q.476 {#q476}
@@ -6993,8 +7006,8 @@ Pode acontecer que a fascinação exercida pelo mau Espírito seja de tal ordem 
 
 > ✨ ▸ Sendo ela um homem de bem, a sua vontade poderá ter eficácia, desde que apele para o concurso dos bons Espíritos, porque, quanto *mais digna* for a pessoa, tanto maior poder terá sobre os Espíritos imperfeitos, para afastá-los, e sobre os bons, para os atrair. Todavia, nada poderá, se o que estiver *subjugado* não lhe prestar o seu concurso. Há pessoas a quem agrada uma dependência que lhes lisonjeia os gostos e os desejos. Qualquer, porém, que seja o caso, aquele que não tiver puro o coração nenhuma influência exercerá. Os bons Espíritos não lhe atendem ao chamado e os maus não o temem.
 
-🔖 [Dignidade](#dignidade)
-🔖 [Fascinação](#fascinacao)
+- 🔖 [Dignidade](#dignidade)
+- 🔖 [Fascinação](#fascinacao)
 ---
 
 ##### #️⃣ Q.477 {#q477}
@@ -7003,7 +7016,7 @@ As fórmulas de exorcismo têm qualquer eficácia sobre os maus Espíritos?
 
 > ✨ ▸ Não. Estes últimos riem e se obstinam, quando veem alguém tomar isso a sério.
 
-🔖 [Exorcismo](#exorcismo)
+- 🔖 [Exorcismo](#exorcismo)
 ---
 
 ##### #️⃣ Q.478 {#q478}
@@ -7012,7 +7025,7 @@ Pessoas há, animadas de boas intenções e que, nada obstante, não deixam de s
 
 > ✨ ▸ Cansar-lhes a paciência, nenhum valor lhes dar às sugestões, mostrar-lhes que perdem o tempo. Vendo que nada conseguem, afastam-se.
 
-🔖 [Obsessão](#obsessao)
+- 🔖 [Obsessão](#obsessao)
 ---
 
 ##### #️⃣ Q.479 {#q479}
@@ -7021,8 +7034,8 @@ A prece é meio eficiente para a cura da obsessão?
 
 > ✨ ▸ A prece é em tudo um poderoso auxílio, mas crede que não basta que alguém murmure algumas palavras, para que obtenha o que deseja. Deus assiste os que obram, não os que se limitam a pedir. É, pois, indispensável que o obsidiado faça, por sua parte, o que se torne necessário para destruir em si mesmo a causa da atração dos maus Espíritos.
 
-🔖 [Obsessão](#obsessao)
-🔖 [Oração](#oracao)
+- 🔖 [Obsessão](#obsessao)
+- 🔖 [Oração](#oracao)
 ---
 
 ##### #️⃣ Q.480 {#q480}
@@ -7031,9 +7044,9 @@ Que se deve pensar da expulsão dos demônios, mencionada no Evangelho?
 
 > ✨ ▸ Depende da interpretação que se lhe dê. Se chamais *demônio* ao mau Espírito que subjugue um indivíduo, desde que se lhe destrua a influência, ele terá sido verdadeiramente expulso. Se ao demônio atribuirdes a causa de uma enfermidade, quando a houverdes curado direis com acerto que expulsastes o demônio. Uma coisa pode ser verdadeira ou falsa, conforme o sentido que empresteis às palavras. As maiores verdades estão sujeitas a parecer absurdos, uma vez que se atenda apenas à forma, ou que se considere como realidade a alegoria. Compreendei bem isto e não o esqueçais nunca, pois que se presta a uma aplicação geral.
 
-🔖 [Demônio](#demonio)
-🔖 [Evangelho](#evangelho)
-🔖 [Realidade](#realidade)
+- 🔖 [Demônio](#demonio)
+- 🔖 [Evangelho](#evangelho)
+- 🔖 [Realidade](#realidade)
 ---
 
 #### 2.09.04. 📄 Convulsionários {#lde-2-09-04}
@@ -7059,7 +7072,7 @@ Como é que sucede estender-se subitamente a toda uma população o estado anorm
 
 > 👴🏻 ▸ Entre as singulares faculdades que se notam nos convulsionários, algumas facilmente se reconhecem, de que numerosos exemplos oferecem o sonambulismo e o magnetismo, tais como, além de outras, a insensibilidade física, a leitura do pensamento, a transmissão das dores, por simpatia etc. Não há, pois, duvidar de que aqueles em quem tais crises se manifestam estejam numa espécie de sonambulismo desperto, provocado pela influência que exercem uns sobre os outros. Eles são ao mesmo tempo magnetizadores e magnetizados, inconscientemente.
 
-🔖 [Espíritos imperfeitos](#espiritos-imperfeitos)
+- 🔖 [Espíritos imperfeitos](#espiritos-imperfeitos)
 ---
 
 ##### #️⃣ Q.483 {#q483}
@@ -7072,10 +7085,10 @@ Qual a causa da insensibilidade física que se observa em alguns convulsionário
 > 
 > Visto que esses fenônemo dependem de uma causa física e da ação de certos Espíritos, lícito se torna perguntar como há podido uma autoridade pública fazê-los cessar em alguns casos. Simples a razão. Meramente secundária é aqui a ação dos Espíritos, que nada mais fazem do que aproveitar-se de uma disposição natural. A autoridade não suprimiu essa disposição, mas a causa que a entretinha e exaltava. De ativa que era, passou esta a ser latente. E a autoridade teve razão para assim proceder, porque do fato resultava abuso e escândalo. Sabe-se, ademais, que semelhante intervenção nenhum poder absolutamente tem, quando a ação dos Espíritos é direta e espontânea.
 
-🔖 [Autoridade](#autoridade)
-🔖 [Convulsionários](#convulsionarios)
-🔖 [Fanatismo](#fanatismo)
-🔖 [Sensibilidade](#sensibilidade)
+- 🔖 [Autoridade](#autoridade)
+- 🔖 [Convulsionários](#convulsionarios)
+- 🔖 [Fanatismo](#fanatismo)
+- 🔖 [Sensibilidade](#sensibilidade)
 ---
 
 #### 2.09.05. 📄 Afeição que os Espíritos votam a certas pessoas {#lde-2-09-05}
@@ -7093,9 +7106,9 @@ Os Espíritos se afeiçoam de preferência a certas pessoas?
 
 > ✨ ▸ A verdadeira afeição nada tem de carnal, mas quando um Espírito se apega a uma pessoa, nem sempre o faz só por afeição. À estima que essa pessoa lhe inspira pode agregar-se uma reminiscência das paixões humanas.
 
-🔖 [Afeição](#afeicao)
-🔖 [Amor](#amor)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Afeição](#afeicao)
+- 🔖 [Amor](#amor)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.486 {#q486}
@@ -7104,8 +7117,8 @@ Interessam-se os Espíritos pelas nossas desgraças e pela nossa prosperidade? A
 
 > ✨ ▸ Os bons Espíritos fazem todo o bem que lhes seja possível e se sentem ditosos com as vossas alegrias. Afligem-se com os vossos males, quando os não suportais com resignação, porque nenhum benefício então tirais deles, assemelhando-vos, em tais casos, ao doente que rejeita a beberagem amarga que o há de curar.
 
-🔖 [Benevolência](#benevolencia)
-🔖 [Espírito bom](#espirito-bom)
+- 🔖 [Benevolência](#benevolencia)
+- 🔖 [Espírito bom](#espirito-bom)
 ---
 
 ##### #️⃣ Q.487 {#q487}
@@ -7120,7 +7133,7 @@ Dentre os nossos males, de que natureza são os de que mais se afligem os Espír
 > 
 > Vendo nas amarguras da vida um meio de nos adiantarmos, os Espíritos as consideram como a crise ocasional de que resultará a salvação do doente. Compadecem-se dos nossos sofrimentos, como nos compadecemos dos de um amigo. Porém, enxergando as coisas de um ponto de vista mais justo, os apreciam de um modo diverso do nosso. Então, ao passo que os bons nos levantam o ânimo no interesse do nosso futuro, os outros nos impelem ao desespero, objetivando comprometer-nos.
 
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.488 {#q488}
@@ -7129,8 +7142,8 @@ Os parentes e amigos, que nos precederam na outra vida, maior simpatia nos votam
 
 > ✨ ▸ Sem dúvida e quase sempre vos protegem como Espíritos, de acordo com o poder de que dispõem.
 
-🔖 [Além-túmulo](#alem-tumulo)
-🔖 [Amizade](#amizade)
+- 🔖 [Além-túmulo](#alem-tumulo)
+- 🔖 [Amizade](#amizade)
 ---
 
 ##### #️⃣ Q.488.a {#q488a}
@@ -7139,7 +7152,7 @@ São sensíveis à afeição que lhes conservamos?
 
 > ✨ ▸ Muito sensíveis, mas esquecem-se dos que os olvidam.
 
-🔖 [Reconhecimento](#reconhecimento)
+- 🔖 [Reconhecimento](#reconhecimento)
 ---
 
 #### 2.09.06. 📄 Anjos da guarda. Espíritos protetores, familiares ou simpáticos {#lde-2-09-06}
@@ -7157,7 +7170,7 @@ Que se deve entender por anjo de guarda ou anjo guardião?
 
 > ✨ ▸ O Espírito protetor, pertencente a uma ordem elevada.
 
-🔖 [Anjo da guarda](#anjo-da-guarda)
+- 🔖 [Anjo da guarda](#anjo-da-guarda)
 ---
 
 ##### #️⃣ Q.491 {#q491}
@@ -7166,8 +7179,8 @@ Qual a missão do Espírito protetor?
 
 > ✨ ▸ A de um pai com relação aos filhos; a de guiar o seu protegido pela senda do bem, auxiliá-lo com seus conselhos, consolá-lo nas suas aflições, levantar-lhe o ânimo nas provas da vida.
 
-🔖 [Espírito protetor](#espirito-protetor)
-🔖 [Missão](#missao)
+- 🔖 [Espírito protetor](#espirito-protetor)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.492 {#q492}
@@ -7176,7 +7189,7 @@ O Espírito protetor se dedica ao indivíduo desde o seu nascimento?
 
 > ✨ ▸ Desde o nascimento até a morte e muitas vezes o acompanha na vida espírita, depois da morte, e mesmo através de muitas existências corpóreas, que mais não são do que fases curtíssimas da vida do Espírito.
 
-🔖 [Espírito protetor](#espirito-protetor)
+- 🔖 [Espírito protetor](#espirito-protetor)
 ---
 
 ##### #️⃣ Q.493 {#q493}
@@ -7185,8 +7198,8 @@ O Espírito protetor se dedica ao indivíduo desde o seu nascimento?
 
 > ✨ ▸ O Espírito fica obrigado a vos assistir, uma vez que aceitou esse encargo. Cabe-lhe, porém, o direito de escolher, para seus protegidos, seres que lhe sejam simpáticos. Para alguns, é um prazer; para outros, missão ou dever.
 
-🔖 [Espírito protetor](#espirito-protetor)
-🔖 [Missão](#missao)
+- 🔖 [Espírito protetor](#espirito-protetor)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.493.a {#q493a}
@@ -7195,8 +7208,8 @@ Dedicando-se a uma pessoa, renuncia o Espírito a proteger outros indivíduos?
 
 > ✨ ▸ Não, mas protege-os menos exclusivamente.
 
-🔖 [Benevolência](#benevolencia)
-🔖 [Espírito protetor](#espirito-protetor)
+- 🔖 [Benevolência](#benevolencia)
+- 🔖 [Espírito protetor](#espirito-protetor)
 ---
 
 ##### #️⃣ Q.494 {#q494}
@@ -7205,7 +7218,7 @@ O Espírito protetor fica fatalmente preso à criatura confiada à sua guarda?
 
 > ✨ ▸ Frequentemente sucede que alguns Espíritos deixam suas posições de protetores para desempenhar diversas missões, mas, nesse caso, outros os substituem.
 
-🔖 [Bem](#bem)
+- 🔖 [Bem](#bem)
 ---
 
 ##### #️⃣ Q.495 {#q495}
@@ -7226,17 +7239,17 @@ Poderá dar-se que o Espírito protetor abandone o seu protegido, por se lhe mos
 
 > 👴🏻 ▸ Nada tem de surpreendente a doutrina dos anjos guardiães, a velarem pelos seus protegidos, malgrado a distância que medeia entre os mundos. É, ao contrário, grandiosa e sublime. Não vemos na Terra o pai velar pelo filho, ainda que de muito longe, e auxiliá-lo com seus conselhos, correspondendo-se com ele? Que motivo de espanto haverá, então, em que os Espíritos possam, de um outro mundo, guiar os que, habitantes da Terra, eles tomaram sob sua proteção, uma vez que, para eles, a distância que vai de um mundo a outro é menor do que a que, neste planeta, separa os continentes? Não dispõem, além disso, do fluido universal, que entrelaça todos os mundos, tornando-os solidários; veículo imenso da transmissão dos pensamentos, como o ar é, para nós, o da transmissão do som?
 
-🔖 [Anjo da guarda](#anjo-da-guarda)
-🔖 [Assistência espiritual](#assistencia-espiritual)
-🔖 [Doutrina](#doutrina)
-🔖 [Espírito protetor](#espirito-protetor)
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Luís (São) e Agostinho (Santo)](#luis-sao-e-agostinho-santo)
-🔖 [Mundo espiritual](#mundo-espiritual)
-🔖 [Presença](#presenca)
-🔖 [Providência divina](#providencia-divina)
-🔖 [Relacionamento](#relacionamento)
-🔖 [Respeito](#respeito)
+- 🔖 [Anjo da guarda](#anjo-da-guarda)
+- 🔖 [Assistência espiritual](#assistencia-espiritual)
+- 🔖 [Doutrina](#doutrina)
+- 🔖 [Espírito protetor](#espirito-protetor)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Luís (São) e Agostinho (Santo)](#luis-sao-e-agostinho-santo)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Presença](#presenca)
+- 🔖 [Providência divina](#providencia-divina)
+- 🔖 [Relacionamento](#relacionamento)
+- 🔖 [Respeito](#respeito)
 ---
 
 ##### #️⃣ Q.496 {#q496}
@@ -7245,7 +7258,7 @@ O Espírito, que abandona o seu protegido, que deixa de lhe fazer bem, pode faze
 
 > ✨ ▸ Os bons Espíritos nunca fazem mal. Deixam que o façam aqueles que lhes tomam o lugar. Costumais então lançar à conta da sorte as desgraças que vos acabrunham, quando só as sofreis por culpa vossa.
 
-🔖 [Espírito bom](#espirito-bom)
+- 🔖 [Espírito bom](#espirito-bom)
 ---
 
 ##### #️⃣ Q.497 {#q497}
@@ -7254,7 +7267,7 @@ Pode um Espírito protetor deixar o seu protegido à mercê de outro Espírito q
 
 > ✨ ▸ Os maus Espíritos se unem para neutralizar a ação dos bons, mas, se o quiser, o protegido dará toda a força ao seu protetor. Pode acontecer que o bom Espírito encontre alhures uma boa vontade a ser auxiliada. Aplica-se então em auxiliá-la, aguardando que seu protegido lhe volte.
 
-🔖 [Espírito protetor](#espirito-protetor)
+- 🔖 [Espírito protetor](#espirito-protetor)
 ---
 
 ##### #️⃣ Q.498 {#q498}
@@ -7263,7 +7276,7 @@ Será por não poder lutar contra Espíritos malévolos que um Espírito proteto
 
 > ✨ ▸ Não é porque não possa, mas porque não quer. E não quer, porque das provas sai o seu protegido mais instruído e perfeito. Assiste-o sempre com seus conselhos, dando-os por meio dos bons pensamentos que lhe inspira, porém, que quase nunca são atendidos. A fraqueza, o descuido ou o orgulho do homem são exclusivamente o que empresta força aos maus Espíritos, cujo poder todo advém do fato de lhes não opordes resistência.
 
-🔖 [Provas](#provas)
+- 🔖 [Provas](#provas)
 ---
 
 ##### #️⃣ Q.499 {#q499}
@@ -7272,7 +7285,7 @@ O Espírito protetor está constantemente com o seu protegido? Não haverá algu
 
 > ✨ ▸ Há circunstâncias em que não é necessário esteja o Espírito protetor junto do seu protegido.
 
-🔖 [Espírito protetor](#espirito-protetor)
+- 🔖 [Espírito protetor](#espirito-protetor)
 ---
 
 ##### #️⃣ Q.500 {#q500}
@@ -7281,7 +7294,7 @@ Momentos haverá em que o Espírito deixe de precisar, de então por diante, do 
 
 > ✨ ▸ Sim, quando ele atinge o ponto de poder guiar-se a si mesmo, como sucede ao estudante, para o qual um momento chega em que não mais precisa de mestre. Isso, porém, não se dá na Terra.
 
-🔖 [Espírito protetor](#espirito-protetor)
+- 🔖 [Espírito protetor](#espirito-protetor)
 ---
 
 ##### #️⃣ Q.501 {#q501}
@@ -7290,8 +7303,8 @@ Por que é oculta a ação dos Espíritos sobre a nossa existência e por que, q
 
 > ✨ ▸ Se vos fosse dado contar sempre com a ação deles, não obraríeis por vós mesmos e o vosso Espírito não progrediria. Para que este possa adiantar-se, precisa de experiência, adquirindo-a frequentemente à sua custa. É necessário que exercite suas forças, sem o que, seria como a criança a quem não consentem que ande sozinha. A ação dos Espíritos que vos querem bem é sempre regulada de maneira que não vos tolha o livre-arbítrio, porquanto, se não tivésseis responsabilidade, não avançaríeis na senda que vos há de conduzir a Deus. Não vendo quem o ampara, o homem se confia às suas próprias forças. Sobre ele, entretanto, vela o seu guia e, de tempos a tempos, lhe brada, advertindo-o do perigo.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Progresso](#progresso)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Progresso](#progresso)
 ---
 
 ##### #️⃣ Q.502 {#q502}
@@ -7300,7 +7313,7 @@ O Espírito protetor, que consegue trazer ao bom caminho o seu protegido, lucra 
 
 > ✨ ▸ Constitui isso um mérito que lhe é levado em conta, seja para seu progresso, seja para sua felicidade. Sente-se ditoso quando vê bem-sucedidos os seus esforços, o que representa, para ele, um triunfo, como triunfo é, para um preceptor, os bons êxitos do seu educando.
 
-🔖 [Evolução](#evolucao)
+- 🔖 [Evolução](#evolucao)
 ---
 
 ##### #️⃣ Q.502.a {#q502a}
@@ -7309,7 +7322,7 @@ O Espírito protetor, que consegue trazer ao bom caminho o seu protegido, lucra 
 
 > ✨ ▸ Não, pois que fez o que de si dependia.
 
-🔖 [Responsabilidade](#responsabilidade)
+- 🔖 [Responsabilidade](#responsabilidade)
 ---
 
 ##### #️⃣ Q.503 {#q503}
@@ -7318,7 +7331,7 @@ Sofre o Espírito protetor quando vê que seu protegido segue mau caminho, não 
 
 > ✨ ▸ Compungem-no os erros do seu protegido, a quem lastima. Tal aflição, porém, não tem analogia com as angústias da paternidade terrena, porque ele sabe que há remédio para o mal e que o que não se faz hoje, amanhã se fará.
 
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.504 {#q504}
@@ -7327,7 +7340,7 @@ Poderemos sempre saber o nome do Espírito nosso protetor ou anjo de guarda?
 
 > ✨ ▸ Como quereis saber nomes para vós inexistentes? Supondes que Espíritos só há os que conheceis?
 
-🔖 [Anjo da guarda](#anjo-da-guarda)
+- 🔖 [Anjo da guarda](#anjo-da-guarda)
 ---
 
 ##### #️⃣ Q.504.a {#q504a}
@@ -7336,7 +7349,7 @@ Como então o podemos invocar, se o não conhecemos?
 
 > ✨ ▸ Dai-lhe o nome que quiserdes, o de Espírito superior que vos inspire simpatia ou veneração. O vosso protetor acudirá ao apelo que com esse nome lhe dirigirdes, visto que todos os bons Espíritos são irmãos e se assistem mutuamente.
 
-🔖 [Identidade](#identidade)
+- 🔖 [Identidade](#identidade)
 ---
 
 ##### #️⃣ Q.505 {#q505}
@@ -7345,8 +7358,8 @@ Os protetores, que dão nomes conhecidos, sempre são, realmente, os Espíritos 
 
 > ✨ ▸ Não. Muitas vezes, os que os dão são Espíritos simpáticos aos que tais nomes usaram na Terra e, a mando destes, respondem ao vosso chamamento. Fazeis questão de nomes; eles tomam um que vos inspire confiança. Quando não podeis desempenhar pessoalmente determinada missão, não costumais mandar outro, por quem respondeis como por vós mesmos, obre em vosso nome?
 
-🔖 [Identidade](#identidade)
-🔖 [Personalidade](#personalidade)
+- 🔖 [Identidade](#identidade)
+- 🔖 [Personalidade](#personalidade)
 ---
 
 ##### #️⃣ Q.506 {#q506}
@@ -7355,7 +7368,7 @@ Na vida espírita, reconheceremos o Espírito nosso protetor?
 
 > ✨ ▸ Decerto, pois não é raro que o tenhais conhecido antes de encarnardes.
 
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 ##### #️⃣ Q.507 {#q507}
@@ -7364,7 +7377,7 @@ Pertencem todos os Espíritos protetores à classe dos Espíritos elevados? Pode
 
 > ✨ ▸ Pode, mas a proteção pressupõe certo grau de elevação e um poder ou uma virtude a mais, concedidos por Deus. O pai, que protege seu filho, também pode ser assistido por um Espírito mais elevado.
 
-🔖 [Providência divina](#providencia-divina)
+- 🔖 [Providência divina](#providencia-divina)
 ---
 
 ##### #️⃣ Q.508 {#q508}
@@ -7373,8 +7386,8 @@ Os Espíritos que se achavam em boas condições ao deixarem a Terra, sempre pod
 
 > ✨ ▸ Mais ou menos restrito é o poder de que desfrutam. A situação em que se encontram nem sempre lhes permite inteira liberdade de ação.
 
-🔖 [Desencarnado](#desencarnado)
-🔖 [Entes queridos](#entes-queridos)
+- 🔖 [Desencarnado](#desencarnado)
+- 🔖 [Entes queridos](#entes-queridos)
 ---
 
 ##### #️⃣ Q.509 {#q509}
@@ -7383,8 +7396,8 @@ Quando em estado de selvageria ou de inferioridade moral, têm os homens, igualm
 
 > ✨ ▸ Todo homem tem um Espírito que por ele vela, mas as missões são relativas ao fim que visam. Não dais a uma criança, que está aprendendo a ler, um professor de filosofia. O progresso do Espírito familiar guarda relação com o do Espírito protegido. Tendo um Espírito que vela por vós, podeis tornar-vos, a vosso turno, o protetor de outro que vos seja inferior e os progressos que este realize, com o auxílio que lhe dispensardes, contribuirão para o vosso adiantamento. Deus não exige do Espírito mais do que comportem a sua natureza e o grau de elevação a que já chegou.
 
-🔖 [Espírito protetor](#espirito-protetor)
-🔖 [Progresso](#progresso)
+- 🔖 [Espírito protetor](#espirito-protetor)
+- 🔖 [Progresso](#progresso)
 ---
 
 ##### #️⃣ Q.510 {#q510}
@@ -7395,8 +7408,8 @@ Quando o pai, que vela pelo filho, reencarna, continua a velar por ele?
 > 
 > Encarnado, mormente em mundo onde a existência é material, o Espírito se acha muito sujeito ao corpo para poder dedicar-se inteiramente a outro Espírito, isto é, para poder assisti-lo pessoalmente. Tanto assim que os que ainda se não elevaram bastante são também assistidos por outros, que lhes estão acima, de tal sorte que, se por qualquer circunstância um vem a faltar, outro lhe supre a falta.
 
-🔖 [Filho](#filho)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Filho](#filho)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.511 {#q511}
@@ -7405,8 +7418,8 @@ A cada indivíduo achar-se-á ligado, além do Espírito protetor, um mau Espír
 
 > ✨ ▸ Ligado, não é o termo. É certo que os maus Espíritos procuram desviar do bom caminho o homem, quando se lhes depara ocasião. Sempre, porém, que um deles se liga a um indivíduo, fá-lo por si mesmo, porque conta ser atendido. Há então luta entre o bom e o mau, vencendo aquele por quem o homem se deixe influenciar.
 
-🔖 [Bem](#bem)
-🔖 [Mal](#mal)
+- 🔖 [Bem](#bem)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.512 {#q512}
@@ -7415,7 +7428,7 @@ Podemos ter muitos Espíritos protetores?
 
 > ✨ ▸ Todo homem conta sempre Espíritos, mais ou menos elevados, que com ele simpatizam, que lhe dedicam afeto e por ele se interessam, como também tem junto de si outros que o assistem no mal.
 
-🔖 [Assistência espiritual](#assistencia-espiritual)
+- 🔖 [Assistência espiritual](#assistencia-espiritual)
 ---
 
 ##### #️⃣ Q.513 {#q513}
@@ -7424,7 +7437,7 @@ Os Espíritos que conosco simpatizam atuam em cumprimento de missão?
 
 > ✨ ▸ Não raro, desempenham missão temporária; porém, as mais das vezes, são apenas atraídos pela identidade de pensamentos e sentimentos, assim para o bem como para o mal.
 
-🔖 [Pensamento](#pensamento)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 ##### #️⃣ Q.513.a {#q513a}
@@ -7450,11 +7463,11 @@ Os Espíritos familiares são os mesmos a quem chamamos Espíritos simpáticos o
 > 
 > O mau gênio é um Espírito imperfeito ou perverso, que se liga ao homem para desviá-lo do bem. Obra, porém, por impulso próprio e não no desempenho de missão. A tenacidade da sua ação está em relação direta com a maior ou menor facilidade de acesso que encontre por parte do homem, que goza sempre da liberdade de escutar-lhe a voz ou de lhe cerrar os ouvidos.
 
-🔖 [Anjo da guarda](#anjo-da-guarda)
-🔖 [Assistência espiritual](#assistencia-espiritual)
-🔖 [Espírito familiar](#espirito-familiar)
-🔖 [Espírito imperfeito](#espirito-imperfeito)
-🔖 [Espírito simpático](#espirito-simpatico)
+- 🔖 [Anjo da guarda](#anjo-da-guarda)
+- 🔖 [Assistência espiritual](#assistencia-espiritual)
+- 🔖 [Espírito familiar](#espirito-familiar)
+- 🔖 [Espírito imperfeito](#espirito-imperfeito)
+- 🔖 [Espírito simpático](#espirito-simpatico)
 ---
 
 ##### #️⃣ Q.515 {#q515}
@@ -7463,8 +7476,8 @@ Que se há de pensar dessas pessoas que se ligam a certos indivíduos para levá
 
 > ✨ ▸ Efetivamente, certas pessoas exercem sobre outras uma espécie de fascinação que parece irresistível. Quando isso se dá no sentido do mal, são maus Espíritos, de que outros Espíritos também maus se servem para subjugá-las. Deus permite que tal coisa ocorra para vos experimentar.
 
-🔖 [Espírito mau](#espirito-mau)
-🔖 [Provas](#provas)
+- 🔖 [Espírito mau](#espirito-mau)
+- 🔖 [Provas](#provas)
 ---
 
 ##### #️⃣ Q.516 {#q516}
@@ -7473,7 +7486,7 @@ Poderiam os nossos bom e mau gênios encarnar, a fim de mais de perto nos acompa
 
 > ✨ ▸ Isso às vezes se dá, porém, o que mais frequentemente se verifica é encarregarem dessa missão outros Espíritos encarnados que lhes são simpáticos.
 
-🔖 [Vida corpórea](#vida-corporea)
+- 🔖 [Vida corpórea](#vida-corporea)
 ---
 
 ##### #️⃣ Q.517 {#q517}
@@ -7482,8 +7495,8 @@ Haverá Espíritos que se liguem a uma família inteira para protegê-la? [^14]
 
 > ✨ ▸ Alguns Espíritos se ligam aos membros de uma determinada família, que vivem juntos e unidos pela afeição; mas não acrediteis em Espíritos protetores do orgulho das raças.
 
-🔖 [Assistência espiritual](#assistencia-espiritual)
-🔖 [Família](#familia)
+- 🔖 [Assistência espiritual](#assistencia-espiritual)
+- 🔖 [Família](#familia)
 ---
 
 ##### #️⃣ Q.518 {#q518}
@@ -7492,7 +7505,7 @@ Assim como são atraídos, pela simpatia, para certos indivíduos, são-no igual
 
 > ✨ ▸ Os Espíritos preferem estar no meio dos que se lhes assemelham. Acham-se aí mais à vontade e mais certos de serem ouvidos. É pelas suas tendências que o homem atrai os Espíritos e isso quer esteja só, quer faça parte de um todo coletivo, como uma sociedade, uma cidade ou um povo. Portanto, as sociedades, as cidades e os povos são, de acordo com as paixões e o caráter neles predominantes, assistidos por Espíritos mais ou menos elevados. Os Espíritos imperfeitos se afastam dos que os repelem. Segue-se que o aperfeiçoamento moral das *coletividades*, como o dos indivíduos, tende a afastar os maus Espíritos e a atrair os bons, que estimulam e alimentam nelas o sentimento do bem, como outros lhes podem insuflar as paixões grosseiras.
 
-🔖 [Espíritos simpáticos](#espiritos-simpaticos)
+- 🔖 [Espíritos simpáticos](#espiritos-simpaticos)
 ---
 
 ##### #️⃣ Q.519 {#q519}
@@ -7501,7 +7514,7 @@ As aglomerações de indivíduos, como as sociedades, as cidades, as nações, t
 
 > ✨ ▸ Têm, pela razão de que esses agregados são individualidades coletivas que, caminhando para um objetivo comum, precisam de uma direção superior.
 
-🔖 [Dirigente](#dirigente)
+- 🔖 [Dirigente](#dirigente)
 ---
 
 ##### #️⃣ Q.520 {#q520}
@@ -7510,7 +7523,7 @@ Os Espíritos protetores das coletividades são de natureza mais elevada do que 
 
 > ✨ ▸ Tudo é relativo ao grau de adiantamento, quer se trate de coletividades, quer de indivíduos.
 
-🔖 [Espíritos protetores](#espiritos-protetores)
+- 🔖 [Espíritos protetores](#espiritos-protetores)
 ---
 
 ##### #️⃣ Q.521 {#q521}
@@ -7525,12 +7538,12 @@ Podem certos Espíritos auxiliar o progresso das artes, protegendo os que às ar
 > 
 > Nos povos, determinam a atração dos Espíritos os costumes, os hábitos, o caráter dominante e sobretudo as leis, porque o caráter de uma nação se reflete nas suas leis. Fazendo reinar em seu seio a justiça, os homens combatem a influência dos maus Espíritos. Onde quer que as leis consagrem coisas injustas, contrárias à Humanidade, os bons Espíritos ficam em minoria e a multidão que aflui dos maus mantém a nação aferrada às suas ideias e paralisa as boas influências parciais, que ficam perdidas no conjunto, como insuladas espigas entre espinheiros. Estudando-se os costumes dos povos ou de qualquer reunião de homens, facilmente se forma ideia da população oculta que se lhes imiscui no modo de pensar e nos atos.
 
-🔖 [Afinidade](#afinidade)
-🔖 [Arte](#arte)
-🔖 [Assistência espiritual](#assistencia-espiritual)
-🔖 [Espíritos protetores](#espiritos-protetores)
-🔖 [Nação](#nacao)
-🔖 [Povos](#povos)
+- 🔖 [Afinidade](#afinidade)
+- 🔖 [Arte](#arte)
+- 🔖 [Assistência espiritual](#assistencia-espiritual)
+- 🔖 [Espíritos protetores](#espiritos-protetores)
+- 🔖 [Nação](#nacao)
+- 🔖 [Povos](#povos)
 ---
 
 #### 2.09.07. 📄 Pressentimentos {#lde-2-09-07}
@@ -7550,7 +7563,7 @@ Acontecendo que os pressentimentos e a voz do instinto são sempre algum tanto v
 
 > ✨ ▸ Quando te achares na incerteza, invoca o teu bom Espírito, ou *ora a Deus, soberano senhor de todos, e Ele te enviará um de seus mensageiros, um de nós*.
 
-🔖 [Oração](#oracao)
+- 🔖 [Oração](#oracao)
 ---
 
 ##### #️⃣ Q.524 {#q524}
@@ -7561,8 +7574,8 @@ Os avisos dos Espíritos protetores objetivam unicamente o nosso procedimento mo
 
 > 👴🏻 ▸ Os Espíritos protetores nos ajudam com seus conselhos, mediante a voz da consciência, que fazem ressoar em nosso íntimo. Como, porém, nem sempre ligamos a isso a devida importância, outros conselhos mais diretos eles nos dão, servindo-se das pessoas que nos cercam. Examine cada um as diversas circunstâncias felizes ou infelizes de sua vida e verá que em muitas ocasiões recebeu conselhos de que se não aproveitou e que lhe teriam poupado muitos desgostos, se os houvera escutado.
 
-🔖 [Conselho](#conselho)
-🔖 [Espírito protetor](#espirito-protetor)
+- 🔖 [Conselho](#conselho)
+- 🔖 [Espírito protetor](#espirito-protetor)
 ---
 
 #### 2.09.08. 📄 Influência dos Espíritos nos acontecimentos da vida {#lde-2-09-08}
@@ -7584,8 +7597,8 @@ Exercem essa influência por outra forma que não apenas pelos pensamentos que s
 
 > 👴🏻 ▸ Imaginamos erradamente que aos Espíritos só caiba manifestar sua ação por fenônemo extraordinários. Quiséramos que nos viessem auxiliar por meio de milagres e os figuramos sempre armados de uma varinha mágica. Por não ser assim é que oculta nos parece a intervenção que têm nas coisas deste mundo e muito natural o que se executa com o concurso deles. Assim é que, provocando, por exemplo, o encontro de duas pessoas, que suporão encontrar-se por acaso; inspirando a alguém a ideia de passar por determinado lugar; chamando-lhe a atenção para certo ponto, se disso resulta o que tenham em vista, eles obram de tal maneira que o homem, crente de que obedece a um impulso próprio, conserva sempre o seu livre-arbítrio.
 
-🔖 [Influenciação](#influenciacao)
-🔖 [Pensamento](#pensamento)
+- 🔖 [Influenciação](#influenciacao)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 ##### #️⃣ Q.526 {#q526}
@@ -7596,8 +7609,8 @@ Tendo, como têm, ação sobre a matéria, podem os Espíritos provocar certos e
 
 ↩️ Voltar para [Q.855](#q855)
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.527 {#q527}
@@ -7606,7 +7619,7 @@ Tomemos outro exemplo, em que não entre a matéria em seu estado natural. Um ho
 
 > ✨ ▸ Dá-se o mesmo que anteriormente. O raio caiu sobre aquela árvore em tal momento, porque estava nas Leis da Natureza que assim acontecesse. Não foi encaminhado para a árvore, por se achar debaixo dela o homem. A este, sim, foi inspirada a ideia de se abrigar debaixo de uma árvore sobre a qual cairia o raio, porquanto a árvore não deixaria de ser atingida, só por não lhe estar debaixo da fronde o homem.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.528 {#q528}
@@ -7615,7 +7628,7 @@ No caso de uma pessoa mal-intencionada disparar sobre outra um projetil que apen
 
 > ✨ ▸ Se o indivíduo alvejado não tem que perecer desse modo, o Espírito bondoso lhe inspirará a ideia de se desviar, ou então poderá ofuscar o que empunha a arma, de sorte a fazê-lo apontar mal, porquanto, uma vez disparada a arma, o projetil segue a linha que tem de percorrer.
 
-🔖 [Encarnado](#encarnado)
+- 🔖 [Encarnado](#encarnado)
 ---
 
 ##### #️⃣ Q.529 {#q529}
@@ -7624,7 +7637,7 @@ Que se deve pensar das balas encantadas, de que falam algumas lendas e que fatal
 
 > ✨ ▸ Pura imaginação. O homem gosta do maravilhoso e não se contenta com as maravilhas da Natureza.
 
-🔖 [Imaginação](#imaginacao)
+- 🔖 [Imaginação](#imaginacao)
 ---
 
 ##### #️⃣ Q.529.a {#q529a}
@@ -7633,7 +7646,7 @@ Podem os Espíritos que dirigem os acontecimentos terrenos ter obstada sua açã
 
 > ✨ ▸ O que Deus quer se executa. Se houver demora na execução, ou lhe surjam obstáculos, é porque Ele assim o quis.
 
-🔖 [Terra](#terra)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.530 {#q530}
@@ -7642,7 +7655,7 @@ Não podem os Espíritos levianos e zombeteiros criar pequenos embaraços à rea
 
 > ✨ ▸ Eles se comprazem em vos causar aborrecimentos que representam para vós provas destinadas a exercitar a vossa paciência. Cansam-se, porém, quando veem que nada conseguem. Entretanto, não seria justo, nem acertado, imputar-lhes todas as decepções que experimentais e de que sois os principais culpados pela vossa irreflexão. Fica certo de que, se a tua louça se quebra, é mais por desazo teu do que por culpa dos Espíritos.
 
-🔖 [Espírito leviano](#espirito-leviano)
+- 🔖 [Espírito leviano](#espirito-leviano)
 ---
 
 ##### #️⃣ Q.530.a {#q530a}
@@ -7651,7 +7664,7 @@ Destes, os que provocam contrariedades obram impelidos por animosidade pessoal, 
 
 > ✨ ▸ Por uma e outra coisa. Às vezes os que assim vos molestam são inimigos que granjeastes nesta ou em precedente existência. Doutras vezes, nenhum motivo há.
 
-🔖 [Vidas passadas](#vidas-passadas)
+- 🔖 [Vidas passadas](#vidas-passadas)
 ---
 
 ##### #️⃣ Q.531 {#q531}
@@ -7660,8 +7673,8 @@ Extingue-se-lhes com a vida corpórea a malevolência dos seres que nos fizeram 
 
 > ✨ ▸ Muitas vezes reconhecem a injustiça com que procederam e o mal que causaram, mas, também, não é raro que continuem a perseguir-vos, cheios de animosidade, se Deus o permitir, por ainda vos experimentar.
 
-🔖 [Mundo espiritual](#mundo-espiritual)
-🔖 [Plano físico](#plano-fisico)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Plano físico](#plano-fisico)
 ---
 
 ##### #️⃣ Q.531.a {#q531a}
@@ -7672,8 +7685,8 @@ Pode-se pôr termo a isso? Por que meio?
 
 > 👴🏻 ▸ A experiência demonstra que alguns Espíritos continuam em outra existência a exercer as vinganças que vinham tomando e que assim, cedo ou tarde, o homem paga o mal que tenha feito a outrem.
 
-🔖 [Oração](#oracao)
-🔖 [Vingança](#vinganca)
+- 🔖 [Oração](#oracao)
+- 🔖 [Vingança](#vinganca)
 ---
 
 ##### #️⃣ Q.532 {#q532}
@@ -7688,8 +7701,8 @@ Têm os Espíritos o poder de afastar de certas pessoas os males e de favorecê-
 
 ↩️ Voltar para [Q.855](#q855)
 
-🔖 [Conhecimento](#conhecimento)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Conhecimento](#conhecimento)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.533 {#q533}
@@ -7698,7 +7711,7 @@ Podem os Espíritos fazer que obtenham riquezas os que lhes pedem que assim acon
 
 > ✨ ▸ Algumas vezes, como prova. Quase sempre, porém, recusam, como se recusa à criança a satisfação de um pedido inconsiderado.
 
-🔖 [Riqueza](#riqueza)
+- 🔖 [Riqueza](#riqueza)
 ---
 
 ##### #️⃣ Q.533.a {#q533a}
@@ -7707,7 +7720,7 @@ São os bons ou os maus Espíritos que concedem esses favores?
 
 > ✨ ▸ Uns e outros. Depende da intenção. As mais das vezes, entretanto, os que os concedem são os Espíritos que vos querem arrastar para o mal e que encontram meio fácil de o conseguirem, facilitando-vos os gozos que a riqueza proporciona.
 
-🔖 [Mal](#mal)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.534 {#q534}
@@ -7718,7 +7731,7 @@ Será por influência de algum Espírito que, fatalmente, a realização dos nos
 
 ↩️ Voltar para [Q.707](#q707)
 
-🔖 [Indivíduo](#individuo)
+- 🔖 [Indivíduo](#individuo)
 ---
 
 ##### #️⃣ Q.535 {#q535}
@@ -7727,8 +7740,8 @@ Quando algo de venturoso nos sucede é ao Espírito nosso protetor que devemos a
 
 > ✨ ▸ Agradecei primeiramente a Deus, sem cuja permissão nada se faz; depois, aos bons Espíritos que foram os agentes da sua vontade.
 
-🔖 [Agradecimento](#agradecimento)
-🔖 [Providência divina](#providencia-divina)
+- 🔖 [Agradecimento](#agradecimento)
+- 🔖 [Providência divina](#providencia-divina)
 ---
 
 ##### #️⃣ Q.535.a {#q535a}
@@ -7737,7 +7750,7 @@ Que sucederia se nos esquecêssemos de agradecer?
 
 > ✨ ▸ O que sucede aos ingratos.
 
-🔖 [Ingratidão](#ingratidao)
+- 🔖 [Ingratidão](#ingratidao)
 ---
 
 ##### #️⃣ Q.535.b {#q535b}
@@ -7746,8 +7759,8 @@ No entanto, pessoas há que não pedem nem agradecem e às quais tudo sai bem!
 
 > ✨ ▸ Assim é, de fato, mas importa ver o fim. Pagarão bem caro essa felicidade de que não são merecedoras, pois quanto mais houverem recebido, tanto maiores contas terão que prestar.
 
-🔖 [Conhecimento](#conhecimento)
-🔖 [Responsabilidade](#responsabilidade)
+- 🔖 [Conhecimento](#conhecimento)
+- 🔖 [Responsabilidade](#responsabilidade)
 ---
 
 #### 2.09.09. 📄 Ação dos Espíritos nos fenômenos da Natureza {#lde-2-09-09}
@@ -7765,7 +7778,7 @@ Objetivam sempre o homem esses fenômenos?
 
 > ✨ ▸ Às vezes têm, como imediata razão de ser, o homem. Na maioria dos casos, entretanto, têm por único motivo o restabelecimento do equilíbrio e da harmonia das forças físicas da Natureza.
 
-🔖 [Natureza](#natureza)
+- 🔖 [Natureza](#natureza)
 ---
 
 ##### #️⃣ Q.536.b {#q536b}
@@ -7774,7 +7787,7 @@ Concebemos perfeitamente que a vontade de Deus seja a causa primária, nisto com
 
 > ✨ ▸ Evidentemente. Nem poderia ser de outro modo. Deus não exerce ação direta sobre a matéria. Ele encontra agentes dedicados em todos os graus da escala dos mundos.
 
-🔖 [Fenômenos](#fenomenos)
+- 🔖 [Fenômenos](#fenomenos)
 ---
 
 ##### #️⃣ Q.537 {#q537}
@@ -7783,7 +7796,7 @@ A mitologia dos antigos se fundava inteiramente em ideias espíritas, com a úni
 
 > ✨ ▸ Tão pouco destituída é de fundamento, que ainda está muito aquém da verdade.
 
-🔖 [Mitologia](#mitologia)
+- 🔖 [Mitologia](#mitologia)
 ---
 
 ##### #️⃣ Q.537.a {#q537a}
@@ -7792,7 +7805,7 @@ Poderá então haver Espíritos que habitem o interior da Terra e presidam aos f
 
 > ✨ ▸ Tais Espíritos não habitam positivamente a Terra. Presidem aos fenônemo e os dirigem de acordo com as atribuições que têm. Dia virá em que recebereis a explicação de todos esses fenônemo e os compreendereis melhor.
 
-🔖 [Terra](#terra)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.538 {#q538}
@@ -7801,7 +7814,7 @@ Formam categoria especial no mundo espírita os Espíritos que presidem aos fen�
 
 > ✨ ▸ Que foram ou que o serão.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.538.a {#q538a}
@@ -7810,8 +7823,8 @@ Pertencem esses Espíritos às ordens superiores ou às inferiores da hierarquia
 
 > ✨ ▸ Isso é conforme seja mais ou menos material, mais ou menos inteligente o papel que desempenhem. Uns mandam, outros executam. Os que executam coisas materiais são sempre de ordem inferior, assim entre os Espíritos, como entre os homens.
 
-🔖 [Escala](#escala)
-🔖 [Hierarquia](#hierarquia)
+- 🔖 [Escala](#escala)
+- 🔖 [Hierarquia](#hierarquia)
 ---
 
 ##### #️⃣ Q.539 {#q539}
@@ -7820,7 +7833,7 @@ A produção de certos fenômenos, das tempestades, por exemplo, é obra de um s
 
 > ✨ ▸ Reúnem-se em massas inumeráveis.
 
-🔖 [Fenômenos](#fenomenos)
+- 🔖 [Fenômenos](#fenomenos)
 ---
 
 ##### #️⃣ Q.540 {#q540}
@@ -7831,8 +7844,8 @@ Os Espíritos que exercem ação nos fenônemo da Natureza operam com conhecimen
 
 ↩️ Voltar para [Q.559](#q559)
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
 ---
 
 #### 2.09.10. 📄 Os Espíritos durante os combates {#lde-2-09-10}
@@ -7852,7 +7865,7 @@ Estando, numa guerra, a justiça sempre de um dos lados, como pode haver Espíri
 
 > ✨ ▸ Bem sabeis haver Espíritos que só se comprazem na discórdia e na destruição. Para esses, a guerra é a guerra. A justiça da causa pouco os preocupa.
 
-🔖 [Guerra](#guerra)
+- 🔖 [Guerra](#guerra)
 ---
 
 ##### #️⃣ Q.543 {#q543}
@@ -7861,7 +7874,7 @@ Podem alguns Espíritos influenciar o general na concepção de seus planos de c
 
 > ✨ ▸ Sem dúvida alguma. Podem influenciá-lo nesse sentido, como com relação a todas as concepções.
 
-🔖 [Influenciação](#influenciacao)
+- 🔖 [Influenciação](#influenciacao)
 ---
 
 ##### #️⃣ Q.544 {#q544}
@@ -7870,8 +7883,8 @@ Poderiam maus Espíritos suscitar-lhe planos errôneos com o fim de levá-lo à 
 
 > ✨ ▸ Podem, mas não tem ele o livre-arbítrio? Se não tiver critério bastante para distinguir uma ideia falsa, sofrerá as consequências e melhor faria se obedecesse, em vez de comandar.
 
-🔖 [Decisão](#decisao)
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Decisão](#decisao)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.545 {#q545}
@@ -7880,8 +7893,8 @@ Pode, alguma vez, o general ser guiado por uma espécie de dupla vista, por uma 
 
 > ✨ ▸ Isso se dá amiúde com o homem de gênio. É o que ele chama inspiração e o que faz que obre com uma espécie de certeza. Essa inspiração lhe vem dos Espíritos que o dirigem, os quais se aproveitam das faculdades de que o veem dotado.
 
-🔖 [Influenciação](#influenciacao)
-🔖 [Inspiração](#inspiracao)
+- 🔖 [Influenciação](#influenciacao)
+- 🔖 [Inspiração](#inspiracao)
 ---
 
 ##### #️⃣ Q.546 {#q546}
@@ -7892,8 +7905,8 @@ No tumulto dos combates, que se passa com os Espíritos dos que sucumbem? Contin
 
 > 👴🏻 ▸ Dá-se, nos combates, o que ocorre em todos os casos de morte violenta: no primeiro momento, o Espírito fica surpreendido e como que atordoado. Julga não estar morto. Parece-lhe que ainda toma parte na ação. Só pouco a pouco a realidade lhe surge.
 
-🔖 [Combates](#combates)
-🔖 [Morte](#morte)
+- 🔖 [Combates](#combates)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.547 {#q547}
@@ -7902,7 +7915,7 @@ Após a morte, os Espíritos, que como vivos se guerreavam, continuam a consider
 
 > ✨ ▸ Nessas ocasiões, o Espírito nunca está calmo. Pode acontecer que nos primeiros instantes depois da morte ainda odeie o seu inimigo e mesmo o persiga. Quando, porém, se lhe restabelece a serenidade nas ideias, vê que nenhum fundamento há mais para sua animosidade. Contudo, não é impossível que dela guarde vestígios mais ou menos fortes, conforme o seu caráter.
 
-🔖 [Ódio](#odio)
+- 🔖 [Ódio](#odio)
 ---
 
 ##### #️⃣ Q.547.a {#q547a}
@@ -7911,8 +7924,8 @@ Continua a ouvir o rumor da batalha?
 
 > ✨ ▸ Perfeitamente.
 
-🔖 [Desencarnado](#desencarnado)
-🔖 [Percepção](#percepcao)
+- 🔖 [Desencarnado](#desencarnado)
+- 🔖 [Percepção](#percepcao)
 ---
 
 ##### #️⃣ Q.548 {#q548}
@@ -7921,7 +7934,7 @@ O Espírito que, como espectador, assiste calmamente a um combate observa o ato 
 
 > ✨ ▸ Raras são as mortes verdadeiramente instantâneas. Na maioria dos casos, o Espírito, cujo corpo acaba de ser mortalmente ferido, não tem consciência imediata desse fato. Somente quando ele começa a reconhecer a nova condição em que se acha, é que os assistentes podem distingui-lo, a mover-se ao lado do cadáver. Parece isso tão natural, que nenhum efeito desagradável lhe causa a vista do corpo morto. Tendo-se a vida toda concentrado no Espírito, só ele prende a atenção dos outros. É com ele que estes conversam, ou a ele é que fazem determinações.
 
-🔖 [Morte](#morte)
+- 🔖 [Morte](#morte)
 ---
 
 #### 2.09.11. 📄 Pactos {#lde-2-09-11}
@@ -7934,7 +7947,7 @@ Algo de verdade haverá nos pactos com os maus Espíritos?
 
 > 👴🏻 ▸ O fato de o homem ficar, às vezes, na dependência dos Espíritos inferiores nasce de se entregar aos maus pensamentos que estes lhe sugerem e não de estipulações quaisquer que com eles faça. O pacto, no sentido vulgar do termo, é uma alegoria representativa da simpatia existente entre um indivíduo de natureza má e Espíritos malfazejos.
 
-🔖 [Pactos](#pactos)
+- 🔖 [Pactos](#pactos)
 ---
 
 ##### #️⃣ Q.550 {#q550}
@@ -7943,7 +7956,7 @@ Qual o sentido das lendas fantásticas em que figuram indivíduos que teriam ven
 
 > ✨ ▸ Todas as fábulas encerram um ensinamento e um sentido moral. O vosso erro consiste em tomá-las ao pé da letra. Isso a que te referes é uma alegoria, que se pode explicar desta maneira: aquele que chama em seu auxílio os Espíritos, para deles obter riquezas, ou qualquer outro favor, rebela-se contra a Providência; renuncia à missão que recebeu e às provas que lhe cumpre suportar neste mundo. Sofrerá na vida futura as consequências desse ato. Não quer isto dizer que sua alma fique para sempre condenada à desgraça, mas, desde que, em lugar de se desprender da matéria, nela cada vez se enterra mais, não terá, no mundo dos Espíritos, a satisfação de que haja gozado na Terra, até que tenha resgatado a sua falta, por meio de novas provas, talvez maiores e mais penosas. Coloca-se, por amor dos gozos materiais, na dependência dos Espíritos impuros. Estabelece-se assim, tacitamente, entre estes e ele, o Espírito delinquente, um pacto que o leva à sua perda, mas que lhe será sempre fácil romper, se o quiser firmemente, granjeando a assistência dos bons Espíritos.
 
-🔖 [Satanás](#satanas)
+- 🔖 [Satanás](#satanas)
 ---
 
 #### 2.09.12. 📄 Poder oculto. Talismãs. Feiticeiros {#lde-2-09-12}
@@ -7961,7 +7974,7 @@ Que se deve pensar da crença no poder, que certas pessoas teriam, de enfeitiça
 
 > ✨ ▸ Algumas pessoas dispõem de grande força magnética, de que podem fazer mau uso, se maus forem seus próprios Espíritos, caso em que possível se torna serem secundados por outros Espíritos maus. Não creias, porém, num pretenso poder mágico, que só existe na imaginação de criaturas supersticiosas, ignorantes das verdadeiras Leis da Natureza. Os fatos que citam, como prova da existência desse poder, são fatos naturais, mal observados e sobretudo mal compreendidos.
 
-🔖 [Feitiçaria](#feiticaria)
+- 🔖 [Feitiçaria](#feiticaria)
 ---
 
 ##### #️⃣ Q.553 {#q553}
@@ -7970,7 +7983,7 @@ Que efeito podem produzir as fórmulas e práticas mediante as quais pessoas há
 
 > ✨ ▸ O efeito de torná-las ridículas, se procedem de boa-fé. No caso contrário, são tratantes que merecem castigo. Todas as fórmulas são mera charlatanaria. Não há palavra sacramental nenhuma, nenhum sinal cabalístico, nem talismã, que tenha qualquer ação sobre os Espíritos, porquanto estes só são atraídos pelo pensamento e não pelas coisas materiais.
 
-🔖 [Charlatanismo](#charlatanismo)
+- 🔖 [Charlatanismo](#charlatanismo)
 ---
 
 ##### #️⃣ Q.553.a {#q553a}
@@ -7979,7 +7992,7 @@ Mas não é exato que alguns Espíritos têm ditado, eles próprios, fórmulas c
 
 > ✨ ▸ Efetivamente, Espíritos há que indicam sinais, palavras estranhas, ou prescrevem a prática de atos, por meio dos quais se fazem os chamados conjuros. Ficai certos, porém, de que são Espíritos que de vós outros escarnecem e zombam da vossa credulidade.
 
-🔖 [Espírito leviano](#espirito-leviano)
+- 🔖 [Espírito leviano](#espirito-leviano)
 ---
 
 ##### #️⃣ Q.554 {#q554}
@@ -7988,8 +8001,8 @@ Não pode aquele que, com ou sem razão, confia no que chama a virtude de um tal
 
 > ✨ ▸ É verdade, mas da pureza da intenção e da elevação dos sentimentos depende a natureza do Espírito que é atraído. Ora, muito raramente aquele que seja bastante simplório para acreditar na virtude de um talismã deixará de colimar um fim mais material do que moral. Qualquer, porém, que seja o caso, essa crença denuncia uma inferioridade e uma fraqueza de ideias que favorecem a ação dos Espíritos imperfeitos e escarninhos.
 
-🔖 [Feiticeiro](#feiticeiro)
-🔖 [Talismã](#talisma)
+- 🔖 [Feiticeiro](#feiticeiro)
+- 🔖 [Talismã](#talisma)
 ---
 
 ##### #️⃣ Q.555 {#q555}
@@ -8000,8 +8013,8 @@ Que sentido se deve dar ao qualificativo de feiticeiro?
 
 > 👴🏻 ▸ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenônemo sobre os quais a ignorância teceu um sem-número de fábulas, em que os fatos se apresentam exagerados pela imaginação. O conhecimento lúcido dessas duas ciências que, a bem dizer, formam uma única, mostrando a realidade das coisas e suas verdadeiras causas, constitui o melhor preservativo contra as ideias supersticiosas, porque revela o que é possível e o que é impossível, o que está nas Leis da Natureza e o que não passa de ridícula crendice.
 
-🔖 [Espiritismo](#espiritismo)
-🔖 [Feitiçaria](#feiticaria)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Feitiçaria](#feiticaria)
 ---
 
 ##### #️⃣ Q.556 {#q556}
@@ -8010,7 +8023,7 @@ Têm algumas pessoas, verdadeiramente, o poder de curar pelo simples contato?
 
 > ✨ ▸ A força magnética pode chegar até aí, quando secundada pela pureza dos sentimentos e por um ardente desejo de fazer o bem, porque então os bons Espíritos lhe vêm em auxílio. Cumpre, porém, desconfiar da maneira pela qual contam as coisas pessoas muito crédulas e muito entusiastas, sempre dispostas a considerar maravilhoso o que há de mais simples e mais natural. Importa desconfiar também das narrativas interesseiras, que costumam fazer os que exploram, em seu proveito, a credulidade alheia.
 
-🔖 [Magnetismo](#magnetismo)
+- 🔖 [Magnetismo](#magnetismo)
 ---
 
 #### 2.09.13. 📄 Bênçãos e maldições {#lde-2-09-13}
@@ -8021,8 +8034,8 @@ Podem a bênção e a maldição atrair o bem e o mal para aqueles sobre quem s�
 
 > ✨ ▸ Deus não escuta a maldição injusta e culpado perante Ele se torna o que a profere. Como temos os dois gênios opostos, o bem e o mal, pode a maldição exercer momentaneamente influência, mesmo sobre a matéria. Tal influência, porém, só se verifica por vontade de Deus como aumento de prova para aquele que é dela objeto. Ademais, o que é comum é serem amaldiçoados os maus e abençoados os bons. Jamais a bênção e a maldição podem desviar da senda da justiça a Providência, que nunca fere o maldito, senão quando mau, e cuja proteção não acoberta senão aquele que a merece.
 
-🔖 [Bênção](#bencao)
-🔖 [Maldição](#maldicao)
+- 🔖 [Bênção](#bencao)
+- 🔖 [Maldição](#maldicao)
 
 ### 2.10. 🗂️ Ocupações e missões {#lde-2-10}
 
@@ -8042,7 +8055,7 @@ Também desempenham função útil no Universo os Espíritos inferiores e imperf
 > 👉🏻 Veja [Q.540](#q540)
 
 
-🔖 [Trabalho](#trabalho)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.560 {#q560}
@@ -8051,8 +8064,8 @@ Tem atribuições especiais cada Espírito?
 
 > ✨ ▸ Todos temos que habitar em toda parte e adquirir o conhecimento de todas as coisas, presidindo sucessivamente ao que se efetua em todos os pontos do Universo. Como diz o ✝️ *Eclesiastes*, há tempo para tudo. Assim, tal Espírito cumpre hoje neste mundo o seu destino, tal outro cumprirá ou já cumpriu o seu, em época diversa, na terra, na água, no ar etc.
 
-🔖 [Eclesiastes](#eclesiastes)
-🔖 [Evolução](#evolucao)
+- 🔖 [Eclesiastes](#eclesiastes)
+- 🔖 [Evolução](#evolucao)
 ---
 
 ##### #️⃣ Q.561 {#q561}
@@ -8063,8 +8076,8 @@ São permanentes para cada um e estão nas atribuições exclusivas de certas cl
 
 > 👴🏻 ▸ É o que sucede entre os homens, onde ninguém chega ao supremo grau de perfeição numa arte qualquer, sem que tenha adquirido os conhecimentos necessários, praticando os rudimentos dessa arte.
 
-🔖 [Conhecimento](#conhecimento)
-🔖 [Escala](#escala)
+- 🔖 [Conhecimento](#conhecimento)
+- 🔖 [Escala](#escala)
 ---
 
 ##### #️⃣ Q.562 {#q562}
@@ -8073,7 +8086,7 @@ Já não tendo o que adquirir, os Espíritos da ordem mais elevada se acham em r
 
 > ✨ ▸ Que quererias que fizessem na eternidade? A ociosidade eterna seria um eterno suplício.
 
-🔖 [Ociosidade](#ociosidade)
+- 🔖 [Ociosidade](#ociosidade)
 ---
 
 ##### #️⃣ Q.562.a {#q562a}
@@ -8082,7 +8095,7 @@ De que natureza são as suas ocupações?
 
 > ✨ ▸ Receber diretamente as ordens de Deus, transmiti-las ao Universo inteiro e velar por que sejam cumpridas.
 
-🔖 [Deus](#deus)
+- 🔖 [Deus](#deus)
 ---
 
 ##### #️⃣ Q.563 {#q563}
@@ -8091,7 +8104,7 @@ São incessantes as ocupações dos Espíritos?
 
 > ✨ ▸ Incessantes, sim, atendendo-se a que sempre ativos são os seus pensamentos, porquanto vivem pelo pensamento. Importa, porém, não identifiqueis as ocupações dos Espíritos com as ocupações materiais dos homens. Essa mesma atividade lhes constitui um gozo, pela consciência que têm de ser úteis.
 
-🔖 [Ocupação](#ocupacao)
+- 🔖 [Ocupação](#ocupacao)
 ---
 
 ##### #️⃣ Q.563.a {#q563a}
@@ -8106,7 +8119,7 @@ Haverá Espíritos que se conservem ociosos, que em coisa alguma útil se ocupem
 
 > ✨ ▸ Há, mas esse estado é temporário e dependendo do desenvolvimento de suas inteligências. Há, certamente, como há homens que só para si mesmos vivem. Pesa-lhes, porém, essa ociosidade e, cedo ou tarde, o desejo de progredir lhes faz necessária a atividade e felizes se sentirão por poderem tornar-se úteis. Referimo-nos aos Espíritos que hão chegado ao ponto de terem consciência de si mesmos e do seu livre-arbítrio; porquanto, em sua origem, todos são quais crianças que acabam de nascer e que obram mais por instinto que por vontade expressa.
 
-🔖 [Espírito inferior](#espirito-inferior)
+- 🔖 [Espírito inferior](#espirito-inferior)
 ---
 
 ##### #️⃣ Q.565 {#q565}
@@ -8115,7 +8128,7 @@ Atentam os Espíritos em nossos trabalhos de arte e por eles se interessam?
 
 > ✨ ▸ Atentam no que prove a elevação dos Espíritos e seus progressos.
 
-🔖 [Progresso](#progresso)
+- 🔖 [Progresso](#progresso)
 ---
 
 ##### #️⃣ Q.566 {#q566}
@@ -8124,7 +8137,7 @@ Um Espírito, que haja cultivado na Terra uma especialidade artística, que tenh
 
 > ✨ ▸ Tudo se confunde num objetivo geral. Se for um Espírito bom, esses trabalhos o interessarão na medida do ensejo que lhe proporcionem de auxiliar as almas a se elevarem para Deus. Ademais, esqueceis que um Espírito que cultivou certa arte, na existência em que o conhecestes, pode ter cultivado outra em anterior existência, pois que lhe cumpre saber tudo para ser perfeito. Assim, conforme o grau do seu adiantamento, pode suceder que nada seja para ele uma especialidade. Foi o que eu quis significar, dizendo que tudo se confunde num objetivo geral. Notai ainda o seguinte: o que, no vosso mundo atrasado, considerais sublime, não passa de infantilidade, comparado ao que há em mundos mais adiantados. Como pretenderíeis que os Espíritos que habitam esses mundos, onde existem artes que desconheceis, admirem o que, aos seus olhos, corresponde a trabalhos de colegiais? Por isso disse eu: atentam no que demonstre progresso.
 
-🔖 [Ocupação](#ocupacao)
+- 🔖 [Ocupação](#ocupacao)
 ---
 
 ##### #️⃣ Q.566.a {#q566a}
@@ -8133,7 +8146,7 @@ Concebemos que seja assim, em se tratando de Espíritos muito adiantados. Referi
 
 > ✨ ▸ Com relação a esses, o caso é diferente. Mais restrito é o ponto de vista donde observam as coisas. Podem, portanto, admirar o que vos cause admiração.
 
-🔖 [Evolução](#evolucao)
+- 🔖 [Evolução](#evolucao)
 ---
 
 ##### #️⃣ Q.567 {#q567}
@@ -8144,7 +8157,7 @@ Costumam os Espíritos imiscuir-se em nossos prazeres e ocupações?
 
 > 👴🏻 ▸ Com as coisas deste mundo, os Espíritos se ocupam conforme o grau de elevação ou de inferioridade em que se achem. Os Espíritos superiores dispõem, sem dúvida, da faculdade de examiná-las nas suas mínimas particularidades, mas só o fazem na medida em que isso seja útil ao progresso. Unicamente os Espíritos inferiores ligam a essas coisas uma importância relativa às reminiscências que ainda conservam e às ideias materiais que ainda se não extinguiram neles.
 
-🔖 [Cotidiano](#cotidiano)
+- 🔖 [Cotidiano](#cotidiano)
 ---
 
 ##### #️⃣ Q.568 {#q568}
@@ -8153,7 +8166,7 @@ Os Espíritos, que têm missões a cumprir, as cumprem na erraticidade, ou encar
 
 > ✨ ▸ Podem tê-las num e noutro estado. Para certos Espíritos errantes, é uma grande ocupação.
 
-🔖 [Missão](#missao)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.569 {#q569}
@@ -8164,9 +8177,9 @@ Em que consistem as missões de que podem ser encarregados os Espíritos errante
 
 > 👴🏻 ▸ As missões dos Espíritos têm sempre por objeto o bem. Quer como Espíritos, quer como homens, são incumbidos de auxiliar o progresso da Humanidade, dos povos ou dos indivíduos, dentro de um círculo de ideias mais ou menos amplas, mais ou menos especiais e de velar pela execução de determinadas coisas. Alguns desempenham missões mais restritas e, de certo modo, pessoais ou inteiramente locais, como sejam assistir os enfermos, os agonizantes, os aflitos, velar por aqueles de quem se constituíram guias e protetores, dirigi-los, dando-lhes conselhos ou inspirando-lhes bons pensamentos. Pode dizer-se que há tantos gêneros de missões quantas as espécies de interesses a resguardar, assim no mundo físico, como no moral. O Espírito se adianta conforme a maneira por que desempenha a sua tarefa.
 
-🔖 [Bem](#bem)
-🔖 [Deus](#deus)
-🔖 [Espírito errante](#espirito-errante)
+- 🔖 [Bem](#bem)
+- 🔖 [Deus](#deus)
+- 🔖 [Espírito errante](#espirito-errante)
 ---
 
 ##### #️⃣ Q.570 {#q570}
@@ -8175,7 +8188,7 @@ Os Espíritos percebem sempre os desígnios que lhes compete executar?
 
 > ✨ ▸ Não. Muitos há que são instrumentos cegos. Outros, porém, sabem muito bem com que fim atuam.
 
-🔖 [Missão](#missao)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.571 {#q571}
@@ -8184,7 +8197,7 @@ Só os Espíritos elevados desempenham missões?
 
 > ✨ ▸ A importância das missões corresponde às capacidades e à elevação do Espírito. O estafeta que leva um telegrama ao seu destinatário também desempenha uma missão, se bem que diversa da de um general.
 
-🔖 [Missão](#missao)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.572 {#q572}
@@ -8193,7 +8206,7 @@ A missão de um Espírito lhe é imposta, ou depende da sua vontade?
 
 > ✨ ▸ Ele a pede e ditoso se considera se a obtém.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.572.a {#q572a}
@@ -8202,7 +8215,7 @@ Pode uma mesma missão ser pedida por muitos Espíritos?
 
 > ✨ ▸ Sim, é frequente apresentarem-se muitos candidatos, mas nem todos são aceitos.
 
-🔖 [Missão](#missao)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.573 {#q573}
@@ -8211,9 +8224,9 @@ Em que consiste a missão dos Espíritos encarnados?
 
 > ✨ ▸ Em instruir os homens, em lhes auxiliar o progresso; em lhes melhorar as instituições, por meios diretos e materiais. As missões, porém, são mais ou menos gerais e importantes. O que cultiva a terra desempenha tão nobre missão, como o que governa, ou o que instrui. Tudo na Natureza se encadeia. Ao mesmo tempo que o Espírito se depura pela encarnação, concorre, dessa forma, para a execução dos desígnios da Providência. Cada um tem neste mundo a sua missão, porque todos podem ter alguma utilidade.
 
-🔖 [Espírito encarnado](#espirito-encarnado)
-🔖 [Missão](#missao)
-🔖 [Natureza](#natureza)
+- 🔖 [Espírito encarnado](#espirito-encarnado)
+- 🔖 [Missão](#missao)
+- 🔖 [Natureza](#natureza)
 ---
 
 ##### #️⃣ Q.574 {#q574}
@@ -8222,7 +8235,7 @@ Qual pode ser, na Terra, a missão das criaturas voluntariamente inúteis?
 
 > ✨ ▸ Há efetivamente pessoas que só para si mesmas vivem e que não sabem tornar-se úteis ao que quer que seja. São pobres seres dignos de compaixão, porquanto expiarão duramente sua voluntária inutilidade, começando-lhes muitas vezes, já neste mundo, o castigo, pelo aborrecimento e pelo desgosto que a vida lhes causa.
 
-🔖 [Inutilidade](#inutilidade)
+- 🔖 [Inutilidade](#inutilidade)
 ---
 
 ##### #️⃣ Q.574.a {#q574a}
@@ -8231,7 +8244,7 @@ Pois que lhes era facultada a escolha, por que preferiram uma existência que ne
 
 > ✨ ▸ Entre os Espíritos também há preguiçosos que recuam diante de uma vida de labor. Deus consente que assim procedam. ­Mais tarde compreenderão, à própria custa, os inconvenientes da inutilidade a que se votaram e serão os primeiros a pedir que se lhes conceda recuperar o tempo perdido. Pode também acontecer que tenham escolhido uma vida útil e que hajam recuado diante da execução da obra, deixando-se levar pelas sugestões dos Espíritos que os induzem a permanecer na ociosidade.
 
-🔖 [Ociosidade](#ociosidade)
+- 🔖 [Ociosidade](#ociosidade)
 ---
 
 ##### #️⃣ Q.575 {#q575}
@@ -8240,9 +8253,9 @@ As ocupações comuns mais nos parecem deveres do que missões propriamente dita
 
 > ✨ ▸ Pelas grandes coisas que opera, pelos progressos a cuja realização conduz seus semelhantes.
 
-🔖 [Dever](#dever)
-🔖 [Missão](#missao)
-🔖 [Realização](#realizacao)
+- 🔖 [Dever](#dever)
+- 🔖 [Missão](#missao)
+- 🔖 [Realização](#realizacao)
 ---
 
 ##### #️⃣ Q.576 {#q576}
@@ -8251,8 +8264,8 @@ Foram predestinados a isso, antes de nascerem, os homens que trazem uma importan
 
 > ✨ ▸ Algumas vezes, assim é. Quase sempre, porém, o ignoram. Baixando à Terra, colimam um vago objetivo. Depois do nascimento e de acordo com as circunstâncias é que suas missões se lhes desenham às vistas. Deus os impele para a senda onde devam executar-lhe os desígnios.
 
-🔖 [Missão](#missao)
-🔖 [Predestinação](#predestinacao)
+- 🔖 [Missão](#missao)
+- 🔖 [Predestinação](#predestinacao)
 ---
 
 ##### #️⃣ Q.577 {#q577}
@@ -8261,8 +8274,8 @@ Quando um homem faz alguma coisa útil, fá-la sempre em virtude da missão em q
 
 > ✨ ▸ Nem tudo o que o homem faz resulta de missão a que tenha sido predestinado. Amiudadas vezes é o instrumento de que se serve um Espírito para fazer que se execute uma coisa que julga útil. Por exemplo, entende um Espírito ser útil que se escreva um livro que ele próprio escreveria se estivesse encarnado. Procura então o escritor mais apto a lhe compreender e executar o pensamento. Transmite-lhe a ideia do livro e o dirige na execução. Ora, esse escritor não veio à Terra com a missão de publicar tal obra. O mesmo ocorre com diversos trabalhos artísticos e muitas descobertas. Devemos acrescentar que, durante o sono corporal, o Espírito encarnado se comunica diretamente com o Espírito errante, entendendo-se os dois acerca da execução.
 
-🔖 [Descobrimentos](#descobrimentos)
-🔖 [Missão](#missao)
+- 🔖 [Descobrimentos](#descobrimentos)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.578 {#q578}
@@ -8271,7 +8284,7 @@ Poderá o Espírito, por própria culpa, falir na sua missão?
 
 > ✨ ▸ Sim, se não for um Espírito superior.
 
-🔖 [Falibilidade](#falibilidade)
+- 🔖 [Falibilidade](#falibilidade)
 ---
 
 ##### #️⃣ Q.578.a {#q578a}
@@ -8280,7 +8293,7 @@ Que consequências lhe advirão da sua falência?
 
 > ✨ ▸ Terá que retomar a tarefa; essa a sua punição. Também sofrerá as consequências do mal que haja causado.
 
-🔖 [Fracasso](#fracasso)
+- 🔖 [Fracasso](#fracasso)
 ---
 
 ##### #️⃣ Q.579 {#q579}
@@ -8289,8 +8302,8 @@ Pois se é de Deus que o Espírito recebe a sua missão, como se há de compreen
 
 > ✨ ▸ Não sabe Deus se o seu general obterá a vitória ou se será vencido? Sabe-o, crede, e seus planos, *quando importantes*, não se apoiam nos que hajam de abandonar em meio a obra. Toda a questão, para vós, está no conhecimento que Deus tem do futuro, mas que não vos é concedido.
 
-🔖 [Deus](#deus)
-🔖 [Presciência](#presciencia)
+- 🔖 [Deus](#deus)
+- 🔖 [Presciência](#presciencia)
 ---
 
 ##### #️⃣ Q.580 {#q580}
@@ -8299,8 +8312,8 @@ O Espírito, que encarna para desempenhar determinada missão, tem apreensões i
 
 > ✨ ▸ Não, porque traz a experiência adquirida.
 
-🔖 [Experiência](#experiencia)
-🔖 [Missão](#missao)
+- 🔖 [Experiência](#experiencia)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.581 {#q581}
@@ -8309,10 +8322,10 @@ Certamente desempenham missão os homens que servem de faróis ao gênero humano
 
 > ✨ ▸ Como falseadas por eles próprios. Estão abaixo da tarefa que tomaram sobre os ombros. Contudo, mister se faz levar em conta as circunstâncias. Os homens de gênio têm que falar de acordo com as épocas em que vivem e, assim, um ensinamento que pareceu errôneo ou pueril, numa época adiantada, pode ter sido o que convinha no século em que foi divulgado.
 
-🔖 [Divulgação](#divulgacao)
-🔖 [Engano](#engano)
-🔖 [Ensino](#ensino)
-🔖 [Missão](#missao)
+- 🔖 [Divulgação](#divulgacao)
+- 🔖 [Engano](#engano)
+- 🔖 [Ensino](#ensino)
+- 🔖 [Missão](#missao)
 ---
 
 ##### #️⃣ Q.582 {#q582}
@@ -8323,8 +8336,8 @@ Pode-se considerar como missão a paternidade?
 
 ↩️ Voltar para [Q.892](#q892)
 
-🔖 [Paternidade](#paternidade)
-🔖 [Responsabilidade](#responsabilidade)
+- 🔖 [Paternidade](#paternidade)
+- 🔖 [Responsabilidade](#responsabilidade)
 ---
 
 ##### #️⃣ Q.583 {#q583}
@@ -8335,7 +8348,7 @@ São responsáveis os pais pelo transviamento de um filho que envereda pelo cami
 
 ↩️ Voltar para [Q.892](#q892)
 
-🔖 [Mal](#mal)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.583.a {#q583a}
@@ -8344,7 +8357,7 @@ Se um filho se torna homem de bem, não obstante a negligência ou os maus exemp
 
 > ✨ ▸ Deus é justo.
 
-🔖 [Justiça divina](#justica-divina)
+- 🔖 [Justiça divina](#justica-divina)
 ---
 
 ##### #️⃣ Q.584 {#q584}
@@ -8353,7 +8366,7 @@ De que natureza será a missão do conquistador que apenas visa satisfazer à su
 
 > ✨ ▸ As mais das vezes não passa de um instrumento de que se serve Deus para cumprimento de seus desígnios, representando essas calamidades um meio de que ele se utiliza para fazer que um povo progrida mais rapidamente.
 
-🔖 [Descobrimentos](#descobrimentos)
+- 🔖 [Descobrimentos](#descobrimentos)
 ---
 
 ##### #️⃣ Q.584.a {#q584a}
@@ -8384,6 +8397,7 @@ Neste capítulo:
 - [2.11.01. 📄 Os minerais e as plantas](#lde-2-11-01)
 - [2.11.02. 📄 Os animais e o homem](#lde-2-11-02)
 - [2.11.03. 📄 Metempsicose](#lde-2-11-03)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -8397,11 +8411,11 @@ Que pensais da divisão da Natureza em três reinos, ou melhor, em duas classes:
 
 > 👴🏻 ▸ Esses quatro graus apresentam, com efeito, caracteres determinados, muito embora pareçam confundir-se nos seus limites extremos. A matéria inerte, que constitui o reino mineral, só tem em si uma força mecânica. As plantas, ainda que compostas de matéria inerte, são dotadas de vitalidade. Os animais, também compostos de matéria inerte e igualmente dotados de vitalidade, possuem, além disso, uma espécie de inteligência instintiva, limitada, e a consciência de sua existência e de suas individualidades. O homem, tendo tudo o que há nas plantas e nos animais, domina todas as outras classes por uma inteligência especial, indefinida, que lhe dá a consciência do seu futuro, a percepção das coisas extra-materiais e o conhecimento de Deus.
 
-🔖 [Desmaterialização](#desmaterializacao)
-🔖 [Minerais](#minerais)
-🔖 [Ocupação](#ocupacao)
-🔖 [Reinos](#reinos)
-🔖 [Seres inorgânicos](#seres-inorganicos)
+- 🔖 [Desmaterialização](#desmaterializacao)
+- 🔖 [Minerais](#minerais)
+- 🔖 [Ocupação](#ocupacao)
+- 🔖 [Reinos](#reinos)
+- 🔖 [Seres inorgânicos](#seres-inorganicos)
 ---
 
 ##### #️⃣ Q.586 {#q586}
@@ -8410,7 +8424,7 @@ Têm as plantas consciência de que existem?
 
 > ✨ ▸ Não, pois que não pensam; só têm vida orgânica.
 
-🔖 [Vegetal](#vegetal)
+- 🔖 [Vegetal](#vegetal)
 ---
 
 ##### #️⃣ Q.587 {#q587}
@@ -8419,9 +8433,9 @@ Experimentam sensações? Sofrem quando as mutilam?
 
 > ✨ ▸ Recebem impressões físicas que atuam sobre a matéria, mas não têm percepções. Conseguintemente, não têm a sensação da dor.
 
-🔖 [Percepção](#percepcao)
-🔖 [Sensação](#sensacao)
-🔖 [Vegetal](#vegetal)
+- 🔖 [Percepção](#percepcao)
+- 🔖 [Sensação](#sensacao)
+- 🔖 [Vegetal](#vegetal)
 ---
 
 ##### #️⃣ Q.588 {#q588}
@@ -8430,7 +8444,7 @@ Independe da vontade delas a força que as atrai umas para as outras?
 
 > ✨ ▸ Certo, porquanto não pensam. É uma força mecânica da matéria, que atua sobre a matéria, sem que elas possam a isso opor-se.
 
-🔖 [Automatismo](#automatismo)
+- 🔖 [Automatismo](#automatismo)
 ---
 
 ##### #️⃣ Q.589 {#q589}
@@ -8441,8 +8455,8 @@ Algumas plantas, como a sensitiva e a dioneia, por exemplo, executam movimentos 
 
 > 👴🏻 ▸ O organismo humano nos proporciona exemplo de movimentos análogos, sem participação da vontade, nas funções digestivas e circulatórias. O piloro se contrai, ao contato de certos corpos, para lhes negar passagem. O mesmo provavelmente se dá na sensitiva, cujos movimentos de nenhum modo implicam a necessidade de percepção e, ainda menos, da vontade.
 
-🔖 [Automatismo](#automatismo)
-🔖 [Transição](#transicao)
+- 🔖 [Automatismo](#automatismo)
+- 🔖 [Transição](#transicao)
 ---
 
 ##### #️⃣ Q.590 {#q590}
@@ -8451,7 +8465,7 @@ Não haverá nas plantas, como nos animais, um instinto de conservação, que as
 
 > ✨ ▸ Há, se quiserdes, uma espécie de instinto, dependendo isso da extensão que se dê ao significado desta palavra. É, porém, um instinto puramente mecânico. Quando, nas operações químicas, observais que dois corpos se reúnem, é que um ao outro convém; quer dizer: é que há entre eles afinidade. Ora, a isto não dais o nome de instinto.
 
-🔖 [Automatismo](#automatismo)
+- 🔖 [Automatismo](#automatismo)
 ---
 
 ##### #️⃣ Q.591 {#q591}
@@ -8460,7 +8474,7 @@ Nos mundos superiores, as plantas são de natureza mais perfeita, como os outros
 
 > ✨ ▸ Tudo é mais perfeito. As plantas, porém, são sempre plantas, como os animais sempre animais e os homens sempre homens.
 
-🔖 [Vegetal](#vegetal)
+- 🔖 [Vegetal](#vegetal)
 ---
 
 #### 2.11.02. 📄 Os animais e o homem {#lde-2-11-02}
@@ -8480,8 +8494,8 @@ Poder-se-á dizer que os animais só obram por instinto?
 
 > 👴🏻 ▸ Não se poderia negar que, além de possuírem o instinto, alguns animais praticam atos combinados, que denunciam vontade de operar em determinado sentido e de acordo com as circunstâncias. Há, pois, neles, uma espécie de inteligência, mas cujo exercício quase que se circunscreve à utilização dos meios de satisfazerem às suas necessidades físicas e de proverem à conservação própria. Nada, porém, criam, nem melhora alguma realizam. Qualquer que seja a arte com que executem seus trabalhos, fazem hoje o que faziam outrora e o fazem, nem melhor, nem pior, segundo formas e proporções constantes e invariáveis. A cria, separada dos de sua espécie, não deixa por isso de construir o seu ninho de perfeita conformidade com os seus maiores, sem que tenha recebido nenhum ensino. O desenvolvimento intelectual de alguns, que se mostram suscetíveis de certa educação, desenvolvimento, aliás, que não pode ultrapassar acanhados limites, é devido à ação do homem sobre uma natureza maleável, porquanto não há aí progresso que lhe seja próprio. Mesmo o progresso que realizam pela ação do homem é efêmero e puramente individual, visto que, entregue a si mesmo, não tarda que o animal volte a encerrar-se nos limites que lhe traçou a Natureza.
 
-🔖 [Animais](#animais)
-🔖 [Instinto](#instinto)
+- 🔖 [Animais](#animais)
+- 🔖 [Instinto](#instinto)
 ---
 
 ##### #️⃣ Q.594 {#q594}
@@ -8490,7 +8504,7 @@ Têm os animais alguma linguagem?
 
 > ✨ ▸ Se vos referis a uma linguagem formada de sílabas e palavras, não. Meio, porém, de se comunicarem entre si, têm. Dizem uns aos outros muito mais coisas do que imaginais, mas essa mesma linguagem de que dispõem é restrita às necessidades, como restritas também são as ideias que podem ter.
 
-🔖 [Linguagem](#linguagem)
+- 🔖 [Linguagem](#linguagem)
 ---
 
 ##### #️⃣ Q.594.a {#q594a}
@@ -8501,10 +8515,10 @@ Há, entretanto, animais que carecem de voz. Esses parece que nenhuma linguagem 
 
 > 👴🏻 ▸ Efetivamente, os peixes que, como as andorinhas, emigram em cardumes, obedientes ao guia que os conduz, devem ter meios de se advertirem, de se entenderem e combinarem. É possível que disponham de uma vista mais penetrante e esta lhes permita perceber os sinais que mutuamente façam. Pode ser também que tenham na água um veículo próprio para a transmissão de certas vibrações. Como quer que seja, o que é incontestável é que lhes não falecem meios de se entenderem, do mesmo modo que a todos os animais carentes de voz e que, não obstante, trabalham em comum. Diante disso, que admiração pode causar que os Espíritos entre si se comuniquem sem o auxílio da palavra articulada?
 
-🔖 [Animais](#animais)
-🔖 [Comunicação](#comunicacao)
-🔖 [Linguagem](#linguagem)
-🔖 [Palavra](#palavra)
+- 🔖 [Animais](#animais)
+- 🔖 [Comunicação](#comunicacao)
+- 🔖 [Linguagem](#linguagem)
+- 🔖 [Palavra](#palavra)
 ---
 
 ##### #️⃣ Q.595 {#q595}
@@ -8513,8 +8527,8 @@ Gozam de livre-arbítrio os animais, para a prática dos seus atos?
 
 > ✨ ▸ Os animais não são simples máquinas, como supondes. Contudo, a liberdade de ação, de que desfrutam, é limitada pelas suas necessidades e não se pode comparar à do homem. Sendo muitíssimo inferiores a este, não têm os mesmos deveres que ele. A liberdade, possuem-na restrita aos atos da vida material.
 
-🔖 [Animais](#animais)
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Animais](#animais)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.596 {#q596}
@@ -8523,7 +8537,7 @@ Donde procede a aptidão que certos animais denotam para imitar a linguagem do h
 
 > ✨ ▸ Origina-se de uma particular conformação dos órgãos vocais, reforçada pelo instinto de imitação. O macaco imita os gestos; algumas aves imitam a voz.
 
-🔖 [Linguagem](#linguagem)
+- 🔖 [Linguagem](#linguagem)
 ---
 
 ##### #️⃣ Q.597 {#q597}
@@ -8532,7 +8546,7 @@ Pois que os animais possuem uma inteligência que lhes faculta certa liberdade d
 
 > ✨ ▸ Há e que sobrevive ao corpo.
 
-🔖 [Animais](#animais)
+- 🔖 [Animais](#animais)
 ---
 
 ##### #️⃣ Q.597.a {#q597a}
@@ -8541,7 +8555,7 @@ Será esse princípio uma alma semelhante à do homem?
 
 > ✨ ▸ É também uma alma, se quiserdes, *dependendo isto do sentido que se der a esta palavra*. É, porém, inferior à do homem. Há entre a alma dos animais e a do homem distância equivalente à que medeia entre a alma do homem e Deus.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.598 {#q598}
@@ -8550,7 +8564,7 @@ Após a morte, conserva a alma dos animais a sua individualidade e a consciênci
 
 > ✨ ▸ Conserva sua individualidade; quanto à consciência do seu *eu*, não. A vida inteligente lhe permanece em estado latente.
 
-🔖 [Animais](#animais)
+- 🔖 [Animais](#animais)
 ---
 
 ##### #️⃣ Q.599 {#q599}
@@ -8559,7 +8573,7 @@ Após a morte, conserva a alma dos animais a sua individualidade e a consciênci
 
 > ✨ ▸ Não, pois que lhe falta livre-arbítrio.
 
-🔖 [Animais](#animais)
+- 🔖 [Animais](#animais)
 ---
 
 ##### #️⃣ Q.600 {#q600}
@@ -8568,10 +8582,10 @@ Sobrevivendo ao corpo em que habitou, a alma do animal vem a achar-se, depois da
 
 > ✨ ▸ Fica numa espécie de erraticidade, pois que não mais se acha unida ao corpo, mas não é um *Espírito errante*. O Espírito errante é um ser que pensa e obra por sua livre vontade. De idêntica faculdade não dispõe o dos animais. A consciência de si mesmo é o que constitui o principal atributo do Espírito. O do animal, depois da morte, é classificado pelos Espíritos a quem incumbe essa tarefa e utilizado quase imediatamente. Não lhe é dado tempo de entrar em relação com outras criaturas.
 
-🔖 [Alma](#alma)
-🔖 [Animais](#animais)
-🔖 [Espírito errante](#espirito-errante)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Alma](#alma)
+- 🔖 [Animais](#animais)
+- 🔖 [Espírito errante](#espirito-errante)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.601 {#q601}
@@ -8582,8 +8596,8 @@ Os animais estão sujeitos, como o homem, a uma lei progressiva?
 
 > 👴🏻 ▸ Nada há nisso de extraordinário. Tomemos os nossos mais inteligentes animais, o cão, o elefante, o cavalo, e imaginemo-los dotados de uma conformação apropriada a trabalhos manuais. Que não fariam sob a direção do homem?
 
-🔖 [Animais](#animais)
-🔖 [Mundos evoluídos](#mundos-evoluidos)
+- 🔖 [Animais](#animais)
+- 🔖 [Mundos evoluídos](#mundos-evoluidos)
 ---
 
 ##### #️⃣ Q.602 {#q602}
@@ -8592,8 +8606,8 @@ Os animais progridem, como o homem, por ato da própria vontade, ou pela força 
 
 > ✨ ▸ Pela força das coisas, razão por que não estão sujeitos à expiação.
 
-🔖 [Animais](#animais)
-🔖 [Expiação](#expiacao)
+- 🔖 [Animais](#animais)
+- 🔖 [Expiação](#expiacao)
 ---
 
 ##### #️⃣ Q.603 {#q603}
@@ -8604,8 +8618,8 @@ Nos mundos superiores, os animais conhecem a Deus?
 
 ↩️ Voltar para [Q.668](#q668)
 
-🔖 [Animais](#animais)
-🔖 [Mundos evoluídos](#mundos-evoluidos)
+- 🔖 [Animais](#animais)
+- 🔖 [Mundos evoluídos](#mundos-evoluidos)
 ---
 
 ##### #️⃣ Q.604 {#q604}
@@ -8614,8 +8628,8 @@ Pois que os animais, mesmo os aperfeiçoados, existentes nos mundos superiores, 
 
 > ✨ ▸ Tudo na Natureza se encadeia por elos que ainda não podeis apreender. Assim, as coisas aparentemente mais díspares têm pontos de contato que o homem, no seu estado atual, nunca chegará a compreender. Por um esforço da inteligência poderá entrevê-los, mas, somente quando essa inteligência estiver no máximo grau de desenvolvimento e liberta dos preconceitos do orgulho e da ignorância, logrará ver claro na obra de Deus. Até lá, suas muito restritas ideias lhe farão observar as coisas por um mesquinho e acanhado prisma. Sabei não ser possível que Deus se contradiga e que, na Natureza, tudo se harmoniza mediante leis gerais, que por nenhum de seus pontos deixam de corresponder à sublime sabedoria do Criador.
 
-🔖 [Compreensão](#compreensao)
-🔖 [Harmonia](#harmonia)
+- 🔖 [Compreensão](#compreensao)
+- 🔖 [Harmonia](#harmonia)
 ---
 
 ##### #️⃣ Q.604.a {#q604a}
@@ -8624,8 +8638,8 @@ A inteligência é então uma propriedade comum, um ponto de contato entre a alm
 
 > ✨ ▸ É, porém os animais só possuem a inteligência da vida material. No homem, a inteligência proporciona a vida moral.
 
-🔖 [Animais](#animais)
-🔖 [Homem](#homem)
+- 🔖 [Animais](#animais)
+- 🔖 [Homem](#homem)
 ---
 
 ##### #️⃣ Q.605 {#q605}
@@ -8634,7 +8648,7 @@ Considerando-se todos os pontos de contato que existem entre o homem e os animai
 
 > ✨ ▸ Não, o homem não tem duas almas. O corpo, porém, tem seus instintos, resultantes da sensação peculiar aos órgãos. Dupla, no homem, só é a natureza. Há nele a natureza animal e a natureza espiritual. Participa, pelo seu corpo, da natureza dos animais e de seus instintos. Por sua alma, participa da dos Espíritos.
 
-🔖 [Homem](#homem)
+- 🔖 [Homem](#homem)
 ---
 
 ##### #️⃣ Q.605.a {#q605a}
@@ -8645,9 +8659,9 @@ De modo que, além de suas próprias imperfeições de que cumpre ao Espírito d
 
 > 👴🏻 ▸ Encarnando no corpo do homem, o Espírito lhe traz o princípio intelectual e moral, que o torna superior aos animais. As duas naturezas nele existentes dão às suas paixões duas origens diferentes: umas provêm dos instintos da natureza animal, provindo as outras das impurezas do Espírito, de cuja encarnação é ele a imagem e que mais ou menos simpatiza com a grosseria dos apetites animais. Purificando-se, o Espírito se liberta pouco a pouco da influência da matéria. Sob essa influência, aproxima-se do bruto. Isento dela, eleva-se à sua verdadeira destinação.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Homem](#homem)
-🔖 [Matéria](#materia)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Homem](#homem)
+- 🔖 [Matéria](#materia)
 ---
 
 ##### #️⃣ Q.606 {#q606}
@@ -8656,7 +8670,7 @@ Donde tiram os animais o princípio inteligente que constitui a alma de natureza
 
 > ✨ ▸ Do elemento inteligente universal.
 
-🔖 [Princípio inteligente](#principio-inteligente)
+- 🔖 [Princípio inteligente](#principio-inteligente)
 ---
 
 ##### #️⃣ Q.606.a {#q606a}
@@ -8665,8 +8679,8 @@ Então, emanam de um único princípio a inteligência do homem e a dos animais?
 
 > ✨ ▸ Sem dúvida alguma, porém, no homem, passou por uma elaboração que a coloca acima da que existe no animal.
 
-🔖 [Inteligência](#inteligencia)
-🔖 [Princípio inteligente](#principio-inteligente)
+- 🔖 [Inteligência](#inteligencia)
+- 🔖 [Princípio inteligente](#principio-inteligente)
 ---
 
 ##### #️⃣ Q.607 {#q607}
@@ -8675,7 +8689,7 @@ Dissestes (👉🏻 Veja [Q.190](#q190)) que o estado da alma do homem, na sua o
 
 > ✨ ▸ Numa série de existências que precedem o período a que chamais Humanidade.
 
-🔖 [Evolução](#evolucao)
+- 🔖 [Evolução](#evolucao)
 ---
 
 ##### #️⃣ Q.607.a {#q607a}
@@ -8684,13 +8698,13 @@ Parece que, assim, se pode considerar a alma como tendo sido o princípio inteli
 
 > ✨ ▸ Já não dissemos que tudo na Natureza se encadeia e tende para a unidade? Nesses seres, cuja totalidade estais longe de conhecer, é que o princípio inteligente se elabora, se individualiza pouco a pouco e se ensaia para a vida, conforme acabamos de dizer. É, de certo modo, um trabalho preparatório, como o da germinação, por efeito do qual o princípio inteligente sofre uma transformação e se torna *Espírito*. Entra então no período da humanização, começando a ter consciência do seu futuro, capacidade de distinguir o bem do mal e a responsabilidade dos seus atos. Assim, à fase da infância se segue a da adolescência, vindo depois a da juventude e da madureza. Nessa origem, coisa alguma há de humilhante para o homem. Sentir-se-ão humilhados os grandes gênios por terem sido fetos informes nas entranhas que os geraram? Se alguma coisa há que lhe seja humilhante, é a sua inferioridade perante Deus e sua impotência para lhe sondar a profundeza dos desígnios e para apreciar a sabedoria das leis que regem a harmonia do Universo. Reconhecei a grandeza de Deus nessa admirável harmonia, mediante a qual tudo é solidário na Natureza. Acreditar que Deus haja feito, seja o que for, sem um fim, e criado seres inteligentes sem futuro, fora blasfemar da sua bondade, que se estende por sobre todas as suas criaturas.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Harmonia](#harmonia)
-🔖 [Homem](#homem)
-🔖 [Natureza](#natureza)
-🔖 [Princípio espiritual](#principio-espiritual)
-🔖 [Princípio inteligente](#principio-inteligente)
-🔖 [Universo](#universo)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Harmonia](#harmonia)
+- 🔖 [Homem](#homem)
+- 🔖 [Natureza](#natureza)
+- 🔖 [Princípio espiritual](#principio-espiritual)
+- 🔖 [Princípio inteligente](#principio-inteligente)
+- 🔖 [Universo](#universo)
 ---
 
 ##### #️⃣ Q.607.b {#q607b}
@@ -8699,9 +8713,9 @@ Esse período de humanização principia na Terra?
 
 > ✨ ▸ A Terra não é o ponto de partida da primeira encarnação humana. O período da humanização começa, geralmente, em mundos ainda inferiores à Terra. Isto, entretanto, não constitui regra absoluta, pois pode suceder que um Espírito, desde o seu início humano, esteja apto a viver na Terra. Não é frequente o caso; constitui antes uma exceção.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Humanização](#humanizacao)
-🔖 [Terra](#terra)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Humanização](#humanizacao)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.608 {#q608}
@@ -8710,7 +8724,7 @@ O Espírito do homem tem, após a morte, consciência de suas existências anter
 
 > ✨ ▸ Não, pois não é desse período que começa a sua vida de Espírito. Difícil é mesmo que se lembre de suas primeiras existências humanas, como difícil é que o homem se lembre dos primeiros tempos de sua infância e ainda menos do tempo que passou no seio materno. Essa a razão por que os Espíritos dizem que não sabem como começaram.
 
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.609 {#q609}
@@ -8721,7 +8735,7 @@ Uma vez no período da humanidade, conserva o Espírito traços do que era prece
 > 
 > Há sempre anéis que ligam as extremidades da cadeia dos seres e dos acontecimentos. Aqueles vestígios, porém, se apagam com o desenvolvimento do livre-arbítrio. Os primeiros progressos só muito lentamente se efetuam, porque ainda não têm a secundá-los a vontade. Vão em progressão mais rápida, à medida que o Espírito adquire mais perfeita consciência de si mesmo.
 
-🔖 [Humanidade](#humanidade)
+- 🔖 [Humanidade](#humanidade)
 ---
 
 ##### #️⃣ Q.610 {#q610}
@@ -8730,7 +8744,7 @@ Ter-se-ão enganado os Espíritos que disseram constituir o homem um ser à part
 
 > ✨ ▸ Não, mas a questão não fora desenvolvida. Ademais, há coisas que só a seu tempo podem ser esclarecidas. O homem é, com efeito, um ser à parte, visto possuir faculdades que o distinguem de todos os outros e ter outro destino. A espécie humana é a que Deus escolheu para a encarnação dos seres *que podem conhecê-lo*.
 
-🔖 [Criação](#criacao)
+- 🔖 [Criação](#criacao)
 ---
 
 #### 2.11.03. 📄 Metempsicose {#lde-2-11-03}
@@ -8741,7 +8755,7 @@ O terem os seres vivos uma origem comum no princípio inteligente não é a cons
 
 > ✨ ▸ Duas coisas podem ter a mesma origem e absolutamente não se assemelharem mais tarde. Quem reconheceria a árvore, com suas folhas, flores e frutos, no germe informe que se contém na semente donde ela surge? Desde que o princípio inteligente atinge o grau necessário para ser Espírito e entrar no período da humanização, já não guarda relação com o seu estado primitivo e já não é a alma dos animais, como a árvore já não é a semente. De animal só há no homem o corpo e as paixões que nascem da influência do corpo e do instinto de conservação inerente à matéria. Não se pode, pois, dizer que tal homem é a encarnação do espírito de tal animal. Conseguintemente, a metempsicose, como a entendem, não é verdadeira.
 
-🔖 [Metempsicose](#metempsicose)
+- 🔖 [Metempsicose](#metempsicose)
 ---
 
 ##### #️⃣ Q.612 {#q612}
@@ -8752,8 +8766,8 @@ Poderia encarnar num animal o Espírito que animou o corpo de um homem?
 > 
 > 👉🏻 Veja [Q.118](#q118)
 
-🔖 [Evolução](#evolucao)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Evolução](#evolucao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.613 {#q613}
@@ -8774,13 +8788,13 @@ Embora de todo errônea, a ideia ligada à metempsicose não terá resultado do 
 > 
 > Quanto às relações misteriosas que existem entre o homem e os animais, isso, repetimos, está nos segredos de Deus, como muitas outras coisas, cujo conhecimento *atual* nada importa ao nosso progresso e sobre as quais seria inútil determo-nos.
 
-🔖 [Alma](#alma)
-🔖 [Crença](#crenca)
-🔖 [Criação](#criacao)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Perguntas](#perguntas)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Alma](#alma)
+- 🔖 [Crença](#crenca)
+- 🔖 [Criação](#criacao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Perguntas](#perguntas)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ## 3. 🗃️ Leis morais {#lde-3}
@@ -8792,6 +8806,7 @@ Neste capítulo:
 - [3.01.02. 📄 Conhecimento da lei natural](#lde-3-01-02)
 - [3.01.03. 📄 O bem e o mal](#lde-3-01-03)
 - [3.01.04. 📄 Divisão da lei natural](#lde-3-01-04)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -8803,7 +8818,7 @@ Que se deve entender por lei natural?
 
 > ✨ ▸ A lei natural é a Lei de Deus. É a única verdadeira para a felicidade do homem. Indica-lhe o que deve fazer ou deixar de fazer e ele só é infeliz quando dela se afasta.
 
-🔖 [Lei natural](#lei-natural)
+- 🔖 [Lei natural](#lei-natural)
 ---
 
 ##### #️⃣ Q.615 {#q615}
@@ -8819,8 +8834,8 @@ Será possível que Deus em certa época haja prescrito aos homens o que noutra 
 
 > ✨ ▸ Deus não se engana. Os homens é que são obrigados a modificar suas leis, por imperfeitas. As de Deus, essas são perfeitas. A harmonia que reina no universo material, como no universo moral, se funda em leis estabelecidas por Deus desde toda a eternidade.
 
-🔖 [Deus](#deus)
-🔖 [Lei humana](#lei-humana)
+- 🔖 [Deus](#deus)
+- 🔖 [Lei humana](#lei-humana)
 ---
 
 ##### #️⃣ Q.617 {#q617}
@@ -8829,7 +8844,7 @@ As leis divinas, que é o que compreendem no seu âmbito? Concernem a alguma out
 
 > ✨ ▸ Todas as da Natureza são leis divinas, pois que Deus é o autor de tudo. O sábio estuda as leis da matéria, o homem de bem estuda e pratica as da alma.
 
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.617.a {#q617a}
@@ -8844,8 +8859,8 @@ Dado é ao homem aprofundar umas e outras?
 > 
 > As outras dizem respeito especialmente ao homem considerado em si mesmo e nas suas relações com Deus e com seus semelhantes. Contêm as regras da vida do corpo, bem como as da vida da alma: são as leis morais.
 
-🔖 [Lei divina](#lei-divina)
-🔖 [Tempo](#tempo)
+- 🔖 [Lei divina](#lei-divina)
+- 🔖 [Tempo](#tempo)
 ---
 
 ##### #️⃣ Q.618 {#q618}
@@ -8854,7 +8869,7 @@ São as mesmas, para todos os mundos, as leis divinas?
 
 > ✨ ▸ A razão está a dizer que devem ser apropriadas à natureza de cada mundo e adequadas ao grau de progresso dos seres que os habitam.
 
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 #### 3.01.02. 📄 Conhecimento da lei natural {#lde-3-01-02}
@@ -8876,10 +8891,10 @@ Antes de se unir ao corpo, a alma compreende melhor a Lei de Deus do que depois 
 
 > ✨ ▸ Compreende-a de acordo com o grau de perfeição que tenha atingido e dela guarda a intuição quando unida ao corpo. Os maus instintos, porém, fazem ordinariamente que o homem a esqueça.
 
-🔖 [Alma](#alma)
-🔖 [Esquecimento](#esquecimento)
-🔖 [Instinto](#instinto)
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Alma](#alma)
+- 🔖 [Esquecimento](#esquecimento)
+- 🔖 [Instinto](#instinto)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.621 {#q621}
@@ -8888,8 +8903,8 @@ Onde está escrita a Lei de Deus?
 
 > ✨ ▸ Na consciência.
 
-🔖 [Consciência](#consciencia)
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Consciência](#consciencia)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.621.a {#q621a}
@@ -8898,7 +8913,7 @@ Visto que o homem traz em sua consciência a Lei de Deus, que necessidade havia 
 
 > ✨ ▸ Ele a esquecera e desprezara. Quis então Deus lhe fosse lembrada.
 
-🔖 [Presciência](#presciencia)
+- 🔖 [Presciência](#presciencia)
 ---
 
 ##### #️⃣ Q.622 {#q622}
@@ -8907,7 +8922,7 @@ Confiou Deus a certos homens a missão de revelarem a sua Lei?
 
 > ✨ ▸ Indubitavelmente. Em todos os tempos houve homens que tiveram essa missão. São Espíritos superiores, que encarnam com o fim de fazer progredir a Humanidade.
 
-🔖 [Revelação](#revelacao)
+- 🔖 [Revelação](#revelacao)
 ---
 
 ##### #️⃣ Q.623 {#q623}
@@ -8916,7 +8931,7 @@ Os que hão pretendido instruir os homens na Lei de Deus não se têm enganado a
 
 > ✨ ▸ Certamente hão dado causa a que os homens se transviassem, aqueles que não eram inspirados por Deus e que, por ambição, tomaram sobre si um encargo que lhes não fora cometido. Todavia, como eram, afinal, homens de gênio, mesmo entre os erros que ensinaram, grandes verdades muitas vezes se encontram.
 
-🔖 [Erro](#erro)
+- 🔖 [Erro](#erro)
 ---
 
 ##### #️⃣ Q.624 {#q624}
@@ -8925,7 +8940,7 @@ Qual o caráter do verdadeiro profeta?
 
 > ✨ ▸ O verdadeiro profeta é um homem de bem, inspirado por Deus. Podeis reconhecê-lo pelas suas palavras e pelos seus atos. Impossível é que Deus se sirva da boca do mentiroso para ensinar a verdade.
 
-🔖 [Profeta](#profeta)
+- 🔖 [Profeta](#profeta)
 ---
 
 ##### #️⃣ Q.625 {#q625}
@@ -8938,9 +8953,9 @@ Qual o tipo mais perfeito que Deus tem oferecido ao homem, para lhe servir de gu
 
 > 👴🏻 ▸ Quanto aos que, pretendendo instruir o homem na Lei de Deus, o têm transviado, ensinando-lhe falsos princípios, isso aconteceu por haverem deixado que os dominassem sentimentos demasiado terrenos e por terem confundido as leis que regulam as condições da vida da alma, com as que regem a vida do corpo. Muitos hão apresentado como leis divinas simples leis humanas estatuídas para servir às paixões e dominar os homens.
 
-🔖 [Instrução](#instrucao)
-🔖 [Jesus](#jesus)
-🔖 [Perfeição](#perfeicao)
+- 🔖 [Instrução](#instrucao)
+- 🔖 [Jesus](#jesus)
+- 🔖 [Perfeição](#perfeicao)
 ---
 
 ##### #️⃣ Q.626 {#q626}
@@ -8949,8 +8964,8 @@ Só por Jesus foram reveladas as leis divinas e naturais? Antes do seu aparecime
 
 > ✨ ▸ Já não dissemos que elas estão escritas por toda parte? Desde os séculos mais longínquos, todos os que meditaram sobre a sabedoria hão podido compreendê-las e ensiná-las. Pelos ensinos, mesmo incompletos, que espalharam, prepararam o terreno para receber a semente. Estando as Leis divinas escritas no livro da natureza, possível foi ao homem conhecê-las, logo que as quis procurar. Por isso é que os preceitos que consagram foram, desde todos os tempos, proclamados pelos homens de bem; e também por isso é que elementos delas se encontram, se bem que incompletos ou adulterados pela ignorância, na doutrina moral de todos os povos saídos da barbárie.
 
-🔖 [Lei divina](#lei-divina)
-🔖 [Revelação](#revelacao)
+- 🔖 [Lei divina](#lei-divina)
+- 🔖 [Revelação](#revelacao)
 ---
 
 ##### #️⃣ Q.627 {#q627}
@@ -8961,8 +8976,8 @@ Uma vez que Jesus ensinou as verdadeiras Leis de Deus, qual a utilidade do ensin
 > 
 > Faz-se mister agora que a verdade se torne inteligível para todo mundo. Muito necessário é que aquelas leis sejam explicadas e desenvolvidas, tão poucos são os que as compreendem e ainda menos os que as praticam. A nossa missão consiste em abrir os olhos e os ouvidos a todos, confundindo os orgulhosos e desmascarando os hipócritas: os que vestem a capa da virtude e da religião, a fim de ocultarem suas torpezas. O ensino dos Espíritos tem que ser claro e sem equívocos, para que ninguém possa pretextar ignorância e para que todos o possam julgar e apreciar com a razão. Estamos incumbidos de preparar o reino do bem que Jesus anunciou. Daí a necessidade de que a ninguém seja possível interpretar a Lei de Deus ao sabor de suas paixões, nem falsear o sentido de uma lei toda de amor e de caridade.
 
-🔖 [Ensino](#ensino)
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Ensino](#ensino)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.628 {#q628}
@@ -8973,9 +8988,9 @@ Por que a verdade não foi sempre posta ao alcance de toda gente?
 > 
 > Jamais permitiu Deus que o homem recebesse comunicações tão completas e instrutivas como as que hoje lhe são dadas. Havia, como sabeis, na Antiguidade alguns indivíduos possuidores do que eles próprios consideravam uma ciência sagrada e da qual faziam mistério para os que, aos seus olhos, eram tidos por profanos. Pelo que conheceis das leis que regem estes fenômenos, deveis compreender que esses indivíduos apenas recebiam algumas verdades esparsas, dentro de um conjunto equívoco e, na maioria dos casos, emblemático. Entretanto, para o estudioso, não há nenhum sistema antigo de filosofia, nenhuma tradição, nenhuma religião, que seja desprezível, pois em tudo há germens de grandes verdades que, se bem pareçam contraditórias entre si, dispersas que se acham em meio de acessórios sem fundamento, facilmente coordenáveis se vos apresentam, graças à explicação que o Espiritismo dá de uma imensidade de coisas que até agora se vos afiguraram sem razão alguma e cuja realidade está hoje irrecusavelmente demonstrada. Não desprezeis, portanto, os objetos de estudo que esses materiais oferecem. Ricos eles são de tais objetos e podem contribuir grandemente para vossa instrução.
 
-🔖 [Antiguidade](#antiguidade)
-🔖 [Revelação](#revelacao)
-🔖 [Verdade](#verdade)
+- 🔖 [Antiguidade](#antiguidade)
+- 🔖 [Revelação](#revelacao)
+- 🔖 [Verdade](#verdade)
 ---
 
 #### 3.01.03. 📄 O bem e o mal {#lde-3-01-03}
@@ -8993,8 +9008,8 @@ Como se pode distinguir o bem do mal?
 
 > ✨ ▸ O bem é tudo o que é conforme a Lei de Deus; o mal, tudo o que lhe é contrário. Assim, fazer o bem é proceder de acordo com a Lei de Deus. Fazer o mal é infringi-la.
 
-🔖 [Bem](#bem)
-🔖 [Mal](#mal)
+- 🔖 [Bem](#bem)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.631 {#q631}
@@ -9003,8 +9018,8 @@ Tem meios o homem de distinguir por si mesmo o que é bem do que é mal?
 
 > ✨ ▸ Sim, quando crê em Deus e o quer saber. Deus lhe deu a inteligência para distinguir um do outro.
 
-🔖 [Crença](#crenca)
-🔖 [Vontade](#vontade)
+- 🔖 [Crença](#crenca)
+- 🔖 [Vontade](#vontade)
 ---
 
 ##### #️⃣ Q.632 {#q632}
@@ -9024,9 +9039,9 @@ A regra do bem e do mal, que se poderia chamar de *reciprocidade* ou de *solidar
 
 > ✨ ▸ Quando comeis em excesso, verificais que isso vos faz mal. Pois bem, é Deus quem vos dá a medida daquilo de que necessitais. Quando excedeis dessa medida, sois punidos. Em tudo é assim. A lei natural traça para o homem o limite das suas necessidades. Se ele ultrapassa esse limite, é punido pelo sofrimento. Se atendesse sempre à voz que lhe diz — *basta*, evitaria a maior parte dos males, cuja culpa lança à Natureza.
 
-🔖 [Bem](#bem)
-🔖 [Erro](#erro)
-🔖 [Mal](#mal)
+- 🔖 [Bem](#bem)
+- 🔖 [Erro](#erro)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.634 {#q634}
@@ -9035,8 +9050,8 @@ Por que está o mal na natureza das coisas? Falo do mal moral. Não podia Deus t
 
 > ✨ ▸ Já te dissemos: os Espíritos foram criados simples e ignorantes (👉🏻 Veja [Q.115](#q115)). Deus deixa que o homem escolha o caminho. Tanto pior para ele, se toma o caminho mau: mais longa será sua peregrinação. Se não existissem montanhas, não compreenderia o homem que se pode subir e descer; se não existissem rochas, não compreenderia que há corpos duros. É preciso que o Espírito ganhe experiência; é preciso, portanto, que conheça o bem e o mal. Eis por que se une ao corpo.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Mal](#mal)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.635 {#q635}
@@ -9047,8 +9062,8 @@ Das diferentes posições sociais nascem necessidades que não são idênticas p
 
 > 👴🏻 ▸ As condições de existência do homem mudam de acordo com os tempos e os lugares, do que lhe resultam necessidades diferentes e posições sociais apropriadas a essas necessidades. Pois que está na ordem das coisas, tal diversidade é conforme a Lei de Deus, lei que não deixa de ser una quanto ao seu princípio. À razão cabe distinguir as necessidades reais das factícias ou convencionais.
 
-🔖 [Diversidade](#diversidade)
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Diversidade](#diversidade)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.636 {#q636}
@@ -9057,8 +9072,8 @@ São absolutos, para todos os homens, o bem e o mal?
 
 > ✨ ▸ A Lei de Deus é a mesma para todos, porém o mal depende principalmente da vontade que se tenha de o praticar. O bem é sempre o bem e o mal sempre o mal, qualquer que seja a posição do homem. Diferença só há quanto ao grau da responsabilidade.
 
-🔖 [Bem](#bem)
-🔖 [Responsabilidade](#responsabilidade)
+- 🔖 [Bem](#bem)
+- 🔖 [Responsabilidade](#responsabilidade)
 ---
 
 ##### #️⃣ Q.637 {#q637}
@@ -9069,10 +9084,10 @@ Será culpado o selvagem que, cedendo ao seu instinto, se nutre de carne humana?
 
 > 👴🏻 ▸ As circunstâncias dão relativa gravidade ao bem e ao mal. Muitas vezes, comete o homem faltas, que, nem por serem consequência da posição em que a sociedade o colocou, se tornam menos repreensíveis. A responsabilidade do homem é proporcionada aos meios de que ele dispõe para compreender o bem e o mal. Assim, mais culpado é, aos olhos de Deus, o homem instruído que pratica uma simples injustiça, do que o selvagem ignorante que se entrega aos seus instintos.
 
-🔖 [Antropofagia](#antropofagia)
-🔖 [Mal](#mal)
-🔖 [Responsabilidade](#responsabilidade)
-🔖 [Selvagem](#selvagem)
+- 🔖 [Antropofagia](#antropofagia)
+- 🔖 [Mal](#mal)
+- 🔖 [Responsabilidade](#responsabilidade)
+- 🔖 [Selvagem](#selvagem)
 ---
 
 ##### #️⃣ Q.638 {#q638}
@@ -9081,9 +9096,9 @@ Parece, às vezes, que o mal é uma consequência da força das coisas. Tal, por
 
 > ✨ ▸ Embora necessário, o mal não deixa de ser o mal. Essa necessidade desaparece, entretanto, à medida que a alma se depura, passando de uma a outra existência. Então, mais culpado é o homem, quando o pratica, porque melhor o compreende.
 
-🔖 [Crime](#crime)
-🔖 [Legítima defesa](#legitima-defesa)
-🔖 [Mal](#mal)
+- 🔖 [Crime](#crime)
+- 🔖 [Legítima defesa](#legitima-defesa)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.639 {#q639}
@@ -9092,7 +9107,7 @@ Não sucede frequentemente resultar o mal, que o homem pratica, da posição em 
 
 > ✨ ▸ O mal recai sobre quem lhe foi o causador. Nessas condições, aquele que é levado a praticar o mal pela posição em que seus semelhantes o colocam tem menos culpa do que os que, assim procedendo, o ocasionaram. Porque, cada um será punido, não só pelo mal que haja feito, mas também pelo mal a que tenha dado lugar.
 
-🔖 [Mal](#mal)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.640 {#q640}
@@ -9110,7 +9125,7 @@ Será tão repreensível, quanto fazer o mal, o desejá-lo?
 
 > ✨ ▸ Conforme. Há virtude em resistir-se voluntariamente ao mal que se deseja praticar, sobretudo quando há possibilidade de satisfazer-se a esse desejo. Se apenas não o pratica por falta de ocasião, é culpado quem o deseja.
 
-🔖 [Mal](#mal)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.642 {#q642}
@@ -9119,7 +9134,7 @@ Para agradar a Deus e assegurar a sua posição futura, bastará que o homem nã
 
 > ✨ ▸ Não; cumpre-lhe fazer o bem no limite de suas forças, porquanto responderá por todo mal *que haja resultado de não haver praticado o bem*.
 
-🔖 [Responsabilidade](#responsabilidade)
+- 🔖 [Responsabilidade](#responsabilidade)
 ---
 
 ##### #️⃣ Q.643 {#q643}
@@ -9128,7 +9143,7 @@ Haverá quem, pela sua posição, não tenha possibilidade de fazer o bem?
 
 > ✨ ▸ Não há quem não possa fazer o bem. Somente o egoísta nunca encontra ensejo de o praticar. Basta que se esteja em relações com outros homens para que se tenha ocasião de fazer o bem, e não há dia da existência que não ofereça, a quem não se ache cego pelo egoísmo, oportunidade de praticá-lo. Porque, fazer o bem não consiste, para o homem, apenas em ser caridoso, mas em ser útil, na medida do possível, todas as vezes que o seu concurso venha a ser necessário.
 
-🔖 [Egoísmo](#egoismo)
+- 🔖 [Egoísmo](#egoismo)
 ---
 
 ##### #️⃣ Q.644 {#q644}
@@ -9137,8 +9152,8 @@ Para certos homens, o meio onde se acham colocados não representa a causa prim�
 
 > ✨ ▸ Sim, mas ainda aí há uma prova que o Espírito escolheu, quando em liberdade, levado pelo desejo de expor-se à tentação para ter o mérito da resistência.
 
-🔖 [Ambiente](#ambiente)
-🔖 [Criminalidade](#criminalidade)
+- 🔖 [Ambiente](#ambiente)
+- 🔖 [Criminalidade](#criminalidade)
 ---
 
 ##### #️⃣ Q.645 {#q645}
@@ -9147,9 +9162,9 @@ Quando o homem se acha, de certo modo, mergulhado na atmosfera do vício, o mal 
 
 > ✨ ▸ Arrastamento, sim; irresistível, não; porquanto, mesmo dentro da atmosfera do vício, com grandes virtudes às vezes deparas. São Espíritos que tiveram a força de resistir e que, ao mesmo tempo, receberam a missão de exercer boa influência sobre os seus semelhantes.
 
-🔖 [Criminalidade](#criminalidade)
-🔖 [Missão](#missao)
-🔖 [Vício](#vicio)
+- 🔖 [Criminalidade](#criminalidade)
+- 🔖 [Missão](#missao)
+- 🔖 [Vício](#vicio)
 ---
 
 ##### #️⃣ Q.646 {#q646}
@@ -9161,8 +9176,8 @@ Estará subordinado a determinadas condições o mérito do bem que se pratique?
 > ✝️ ▸ **Marcos, cap. 12, vers. 41.44 e Lucas, cap. 21, vers. 1.4, ARC**
 
 
-🔖 [Bem](#bem)
-🔖 [Mérito](#merito)
+- 🔖 [Bem](#bem)
+- 🔖 [Mérito](#merito)
 ---
 
 #### 3.01.04. 📄 Divisão da lei natural {#lde-3-01-04}
@@ -9180,7 +9195,7 @@ Que pensais da divisão da lei natural em dez partes, compreendendo as leis de *
 
 > ✨ ▸ Essa divisão da Lei de Deus em dez partes é a de Moisés e de natureza a abranger todas as circunstâncias da vida, o que é essencial. Podes, pois, adotá-la, sem que, por isso, tenha qualquer coisa de absoluta, como não o tem nenhum dos outros sistemas de classificação, que todos dependem do prisma pelo qual se considere o que quer que seja. A última lei é a mais importante, por ser a que faculta ao homem adiantar-se mais na vida espiritual, visto que resume todas as outras.
 
-🔖 [Decálogo](#decalogo)
+- 🔖 [Decálogo](#decalogo)
 ---
 
 ### 3.02. 🗂️ Lei de adoração {#lde-3-02}
@@ -9192,6 +9207,7 @@ Neste capítulo:
 - [3.02.04. 📄 A prece](#lde-3-02-04)
 - [3.02.05. 📄 Politeísmo](#lde-3-02-05)
 - [3.02.06. 📄 Sacrifícios](#lde-3-02-06)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -9210,8 +9226,8 @@ Origina-se de um sentimento inato a adoração, ou é fruto de ensino?
 
 > ✨ ▸ Sentimento inato, como o da existência de Deus. A consciência da sua fraqueza leva o homem a curvar-se diante daquele que o pode proteger.
 
-🔖 [Adoração](#adoracao)
-🔖 [Fraqueza](#fraqueza)
+- 🔖 [Adoração](#adoracao)
+- 🔖 [Fraqueza](#fraqueza)
 ---
 
 ##### #️⃣ Q.651 {#q651}
@@ -9220,7 +9236,7 @@ Terá havido povos destituídos de todo sentimento de adoração?
 
 > ✨ ▸ Não, que nunca houve povos de ateus. Todos compreendem que acima de tudo há um Ente supremo.
 
-🔖 [Ateísmo](#ateismo)
+- 🔖 [Ateísmo](#ateismo)
 ---
 
 ##### #️⃣ Q.652 {#q652}
@@ -9229,8 +9245,8 @@ Poder-se-á considerar a lei natural como fonte originária da adoração?
 
 > ✨ ▸ A adoração está na lei natural, pois resulta de um sentimento inato no homem. Por essa razão é que existe entre todos os povos, se bem que sob formas diferentes.
 
-🔖 [Adoração](#adoracao)
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Adoração](#adoracao)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 #### 3.02.02. 📄 Adoração exterior {#lde-3-02-02}
@@ -9248,7 +9264,7 @@ Será útil a adoração exterior?
 
 > ✨ ▸ Sim, se não consistir num vão simulacro. É sempre útil dar um bom exemplo, mas os que somente por afetação e amor-próprio o fazem, desmentindo com o proceder a aparente piedade, mau exemplo dão e não imaginam o mal que causam.
 
-🔖 [Adoração](#adoracao)
+- 🔖 [Adoração](#adoracao)
 ---
 
 ##### #️⃣ Q.654 {#q654}
@@ -9265,12 +9281,12 @@ Tem Deus preferência pelos que o adoram desta ou daquela maneira?
 > 
 > Não pergunteis, pois, se alguma forma de adoração há que mais convenha, porque equivaleria a perguntardes se mais agrada a Deus ser adorado num idioma do que noutro. Ainda uma vez vos digo: até ele não chegam os cânticos, senão quando passam pela porta do coração.
 
-🔖 [Adoração](#adoracao)
-🔖 [Deus](#deus)
-🔖 [Falsidade](#falsidade)
-🔖 [Hipocrisia](#hipocrisia)
-🔖 [Religião](#religiao)
-🔖 [Ritual](#ritual)
+- 🔖 [Adoração](#adoracao)
+- 🔖 [Deus](#deus)
+- 🔖 [Falsidade](#falsidade)
+- 🔖 [Hipocrisia](#hipocrisia)
+- 🔖 [Religião](#religiao)
+- 🔖 [Ritual](#ritual)
 ---
 
 ##### #️⃣ Q.655 {#q655}
@@ -9279,7 +9295,7 @@ Merece censura aquele que pratica uma religião em que não crê do fundo da alm
 
 > ✨ ▸ Nisto, como em muitas outras coisas, a intenção constitui a regra. Não procede mal aquele que, assim fazendo, só tenha em vista respeitar as crenças de outrem. Procede melhor do que um que as ridiculize, porque, então, falta à caridade. Aquele, porém, que a pratique por interesse e por ambição se torna desprezível aos olhos de Deus e dos homens. A Deus não podem agradar os que fingem humilhar-se diante dele tão somente para granjear o aplauso dos homens.
 
-🔖 [Religião](#religiao)
+- 🔖 [Religião](#religiao)
 ---
 
 ##### #️⃣ Q.656 {#q656}
@@ -9289,7 +9305,7 @@ Merece censura aquele que pratica uma religião em que não crê do fundo da alm
 > ✨ ▸ Reunidos pela comunhão dos pensamentos e dos sentimentos, mais força têm os homens para atrair a si os bons Espíritos.
 > O mesmo se dá quando se reúnem para adorar a Deus. Não creiais, todavia, que menos valiosa seja a adoração particular, pois que cada um pode adorar a Deus pensando nele.
 
-🔖 [Comunhão](#comunhao)
+- 🔖 [Comunhão](#comunhao)
 ---
 
 #### 3.02.03. 📄 Vida contemplativa {#lde-3-02-03}
@@ -9316,7 +9332,7 @@ Qual o caráter geral da prece?
 
 > ✨ ▸ A prece é um ato de adoração. Orar a Deus é pensar nele; é aproximar-se dele; é pôr-se em comunicação com Ele. A três coisas podemos propor-nos por meio da prece: louvar, pedir, agradecer.
 
-🔖 [Oração](#oracao)
+- 🔖 [Oração](#oracao)
 ---
 
 ##### #️⃣ Q.660 {#q660}
@@ -9325,7 +9341,7 @@ A prece torna melhor o homem?
 
 > ✨ ▸ Sim, porquanto aquele que ora com fervor e confiança se faz mais forte contra as tentações do mal e Deus lhe envia bons Espíritos para assisti-lo. É este um socorro que jamais se lhe recusa, quando pedido com sinceridade.
 
-🔖 [Fortalecimento](#fortalecimento)
+- 🔖 [Fortalecimento](#fortalecimento)
 ---
 
 ##### #️⃣ Q.660.a {#q660a}
@@ -9334,7 +9350,7 @@ Como é que certas pessoas, que oram muito, são, não obstante, de mau caráter
 
 > ✨ ▸ O essencial não é orar muito, mas orar bem. Essas pessoas supõem que todo o mérito está na longura da prece e fecham os olhos para os seus próprios defeitos. Fazem da prece uma ocupação, um emprego do tempo, nunca, porém, *um estudo de si mesmas*. A ineficácia, em tais casos, não é do remédio, sim da maneira por que o aplicam.
 
-🔖 [Oração](#oracao)
+- 🔖 [Oração](#oracao)
 ---
 
 ##### #️⃣ Q.661 {#q661}
@@ -9343,8 +9359,8 @@ Poderemos utilmente pedir a Deus que perdoe as nossas faltas?
 
 > ✨ ▸ Deus sabe discernir o bem do mal; a prece não esconde as faltas. Aquele que a Deus pede perdão de suas faltas só o obtém mudando de proceder. As boas ações são a melhor prece, por isso que os atos valem mais que as palavras.
 
-🔖 [Oração](#oracao)
-🔖 [Perdão](#perdao)
+- 🔖 [Oração](#oracao)
+- 🔖 [Perdão](#perdao)
 ---
 
 ##### #️⃣ Q.662 {#q662}
@@ -9355,8 +9371,8 @@ Pode-se, com utilidade, orar por outrem?
 
 > 👴🏻 ▸ O pensamento e a vontade representam em nós um poder de ação que alcança muito além dos limites da nossa esfera corporal. A prece que façamos por outrem é um ato dessa vontade. Se for ardente e sincera, pode chamar, em auxílio daquele por quem oramos, os bons Espíritos, que lhe virão sugerir bons pensamentos e dar a força de que necessitem seu corpo e sua alma. Ainda aqui, a prece do coração é tudo, a dos lábios nada vale.
 
-🔖 [Intercessão](#intercessao)
-🔖 [Oração](#oracao)
+- 🔖 [Intercessão](#intercessao)
+- 🔖 [Oração](#oracao)
 ---
 
 ##### #️⃣ Q.663 {#q663}
@@ -9367,11 +9383,11 @@ Podem as preces, que por nós mesmos fizermos, mudar a natureza das nossas prova
 > 
 > Ele é punido naquilo em que pecou. Todavia, as súplicas justas são atendidas mais vezes do que supondes. Julgais, de ordinário, que Deus não vos ouve, porque não faz a vosso favor um milagre, enquanto vos assiste por meios tão naturais que vos parecem obra do acaso ou da força das coisas. Muitas vezes também, as mais das vezes mesmo, ele vos sugere a ideia que vos fará sair da dificuldade pelo vosso próprio esforço.
 
-🔖 [Acaso](#acaso)
-🔖 [Lei divina](#lei-divina)
-🔖 [Oração](#oracao)
-🔖 [Provas](#provas)
-🔖 [Provação](#provacao)
+- 🔖 [Acaso](#acaso)
+- 🔖 [Lei divina](#lei-divina)
+- 🔖 [Oração](#oracao)
+- 🔖 [Provas](#provas)
+- 🔖 [Provação](#provacao)
 ---
 
 ##### #️⃣ Q.664 {#q664}
@@ -9382,10 +9398,10 @@ Será útil que oremos pelos mortos e pelos Espíritos sofredores? E, neste caso
 
 ↩️ Voltar para [Q.997](#q997)
 
-🔖 [Despertamento](#despertamento)
-🔖 [Espírito sofredor](#espirito-sofredor)
-🔖 [Morto](#morto)
-🔖 [Oração](#oracao)
+- 🔖 [Despertamento](#despertamento)
+- 🔖 [Espírito sofredor](#espirito-sofredor)
+- 🔖 [Morto](#morto)
+- 🔖 [Oração](#oracao)
 ---
 
 ##### #️⃣ Q.665 {#q665}
@@ -9401,9 +9417,9 @@ Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por
 
 > Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas *só* então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
 
-🔖 [Mandamento](#mandamento)
-🔖 [Morto](#morto)
-🔖 [Oração](#oracao)
+- 🔖 [Mandamento](#mandamento)
+- 🔖 [Morto](#morto)
+- 🔖 [Oração](#oracao)
 ---
 
 ##### #️⃣ Q.666 {#q666}
@@ -9412,8 +9428,8 @@ Pode-se orar aos Espíritos?
 
 > ✨ ▸ Pode-se orar aos bons Espíritos, como os mensageiros de Deus e os executores de suas vontades. O poder deles, porém, está em relação com a superioridade que tenham alcançado e dimana sempre do Senhor de todas as coisas, sem cuja permissão nada se faz. Eis por que as preces que se lhes dirigem só são eficazes se bem-aceitas por Deus.
 
-🔖 [Espírito bom](#espirito-bom)
-🔖 [Valor](#valor)
+- 🔖 [Espírito bom](#espirito-bom)
+- 🔖 [Valor](#valor)
 ---
 
 #### 3.02.05. 📄 Politeísmo {#lde-3-02-05}
@@ -9437,11 +9453,11 @@ Tendo-se produzido em todos os tempos e sendo conhecidos desde as primeiras idad
 > 
 > Vindo iluminar o mundo com a sua divina luz, o Cristianismo não se propôs destruir uma coisa que está na Natureza. Orientou, porém, a adoração para aquele a quem é devida. Quanto aos Espíritos, a lembrança deles se há perpetuado, conforme os povos, sob diversos nomes, e suas manifestações, que nunca deixaram de produzir-se, foram interpretadas de maneiras diferentes e muitas vezes exploradas sob o prestígio do mistério. Enquanto para a religião essas manifestações eram fenônemo miraculosos, para os incrédulos sempre foram embustes. Hoje, mercê de um estudo mais sério, feito à luz meridiana, o Espiritismo, escoimado das ideias supersticiosas que o ensombraram durante séculos, nos revela um dos maiores e mais sublimes princípios da Natureza.
 
-🔖 [Adoração](#adoracao)
-🔖 [Cristianismo](#cristianismo)
-🔖 [Deus](#deus)
-🔖 [Fenômeno espírita](#fenomeno-espirita)
-🔖 [Politeísmo](#politeismo)
+- 🔖 [Adoração](#adoracao)
+- 🔖 [Cristianismo](#cristianismo)
+- 🔖 [Deus](#deus)
+- 🔖 [Fenômeno espírita](#fenomeno-espirita)
+- 🔖 [Politeísmo](#politeismo)
 ---
 
 #### 3.02.06. 📄 Sacrifícios {#lde-3-02-06}
@@ -9459,9 +9475,9 @@ De modo que os sacrifícios de animais precederam os sacrifícios humanos?
 
 > ✨ ▸ Sobre isso não pode haver a menor dúvida.
 
-🔖 [Adoração](#adoracao)
-🔖 [Animais](#animais)
-🔖 [Sacrifício](#sacrificio)
+- 🔖 [Adoração](#adoracao)
+- 🔖 [Animais](#animais)
+- 🔖 [Sacrifício](#sacrificio)
 ---
 
 ##### #️⃣ Q.669.b {#q669b}
@@ -9470,8 +9486,8 @@ Então, de acordo com a explicação que vindes de dar, não foi de um sentiment
 
 > ✨ ▸ Não; originaram-se de uma ideia errônea quanto à maneira de agradar a Deus. Considerai o que se deu com Abraão. Com o correr dos tempos, os homens entraram a abusar dessas práticas, imolando seus inimigos comuns, até mesmo seus inimigos particulares. Deus, entretanto, nunca exigiu sacrifícios, nem de homens, nem, sequer, de animais. Não há como imaginar-se que se lhe possa prestar culto, mediante a destruição inútil de suas criaturas.
 
-🔖 [Adoração](#adoracao)
-🔖 [Sacrifício](#sacrificio)
+- 🔖 [Adoração](#adoracao)
+- 🔖 [Sacrifício](#sacrificio)
 ---
 
 ##### #️⃣ Q.670 {#q670}
@@ -9480,9 +9496,9 @@ Dar-se-á que alguma vez possam ter sido agradáveis a Deus os sacrifícios huma
 
 > ✨ ▸ Não, nunca. Deus, porém, julga pela intenção. Sendo ignorantes os homens, natural era que supusessem praticar ato louvável imolando seus semelhantes. Nesses casos, Deus atentava unicamente na ideia que presidia ao ato e não neste. À proporção que se foram melhorando, os homens tiveram que reconhecer o erro em que laboravam e que reprovar tais sacrifícios, com que não podiam conformar-se as ideias de Espíritos esclarecidos. Digo — esclarecidos, porque os Espíritos tinham então a envolvê-los o véu material, mas, por meio do livre-arbítrio, possível lhes era vislumbrar suas origens e fim, e muitos, por intuição, já compreendiam o mal que praticavam, se bem que nem por isso deixassem de praticá-lo, para satisfazer às suas paixões.
 
-🔖 [Aperfeiçoamento](#aperfeicoamento)
-🔖 [Deus](#deus)
-🔖 [Valor](#valor)
+- 🔖 [Aperfeiçoamento](#aperfeicoamento)
+- 🔖 [Deus](#deus)
+- 🔖 [Valor](#valor)
 ---
 
 ##### #️⃣ Q.671 {#q671}
@@ -9491,8 +9507,8 @@ Que devemos pensar das chamadas guerras santas? O sentimento que impele os povos
 
 > ✨ ▸ São impelidos pelos maus Espíritos e, fazendo a guerra aos seus semelhantes, contravêm à vontade de Deus, que manda ame cada um o seu irmão, como a si mesmo. Todas as religiões, ou, antes, todos os povos adoram um mesmo Deus, qualquer que seja o nome que lhe deem. Por que então há de um fazer guerra a outro, sob o fundamento de ser a religião deste diferente da sua, ou por não ter ainda atingido o grau de progresso da religião dos povos cultos? Se são desculpáveis os povos de não crerem na palavra daquele que o Espírito de Deus animava e que Deus enviou, sobretudo os que não o viram e não lhe testemunharam os atos, como pretenderdes que creiam nessa palavra de paz, quando lhes ides levá-la de espada em punho? Eles têm que ser esclarecidos e devemos esforçar-nos por fazê-los conhecer a doutrina do Salvador, mediante a persuasão e com brandura, nunca a ferro e fogo. Em vossa maioria, não acreditais nas comunicações que temos com certos mortais; como quereríeis que estranhos acreditassem na vossa palavra, quando desmentis com os atos a doutrina que pregais?
 
-🔖 [Guerra](#guerra)
-🔖 [Jesus](#jesus)
+- 🔖 [Guerra](#guerra)
+- 🔖 [Jesus](#jesus)
 ---
 
 ##### #️⃣ Q.672 {#q672}
@@ -9501,10 +9517,10 @@ A oferenda feita a Deus, de frutos da terra, tinha a seus olhos mais mérito do 
 
 > ✨ ▸ Já vos respondi, declarando que Deus julga segundo a intenção e que para Ele pouca importância tinha o fato. Mais agradável evidentemente era a Deus que lhe oferecessem frutos da terra, em vez do sangue das vítimas. Como temos dito e sempre repetiremos, a prece proferida do fundo da alma é cem vezes mais agradável a Deus do que todas as oferendas que lhe possais fazer. Repito que a intenção é tudo, que o fato nada vale.
 
-🔖 [Deus](#deus)
-🔖 [Oferenda](#oferenda)
-🔖 [Sacrifício](#sacrificio)
-🔖 [Valor](#valor)
+- 🔖 [Deus](#deus)
+- 🔖 [Oferenda](#oferenda)
+- 🔖 [Sacrifício](#sacrificio)
+- 🔖 [Valor](#valor)
 ---
 
 ##### #️⃣ Q.673 {#q673}
@@ -9513,9 +9529,9 @@ Não seria um meio de tornar essas oferendas agradáveis a Deus consagrá-las a 
 
 > ✨ ▸ Deus abençoa sempre os que fazem o bem. O melhor meio de honrá-lo consiste em minorar os sofrimentos dos pobres e dos aflitos. Não quero dizer com isto que Ele desaprove as cerimônias que praticais para lhe dirigirdes as vossas preces. Muito dinheiro, porém, aí se gasta que poderia ser empregado mais utilmente do que o é. Deus ama a simplicidade em tudo. O homem que se atém às exterioridades e não ao coração é um Espírito de vistas acanhadas. Dizei, em consciência, se Deus deve atender mais à forma do que ao fundo.
 
-🔖 [Adoração](#adoracao)
-🔖 [Bem](#bem)
-🔖 [Oferenda](#oferenda)
+- 🔖 [Adoração](#adoracao)
+- 🔖 [Bem](#bem)
+- 🔖 [Oferenda](#oferenda)
 ---
 
 ### 3.03. 🗂️ Lei do trabalho {#lde-3-03}
@@ -9523,6 +9539,7 @@ Não seria um meio de tornar essas oferendas agradáveis a Deus consagrá-las a 
 Neste capítulo:
 - [3.03.01. 📄 Necessidade do trabalho](#lde-3-03-01)
 - [3.03.02. 📄 Limite do trabalho. Repouso](#lde-3-03-02)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -9541,8 +9558,8 @@ Por trabalho só se devem entender as ocupações materiais?
 
 > ✨ ▸ Não; o Espírito trabalha, assim como o corpo. Toda ocupação útil é trabalho.
 
-🔖 [Ocupação](#ocupacao)
-🔖 [Trabalho](#trabalho)
+- 🔖 [Ocupação](#ocupacao)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.676 {#q676}
@@ -9551,7 +9568,7 @@ Por que o trabalho se impõe ao homem?
 
 > ✨ ▸ Por ser uma consequência da sua natureza corpórea. É expiação e, ao mesmo tempo, meio de aperfeiçoamento da sua inteligência. Sem o trabalho, o homem permaneceria sempre na infância, quanto à inteligência. Por isso é que seu alimento, sua segurança e seu bem-estar dependem do seu trabalho e da sua atividade. Em compensação, ao extremamente fraco de corpo outorgou Deus a inteligência, mas é sempre um trabalho.
 
-🔖 [Trabalho](#trabalho)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.677 {#q677}
@@ -9560,8 +9577,8 @@ Por que provê a Natureza, por si mesma, a todas as necessidades dos animais?
 
 > ✨ ▸ Tudo na Natureza trabalha. Como tu, trabalham os animais, mas o trabalho deles, de acordo com a inteligência de que dispõem, se limita a cuidarem da própria conservação. Daí vem que, do trabalho não lhes resulta progresso, ao passo que o do homem visa duplo fim: a conservação do corpo e o desenvolvimento da faculdade de pensar, o que também é uma necessidade e o eleva acima de si mesmo. Quando digo que o trabalho dos animais se cifra no cuidarem da própria conservação, refiro-me ao objetivo com que trabalham. Entretanto, provendo às suas necessidades materiais, eles se constituem, inconscientemente, executores dos desígnios do Criador e, assim, o trabalho que executam também concorre para a realização do objetivo final da Natureza, se bem quase nunca lhe descubrais o resultado imediato.
 
-🔖 [Animais](#animais)
-🔖 [Homem](#homem)
+- 🔖 [Animais](#animais)
+- 🔖 [Homem](#homem)
 ---
 
 ##### #️⃣ Q.678 {#q678}
@@ -9570,8 +9587,8 @@ Nos mundos mais aperfeiçoados, os homens se acham submetidos à mesma necessida
 
 > ✨ ▸ A natureza do trabalho está em relação com a natureza das necessidades. Quanto menos materiais são estas, menos material é o trabalho. Não deduzais daí, porém, que o homem se conserve inativo e inútil. A ociosidade seria um suplício, em vez de ser um benefício.
 
-🔖 [Ociosidade](#ociosidade)
-🔖 [Trabalho](#trabalho)
+- 🔖 [Ociosidade](#ociosidade)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.679 {#q679}
@@ -9582,7 +9599,7 @@ Achar-se-á isento da lei do trabalho o homem que possua bens suficientes para l
 > 
 > Aquele a quem Deus facultou a posse de bens suficientes a lhe garantirem a existência não está, é certo, constrangido a alimentar-se com o suor do seu rosto, mas tanto maior lhe é a obrigação de ser útil aos seus semelhantes, quanto mais ocasiões de praticar o bem lhe proporciona o adiantamento que lhe foi feito.
 
-🔖 [Solidariedade](#solidariedade)
+- 🔖 [Solidariedade](#solidariedade)
 ---
 
 ##### #️⃣ Q.680 {#q680}
@@ -9591,7 +9608,7 @@ Não há homens que se encontram impossibilitados de trabalhar no que quer que s
 
 > ✨ ▸ Deus é justo e, pois, só condena aquele que voluntariamente tornou inútil a sua existência, porquanto esse vive a expensas do trabalho dos outros. Ele quer que cada um seja útil, de acordo com as suas faculdades.
 
-🔖 [Aptidão](#aptidao)
+- 🔖 [Aptidão](#aptidao)
 ---
 
 ##### #️⃣ Q.681 {#q681}
@@ -9600,7 +9617,7 @@ A Lei da Natureza impõe aos filhos a obrigação de trabalharem para seus pais?
 
 > ✨ ▸ Certamente, do mesmo modo que os pais têm que trabalhar para seus filhos. Foi por isso que Deus fez do amor filial e do amor paterno um sentimento natural. Foi para que, por essa afeição recíproca, os membros de uma família se sentissem impelidos a ajudarem-se mutuamente, o que, aliás, com muita frequência se esquece na vossa sociedade atual.
 
-🔖 [Amor](#amor)
+- 🔖 [Amor](#amor)
 ---
 
 #### 3.03.02. 📄 Limite do trabalho. Repouso {#lde-3-03-02}
@@ -9611,7 +9628,7 @@ Sendo uma necessidade para todo aquele que trabalha, o repouso não é também u
 
 > ✨ ▸ Sem dúvida. O repouso serve para a reparação das forças do corpo e também é necessário para dar um pouco mais de liberdade à inteligência, a fim de que se eleve acima da matéria.
 
-🔖 [Descanso](#descanso)
+- 🔖 [Descanso](#descanso)
 ---
 
 ##### #️⃣ Q.683 {#q683}
@@ -9620,8 +9637,8 @@ Qual o limite do trabalho?
 
 > ✨ ▸ O das forças. Em suma, a esse respeito Deus deixa inteiramente livre o homem.
 
-🔖 [Regulamento](#regulamento)
-🔖 [Trabalho](#trabalho)
+- 🔖 [Regulamento](#regulamento)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.684 {#q684}
@@ -9632,7 +9649,7 @@ Que se deve pensar dos que abusam de sua autoridade, impondo a seus inferiores e
 
 ↩️ Voltar para [Q.807](#q807)
 
-🔖 [Trabalho](#trabalho)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.685 {#q685}
@@ -9643,8 +9660,8 @@ Tem o homem o direito de repousar na velhice?
 
 ↩️ Voltar para [Q.813](#q813)
 
-🔖 [Repouso](#repouso)
-🔖 [Velhice](#velhice)
+- 🔖 [Repouso](#repouso)
+- 🔖 [Velhice](#velhice)
 ---
 
 ##### #️⃣ Q.685.a {#q685a}
@@ -9655,10 +9672,10 @@ Então, que há de fazer o velho que precisa trabalhar para viver e não pode?
 
 > 👴🏻 ▸ Não basta se diga ao homem que lhe corre o dever de trabalhar. É preciso que aquele que tem de prover à sua existência por meio do trabalho encontre em que se ocupar, o que nem sempre acontece. Quando se generaliza, a suspensão do trabalho assume as proporções de um flagelo, qual a miséria. A ciência econômica procura remédio para isso no equilíbrio entre a produção e o consumo. Esse equilíbrio, porém, dado seja possível estabelecer-se, sofrerá sempre intermitências, durante as quais não deixa o trabalhador de ter que viver. Há um elemento, que se não costuma fazer pesar na balança e sem o qual a ciência econômica não passa de simples teoria. Esse elemento é a *educação*, não a educação intelectual, mas a educação moral. Não nos referimos, porém, à educação moral pelos livros e sim à que consiste na *arte de formar os caracteres*, à que *incute* *hábitos*, porquanto *a educação é o conjunto dos hábitos adquiridos*. Considerando-se a aluvião de indivíduos que todos os dias são lançados na torrente da população, sem princípios, sem freio e entregues a seus próprios instintos, serão de espantar as consequências desastrosas que daí decorrem? Quando essa arte for conhecida, compreendida e praticada, o homem terá no mundo hábitos de *ordem e de previdência* para consigo mesmo e para com os seus, *de respeito a tudo o que é respeitável*, hábitos que lhe permitirão atravessar menos penosamente os maus dias inevitáveis. A desordem e a imprevidência são duas chagas que só uma educação bem entendida pode curar. Esse o ponto de partida, o elemento real do bem-estar, o penhor da segurança de todos.
 
-🔖 [Aposentadoria](#aposentadoria)
-🔖 [Assistência social](#assistencia-social)
-🔖 [Economia](#economia)
-🔖 [Educação](#educacao)
+- 🔖 [Aposentadoria](#aposentadoria)
+- 🔖 [Assistência social](#assistencia-social)
+- 🔖 [Economia](#economia)
+- 🔖 [Educação](#educacao)
 ---
 
 ### 3.04. 🗂️ Lei de reprodução {#lde-3-04}
@@ -9669,6 +9686,7 @@ Neste capítulo:
 - [3.04.03. 📄 Obstáculos à reprodução](#lde-3-04-03)
 - [3.04.04. 📄 Casamento e celibato](#lde-3-04-04)
 - [3.04.05. 📄 Poligamia](#lde-3-04-05)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -9687,10 +9705,10 @@ Indo sempre a população na progressão crescente que vemos, chegará tempo em 
 
 > ✨ ▸ Não, Deus a isso provê e mantém sempre o equilíbrio. Ele coisa alguma inútil faz. O homem, que apenas vê um canto do quadro da Natureza, não pode julgar da harmonia do conjunto.
 
-🔖 [Equilíbrio](#equilibrio)
-🔖 [População](#populacao)
-🔖 [Reprodução](#reproducao)
-🔖 [Terra](#terra)
+- 🔖 [Equilíbrio](#equilibrio)
+- 🔖 [População](#populacao)
+- 🔖 [Reprodução](#reproducao)
+- 🔖 [Terra](#terra)
 ---
 
 #### 3.04.02. 📄 Sucessão e aperfeiçoamento das raças {#lde-3-04-02}
@@ -9708,7 +9726,7 @@ Os homens atuais formam uma criação nova, ou são descendentes aperfeiçoados 
 
 > ✨ ▸ São os mesmos Espíritos que *voltaram*, para se aperfeiçoar em novos corpos, mas que ainda estão longe da perfeição. Assim, a atual raça humana, que, pelo seu crescimento, tende a invadir toda a Terra e a substituir as raças que se extinguem, terá sua fase de decrescimento e de desaparição. Substituí-la-ão outras raças mais aperfeiçoadas, que descenderão da atual, como os homens civilizados de hoje descendem dos seres brutos e selvagens dos tempos primitivos.
 
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.690 {#q690}
@@ -9717,9 +9735,9 @@ Do ponto de vista físico, são de criação especial os corpos da raça atual, 
 
 > ✨ ▸ A origem das raças se perde na noite dos tempos. Como todas pertencem, porém, à grande família humana, qualquer que tenha sido o tronco de cada uma, elas puderam aliar-se entre si e produzir tipos novos.
 
-🔖 [Família](#familia)
-🔖 [Raças](#racas)
-🔖 [Reprodução](#reproducao)
+- 🔖 [Família](#familia)
+- 🔖 [Raças](#racas)
+- 🔖 [Reprodução](#reproducao)
 ---
 
 ##### #️⃣ Q.691 {#q691}
@@ -9728,7 +9746,7 @@ Qual, do ponto de vista físico, o caráter distintivo e dominante das raças pr
 
 > ✨ ▸ Desenvolvimento da força bruta, à custa da força intelectual. Agora, dá-se o contrário: o homem faz mais pela inteligência do que pela força do corpo. Todavia, faz cem vezes mais, porque soube tirar proveito das forças da Natureza, o que não conseguem os animais.
 
-🔖 [Raças](#racas)
+- 🔖 [Raças](#racas)
 ---
 
 ##### #️⃣ Q.692 {#q692}
@@ -9737,7 +9755,7 @@ Será contrário à Lei da Natureza o aperfeiçoamento das raças animais e vege
 
 > ✨ ▸ Tudo se deve fazer para chegar à perfeição e o próprio homem é um instrumento de que Deus se serve para atingir seus fins. Sendo a perfeição a meta para que tende a Natureza, favorecer essa perfeição é corresponder às vistas de Deus.
 
-🔖 [Ciência](#ciencia)
+- 🔖 [Ciência](#ciencia)
 ---
 
 ##### #️⃣ Q.692.a {#q692a}
@@ -9746,8 +9764,8 @@ Geralmente, os esforços que o homem emprega para conseguir a melhoria das raça
 
 > ✨ ▸ Que importa seja nulo o seu merecimento, desde que o progresso se realize? Cabe-lhe tornar meritório, pela intenção, o seu trabalho. Ademais, mediante esse trabalho, ele exercita e desenvolve a inteligência e sob este aspecto é que maior proveito tira.
 
-🔖 [Mérito](#merito)
-🔖 [Progresso](#progresso)
+- 🔖 [Mérito](#merito)
+- 🔖 [Progresso](#progresso)
 ---
 
 #### 3.04.03. 📄 Obstáculos à reprodução {#lde-3-04-03}
@@ -9772,7 +9790,7 @@ Que se deve pensar dos usos, cujo efeito consiste em obstar à reprodução, par
 
 > ✨ ▸ Isso prova a predominância do corpo sobre a alma e quanto o homem é material.
 
-🔖 [Reprodução](#reproducao)
+- 🔖 [Reprodução](#reproducao)
 ---
 
 #### 3.04.04. 📄 Casamento e celibato {#lde-3-04-04}
@@ -9792,7 +9810,7 @@ Que efeito teria sobre a sociedade humana a abolição do casamento?
 
 > 👴🏻 ▸ O estado de natureza é o da união livre e fortuita dos sexos. O casamento constitui um dos primeiros atos de progresso nas sociedades humanas, porque estabelece a solidariedade fraterna e se observa entre todos os povos, se bem que em condições diversas. A abolição do casamento seria, pois, regredir à infância da Humanidade e colocaria o homem abaixo mesmo de certos animais que lhe dão o exemplo de uniões constantes.
 
-🔖 [Sociedade](#sociedade)
+- 🔖 [Sociedade](#sociedade)
 ---
 
 ##### #️⃣ Q.697 {#q697}
@@ -9801,8 +9819,8 @@ Está na Lei da Natureza, ou somente na lei humana, a indissolubilidade absoluta
 
 > ✨ ▸ É uma lei humana muito contrária à da Natureza, mas os homens podem modificar suas leis; só as da Natureza são imutáveis.
 
-🔖 [Divórcio](#divorcio)
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Divórcio](#divorcio)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.698 {#q698}
@@ -9811,7 +9829,7 @@ O celibato voluntário representa um estado de perfeição meritório aos olhos 
 
 > ✨ ▸ Não, e os que assim vivem, por egoísmo, desagradam a Deus e enganam o mundo.
 
-🔖 [Egoísmo](#egoismo)
+- 🔖 [Egoísmo](#egoismo)
 ---
 
 ##### #️⃣ Q.699 {#q699}
@@ -9822,7 +9840,7 @@ Da parte de certas pessoas, o celibato não será um sacrifício que fazem com o
 
 > 👴🏻 ▸ Não é possível que Deus se contradiga, nem que ache mau o que Ele próprio fez. Nenhum mérito, portanto, pode haver na violação da sua lei. Se o celibato, em si mesmo, não é um estado meritório, outro tanto não se dá quando constitui, pela renúncia, às alegrias da família, um sacrifício praticado em prol da Humanidade. Todo sacrifício pessoal, tendo em vista o bem *e sem qualquer ideia egoísta*, eleva o homem acima da sua condição material.
 
-🔖 [Humanidade](#humanidade)
+- 🔖 [Humanidade](#humanidade)
 ---
 
 #### 3.04.05. 📄 Poligamia {#lde-3-04-05}
@@ -9844,9 +9862,9 @@ Qual das duas, a poligamia ou a monogamia, é mais conforme a Lei da Natureza?
 > 
 > Deve ser considerada como um uso ou legislação especial apropriada a certos costumes e que o aperfeiçoamento social fez que desaparecesse pouco a pouco.
 
-🔖 [Monogamia](#monogamia)
-🔖 [Poligamia](#poligamia)
-🔖 [Sensualidade](#sensualidade)
+- 🔖 [Monogamia](#monogamia)
+- 🔖 [Poligamia](#poligamia)
+- 🔖 [Sensualidade](#sensualidade)
 ---
 
 ### 3.05. 🗂️ Lei de conservação {#lde-3-05}
@@ -9857,6 +9875,7 @@ Neste capítulo:
 - [3.05.03. 📄 Gozo dos bens terrenos](#lde-3-05-03)
 - [3.05.04. 📄 Necessário e supérfluo](#lde-3-05-04)
 - [3.05.05. 📄 Privações voluntárias. Mortificações](#lde-3-05-05)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -9875,8 +9894,8 @@ Com que fim outorgou Deus a todos os seres vivos o instinto de conservação?
 
 > ✨ ▸ Porque todos têm que concorrer para cumprimento dos desígnios da Providência. Por isso foi que Deus lhes deu a necessidade de viver. Acresce que a vida é necessária ao aperfeiçoamento dos seres. Eles o sentem instintivamente, sem disso se aperceberem.
 
-🔖 [Aperfeiçoamento](#aperfeicoamento)
-🔖 [Seres vivos](#seres-vivos)
+- 🔖 [Aperfeiçoamento](#aperfeicoamento)
+- 🔖 [Seres vivos](#seres-vivos)
 ---
 
 #### 3.05.02. 📄 Meios de conservação {#lde-3-05-02}
@@ -9894,8 +9913,8 @@ Por que nem sempre a Terra produz bastante para fornecer ao homem o necessário?
 
 > ✨ ▸ É que, ingrato, o homem a despreza! Ela, no entanto, é excelente mãe. Muitas vezes, também, ele acusa a Natureza do que só é resultado da sua imperícia ou da sua imprevidência. A Terra produziria sempre o necessário, se com o necessário soubesse o homem contentar-se. Se o que ela produz não lhe basta a todas as necessidades, é que ele emprega no supérfluo o que poderia ser aplicado no necessário. Olha o árabe no deserto. Acha sempre de que viver, porque não cria para si necessidades factícias. Desde que haja desperdiçado a metade dos produtos em satisfazer a fantasias, que motivos tem o homem para se espantar de nada encontrar no dia seguinte e para se queixar de estar desprovido de tudo, quando chegam os dias de penúria? Em verdade vos digo, imprevidente não é a Natureza, é o homem, que não sabe regrar o seu viver.
 
-🔖 [Homem](#homem)
-🔖 [Necessário](#necessario)
+- 🔖 [Homem](#homem)
+- 🔖 [Necessário](#necessario)
 ---
 
 ##### #️⃣ Q.706 {#q706}
@@ -9904,7 +9923,7 @@ Por bens da Terra unicamente se devem entender os produtos do solo?
 
 > ✨ ▸ O solo é a fonte primacial donde dimanam todos os outros recursos, pois que, em definitivo, estes recursos são simples transformações dos produtos do solo. Por bens da Terra se deve, pois, entender tudo de que o homem pode gozar neste mundo.
 
-🔖 [Terra](#terra)
+- 🔖 [Terra](#terra)
 ---
 
 ##### #️⃣ Q.707 {#q707}
@@ -9920,14 +9939,14 @@ Por bens da Terra unicamente se devem entender os produtos do solo?
 > 
 > Fora preciso, entretanto, ser-se cego, para se não reconhecer o progresso que, por esse lado, têm feito os povos mais adiantados. Graças aos louváveis esforços que, juntas, a Filantropia e a Ciência não cessam de despender para melhorar a condição material dos homens e malgrado o crescimento incessante das populações, a insuficiência da produção se acha atenuada, pelo menos em grande parte, e os anos mais calamitosos do presente não se podem de modo algum comparar aos de outrora. A higiene pública, elemento tão essencial da força e da saúde, a higiene pública, que nossos pais não conheceram, é objeto de esclarecida solicitude. O infortúnio e o sofrimento encontram onde se refugiem. Por toda parte a Ciência contribui para acrescer o bem-estar. Poder-se-á dizer que já se haja chegado à perfeição? Oh! não, certamente; mas o que já se fez deixa prever o que, com perseverança, se logrará conseguir, se o homem se mostrar bastante avisado para procurar a sua felicidade nas coisas positivas e sérias e não em utopias que o levam a recuar em vez de fazê-lo avançar.
 
-🔖 [Caridade](#caridade)
-🔖 [Civilização](#civilizacao)
-🔖 [Ciência](#ciencia)
-🔖 [Egoísmo](#egoismo)
-🔖 [Filantropia](#filantropia)
-🔖 [Miséria](#miseria)
-🔖 [Obstáculos](#obstaculos)
-🔖 [Sol](#sol)
+- 🔖 [Caridade](#caridade)
+- 🔖 [Civilização](#civilizacao)
+- 🔖 [Ciência](#ciencia)
+- 🔖 [Egoísmo](#egoismo)
+- 🔖 [Filantropia](#filantropia)
+- 🔖 [Miséria](#miseria)
+- 🔖 [Obstáculos](#obstaculos)
+- 🔖 [Sol](#sol)
 ---
 
 ##### #️⃣ Q.708 {#q708}
@@ -9936,8 +9955,8 @@ Não há situações nas quais os meios de subsistência de maneira alguma depen
 
 > ✨ ▸ É isso uma prova, muitas vezes cruel, que lhe compete sofrer e à qual sabia ele de antemão que viria a estar exposto. Seu mérito então consiste em submeter-se à vontade de Deus, desde que a sua inteligência nenhum meio lhe faculta de sair da dificuldade. Se a morte vier colhê-lo, cumpre-lhe recebê-la sem murmurar, ponderando que a hora da verdadeira libertação soou *e que o desespero no derradeiro momento pode ocasionar-lhe a perda do fruto de toda a sua resignação*.
 
-🔖 [Desespero](#desespero)
-🔖 [Mérito](#merito)
+- 🔖 [Desespero](#desespero)
+- 🔖 [Mérito](#merito)
 ---
 
 ##### #️⃣ Q.709 {#q709}
@@ -9946,8 +9965,8 @@ Terão cometido crime os que, em certas situações críticas, se viram na conti
 
 > ✨ ▸ Já respondi, quando disse que há mais merecimento em sofrer todas as provações da vida com coragem e abnegação. Em tal caso, há homicídio e crime de lesa-natureza, falta que é duplamente punida.
 
-🔖 [Antropofagia](#antropofagia)
-🔖 [Fome](#fome)
+- 🔖 [Antropofagia](#antropofagia)
+- 🔖 [Fome](#fome)
 ---
 
 ##### #️⃣ Q.710 {#q710}
@@ -9956,7 +9975,7 @@ Nos mundos de mais apurada organização, têm os seres vivos necessidade de ali
 
 > ✨ ▸ Têm, mas seus alimentos estão em relação com a sua natureza. Tais alimentos não seriam bastante substanciosos para os vossos estômagos grosseiros; assim como os deles não poderiam digerir os vossos alimentos.
 
-🔖 [Alimentação](#alimentacao)
+- 🔖 [Alimentação](#alimentacao)
 ---
 
 #### 3.05.03. 📄 Gozo dos bens terrenos {#lde-3-05-03}
@@ -9974,8 +9993,8 @@ Com que fim pôs Deus atrativos no gozo dos bens materiais?
 
 > ✨ ▸ Para instigar o homem ao cumprimento da sua missão e para experimentá-lo por meio da tentação.
 
-🔖 [Missão](#missao)
-🔖 [Tentação](#tentacao)
+- 🔖 [Missão](#missao)
+- 🔖 [Tentação](#tentacao)
 ---
 
 ##### #️⃣ Q.712.a {#q712a}
@@ -9986,9 +10005,9 @@ Qual o objetivo dessa tentação?
 
 > 👴🏻 ▸ Se o homem só fosse instigado a usar dos bens terrenos pela utilidade que têm, sua indiferença houvera talvez comprometido a harmonia do Universo. Deus imprimiu a esse uso o atrativo do prazer, porque assim é o homem impelido ao cumprimento dos desígnios providenciais. Além disso, porém, dando àquele uso esse atrativo, quis Deus também experimentar o homem por meio da tentação, que o arrasta para o abuso, de que deve a razão defendê-lo.
 
-🔖 [Bens terrenos](#bens-terrenos)
-🔖 [Razão](#razao)
-🔖 [Tentação](#tentacao)
+- 🔖 [Bens terrenos](#bens-terrenos)
+- 🔖 [Razão](#razao)
+- 🔖 [Tentação](#tentacao)
 ---
 
 ##### #️⃣ Q.713 {#q713}
@@ -9997,7 +10016,7 @@ Traçou a Natureza limites aos gozos?
 
 > ✨ ▸ Traçou, para vos indicar o limite do necessário; mas, pelos vossos excessos, chegais à saciedade e vos punis a vós mesmos.
 
-🔖 [Gozo](#gozo)
+- 🔖 [Gozo](#gozo)
 ---
 
 ##### #️⃣ Q.714 {#q714}
@@ -10014,8 +10033,8 @@ Perto da morte física, ou da morte moral?
 
 > 👴🏻 ▸ O homem, que procura nos excessos de todo gênero o requinte do gozo, coloca-se abaixo do bruto, pois que este sabe deter-se, quando satisfeita a sua necessidade. Abdica da razão que Deus lhe deu por guia e quanto maiores forem seus excessos, tanto maior preponderância confere ele à sua natureza animal sobre a sua natureza espiritual. As doenças, as enfermidades e, ainda, a morte, que resultam do abuso, são, ao mesmo tempo, o castigo à transgressão da Lei de Deus.
 
-🔖 [Excessos](#excessos)
-🔖 [Gozo](#gozo)
+- 🔖 [Excessos](#excessos)
+- 🔖 [Gozo](#gozo)
 ---
 
 #### 3.05.04. 📄 Necessário e supérfluo {#lde-3-05-04}
@@ -10026,7 +10045,7 @@ Como pode o homem conhecer o limite do necessário?
 
 > ✨ ▸ Aquele que é ponderado o conhece por intuição. Muitos só chegam a conhecê-lo por experiência e à sua própria custa.
 
-🔖 [Acerto](#acerto)
+- 🔖 [Acerto](#acerto)
 ---
 
 ##### #️⃣ Q.716 {#q716}
@@ -10035,7 +10054,7 @@ Mediante a organização que nos deu, não traçou a Natureza o limite das nossa
 
 > ✨ ▸ Sem dúvida, mas o homem é insaciável. Por meio da organização que lhe deu, a Natureza lhe traçou o limite das necessidades; porém os vícios lhe alteraram a constituição e lhe criaram necessidades que não são reais.
 
-🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Corpo físico](#corpo-fisico)
 ---
 
 ##### #️⃣ Q.717 {#q717}
@@ -10046,8 +10065,8 @@ Que se há de pensar dos que açambarcam os bens da Terra para se proporcionarem
 
 > 👴🏻 ▸ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilização criou necessidades que o selvagem desconhece e os Espíritos que ditaram os preceitos acima não pretendem que o homem civilizado deva viver como o selvagem. Tudo é relativo, cabendo à razão regrar as coisas. A civilização desenvolve o senso moral e, ao mesmo tempo, o sentimento de caridade, que leva os homens a se prestarem mútuo apoio. Os que vivem à custa das privações dos outros exploram, em seu proveito, os benefícios da civilização. Desta têm apenas o verniz, como muitos há que da religião só têm a máscara.
 
-🔖 [Ambição](#ambicao)
-🔖 [Parasitose espiritual](#parasitose-espiritual)
+- 🔖 [Ambição](#ambicao)
+- 🔖 [Parasitose espiritual](#parasitose-espiritual)
 ---
 
 #### 3.05.05. 📄 Privações voluntárias. Mortificações {#lde-3-05-05}
@@ -10065,7 +10084,7 @@ Merece censura o homem, por procurar o bem-estar?
 
 > ✨ ▸ É natural o desejo do bem-estar. Deus só proíbe o abuso, por ser contrário à conservação. Ele não condena a procura do bem-estar, desde que não seja conseguido à custa de outrem e não venha a diminuir-vos nem as forças físicas, nem as forças morais.
 
-🔖 [Bem-estar](#bem-estar)
+- 🔖 [Bem-estar](#bem-estar)
 ---
 
 ##### #️⃣ Q.720 {#q720}
@@ -10074,7 +10093,7 @@ São meritórias aos olhos de Deus as privações voluntárias, com o objetivo d
 
 > ✨ ▸ Fazei o bem aos vossos semelhantes e mais mérito tereis.
 
-🔖 [Privação](#privacao)
+- 🔖 [Privação](#privacao)
 ---
 
 ##### #️⃣ Q.720.a {#q720a}
@@ -10089,7 +10108,7 @@ Haverá privações voluntárias que sejam meritórias?
 
 > ✨ ▸ Procurai saber *a quem* ela aproveita e tereis a resposta. Se somente serve para quem a pratica e o impede de fazer o bem, é egoísmo, seja qual for o pretexto com que entendam de colori-la. Privar-se a si mesmo e trabalhar para os outros, tal a verdadeira mortificação, segundo a caridade cristã.
 
-🔖 [Mérito](#merito)
+- 🔖 [Mérito](#merito)
 ---
 
 ##### #️⃣ Q.722 {#q722}
@@ -10098,8 +10117,8 @@ Será racional a abstenção de certos alimentos, prescrita a diversos povos?
 
 > ✨ ▸ Permitido é ao homem alimentar-se de tudo o que lhe não prejudique a saúde. Alguns legisladores, porém, com um fim útil, entenderam de interdizer o uso de certos alimentos e, para maior autoridade imprimirem às suas leis, apresentaram-nas como emanadas de Deus.
 
-🔖 [Alimento](#alimento)
-🔖 [Saúde](#saude)
+- 🔖 [Alimento](#alimento)
+- 🔖 [Saúde](#saude)
 ---
 
 ##### #️⃣ Q.723 {#q723}
@@ -10108,7 +10127,7 @@ A alimentação animal é, com relação ao homem, contrária à Lei da Natureza
 
 > ✨ ▸ Dada a vossa constituição física, a carne alimenta a carne, do contrário o homem se debilita. A lei de conservação lhe prescreve, como um dever, que mantenha suas forças e sua saúde, para cumprir a lei do trabalho. Ele, pois, tem que se alimentar conforme o reclame a sua organização.
 
-🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Corpo físico](#corpo-fisico)
 ---
 
 ##### #️⃣ Q.724 {#q724}
@@ -10117,8 +10136,8 @@ Será meritório abster-se o homem da alimentação animal, ou de outra qualquer
 
 > ✨ ▸ Sim, se praticar essa privação em benefício dos outros. Aos olhos de Deus, porém, só há mortificação, havendo privação *séria e útil*. Por isso é que qualificamos de hipócritas os que apenas aparentemente se privam de alguma coisa.
 
-🔖 [Alimentação](#alimentacao)
-🔖 [Mortificação](#mortificacao)
+- 🔖 [Alimentação](#alimentacao)
+- 🔖 [Mortificação](#mortificacao)
 ---
 
 ##### #️⃣ Q.725 {#q725}
@@ -10127,9 +10146,9 @@ Que se deve pensar das mutilações operadas no corpo do homem ou dos animais?
 
 > ✨ ▸ A que propósito, semelhante questão? Ainda uma vez: inquiri sempre vós mesmos se é útil aquilo de que porventura se trate. A Deus não pode agradar o que seja inútil e o que for nocivo lhe será sempre desagradável. Porque, ficai sabendo, Deus só é sensível aos sentimentos que elevam para Ele a alma. Obedecendo-lhe à Lei e não a violando é que podereis forrar-vos ao jugo da vossa matéria terrestre.
 
-🔖 [Alma](#alma)
-🔖 [Conservação](#conservacao)
-🔖 [Sentimento](#sentimento)
+- 🔖 [Alma](#alma)
+- 🔖 [Conservação](#conservacao)
+- 🔖 [Sentimento](#sentimento)
 ---
 
 ##### #️⃣ Q.726 {#q726}
@@ -10140,7 +10159,7 @@ Visto que os sofrimentos deste mundo nos elevam, se os suportarmos devidamente, 
 
 ↩️ Voltar para [Q.1000](#q1000)
 
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.727 {#q727}
@@ -10149,9 +10168,9 @@ Uma vez que não devemos criar sofrimentos voluntários, que nenhuma utilidade t
 
 > ✨ ▸ Contra os perigos e os sofrimentos é que o instinto de conservação foi dado a todos os seres. Fustigai o vosso espírito e não o vosso corpo, mortificai o vosso orgulho, sufocai o vosso egoísmo, que se assemelha a uma serpente a vos roer o coração, e fareis muito mais pelo vosso adiantamento do que infligindo-vos rigores que já não são deste século.
 
-🔖 [Conservação](#conservacao)
-🔖 [Seres vivos](#seres-vivos)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Conservação](#conservacao)
+- 🔖 [Seres vivos](#seres-vivos)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ### 3.06. 🗂️ Lei de destruição {#lde-3-06}
@@ -10164,6 +10183,7 @@ Neste capítulo:
 - [3.06.05. 📄 Crueldad](#lde-3-06-05)
 - [3.06.06. 📄 Duelo](#lde-3-06-06)
 - [3.06.07. 📄 Pena de morte](#lde-3-06-07)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -10182,11 +10202,11 @@ O instinto de destruição teria sido dado aos seres vivos por desígnios provid
 
 > ✨ ▸ As criaturas são instrumentos de que Deus se serve para chegar aos fins que objetiva. Para se alimentarem, os seres vivos reciprocamente se destroem, destruição esta que obedece a um duplo fim: manutenção do equilíbrio na reprodução, que poderia tornar-se excessiva, e utilização dos despojos do invólucro exterior que sofre a destruição. Esse invólucro é simples acessório e não a parte essencial do ser pensante. A parte essencial é o princípio inteligente, que não se pode destruir e se elabora nas metamorfoses diversas por que passa.
 
-🔖 [Destruição](#destruicao)
-🔖 [Homem](#homem)
-🔖 [Matéria](#materia)
-🔖 [Princípio inteligente](#principio-inteligente)
-🔖 [Seres vivos](#seres-vivos)
+- 🔖 [Destruição](#destruicao)
+- 🔖 [Homem](#homem)
+- 🔖 [Matéria](#materia)
+- 🔖 [Princípio inteligente](#principio-inteligente)
+- 🔖 [Seres vivos](#seres-vivos)
 ---
 
 ##### #️⃣ Q.729 {#q729}
@@ -10195,8 +10215,8 @@ Se a regeneração dos seres faz necessária a destruição, por que os cerca a 
 
 > ✨ ▸ A fim de que a destruição não se dê antes de tempo. Toda destruição antecipada obsta ao desenvolvimento do princípio inteligente. Por isso foi que Deus fez que cada ser experimentasse a necessidade de viver e de se reproduzir.
 
-🔖 [Destruição](#destruicao)
-🔖 [Princípio inteligente](#principio-inteligente)
+- 🔖 [Destruição](#destruicao)
+- 🔖 [Princípio inteligente](#principio-inteligente)
 ---
 
 ##### #️⃣ Q.730 {#q730}
@@ -10207,12 +10227,12 @@ Uma vez que a morte nos faz passar a uma vida melhor, nos livra dos males desta,
 
 ↩️ Voltar para [Q.941](#q941)
 
-🔖 [Ingratidão](#ingratidao)
-🔖 [Instinto](#instinto)
-🔖 [Medo](#medo)
-🔖 [Morte](#morte)
-🔖 [Provas](#provas)
-🔖 [Vida](#vida)
+- 🔖 [Ingratidão](#ingratidao)
+- 🔖 [Instinto](#instinto)
+- 🔖 [Medo](#medo)
+- 🔖 [Morte](#morte)
+- 🔖 [Provas](#provas)
+- 🔖 [Vida](#vida)
 ---
 
 ##### #️⃣ Q.731 {#q731}
@@ -10221,7 +10241,7 @@ Por que, ao lado dos meios de conservação, colocou a Natureza os agentes de de
 
 > ✨ ▸ É o remédio ao lado do mal. Já dissemos: para manter o equilíbrio e servir de contrapeso.
 
-🔖 [Destruição](#destruicao)
+- 🔖 [Destruição](#destruicao)
 ---
 
 ##### #️⃣ Q.732 {#q732}
@@ -10230,9 +10250,9 @@ Será idêntica, em todos os mundos, a necessidade de destruição?
 
 > ✨ ▸ Guarda proporções com o estado mais ou menos material dos mundos. Cessa, quando o físico e o moral se acham mais depurados. Muito diversas são as condições de existência nos mundos mais adiantados do que o vosso.
 
-🔖 [Destruição](#destruicao)
-🔖 [Existência](#existencia)
-🔖 [Mundos](#mundos)
+- 🔖 [Destruição](#destruicao)
+- 🔖 [Existência](#existencia)
+- 🔖 [Mundos](#mundos)
 ---
 
 ##### #️⃣ Q.733 {#q733}
@@ -10241,8 +10261,8 @@ Entre os homens da Terra existirá sempre a necessidade da destruição?
 
 > ✨ ▸ Essa necessidade se enfraquece no homem, à medida que o Espírito sobrepuja a matéria. Assim é que, como podeis observar, o horror à destruição cresce com o desenvolvimento intelectual e moral.
 
-🔖 [Destruição](#destruicao)
-🔖 [Homem](#homem)
+- 🔖 [Destruição](#destruicao)
+- 🔖 [Homem](#homem)
 ---
 
 ##### #️⃣ Q.734 {#q734}
@@ -10251,10 +10271,10 @@ Em seu estado atual, tem o homem direito ilimitado de destruição sobre os anim
 
 > ✨ ▸ Tal direito se acha regulado pela necessidade que ele tem de prover ao seu sustento e à sua segurança. O abuso jamais constituiu direito.
 
-🔖 [Abuso](#abuso)
-🔖 [Animais](#animais)
-🔖 [Destruição](#destruicao)
-🔖 [Direito](#direito)
+- 🔖 [Abuso](#abuso)
+- 🔖 [Animais](#animais)
+- 🔖 [Destruição](#destruicao)
+- 🔖 [Direito](#direito)
 ---
 
 ##### #️⃣ Q.735 {#q735}
@@ -10263,8 +10283,8 @@ Que se deve pensar da destruição, quando ultrapassa os limites que as necessid
 
 > ✨ ▸ Predominância da bestialidade sobre a natureza espiritual. Toda destruição que excede os limites da necessidade é uma violação da Lei de Deus. Os animais só destroem para satisfação de suas necessidades; enquanto o homem, dotado de livre-arbítrio, destrói sem necessidade. Terá que prestar contas do abuso da liberdade que lhe foi concedida, pois isso significa que cede aos maus instintos.
 
-🔖 [Destruição](#destruicao)
-🔖 [Liberdade](#liberdade)
+- 🔖 [Destruição](#destruicao)
+- 🔖 [Liberdade](#liberdade)
 ---
 
 ##### #️⃣ Q.736 {#q736}
@@ -10273,9 +10293,9 @@ Especial merecimento terão os povos que levam ao excesso o escrúpulo, quanto �
 
 > ✨ ▸ Esse excesso, no tocante a um sentimento louvável em si mesmo, se torna abusivo e o seu merecimento fica neutralizado por abusos de muitas outras espécies. Entre tais povos, há mais temor supersticioso do que verdadeira bondade.
 
-🔖 [Destruição](#destruicao)
-🔖 [Necessário](#necessario)
-🔖 [Zelo](#zelo)
+- 🔖 [Destruição](#destruicao)
+- 🔖 [Necessário](#necessario)
+- 🔖 [Zelo](#zelo)
 ---
 
 #### 3.06.02. 📄 Flagelos destruidores {#lde-3-06-02}
@@ -10293,9 +10313,9 @@ Para conseguir a melhora da Humanidade, não podia Deus empregar outros meios qu
 
 > ✨ ▸ Pode e os emprega todos os dias, pois que deu a cada um os meios de progredir pelo conhecimento do bem e do mal. O homem, porém, não se aproveita desses meios. Necessário, portanto, se torna que seja castigado no seu orgulho e que se lhe faça sentir a sua fraqueza.
 
-🔖 [Humanidade](#humanidade)
-🔖 [Progresso](#progresso)
-🔖 [Providência divina](#providencia-divina)
+- 🔖 [Humanidade](#humanidade)
+- 🔖 [Progresso](#progresso)
+- 🔖 [Providência divina](#providencia-divina)
 ---
 
 ##### #️⃣ Q.738.a {#q738a}
@@ -10305,12 +10325,12 @@ Mas nesses flagelos tanto sucumbe o homem de bem como o perverso. Será justo is
 > ✨ ▸ Pode e os emprega todos os dias, pois que deu a cada um os meios de progredir pelo conhecimento do bem e do mal. O homem, porém, não se aproveita desses meios. Necessário, portanto, se torna que seja castigado no seu orgulho e que se lhe faça sentir a sua fraqueza.
 > Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa pensa depois da morte. Ora, conforme temos dito, a vida do corpo bem pouca coisa é. Um século no vosso mundo não passa de *um relâmpago na eternidade*. Logo, nada são os sofrimentos de alguns dias ou de alguns meses, de que tanto vos queixais. Representam um ensino que se vos dá e que vos servirá no futuro. Os Espíritos, que preexistem e sobrevivem a tudo, formam o mundo real (👉🏻 Veja [Q.85](#q85)). Esses os filhos de Deus e o objeto de toda a sua solicitude. Os corpos são meros disfarces com que eles aparecem no mundo. Por ocasião das grandes calamidades que dizimam os homens, o espetáculo é semelhante ao de um exército cujos soldados, durante a guerra, ficassem com seus uniformes estragados, rotos, ou perdidos. O general se preocupa mais com seus soldados do que com os uniformes deles.
 
-🔖 [Calamidades](#calamidades)
-🔖 [Corpo](#corpo)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Eternidade](#eternidade)
-🔖 [Morte](#morte)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Calamidades](#calamidades)
+- 🔖 [Corpo](#corpo)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Eternidade](#eternidade)
+- 🔖 [Morte](#morte)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.738.b {#q738b}
@@ -10321,9 +10341,9 @@ Mas nem por isso as vítimas desses flagelos deixam de o ser.
 
 > 👴🏻 ▸ Venha por um flagelo a morte, ou por uma causa comum, ninguém deixa por isso de morrer, desde que haja soado a hora da partida. A única diferença, em caso de flagelo, é que maior número parte ao mesmo tempo. Se, pelo pensamento, pudéssemos elevar-nos de maneira a dominar a Humanidade e a abrangê-la em seu conjunto, esses tão terríveis flagelos não nos pareceriam mais do que passageiras tempestades no destino do mundo.
 
-🔖 [Flagelos](#flagelos)
-🔖 [Vida](#vida)
-🔖 [Vida futura](#vida-futura)
+- 🔖 [Flagelos](#flagelos)
+- 🔖 [Vida](#vida)
+- 🔖 [Vida futura](#vida-futura)
 ---
 
 ##### #️⃣ Q.739 {#q739}
@@ -10332,7 +10352,7 @@ Têm os flagelos destruidores utilidade, do ponto de vista físico, não obstant
 
 > ✨ ▸ Têm. Muitas vezes mudam as condições de uma região, mas o bem que deles resulta só as gerações vindouras o experimentam.
 
-🔖 [Flagelos](#flagelos)
+- 🔖 [Flagelos](#flagelos)
 ---
 
 ##### #️⃣ Q.740 {#q740}
@@ -10341,8 +10361,8 @@ Não serão os flagelos, igualmente, provas morais para o homem, por porem-no a 
 
 > ✨ ▸ Os flagelos são provas que dão ao homem ocasião de exercitar a sua inteligência, de demonstrar sua paciência e resignação ante a vontade de Deus e que lhe oferecem ensejo de manifestar seus sentimentos de abnegação, de desinteresse e de amor ao próximo, se o não domina o egoísmo.
 
-🔖 [Flagelos](#flagelos)
-🔖 [Provas](#provas)
+- 🔖 [Flagelos](#flagelos)
+- 🔖 [Provas](#provas)
 ---
 
 ##### #️⃣ Q.741 {#q741}
@@ -10355,9 +10375,9 @@ Dado é ao homem conjurar os flagelos que o afligem?
 > 
 > 👉🏻 Veja [Q.707](#q707)
 
-🔖 [Ciência](#ciencia)
-🔖 [Flagelos](#flagelos)
-🔖 [Prevenção](#prevencao)
+- 🔖 [Ciência](#ciencia)
+- 🔖 [Flagelos](#flagelos)
+- 🔖 [Prevenção](#prevencao)
 ---
 
 #### 3.06.03. 📄 Guerras {#lde-3-06-03}
@@ -10375,7 +10395,7 @@ Da face da Terra, algum dia, a guerra desaparecerá?
 
 > ✨ ▸ Sim, quando os homens compreenderem a justiça e praticarem a Lei de Deus. Nessa época, todos os povos serão irmãos.
 
-🔖 [Guerra](#guerra)
+- 🔖 [Guerra](#guerra)
 ---
 
 ##### #️⃣ Q.744 {#q744}
@@ -10384,7 +10404,7 @@ Que objetivou a Providência, tornando necessária a guerra?
 
 > ✨ ▸ A liberdade e o progresso.
 
-🔖 [Guerra](#guerra)
+- 🔖 [Guerra](#guerra)
 ---
 
 ##### #️⃣ Q.744.a {#q744a}
@@ -10393,7 +10413,7 @@ Desde que a guerra deve ter por efeito produzir o advento da liberdade, como pod
 
 > ✨ ▸ Escravização temporária, para *oprimir* os povos, a fim de fazê-los progredir mais depressa.
 
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.745 {#q745}
@@ -10402,8 +10422,8 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 
 > ✨ ▸ Grande culpado é esse e *muitas existências* lhe serão necessárias para expiar todos os assassínios de que haja sido causa, porquanto responderá por todos os homens cuja morte tenha causado para satisfazer à sua ambição.
 
-🔖 [Ambição](#ambicao)
-🔖 [Guerra](#guerra)
+- 🔖 [Ambição](#ambicao)
+- 🔖 [Guerra](#guerra)
 ---
 
 #### 3.06.04. 📄 Assassínio {#lde-3-06-04}
@@ -10421,8 +10441,8 @@ Que se deve pensar daquele que suscita a guerra para proveito seu?
 
 > ✨ ▸ Já o temos dito: Deus é justo, julga mais pela intenção do que pelo fato.
 
-🔖 [Assassinato](#assassinato)
-🔖 [Justiça divina](#justica-divina)
+- 🔖 [Assassinato](#assassinato)
+- 🔖 [Justiça divina](#justica-divina)
 ---
 
 ##### #️⃣ Q.748 {#q748}
@@ -10431,8 +10451,8 @@ Em caso de legítima defesa, escusa Deus o assassínio?
 
 > ✨ ▸ Só a necessidade o pode escusar mas, desde que o agredido possa preservar sua vida, sem atentar contra a de seu agressor, deve fazê-lo.
 
-🔖 [Assassinato](#assassinato)
-🔖 [Legítima defesa](#legitima-defesa)
+- 🔖 [Assassinato](#assassinato)
+- 🔖 [Legítima defesa](#legitima-defesa)
 ---
 
 ##### #️⃣ Q.749 {#q749}
@@ -10441,10 +10461,10 @@ Tem o homem culpa dos assassínios que pratica durante a guerra?
 
 > ✨ ▸ Não, quando constrangido pela força; mas é culpado das crueldades que cometa, sendo-lhe também levado em conta o sentimento de humanidade com que proceda.
 
-🔖 [Assassinato](#assassinato)
-🔖 [Crime](#crime)
-🔖 [Crueldade](#crueldade)
-🔖 [Guerra](#guerra)
+- 🔖 [Assassinato](#assassinato)
+- 🔖 [Crime](#crime)
+- 🔖 [Crueldade](#crueldade)
+- 🔖 [Guerra](#guerra)
 ---
 
 ##### #️⃣ Q.750 {#q750}
@@ -10453,9 +10473,9 @@ Qual o mais condenável aos olhos de Deus, o parricídio ou o infanticídio?
 
 > ✨ ▸ Ambos o são igualmente, porque todo crime é um crime.
 
-🔖 [Infanticídio](#infanticidio)
-🔖 [Justiça divina](#justica-divina)
-🔖 [Parricídio](#parricidio)
+- 🔖 [Infanticídio](#infanticidio)
+- 🔖 [Justiça divina](#justica-divina)
+- 🔖 [Parricídio](#parricidio)
 ---
 
 ##### #️⃣ Q.751 {#q751}
@@ -10464,10 +10484,10 @@ Como se explica que entre alguns povos, já adiantados sob o ponto de vista inte
 
 > ✨ ▸ O desenvolvimento intelectual não implica a necessidade do bem. Um Espírito, superior em inteligência, pode ser mau. Isso se dá com aquele que muito tem vivido sem se melhorar: apenas sabe.
 
-🔖 [Conhecimento](#conhecimento)
-🔖 [Costume](#costume)
-🔖 [Infanticídio](#infanticidio)
-🔖 [Sentimento](#sentimento)
+- 🔖 [Conhecimento](#conhecimento)
+- 🔖 [Costume](#costume)
+- 🔖 [Infanticídio](#infanticidio)
+- 🔖 [Sentimento](#sentimento)
 ---
 
 #### 3.06.05. 📄 Crueldade {#lde-3-06-05}
@@ -10485,9 +10505,9 @@ Por que razão a crueldade forma o caráter predominante dos povos primitivos?
 
 > ✨ ▸ Nos povos primitivos, como lhes chamas, a matéria prepondera sobre o Espírito. Eles se entregam aos instintos do bruto e, como não experimentam outras necessidades além das da vida do corpo, só da conservação pessoal cogitam e é o que os torna, em geral, cruéis. Ademais, os povos de imperfeito desenvolvimento se conservam sob o império de Espíritos também imperfeitos, que lhes são simpáticos, até que povos mais adiantados venham destruir ou enfraquecer essa influência.
 
-🔖 [Crueldade](#crueldade)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Instinto](#instinto)
+- 🔖 [Crueldade](#crueldade)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Instinto](#instinto)
 ---
 
 ##### #️⃣ Q.754 {#q754}
@@ -10498,9 +10518,9 @@ A crueldade não derivará da carência de senso moral?
 > 
 > Em estado rudimentar ou latente, todas as faculdades existem no homem. Desenvolvem-se, conforme lhes sejam mais ou menos favoráveis as circunstâncias. O desenvolvimento excessivo de umas detém ou neutraliza o das outras. A sobre-excitação dos instintos materiais abafa, por assim dizer, o senso moral, como o desenvolvimento do senso moral enfraquece pouco a pouco as faculdades puramente animais.
 
-🔖 [Crueldade](#crueldade)
-🔖 [Desenvolvimento](#desenvolvimento)
-🔖 [Homem](#homem)
+- 🔖 [Crueldade](#crueldade)
+- 🔖 [Desenvolvimento](#desenvolvimento)
+- 🔖 [Homem](#homem)
 ---
 
 ##### #️⃣ Q.755 {#q755}
@@ -10509,10 +10529,10 @@ Como pode dar-se que, no seio da mais adiantada civilização, se encontrem sere
 
 > ✨ ▸ Do mesmo modo que numa árvore carregada de bons frutos se encontram verdadeiros abortos. São, se quiseres, selvagens que da civilização só têm o exterior, lobos extraviados em meio de cordeiros. Espíritos de ordem inferior e muito atrasados podem encarnar entre homens adiantados, na esperança de também se adiantarem, mas desde que a prova é por demais pesada predomina a natureza primitiva.
 
-🔖 [Civilização](#civilizacao)
-🔖 [Crueldade](#crueldade)
-🔖 [Espírito inferior](#espirito-inferior)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Civilização](#civilizacao)
+- 🔖 [Crueldade](#crueldade)
+- 🔖 [Espírito inferior](#espirito-inferior)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.756 {#q756}
@@ -10521,9 +10541,9 @@ A sociedade dos homens de bem se verá algum dia expurgada dos seres malfazejos?
 
 > ✨ ▸ A Humanidade progride. Esses homens, em quem o instinto do mal domina e que se acham deslocados entre pessoas de bem, desaparecerão gradualmente, como o mau grão se separa do bom, quando este é joeirado, mas desaparecerão para renascer sob outros invólucros. Como então terão mais experiência, compreenderão melhor o bem e o mal. Tens disso um exemplo nas plantas e nos animais que o homem há conseguido aperfeiçoar, desenvolvendo neles qualidades novas. Pois bem! só ao cabo de muitas gerações o desenvolvimento se torna completo. É a imagem das diversas existências do homem.
 
-🔖 [Crueldade](#crueldade)
-🔖 [Humanidade](#humanidade)
-🔖 [Sociedade](#sociedade)
+- 🔖 [Crueldade](#crueldade)
+- 🔖 [Humanidade](#humanidade)
+- 🔖 [Sociedade](#sociedade)
 ---
 
 #### 3.06.06. 📄 Duelo {#lde-3-06-06}
@@ -10541,7 +10561,7 @@ Poder-se-á considerar o duelo como um assassínio por parte daquele que, conhec
 
 > ✨ ▸ É um suicídio.
 
-🔖 [Duelo](#duelo)
+- 🔖 [Duelo](#duelo)
 ---
 
 ##### #️⃣ Q.758.a {#q758a}
@@ -10552,8 +10572,8 @@ E quando as probabilidades são as mesmas para ambos os duelistas, haverá assas
 
 > 👴🏻 ▸ Em todos os casos, mesmo quando as probabilidades são idênticas para ambos os combatentes, o duelista incorre em culpa, primeiro, porque atenta friamente e de propósito deliberado contra a vida de seu semelhante; depois, porque expõe inutilmente a sua própria vida, sem proveito para ninguém.
 
-🔖 [Assassinato](#assassinato)
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Assassinato](#assassinato)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.759 {#q759}
@@ -10562,7 +10582,7 @@ Que valor tem o que se chama *ponto de honra*, em matéria de duelo?
 
 > ✨ ▸ Orgulho e vaidade: dupla chaga da Humanidade.
 
-🔖 [Humanidade](#humanidade)
+- 🔖 [Humanidade](#humanidade)
 ---
 
 ##### #️⃣ Q.759.a {#q759a}
@@ -10573,8 +10593,8 @@ Mas não há casos em que a honra se acha verdadeiramente empenhada e em que uma
 
 > 👴🏻 ▸ Há mais grandeza e verdadeira honra em confessar-se culpado o homem, se cometeu alguma falta, ou em perdoar, se de seu lado esteja a razão, e, qualquer que seja o caso, em desprezar os insultos, que o não podem atingir.
 
-🔖 [Ofensa](#ofensa)
-🔖 [Reparação](#reparacao)
+- 🔖 [Ofensa](#ofensa)
+- 🔖 [Reparação](#reparacao)
 ---
 
 #### 3.06.07. 📄 Pena de morte {#lde-3-06-07}
@@ -10594,8 +10614,8 @@ A lei de conservação dá ao homem o direito de preservar sua vida. Não usará
 
 > ✨ ▸ Há outros meios de ele se preservar do perigo, que não matando. Ademais, é preciso abrir e não fechar ao criminoso a porta do arrependimento.
 
-🔖 [Criminoso](#criminoso)
-🔖 [Punição](#punicao)
+- 🔖 [Criminoso](#criminoso)
+- 🔖 [Punição](#punicao)
 ---
 
 ##### #️⃣ Q.762 {#q762}
@@ -10604,8 +10624,8 @@ A pena de morte, que pode vir a ser banida das sociedades civilizadas, não ter�
 
 > ✨ ▸ Necessidade não é o termo. O homem julga necessária uma coisa, sempre que não descobre outra melhor. À proporção que se instrui, vai compreendendo melhor o que é justo e o que é injusto e repudia os excessos cometidos, nos tempos de ignorância, em nome da justiça.
 
-🔖 [Necessidade](#necessidade)
-🔖 [Pena de morte](#pena-de-morte)
+- 🔖 [Necessidade](#necessidade)
+- 🔖 [Pena de morte](#pena-de-morte)
 ---
 
 ##### #️⃣ Q.763 {#q763}
@@ -10614,8 +10634,8 @@ Será um indício de progresso da civilização a restrição dos casos em que s
 
 > ✨ ▸ Podes duvidar disso? Não se revolta o teu Espírito, quando lês a narrativa das carnificinas humanas que outrora se faziam em nome da justiça e, não raro, em honra da Divindade; das torturas que se infligiam ao condenado e até ao simples acusado, para lhe arrancar, pela agudeza do sofrimento, a confissão de um crime que muitas vezes não cometera? Pois bem! Se houvesses vivido nessas épocas, terias achado tudo isso natural e talvez mesmo, se foras juiz, fizesses outro tanto. Assim é que o que pareceu justo, numa época, parece bárbaro em outra. Só as Leis divinas são eternas; as humanas mudam com o progresso e continuarão a mudar, até que tenham sido postas de acordo com aquelas.
 
-🔖 [Civilização](#civilizacao)
-🔖 [Época](#epoca)
+- 🔖 [Civilização](#civilizacao)
+- 🔖 [Época](#epoca)
 ---
 
 ##### #️⃣ Q.764 {#q764}
@@ -10644,9 +10664,9 @@ Que se deve pensar da pena de morte imposta em nome de Deus?
 
 > ✨ ▸ É tomar o homem o lugar de Deus na distribuição da justiça. Os que assim procedem mostram quão longe estão de compreender Deus e que muito ainda têm que expiar. A pena de morte é um crime, quando aplicada em nome de Deus; e os que a impõem se sobrecarregam de outros tantos assassínios.
 
-🔖 [Inimigo](#inimigo)
-🔖 [Pena de talião](#pena-de-taliao)
-🔖 [Perdão](#perdao)
+- 🔖 [Inimigo](#inimigo)
+- 🔖 [Pena de talião](#pena-de-taliao)
+- 🔖 [Perdão](#perdao)
 ---
 
 ### 3.07. 🗂️ Lei de sociedade {#lde-3-07}
@@ -10655,6 +10675,7 @@ Neste capítulo:
 - [3.07.01. 📄 Necessidade da vida social](#lde-3-07-01)
 - [3.07.02. 📄 Vida de insulamento. Voto de silêncio](#lde-3-07-02)
 - [3.07.03. 📄 Laços de família](#lde-3-07-03)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -10666,7 +10687,7 @@ A vida social está na Natureza?
 
 > ✨ ▸ Certamente. Deus fez o homem para viver em sociedade. Não lhe deu inutilmente a palavra e todas as outras faculdades necessárias à vida de relação.
 
-🔖 [Vida social](#vida-social)
+- 🔖 [Vida social](#vida-social)
 ---
 
 ##### #️⃣ Q.767 {#q767}
@@ -10675,7 +10696,7 @@ A vida social está na Natureza?
 
 > ✨ ▸ Sem dúvida, pois que por instinto os homens buscam a sociedade e todos devem concorrer para o progresso, auxiliando-se mutuamente.
 
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.768 {#q768}
@@ -10686,10 +10707,10 @@ Procurando a sociedade, não fará o homem mais do que obedecer a um sentimento 
 
 > 👴🏻 ▸ Homem nenhum possui faculdades completas. Mediante a união social é que elas umas às outras se completam, para lhe assegurarem o bem-estar e o progresso. Por isso é que, precisando uns dos outros, os homens foram feitos para viver em sociedade e não insulados.
 
-🔖 [Homem](#homem)
-🔖 [Progresso](#progresso)
-🔖 [Relacionamento](#relacionamento)
-🔖 [Sociedade](#sociedade)
+- 🔖 [Homem](#homem)
+- 🔖 [Progresso](#progresso)
+- 🔖 [Relacionamento](#relacionamento)
+- 🔖 [Sociedade](#sociedade)
 ---
 
 #### 3.07.02. 📄 Vida de insulamento. Voto de silêncio {#lde-3-07-02}
@@ -10700,7 +10721,7 @@ Concebe-se que, como princípio geral, a vida social esteja na Natureza; mas, um
 
 > ✨ ▸ Satisfação egoísta. Também há homens que experimentam satisfação na embriaguez. Merece-te isso aprovação? Não pode agradar a Deus uma vida pela qual o homem se condena a não ser útil a ninguém.
 
-🔖 [Isolamento](#isolamento)
+- 🔖 [Isolamento](#isolamento)
 ---
 
 ##### #️⃣ Q.770 {#q770}
@@ -10709,8 +10730,8 @@ Que se deve pensar dos que vivem em absoluta reclusão, fugindo ao pernicioso co
 
 > ✨ ▸ Duplo egoísmo.
 
-🔖 [Clausura](#clausura)
-🔖 [Fuga](#fuga)
+- 🔖 [Clausura](#clausura)
+- 🔖 [Fuga](#fuga)
 ---
 
 ##### #️⃣ Q.770.a {#q770a}
@@ -10719,8 +10740,8 @@ Mas não será meritório esse retraimento, se tiver por fim uma expiação, imp
 
 > ✨ ▸ Fazer maior soma de bem do que de mal constitui a melhor expiação. Evitando um mal, aquele que por tal motivo se insula cai noutro, pois esquece a lei de amor e de caridade.
 
-🔖 [Expiação](#expiacao)
-🔖 [Próximo](#proximo)
+- 🔖 [Expiação](#expiacao)
+- 🔖 [Próximo](#proximo)
 ---
 
 ##### #️⃣ Q.771 {#q771}
@@ -10736,7 +10757,7 @@ E dos que buscam no retiro a tranquilidade que certos trabalhos reclamam?
 
 > ✨ ▸ Isso não é retraimento absoluto do egoísta. Esses não se insulam da sociedade, porquanto para ela trabalham.
 
-🔖 [Sociedade](#sociedade)
+- 🔖 [Sociedade](#sociedade)
 ---
 
 ##### #️⃣ Q.772 {#q772}
@@ -10747,8 +10768,8 @@ Que pensar do voto de silêncio prescrito por algumas seitas, desde a mais remot
 
 > 👴🏻 ▸ O voto de silêncio absoluto, do mesmo modo que o voto de insulamento, priva o homem das relações sociais que lhe podem facultar ocasiões de fazer o bem e de cumprir a lei do progresso.
 
-🔖 [Palavra](#palavra)
-🔖 [Voto de silêncio](#voto-de-silencio)
+- 🔖 [Palavra](#palavra)
+- 🔖 [Voto de silêncio](#voto-de-silencio)
 ---
 
 #### 3.07.03. 📄 Laços de família {#lde-3-07-03}
@@ -10766,10 +10787,10 @@ Há pessoas que, do fato de os animais ao cabo de certo tempo abandonarem suas c
 
 > ✨ ▸ Diverso do dos animais é o destino do homem. Por que, então, quererem identificá-lo com estes? Há no homem alguma coisa mais, além das necessidades físicas: há a necessidade de progredir. Os laços sociais são necessários ao progresso e os de família mais apertados tornam os primeiros. Eis por que os segundos constituem uma Lei da Natureza. Quis Deus que, por essa forma, os homens aprendessem a amar-se como irmãos.
 
-🔖 [Destino](#destino)
-🔖 [Homem](#homem)
-🔖 [Laços de família](#lacos-de-familia)
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Destino](#destino)
+- 🔖 [Homem](#homem)
+- 🔖 [Laços de família](#lacos-de-familia)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.775 {#q775}
@@ -10778,9 +10799,9 @@ Qual seria, para a sociedade, o resultado do relaxamento dos laços de família?
 
 > ✨ ▸ Uma recrudescência do egoísmo.
 
-🔖 [Egoísmo](#egoismo)
-🔖 [Família](#familia)
-🔖 [Sociedade](#sociedade)
+- 🔖 [Egoísmo](#egoismo)
+- 🔖 [Família](#familia)
+- 🔖 [Sociedade](#sociedade)
 ---
 
 ### 3.08. 🗂️ Lei do progresso {#lde-3-08}
@@ -10792,6 +10813,7 @@ Neste capítulo:
 - [3.08.04. 📄 Civilização](#lde-3-08-04)
 - [3.08.05. 📄 Progresso da legislação humana](#lde-3-08-05)
 - [3.08.06. 📄 Influência do Espiritismo no progresso](#lde-3-08-06)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -10812,8 +10834,8 @@ Tendo o homem, no estado de natureza, menos necessidades, isento se acha das tri
 
 > ✨ ▸ Que queres! é a felicidade do bruto. Há pessoas que não compreendem outra. É ser feliz à maneira dos animais. As crianças também são mais felizes do que os homens feitos.
 
-🔖 [Estado de natureza](#estado-de-natureza)
-🔖 [Felicidade](#felicidade)
+- 🔖 [Estado de natureza](#estado-de-natureza)
+- 🔖 [Felicidade](#felicidade)
 ---
 
 ##### #️⃣ Q.778 {#q778}
@@ -10822,9 +10844,9 @@ Pode o homem retrogradar para o estado de natureza?
 
 > ✨ ▸ Não, o homem tem que progredir incessantemente e não pode volver ao estado de infância. Desde que progride, é porque Deus assim o quer. Pensar que possa retrogradar à sua primitiva condição fora negar a lei do progresso.
 
-🔖 [Destino](#destino)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Estado de natureza](#estado-de-natureza)
+- 🔖 [Destino](#destino)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Estado de natureza](#estado-de-natureza)
 ---
 
 #### 3.08.02. 📄 Marcha do progresso {#lde-3-08-02}
@@ -10844,7 +10866,7 @@ O progresso moral acompanha sempre o progresso intelectual?
 
 👉🏻 Veja [Q.192](#q192) a [Q.365](#q365)
 
-🔖 [Progresso](#progresso)
+- 🔖 [Progresso](#progresso)
 ---
 
 ##### #️⃣ Q.780.a {#q780a}
@@ -10853,10 +10875,10 @@ Como pode o progresso intelectual engendrar progresso moral?
 
 > ✨ ▸ Fazendo compreensíveis o bem e o mal. O homem, desde então, pode escolher. O desenvolvimento do livre-arbítrio acompanha o da inteligência e aumenta a responsabilidade dos atos.
 
-🔖 [Bem](#bem)
-🔖 [Inteligência](#inteligencia)
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Mal](#mal)
+- 🔖 [Bem](#bem)
+- 🔖 [Inteligência](#inteligencia)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.780.b {#q780b}
@@ -10865,8 +10887,8 @@ Como é, nesse caso, que, muitas vezes, sucede serem os povos mais instruídos o
 
 > ✨ ▸ O progresso completo constitui o objetivo. Os povos, porém, como os indivíduos, só passo a passo o atingem. Enquanto não se lhes haja desenvolvido o senso moral, pode mesmo acontecer que se sirvam da inteligência para a prática do mal. O moral e a inteligência são duas forças que só com o tempo chegam a equilibrar-se.
 
-🔖 [Povos](#povos)
-🔖 [Progresso](#progresso)
+- 🔖 [Povos](#povos)
+- 🔖 [Progresso](#progresso)
 ---
 
 ##### #️⃣ Q.781 {#q781}
@@ -10875,7 +10897,7 @@ Tem o homem o poder de paralisar a marcha do progresso?
 
 > ✨ ▸ Não, mas tem, às vezes, o de embaraçá-la.
 
-🔖 [Progresso](#progresso)
+- 🔖 [Progresso](#progresso)
 ---
 
 ##### #️⃣ Q.781.a {#q781a}
@@ -10886,7 +10908,7 @@ Que se deve pensar dos que tentam deter a marcha do progresso e fazer que a Huma
 
 > 👴🏻 ▸ Sendo o progresso uma condição da natureza humana, não está no poder do homem opor-se-lhe. É uma *força viva*, cuja ação pode ser retardada, porém não anulada, por leis humanas más. Quando estas se tornam incompatíveis com ele, despedaça-as juntamente com os que se esforcem por mantê-las. Assim será, até que o homem tenha posto suas leis em concordância com a Justiça divina, que quer que todos participem do bem e não a vigência de leis feitas pelo forte em detrimento do fraco.
 
-🔖 [Progresso](#progresso)
+- 🔖 [Progresso](#progresso)
 ---
 
 ##### #️⃣ Q.782 {#q782}
@@ -10895,7 +10917,7 @@ Não há homens que de boa-fé obstam ao progresso, acreditando favorecê-lo, po
 
 > ✨ ▸ Assemelham-se a pequeninas pedras que, colocadas debaixo da roda de uma grande viatura, não a impedem de avançar.
 
-🔖 [Progresso](#progresso)
+- 🔖 [Progresso](#progresso)
 ---
 
 ##### #️⃣ Q.783 {#q783}
@@ -10906,7 +10928,7 @@ Segue sempre marcha progressiva e lenta o aperfeiçoamento da Humanidade?
 
 > 👴🏻 ▸ O homem não pode conservar-se indefinidamente na ignorância, porque tem de atingir a finalidade que a Providência lhe assinalou. Ele se instrui pela força das coisas. As revoluções morais, como as revoluções sociais, se infiltram nas ideias pouco a pouco; germinam durante séculos; depois, irrompem subitamente e produzem o desmoronamento do carunchoso edifício do passado, que deixou de estar em harmonia com as necessidades novas e com as novas aspirações. Nessas comoções, o homem quase nunca percebe senão a desordem e a confusão momentâneas que o ferem nos seus interesses materiais. Aquele, porém, que eleva o pensamento acima da sua própria personalidade, admira os desígnios da Providência, que do mal faz sair o bem. São a procela, a tempestade que saneiam a atmosfera, depois de a terem agitado violentamente.
 
-🔖 [Humanidade](#humanidade)
+- 🔖 [Humanidade](#humanidade)
 ---
 
 ##### #️⃣ Q.784 {#q784}
@@ -10917,8 +10939,8 @@ Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto
 
 ↩️ Voltar para [Q.917](#q917)
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Mal](#mal)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.785 {#q785}
@@ -10934,8 +10956,8 @@ Qual o maior obstáculo ao progresso?
 ↩️ Voltar para [Q.785](#q785)
 ↩️ Voltar para [Q.917](#q917)
 
-🔖 [Bem](#bem)
-🔖 [Progresso](#progresso)
+- 🔖 [Bem](#bem)
+- 🔖 [Progresso](#progresso)
 ---
 
 #### 3.08.03. 📄 Povos degenerados {#lde-3-08-03}
@@ -10948,7 +10970,7 @@ Mostra-nos a História que muitos povos, depois de abalos que os revolveram prof
 
 > 👴🏻 ▸ Compreende mais o seguinte: eras pobre e habitavas um casebre; tornando-te rico, deixaste-o, para habitar um palácio. Então, um pobre diabo, como eras antes, vem tomar o lugar que ocupavas e fica muito contente, porque estava sem ter onde se abrigar. Pois bem! aprende que os Espíritos que, encarnados, constituem o povo degenerado não são os que o constituíam ao tempo do seu esplendor. Os de então, tendo-se adiantado, passaram para habitações mais perfeitas e progrediram, enquanto os outros, menos adiantados, tomaram o lugar que ficara vago e que também, a seu turno, terão um dia que deixar.
 
-🔖 [Gerações](#geracoes)
+- 🔖 [Gerações](#geracoes)
 ---
 
 ##### #️⃣ Q.787 {#q787}
@@ -10957,8 +10979,8 @@ Não há raças rebeldes, por sua natureza, ao progresso?
 
 > ✨ ▸ Há, mas vão aniquilando-se corporalmente, todos os dias.
 
-🔖 [Raças](#racas)
-🔖 [Rebeldia](#rebeldia)
+- 🔖 [Raças](#racas)
+- 🔖 [Rebeldia](#rebeldia)
 ---
 
 ##### #️⃣ Q.787.a {#q787a}
@@ -10967,8 +10989,8 @@ Qual será a sorte futura das almas que animam essas raças?
 
 > ✨ ▸ Chegarão, como todas as demais, à perfeição, passando por outras existências. Deus a ninguém deserda.
 
-🔖 [Alma](#alma)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Alma](#alma)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.787.b {#q787b}
@@ -10977,7 +10999,7 @@ Assim, pode dar-se que os homens mais civilizados tenham sido selvagens e antrop
 
 > ✨ ▸ Tu mesmo o foste mais de uma vez, antes de seres o que és.
 
-🔖 [Evolução](#evolucao)
+- 🔖 [Evolução](#evolucao)
 ---
 
 ##### #️⃣ Q.788 {#q788}
@@ -10986,8 +11008,8 @@ Os povos são individualidades coletivas que, como os indivíduos, passam pela i
 
 > ✨ ▸ Os povos, que apenas vivem a vida do corpo, aqueles cuja grandeza unicamente assenta na força e na extensão territorial, nascem, crescem e morrem, porque a força de um povo se exaure, como a de um homem. Aqueles, cujas leis egoísticas obstam ao progresso das luzes e da caridade, morrem, porque a luz mata as trevas e a caridade mata o egoísmo. Mas, para os povos, como para os indivíduos, há a vida da alma. Aqueles, cujas leis se harmonizam com as leis eternas do Criador, viverão e servirão de farol aos outros povos.
 
-🔖 [Harmonia](#harmonia)
-🔖 [Povos](#povos)
+- 🔖 [Harmonia](#harmonia)
+- 🔖 [Povos](#povos)
 ---
 
 ##### #️⃣ Q.789 {#q789}
@@ -11007,14 +11029,14 @@ O progresso fará que todos os povos da Terra se achem um dia reunidos, formando
 > 👉🏻 Veja [Q.222](#q222)
 > ↩️ Voltar para [Q.1019](#q1019)
 
-🔖 [Alma](#alma)
-🔖 [Criação](#criacao)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Humanidade](#humanidade)
-🔖 [Lei divina](#lei-divina)
-🔖 [Nação](#nacao)
-🔖 [Progresso](#progresso)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Alma](#alma)
+- 🔖 [Criação](#criacao)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Humanidade](#humanidade)
+- 🔖 [Lei divina](#lei-divina)
+- 🔖 [Nação](#nacao)
+- 🔖 [Progresso](#progresso)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 #### 3.08.04. 📄 Civilização {#lde-3-08-04}
@@ -11039,7 +11061,7 @@ Apurar-se-á algum dia a civilização, de modo a fazer que desapareçam os male
 
 > ✨ ▸ Sim, quando o moral estiver tão desenvolvido quanto a inteligência. O fruto não pode surgir antes da flor.
 
-🔖 [Evolução](#evolucao)
+- 🔖 [Evolução](#evolucao)
 ---
 
 ##### #️⃣ Q.792 {#q792}
@@ -11048,7 +11070,7 @@ Por que não efetua a civilização, imediatamente, todo o bem que poderia produ
 
 > ✨ ▸ Porque os homens ainda não estão aptos nem dispostos a alcançá-lo.
 
-🔖 [Bem](#bem)
+- 🔖 [Bem](#bem)
 ---
 
 ##### #️⃣ Q.792.a {#q792a}
@@ -11057,8 +11079,8 @@ Não será também porque, criando novas necessidades, suscita paixões novas?
 
 > ✨ ▸ É, e ainda porque não progridem simultaneamente todas as faculdades do Espírito. Tempo é preciso para tudo. De uma civilização incompleta não podeis esperar frutos perfeitos.
 
-🔖 [Necessidade](#necessidade)
-🔖 [Paixão](#paixao)
+- 🔖 [Necessidade](#necessidade)
+- 🔖 [Paixão](#paixao)
 ---
 
 ##### #️⃣ Q.793 {#q793}
@@ -11071,10 +11093,10 @@ Por que indícios se pode reconhecer uma civilização completa?
 > 
 > De duas nações que tenham chegado ao ápice da escala social, somente pode considerar-se a mais civilizada, na legítima acepção do termo, aquela em que exista menos egoísmo, menos cobiça e menos orgulho; em que os hábitos sejam mais intelectuais e morais do que materiais; em que a inteligência possa desenvolver-se com maior liberdade; em que haja mais bondade, boa-fé, benevolência e generosidade recíprocas; em que menos enraizados se mostrem os preconceitos de casta e de nascimento, por isso que tais preconceitos são incompatíveis com o verdadeiro amor do próximo; em que as leis nenhum privilégio consagrem e sejam as mesmas, assim para o último, como para o primeiro; em que com menos parcialidade se exerça a justiça; em que o fraco encontre sempre amparo contra o forte; em que a vida do homem, suas crenças e opiniões sejam melhormente respeitadas; em que exista menor número de desgraçados; enfim, em que todo homem de boa vontade esteja certo de lhe não faltar o necessário.
 
-🔖 [Civilização](#civilizacao)
-🔖 [Nação](#nacao)
-🔖 [Reconhecimento](#reconhecimento)
-🔖 [Vício](#vicio)
+- 🔖 [Civilização](#civilizacao)
+- 🔖 [Nação](#nacao)
+- 🔖 [Reconhecimento](#reconhecimento)
+- 🔖 [Vício](#vicio)
 ---
 
 #### 3.08.05. 📄 Progresso da legislação humana {#lde-3-08-05}
@@ -11094,11 +11116,11 @@ Qual a causa da instabilidade das leis humanas?
 
 > 👴🏻 ▸ A civilização criou necessidades novas para o homem, necessidades relativas à posição social que ele ocupe. Tem-se então que regular, por meio de leis humanas, os direitos e deveres dessa posição. Influenciado, porém, pelas suas paixões, o homem não raro há criado direitos e deveres imaginários, que a lei natural condena e que os povos riscam de seus códigos à medida que progridem. A lei natural é imutável e a mesma para todos; a lei humana é variável e progressiva. Na infância das sociedades, esta só pôde consagrar o direito do mais forte.
 
-🔖 [Direito](#direito)
-🔖 [Justiça](#justica)
-🔖 [Legislação](#legislacao)
-🔖 [Lei humana](#lei-humana)
-🔖 [Paixão](#paixao)
+- 🔖 [Direito](#direito)
+- 🔖 [Justiça](#justica)
+- 🔖 [Legislação](#legislacao)
+- 🔖 [Lei humana](#lei-humana)
+- 🔖 [Paixão](#paixao)
 ---
 
 ##### #️⃣ Q.796 {#q796}
@@ -11107,8 +11129,8 @@ No estado atual da sociedade, a severidade das leis penais não constitui uma ne
 
 > ✨ ▸ Uma sociedade depravada certamente precisa de leis severas. Infelizmente, essas leis mais se destinam a punir o mal depois de feito, do que a lhe secar a fonte. Só a educação poderá reformar os homens, que, então, não precisarão mais de leis tão rigorosas.
 
-🔖 [Educação](#educacao)
-🔖 [Sociedade](#sociedade)
+- 🔖 [Educação](#educacao)
+- 🔖 [Sociedade](#sociedade)
 ---
 
 ##### #️⃣ Q.797 {#q797}
@@ -11117,7 +11139,7 @@ Como poderá o homem ser levado a reformar suas leis?
 
 > ✨ ▸ Isso ocorre naturalmente, pela força mesma das coisas e da influência das pessoas que o guiam na senda do progresso. Muitas ele já reformou e muitas outras reformará. Espera!
 
-🔖 [Reforma](#reforma)
+- 🔖 [Reforma](#reforma)
 ---
 
 #### 3.08.06. 📄 Influência do Espiritismo no progresso {#lde-3-08-06}
@@ -11130,7 +11152,7 @@ O Espiritismo se tornará crença comum, ou ficará sendo partilhado, como cren�
 
 > 👴🏻 ▸ As ideias só com o tempo se transformam; nunca de súbito. De geração em geração, elas se enfraquecem e acabam por desaparecer, paulatinamente, com os que as professavam, os quais vêm a ser substituídos por outros indivíduos imbuídos de novos princípios, como sucede com as ideias políticas. Vede o paganismo. Não há hoje mais quem professe as ideias religiosas dos tempos pagãos. Todavia, muitos séculos após o advento do Cristianismo, delas ainda restavam vestígios, que somente a completa renovação das raças conseguiu apagar. Assim será com o Espiritismo. Ele progride muito; mas, durante duas ou três gerações, ainda haverá um fermento de incredulidade, que unicamente o tempo aniquilará. Sua marcha, porém, será mais célere que a do Cristianismo, porque o próprio Cristianismo é quem lhe abre o caminho e serve de apoio. O Cristianismo tinha que destruir; o Espiritismo só tem que edificar.
 
-🔖 [Ideia religiosa](#ideia-religiosa)
+- 🔖 [Ideia religiosa](#ideia-religiosa)
 ---
 
 ##### #️⃣ Q.799 {#q799}
@@ -11139,10 +11161,10 @@ De que maneira pode o Espiritismo contribuir para o progresso?
 
 > ✨ ▸ Destruindo o materialismo, que é uma das chagas da sociedade, ele faz que os homens compreendam onde se encontram seus verdadeiros interesses. Deixando a vida futura de estar velada pela dúvida, o homem perceberá melhor que, por meio do presente, lhe é dado preparar o seu futuro. Abolindo os prejuízos de seitas, castas e cores, ensina aos homens a grande solidariedade que os há de unir como irmãos.
 
-🔖 [Espiritismo](#espiritismo)
-🔖 [Materialismo](#materialismo)
-🔖 [Pregação](#pregacao)
-🔖 [Solidariedade](#solidariedade)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Materialismo](#materialismo)
+- 🔖 [Pregação](#pregacao)
+- 🔖 [Solidariedade](#solidariedade)
 ---
 
 ##### #️⃣ Q.800 {#q800}
@@ -11151,8 +11173,8 @@ Não será de temer que o Espiritismo não consiga triunfar da negligência dos 
 
 > ✨ ▸ Conhece bem pouco os homens quem imagine que uma causa qualquer os possa transformar como que por encanto. As ideias só pouco a pouco se modificam, conforme os indivíduos, e preciso é que algumas gerações passem, para que se apaguem totalmente os vestígios dos velhos hábitos. A transformação, pois, somente com o tempo, gradual e progressivamente, se pode operar. Para cada geração uma parte do véu se dissipa. O Espiritismo vem rasgá-lo de alto a baixo. Entretanto, conseguisse ele unicamente corrigir num homem um único defeito que fosse e já o haveria forçado a dar um passo. Ter-lhe-ia feito, só com isso, grande bem, pois esse primeiro passo lhe facilitará os outros.
 
-🔖 [Espiritismo](#espiritismo)
-🔖 [Ideia](#ideia)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Ideia](#ideia)
 ---
 
 ##### #️⃣ Q.801 {#q801}
@@ -11161,7 +11183,7 @@ Por que não ensinaram os Espíritos, em todos os tempos, o que ensinam hoje?
 
 > ✨ ▸ Não ensinais às crianças o que ensinais aos adultos e não dais ao recém-nascido um alimento que ele não possa digerir. Cada coisa tem seu tempo. Eles ensinaram muitas coisas que os homens não compreenderam ou adulteraram, mas que podem compreender agora. Com seus ensinos, embora incompletos, prepararam o terreno para receber a semente que vai frutificar.
 
-🔖 [Ensino](#ensino)
+- 🔖 [Ensino](#ensino)
 ---
 
 ##### #️⃣ Q.802 {#q802}
@@ -11170,10 +11192,10 @@ Visto que o Espiritismo tem que marcar um progresso da Humanidade, por que não 
 
 > ✨ ▸ Desejaríeis milagres, mas Deus os espalha a mancheias diante dos vossos passos e, no entanto, ainda há homens que o negam. Conseguiu, porventura, o próprio Cristo convencer os seus contemporâneos, mediante os prodígios que operou? Não conheceis presentemente alguns que negam os fatos mais patentes, ocorridos às suas vistas? Não há os que dizem que não acreditariam, mesmo que vissem? Não; não é por meio de prodígios que Deus quer encaminhar os homens. Em sua bondade, Ele lhes deixa o mérito de se convencerem pela razão.
 
-🔖 [Milagre](#milagre)
-🔖 [Negação](#negacao)
-🔖 [Prodígio](#prodigio)
-🔖 [Providência divina](#providencia-divina)
+- 🔖 [Milagre](#milagre)
+- 🔖 [Negação](#negacao)
+- 🔖 [Prodígio](#prodigio)
+- 🔖 [Providência divina](#providencia-divina)
 ---
 
 ### 3.09. 🗂️ Lei de igualdade {#lde-3-09}
@@ -11186,6 +11208,7 @@ Neste capítulo:
 - [3.09.05. 📄 As provas de riqueza e de miséria](#lde-3-09-05)
 - [3.09.06. 📄 Igualdade dos direitos do homem e da mulher](#lde-3-09-06)
 - [3.09.07. 📄 Igualdade perante o túmulo](#lde-3-09-07)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -11217,11 +11240,11 @@ Passando de um mundo superior a outro inferior, conserva o Espírito, integralme
 
 > 👴🏻 ▸ Assim, a diversidade das aptidões entre os homens não deriva da natureza íntima da sua criação, mas do grau de aperfeiçoamento a que tenham chegado os Espíritos encarnados neles. Deus, portanto, não criou faculdades desiguais; permitiu, porém, que os Espíritos em graus diversos de desenvolvimento estivessem em contato, para que os mais adiantados pudessem auxiliar o progresso dos mais atrasados e também para que os homens, necessitando uns dos outros, compreendessem a lei de caridade que os deve unir.
 
-🔖 [Aptidão](#aptidao)
-🔖 [Criação](#criacao)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Mundos](#mundos)
-🔖 [Solidariedade](#solidariedade)
+- 🔖 [Aptidão](#aptidao)
+- 🔖 [Criação](#criacao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Mundos](#mundos)
+- 🔖 [Solidariedade](#solidariedade)
 ---
 
 #### 3.09.03. 📄 Desigualdades sociais {#lde-3-09-03}
@@ -11232,7 +11255,7 @@ Passando de um mundo superior a outro inferior, conserva o Espírito, integralme
 
 > ✨ ▸ Não; é obra do homem e não de Deus.
 
-🔖 [Desigualdades sociais](#desigualdades-sociais)
+- 🔖 [Desigualdades sociais](#desigualdades-sociais)
 ---
 
 ##### #️⃣ Q.806.a {#q806a}
@@ -11241,8 +11264,8 @@ Algum dia essa desigualdade desaparecerá?
 
 > ✨ ▸ Eternas somente as Leis de Deus o são. Não vês que dia a dia ela gradualmente se apaga? Desaparecerá quando o egoísmo e o orgulho deixarem de predominar. Restará apenas a desigualdade do merecimento. Dia virá em que os membros da grande família dos filhos de Deus deixarão de considerar-se como de sangue mais ou menos puro. Só o Espírito é mais ou menos puro e isso não depende da posição social.
 
-🔖 [Desigualdades](#desigualdades)
-🔖 [Mérito](#merito)
+- 🔖 [Desigualdades](#desigualdades)
+- 🔖 [Mérito](#merito)
 ---
 
 ##### #️⃣ Q.807 {#q807}
@@ -11253,8 +11276,8 @@ Que se deve pensar dos que abusam da superioridade de suas posições sociais, p
 > 
 > 👉🏻 Veja [Q.684](#q684)
 
-🔖 [Lei de causa e efeito](#lei-de-causa-e-efeito)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Lei de causa e efeito](#lei-de-causa-e-efeito)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 #### 3.09.04. 📄 Desigualdade das riquezas {#lde-3-09-04}
@@ -11274,7 +11297,7 @@ Mas, a riqueza herdada, essa não é fruto de paixões más.
 
 > ✨ ▸ Que sabes a esse respeito? Busca a fonte de tal riqueza e verás que nem sempre é pura. Sabes, porventura, se não se originou de uma espoliação ou de uma injustiça? Mesmo, porém, sem falar da origem, que pode ser má, acreditas que a cobiça da riqueza, ainda quando bem adquirida, os desejos secretos de possuí-la o mais depressa possível, sejam sentimentos louváveis? Isso é o que Deus julga e eu te asseguro que o seu juízo é mais severo que o dos homens.
 
-🔖 [Riqueza](#riqueza)
+- 🔖 [Riqueza](#riqueza)
 ---
 
 ##### #️⃣ Q.809 {#q809}
@@ -11283,8 +11306,8 @@ Aos que, mais tarde, herdam uma riqueza inicialmente mal adquirida, alguma respo
 
 > ✨ ▸ É fora de dúvida que não são responsáveis pelo mal que outros hajam feito, sobretudo se o ignoram, como é possível que aconteça. Mas, fica sabendo que, muitas vezes, a riqueza só vem ter às mãos de um homem, para lhe proporcionar ensejo de reparar uma injustiça. Feliz dele, se assim o compreende! Se a fizer em nome daquele que cometeu a injustiça, a ambos será a reparação levada em conta, porquanto, não raro, é este último quem a provoca.
 
-🔖 [Responsabilidade](#responsabilidade)
-🔖 [Riqueza](#riqueza)
+- 🔖 [Responsabilidade](#responsabilidade)
+- 🔖 [Riqueza](#riqueza)
 ---
 
 ##### #️⃣ Q.810 {#q810}
@@ -11293,7 +11316,7 @@ Sem quebra da legalidade, quem quer que seja pode dispor de seus bens de modo ma
 
 > ✨ ▸ Toda ação produz seus frutos; doces são os das boas ações, amargos sempre os das outras. *Sempre*, entendei-o bem.
 
-🔖 [Bens](#bens)
+- 🔖 [Bens](#bens)
 ---
 
 ##### #️⃣ Q.811 {#q811}
@@ -11302,8 +11325,8 @@ Será possível e já terá existido a igualdade absoluta das riquezas?
 
 > ✨ ▸ Não; nem é possível. A isso se opõe a diversidade das faculdades e dos caracteres.
 
-🔖 [Igualdade](#igualdade)
-🔖 [Impedimento](#impedimento)
+- 🔖 [Igualdade](#igualdade)
+- 🔖 [Impedimento](#impedimento)
 ---
 
 ##### #️⃣ Q.811.a {#q811a}
@@ -11312,9 +11335,9 @@ Há, no entanto, homens que julgam ser esse o remédio aos males da sociedade. Q
 
 > ✨ ▸ São sistemáticos esses tais, ou ambiciosos cheios de inveja. Não compreendem que a igualdade com que sonham seria a curto prazo desfeita pela força das coisas. Combatei o egoísmo, que é a vossa chaga social, e não corrais atrás de quimeras.
 
-🔖 [Egoísmo](#egoismo)
-🔖 [Fracasso](#fracasso)
-🔖 [Riqueza](#riqueza)
+- 🔖 [Egoísmo](#egoismo)
+- 🔖 [Fracasso](#fracasso)
+- 🔖 [Riqueza](#riqueza)
 ---
 
 ##### #️⃣ Q.812 {#q812}
@@ -11323,7 +11346,7 @@ Por não ser possível a igualdade das riquezas, o mesmo se dará com o bem-esta
 
 > ✨ ▸ Não, mas o bem-estar é relativo e todos poderiam dele gozar, se se entendessem convenientemente, porque o verdadeiro bem-estar consiste em cada um empregar o seu tempo como lhe apraza e não na execução de trabalhos pelos quais nenhum gosto sente. Como cada um tem aptidões diferentes, nenhum trabalho útil ficaria por fazer. Em tudo existe o equilíbrio; o homem é quem o perturba.
 
-🔖 [Bem-estar](#bem-estar)
+- 🔖 [Bem-estar](#bem-estar)
 ---
 
 ##### #️⃣ Q.812.a {#q812a}
@@ -11332,8 +11355,8 @@ Será possível que todos se entendam?
 
 > ✨ ▸ Os homens se entenderão quando praticarem a lei de justiça.
 
-🔖 [Compreensão](#compreensao)
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Compreensão](#compreensao)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.813 {#q813}
@@ -11344,8 +11367,8 @@ Há pessoas que, por culpa sua, caem na miséria. Nenhuma responsabilidade caber
 > 
 > 👉🏻 Veja [Q.685](#q685)
 
-🔖 [Responsabilidade](#responsabilidade)
-🔖 [Sociedade](#sociedade)
+- 🔖 [Responsabilidade](#responsabilidade)
+- 🔖 [Sociedade](#sociedade)
 ---
 
 #### 3.09.05. 📄 As provas de riqueza e de miséria {#lde-3-09-05}
@@ -11363,8 +11386,8 @@ Qual das duas provas é mais terrível para o homem, a da desgraça ou a da riqu
 
 > ✨ ▸ São-no tanto uma quanto outra. A miséria provoca as queixas contra a Providência, a riqueza incita a todos os excessos.
 
-🔖 [Miséria](#miseria)
-🔖 [Riqueza](#riqueza)
+- 🔖 [Miséria](#miseria)
+- 🔖 [Riqueza](#riqueza)
 ---
 
 ##### #️⃣ Q.816 {#q816}
@@ -11384,10 +11407,10 @@ Estando o rico sujeito a maiores tentações, também não dispõe, por outro la
 
 > 👉🏻 Veja [Q.266](#q266)
 
-🔖 [Bem](#bem)
-🔖 [Dificuldade](#dificuldade)
-🔖 [Poder](#poder)
-🔖 [Provas](#provas)
+- 🔖 [Bem](#bem)
+- 🔖 [Dificuldade](#dificuldade)
+- 🔖 [Poder](#poder)
+- 🔖 [Provas](#provas)
 ---
 
 #### 3.09.06. 📄 Igualdade dos direitos do homem e da mulher {#lde-3-09-06}
@@ -11404,7 +11427,7 @@ Donde provém a inferioridade moral da mulher em certos países?
 
 > ✨ ▸ Do predomínio injusto e cruel que sobre ela assumiu o homem. É resultado das instituições sociais e do abuso da força sobre a fraqueza. Entre homens moralmente pouco adiantados, a força faz o direito.
 
-🔖 [Discriminação](#discriminacao)
+- 🔖 [Discriminação](#discriminacao)
 ---
 
 ##### #️⃣ Q.819 {#q819}
@@ -11413,8 +11436,8 @@ Com que fim mais fraca fisicamente do que o homem é a mulher?
 
 > ✨ ▸ Para lhe determinar funções especiais. Ao homem, por ser o mais forte, os trabalhos rudes; à mulher, os trabalhos leves; a ambos o dever de se ajudarem mutuamente a suportar as provas de uma vida cheia de amargor.
 
-🔖 [Homem](#homem)
-🔖 [Mulher](#mulher)
+- 🔖 [Homem](#homem)
+- 🔖 [Mulher](#mulher)
 ---
 
 ##### #️⃣ Q.820 {#q820}
@@ -11425,9 +11448,9 @@ A fraqueza física da mulher não a coloca naturalmente sob a dependência do ho
 
 > 👴🏻 ▸ Deus apropriou a organização de cada ser às funções que lhe cumpre desempenhar. Tendo dado à mulher menor força física, deu-lhe ao mesmo tempo maior sensibilidade, em relação com a delicadeza das funções maternais e com a fraqueza dos seres confiados aos seus cuidados.
 
-🔖 [Dever](#dever)
-🔖 [Escravidão](#escravidao)
-🔖 [Sensibilidade](#sensibilidade)
+- 🔖 [Dever](#dever)
+- 🔖 [Escravidão](#escravidao)
+- 🔖 [Sensibilidade](#sensibilidade)
 ---
 
 ##### #️⃣ Q.821 {#q821}
@@ -11436,7 +11459,7 @@ As funções a que a mulher é destinada pela natureza terão importância tão 
 
 > ✨ ▸ Sim, maior até. É ela quem lhe dá as primeiras noções da vida.
 
-🔖 [Valor](#valor)
+- 🔖 [Valor](#valor)
 ---
 
 ##### #️⃣ Q.822 {#q822}
@@ -11445,7 +11468,7 @@ Sendo iguais perante a Lei de Deus, devem os homens ser iguais também perante a
 
 > ✨ ▸ O primeiro princípio de justiça é este: Não façais aos outros o que não quereríeis que vos fizessem.
 
-🔖 [Lei humana](#lei-humana)
+- 🔖 [Lei humana](#lei-humana)
 ---
 
 ##### #️⃣ Q.822.a {#q822a}
@@ -11454,9 +11477,9 @@ Assim sendo, uma legislação, para ser perfeitamente justa, deve consagrar a ig
 
 > ✨ ▸ Dos direitos, sim; das funções, não. Preciso é que cada um esteja no lugar que lhe compete. Ocupe-se do exterior o homem e do interior a mulher, cada um de acordo com a sua aptidão. A lei humana, para ser equitativa, deve consagrar a igualdade dos direitos do homem e da mulher. Todo privilégio a um ou a outro concedido é contrário à justiça. *A emancipação da mulher acompanha o progresso da civilização*. Sua escravização marcha de par com a barbaria. Os sexos, além disso, só existem na organização física. Visto que os Espíritos podem encarnar num e noutro, sob esse aspecto nenhuma diferença há entre eles. Devem, por conseguinte, gozar dos mesmos direitos.
 
-🔖 [Emancipação](#emancipacao)
-🔖 [Encarnação](#encarnacao)
-🔖 [Legislação](#legislacao)
+- 🔖 [Emancipação](#emancipacao)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Legislação](#legislacao)
 ---
 
 #### 3.09.07. 📄 Igualdade perante o túmulo {#lde-3-09-07}
@@ -11482,9 +11505,9 @@ Reprovais então, de modo absoluto, a pompa dos funerais?
 
 > 👴🏻 ▸ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelmente todas as distinções humanas. Em vão tenta o rico perpetuar a sua memória, mandando erigir faustosos monumentos. O tempo os destruirá, como lhe consumirá o corpo. Assim o quer a Natureza. Menos perecível do que o seu túmulo será a lembrança de suas ações boas e más. A pompa dos funerais não o limpará das suas torpezas, nem o fará subir um degrau que seja na hierarquia espiritual.
 
-🔖 [Funeral](#funeral)
-🔖 [Orgulho](#orgulho)
-🔖 [Riqueza](#riqueza)
+- 🔖 [Funeral](#funeral)
+- 🔖 [Orgulho](#orgulho)
+- 🔖 [Riqueza](#riqueza)
 ---
 
 ### 3.10. 🗂️ Lei de liberdade {#lde-3-10}
@@ -11497,6 +11520,7 @@ Neste capítulo:
 - [3.10.05. 📄 Livre-arbítrio](#lde-3-10-05)
 - [3.10.06. 📄 Fatalidad](#lde-3-10-06)
 - [3.10.07. 📄 Conhecimento do futuro](#lde-3-10-07)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -11521,7 +11545,7 @@ A obrigação de respeitar os direitos alheios tira ao homem o de pertencer-se a
 
 > ✨ ▸ De modo algum, porquanto este é um direito que lhe vem da natureza.
 
-🔖 [Liberdade](#liberdade)
+- 🔖 [Liberdade](#liberdade)
 ---
 
 ##### #️⃣ Q.828 {#q828}
@@ -11530,7 +11554,7 @@ Como se podem conciliar as opiniões liberais de certos homens com o despotismo 
 
 > ✨ ▸ Eles têm a compreensão da lei natural, mas contrabalançada pelo orgulho e pelo egoísmo. Quando não representam calculadamente uma comédia, sustentando princípios liberais, compreendem como as coisas devem ser, mas não as fazem assim.
 
-🔖 [Liberdade](#liberdade)
+- 🔖 [Liberdade](#liberdade)
 ---
 
 ##### #️⃣ Q.828.a {#q828a}
@@ -11539,7 +11563,7 @@ Ser-lhes-ão, na outra vida, levados em conta os princípios que professaram nes
 
 > ✨ ▸ Quanto mais inteligência tem o homem para compreender um princípio, tanto menos escusável é de o não aplicar a si mesmo. Em verdade vos digo que o homem simples, porém sincero, está mais adiantado no caminho de Deus, do que um que pretenda parecer o que não é.
 
-🔖 [Vida futura](#vida-futura)
+- 🔖 [Vida futura](#vida-futura)
 ---
 
 #### 3.10.02. 📄 Escravidão {#lde-3-10-02}
@@ -11559,8 +11583,8 @@ Quando a escravidão faz parte dos costumes de um povo, são censuráveis os que
 
 > ✨ ▸ O mal é sempre o mal e não há sofisma que faça se torne boa uma ação má. A responsabilidade, porém, do mal é relativa aos meios de que o homem disponha para compreendê-lo. Aquele que tira proveito da lei da escravidão é sempre culpado de violação da Lei da Natureza, mas aí, como em tudo, a culpabilidade é relativa. Tendo-se a escravidão introduzido nos costumes de certos povos, possível se tornou que, de boa-fé, o homem se aproveitasse dela como de uma coisa que lhe parecia natural. Entretanto, desde que, mais desenvolvida e, sobretudo, esclarecida pelas luzes do Cristianismo, sua razão lhe mostrou que o escravo era um seu igual perante Deus, nenhuma desculpa mais ele tem.
 
-🔖 [Cristianismo](#cristianismo)
-🔖 [Escravidão](#escravidao)
+- 🔖 [Cristianismo](#cristianismo)
+- 🔖 [Escravidão](#escravidao)
 ---
 
 ##### #️⃣ Q.831 {#q831}
@@ -11569,7 +11593,7 @@ A desigualdade natural das aptidões não coloca certas raças humanas sob a dep
 
 > ✨ ▸ Sim, mas para que estas as elevem, não para embrutecê-las ainda mais pela escravização. Durante longo tempo, os homens consideraram certas raças humanas como animais de trabalho, munidos de braços e mãos, e se julgaram com o direito de vender os dessas raças como bestas de carga. Consideram-se de sangue mais puro os que assim procedem. Insensatos! nada veem senão a matéria. Mais ou menos puro não é o sangue, porém o Espírito.
 
-🔖 [Raças](#racas)
+- 🔖 [Raças](#racas)
 ---
 
 ##### #️⃣ Q.832 {#q832}
@@ -11578,8 +11602,8 @@ Há, no entanto, homens que tratam seus escravos com humanidade; que não deixam
 
 > ✨ ▸ Digo que esses compreendem melhor os seus interesses. Igual cuidado dispensam aos seus bois e cavalos, para que obtenham bom preço no mercado. Não são tão culpados como os que maltratam os escravos, mas nem por isso deixam de dispor deles como de uma mercadoria, privando-os do direito de se pertencerem a si mesmos.
 
-🔖 [Escravidão](#escravidao)
-🔖 [Liberdade](#liberdade)
+- 🔖 [Escravidão](#escravidao)
+- 🔖 [Liberdade](#liberdade)
 ---
 
 #### 3.10.03. 📄 Liberdade de pensar {#lde-3-10-03}
@@ -11597,7 +11621,7 @@ Haverá no homem alguma coisa que escape a todo constrangimento e pela qual goze
 
 > ✨ ▸ Perante Deus, é. Somente a Deus sendo possível conhecê-lo, Ele o condena ou absolve, segundo a sua justiça.
 
-🔖 [Pensamento](#pensamento)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 #### 3.10.04. 📄 Liberdade de consciência {#lde-3-10-04}
@@ -11615,9 +11639,9 @@ Tem o homem direito de pôr embaraços à liberdade de consciência?
 
 > ✨ ▸ Falece-lhe tanto esse direito, quanto com referência à liberdade de pensar, por isso que só a Deus cabe o de julgar a consciência. Assim como os homens, pelas suas leis, regulam as relações de homem para homem, Deus, pelas Leis da Natureza, regula as relações entre Ele e o homem.
 
-🔖 [Impedimento](#impedimento)
-🔖 [Liberdade de consciência](#liberdade-de-consciencia)
-🔖 [Relacionamento](#relacionamento)
+- 🔖 [Impedimento](#impedimento)
+- 🔖 [Liberdade de consciência](#liberdade-de-consciencia)
+- 🔖 [Relacionamento](#relacionamento)
 ---
 
 ##### #️⃣ Q.837 {#q837}
@@ -11626,8 +11650,8 @@ Que é o que resulta dos embaraços que se oponham à liberdade de consciência?
 
 > ✨ ▸ Constranger os homens a procederem em desacordo com o seu modo de pensar, fazê-los hipócritas. A liberdade de consciência é um dos caracteres da verdadeira civilização e do progresso.
 
-🔖 [Liberdade de consciência](#liberdade-de-consciencia)
-🔖 [Oposição](#oposicao)
+- 🔖 [Liberdade de consciência](#liberdade-de-consciencia)
+- 🔖 [Oposição](#oposicao)
 ---
 
 ##### #️⃣ Q.838 {#q838}
@@ -11636,8 +11660,8 @@ Será respeitável toda e qualquer crença, ainda quando notoriamente falsa?
 
 > ✨ ▸ Toda crença é respeitável, quando sincera e conducente à prática do bem. Condenáveis são as crenças que conduzam ao mal.
 
-🔖 [Fé](#fe)
-🔖 [Respeito](#respeito)
+- 🔖 [Fé](#fe)
+- 🔖 [Respeito](#respeito)
 ---
 
 ##### #️⃣ Q.839 {#q839}
@@ -11646,7 +11670,7 @@ Será repreensível aquele que escandalize com a sua crença um outro que não p
 
 > ✨ ▸ Isso é faltar com a caridade e atentar contra a liberdade de pensamento.
 
-🔖 [Escândalo](#escandalo)
+- 🔖 [Escândalo](#escandalo)
 ---
 
 ##### #️⃣ Q.840 {#q840}
@@ -11657,9 +11681,9 @@ Será atentar contra a liberdade de consciência pôr óbices a crenças capazes
 
 > 👴🏻 ▸ Reprimir os atos exteriores de uma crença, quando acarretam qualquer prejuízo a terceiros, não é atentar contra a liberdade de consciência, pois que essa repressão em nada tira à crença a liberdade, que ela conserva integral.
 
-🔖 [Liberdade de consciência](#liberdade-de-consciencia)
-🔖 [Prevenção](#prevencao)
-🔖 [Previdência](#previdencia)
+- 🔖 [Liberdade de consciência](#liberdade-de-consciencia)
+- 🔖 [Prevenção](#prevencao)
+- 🔖 [Previdência](#previdencia)
 ---
 
 ##### #️⃣ Q.841 {#q841}
@@ -11668,7 +11692,7 @@ Para respeitar a liberdade de consciência, dever-se-á deixar que se propaguem 
 
 > ✨ ▸ Certamente que podeis e até deveis; mas, ensinai, a exemplo de Jesus, *servindo-vos da brandura e da persuasão* e não da força, o que seria pior do que a crença daquele a quem desejaríeis convencer. Se alguma coisa se pode impor, é o bem e a fraternidade. Mas não cremos que o melhor meio de fazê-los admitidos seja obrar com violência. A convicção não se impõe.
 
-🔖 [Liberdade de consciência](#liberdade-de-consciencia)
+- 🔖 [Liberdade de consciência](#liberdade-de-consciencia)
 ---
 
 ##### #️⃣ Q.842 {#q842}
@@ -11677,7 +11701,7 @@ Por que indícios se poderá reconhecer, entre todas as doutrinas que alimentam 
 
 > ✨ ▸ Será aquela que mais homens de bem e menos hipócritas fizer, isto é, pela prática da lei de amor na sua maior pureza e na sua mais ampla aplicação. Esse o sinal por que reconhecereis que uma doutrina é boa, visto que toda doutrina que tiver por efeito semear a desunião e estabelecer uma linha de separação entre os filhos de Deus não pode deixar de ser falsa e perniciosa.
 
-🔖 [Doutrina](#doutrina)
+- 🔖 [Doutrina](#doutrina)
 ---
 
 #### 3.10.05. 📄 Livre-arbítrio {#lde-3-10-05}
@@ -11695,8 +11719,8 @@ Do livre-arbítrio goza o homem desde o seu nascimento?
 
 > ✨ ▸ Há liberdade de agir, desde que haja vontade de fazê-lo. Nas primeiras fases da vida, quase nula é a liberdade, que se desenvolve e muda de objeto com o desenvolvimento das faculdades. Estando seus pensamentos em concordância com o que a sua idade reclama, a criança aplica o seu livre-arbítrio àquilo que lhe é necessário.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Vida](#vida)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Vida](#vida)
 ---
 
 ##### #️⃣ Q.845 {#q845}
@@ -11705,7 +11729,7 @@ Não constituem obstáculos ao exercício do livre-arbítrio as predisposições
 
 > ✨ ▸ As predisposições instintivas são as do Espírito antes de encarnar. Conforme seja este mais ou menos adiantado, elas podem arrastá-lo à prática de atos repreensíveis, no que será secundado pelos Espíritos que simpatizam com essas disposições. Não há, porém, arrastamento irresistível, uma vez que se tenha a vontade de resistir. Lembrai-vos de que querer é poder.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.846 {#q846}
@@ -11714,7 +11738,7 @@ Sobre os atos da vida nenhuma influência exerce o organismo? E, se essa influê
 
 > ✨ ▸ É inegável que sobre o Espírito exerce influência a matéria, que pode embaraçar-lhe as manifestações. Daí vem que, nos mundos em que os corpos são menos materiais do que na Terra, as faculdades se desdobram mais livremente. Porém, o instrumento não dá a faculdade. Além disso, cumpre se distingam as faculdades morais das intelectuais. Tendo um homem o instinto do assassínio, seu próprio Espírito é, indubitavelmente, quem possui esse instinto e quem lho dá; não são seus órgãos que lho dão. Semelhante ao bruto, e ainda pior do que este, se torna aquele que nulifica o seu pensamento, para só se ocupar com a matéria, pois que não cuida mais de se premunir contra o mal. Nisto é que incorre em falta, porquanto assim procede por vontade sua.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.847 {#q847}
@@ -11723,9 +11747,9 @@ A aberração das faculdades tira ao homem o livre-arbítrio?
 
 > ✨ ▸ Já não é senhor do seu pensamento aquele cuja inteligência se ache turbada por uma causa qualquer e, desde então, já não tem liberdade. Essa aberração constitui muitas vezes uma punição para o Espírito que, porventura, tenha sido, noutra existência, fútil e orgulhoso, ou tenha feito mau uso de suas faculdades. Pode esse Espírito, em tal caso, renascer no corpo de um idiota, como o déspota no de um escravo e o mau rico no de um mendigo. O Espírito, porém, sofre por efeito desse constrangimento, de que tem perfeita consciência. Está aí a ação da matéria.
 
-🔖 [Aberração](#aberracao)
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Aberração](#aberracao)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.848 {#q848}
@@ -11734,8 +11758,8 @@ Servirá de escusa aos atos reprováveis o ser devida à embriaguez a aberraçã
 
 > ✨ ▸ Não, porque foi voluntariamente que o ébrio se privou da sua razão, para satisfazer a paixões brutais. Em vez de uma falta, comete duas.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Razão](#razao)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Razão](#razao)
 ---
 
 ##### #️⃣ Q.849 {#q849}
@@ -11744,8 +11768,8 @@ Qual a faculdade predominante no homem em estado de selvageria: o instinto ou o 
 
 > ✨ ▸ O instinto, o que não o impede de agir com inteira liberdade, no tocante a certas coisas. Mas, aplica, como a criança, essa liberdade às suas necessidades e ela se amplia com a inteligência. Conseguintemente, tu, que és mais esclarecido do que um selvagem, também és mais responsável pelo que fazes do que um selvagem o é pelos seus atos.
 
-🔖 [Instinto](#instinto)
-🔖 [Selvagem](#selvagem)
+- 🔖 [Instinto](#instinto)
+- 🔖 [Selvagem](#selvagem)
 ---
 
 ##### #️⃣ Q.850 {#q850}
@@ -11754,8 +11778,8 @@ A posição social não constitui às vezes, para o homem, obstáculo à inteira
 
 > ✨ ▸ É fora de dúvida que o mundo tem suas exigências. Deus é justo e tudo leva em conta. Deixa-vos, entretanto, a responsabilidade de nenhum esforço empregardes para vencer os obstáculos.
 
-🔖 [Dificuldade](#dificuldade)
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Dificuldade](#dificuldade)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 #### 3.10.06. 📄 Fatalidade {#lde-3-10-06}
@@ -11775,9 +11799,9 @@ Há pessoas que parecem perseguidas por uma fatalidade, independente da maneira 
 
 > 👴🏻 ▸ As ideias exatas ou falsas que fazemos das coisas nos levam a ser bem ou malsucedidos, de acordo com o nosso caráter e a nossa posição social. Achamos mais simples e menos humilhante para o nosso amor-próprio atribuir antes à sorte ou ao destino os insucessos que experimentamos, do que à nossa própria falta. É certo que para isso contribui algumas vezes a influência dos Espíritos, mas também o é que podemos sempre forrar-nos a essa influência, repelindo as ideias que eles nos sugerem, quando más.
 
-🔖 [Falta](#falta)
-🔖 [Fatalidade](#fatalidade)
-🔖 [Provas](#provas)
+- 🔖 [Falta](#falta)
+- 🔖 [Fatalidade](#fatalidade)
+- 🔖 [Provas](#provas)
 ---
 
 ##### #️⃣ Q.853 {#q853}
@@ -11786,7 +11810,7 @@ Algumas pessoas só escapam de um perigo mortal para cair em outro. Parece que n
 
 > ✨ ▸ Fatal, no verdadeiro sentido da palavra, só o instante da morte o é. Chegado esse momento, de uma forma ou doutra, a ele não podeis furtar-vos.
 
-🔖 [Fatalidade](#fatalidade)
+- 🔖 [Fatalidade](#fatalidade)
 ---
 
 ##### #️⃣ Q.853.a {#q853a}
@@ -11795,7 +11819,7 @@ Assim, qualquer que seja o perigo que nos ameace, se a hora da morte ainda não 
 
 > ✨ ▸ Não; não perecerás e tens disso milhares de exemplos. Quando, porém, soe a hora da tua partida, nada poderá impedir que partas. Deus sabe de antemão de que gênero será a morte do homem e muitas vezes seu Espírito também o sabe, por lhe ter sido isso revelado, quando escolheu tal ou qual existência.
 
-🔖 [Fatalidade](#fatalidade)
+- 🔖 [Fatalidade](#fatalidade)
 ---
 
 ##### #️⃣ Q.854 {#q854}
@@ -11804,7 +11828,7 @@ Do fato de ser infalível a hora da morte, poder-se-á deduzir que sejam inútei
 
 > ✨ ▸ Não, visto que as precauções que tomais vos são sugeridas com o fito de evitardes a morte que vos ameaça. São um dos meios empregados para que ela não se dê.
 
-🔖 [Morte](#morte)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.855 {#q855}
@@ -11813,7 +11837,7 @@ Com que fim nos faz a Providência correr perigos que nenhuma consequência deve
 
 > ✨ ▸ O fato de ser a tua vida posta em perigo constitui um aviso que tu mesmo desejaste, a fim de te desviares do mal e te tornares melhor. Se escapas desse perigo, quando ainda sob a impressão do risco que correste, cogitas, mais ou menos seriamente, de te melhorares, conforme seja mais ou menos forte sobre ti a influência dos Espíritos bons. Sobrevindo o mau Espírito (digo mau, subentendendo o mal que ainda existe nele), entras a pensar que do mesmo modo escaparás a outros perigos e deixas que de novo tuas paixões se desencadeiem. Por meio dos perigos que correis, Deus vos lembra a vossa fraqueza e a fragilidade da vossa existência. Se examinardes a causa e a natureza do perigo, verificareis que, quase sempre, suas consequências teriam sido a punição de uma falta cometida ou da *negligência no cumprimento de um dever*. Deus, por essa forma, exorta o Espírito a cair em si e a se emendar.
 
-🔖 [Prevenção](#prevencao)
+- 🔖 [Prevenção](#prevencao)
 ---
 
 ##### #️⃣ Q.856 {#q856}
@@ -11822,7 +11846,7 @@ Sabe o Espírito antecipadamente de que gênero será sua morte?
 
 > ✨ ▸ Sabe que o gênero de vida que escolheu o expõe mais a morrer desta do que daquela maneira. Sabe igualmente quais as lutas que terá de sustentar para evitá-lo e que, se Deus o permitir, não sucumbirá.
 
-🔖 [Vida](#vida)
+- 🔖 [Vida](#vida)
 ---
 
 ##### #️⃣ Q.857 {#q857}
@@ -11831,7 +11855,7 @@ Há homens que afrontam os perigos dos combates, persuadidos, de certo modo, de 
 
 > ✨ ▸ Muito amiúde tem o homem o pressentimento do seu fim, como pode ter o de que ainda não morrerá. Esse pressentimento lhe vem dos Espíritos seus protetores, que assim o advertem para que esteja pronto a partir, ou lhe fortalecem a coragem nos momentos em que mais dela necessita. Pode vir-lhe também da intuição que tem da existência que escolheu, ou da missão que aceitou e que sabe ter que cumprir.
 
-🔖 [Pressentimento](#pressentimento)
+- 🔖 [Pressentimento](#pressentimento)
 ---
 
 ##### #️⃣ Q.858 {#q858}
@@ -11840,7 +11864,7 @@ Por que razão os que pressentem a morte a temem geralmente menos do que os outr
 
 > ✨ ▸ Quem teme a morte é o homem, não o Espírito. Aquele que a pressente pensa mais como Espírito do que como homem. Compreende ser ela a sua libertação e espera-a.
 
-🔖 [Morte](#morte)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.859 {#q859}
@@ -11849,8 +11873,8 @@ Com todos os acidentes, que nos sobrevêm no curso da vida, se dá o mesmo que c
 
 > ✨ ▸ São de ordinário coisas muito insignificantes, de sorte que vos podemos prevenir deles e fazer que os eviteis algumas vezes, dirigindo o vosso pensamento, pois nos desagradam os sofrimentos materiais. Isso, porém, nenhuma importância tem na vida que escolhestes. A fatalidade, verdadeiramente, só existe quanto ao momento em que deveis aparecer e desaparecer deste mundo.
 
-🔖 [Desencarnação](#desencarnacao)
-🔖 [Fatalidade](#fatalidade)
+- 🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Fatalidade](#fatalidade)
 ---
 
 ##### #️⃣ Q.859.a {#q859a}
@@ -11859,7 +11883,7 @@ Haverá fatos que forçosamente devam dar-se e que os Espíritos não possam con
 
 > ✨ ▸ Há, mas que tu viste e pressentiste quando, no estado de Espírito, fizeste a tua escolha. Não creias, entretanto, que tudo o que sucede esteja escrito, como costumam dizer. Um acontecimento qualquer pode ser a consequência de um ato que praticaste por tua livre vontade, de tal sorte que, se não o houvesses praticado, o acontecimento não se teria dado. Imagina que queimas o dedo. Isso nada mais é senão resultado da tua imprudência e efeito da matéria. Só as grandes dores, os fatos importantes e capazes de influir no moral, Deus os prevê, porque são úteis à tua depuração e à tua instrução.
 
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.860 {#q860}
@@ -11868,7 +11892,7 @@ Pode o homem, pela sua vontade e por seus atos, fazer que se não deem acontecim
 
 > ✨ ▸ Pode-o, se essa aparente mudança na ordem dos fatos tiver cabimento na sequência da vida que ele escolheu. Acresce que, para fazer o bem, como lhe cumpre, pois que isso constitui o objetivo único da vida, facultado lhe é impedir o mal, sobretudo aquele que possa concorrer para a produção de um mal maior.
 
-🔖 [Mal](#mal)
+- 🔖 [Mal](#mal)
 ---
 
 ##### #️⃣ Q.861 {#q861}
@@ -11879,8 +11903,8 @@ Ao escolher a sua existência, o Espírito daquele que comete um assassínio sab
 
 > 👴🏻 ▸ Ademais, sempre confundis duas coisas muito distintas: os sucessos materiais da vida e os atos da vida moral. A fatalidade, que algumas vezes há, só existe com relação àqueles sucessos materiais, cuja causa reside fora de vós e que independem da vossa vontade. Quanto aos atos da vida moral, esses emanam sempre do próprio homem que, por conseguinte, tem sempre a liberdade de escolher. No tocante, pois, a esses atos, *nunca* há fatalidade.
 
-🔖 [Crime](#crime)
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Crime](#crime)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.862 {#q862}
@@ -11889,7 +11913,7 @@ Pessoas existem que nunca logram bom êxito em coisa alguma, que parecem persegu
 
 > ✨ ▸ Será uma fatalidade, se lhe quiseres dar esse nome, mas que decorre do gênero da existência escolhida. É que essas pessoas quiseram ser provadas por uma vida de decepções, a fim de exercitarem a paciência e a resignação. Entretanto, não creias seja absoluta essa fatalidade. Resulta muitas vezes do caminho falso que tais pessoas tomam, em discordância com suas inteligências e aptidões. Grandes probabilidades têm de se afogar quem pretender atravessar a nado um rio, sem saber nadar. O mesmo se dá relativamente à maioria dos acontecimentos da vida. Quase sempre obteria o homem bom êxito, se só tentasse o que estivesse em relação com as suas faculdades. O que o perde são o seu amor-próprio e a sua ambição, que o desviam da senda que lhe é própria e o fazem considerar vocação o que não passa de desejo de satisfazer a certas paixões. Fracassa por sua culpa. Mas, em vez de culpar-se a si mesmo, prefere queixar-se da sua estrela. Um, por exemplo, que seria bom operário e ganharia honestamente a vida, mete-se a ser mau poeta e morre de fome. Para todos haveria lugar no mundo, desde que cada um soubesse colocar-se no lugar que lhe compete.
 
-🔖 [Fatalidade](#fatalidade)
+- 🔖 [Fatalidade](#fatalidade)
 ---
 
 ##### #️⃣ Q.863 {#q863}
@@ -11905,7 +11929,7 @@ Assim como há pessoas a quem a sorte em tudo é contrária, outras parecem favo
 
 > ✨ ▸ De ordinário, é que essas pessoas sabem conduzir-se melhor nas suas empresas, mas também pode ser um gênero de prova. O bom êxito as embriaga; fiam-se no seu destino e muitas vezes pagam mais tarde esse bom êxito, mediante revezes cruéis, que a prudência as teria feito evitar.
 
-🔖 [Provas](#provas)
+- 🔖 [Provas](#provas)
 ---
 
 ##### #️⃣ Q.865 {#q865}
@@ -11914,7 +11938,7 @@ Como se explica que a boa sorte favoreça a algumas pessoas em circunstâncias c
 
 > ✨ ▸ Alguns Espíritos hão escolhido previamente certas espécies de prazer. A fortuna que os favorece é uma tentação. Aquele que, como homem, ganha, perde como Espírito. É uma prova para o seu orgulho e para a sua cupidez.
 
-🔖 [Tentação](#tentacao)
+- 🔖 [Tentação](#tentacao)
 ---
 
 ##### #️⃣ Q.866 {#q866}
@@ -11923,8 +11947,8 @@ Então, a fatalidade que parece presidir aos destinos materiais de nossa vida ta
 
 > ✨ ▸ Tu mesmo escolheste a tua prova. Quanto mais rude ela for e melhor a suportares, tanto mais te elevarás. Os que passam a vida na abundância e na ventura humana são Espíritos pusilânimes, que permanecem estacionários. Assim, o número dos desafortunados é muito superior ao dos felizes deste mundo, atento que os Espíritos, na sua maioria, procuram as provas que lhes sejam mais proveitosas. Eles veem perfeitamente bem a futilidade das vossas grandezas e gozos. Acresce que a mais ditosa existência é sempre agitada, sempre perturbada, quando mais não seja, pela ausência da dor.
 
-🔖 [Fatalidade](#fatalidade)
-🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Fatalidade](#fatalidade)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
 ---
 
 ##### #️⃣ Q.867 {#q867}
@@ -11956,8 +11980,8 @@ Mas, se convém que o futuro permaneça oculto, por que permite Deus que seja re
 
 > ✨ ▸ Permite-o, quando o conhecimento prévio do futuro facilite a execução de uma coisa, em vez de a estorvar, obrigando o homem a agir diversamente do modo por que agiria, se lhe não fosse feita a revelação. Não raro, também é uma prova. A perspectiva de um acontecimento pode sugerir pensamentos mais ou menos bons. Se um homem vem a saber, por exemplo, que vai receber uma herança, com que não conta, pode dar-se que a revelação desse fato desperte nele o sentimento da cobiça, pela perspectiva de se lhe tornarem possíveis maiores gozos terrenos, pela ânsia de possuir mais depressa a herança, desejando talvez, para que tal se dê, a morte daquele de quem herdará. Ou, então, essa perspectiva lhe inspirará bons sentimentos e pensamentos generosos. Se a predição não se cumpre, aí está outra prova, consistente na maneira por que suportará a decepção. Nem por isso, entretanto, lhe caberá menos o mérito ou o demérito dos pensamentos bons ou maus que a crença na ocorrência daquele fato lhe fez nascer no íntimo.
 
-🔖 [Futuro](#futuro)
-🔖 [Provas](#provas)
+- 🔖 [Futuro](#futuro)
+- 🔖 [Provas](#provas)
 ---
 
 ##### #️⃣ Q.871 {#q871}
@@ -11972,8 +11996,8 @@ Pois que Deus tudo sabe, não ignora se um homem sucumbirá ou não em determina
 > 
 > Quanto mais se reflete nas consequências que teria para o homem o conhecimento do futuro, melhor se vê quanto foi sábia a Providência em lho ocultar. A certeza de um acontecimento venturoso o lançaria na inação. A de um acontecimento infeliz o encheria de desânimo. Em ambos os casos, suas forças ficariam paralisadas. Daí o não lhe ser mostrado o futuro, senão como *meta* que lhe cumpre atingir por seus esforços, mas ignorando os trâmites por que terá de passar para alcançá-la. O conhecimento de todos os incidentes da jornada lhe tolheria a iniciativa e o uso do livre-arbítrio. Ele se deixaria resvalar pelo declive fatal dos acontecimentos, sem exercer suas faculdades. Quando o feliz êxito de uma coisa está assegurado, ninguém mais com ela se preocupa.
 
-🔖 [Futuro](#futuro)
-🔖 [Provas](#provas)
+- 🔖 [Futuro](#futuro)
+- 🔖 [Provas](#provas)
 ---
 
 #### 📄 Resumo teórico do móvel das ações humanas
@@ -12005,14 +12029,14 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 
 ↩️ Voltar para [Q.917](#q917)
 
-🔖 [Falta](#falta)
-🔖 [Fatalidade](#fatalidade)
-🔖 [Livre-arbítrio](#livre-arbitrio)
-🔖 [Morte](#morte)
-🔖 [Mundo de expiação e provas](#mundo-de-expiacao-e-provas)
-🔖 [Tentação](#tentacao)
-🔖 [Vida corpórea](#vida-corporea)
-🔖 [Vontade](#vontade)
+- 🔖 [Falta](#falta)
+- 🔖 [Fatalidade](#fatalidade)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Morte](#morte)
+- 🔖 [Mundo de expiação e provas](#mundo-de-expiacao-e-provas)
+- 🔖 [Tentação](#tentacao)
+- 🔖 [Vida corpórea](#vida-corporea)
+- 🔖 [Vontade](#vontade)
 ---
 
 ### 3.11. 🗂️ Lei de justiça, de amor, e de caridade {#lde-3-11}
@@ -12022,6 +12046,7 @@ Neste capítulo:
 - [3.11.02. 📄 Direito de propriedade. Roubo](#lde-3-11-02)
 - [3.11.03. 📄 Caridade e amor do próximo](#lde-3-11-03)
 - [3.11.04. 📄 Amor materno e filial](#lde-3-11-04)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -12040,7 +12065,7 @@ Sendo a justiça uma Lei da Natureza, como se explica que os homens a entendam d
 
 > ✨ ▸ É porque a esse sentimento se misturam paixões que o alteram, como sucede à maior parte dos outros sentimentos naturais, fazendo que os homens vejam as coisas por um prisma falso.
 
-🔖 [Deturpação](#deturpacao)
+- 🔖 [Deturpação](#deturpacao)
 ---
 
 ##### #️⃣ Q.875 {#q875}
@@ -12049,7 +12074,7 @@ Como se pode definir a justiça?
 
 > ✨ ▸ A justiça consiste em cada um respeitar os direitos dos demais.
 
-🔖 [Justiça](#justica)
+- 🔖 [Justiça](#justica)
 ---
 
 ##### #️⃣ Q.875.a {#q875a}
@@ -12058,8 +12083,8 @@ Que é o que determina esses direitos?
 
 > ✨ ▸ Duas coisas: a lei humana e a lei natural. Tendo os homens formulado leis apropriadas a seus costumes e caracteres, elas estabeleceram direitos mutáveis com o progresso das luzes. Vede se hoje as vossas leis, aliás imperfeitas, consagram os mesmos direitos que as da Idade Média. Entretanto, esses direitos antiquados, que agora se vos afiguram monstruosos, pareciam justos e naturais naquela época. Nem sempre, pois, é acorde com a justiça o direito que os homens prescrevem. Ademais, este direito regula apenas algumas relações sociais, quando é certo que, na vida particular, há uma imensidade de atos unicamente da alçada do tribunal da consciência.
 
-🔖 [Consciência](#consciencia)
-🔖 [Direitos humanos](#direitos-humanos)
+- 🔖 [Consciência](#consciencia)
+- 🔖 [Direitos humanos](#direitos-humanos)
 ---
 
 ##### #️⃣ Q.876 {#q876}
@@ -12083,9 +12108,9 @@ Da necessidade que o homem tem de viver em sociedade, nascem-lhe obrigações es
 
 > ✨ ▸ Certo e a primeira de todas é a de respeitar os direitos de seus semelhantes. Aquele que respeitar esses direitos procederá sempre com justiça. No vosso mundo, porque a maioria dos homens não pratica a lei de justiça, cada um usa de represálias. Essa a causa da perturbação e da confusão em que vivem as sociedades humanas. A vida social outorga direitos e impõe deveres recíprocos.
 
-🔖 [Comportamento](#comportamento)
-🔖 [Cristianismo](#cristianismo)
-🔖 [Justiça](#justica)
+- 🔖 [Comportamento](#comportamento)
+- 🔖 [Cristianismo](#cristianismo)
+- 🔖 [Justiça](#justica)
 ---
 
 ##### #️⃣ Q.878 {#q878}
@@ -12094,7 +12119,7 @@ Podendo o homem enganar-se quanto à extensão do seu direito, que é o que lhe 
 
 > ✨ ▸ O limite do direito que, com relação a si mesmo, reconhecer ao seu semelhante, em idênticas circunstâncias e reciprocamente.
 
-🔖 [Direitos humanos](#direitos-humanos)
+- 🔖 [Direitos humanos](#direitos-humanos)
 ---
 
 ##### #️⃣ Q.878.a {#q878a}
@@ -12103,10 +12128,10 @@ Mas se cada um atribuir a si mesmo direitos iguais aos de seu semelhante, que vi
 
 > ✨ ▸ Os direitos naturais são os mesmos para todos os homens, desde os de condição mais humilde até os de posição mais elevada. Deus não fez uns de limo mais puro do que o de que se serviu para fazer os outros, e todos, aos seus olhos, são iguais. Esses direitos são eternos. Os que o homem estabeleceu perecem com as suas instituições. Ademais, cada um sente bem a sua força ou a sua fraqueza e saberá sempre ter uma certa deferência para com os que o mereçam por suas virtudes e sabedoria. É importante acentuar isto, para que os que se julgam superiores conheçam seus deveres, a fim de merecer essas deferências. A subordinação não se achará comprometida, quando a autoridade for deferida à sabedoria.
 
-🔖 [Deus](#deus)
-🔖 [Direitos humanos](#direitos-humanos)
-🔖 [Igualdade](#igualdade)
-🔖 [Justiça](#justica)
+- 🔖 [Deus](#deus)
+- 🔖 [Direitos humanos](#direitos-humanos)
+- 🔖 [Igualdade](#igualdade)
+- 🔖 [Justiça](#justica)
 ---
 
 ##### #️⃣ Q.879 {#q879}
@@ -12115,7 +12140,7 @@ Qual seria o caráter do homem que praticasse a justiça em toda a sua pureza?
 
 > ✨ ▸ O do verdadeiro justo, a exemplo de Jesus, porquanto praticaria também o amor do próximo e a caridade, sem os quais não há verdadeira justiça.
 
-🔖 [Justiça](#justica)
+- 🔖 [Justiça](#justica)
 ---
 
 #### 3.11.02. 📄 Direito de propriedade. Roubo {#lde-3-11-02}
@@ -12133,7 +12158,7 @@ O direito de viver dá ao homem o de acumular bens que lhe permitam repousar qua
 
 > ✨ ▸ Dá, mas ele deve fazê-lo em família, como a abelha, por meio de um trabalho honesto, e não como egoísta. Há mesmo animais que lhe dão o exemplo de previdência.
 
-🔖 [Previdência](#previdencia)
+- 🔖 [Previdência](#previdencia)
 ---
 
 ##### #️⃣ Q.882 {#q882}
@@ -12156,8 +12181,8 @@ Tem o homem o direito de defender os bens que haja conseguido juntar pelo seu tr
 
 > 👴🏻 ▸ O que, por meio do trabalho *honesto*, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
 
-🔖 [Bens](#bens)
-🔖 [Propriedade](#propriedade)
+- 🔖 [Bens](#bens)
+- 🔖 [Propriedade](#propriedade)
 ---
 
 ##### #️⃣ Q.883 {#q883}
@@ -12166,7 +12191,7 @@ Tem o homem o direito de defender os bens que haja conseguido juntar pelo seu tr
 
 > ✨ ▸ Sim, mas quando o homem deseja possuir para si somente e para sua satisfação pessoal, o que há é egoísmo.
 
-🔖 [Egoísmo](#egoismo)
+- 🔖 [Egoísmo](#egoismo)
 ---
 
 ##### #️⃣ Q.883.a {#q883a}
@@ -12175,7 +12200,7 @@ Não será, entretanto, legítimo o desejo de possuir, uma vez que aquele que te
 
 > ✨ ▸ Há homens insaciáveis, que acumulam bens sem utilidade para ninguém, ou apenas para saciar suas paixões. Julgas que Deus vê isso com bons olhos? Aquele que, ao contrário, junta pelo trabalho, tendo em vista socorrer os seus semelhantes, pratica a lei de amor e caridade, e Deus abençoa o seu trabalho.
 
-🔖 [Posse](#posse)
+- 🔖 [Posse](#posse)
 ---
 
 ##### #️⃣ Q.884 {#q884}
@@ -12188,8 +12213,8 @@ Qual o caráter da legítima propriedade?
 
 > 👴🏻 ▸ Proibindo-nos que façamos aos outros o que não desejáramos que nos fizessem, a lei de amor e de justiça nos proíbe, *ipso facto*, a aquisição de bens por quaisquer meios que lhe sejam contrários.
 
-🔖 [Bens](#bens)
-🔖 [Propriedade](#propriedade)
+- 🔖 [Bens](#bens)
+- 🔖 [Propriedade](#propriedade)
 ---
 
 ##### #️⃣ Q.885 {#q885}
@@ -12198,7 +12223,7 @@ Será ilimitado o direito de propriedade?
 
 > ✨ ▸ É fora de dúvida que tudo o que legitimamente se adquire constitui uma propriedade. Mas, como havemos dito, a legislação dos homens, porque imperfeita, consagra muitos direitos convencionais, que a lei de justiça reprova. Essa a razão por que eles reformam suas leis, à medida que o progresso se efetua e que melhor compreendem a justiça. O que num século parece perfeito, afigura-se bárbaro no século seguinte.
 
-🔖 [Propriedade](#propriedade)
+- 🔖 [Propriedade](#propriedade)
 ---
 
 #### 3.11.03. 📄 Caridade e amor do próximo {#lde-3-11-03}
@@ -12232,9 +12257,9 @@ Ora, o amor aos inimigos não será contrário às nossas tendências naturais e
 
 > ✨ ▸ Certo, ninguém pode votar aos seus inimigos um amor terno e apaixonado. Não foi isso o que Jesus entendeu de dizer. Amar os inimigos é perdoar-lhes e lhes retribuir o mal com o bem. O que assim procede se torna superior aos seus inimigos, ao passo que abaixo deles se coloca, se procura tomar vingança.
 
-🔖 [Amor](#amor)
-🔖 [Inimigo](#inimigo)
-🔖 [Inimizade](#inimizade)
+- 🔖 [Amor](#amor)
+- 🔖 [Inimigo](#inimigo)
+- 🔖 [Inimizade](#inimizade)
 ---
 
 ##### #️⃣ Q.888 {#q888}
@@ -12243,7 +12268,7 @@ Que se deve pensar da esmola?
 
 > ✨ ▸ Condenando-se a pedir esmola, o homem se degrada física e moralmente: embrutece-se. Uma sociedade que se baseie na Lei de Deus e na justiça deve prover à vida do *fraco*, sem que haja para ele humilhação. Deve assegurar a existência dos que não podem trabalhar, sem lhes deixar a vida à *mercê do acaso* e da boa vontade de alguns.
 
-🔖 [Esmola](#esmola)
+- 🔖 [Esmola](#esmola)
 ---
 
 ##### #️⃣ Q.888.a {#q888a}
@@ -12269,14 +12294,14 @@ Dar-se-á reproveis a esmola?
 > 
 > **São Vicente de Paulo**
 
-🔖 [Amor](#amor)
-🔖 [Atração](#atracao)
-🔖 [Beneficência](#beneficencia)
-🔖 [Esmola](#esmola)
-🔖 [Ignorância](#ignorancia)
-🔖 [Indulgência](#indulgencia)
-🔖 [Ostentação](#ostentacao)
-🔖 [Vicente de Paulo (São)](#vicente-de-paulo-sao)
+- 🔖 [Amor](#amor)
+- 🔖 [Atração](#atracao)
+- 🔖 [Beneficência](#beneficencia)
+- 🔖 [Esmola](#esmola)
+- 🔖 [Ignorância](#ignorancia)
+- 🔖 [Indulgência](#indulgencia)
+- 🔖 [Ostentação](#ostentacao)
+- 🔖 [Vicente de Paulo (São)](#vicente-de-paulo-sao)
 ---
 
 ##### #️⃣ Q.889 {#q889}
@@ -12285,7 +12310,7 @@ Não há homens que se veem condenados a mendigar por culpa sua?
 
 > ✨ ▸ Sem dúvida; mas, se uma boa educação moral lhes houvera ensinado a praticar a Lei de Deus, não teriam caído nos excessos causadores da sua perdição. Disso, sobretudo, é que depende a melhoria do vosso planeta.
 
-🔖 [Mendicância](#mendicancia)
+- 🔖 [Mendicância](#mendicancia)
 ---
 
 #### 3.11.04. 📄 Amor materno e filial {#lde-3-11-04}
@@ -12305,7 +12330,7 @@ Estando na Natureza o amor materno, como é que há mães que odeiam os filhos e
 
 > ✨ ▸ Às vezes, é uma prova que o Espírito do filho escolheu, ou uma expiação, se aconteceu ter sido mau pai, ou mãe perversa, ou mau filho, noutra existência (👉🏻 Veja [Q.392](#q392)). Em todos os casos, a mãe má não pode deixar de ser animada por um mau Espírito que procura criar embaraços ao filho, a fim de que sucumba na prova que buscou. Essa violação das Leis da Natureza, porém, não ficará impune e o Espírito do filho será recompensado pelos obstáculos de que haja triunfado.
 
-🔖 [Mãe](#mae)
+- 🔖 [Mãe](#mae)
 ---
 
 ##### #️⃣ Q.892 {#q892}
@@ -12314,7 +12339,7 @@ Quando os filhos causam desgostos aos pais, não têm estes desculpa para o fato
 
 > ✨ ▸ Não, porque isso representa um encargo que lhes é confiado e a missão deles consiste em se esforçarem por encaminhar os filhos para o bem (👉🏻 Veja [Q.582](#q582) a [Q.583](#q583)). Ademais, esses desgostos são, amiúde, a consequência do mau feitio que os pais deixaram que seus filhos tomassem desde o berço. Colhem o que semearam.
 
-🔖 [Filho](#filho)
+- 🔖 [Filho](#filho)
 ---
 
 ### 3.12. 🗂️ Perfeição moral {#lde-3-12}
@@ -12325,6 +12350,7 @@ Neste capítulo:
 - [3.12.03. 📄 O egoísmo](#lde-3-12-03)
 - [3.12.04. 📄 Caracteres do homem de bem](#lde-3-12-04)
 - [3.12.05. 📄 Conhecimento de si mesmo](#lde-3-12-05)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -12347,8 +12373,8 @@ Há pessoas que fazem o bem espontaneamente, sem que precisem vencer quaisquer s
 
 ↩️ Voltar para [Q.897](#q897)
 
-🔖 [Bem](#bem)
-🔖 [Luta](#luta)
+- 🔖 [Bem](#bem)
+- 🔖 [Luta](#luta)
 ---
 
 ##### #️⃣ Q.895 {#q895}
@@ -12359,10 +12385,10 @@ Postos de lado os defeitos e os vícios acerca dos quais ninguém se pode equivo
 > 
 > O apego às coisas materiais constitui sinal notório de inferioridade, porque, quanto mais se aferra aos bens deste mundo, tanto menos compreende o homem o seu destino. Pelo desinteresse, ao contrário, demonstra que encara de um ponto mais elevado o futuro.
 
-🔖 [Apego](#apego)
-🔖 [Inferioridade](#inferioridade)
-🔖 [Interesse](#interesse)
-🔖 [Vício](#vicio)
+- 🔖 [Apego](#apego)
+- 🔖 [Inferioridade](#inferioridade)
+- 🔖 [Interesse](#interesse)
+- 🔖 [Vício](#vicio)
 ---
 
 ##### #️⃣ Q.896 {#q896}
@@ -12371,8 +12397,8 @@ Há pessoas desinteressadas, mas sem discernimento, que prodigalizam seus havere
 
 > ✨ ▸ Têm o do desinteresse, porém, não o do bem que poderiam fazer. O desinteresse é uma virtude, mas a prodigalidade irrefletida constitui sempre, pelo menos, falta de juízo. A riqueza, assim como não é dada a uns para ser aferrolhada num cofre forte, também não o é a outros para ser dispersada ao vento. Representa um depósito de que uns e outros terão de prestar contas, porque terão de responder por todo o bem que podiam fazer e não fizeram, por todas as lágrimas que podiam ter estancado com o dinheiro que deram aos que dele não precisavam.
 
-🔖 [Prodigalidade](#prodigalidade)
-🔖 [Riqueza](#riqueza)
+- 🔖 [Prodigalidade](#prodigalidade)
+- 🔖 [Riqueza](#riqueza)
 ---
 
 ##### #️⃣ Q.897 {#q897}
@@ -12383,7 +12409,7 @@ Merecerá reprovação aquele que faz o bem, sem visar a qualquer recompensa na 
 
 👉🏻 Veja [Q.894](#q894)
 
-🔖 [Bem](#bem)
+- 🔖 [Bem](#bem)
 ---
 
 ##### #️⃣ Q.897.a {#q897a}
@@ -12392,7 +12418,7 @@ Contudo, todos alimentam o desejo muito natural de progredir, para forrar-se à 
 
 > ✨ ▸ Não, certamente; mas aquele que faz o bem, sem ideia preconcebida, pelo só prazer de ser agradável a Deus e ao seu próximo que sofre, já se acha num certo grau de progresso, que lhe permitirá alcançar a felicidade muito mais depressa do que seu irmão que, mais positivo, faz o bem por cálculo e não impelido pelo ardor natural do seu coração.
 
-🔖 [Bem](#bem)
+- 🔖 [Bem](#bem)
 ---
 
 ##### #️⃣ Q.897.b {#q897b}
@@ -12401,7 +12427,7 @@ Não haverá aqui uma distinção a estabelecer-se entre o bem que podemos fazer
 
 > ✨ ▸ Não, não. Quando dizemos — fazer o bem, queremos significar — ser caridoso. Procede como egoísta todo aquele que calcula o que lhe possa cada uma de suas boas ações render na vida futura, tanto quanto na vida terrena. Nenhum egoísmo, porém, há em querer o homem melhorar-se, para se aproximar de Deus, pois que é o fim para o qual devem todos tender.
 
-🔖 [Egoísmo](#egoismo)
+- 🔖 [Egoísmo](#egoismo)
 ---
 
 ##### #️⃣ Q.898 {#q898}
@@ -12424,7 +12450,7 @@ Aquele que incessantemente acumula haveres, sem fazer o bem a quem quer que seja
 
 > ✨ ▸ É um compromisso com a consciência má.
 
-🔖 [Bens](#bens)
+- 🔖 [Bens](#bens)
 ---
 
 ##### #️⃣ Q.901 {#q901}
@@ -12433,8 +12459,8 @@ Figuremos dois avarentos, um dos quais nega a si mesmo o necessário e morre de 
 
 > ✨ ▸ O que goza, porque é mais egoísta do que avarento. O outro já recebeu parte do seu castigo.
 
-🔖 [Avareza](#avareza)
-🔖 [Egoísmo](#egoismo)
+- 🔖 [Avareza](#avareza)
+- 🔖 [Egoísmo](#egoismo)
 ---
 
 ##### #️⃣ Q.902 {#q902}
@@ -12454,7 +12480,7 @@ Incorre em culpa o homem, por estudar os defeitos alheios?
 > **Mateus, cap. 07, vers. 3, ARC**
 
 
-🔖 [Crítica](#critica)
+- 🔖 [Crítica](#critica)
 
 ##### #️⃣ Q.904 {#q904}
 
@@ -12462,7 +12488,7 @@ Incorrerá em culpa aquele que sonda as chagas da sociedade e as expõe em públ
 
 > ✨ ▸ Depende do sentimento que o mova. Se o escritor apenas visa produzir escândalo, não faz mais do que proporcionar a si mesmo um gozo pessoal, apresentando quadros que constituem antes mau do que bom exemplo. O Espírito aprecia isso, mas pode vir a ser punido por essa espécie de prazer que encontra em revelar o mal.
 
-🔖 [Hipocrisia](#hipocrisia)
+- 🔖 [Hipocrisia](#hipocrisia)
 ---
 
 ##### #️⃣ Q.904.a {#q904a}
@@ -12471,8 +12497,8 @@ Como, em tal caso, julgar da pureza das intenções e da sinceridade do escritor
 
 > ✨ ▸ Nem sempre há nisso utilidade. Se ele escrever boas coisas, aproveitai-as. Se proceder mal, é uma questão de consciência que lhe diz respeito, exclusivamente. Ademais, se o escritor tem empenho em provar a sua sinceridade, apoie o que disser nos exemplos que dê.
 
-🔖 [Escritor](#escritor)
-🔖 [Exemplo](#exemplo)
+- 🔖 [Escritor](#escritor)
+- 🔖 [Exemplo](#exemplo)
 ---
 
 ##### #️⃣ Q.905 {#q905}
@@ -12481,8 +12507,8 @@ Alguns autores hão publicado belíssimas obras de grande moral, que auxiliam o 
 
 > ✨ ▸ A moral sem as ações é o mesmo que a semente sem o trabalho. De que vos serve a semente, se não a fazeis dar frutos que vos alimentem? Grave é a culpa desses homens, porque dispunham de inteligência para compreender. Não praticando as máximas que ofereciam aos outros, renunciaram a colher-lhes os frutos.
 
-🔖 [Autor](#autor)
-🔖 [Pregação](#pregacao)
+- 🔖 [Autor](#autor)
+- 🔖 [Pregação](#pregacao)
 ---
 
 ##### #️⃣ Q.906 {#q906}
@@ -12491,10 +12517,10 @@ Será passível de censura o homem, por ter consciência do bem que faz e por co
 
 > ✨ ▸ Pois que pode ter consciência do mal que pratica, do bem igualmente deve tê-la, a fim de saber se andou bem ou mal. Pesando todos os seus atos na balança da Lei de Deus e, sobretudo, na da lei de justiça, amor e caridade, é que poderá dizer a si mesmo se suas obras são boas ou más, que as poderá aprovar ou desaprovar. Não se lhe pode, portanto, censurar que reconheça haver triunfado dos maus pendores e que se sinta satisfeito, desde que de tal não se envaideça, porque então cairia noutra falta.
 
-🔖 [Consciência](#consciencia)
-🔖 [Lei divina](#lei-divina)
-🔖 [Virtude](#virtude)
-🔖 [Vício](#vicio)
+- 🔖 [Consciência](#consciencia)
+- 🔖 [Lei divina](#lei-divina)
+- 🔖 [Virtude](#virtude)
+- 🔖 [Vício](#vicio)
 ---
 
 #### 3.12.02. 📄 Paixões {#lde-3-12-02}
@@ -12520,8 +12546,8 @@ Como se poderá determinar o limite em que as paixões deixam de ser boas para s
 > 
 > Todo sentimento que eleva o homem acima da natureza animal denota predominância do Espírito sobre a matéria e o aproxima da perfeição.
 
-🔖 [Paixão](#paixao)
-🔖 [Perfeição](#perfeicao)
+- 🔖 [Paixão](#paixao)
+- 🔖 [Perfeição](#perfeicao)
 ---
 
 ##### #️⃣ Q.909 {#q909}
@@ -12536,7 +12562,7 @@ Pode o homem achar nos Espíritos eficaz assistência para triunfar de suas paix
 
 > ✨ ▸ Se o pedir a Deus e ao seu bom gênio, com sinceridade, os bons Espíritos lhe virão certamente em auxílio, porquanto é essa a missão deles.
 
-🔖 [Esforço](#esforco)
+- 🔖 [Esforço](#esforco)
 ---
 
 ##### #️⃣ Q.911 {#q911}
@@ -12545,8 +12571,8 @@ Não haverá paixões tão vivas e irresistíveis, que a vontade seja impotente 
 
 > ✨ ▸ Há muitas pessoas que dizem: *Quero*, mas a vontade só lhes está nos lábios. Querem, porém muito satisfeitas ficam que não seja como 'querem'. Quando o homem crê que não pode vencer as suas paixões, é que seu Espírito se compraz nelas, em consequência da sua inferioridade. Compreende a sua natureza espiritual aquele que as procura reprimir. Vencê-las é, para ele, uma vitória do Espírito sobre a matéria.
 
-🔖 [Inferioridade](#inferioridade)
-🔖 [Paixão](#paixao)
+- 🔖 [Inferioridade](#inferioridade)
+- 🔖 [Paixão](#paixao)
 ---
 
 ##### #️⃣ Q.912 {#q912}
@@ -12555,7 +12581,7 @@ Qual o meio mais eficiente de combater-se o predomínio da natureza corpórea?
 
 > ✨ ▸ Praticar a abnegação.
 
-🔖 [Combate](#combate)
+- 🔖 [Combate](#combate)
 ---
 
 #### 3.12.03. 📄 O egoísmo {#lde-3-12-03}
@@ -12566,7 +12592,7 @@ Dentre os vícios, qual o que se pode considerar radical?
 
 > ✨ ▸ Temo-lo dito muitas vezes: o *egoísmo*. Daí deriva todo mal. Estudai todos os vícios e vereis que no fundo de todos há egoísmo. Por mais que lhes deis combate, não chegareis a extirpá-los, enquanto não atacardes o mal pela raiz, enquanto não lhe houverdes destruído a causa. Tendam, pois, todos os esforços para esse efeito, porquanto aí é que está a verdadeira chaga da sociedade. Quem quiser, desde esta vida, ir aproximando-se da perfeição moral, deve expurgar o seu coração de todo sentimento de egoísmo, visto ser o egoísmo incompatível com a justiça, o amor e a caridade. Ele neutraliza todas as outras qualidades.
 
-🔖 [Perfeição moral](#perfeicao-moral)
+- 🔖 [Perfeição moral](#perfeicao-moral)
 ---
 
 ##### #️⃣ Q.914 {#q914}
@@ -12575,8 +12601,8 @@ Fundando-se o egoísmo no sentimento do interesse pessoal, bem difícil parece e
 
 > ✨ ▸ À medida que os homens se instruem acerca das coisas espirituais, menos valor dão às coisas materiais. Depois, necessário é que se reformem as instituições humanas que o entretêm e excitam. Isso depende da educação.
 
-🔖 [Educação](#educacao)
-🔖 [Egoísmo](#egoismo)
+- 🔖 [Educação](#educacao)
+- 🔖 [Egoísmo](#egoismo)
 ---
 
 ##### #️⃣ Q.915 {#q915}
@@ -12591,9 +12617,9 @@ Longe de diminuir, o egoísmo cresce com a civilização, que, até, parece, o e
 
 > ✨ ▸ Quanto maior é o mal, mais hediondo se torna. Era preciso que o egoísmo produzisse muito mal, para que compreensível se fizesse a necessidade de extirpá-lo. Os homens, quando se houverem despojado do egoísmo que os domina, viverão como irmãos, sem se fazerem mal algum, auxiliando-se reciprocamente, impelidos pelo sentimento mútuo da *solidariedade*. Então, o forte será o amparo e não o opressor do fraco e não mais serão vistos homens a quem falte o indispensável, porque todos praticarão a lei de justiça. Esse o reinado do bem, que os Espíritos estão incumbidos de preparar.
 
-🔖 [Egoísmo](#egoismo)
-🔖 [Reencarnação](#reencarnacao)
-🔖 [Solidariedade](#solidariedade)
+- 🔖 [Egoísmo](#egoismo)
+- 🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Solidariedade](#solidariedade)
 ---
 
 ##### #️⃣ Q.917 {#q917}
@@ -12618,13 +12644,13 @@ Qual o meio de destruir-se o egoísmo?
 > 
 > O egoísmo é a fonte de todos os vícios, como a caridade o é de todas as virtudes. Destruir um e desenvolver a outra, tal deve ser o alvo de todos os esforços do homem, se quiser assegurar a sua felicidade neste mundo, tanto quanto no futuro.
 
-🔖 [Combate](#combate)
-🔖 [Educação](#educacao)
-🔖 [Egoísmo](#egoismo)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Felicidade](#felicidade)
-🔖 [Mal](#mal)
-🔖 [Personalidade](#personalidade)
+- 🔖 [Combate](#combate)
+- 🔖 [Educação](#educacao)
+- 🔖 [Egoísmo](#egoismo)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Felicidade](#felicidade)
+- 🔖 [Mal](#mal)
+- 🔖 [Personalidade](#personalidade)
 ---
 
 #### 3.12.04. 📄 Caracteres do homem de bem {#lde-3-12-04}
@@ -12665,7 +12691,7 @@ Qual o meio prático mais eficaz que tem o homem de se melhorar nesta vida e de 
 
 > ✨ ▸ Um sábio da antiguidade vo-lo disse: Conhece-te a ti mesmo. [^24]
 
-🔖 [Autenticidade](#autenticidade)
+- 🔖 [Autenticidade](#autenticidade)
 ---
 
 ##### #️⃣ Q.919.a {#q919a}
@@ -12684,17 +12710,17 @@ Concebemos toda a sabedoria desta máxima, porém a dificuldade está precisamen
 
 > 👴🏻 ▸ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo o conselho de Santo Agostinho, interrogássemos mais amiúde a nossa consciência, veríamos quantas vezes falimos sem que o suspeitemos, unicamente por não perscrutarmos a natureza e o móvel dos nossos atos. A forma interrogativa tem alguma coisa de mais preciso do que uma máxima, que muitas vezes deixamos de aplicar a nós mesmos. Aquela exige respostas categóricas, por um sim ou um não, que não abrem lugar para qualquer alternativa e que não outros tantos argumentos pessoais. E, pela soma que derem as respostas, poderemos computar a soma de bem ou de mal que existe em nós.
 
-🔖 [Agostinho (Santo)](#agostinho-santo)
-🔖 [Avaliação](#avaliacao)
-🔖 [Ação](#acao)
-🔖 [Consciência](#consciencia)
-🔖 [Falta](#falta)
-🔖 [Fenômeno espírita](#fenomeno-espirita)
-🔖 [Futuro](#futuro)
-🔖 [Julgamento](#julgamento)
-🔖 [Próximo](#proximo)
-🔖 [Reforma íntima](#reforma-intima)
-🔖 [Valor](#valor)
+- 🔖 [Agostinho (Santo)](#agostinho-santo)
+- 🔖 [Avaliação](#avaliacao)
+- 🔖 [Ação](#acao)
+- 🔖 [Consciência](#consciencia)
+- 🔖 [Falta](#falta)
+- 🔖 [Fenômeno espírita](#fenomeno-espirita)
+- 🔖 [Futuro](#futuro)
+- 🔖 [Julgamento](#julgamento)
+- 🔖 [Próximo](#proximo)
+- 🔖 [Reforma íntima](#reforma-intima)
+- 🔖 [Valor](#valor)
 ---
 
 ## 4. 🗃️ Esperanças e Consolações {#lde-4}
@@ -12706,6 +12732,7 @@ Neste capítulo:
 - [4.01.04. 📄 Divisão da lei natural](#lde-4-01-04)
 - [4.01.05. 📄 O bem e o mal](#lde-4-01-05)
 - [4.01.06. 📄 Divisão da lei natural](#lde-4-01-06)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -12730,9 +12757,9 @@ Concebe-se que o homem será feliz na Terra quando a Humanidade estiver transfor
 > 
 > Já nesta vida somos punidos pelas infrações que cometemos das leis que regem a existência corpórea, sofrendo os males consequentes dessas mesmas infrações e dos nossos próprios excessos. Se, gradativamente, remontarmos à origem do que chamamos as nossas desgraças terrenas, veremos que, na maioria dos casos, elas são a consequência de um primeiro afastamento nosso do caminho reto. Desviando-nos deste, enveredamos por outro, mau, e, de consequência em consequência, caímos na desgraça.
 
-🔖 [Felicidade](#felicidade)
-🔖 [Futuro](#futuro)
-🔖 [Punição](#punicao)
+- 🔖 [Felicidade](#felicidade)
+- 🔖 [Futuro](#futuro)
+- 🔖 [Punição](#punicao)
 ---
 
 ##### #️⃣ Q.922 {#q922}
@@ -12741,9 +12768,9 @@ A felicidade terrestre é relativa à posição de cada um. O que basta para a f
 
 > ✨ ▸ Com relação à vida material, é a posse do necessário. Com relação à vida moral, a consciência tranquila e a fé no futuro.
 
-🔖 [Felicidade](#felicidade)
-🔖 [Fé](#fe)
-🔖 [Necessário](#necessario)
+- 🔖 [Felicidade](#felicidade)
+- 🔖 [Fé](#fe)
+- 🔖 [Necessário](#necessario)
 ---
 
 ##### #️⃣ Q.923 {#q923}
@@ -12759,9 +12786,9 @@ Há males que independem da maneira de proceder do homem e que atingem mesmo os 
 
 > ✨ ▸ Deve resignar-se e sofrê-los *sem murmurar*, se quer progredir. Sempre, porém, lhe é dado haurir consolação na própria consciência, que lhe proporciona a esperança de melhor futuro, se fizer o que é preciso para obtê-lo.
 
-🔖 [Consolação](#consolacao)
-🔖 [Resignação](#resignacao)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Consolação](#consolacao)
+- 🔖 [Resignação](#resignacao)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.925 {#q925}
@@ -12770,7 +12797,7 @@ Por que favorece Deus, com os dons da riqueza, a certos homens que não parecem 
 
 > ✨ ▸ Isso significa um favor aos olhos dos que apenas veem o presente, mas, fica sabendo, a riqueza é, de ordinário, prova mais perigosa do que a miséria.
 
-🔖 [Riqueza](#riqueza)
+- 🔖 [Riqueza](#riqueza)
 ---
 
 ##### #️⃣ Q.926 {#q926}
@@ -12784,13 +12811,13 @@ Criando novas necessidades, a civilização não constitui uma fonte de novas af
 > **Mateus, cap. 05, vers. 04, ARC**
 
 
-🔖 [Aflição](#aflicao)
-🔖 [Civilização](#civilizacao)
-🔖 [Inveja](#inveja)
-🔖 [Justo](#justo)
-🔖 [Mau](#mau)
-🔖 [Prosperidade](#prosperidade)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Aflição](#aflicao)
+- 🔖 [Civilização](#civilizacao)
+- 🔖 [Inveja](#inveja)
+- 🔖 [Justo](#justo)
+- 🔖 [Mau](#mau)
+- 🔖 [Prosperidade](#prosperidade)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.927 {#q927}
@@ -12799,10 +12826,10 @@ Não há dúvida que, à felicidade, o supérfluo não é forçosamente indispen
 
 > ✨ ▸ Verdadeiramente infeliz o homem só o é quando sofre da falta do necessário à vida e à saúde do corpo. Todavia, pode acontecer que essa privação seja de sua culpa. Então, só tem que se queixar de si mesmo. Se for ocasionada por outrem, a responsabilidade recairá sobre aquele que lhe houver dado causa.
 
-🔖 [Felicidade](#felicidade)
-🔖 [Infelicidade](#infelicidade)
-🔖 [Necessário](#necessario)
-🔖 [Privação](#privacao)
+- 🔖 [Felicidade](#felicidade)
+- 🔖 [Infelicidade](#infelicidade)
+- 🔖 [Necessário](#necessario)
+- 🔖 [Privação](#privacao)
 ---
 
 ##### #️⃣ Q.928 {#q928}
@@ -12811,11 +12838,11 @@ Evidentemente, por meio da especialidade das aptidões naturais, Deus indica a n
 
 > ✨ ▸ Assim é, de fato, e muitas vezes são os pais que, por orgulho ou avareza, desviam seus filhos da senda que a natureza lhes traçou, comprometendo-lhes a felicidade, por efeito desse desvio. Responderão por ele.
 
-🔖 [Educação](#educacao)
-🔖 [Felicidade](#felicidade)
-🔖 [Orgulho](#orgulho)
-🔖 [Profissão](#profissao)
-🔖 [Vocação](#vocacao)
+- 🔖 [Educação](#educacao)
+- 🔖 [Felicidade](#felicidade)
+- 🔖 [Orgulho](#orgulho)
+- 🔖 [Profissão](#profissao)
+- 🔖 [Vocação](#vocacao)
 ---
 
 ##### #️⃣ Q.928.a {#q928a}
@@ -12833,9 +12860,9 @@ Pessoas há, que, baldas de todos os recursos, embora no seu derredor reine a ab
 
 > ✨ ▸ Nunca ninguém deve ter a ideia de deixar-se morrer de fome. O homem acharia sempre meio de se alimentar, se o orgulho não se colocasse entre a necessidade e o trabalho. Costuma-se dizer: 'Não há ofício desprezível; o seu estado não é o que desonra o homem'. Isso, porém, cada um diz para os outros e não para si.
 
-🔖 [Desencarnação](#desencarnacao)
-🔖 [Fome](#fome)
-🔖 [Orgulho](#orgulho)
+- 🔖 [Desencarnação](#desencarnacao)
+- 🔖 [Fome](#fome)
+- 🔖 [Orgulho](#orgulho)
 ---
 
 ##### #️⃣ Q.930 {#q930}
@@ -12846,10 +12873,10 @@ Pessoas há, que, baldas de todos os recursos, embora no seu derredor reine a ab
 
 > 👴🏻 ▸ Com uma organização social criteriosa e previdente, ao homem só por culpa sua pode faltar o necessário, porém suas próprias faltas são frequentemente resultado do meio onde se acha colocado. Quando praticar a Lei de Deus, terá uma ordem social fundada na justiça e na solidariedade e ele próprio também será melhor.
 
-🔖 [Fome](#fome)
-🔖 [Necessário](#necessario)
-🔖 [Sociedade](#sociedade)
-🔖 [Trabalho](#trabalho)
+- 🔖 [Fome](#fome)
+- 🔖 [Necessário](#necessario)
+- 🔖 [Sociedade](#sociedade)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.931 {#q931}
@@ -12858,9 +12885,9 @@ Por que são mais numerosas, na sociedade, as classes sofredoras do que as feliz
 
 > ✨ ▸ Nenhuma é perfeitamente feliz e o que julgais ser a felicidade muitas vezes oculta pungentes aflições. O sofrimento está por toda parte. Entretanto, para responder ao teu pensamento, direi que as classes a que chamas sofredoras são mais numerosas, por ser a Terra lugar de expiação. Quando a houver transformado em morada do bem e de Espíritos bons, o homem deixará de ser infeliz aí e ela lhe será o paraíso terrestre.
 
-🔖 [Felicidade](#felicidade)
-🔖 [Pobreza](#pobreza)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Felicidade](#felicidade)
+- 🔖 [Pobreza](#pobreza)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.932 {#q932}
@@ -12869,10 +12896,10 @@ Por que, no mundo, tão amiúde, a influência dos maus sobrepuja a dos bons?
 
 > ✨ ▸ Por fraqueza destes. Os maus são intrigantes e audaciosos, os bons são tímidos. Quando estes o quiserem, preponderarão.
 
-🔖 [Bem](#bem)
-🔖 [Mal](#mal)
-🔖 [Mau](#mau)
-🔖 [Timidez](#timidez)
+- 🔖 [Bem](#bem)
+- 🔖 [Mal](#mal)
+- 🔖 [Mau](#mau)
+- 🔖 [Timidez](#timidez)
 ---
 
 ##### #️⃣ Q.933 {#q933}
@@ -12891,15 +12918,15 @@ Assim como, quase sempre, é o homem o causador de seus sofrimentos materiais, t
 > 
 > Referimo-nos ao homem civilizado, porquanto, o selvagem, sendo mais limitadas as suas necessidades, não tem os mesmos motivos de cobiça e de angústias. Diversa é a sua maneira de ver as coisas. Como civilizado, o homem raciocina sobre a sua infelicidade e a analisa. Por isso é que esta mais o fere, mas também lhe é facultado raciocinar sobre os meios de obter consolação e de analisá-los. Essa consolação ele a encontra *no sentimento cristão, que lhe dá a esperança de melhor futuro, e no Espiritismo, que lhe dá a certeza desse futuro*.
 
-🔖 [Alma](#alma)
-🔖 [Ciúme](#ciume)
-🔖 [Cristianismo](#cristianismo)
-🔖 [Homem](#homem)
-🔖 [Infelicidade](#infelicidade)
-🔖 [Inveja](#inveja)
-🔖 [Paixão](#paixao)
-🔖 [Selvagem](#selvagem)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Alma](#alma)
+- 🔖 [Ciúme](#ciume)
+- 🔖 [Cristianismo](#cristianismo)
+- 🔖 [Homem](#homem)
+- 🔖 [Infelicidade](#infelicidade)
+- 🔖 [Inveja](#inveja)
+- 🔖 [Paixão](#paixao)
+- 🔖 [Selvagem](#selvagem)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 #### 4.01.02. 📄 Perda dos entes queridos {#lde-4-01-02}
@@ -12919,9 +12946,9 @@ Que se deve pensar da opinião dos que consideram profanação as comunicações
 
 > 👴🏻 ▸ A possibilidade de nos pormos em comunicação com os Espíritos é uma dulcíssima consolação, pois que nos proporciona meio de conversarmos com os nossos parentes e amigos, que deixaram antes de nós a Terra. Pela evocação, aproximamo-los de nós, eles vêm colocar-se ao nosso lado, nos ouvem e respondem. Cessa assim, por bem dizer, toda separação entre eles e nós. Auxiliam-nos com seus conselhos, testemunham-nos o afeto que nos guardam e a alegria que experimentam por nos lembrarmos deles. Para nós, grande satisfação é sabê-los ditosos, informar-nos, *por seu intermédio*, dos pormenores da nova existência a que passaram e adquirir a certeza de que um dia nos iremos a eles juntar.
 
-🔖 [Além-túmulo](#alem-tumulo)
-🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🔖 [Espírito/s](#espirito/s)
+- 🔖 [Além-túmulo](#alem-tumulo)
+- 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+- 🔖 [Espírito/s](#espirito/s)
 ---
 
 ##### #️⃣ Q.936 {#q936}
@@ -12938,12 +12965,12 @@ Como é que as dores inconsoláveis dos que sobrevivem se refletem nos Espírito
 > 
 > Impacientemente suportamos as tribulações da vida. Tão intoleráveis nos parecem, que não compreendemos possamos sofrê-las. Entretanto, se as tivermos suportado corajosamente, se soubermos impor silêncio às nossas murmurações, felicitar-nos-emos, quando fora desta prisão terrena, como o doente que sofre se felicita, quando curado, por se haver submetido a um tratamento doloroso.
 
-🔖 [Aceitação](#aceitacao)
-🔖 [Egoísmo](#egoismo)
-🔖 [Entes queridos](#entes-queridos)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Libertação](#libertacao)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Aceitação](#aceitacao)
+- 🔖 [Egoísmo](#egoismo)
+- 🔖 [Entes queridos](#entes-queridos)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Libertação](#libertacao)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 #### 4.01.03. 📄 Decepções. Ingratidão. Afeições destruídas {#lde-4-01-03}
@@ -12961,8 +12988,8 @@ As decepções oriundas da ingratidão não serão de molde a endurecer o coraç
 
 > ✨ ▸ Fora um erro, porquanto o homem de coração, como dizes, se sente sempre feliz pelo bem que faz. Sabe que, se esse bem for esquecido nesta vida, será lembrado em outra e que o ingrato se envergonhará e terá remorsos da sua ingratidão.
 
-🔖 [Decepção](#decepcao)
-🔖 [Ingratidão](#ingratidao)
+- 🔖 [Decepção](#decepcao)
+- 🔖 [Ingratidão](#ingratidao)
 ---
 
 ##### #️⃣ Q.938.a {#q938a}
@@ -12973,12 +13000,12 @@ Mas isso não impede que se lhe ulcere o coração. Ora, daí não poderá nasce
 
 > 👴🏻 ▸ A Natureza deu ao homem a necessidade de amar e de ser amado. Um dos maiores gozos que lhe são concedidos na Terra é o de encontrar corações que com o seu simpatizem. Dá-lhe ela, assim, as primícias da felicidade que o aguarda no mundo dos Espíritos perfeitos, onde tudo é amor e benignidade. Desse gozo está excluído o egoísta.
 
-🔖 [Amizade](#amizade)
-🔖 [Amor](#amor)
-🔖 [Egoísmo](#egoismo)
-🔖 [Homem](#homem)
-🔖 [Ingratidão](#ingratidao)
-🔖 [Sensibilidade](#sensibilidade)
+- 🔖 [Amizade](#amizade)
+- 🔖 [Amor](#amor)
+- 🔖 [Egoísmo](#egoismo)
+- 🔖 [Homem](#homem)
+- 🔖 [Ingratidão](#ingratidao)
+- 🔖 [Sensibilidade](#sensibilidade)
 ---
 
 #### 4.01.04. 📄 Uniões antipáticas {#lde-4-01-04}
@@ -12991,7 +13018,7 @@ Uma vez que os Espíritos simpáticos são induzidos a unir-se, como é que, ent
 > 
 > Duas espécies há de afeição: a do corpo e a da alma, acontecendo com frequência tomar-se uma pela outra. Quando pura e simpática, a afeição da alma é duradoura; efêmera a do corpo. Daí vem que, muitas vezes, os que julgavam amar-se com eterno amor passam a odiar-se, desde que a ilusão se desfaça.
 
-🔖 [Namoro](#namoro)
+- 🔖 [Namoro](#namoro)
 ---
 
 ##### #️⃣ Q.940 {#q940}
@@ -13000,9 +13027,9 @@ Não constitui igualmente fonte de dissabores, tanto mais amargos quanto envenen
 
 > ✨ ▸ Amaríssimos, com efeito. Essa, porém, é uma das infelicidades de que sois, as mais das vezes, a causa principal. Em primeiro lugar, o erro é das vossas leis. Julgas, porventura, que Deus te constranja a permanecer junto dos que te desagradam? Depois, nessas uniões, ordinariamente buscais a satisfação do orgulho e da ambição, mais do que a ventura de uma afeição mútua. Sofreis então as consequências dos vossos prejuízos.
 
-🔖 [Antipatia](#antipatia)
-🔖 [Divórcio](#divorcio)
-🔖 [União](#uniao)
+- 🔖 [Antipatia](#antipatia)
+- 🔖 [Divórcio](#divorcio)
+- 🔖 [União](#uniao)
 ---
 
 ##### #️⃣ Q.940.a {#q940a}
@@ -13011,8 +13038,8 @@ Mas, nesse caso, não há quase sempre uma vítima inocente?
 
 > ✨ ▸ Há e para ela é uma dura expiação, mas a responsabilidade da sua desgraça recairá sobre os que lhe tiverem sido os causadores. Se a luz da verdade já lhe houver penetrado a alma, em sua fé no futuro haurirá consolação. Todavia, à medida que os preconceitos se enfraquecerem, as causas dessas desgraças íntimas também desaparecerão.
 
-🔖 [Expiação](#expiacao)
-🔖 [Separação](#separacao)
+- 🔖 [Expiação](#expiacao)
+- 🔖 [Separação](#separacao)
 ---
 
 #### 4.01.05. 📄 Temor da morte {#lde-4-01-05}
@@ -13038,9 +13065,9 @@ Pessoas não haverá que achem um tanto banais esses conselhos para ser-se feliz
 
 > ✨ ▸ Há as que isso dizem e em grande número, mas muitas se parecem com certos doentes a quem o médico prescreve a dieta; desejariam curar-se sem remédios e continuando a apanhar indigestões.
 
-🔖 [Desprezo](#desprezo)
-🔖 [Felicidade](#felicidade)
-🔖 [Vida](#vida)
+- 🔖 [Desprezo](#desprezo)
+- 🔖 [Felicidade](#felicidade)
+- 🔖 [Vida](#vida)
 ---
 
 #### 4.01.06. 📄 Desgosto da vida. Suicídio {#lde-4-01-06}
@@ -13051,7 +13078,7 @@ Donde nasce o desgosto da vida, que, sem motivos plausíveis, se apodera de cert
 
 > ✨ ▸ Efeito da ociosidade, da falta de fé e, também, da saciedade. Para aquele que usa de suas faculdades com fim útil *e de acordo com as suas aptidões naturais*, o trabalho nada tem de árido e a vida se escoa mais rapidamente. Ele lhe suporta as vicissitudes com tanto mais paciência e resignação, quanto obra com o fito da felicidade mais sólida e mais durável que o espera.
 
-🔖 [Desânimo](#desanimo)
+- 🔖 [Desânimo](#desanimo)
 ---
 
 ##### #️⃣ Q.944 {#q944}
@@ -13060,7 +13087,7 @@ Tem o homem o direito de dispor da sua vida?
 
 > ✨ ▸ Não; só a Deus assiste esse direito. O suicídio voluntário importa numa transgressão desta lei.
 
-🔖 [Lei divina](#lei-divina)
+- 🔖 [Lei divina](#lei-divina)
 ---
 
 ##### #️⃣ Q.944.a {#q944a}
@@ -13076,7 +13103,7 @@ Que se deve pensar do suicídio que tem como causa o desgosto da vida?
 
 > ✨ ▸ Insensatos! Por que não trabalhavam? A existência não lhes teria sido tão pesada.
 
-🔖 [Trabalho](#trabalho)
+- 🔖 [Trabalho](#trabalho)
 ---
 
 ##### #️⃣ Q.946 {#q946}
@@ -13085,9 +13112,9 @@ E do suicídio cujo fim é fugir, aquele que o comete, às misérias e às decep
 
 > ✨ ▸ Pobres Espíritos, que não têm a coragem de suportar as misérias da existência! Deus ajuda aos que sofrem e não aos que carecem de energia e de coragem. As tribulações da vida são provas ou expiações. Felizes os que as suportam sem se queixar, porque serão recompensados! Ai, porém, daqueles que esperam a salvação do que, na sua impiedade, chamam acaso ou fortuna! O acaso, ou a fortuna, para me servir da linguagem deles, podem, com efeito, favorecê-los por um momento, mas para lhes fazer sentir mais tarde, cruelmente, a vacuidade dessas palavras.
 
-🔖 [Provas e expiações](#provas-e-expiacoes)
-🔖 [Provação](#provacao)
-🔖 [Providência divina](#providencia-divina)
+- 🔖 [Provas e expiações](#provas-e-expiacoes)
+- 🔖 [Provação](#provacao)
+- 🔖 [Providência divina](#providencia-divina)
 ---
 
 ##### #️⃣ Q.946.a {#q946a}
@@ -13096,7 +13123,7 @@ Os que hajam conduzido o desgraçado a esse ato de desespero sofrerão as conseq
 
 > ✨ ▸ Oh! esses, ai deles! *Responderão como por um assassínio.*
 
-🔖 [Indução](#inducao)
+- 🔖 [Indução](#inducao)
 ---
 
 ##### #️⃣ Q.947 {#q947}
@@ -13105,9 +13132,9 @@ Pode ser considerado suicida aquele que, a braços com a maior penúria, se deix
 
 > ✨ ▸ É um suicídio, mas os que lhe foram causa, ou que teriam podido impedi-lo, são mais culpados do que ele, a quem a indulgência espera. Todavia, não penseis que seja totalmente absolvido, se lhe faltaram firmeza e perseverança e se não usou de toda a sua inteligência para sair do atoleiro. Ai dele, sobretudo, se o seu desespero nasce do orgulho. Quero dizer: se for desses homens em quem o orgulho anula os recursos da inteligência, que corariam de dever a existência ao trabalho de suas mãos e que preferem morrer de fome a renunciar ao que chamam sua posição social! Não haverá mil vezes mais grandeza e dignidade em lutar contra a adversidade, em afrontar a crítica de um mundo fútil e egoísta, que só tem boa vontade para com aqueles a quem nada falta e que vos volta as costas assim precisais dele? Sacrificar a vida à consideração desse mundo é estultícia, porquanto ele a isso nenhum apreço dá.
 
-🔖 [Fome](#fome)
-🔖 [Orgulho](#orgulho)
-🔖 [Vida](#vida)
+- 🔖 [Fome](#fome)
+- 🔖 [Orgulho](#orgulho)
+- 🔖 [Vida](#vida)
 ---
 
 ##### #️⃣ Q.948 {#q948}
@@ -13116,9 +13143,9 @@ Pode ser considerado suicida aquele que, a braços com a maior penúria, se deix
 
 > ✨ ▸ O suicídio não apaga a falta. Ao contrário, em vez de uma, haverá duas. Quando se teve a coragem de praticar o mal, é preciso ter-se a de lhe sofrer as consequências. Deus, que julga, pode, conforme a causa, abrandar os rigores de sua justiça.
 
-🔖 [Erro](#erro)
-🔖 [Falta](#falta)
-🔖 [Vergonha](#vergonha)
+- 🔖 [Erro](#erro)
+- 🔖 [Falta](#falta)
+- 🔖 [Vergonha](#vergonha)
 ---
 
 ##### #️⃣ Q.949 {#q949}
@@ -13129,8 +13156,8 @@ Será desculpável o suicídio, quando tenha por fim obstar a que a vergonha cai
 
 > 👴🏻 ▸ Aquele que tira a si mesmo a vida, para fugir à vergonha de uma ação má, prova que dá mais apreço à estima dos homens do que à de Deus, visto que volta para a vida espiritual carregado de suas iniquidades, tendo-se privado dos meios de repará-las durante a vida corpórea. Deus, geralmente, é menos inexorável do que os homens. Perdoa aos que sinceramente se arrependem e atende à reparação. O suicida nada repara.
 
-🔖 [Família](#familia)
-🔖 [Reparação](#reparacao)
+- 🔖 [Família](#familia)
+- 🔖 [Reparação](#reparacao)
 ---
 
 ##### #️⃣ Q.950 {#q950}
@@ -13148,7 +13175,7 @@ Não é, às vezes, meritório o sacrifício da vida, quando aquele que o faz vi
 
 > 👴🏻 ▸ Todo sacrifício que o homem faça à custa da sua própria felicidade é um ato soberanamente meritório aos olhos de Deus, porque resulta da prática da lei de caridade. Ora, sendo a vida o bem terreno a que maior apreço dá o homem, não comete atentado o que a ela renuncia pelo bem de seus semelhantes: cumpre um sacrifício; mas, antes de o cumprir, deve refletir sobre se sua vida não será mais útil do que sua morte.
 
-🔖 [Sacrifício](#sacrificio)
+- 🔖 [Sacrifício](#sacrificio)
 ---
 
 ##### #️⃣ Q.952 {#q952}
@@ -13157,7 +13184,7 @@ Comete suicídio o homem que perece vítima de paixões que ele sabia lhe haviam
 
 > ✨ ▸ É um suicídio moral. Não percebeis que, nesse caso, o homem é duplamente culpado? Há nele então falta de coragem e bestialidade, acrescidas do esquecimento de Deus.
 
-🔖 [Vício](#vicio)
+- 🔖 [Vício](#vicio)
 ---
 
 ##### #️⃣ Q.952.a {#q952a}
@@ -13179,8 +13206,8 @@ Concebe-se que, nas circunstâncias ordinárias, o suicídio seja condenável; m
 
 > ✨ ▸ É sempre uma falta de resignação e de submissão à vontade do Criador.
 
-🔖 [Eutanásia](#eutanasia)
-🔖 [Morte](#morte)
+- 🔖 [Eutanásia](#eutanasia)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.953.b {#q953b}
@@ -13189,7 +13216,7 @@ Quais, nesse caso, as consequências de tal ato?
 
 > ✨ ▸ Uma expiação proporcionada, como sempre, à gravidade da falta, de acordo com as circunstâncias.
 
-🔖 [Eutanásia](#eutanasia)
+- 🔖 [Eutanásia](#eutanasia)
 ---
 
 ##### #️⃣ Q.954 {#q954}
@@ -13198,8 +13225,8 @@ Será condenável uma imprudência que compromete a vida sem necessidade?
 
 > ✨ ▸ Não há culpabilidade, quando não há intenção ou consciência perfeita da prática do mal.
 
-🔖 [Morte](#morte)
-🔖 [Vida](#vida)
+- 🔖 [Morte](#morte)
+- 🔖 [Vida](#vida)
 ---
 
 ##### #️⃣ Q.955 {#q955}
@@ -13208,8 +13235,8 @@ Podem ser consideradas suicidas e sofrem as consequências de um suicídio as mu
 
 > ✨ ▸ Obedecem a um preconceito e, muitas vezes, mais à força do que por vontade. Julgam cumprir um dever e esse não é o caráter do suicídio. Encontram desculpa na nulidade moral que as caracteriza, na sua maioria, e na ignorância em que se acham. Esses usos bárbaros e estúpidos desaparecem com o advento da civilização.
 
-🔖 [Cremação](#cremacao)
-🔖 [Preconceito](#preconceito)
+- 🔖 [Cremação](#cremacao)
+- 🔖 [Preconceito](#preconceito)
 ---
 
 ##### #️⃣ Q.956 {#q956}
@@ -13218,7 +13245,7 @@ Alcançam o fim objetivado aqueles que, não podendo conformar-se com a perda de
 
 > ✨ ▸ Muito diverso do que esperam é o resultado que colhem. Em vez de se reunirem ao que era objeto de suas afeições, dele se afastam por longo tempo, pois não é possível que Deus recompense um ato de covardia e o insulto que lhe fazem com o duvidarem da sua providência. Pagarão esse instante de loucura com aflições maiores do que as que pensaram abreviar e não terão, para compensá-las, a satisfação que esperavam.
 
-🔖 [Além-túmulo](#alem-tumulo)
+- 🔖 [Além-túmulo](#alem-tumulo)
 ---
 
 ##### #️⃣ Q.957 {#q957}
@@ -13235,8 +13262,8 @@ Quais, em geral, com relação ao estado do Espírito, as consequências do suic
 > 
 > A religião, a moral, todas as filosofias condenam o suicídio como contrário às Leis da Natureza. Todas nos dizem, em princípio, que ninguém tem o direito de abreviar voluntariamente a vida. Entretanto, por que não se tem esse direito? Por que não é livre o homem de pôr termo aos seus sofrimentos? Ao Espiritismo estava reservado demonstrar, pelo exemplo dos que sucumbiram, que o suicídio não é uma falta, somente por constituir infração de uma lei moral, consideração de pouco peso para certos indivíduos, mas também um ato estúpido, pois que nada ganha quem o pratica, o contrário é o que se dá, como no-lo ensinam, não a teoria, porém os fatos que ele nos põe sob as vistas.
 
-🔖 [Afinidade](#afinidade)
-🔖 [Falta](#falta)
+- 🔖 [Afinidade](#afinidade)
+- 🔖 [Falta](#falta)
 ---
 
 ### 4.02. 🗂️ Penas e felicidades futuras {#lde-4-02}
@@ -13251,6 +13278,7 @@ Neste capítulo:
 - [4.02.07. 📄 O bem e o mal](#lde-4-02-07)
 - [4.02.08. 📄 Divisão da lei natural](#lde-4-02-08)
 - [4.02.09. 📄 Divisão da lei natural](#lde-4-02-09)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -13279,7 +13307,7 @@ Donde nasce, para o homem, o sentimento instintivo da vida futura?
 > 
 > A vida futura implica a conservação da nossa individualidade, após a morte. Com efeito, que nos importaria sobreviver ao corpo, se a nossa essência moral houvesse de perder-se no oceano do infinito? As consequências, para nós, seriam as mesmas que se tivéssemos de nos sumir no nada.
 
-🔖 [Vida futura](#vida-futura)
+- 🔖 [Vida futura](#vida-futura)
 ---
 
 #### 4.02.02. 📄 Intuição das penas e gozos futuros {#lde-4-02-02}
@@ -13290,7 +13318,7 @@ Donde se origina a crença, com que deparamos entre todos os povos, na existênc
 
 > ✨ ▸ É sempre a mesma coisa: pressentimento da realidade, trazido ao homem pelo Espírito nele encarnado. Porque, sabei-o bem, não é debalde que uma voz interior vos fala. O vosso erro consiste em não lhe prestardes bastante atenção. Melhores vos tornaríeis, se nisso pensásseis muito, e muitas vezes.
 
-🔖 [Penas futuras](#penas-futuras)
+- 🔖 [Penas futuras](#penas-futuras)
 ---
 
 ##### #️⃣ Q.961 {#q961}
@@ -13299,7 +13327,7 @@ Qual o sentimento que domina a maioria dos homens no momento da morte: a dúvida
 
 > ✨ ▸ A dúvida, nos céticos empedernidos; o temor, nos culpados; a esperança, nos homens de bem.
 
-🔖 [Morte](#morte)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.962 {#q962}
@@ -13312,9 +13340,9 @@ Como pode haver céticos, uma vez que a alma traz ao homem o sentimento das cois
 > 
 > A ideia que, mediante a sabedoria de suas leis, Deus nos dá de sua justiça e de sua bondade não nos permite acreditar que o justo e o mau estejam na mesma categoria a seus olhos, nem duvidar de que recebam, algum dia, um a recompensa, o castigo o outro, pelo bem ou pelo mal que tenham feito. Por isso é que o sentimento inato que temos da justiça nos dá a intuição das penas e recompensas futuras.
 
-🔖 [Ceticismo](#ceticismo)
-🔖 [Justiça divina](#justica-divina)
-🔖 [Vida futura](#vida-futura)
+- 🔖 [Ceticismo](#ceticismo)
+- 🔖 [Justiça divina](#justica-divina)
+- 🔖 [Vida futura](#vida-futura)
 ---
 
 #### 4.02.03. 📄 Intervenção de Deus nas penas e recompensas {#lde-4-02-03}
@@ -13344,8 +13372,8 @@ Mas será necessário que Deus atente em cada um dos nossos atos, para nos recom
 > 
 > Não é verdade que esse campo produzirá na razão dos cuidados que forem dispensados à sua cultura e que toda negligência redundará em prejuízo da colheita? Na velhice, portanto, o filho será ditoso ou desgraçado, conforme haja seguido ou não a regra que seu pai lhe traçou. Deus ainda é mais previdente, pois que nos adverte, a cada instante, de que estamos fazendo bem ou mal. Envia-nos os Espíritos para nos inspirarem, porém não os escutamos. Há mais esta diferença: Deus faculta sempre ao homem, concedendo-lhe novas existências, recursos para reparar seus erros passados, enquanto ao filho de quem falamos, se empregou mal o seu tempo, nenhum recurso resta.
 
-🔖 [Deus](#deus)
-🔖 [Homem](#homem)
+- 🔖 [Deus](#deus)
+- 🔖 [Homem](#homem)
 ---
 
 #### 4.02.04. 📄 Natureza das penas e gozos futuros {#lde-4-02-04}
@@ -13363,7 +13391,7 @@ Por que das penas e gozos da vida futura faz o homem, às vezes, tão grosseira 
 
 > ✨ ▸ Inteligência que ainda se não desenvolveu bastante. Compreende a criança as coisas como o adulto? Isso, ademais, depende também do que se lhe ensinou: aí é que há necessidade de uma reforma. Muitíssimo incompleta é a vossa linguagem, para exprimir o que está fora de vós. Teve-se então que recorrer a comparações e tomastes como realidade as imagens e figuras que serviram para essas comparações. À medida, porém, que o homem se instrui, melhor vai compreendendo o que a sua linguagem não pode exprimir.
 
-🔖 [Vida futura](#vida-futura)
+- 🔖 [Vida futura](#vida-futura)
 ---
 
 ##### #️⃣ Q.967 {#q967}
@@ -13372,7 +13400,7 @@ Em que consiste a felicidade dos bons Espíritos?
 
 > ✨ ▸ Em conhecerem todas as coisas; em não sentirem ódio, nem ciúme, nem inveja, nem ambição, nem qualquer das paixões que ocasionam a desgraça dos homens. O amor que os une lhes é fonte de suprema felicidade. Não experimentam as necessidades, nem os sofrimentos, nem as angústias da vida material. São felizes pelo bem que fazem. Contudo, a felicidade dos Espíritos é proporcional à elevação de cada um. Somente os puros Espíritos gozam, é exato, da felicidade suprema, mas nem todos os outros são infelizes. Entre os maus e os perfeitos há uma infinidade de graus em que os gozos são relativos ao estado moral. Os que já estão bastante adiantados compreendem a ventura dos que os precederam e aspiram a alcançá-la, mas esta aspiração lhes constitui uma causa de emulação, não de ciúme. Sabem que deles depende o consegui-la e para a conseguirem trabalham, porém com a calma da consciência tranquila e ditosos se consideram por não terem que sofrer o que sofrem os maus.
 
-🔖 [Felicidade](#felicidade)
+- 🔖 [Felicidade](#felicidade)
 ---
 
 ##### #️⃣ Q.968 {#q968}
@@ -13381,7 +13409,7 @@ Citais, entre as condições da felicidade dos bons Espíritos, a ausência das 
 
 > ✨ ▸ Sim, gozos do animal. Quando não podes satisfazer a essas necessidades, passas por uma tortura.
 
-🔖 [Felicidade](#felicidade)
+- 🔖 [Felicidade](#felicidade)
 ---
 
 ##### #️⃣ Q.969 {#q969}
@@ -13390,7 +13418,7 @@ Que se deve entender quando é dito que os Espíritos puros se acham reunidos no
 
 > ✨ ▸ É uma alegoria indicativa da inteligência que eles têm das perfeições de Deus, porque o veem e compreendem, mas que, como muitas outras, não se deve tomar ao pé da letra. Tudo na Natureza, desde o grão de areia, canta, isto é, proclama o poder, a sabedoria e a bondade de Deus. Não creias, todavia, que os Espíritos bem-aventurados estejam em contemplação por toda a eternidade. Seria uma bem-aventurança estúpida e monótona. Fora, além disso, a felicidade do egoísta, porquanto a existência deles seria uma inutilidade sem-termo. Estão isentos das tribulações da vida corpórea: já é um gozo. Depois, como dissemos, conhecem e sabem todas as coisas; dão útil emprego à inteligência que adquiriram, auxiliando os progressos dos outros Espíritos. Essa a sua ocupação, que ao mesmo tempo é um gozo.
 
-🔖 [Espírito puro](#espirito-puro)
+- 🔖 [Espírito puro](#espirito-puro)
 ---
 
 ##### #️⃣ Q.970 {#q970}
@@ -13399,7 +13427,7 @@ Em que consistem os sofrimentos dos Espíritos inferiores?
 
 > ✨ ▸ São tão variados como as causas que os determinam e proporcionados ao grau de inferioridade, como os gozos o são ao de superioridade. Podem resumir-se assim: Invejarem o que lhes falta para ser felizes e não obterem; verem a felicidade e não na poderem alcançar; pesar, ciúme, raiva, desespero, motivados pelo que os impede de ser ditosos; remorsos, ansiedade moral indefinível. Desejam todos os gozos e não os podem satisfazer: eis o que os tortura.
 
-🔖 [Espírito inferior](#espirito-inferior)
+- 🔖 [Espírito inferior](#espirito-inferior)
 ---
 
 ##### #️⃣ Q.971 {#q971}
@@ -13408,8 +13436,8 @@ Em que consistem os sofrimentos dos Espíritos inferiores?
 
 > ✨ ▸ Sempre boa, está claro, da parte dos bons Espíritos. Os Espíritos perversos, esses procuram desviar da senda do bem e do arrependimento os que lhes parecem suscetíveis de se deixarem levar e que são, muitas vezes, os que eles mesmos arrastaram ao mal durante a vida terrena.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Influenciação](#influenciacao)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Influenciação](#influenciacao)
 ---
 
 ##### #️⃣ Q.971.a {#q971a}
@@ -13418,7 +13446,7 @@ Assim, a morte não nos livra da tentação?
 
 > ✨ ▸ Não, mas a ação dos maus Espíritos é sempre menor sobre os outros Espíritos do que sobre os homens, porque lhes falta o auxílio das paixões materiais.
 
-🔖 [Espírito mau](#espirito-mau)
+- 🔖 [Espírito mau](#espirito-mau)
 ---
 
 ##### #️⃣ Q.972 {#q972}
@@ -13427,8 +13455,8 @@ Como procedem os maus Espíritos para tentar os outros Espíritos, não podendo 
 
 > ✨ ▸ As paixões não existem materialmente, mas existem no pensamento dos Espíritos atrasados. Os maus dão pasto a esses pensamentos, conduzindo suas vítimas aos lugares onde se lhes ofereça o espetáculo daquelas paixões e de tudo o que as possa excitar.
 
-🔖 [Espírito mau](#espirito-mau)
-🔖 [Obsessão](#obsessao)
+- 🔖 [Espírito mau](#espirito-mau)
+- 🔖 [Obsessão](#obsessao)
 ---
 
 ##### #️⃣ Q.972.a {#q972a}
@@ -13437,7 +13465,7 @@ Mas de que servem essas paixões se já não têm objeto real?
 
 > ✨ ▸ Nisso precisamente é que lhes está o suplício: o avarento vê ouro que lhe não é dado possuir; o devasso, orgias em que não pode tomar parte; o orgulhoso, honras que lhe causam inveja e de que não pode gozar.
 
-🔖 [Paixão](#paixao)
+- 🔖 [Paixão](#paixao)
 ---
 
 ##### #️⃣ Q.973 {#q973}
@@ -13452,10 +13480,10 @@ Quais os sofrimentos maiores a que os Espíritos maus se veem sujeitos?
 > 
 > As comunicações espíritas tiveram como resultado mostrar o estado futuro da alma, não mais em teoria, porém na realidade. Põem-nos diante dos olhos todas as peripécias da vida de além-túmulo. Ao mesmo tempo, entretanto, no-las mostram como consequências perfeitamente lógicas da vida terrestre e, embora despojadas do aparato fantástico que a imaginação dos homens criou, não são menos pessoais para os que fizeram mau uso de suas faculdades. Infinita é a variedade dessas consequências, mas, em tese geral, pode-se dizer: cada um é punido por aquilo em que pecou. Assim é que uns o são pela visão incessante do mal que fizeram; outros, pelo pesar, pelo temor, pela vergonha, pela dúvida, pelo insulamento, pelas trevas, pela separação dos entes que lhes são caros etc.
 
-🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🔖 [Espírito mau](#espirito-mau)
-🔖 [Punição](#punicao)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+- 🔖 [Espírito mau](#espirito-mau)
+- 🔖 [Punição](#punicao)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.974 {#q974}
@@ -13464,9 +13492,9 @@ Donde procede a doutrina do fogo eterno?
 
 > ✨ ▸ Imagem, semelhante a tantas outras, tomada como realidade.
 
-🔖 [Fogo](#fogo)
-🔖 [Inferno](#inferno)
-🔖 [Medo](#medo)
+- 🔖 [Fogo](#fogo)
+- 🔖 [Inferno](#inferno)
+- 🔖 [Medo](#medo)
 
 ↩️ Voltar para [Q.1009](#q1009)
 ---
@@ -13490,8 +13518,8 @@ Os Espíritos inferiores compreendem a felicidade do justo?
 
 > 👴🏻 ▸ Na erraticidade, o Espírito descortina, de um lado, todas as suas existências passadas; de outro, o futuro que lhe está prometido e percebe o que lhe falta para atingi-lo. É qual viajor que chega ao cume de uma montanha: vê o caminho que percorreu e o que lhe resta percorrer, a fim de chegar ao fim da sua jornada.
 
-🔖 [Erraticidade](#erraticidade)
-🔖 [Espírito inferior](#espirito-inferior)
+- 🔖 [Erraticidade](#erraticidade)
+- 🔖 [Espírito inferior](#espirito-inferior)
 ---
 
 ##### #️⃣ Q.976 {#q976}
@@ -13500,7 +13528,7 @@ O espetáculo dos sofrimentos dos Espíritos inferiores não constitui, para os 
 
 > ✨ ▸ Não constitui motivo de aflição, pois que sabem que o mal terá fim. Auxiliam os outros a se melhorarem e lhes estendem as mãos. Essa a ocupação deles, ocupação que lhes proporciona gozo quando são bem-sucedidos.
 
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.976.a {#q976a}
@@ -13509,7 +13537,7 @@ Isto se concebe da parte de Espíritos estranhos ou indiferentes, mas o espetác
 
 > ✨ ▸ Se não vissem esses sofrimentos, é que eles vos seriam estranhos depois da morte. Ora, a religião vos diz que as almas vos veem, mas eles consideram de outro ponto de vista os vossos sofrimentos. Sabem que estes são úteis ao vosso progresso, se os suportardes com resignação. Afligem-se, portanto, muito mais com a falta de ânimo que vos retarda, do que com os sofrimentos considerados em si mesmos, todos passageiros.
 
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.977 {#q977}
@@ -13518,7 +13546,7 @@ Não podendo os Espíritos ocultar reciprocamente seus pensamentos e sendo conhe
 
 > ✨ ▸ Não pode ser de outro modo, di-lo o bom senso.
 
-🔖 [Pensamento](#pensamento)
+- 🔖 [Pensamento](#pensamento)
 ---
 
 ##### #️⃣ Q.977.a {#q977a}
@@ -13531,9 +13559,9 @@ Serão um castigo para o culpado essa divulgação de todos os nossos atos repro
 > 
 > Para o mau, não há maior tormento, na Terra, do que a presença de suas vítimas, razão pela qual as evita continuamente. Que será quando, dissipada a ilusão das paixões, compreender o mal que fez, vir patenteados os seus atos mais secretos, desmascarada a sua hipocrisia e não puder subtrair-se à visão delas? Enquanto a alma do homem perverso é presa da vergonha, do pesar e do remorso, a do justo goza perfeita serenidade.
 
-🔖 [Erro](#erro)
-🔖 [Mundo espiritual](#mundo-espiritual)
-🔖 [Remorso](#remorso)
+- 🔖 [Erro](#erro)
+- 🔖 [Mundo espiritual](#mundo-espiritual)
+- 🔖 [Remorso](#remorso)
 ---
 
 ##### #️⃣ Q.978 {#q978}
@@ -13542,8 +13570,8 @@ A lembrança das faltas que a alma, quando imperfeita, tenha cometido, não lhe 
 
 > ✨ ▸ Não, porque resgatou suas faltas e saiu vitoriosa das provas a que se submetera *para esse fim*.
 
-🔖 [Erro](#erro)
-🔖 [Lembrança](#lembranca)
+- 🔖 [Erro](#erro)
+- 🔖 [Lembrança](#lembranca)
 ---
 
 ##### #️⃣ Q.979 {#q979}
@@ -13554,8 +13582,8 @@ Não serão, para a alma, causa de penosa apreensão, que lhe altera a felicidad
 
 > 👴🏻 ▸ Goza da felicidade a alma que chegou a um certo grau de pureza. Domina-a um sentimento de grata satisfação. Sente-se feliz por tudo o que vê, por tudo o que a cerca. Levanta-se-lhe o véu que encobria os mistérios e as maravilhas da Criação e as perfeições divinas em todo o esplendor lhe aparecem.
 
-🔖 [Felicidade](#felicidade)
-🔖 [Provas](#provas)
+- 🔖 [Felicidade](#felicidade)
+- 🔖 [Provas](#provas)
 ---
 
 ##### #️⃣ Q.980 {#q980}
@@ -13566,10 +13594,10 @@ O laço de simpatia que une os Espíritos da mesma ordem constitui para eles uma
 
 > 👴🏻 ▸ Das primícias dessa felicidade goza o homem na Terra, quando se lhe deparam almas com as quais pode confundir-se numa união pura e santa. Em uma vida mais purificada, inefável e ilimitado será esse gozo, pois aí ele só encontrará almas simpáticas, *que o egoísmo não tornará frias*. Porque, na Natureza, tudo é amor: o egoísmo é que o mata.
 
-🔖 [Egoísmo](#egoismo)
-🔖 [Família](#familia)
-🔖 [Felicidade](#felicidade)
-🔖 [União](#uniao)
+- 🔖 [Egoísmo](#egoismo)
+- 🔖 [Família](#familia)
+- 🔖 [Felicidade](#felicidade)
+- 🔖 [União](#uniao)
 ---
 
 ##### #️⃣ Q.981 {#q981}
@@ -13578,7 +13606,7 @@ Com relação ao estado futuro do Espírito, haverá diferença entre um que, em
 
 > ✨ ▸ Muito grande pode ser a diferença. Entretanto, apaga-se com frequência em face das causas determinantes desse temor ou desse desejo. Quer a tema, quer a deseje, pode o homem ser propelido por sentimentos muito diversos e são estes sentimentos que influem no estado do Espírito. É evidente, por exemplo, que naquele que deseja a morte, unicamente porque vê nela o termo de suas tribulações, há uma espécie de queixa contra a Providência e contra as provas que lhe cumpre suportar.
 
-🔖 [Morte](#morte)
+- 🔖 [Morte](#morte)
 ---
 
 ##### #️⃣ Q.982 {#q982}
@@ -13591,8 +13619,8 @@ Será necessário que professemos o Espiritismo e creiamos nas manifestações e
 
 > 👴🏻 ▸ A crença no Espiritismo ajuda o homem a se melhorar, firmando-lhe as ideias sobre certos pontos do futuro. Apressa o adiantamento dos indivíduos e das massas, porque faculta nos inteiremos do que seremos um dia. É um ponto de apoio, uma luz que nos guia. O Espiritismo ensina o homem a suportar as provas com paciência e resignação; afasta-o dos atos que possam retardar-lhe a felicidade, mas ninguém diz que, sem ele, não possa ela ser conseguida.
 
-🔖 [Bem](#bem)
-🔖 [Espiritismo](#espiritismo)
+- 🔖 [Bem](#bem)
+- 🔖 [Espiritismo](#espiritismo)
 ---
 
 #### 4.02.05. 📄 Penas temporais {#lde-4-02-05}
@@ -13612,7 +13640,7 @@ As vicissitudes da vida são sempre a punição das faltas atuais?
 
 > ✨ ▸ Não; já dissemos: são provas impostas por Deus, ou que vós mesmos escolhestes como Espíritos, antes de encarnardes, para expiação das faltas cometidas em outra existência, porque jamais fica impune a infração das Leis de Deus e, sobretudo, da lei de justiça. Se não for punida nesta existência, sê-lo-á necessariamente noutra. Eis por que um, que vos parece justo, muitas vezes sofre. É a punição do seu passado.
 
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.985 {#q985}
@@ -13631,10 +13659,10 @@ Pode o Espírito, que progrediu em sua existência terrena, reencarnar alguma ve
 
 > ✨ ▸ Sim; desde que não tenha logrado concluir a sua missão, pode ele próprio pedir lhe seja dado completá-la em nova existência, mas, então, já não está sujeito a uma expiação.
 
-🔖 [Espírito puro](#espirito-puro)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Mundos evoluídos](#mundos-evoluidos)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Espírito puro](#espirito-puro)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Mundos evoluídos](#mundos-evoluidos)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.987 {#q987}
@@ -13643,10 +13671,10 @@ Que sucede ao homem que, não fazendo o mal, também nada faz para libertar-se d
 
 > ✨ ▸ Pois que nenhum passo dá para a perfeição, tem que recomeçar uma existência de natureza idêntica à precedente. Fica estacionário, podendo assim prolongar os sofrimentos da expiação.
 
-🔖 [Encarnação](#encarnacao)
-🔖 [Esforço](#esforco)
-🔖 [Evolução](#evolucao)
-🔖 [Homem](#homem)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Esforço](#esforco)
+- 🔖 [Evolução](#evolucao)
+- 🔖 [Homem](#homem)
 ---
 
 ##### #️⃣ Q.988 {#q988}
@@ -13655,11 +13683,11 @@ Há pessoas cuja vida se escoa em perfeita calma; que, nada precisando fazer por
 
 > ✨ ▸ Conheces muitas dessas pessoas? Enganas-te, se pensas que as há em grande número. Não raro, a calma é apenas aparente. Talvez elas tenham escolhido tal existência, mas, quando a deixam, percebem que não lhes serviu para progredirem. Então, como o preguiçoso, lamentam o tempo perdido. Sabei que o Espírito não pode adquirir conhecimentos e elevar-se senão exercendo a sua atividade. Se adormece na indolência, não se adianta. Assemelha-se a um que (segundo os vossos usos) precisa trabalhar e que vai passear ou deitar-se, com a intenção de nada fazer. *Sabei também que cada um terá que dar contas da inutilidade voluntária da sua existência, inutilidade sempre fatal à felicidade futura*. Para cada um, o total dessa felicidade futura corresponde à soma do bem que tenha feito, estando o da infelicidade na proporção do mal que haja praticado e daqueles a quem haja desgraçado.
 
-🔖 [Aperfeiçoamento](#aperfeicoamento)
-🔖 [Calma](#calma)
-🔖 [Encarnação](#encarnacao)
-🔖 [Existência](#existencia)
-🔖 [Expiação](#expiacao)
+- 🔖 [Aperfeiçoamento](#aperfeicoamento)
+- 🔖 [Calma](#calma)
+- 🔖 [Encarnação](#encarnacao)
+- 🔖 [Existência](#existencia)
+- 🔖 [Expiação](#expiacao)
 ---
 
 ##### #️⃣ Q.989 {#q989}
@@ -13668,8 +13696,8 @@ Pessoas há que, se bem não sejam positivamente más, tornam infelizes, pelos s
 
 > ✨ ▸ Inquestionavelmente, essas pessoas não são boas. Expiarão suas faltas, tendo sempre diante da vista aqueles a quem infelicitaram, valendo-lhes isso por uma exprobração. Depois, noutra existência, sofrerão o que fizeram sofrer.
 
-🔖 [Infelicidade](#infelicidade)
-🔖 [Influenciação](#influenciacao)
+- 🔖 [Infelicidade](#infelicidade)
+- 🔖 [Influenciação](#influenciacao)
 ---
 
 #### 4.02.06. 📄 Expiação e arrependimento {#lde-4-02-06}
@@ -13687,8 +13715,8 @@ Qual a consequência do arrependimento no estado espiritual?
 
 > ✨ ▸ Desejar o arrependido uma nova encarnação para se purificar. O Espírito compreende as imperfeições que o privam de ser feliz e por isso aspira a uma nova existência em que possa expiar suas faltas.
 
-🔖 [Arrependimento](#arrependimento)
-🔖 [Reencarnação](#reencarnacao)
+- 🔖 [Arrependimento](#arrependimento)
+- 🔖 [Reencarnação](#reencarnacao)
 ---
 
 ##### #️⃣ Q.992 {#q992}
@@ -13697,8 +13725,8 @@ Que consequência produz o arrependimento no estado corporal?
 
 > ✨ ▸ Fazer que, já na vida atual, o Espírito progrida, se tiver tempo de reparar suas faltas. Quando a consciência o exprobra e lhe mostra uma imperfeição, o homem pode sempre melhorar-se.
 
-🔖 [Arrependimento](#arrependimento)
-🔖 [Consciência](#consciencia)
+- 🔖 [Arrependimento](#arrependimento)
+- 🔖 [Consciência](#consciencia)
 ---
 
 ##### #️⃣ Q.993 {#q993}
@@ -13707,8 +13735,8 @@ Não há homens que só têm o instinto do mal e são inacessíveis ao arrependi
 
 > ✨ ▸ Já te disse que todo Espírito tem que progredir incessantemente. Aquele que, nesta vida, só tem o instinto do mal, terá noutra o do bem *e é para isso que renasce muitas vezes*, pois preciso é que todos progridam e atinjam a meta. A diferença está somente em que uns gastam mais tempo do que outros, porque assim o querem. Aquele, que só tem o instinto do bem, já se purificou, visto que talvez tenha tido o do mal em anterior existência.
 
-🔖 [Arrependimento](#arrependimento)
-🔖 [Espírito mau](#espirito-mau)
+- 🔖 [Arrependimento](#arrependimento)
+- 🔖 [Espírito mau](#espirito-mau)
 ---
 
 ##### #️⃣ Q.994 {#q994}
@@ -13717,7 +13745,7 @@ O homem perverso, que não reconheceu suas faltas durante a vida, sempre as reco
 
 > ✨ ▸ Sempre as reconhece e, então, mais sofre, porque *sente em si todo o mal que praticou*, ou de que foi voluntariamente causa. Contudo, o arrependimento nem sempre é imediato. Há Espíritos que se obstinam em permanecer no mau caminho, não obstante os sofrimentos por que passam. Porém, cedo ou tarde, reconhecerão errada a senda que tomaram e o arrependimento virá. Para esclarecê-los, trabalham os bons Espíritos e também vós podeis trabalhar.
 
-🔖 [Arrependimento](#arrependimento)
+- 🔖 [Arrependimento](#arrependimento)
 ---
 
 ##### #️⃣ Q.995 {#q995}
@@ -13726,8 +13754,8 @@ Haverá Espíritos que, sem serem maus, se conservem indiferentes à sua sorte?
 
 > ✨ ▸ Há Espíritos que de coisa alguma útil se ocupam. Estão na expectativa, mas nesse caso sofrem proporcionalmente. Devendo em tudo haver progresso, neles o progresso se manifesta pela dor.
 
-🔖 [Espírito/s](#espirito/s)
-🔖 [Progresso](#progresso)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Progresso](#progresso)
 ---
 
 ##### #️⃣ Q.995.a {#q995a}
@@ -13742,7 +13770,7 @@ Pois que os Espíritos veem o mal que lhes resulta de suas imperfeições, como 
 
 > ✨ ▸ Assim procedem os de tardio arrependimento. Pode também acontecer que, depois de se haver arrependido, o Espírito se deixe arrastar de novo para o caminho do mal, por outros Espíritos ainda mais atrasados.
 
-🔖 [Preguiça](#preguica)
+- 🔖 [Preguiça](#preguica)
 ---
 
 ##### #️⃣ Q.997 {#q997}
@@ -13755,9 +13783,9 @@ Veem-se Espíritos, de notória inferioridade, acessíveis aos bons sentimentos 
 
 > 👴🏻 ▸  Não se deve perder de vista que o Espírito não se transforma subitamente, após a morte do corpo. Se viveu vida condenável, é porque era imperfeito. Ora, a morte não o torna imediatamente perfeito. Pode, pois, persistir em seus erros, em suas falsas opiniões, em seus preconceitos, até que se haja esclarecido pelo estudo, pela reflexão e pelo sofrimento.
 
-🔖 [Espírito endurecido](#espirito-endurecido)
-🔖 [Oração](#oracao)
-🔖 [Transformação](#transformacao)
+- 🔖 [Espírito endurecido](#espirito-endurecido)
+- 🔖 [Oração](#oracao)
+- 🔖 [Transformação](#transformacao)
 ---
 
 ##### #️⃣ Q.998 {#q998}
@@ -13766,7 +13794,7 @@ A expiação se cumpre no estado corporal ou no estado espiritual?
 
 > ✨ ▸ A expiação se cumpre durante a existência corporal, mediante as provas a que o Espírito se acha submetido e, na vida espiritual, pelos sofrimentos morais, inerentes ao estado de inferioridade do Espírito.
 
-🔖 [Expiação](#expiacao)
+- 🔖 [Expiação](#expiacao)
 ---
 
 ##### #️⃣ Q.999 {#q999}
@@ -13775,8 +13803,8 @@ Basta o arrependimento durante a vida para que as faltas do Espírito se apaguem
 
 > ✨ ▸ O arrependimento concorre para a melhoria do Espírito, mas ele tem que expiar o seu passado.
 
-🔖 [Arrependimento](#arrependimento)
-🔖 [Expiação](#expiacao)
+- 🔖 [Arrependimento](#arrependimento)
+- 🔖 [Expiação](#expiacao)
 ---
 
 ##### #️⃣ Q.999.a {#q999a}
@@ -13785,7 +13813,7 @@ Se, diante disto, um criminoso dissesse que, cumprindo-lhe, em todo caso, expiar
 
 > ✨ ▸ Tornar-se mais longa e mais penosa a sua expiação, desde que ele se torne obstinado no mal.
 
-🔖 [Arrependimento](#arrependimento)
+- 🔖 [Arrependimento](#arrependimento)
 ---
 
 ##### #️⃣ Q.1000 {#q1000}
@@ -13804,11 +13832,11 @@ Já desde esta vida poderemos ir resgatando as nossas faltas?
 > 
 > De que lhe serve, finalmente, humilhar-se diante de Deus se, perante os homens, conserva o seu orgulho?
 
-🔖 [Bens terrenos](#bens-terrenos)
-🔖 [Orgulho](#orgulho)
-🔖 [Privação](#privacao)
-🔖 [Reparação](#reparacao)
-🔖 [Resgate](#resgate)
+- 🔖 [Bens terrenos](#bens-terrenos)
+- 🔖 [Orgulho](#orgulho)
+- 🔖 [Privação](#privacao)
+- 🔖 [Reparação](#reparacao)
+- 🔖 [Resgate](#resgate)
 ---
 
 ##### #️⃣ Q.1001 {#q1001}
@@ -13817,9 +13845,9 @@ Nenhum mérito haverá em assegurarmos, para depois de nossa morte, emprego úti
 
 > ✨ ▸ Nenhum mérito não é o termo. Isso sempre é melhor do que nada. A desgraça, porém, é que aquele, que só depois de morto dá, é quase sempre mais egoísta do que generoso. Quer ter o fruto do bem, sem o trabalho de praticá-lo. Duplo proveito tira aquele que, em vida, se priva de alguma coisa: o mérito do sacrifício e o prazer de ver felizes os que lhe devem a felicidade. Lá, porém, está o egoísmo a dizer-lhe: O que dás tiras aos teus gozos; e, como o egoísmo fala mais alto do que o desinteresse e a caridade, o homem guarda o que possui, pretextando suas necessidades pessoais e as exigências da sua posição! Ah! lastimai aquele que desconhece o prazer de dar; acha-se verdadeiramente privado de um dos mais puros e suaves gozos. Submetendo-o à prova da riqueza, tão escorregadia e perigosa para o seu futuro, houve Deus por bem conceder-lhe, como compensação, a ventura da generosidade, de que já neste mundo pode gozar.
 
-🔖 [Bens terrenos](#bens-terrenos)
-🔖 [Doação](#doacao)
-🔖 [Privação](#privacao)
+- 🔖 [Bens terrenos](#bens-terrenos)
+- 🔖 [Doação](#doacao)
+- 🔖 [Privação](#privacao)
 ---
 
 ##### #️⃣ Q.1002 {#q1002}
@@ -13828,8 +13856,8 @@ Que deve fazer aquele que, em artigo de morte, reconhece suas faltas, quando já
 
 > ✨ ▸ O arrependimento lhe apressa a reabilitação, mas não o absolve. Diante dele não se desdobra o futuro, que jamais se lhe tranca?
 
-🔖 [Arrependimento](#arrependimento)
-🔖 [Reabilitação](#reabilitacao)
+- 🔖 [Arrependimento](#arrependimento)
+- 🔖 [Reabilitação](#reabilitacao)
 ---
 
 #### 4.02.07. 📄 Duração das penas futuras {#lde-4-02-07}
@@ -13856,8 +13884,8 @@ Ao Espírito sofredor, o tempo se afigura tão ou menos longo do que quando esta
 
 > ✨ ▸ Parece-lhe mais longo: para ele não existe o sono. Só para os Espíritos que já chegaram a certo grau de purificação, o tempo, por assim dizer, se apaga diante do infinito.
 
-🔖 [Luís (São)](#luis-sao)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Luís (São)](#luis-sao)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 ##### #️⃣ Q.1006 {#q1006}
@@ -13886,7 +13914,7 @@ Depende sempre da vontade do Espírito a duração das penas? Algumas não haver
 > 
 > **São Luís, IX de França**
 
-🔖 [Condenação](#condenacao)
+- 🔖 [Condenação](#condenacao)
 ---
 
 ##### #️⃣ Q.1009 {#q1009}
@@ -13932,15 +13960,15 @@ Assim, as penas impostas jamais o são por toda a eternidade?
 > 
 > Ademais, a doutrina do fogo material, das fornalhas e das torturas, tomadas ao Tártaro do paganismo, está hoje completamente abandonada pela alta teologia e só nas escolas esses aterradores quadros alegóricos ainda são apresentados como verdades positivas, por alguns homens mais zelosos do que instruídos, que assim cometem grave erro, porquanto as imaginações juvenis, libertando-se dos terrores, poderão ir aumentar o número dos incrédulos. A Teologia reconhece hoje que a palavra *fogo* é usada figuradamente e que se deve entender como significando ogo moral (👉🏻 Veja [Q.974](#q974)). Os que têm acompanhado, como nós, as peripécias da vida e dos sofrimentos de além-túmulo, por meio das comunicações espíritas, hão podido convencer-se de que, por nada terem de material, eles não são menos pungentes. Mesmo relativamente à duração, alguns teólogos começam a admiti-la no sentido restritivo acima indicado e pensam que, com efeito, a palavra *eterno* se pode referir às penas em si mesmas, como consequência de uma lei imutável, e não à sua aplicação a cada indivíduo. No dia em que a religião admitir esta interpretação, assim como algumas outras também decorrentes do progresso das luzes, muitas ovelhas desgarradas reunirá.
 
-🔖 [Condenação](#condenacao)
-🔖 [Evolução](#evolucao)
-🔖 [Lamennais](#lamennais)
-🔖 [Luís (São)](#luis-sao)
-🔖 [Paulo (apóstolo)](#paulo-apostolo)
-🔖 [Penas eternas](#penas-eternas)
-🔖 [Platão](#platao)
-🔖 [Sofrimento](#sofrimento)
-🔖 [Teologia](#teologia)
+- 🔖 [Condenação](#condenacao)
+- 🔖 [Evolução](#evolucao)
+- 🔖 [Lamennais](#lamennais)
+- 🔖 [Luís (São)](#luis-sao)
+- 🔖 [Paulo (apóstolo)](#paulo-apostolo)
+- 🔖 [Penas eternas](#penas-eternas)
+- 🔖 [Platão](#platao)
+- 🔖 [Sofrimento](#sofrimento)
+- 🔖 [Teologia](#teologia)
 ---
 
 #### 4.02.08. 📄 Ressurreição da carne {#lde-4-02-08}
@@ -13953,8 +13981,8 @@ O dogma da ressurreição da carne será a consagração da reencarnação ensin
 
 ↩️ Voltar para [Q.222](#q222)
 
-🔖 [Juízo final](#juizo-final)
-🔖 [Ressrreição](#ressurreicao)
+- 🔖 [Juízo final](#juizo-final)
+- 🔖 [Ressrreição](#ressurreicao)
 ---
 
 ##### #️⃣ Q.1011 {#q1011}
@@ -13997,7 +14025,7 @@ Que se deve entender por purgatório?
 
 > 👴🏻 ▸  O que o homem chama *purgatório* é igualmente uma alegoria, devendo-se entender como tal, não um lugar determinado, porém o estado dos Espíritos imperfeitos, que se acham em expiação até alcançarem a purificação completa, que os elevará à categoria dos Espíritos bem-aventurados. Operando-se essa purificação por meio das diversas encarnações, o purgatório consiste nas provas da vida corporal.
 
-🔖 [Purgatório](#purgatorio)
+- 🔖 [Purgatório](#purgatorio)
 ---
 
 ##### #️⃣ Q.1014 {#q1014}
@@ -14006,7 +14034,7 @@ Como se explica que Espíritos, cuja superioridade se revela na linguagem de que
 
 > ✨ ▸ É que falam uma linguagem que possa ser compreendida pelas pessoas que os interrogam. Quando estas se mostram imbuídas de certas ideias, eles evitam chocá-las muito bruscamente, a fim de lhes não ferir as convicções. Se um Espírito dissesse a um muçulmano, sem precauções oratórias, que Maomé não foi profeta, seria muito mal acolhido.
 
-🔖 [Linguagem](#linguagem)
+- 🔖 [Linguagem](#linguagem)
 ---
 
 ##### #️⃣ Q.1014.a {#q1014a}
@@ -14022,7 +14050,7 @@ Que se deve entender por uma alma a penar?
 
 > ✨ ▸ Uma alma errante e sofredora, incerta de seu futuro e à qual podeis proporcionar o alívio, que muitas vezes solicita, vindo comunicar-se convosco.
 
-🔖 [Alma](#alma)
+- 🔖 [Alma](#alma)
 ---
 
 ##### #️⃣ Q.1016 {#q1016}
@@ -14031,7 +14059,7 @@ Em que sentido se deve entender a palavra *céu*?
 
 > ✨ ▸ Julgas que seja um lugar, como os campos elísios dos antigos, onde todos os bons Espíritos estão promiscuamente aglomerados, sem outra preocupação que a de gozar, pela eternidade toda, de uma felicidade passiva? Não; é o espaço universal; são os planetas, as estrelas e todos os mundos superiores, onde os Espíritos gozam plenamente de suas faculdades, sem as tribulações da vida material, nem as angústias peculiares à inferioridade.
 
-🔖 [Céu](#ceu)
+- 🔖 [Céu](#ceu)
 ---
 
 ##### #️⃣ Q.1017 {#q1017}
@@ -14044,9 +14072,9 @@ Alguns Espíritos disseram estar habitando o quarto, o quinto céus etc. Que que
 > 
 > De acordo com a ideia restrita que se fazia outrora dos lugares das penas e das recompensas e, sobretudo, de acordo com a opinião de que a Terra era o centro do Universo, de que o firmamento formava uma abóbada e que havia uma região das estrelas, *o céu era situado no alto e o inferno embaixo*. Daí as expressões: subir ao céu, estar no mais alto dos céus, ser precipitado nos infernos. Hoje, que a Ciência demonstrou ser a Terra apenas, entre tantos milhões de outros, um dos menores mundos, sem importância especial; que traçou a história da sua formação e lhe descreveu a constituição; que provou ser infinito o Espaço, não haver alto nem baixo no Universo, teve-se que renunciar a situar o céu acima das nuvens e o inferno nos lugares inferiores. Quanto ao purgatório, nenhum lugar lhe fora designado. Estava reservado ao Espiritismo dar de tudo isso a explicação mais racional, mais grandiosa e, ao mesmo tempo, mais consoladora para a Humanidade. Pode-se assim dizer que trazemos em nós mesmos o nosso inferno e o nosso paraíso. O purgatório, achamo-lo na encarnação, nas vidas corporais ou físicas.
 
-🔖 [Céu](#ceu)
-🔖 [Inferno](#inferno)
-🔖 [Purgatório](#purgatorio)
+- 🔖 [Céu](#ceu)
+- 🔖 [Inferno](#inferno)
+- 🔖 [Purgatório](#purgatorio)
 ---
 
 ##### #️⃣ Q.1018 {#q1018}
@@ -14055,7 +14083,7 @@ Em que sentido se devem entender estas palavras do Cristo: Meu Reino não é des
 
 > ✨ ▸ Respondendo assim, o Cristo falava em sentido figurado. Queria dizer que o seu reinado se exerce unicamente sobre os corações puros e desinteressados. Ele está onde quer que domine o amor do bem. Ávidos, porém, das coisas deste mundo e apegados aos bens da Terra, os homens com Ele não estão.
 
-🔖 [Jesus](#jesus)
+- 🔖 [Jesus](#jesus)
 ---
 
 ##### #️⃣ Q.1019 {#q1019}
@@ -14083,30 +14111,31 @@ Neste capítulo:
 - [5.07. 📄 Conclusão 07](#lde-5-07)
 - [5.08. 📄 Conclusão 08](#lde-5-08)
 - [5.09. 📄 Conclusão 09](#lde-5-09)
-- Voltar para:
+- 
+Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
 #### 5.01. 📄 Conclusão 01 {#lde-5-01}
 
 Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imantados que, sob a ação do ímã, se movimentam em todas as direções numa bacia com água, dificilmente poderia compreender que ali está o segredo do mecanismo do Universo e da marcha dos mundos. O mesmo se dá com quem, do Espiritismo, apenas conhece o movimento das mesas, no qual só vê um divertimento, um passatempo, sem compreender que esse fenômeno tão simples e vulgar, que a antiguidade e até povos semisselvagens conheceram, possa ter ligação com as mais graves questões da ordem social. Efetivamente, para o observador superficial, que relação pode ter com a moral e o futuro da Humanidade uma mesa que se move? Quem quer, porém, que reflita se lembrará de que de uma simples panela a ferver e cuja tampa se erguia continuamente, fato que também ocorre desde toda a antiguidade, saiu o possante motor com que o homem transpõe o espaço e suprime as distâncias. Pois bem! sabei, vós que não credes senão no que pertence ao mundo material, que dessa mesa, que gira e vos faz sorrir desdenhosamente, saiu uma ciência, assim como a solução dos problemas que nenhuma filosofia pudera ainda resolver. Apelo para todos os adversários de boa-fé e os adjuro a que digam se se deram ao trabalho de estudar o que criticam. Porque, em boa lógica, a crítica só tem valor quando o crítico é conhecedor daquilo de que fala. Zombar de uma coisa que se não conhece, que se não sondou com o escalpelo do observador consciencioso, não é criticar, é dar prova de leviandade e triste mostra de falta de critério. Certamente que, se houvéssemos apresentado esta filosofia como obra de um cérebro humano, menos desdenhoso tratamento encontraria e teria merecido as honras do exame dos que pretendem dirigir a opinião. Vem ela, porém, dos Espíritos. Que absurdo! Mal lhe dispensam um simples olhar. Julgam-na pelo título, como o macaco da fábula julgava da noz pela casca. Fazei, se quiserdes, abstração da sua origem. Suponde que este *livro* é obra de um homem e dizei, do íntimo e em consciência, se, depois de o terdes lido *seriamente*, achais nele matéria para zombaria.
 
-🔖 [Bem](#bem)
-🔖 [Espírito/s](#espirito/s)
-🔖 [Humanidade](#humanidade)
-🔖 [Luís (São)](#luis-sao)
-🔖 [Paraíso](#paraiso)
-🔖 [Pecado](#pecado)
-🔖 [Tempo](#tempo)
+- 🔖 [Bem](#bem)
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Humanidade](#humanidade)
+- 🔖 [Luís (São)](#luis-sao)
+- 🔖 [Paraíso](#paraiso)
+- 🔖 [Pecado](#pecado)
+- 🔖 [Tempo](#tempo)
 ---
 
 #### 5.02. 📄 Conclusão 02 {#lde-5-02}
 
 O Espiritismo é o mais terrível antagonista do materialismo; não é, pois, de admirar que tenha por adversários os materialistas. Como o materialismo é uma doutrina cujos adeptos mal ousam confessar que o são (prova de que não se consideram muito fortes e têm a dominá-los a consciênci- a), eles se acobertam com o manto da razão e da ciência. E, coisa estranha, os mais céticos chegam a falar em nome da religião, que não conhecem e não compreendem melhor que ao Espiritismo. Por ponto de mira tomam o maravilhoso e o sobrenatural, que não admitem. Ora, dizem, pois que o Espiritismo se funda no maravilhoso, não pode deixar de ser uma suposição ridícula. Não refletem que, condenando, sem restrições, o *maravilhoso* e o *sobrenatural*, também condenam a religião. Com efeito, a religião se funda na revelação e nos milagres. Ora, que é a revelação, senão um conjunto de comunicações extraterrenas? Todos os autores sagrados, desde Moisés, têm falado dessa espécie de comunicações. Que são os milagres, senão fatos maravilhosos e sobrenaturais, por excelência, visto que, no sentido litúrgico, constituem derrogações das Leis da Natureza? Logo, rejeitando o maravilhoso e o sobrenatural, eles rejeitam as bases mesmas da religião. Não é deste ponto de vista, porém, que devemos encarar a questão. Ao Espiritismo não compete examinar se há ou não milagres, isto é, se em certos casos houve Deus por bem derrogar as leis eternas que regem o Universo. Permite, a este respeito, inteira liberdade de crença. Diz e prova que os fenônemo em que se baseia, de sobrenaturais só têm a aparência. E parecem tais a algumas pessoas, apenas porque são insólitos e diferentes dos fatos conhecidos. Não são, contudo, mais sobrenaturais do que todos os fenômenos, cuja explicação a Ciência hoje dá e que pareceram maravilhosos noutra época. Todos os fenônemo espíritas, *sem exceção*, resultam de leis gerais. Revelam-nos uma das forças da Natureza, força desconhecida, ou, por melhor dizer, incompreendida até agora, mas que a observação demonstra estar na ordem das coisas. Assim, pois, o Espiritismo se apoia menos no maravilhoso e no sobrenatural do que a própria religião. Conseguintemente, os que o atacam por esse lado mostram que o não conhecem e, ainda quando fossem os maiores sábios, lhes diríamos: se a vossa ciência, que vos instruiu em tantas coisas, não vos ensinou que o domínio da Natureza é infinito, sois apenas meio sábios.
 
-🔖 [Ciência](#ciencia)
-🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Milagre](#milagre)
+- 🔖 [Ciência](#ciencia)
+- 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Milagre](#milagre)
 ---
 
 #### 5.03. 📄 Conclusão 03 {#lde-5-03}
@@ -14115,17 +14144,17 @@ Dizeis que desejais curar o vosso século de uma mania que ameaça invadir o mun
 
 Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e do progresso, mas a fraternidade pressupõe desinteresse, abnegação da personalidade. Onde há verdadeira fraternidade, o orgulho é uma anomalia. Com que direito impondes um sacrifício àquele a quem dizeis que, com a morte, tudo se lhe acabará; que amanhã, talvez, ele não será mais do que uma velha máquina desmantelada e atirada ao monturo? Que razões terá ele para impor a si mesmo uma privação qualquer? Não será mais natural que trate de viver o melhor possível, durante os breves instantes que lhe concedeis? Daí o desejo de possuir muito para melhor gozar. Do desejo nasce a inveja dos que possuem mais e, dessa inveja à vontade de apoderar-se do que a estes pertence, o passo é curto. Que é que o detém? A lei? A lei, porém, não abrange todos os casos. Direis que a consciência, o sentimento do dever, mas em que baseais o sentimento do dever? Terá razão de ser esse sentimento, de par com a crença de que tudo se acaba com a vida? Onde essa crença exista, uma só máxima é racional: cada um por si, não passando de vãs palavras as ideias de fraternidade, de consciência, de dever, de humanidade, mesmo de progresso. Oh! vós, que proclamais semelhantes doutrinas, não sabeis quão grande é o mal que fazeis à sociedade, nem de quantos crimes assumis a responsabilidade! Para o cético, tal coisa não existe. Só à matéria rende ele homenagem.
 
-🔖 [Espiritismo](#espiritismo)
+- 🔖 [Espiritismo](#espiritismo)
 ---
 
 #### 5.04. 📄 Conclusão 04 {#lde-5-04}
 
 O progresso da Humanidade tem seu princípio na aplicação da lei de justiça, de amor e de caridade, lei que se funda na certeza do futuro. Tirai-lhe essa certeza e lhe tirareis a pedra fundamental. Dessa lei derivam todas as outras, porque ela encerra todas as condições da felicidade do homem. Só ela pode curar as chagas da sociedade. Comparando as idades e *os povos*, pode ele avaliar quanto a sua condição melhora, à medida que essa lei vai sendo mais bem compreendida e melhor praticada. Ora, se, aplicando-a parcial e incompletamente, aufere o homem tanto bem, que não conseguirá quando fizer dela a base de todas as suas instituições sociais! Será isso possível? Certo, porquanto, desde que ele já deu dez passos, possível lhe é dar vinte e assim por diante. Do futuro se pode, pois, julgar pelo passado. Já vemos que pouco a pouco se extinguem as antipatias de povo para povo. Diante da civilização, diminuem as barreiras que os separavam. De um extremo a outro do mundo, eles se estendem as mãos. Maior justiça preside à elaboração das leis internacionais. As guerras se tornam cada vez mais raras e não excluem os sentimentos de humanidade. Nas relações, a uniformidade se vai estabelecendo. Apagam-se as distinções de raças e de castas e os que professam crenças diversas impõem silêncio aos prejuízos de seita, para se confundirem na adoração de um único Deus. Falamos dos povos que marcham à testa da civilização. (👉🏻 Veja [Q.789](#q789) e [Q.793](#q793)) A todos estes respeitos, no entanto, longe ainda estamos da perfeição e muitas ruínas antigas ainda se têm que abater, até que não restem mais vestígios da barbaria. Poderão acaso essas ruínas sustentar-se contra a força irresistível do progresso, contra essa força viva que é, em si mesma, uma Lei da Natureza? Sendo a geração atual mais adiantada do que a anterior, por que não o será mais do que a presente a que lhe há de suceder? Sê-lo-á, pela força das coisas. Primeiro, porque, com as gerações, todos os dias se extinguem alguns campeões dos velhos abusos, o que permite à sociedade formar-se de elementos novos, livres dos velhos preconceitos. Em segundo lugar, porque, desejando o progresso, o homem estuda os obstáculos e se aplica a removê-los. Desde que é incontestável o movimento progressivo, não há que duvidar do progresso vindouro. O homem quer ser feliz e é natural esse desejo. Ora, buscando progredir, o que ele procura é aumentar a soma da sua felicidade, sem o que o progresso careceria de objeto. Em que consistiria para ele o progresso, se lhe não devesse melhorar a posição? Quando, porém, conseguir a soma de gozos que o progresso intelectual lhe pode proporcionar, verificará que não está completa a sua felicidade. Reconhecerá ser esta impossível, sem a segurança nas relações sociais, segurança que somente no progresso moral lhe será dado achar. Logo, pela força mesma das coisas, ele próprio dirigirá o progresso para essa senda e o Espiritismo lhe oferecerá a mais poderosa alavanca para alcançar tal objetivo. [^26]
 
-🔖 [Justiça](#justica)
-🔖 [Lei de progresso](#lei-de-progresso)
-🔖 [Perfeição](#perfeicao)
-🔖 [Progresso](#progresso)
+- 🔖 [Justiça](#justica)
+- 🔖 [Lei de progresso](#lei-de-progresso)
+- 🔖 [Perfeição](#perfeicao)
+- 🔖 [Progresso](#progresso)
 ---
 
 #### 5.05. 📄 Conclusão 05 {#lde-5-05}
@@ -14136,11 +14165,11 @@ Por meio do Espiritismo, a Humanidade tem que entrar numa nova fase, a do progre
 
 Três períodos distintos apresenta o desenvolvimento dessas ideias: primeiro, o da curiosidade, que a singularidade dos fenônemo produzidos desperta; segundo, o do raciocínio e da filosofia; terceiro, o da aplicação e das consequências. O período da curiosidade passou; a curiosidade dura pouco. Uma vez satisfeita, muda de objeto. O mesmo não acontece com o que desafia a meditação séria e o raciocínio. Começou o segundo período, o terceiro virá inevitavelmente. O Espiritismo progrediu principalmente depois que foi sendo mais bem compreendido na sua essência íntima, depois que lhe perceberam o alcance, porque tange a corda mais sensível do homem: a da sua felicidade, mesmo neste mundo. Aí a causa da sua propagação, o segredo da força que o fará triunfar. Enquanto a sua influência não atinge as massas, ele vai felicitando os que o compreendem. Mesmo os que nenhum fenômeno têm testemunhado, dizem: à parte esses fenômenos, há a filosofia, que me explica o que NENHUMA OUTRA me havia explicado. Nela encontro, por meio unicamente do raciocínio, uma solução *racional* para os problemas que no mais alto grau interessam ao meu futuro. Ela me dá calma, firmeza, confiança; livra-me do tormento da incerteza. Ao lado de tudo isto, secundária se torna a questão dos fatos materiais. Quereis, vós todos que o atacais, um meio de combatê-lo com êxito? Aqui o tendes. Substituí-o por alguma coisa melhor; indicai solução MAIS FILOSÓFICA para todas as questões que ele resolveu; dai ao homem OUTRA CERTEZA que o faça mais feliz, porém compreendei bem o alcance desta palavra *certeza*, porquanto o homem não aceita, como *certo*, senão o que lhe parece *lógico*. Não vos contenteis com dizer: isto não é assim; demasiado fácil é semelhante afirmativa. Provai, não por negação, mas por fatos, que isto não é real, nunca o foi e NÃO PODE ser. Se não é, dizei o que o é, em seu lugar. Provai, finalmente, que as consequências do Espiritismo não são tornar melhor o homem e, portanto, mais feliz, pela prática da mais pura moral evangélica, moral a que se tecem muitos louvores, mas que muito pouco se pratica. Quando houverdes feito isso, tereis o direito de o atacar. O Espiritismo é forte porque assenta sobre as próprias bases da religião: Deus, a alma, as penas e as recompensas futuras; sobretudo, porque mostra que essas penas e recompensas são consequências naturais da vida terrestre e, ainda, porque, no quadro que apresenta do futuro, nada há que a razão mais exigente possa recusar. Que compensação ofereceis aos sofrimentos deste mundo, vós cuja doutrina consiste unicamente na negação do futuro? Enquanto vos apoiais na incredulidade, ele se apoia na confiança em Deus; ao passo que convida os homens à felicidade, à esperança, à verdadeira fraternidade, vós lhes ofereceis o *nada* por perspectiva e o *egoísmo* por consolação. Ele tudo explica, vós nada explicais. Ele prova pelos fatos, vós nada provais. Como quereis que se hesite entre as duas doutrinas?
 
-🔖 [Espiritismo](#espiritismo)
-🔖 [Filosofia](#filosofia)
-🔖 [Moral](#moral)
-🔖 [Progresso](#progresso)
-🔖 [Sofrimento](#sofrimento)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Filosofia](#filosofia)
+- 🔖 [Moral](#moral)
+- 🔖 [Progresso](#progresso)
+- 🔖 [Sofrimento](#sofrimento)
 ---
 
 #### 5.06. 📄 Conclusão 06 {#lde-5-06}
@@ -14155,14 +14184,14 @@ nataQue faz a moderna ciência espírita? Reúne em corpo de doutrina o que esta
 
 Que interesse, ademais, haveria em obstar-se a propagação das ideias espíritas? É exato que elas se erguem contra os abusos que nascem do orgulho e do egoísmo, mas, se é certo que desses abusos há quem aproveite, à coletividade humana eles prejudicam. A coletividade, portanto, será favorável a tais ideias, contando-se-lhes por adversários sérios apenas os interessados em manter aqueles abusos. As ideias espíritas, ao contrário, são um penhor de ordem e tranquilidade, porque, pela sua influência, os homens se tornam melhores uns para com os outros, menos ávidos das coisas materiais e mais resignados aos decretos da Providência.
 
-🔖 [Ciência espírita](#ciencia-espirita)
-🔖 [Demônio](#demonio)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Fenômeno mediúnico](#fenomeno-mediunico)
-🔖 [Manifestação](#manifestacao)
-🔖 [Mediunidade](#mediunidade)
-🔖 [Médium](#medium)
-🔖 [Proibição](#proibicao)
+- 🔖 [Ciência espírita](#ciencia-espirita)
+- 🔖 [Demônio](#demonio)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Fenômeno mediúnico](#fenomeno-mediunico)
+- 🔖 [Manifestação](#manifestacao)
+- 🔖 [Mediunidade](#mediunidade)
+- 🔖 [Médium](#medium)
+- 🔖 [Proibição](#proibicao)
 ---
 
 #### 5.07. 📄 Conclusão 07 {#lde-5-07}
@@ -14183,11 +14212,11 @@ O segundo efeito, quase tão geral quanto o primeiro, é a resignação nas vici
 
 O terceiro efeito é o de estimular no homem a indulgência para com os defeitos alheios. Todavia, cumpre dizê-lo, o princípio egoísta e tudo que dele decorre são o que há de mais tenaz no homem e, por conseguinte, de mais difícil de desarraigar. Toda gente faz voluntariamente sacrifícios, contanto que nada custem e de nada privem. Para a maioria dos homens, o dinheiro tem ainda irresistível atrativo e bem poucos compreendem a palavra supérfluo, quando de suas pessoas se trata. Por isso mesmo, a abnegação da personalidade constitui sinal de grandíssimo progresso.
 
-🔖 [Espiritismo](#espiritismo)
-🔖 [Indulgência](#indulgencia)
-🔖 [Materialismo](#materialismo)
-🔖 [Religiosidade](#religiosidade)
-🔖 [Resignação](#resignacao)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Indulgência](#indulgencia)
+- 🔖 [Materialismo](#materialismo)
+- 🔖 [Religiosidade](#religiosidade)
+- 🔖 [Resignação](#resignacao)
 ---
 
 #### 5.08. 📄 Conclusão 08 {#lde-5-08}
@@ -14204,16 +14233,16 @@ Decorrido que seja mais algum tempo, a existência desse mundo, que nos espera, 
 
 As comunicações com os seres de além-túmulo deram em resultado fazer-nos compreender a vida futura, fazer-nos vê-la, iniciar-nos no conhecimento das penas e gozos que nos estão reservados, de acordo com os nossos méritos e, desse modo, encaminhar para o *espiritualismo* os que no homem somente viam a matéria, a máquina organizada. Razão, portanto, tivemos para dizer que o Espiritismo, com os fatos, matou o materialismo. Fosse este único resultado por ele produzido e já muita gratidão lhe deveria a ordem social. Ele, porém, faz mais: mostra os inevitáveis efeitos do mal e, conseguintemente, a necessidade do bem. Muito maior do que se pensa é, e cresce todos os dias, o número daqueles em que ele há melhorado os sentimentos, neutralizado as más tendências e desviado do mal. É que para esses o futuro deixou de ser coisa imprecisa, simples esperança, por se haver tornado uma verdade que se compreende e explica, quando se *veem* e *ouvem* os que partiram lamentar-se ou felicitar-se pelo que fizeram na Terra. Quem disso é testemunha entra a refletir e sente a necessidade de a si mesmo se conhecer, julgar e emendar.
 
-🔖 [Alcorão](#alcorao)
-🔖 [Bíblia](#biblia)
-🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-🔖 [Evangelho](#evangelho)
-🔖 [Jesus](#jesus)
-🔖 [Materialismo](#materialismo)
-🔖 [Moisés](#moises)
-🔖 [Psicologia](#psicologia)
-🔖 [Revelação](#revelacao)
-🔖 [Tempo](#tempo)
+- 🔖 [Alcorão](#alcorao)
+- 🔖 [Bíblia](#biblia)
+- 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
+- 🔖 [Evangelho](#evangelho)
+- 🔖 [Jesus](#jesus)
+- 🔖 [Materialismo](#materialismo)
+- 🔖 [Moisés](#moises)
+- 🔖 [Psicologia](#psicologia)
+- 🔖 [Revelação](#revelacao)
+- 🔖 [Tempo](#tempo)
 ---
 
 #### 5.09. 📄 Conclusão 09 {#lde-5-09}
@@ -14230,11 +14259,11 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 > 
 > **Santo Agostinho**
 
-🔖 [Agostinho (Santo)](#agostinho-santo)
-🔖 [Divergências](#divergencias)
-🔖 [Espiritismo](#espiritismo)
-🔖 [Espírito bom](#espirito-bom)
-🔖 [União](#uniao)
+- 🔖 [Agostinho (Santo)](#agostinho-santo)
+- 🔖 [Divergências](#divergencias)
+- 🔖 [Espiritismo](#espiritismo)
+- 🔖 [Espírito bom](#espirito-bom)
+- 🔖 [União](#uniao)
 ---
 
 
@@ -14261,6 +14290,7 @@ Esta edição é oferecida gratuitamente para fins de estudo e divulgação da D
 - [6.01. 📄 Nota explicativa](#lde-6-01)
 - [6.02. 📄 Índice geral](#lde-6-02)
 - [6.03. 📄 Notas de rodapé](#lde-6-03)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
@@ -14381,6 +14411,7 @@ A Editora (FEB)
 [U](#lde-6-02-u)
 [V](#lde-6-02-v)
 [Z](#lde-6-02-z)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 
