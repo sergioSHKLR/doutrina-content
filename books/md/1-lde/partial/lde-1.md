@@ -3,15 +3,15 @@
 
 ### 1.01. 🗂️ Deus {#lde-1-01}
 
-::: chapter toc
-Neste capítulo:
+::: chapter-toc
 <!-- no toc -->
+Neste capítulo:
 - [1.01.01. 📄 Deus e o infinito](#lde-1-01-01)
 - [1.01.02. 📄 Provas da existência de Deus](#lde-1-01-02)
 - [1.01.03. 📄 Atributos da Divindade](#lde-1-01-03)
 - [1.01.04. 📄 Panteísmo](#lde-1-01-04)
 Voltar para:
-- [0.02. 📄 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 :::
 
 #### 1.01.01. 📄 Deus e o infinito {#lde-1-01-01}
@@ -36,8 +36,9 @@ Que se deve entender por infinito?
 ✨ ▸ O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.
 :::
 
-::: expand 🔗
-🏷️ [Infinito](#infinito)
+::: expand
+📑 Itens do Índice
+- 🔖 [Infinito](#infinito)
 :::
 
 ---
@@ -54,9 +55,10 @@ Poder-se-ia dizer que Deus é o infinito?
 👴🏻 ▸ Deus é *infinito* em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Deus](#deus)
-🏷️ [Infinito](#infinito)
+::: expand
+📑 Itens do Índice
+- 🔖 [Deus](#deus)
+- 🔖 [Infinito](#infinito)
 :::
 
 ---
@@ -85,8 +87,9 @@ Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem
 ✨ ▸ A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa.
 :::
 
-::: expand 🔗
-🏷️ [Sentimento](#sentimento)
+::: expand
+📑 Itens do Índice
+- 🔖 [Sentimento](#sentimento)
 :::
 
 ---
@@ -103,9 +106,10 @@ O sentimento íntimo que temos da existência de Deus não poderia ser fruto da 
 👴🏻 ▸ Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Deus](#deus)
-🏷️ [Universalidade](#universalidade)
+::: expand
+📑 Itens do Índice
+- 🔖 [Deus](#deus)
+- 🔖 [Universalidade](#universalidade)
 :::
 
 ---
@@ -122,8 +126,9 @@ Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da for
 👴🏻 ▸ Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Matéria](#materia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Matéria](#materia)
 :::
 
 ---
@@ -140,8 +145,9 @@ Que se deve pensar da opinião dos que atribuem a formação primária a uma com
 👴🏻 ▸ A harmonia existente no mecanismo do Universo patenteia combinações e desígnios determinados e, por isso mesmo, revela um poder inteligente. Atribuir a formação primária ao acaso é insensatez, pois que o acaso é cego e não pode produzir os efeitos que a inteligência produz. Um acaso inteligente já não seria acaso. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Harmonia](#harmonia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Harmonia](#harmonia)
 :::
 
 ---
@@ -160,8 +166,9 @@ Em que é que, na causa primária, se revela uma inteligência suprema e superio
 Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela inteligência superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Deus](#deus)
+::: expand
+📑 Itens do Índice
+- 🔖 [Deus](#deus)
 :::
 
 ---
@@ -190,9 +197,10 @@ Será dado um dia ao homem compreender o mistério da Divindade?
 👴🏻 ▸ A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de Deus. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Compreensão](#compreensao)
-🏷️ [Deus](#deus)
+::: expand
+📑 Itens do Índice
+- 🔖 [Compreensão](#compreensao)
+- 🔖 [Deus](#deus)
 :::
 
 ---
@@ -205,8 +213,9 @@ Embora não possamos compreender a natureza íntima de Deus, podemos formar idé
 ✨ ▸ De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento.
 :::
 
-::: expand 🔗
-🏷️ [Entendimento](#entendimento)
+::: expand
+📑 Itens do Índice
+- 🔖 [Entendimento](#entendimento)
 :::
 
 ---
@@ -233,9 +242,10 @@ Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipo
 É *soberanamente justo e bom*. A sabedoria providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa sabedoria não permite se duvide nem da Justiça nem da Bondade de Deus. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Deus](#deus)
-🏷️ [Divindade](#divindade)
+::: expand
+📑 Itens do Índice
+- 🔖 [Deus](#deus)
+- 🔖 [Divindade](#divindade)
 :::
 
 ---
@@ -260,9 +270,10 @@ Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos
 ✨ ▸ Não podendo fazer-se Deus, o homem quer ao menos ser uma parte de Deus.
 :::
 
-::: expand 🔗
-🏷️ [Criatura](#criatura)
-🏷️ [Panteísmo](#panteismo)
+::: expand
+📑 Itens do Índice
+- 🔖 [Criatura](#criatura)
+- 🔖 [Panteísmo](#panteismo)
 :::
 
 ---
@@ -281,17 +292,18 @@ Pretendem os que professam esta doutrina achar nela a demonstração de alguns d
 A inteligência de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio Deus, como o quadro não é o pintor que o concebeu e executou. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Deus](#deus)
-🏷️ [Panteísmo](#panteismo)
-🏷️ [Razão](#razao)
+::: expand
+📑 Itens do Índice
+- 🔖 [Deus](#deus)
+- 🔖 [Panteísmo](#panteismo)
+- 🔖 [Razão](#razao)
 :::
 
 ---
 
 ### 1.02. 🗂️ Elementos gerais do Universo {#lde-1-02}
 
-::: chapter toc
+::: chapter-toc
 Neste capítulo:
 <!-- no toc -->
 - [1.02.01. 📄 Conhecimento do princípio das coisas](#lde-1-02-01)
@@ -299,7 +311,7 @@ Neste capítulo:
 - [1.02.03. 📄 Propriedades da Matéria](#lde-1-02-03)
 - [1.02.04. 📄 Espaço universal](#lde-1-02-04)
 Voltar para:
-- [0.02. 📄 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 :::
 
 #### 1.02.01. 📄 Conhecimento do princípio das coisas {#lde-1-02-01}
@@ -322,8 +334,9 @@ Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 ✨ ▸ O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui.
 :::
 
-::: expand 🔗
-🏷️ [Mistério](#misterio)
+::: expand
+📑 Itens do Índice
+- 🔖 [Mistério](#misterio)
 :::
 
 ---
@@ -340,9 +353,10 @@ Não pode o homem, pelas investigações científicas, penetrar alguns dos segre
 👴🏻 ▸ Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a sabedoria do Criador . Entretanto, seja por orgulho, seja por fraqueza, sua própria inteligência o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Ciência](#ciencia)
-🏷️ [Mistério](#misterio)
+::: expand
+📑 Itens do Índice
+- 🔖 [Ciência](#ciencia)
+- 🔖 [Mistério](#misterio)
 :::
 
 ---
@@ -359,9 +373,10 @@ Dado é ao homem receber, sem ser por meio das investigações da Ciência, comu
 👴🏻 ▸ Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Conhecimento](#conhecimento)
-🏷️ [Revelação](#revelacao)
+::: expand
+📑 Itens do Índice
+- 🔖 [Conhecimento](#conhecimento)
+- 🔖 [Revelação](#revelacao)
 :::
 
 ---
@@ -386,8 +401,9 @@ Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos 
 ✨ ▸ Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
 :::
 
-::: expand 🔗
-🏷️ [Matéria](#materia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Matéria](#materia)
 :::
 
 ---
@@ -404,8 +420,9 @@ Que definição podeis dar da matéria?
 👴🏻 ▸ Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Matéria](#materia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Matéria](#materia)
 :::
 
 ---
@@ -418,8 +435,9 @@ Que é o espírito?
 ✨ ▸ O princípio inteligente do Universo.
 :::
 
-::: expand 🔗
-🏷️ [Espírito/s](#espirito/s)
+::: expand
+📑 Itens do Índice
+- 🔖 [Espírito/s](#espirito/s)
 :::
 
 ---
@@ -432,8 +450,9 @@ Qual a natureza íntima do espírito?
 ✨ ▸ Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.
 :::
 
-::: expand 🔗
-🏷️ [Nada](#nada)
+::: expand
+📑 Itens do Índice
+- 🔖 [Nada](#nada)
 :::
 
 ---
@@ -446,9 +465,10 @@ Qual a natureza íntima do espírito?
 ✨ ▸ A inteligência é um atributo essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa.
 :::
 
-::: expand 🔗
-🏷️ [Espírito/s](#espirito/s)
-🏷️ [Inteligência](#inteligencia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Inteligência](#inteligencia)
 :::
 
 ---
@@ -461,9 +481,10 @@ O espírito independe da matéria, ou é apenas uma propriedade desta, como as c
 ✨ ▸ São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria.
 :::
 
-::: expand 🔗
-🏷️ [Espírito/s](#espirito/s)
-🏷️ [Matéria](#materia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Matéria](#materia)
 :::
 
 ---
@@ -476,8 +497,9 @@ Essa união é igualmente necessária para a manifestação do espírito? (Enten
 ✨ ▸ É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos.
 :::
 
-::: expand 🔗
-🏷️ [Percepção](#percepcao)
+::: expand
+📑 Itens do Índice
+- 🔖 [Percepção](#percepcao)
 :::
 
 ---
@@ -490,8 +512,9 @@ Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
 ✨ ▸ Pode-se, é fora de dúvida, pelo pensamento.
 :::
 
-::: expand 🔗
-🏷️ [Percepção](#percepcao)
+::: expand
+📑 Itens do Índice
+- 🔖 [Percepção](#percepcao)
 :::
 
 ---
@@ -504,11 +527,12 @@ Há então dois elementos gerais do Universo: a matéria e o espírito?
 ✨ ▸ Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
 :::
 
-::: expand 🔗
-🏷️ [Espírito/s](#espirito/s)
-🏷️ [Fluido universal](#fluido-universal)
-🏷️ [Matéria](#materia)
-🏷️ [Pensamento](#pensamento)
+::: expand
+📑 Itens do Índice
+- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Fluido universal](#fluido-universal)
+- 🔖 [Matéria](#materia)
+- 🔖 [Pensamento](#pensamento)
 :::
 
 ---
@@ -521,9 +545,10 @@ Esse fluido será o que designamos pelo nome de eletricidade?
 ✨ ▸ Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.
 :::
 
-::: expand 🔗
-🏷️ [Eletricidade](#eletricidade)
-🏷️ [Fluido universal](#fluido-universal)
+::: expand
+📑 Itens do Índice
+- 🔖 [Eletricidade](#eletricidade)
+- 🔖 [Fluido universal](#fluido-universal)
 :::
 
 ---
@@ -540,9 +565,10 @@ Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos suje
 👴🏻 ▸ Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Linguagem](#linguagem)
-🏷️ [Princípio inteligente](#principio-inteligente)
+::: expand
+📑 Itens do Índice
+- 🔖 [Linguagem](#linguagem)
+- 🔖 [Princípio inteligente](#principio-inteligente)
 :::
 
 ---
@@ -607,8 +633,9 @@ A mesma matéria elementar é suscetível de experimentar todas as modificaçõe
 👴🏻 ▸ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Matéria](#materia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Matéria](#materia)
 :::
 
 ⚓
@@ -623,8 +650,9 @@ Não parece que esta teoria dá razão aos que não admitem na matéria senão d
 ✨ ▸ É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.
 :::
 
-::: expand 🔗
-🏷️ [Matéria](#materia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Matéria](#materia)
 :::
 
 ---
@@ -637,9 +665,10 @@ As moléculas têm forma determinada?
 ✨ ▸ Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.
 :::
 
-::: expand 🔗
-🏷️ [Matéria](#materia)
-🏷️ [Molécula](#molecula)
+::: expand
+📑 Itens do Índice
+- 🔖 [Matéria](#materia)
+- 🔖 [Molécula](#molecula)
 :::
 
 ---
@@ -652,8 +681,9 @@ Essa forma é constante ou variável?
 ✨ ▸ Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.
 :::
 
-::: expand 🔗
-🏷️ [Molécula](#molecula)
+::: expand
+📑 Itens do Índice
+- 🔖 [Molécula](#molecula)
 :::
 
 ---
@@ -682,16 +712,17 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 ✨ ▸ Não, não há o vácuo. O que te parece vazio) está ocupado por matéria que te escapa aos sentidos e aos instrumentos.
 :::
 
-::: expand 🔗
-🏷️ [Espaço](#espaco)
-🏷️ [Vácuo](#vacuo)
+::: expand
+📑 Itens do Índice
+- 🔖 [Espaço](#espaco)
+- 🔖 [Vácuo](#vacuo)
 :::
 
 ---
 
 ### 1.03. 🗂️ Criação {#lde-1-03}
 
-::: chapter toc
+::: chapter-toc
 Neste capítulo:
 <!-- no toc -->
 - [1.03.01. 📄 Formação dos mundos](#lde-1-03-01)
@@ -701,7 +732,7 @@ Neste capítulo:
 - [1.03.05. 📄 Pluralidade dos mundos](#lde-1-03-04)
 - [1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação](#lde-1-03-04)
 Voltar para:
-- [0.02. 📄 Sumário Geral](#lde-0-02)
+- [0.02. 📋 Sumário Geral](#lde-0-02)
 :::
 
 #### 1.03.01. 📄 Formação dos mundos {#lde-1-03-01}
@@ -750,8 +781,9 @@ Poderemos conhecer o modo de formação dos mundos?
 ✨ ▸ Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela condensação da matéria disseminada no Espaço.
 :::
 
-::: expand 🔗
-🏷️ [Deus](#deus)
+::: expand
+📑 Itens do Índice
+- 🔖 [Deus](#deus)
 :::
 
 ---
@@ -764,8 +796,9 @@ Serão os cometas, como agora se pensa, um começo de condensação da matéria,
 ✨ ▸ Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os corpos celestes influem de algum modo em certos fenônemo físicos.
 :::
 
-::: expand 🔗
-🏷️ [Cometa](#cometa)
+::: expand
+📑 Itens do Índice
+- 🔖 [Cometa](#cometa)
 :::
 
 ---
@@ -778,8 +811,9 @@ Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espa�
 ✨ ▸ Sim, Deus renova os mundos, como renova os seres vivos.
 :::
 
-::: expand 🔗
-🏷️ [Lei de destruição](#lei-de-destruicao)
+::: expand
+📑 Itens do Índice
+- 🔖 [Lei de destruição](#lei-de-destruicao)
 :::
 
 ---
@@ -792,9 +826,10 @@ Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exe
 ✨ ▸ Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.
 :::
 
-::: expand 🔗
-🏷️ [Mundos](#mundos)
-🏷️ [Tempo](#tempo)
+::: expand
+📑 Itens do Índice
+- 🔖 [Mundos](#mundos)
+- 🔖 [Tempo](#tempo)
 :::
 
 ---
@@ -819,9 +854,10 @@ Donde vieram para a Terra os seres vivos?
 ✨ ▸ A Terra lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de inércia, como a crisálida e as sementes das plantas, até o momento propício ao surto de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
 :::
 
-::: expand 🔗
-🏷️ [Geração espontânea](#geracao-espontanea)
-🏷️ [Seres vivos](#seres-vivos)
+::: expand
+📑 Itens do Índice
+- 🔖 [Geração espontânea](#geracao-espontanea)
+- 🔖 [Seres vivos](#seres-vivos)
 :::
 
 ---
@@ -838,8 +874,9 @@ Onde estavam os elementos orgânicos, antes da formação da Terra?
 👴🏻 ▸ A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio *latente* de vitalidade, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do caos pela força mesma da natureza, diminui de alguma coisa a grandeza de Deus? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta teoria não resolve, é verdade, a questão da origem dos elementos vitais; mas Deus tem seus mistérios e pôs limites às nossas investigações. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Elementos orgânicos](#elementos-organicos)
+::: expand
+📑 Itens do Índice
+- 🔖 [Elementos orgânicos](#elementos-organicos)
 :::
 
 ---
@@ -852,8 +889,9 @@ Ainda há seres que nasçam espontaneamente?
 ✨ ▸ Sim, mas o germe primitivo já existia em estado latente. Sois todos os dias testemunhas desse fenômeno. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação pútrida que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria.
 :::
 
-::: expand 🔗
-🏷️ [Nascimento](#nascimento)
+::: expand
+📑 Itens do Índice
+- 🔖 [Nascimento](#nascimento)
 :::
 
 ---
@@ -866,9 +904,10 @@ A espécie humana se encontrava entre os elementos orgânicos contidos no globo 
 ✨ ▸ Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do limo da terra.
 :::
 
-::: expand 🔗
-🏷️ [Cordão fluídico](#cordao-fluidico)
-🏷️ [Elementos orgânicos](#elementos-organicos)
+::: expand
+📑 Itens do Índice
+- 🔖 [Cordão fluídico](#cordao-fluidico)
+- 🔖 [Elementos orgânicos](#elementos-organicos)
 :::
 
 ---
@@ -881,8 +920,9 @@ Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na
 ✨ ▸ Não; todos os vossos cálculos são quiméricos.
 :::
 
-::: expand 🔗
-🏷️ [Homem](#homem)
+::: expand
+📑 Itens do Índice
+- 🔖 [Homem](#homem)
 :::
 
 ---
@@ -895,10 +935,11 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 ✨ ▸ O princípio das coisas está nos segredos de Deus. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos.
 :::
 
-::: expand 🔗
-🏷️ [Geração espontânea](#geracao-espontanea)
-🏷️ [Homem](#homem)
-🏷️ [Seres vivos](#seres-vivos)
+::: expand
+📑 Itens do Índice
+- 🔖 [Geração espontânea](#geracao-espontanea)
+- 🔖 [Homem](#homem)
+- 🔖 [Seres vivos](#seres-vivos)
 :::
 
 ---
@@ -927,9 +968,10 @@ Poderemos saber em que época viveu Adão?
 👴🏻 ▸ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do Cristo, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na Terra senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Adão](#adao)
-🏷️ [Povoamento](#povoamento)
+::: expand
+📑 Itens do Índice
+- 🔖 [Adão](#adao)
+- 🔖 [Povoamento](#povoamento)
 :::
 
 ---
@@ -954,8 +996,9 @@ O homem surgiu em muitos pontos do globo?
 ✨ ▸ Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram.
 :::
 
-::: expand 🔗
-🏷️ [Homem](#homem)
+::: expand
+📑 Itens do Índice
+- 🔖 [Homem](#homem)
 :::
 
 ---
@@ -976,8 +1019,9 @@ Pelo fato de não proceder de um só indivíduo a espécie humana, devem os home
 ✨ ▸ Todos os homens são irmãos em Deus, porque são animados pelo espírito e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal.
 :::
 
-::: expand 🔗
-🏷️ [Família](#familia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Família](#familia)
 :::
 
 ---
@@ -996,8 +1040,9 @@ São habitados todos os globos que se movem no Espaço?
 👴🏻 ▸ Deus povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da sabedoria de Deus, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Pluralidade dos mundos habitados](#pluralidade-dos-mundos-habitados)
+::: expand
+📑 Itens do Índice
+- 🔖 [Pluralidade dos mundos habitados](#pluralidade-dos-mundos-habitados)
 :::
 
 ---
@@ -1020,8 +1065,9 @@ Não sendo uma só para todos a constituição física dos mundos, seguir-se-á 
 ✨ ▸ Sem dúvida, do mesmo modo que no vosso os peixes são feitos para viver na água e os pássaros no ar.
 :::
 
-::: expand 🔗
-🏷️ [Mundos habitados](#mundos-habitados)
+::: expand
+📑 Itens do Índice
+- 🔖 [Mundos habitados](#mundos-habitados)
 :::
 
 ---
@@ -1038,8 +1084,9 @@ Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de 
 👴🏻 ▸ As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem dúvida contêm elementos que desconhecemos. Não vemos na Terra as longas noites polares iluminadas pela eletricidade das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na Terra e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Mundos habitados](#mundos-habitados)
+::: expand
+📑 Itens do Índice
+- 🔖 [Mundos habitados](#mundos-habitados)
 :::
 
 ---
@@ -1064,11 +1111,12 @@ A diversidade das raças corrobora, igualmente, esta opinião. O clima e os cost
 
 Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo. ⚜️
 
-::: expand 🔗
-🏷️ [Mundo](#mundo)
-🏷️ [Oriente](#oriente)
-🏷️ [Raciocínio](#raciocinio)
-🏷️ [Sentido](#sentido)
+::: expand
+📑 Itens do Índice
+- 🔖 [Mundo](#mundo)
+- 🔖 [Oriente](#oriente)
+- 🔖 [Raciocínio](#raciocinio)
+- 🔖 [Sentido](#sentido)
 :::
 
 ⚓
@@ -1077,13 +1125,24 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 
 ### 1.04. 🗂️ Princípio Vital {#lde-1-04}
 
+::: chapter-toc
+Neste capítulo:
+<!-- no toc -->
+- [1.04.01. 📄 Seres orgânicos e inorgânicos](#lde-1-04-01)
+- [1.04.02. 📄 A vida e a morte](#lde-1-04-02)
+- [1.04.03. 📄 Inteligência e instinto](#lde-1-04-03)
+Voltar para:
+- [0.02. 📋 Sumário Geral](#lde-0-02)
+:::
+
 #### 1.04.01. 📄 Seres orgânicos e inorgânicos {#lde-1-04-01}
 
 👴🏻 ▸ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc. ⚜️
 
-::: expand 🔗
-🏷️ [Dilúvio](#diluvio)
-🏷️ [Lei de atração](#lei-de-atracao)
+::: expand
+📑 Itens do Índice
+- 🔖 [Dilúvio](#diluvio)
+- 🔖 [Lei de atração](#lei-de-atracao)
 :::
 
 ---
@@ -1106,8 +1165,9 @@ Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 ✨ ▸ A matéria é sempre a mesma, porém nos corpos orgânicos está animalizada.
 :::
 
-::: expand 🔗
-🏷️ [Matéria](#materia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Matéria](#materia)
 :::
 
 ---
@@ -1120,9 +1180,10 @@ Qual a causa da animalização da matéria?
 ✨ ▸ Sua união com o princípio vital.
 :::
 
-::: expand 🔗
-🏷️ [Matéria](#materia)
-🏷️ [Princípio vital](#principio-vital)
+::: expand
+📑 Itens do Índice
+- 🔖 [Matéria](#materia)
+- 🔖 [Princípio vital](#principio-vital)
 :::
 
 ---
@@ -1135,8 +1196,9 @@ O princípio vital reside nalgum agente particular, ou é simplesmente uma propr
 ✨ ▸ Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam.
 :::
 
-::: expand 🔗
-🏷️ [Princípio vital](#principio-vital)
+::: expand
+📑 Itens do Índice
+- 🔖 [Princípio vital](#principio-vital)
 :::
 
 ---
@@ -1151,8 +1213,9 @@ Vimos que o espírito e a matéria são dois elementos constitutivos do Universo
 
 ↩️ Voltar para [Q.680](#q680)
 
-::: expand 🔗
-🏷️ [Princípio vital](#principio-vital)
+::: expand
+📑 Itens do Índice
+- 🔖 [Princípio vital](#principio-vital)
 :::
 
 ---
@@ -1173,8 +1236,9 @@ O princípio vital reside em algum dos corpos que conhecemos?
 ✨ ▸ Ele tem por fonte o fluido universal. É o que chamais fluido magnético ou fluido elétrico animalizado. É o intermediário, o elo existente entre o espírito e a matéria.
 :::
 
-::: expand 🔗
-🏷️ [Matéria](#materia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Matéria](#materia)
 :::
 
 ---
@@ -1187,8 +1251,9 @@ O princípio vital é um só para todos os seres orgânicos?
 ✨ ▸ Sim, modificado segundo as espécies. É ele que lhes dá movimento e atividade e os distingue da matéria inerte, porquanto o movimento da matéria não é a vida. Esse movimento ela o recebe, não o dá.
 :::
 
-::: expand 🔗
-🏷️ [Princípio vital](#principio-vital)
+::: expand
+📑 Itens do Índice
+- 🔖 [Princípio vital](#principio-vital)
 :::
 
 ---
@@ -1201,8 +1266,9 @@ A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pe
 ✨ ▸ Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida.
 :::
 
-::: expand 🔗
-🏷️ [Princípio vital](#principio-vital)
+::: expand
+📑 Itens do Índice
+- 🔖 [Princípio vital](#principio-vital)
 :::
 
 ---
@@ -1219,8 +1285,9 @@ Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vi
 👴🏻 ▸ O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade daquele agente, quase como sucede com o atrito, que desenvolve o calor. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Princípio vital](#principio-vital)
+::: expand
+📑 Itens do Índice
+- 🔖 [Princípio vital](#principio-vital)
 :::
 
 ---
@@ -1245,9 +1312,10 @@ Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorgan
 ✨ ▸ Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue.
 :::
 
-::: expand 🔗
-🏷️ [Corpo físico](#corpo-fisico)
-🏷️ [Enfermidade](#enfermidade)
+::: expand
+📑 Itens do Índice
+- 🔖 [Corpo físico](#corpo-fisico)
+- 🔖 [Enfermidade](#enfermidade)
 :::
 
 ---
@@ -1260,9 +1328,10 @@ Por que uma lesão do coração mais depressa causa a morte do que as de outros 
 ✨ ▸ O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais.
 :::
 
-::: expand 🔗
-🏷️ [Coração](#coracao)
-🏷️ [Morte](#morte)
+::: expand
+📑 Itens do Índice
+- 🔖 [Coração](#coracao)
+- 🔖 [Morte](#morte)
 :::
 
 ---
@@ -1291,10 +1360,11 @@ A quantidade de fluido vital se esgota. Pode tornar-se insuficiente para a conse
 O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Fluido vital](#fluido-vital)
-🏷️ [Princípio vital](#principio-vital)
-🏷️ [Seres vivos](#seres-vivos)
+::: expand
+📑 Itens do Índice
+- 🔖 [Fluido vital](#fluido-vital)
+- 🔖 [Princípio vital](#principio-vital)
+- 🔖 [Seres vivos](#seres-vivos)
 :::
 
 ---
@@ -1331,8 +1401,9 @@ Qual a fonte da inteligência?
 ✨ ▸ Já o dissemos; a inteligência universal.
 :::
 
-::: expand 🔗
-🏷️ [Inteligência](#inteligencia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Inteligência](#inteligencia)
 :::
 
 ---
@@ -1345,8 +1416,9 @@ Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte unive
 ✨ ▸ Isto não passa de simples comparação, todavia inexata, porque a inteligência é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número.
 :::
 
-::: expand 🔗
-🏷️ [Inteligência](#inteligencia)
+::: expand
+📑 Itens do Índice
+- 🔖 [Inteligência](#inteligencia)
 :::
 
 ---
@@ -1359,8 +1431,9 @@ O instinto independe da inteligência?
 ✨ ▸ Precisamente, não, por isso que o instinto é uma espécie de inteligência. É uma inteligência sem raciocínio. Por ele é que todos os seres proveem às suas necessidades.
 :::
 
-::: expand 🔗
-🏷️ [Instinto](#instinto)
+::: expand
+📑 Itens do Índice
+- 🔖 [Instinto](#instinto)
 :::
 
 ---
@@ -1373,8 +1446,9 @@ Pode estabelecer-se uma linha de separação entre instinto e a inteligência, i
 ✨ ▸ Não, porque muitas vezes se confundem, mas muito bem se podem distinguir os atos que decorrem do instinto dos que são da inteligência.
 :::
 
-::: expand 🔗
-🏷️ [Instinto](#instinto)
+::: expand
+📑 Itens do Índice
+- 🔖 [Instinto](#instinto)
 :::
 
 ---
@@ -1387,8 +1461,9 @@ Pode estabelecer-se uma linha de separação entre instinto e a inteligência, i
 ✨ ▸ Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia.
 :::
 
-::: expand 🔗
-🏷️ [Razão](#razao)
+::: expand
+📑 Itens do Índice
+- 🔖 [Razão](#razao)
 :::
 
 ---
@@ -1407,10 +1482,11 @@ Por que nem sempre é guia infalível a razão?
 O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade. ⚜️
 :::
 
-::: expand 🔗
-🏷️ [Instinto](#instinto)
-🏷️ [Livre-arbítrio](#livre-arbitrio)
-🏷️ [Razão](#razao)
+::: expand
+📑 Itens do Índice
+- 🔖 [Instinto](#instinto)
+- 🔖 [Livre-arbítrio](#livre-arbitrio)
+- 🔖 [Razão](#razao)
 :::
 
 ---
