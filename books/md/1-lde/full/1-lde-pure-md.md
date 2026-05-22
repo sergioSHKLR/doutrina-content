@@ -63,7 +63,7 @@ disclaimer: |
     📐: "italics"
     🏋️: "negrito"
     ⚜️: "comentário de Kardec"
-    🔤: "textual"
+   : "textual"
 ---
 # ✨ O Livro dos Espíritos {#lde}
 
@@ -103,8 +103,7 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 |  |
 | Tradução de **Guillon Ribeiro** |
 |  |
-| Edição digital educacional | 
-| organizada e adaptada por |
+| Re-edição por |
 | **Sergio Schickler** de [💧 doutrina.org](https://doutrina.org) | 
 | Baseada no ISBN 978-85-7328-728-8 | 
 
@@ -118,8 +117,9 @@ Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida 
 **Parte 0. 🗃️ Pré-textual**
 - [0.00 ⚖️ Avisos Legais](#lde-0-00)
 - [0.01 📄 Folha de rosto](#lde-0-01)
-- [0.02 🗂️ Prefácio](#lde-0-03)
-- [0.03 🗂️ Introdução](#lde-0-04)
+- [0.02 📋 Sumário Geral](#lde-0-02)
+- [0.03 🗂️ Prefácio](#lde-0-03)
+- [0.04 🗂️ Introdução](#lde-0-04)
 
 **Parte 1. 🗃️ Causas primárias**
 - [1.01. 🗂️ Deus](#lde-1-01)
@@ -234,23 +234,23 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ### 0.04. 🗂️ Introdução {#lde-0-04}
 
 Neste capítulo:
-- [0.03.01. 📄 Intro 01](#lde-0-04-01)
-- [0.03.02. 📄 Intro 02](#lde-0-04-02)
-- [0.03.03. 📄 Intro 03](#lde-0-04-03)
-- [0.03.04. 📄 Intro 04](#lde-0-04-04)
-- [0.03.05. 📄 Intro 05](#lde-0-04-05)
-- [0.03.06. 📄 Intro 06](#lde-0-04-06)
-- [0.03.07. 📄 Intro 07](#lde-0-04-07)
-- [0.03.08. 📄 Intro 08](#lde-0-04-08)
-- [0.03.09. 📄 Intro 09](#lde-0-04-09)
-- [0.03.10. 📄 Intro 10](#lde-0-04-10)
-- [0.03.11. 📄 Intro 11](#lde-0-04-11)
-- [0.03.12. 📄 Intro 12](#lde-0-04-12)
-- [0.03.13. 📄 Intro 13](#lde-0-04-13)
-- [0.03.14. 📄 Intro 14](#lde-0-04-14)
-- [0.03.15. 📄 Intro 15](#lde-0-04-15)
-- [0.03.16. 📄 Intro 16](#lde-0-04-16)
-- [0.03.17. 📄 Intro 17](#lde-0-04-17)
+- [0.04.01. 📄 Intro 01](#lde-0-04-01)
+- [0.04.02. 📄 Intro 02](#lde-0-04-02)
+- [0.04.03. 📄 Intro 03](#lde-0-04-03)
+- [0.04.04. 📄 Intro 04](#lde-0-04-04)
+- [0.04.05. 📄 Intro 05](#lde-0-04-05)
+- [0.04.06. 📄 Intro 06](#lde-0-04-06)
+- [0.04.07. 📄 Intro 07](#lde-0-04-07)
+- [0.04.08. 📄 Intro 08](#lde-0-04-08)
+- [0.04.09. 📄 Intro 09](#lde-0-04-09)
+- [0.04.10. 📄 Intro 10](#lde-0-04-10)
+- [0.04.11. 📄 Intro 11](#lde-0-04-11)
+- [0.04.12. 📄 Intro 12](#lde-0-04-12)
+- [0.04.13. 📄 Intro 13](#lde-0-04-13)
+- [0.04.14. 📄 Intro 14](#lde-0-04-14)
+- [0.04.15. 📄 Intro 15](#lde-0-04-15)
+- [0.04.16. 📄 Intro 16](#lde-0-04-16)
+- [0.04.17. 📄 Intro 17](#lde-0-04-17)
 
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
@@ -19721,60 +19721,60 @@ Voltar para:
 
 ### 6.03. 📃 Notas de rodapé {#lde-6-03}
 
-[^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião. 🔤
+[^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
   
-[^2]: Nota de Allan Kardec (A.K.): Há entre esta doutrina da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada no curso da presente obra. 🔤
+[^2]: Nota de Allan Kardec (A.K.): Há entre esta doutrina da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada no curso da presente obra.
   
 [^3]: Nota do *Re-editor* (N.R.): A cepa que se vê, é uma *representação artística* da que os Espíritos desenharam.
   
 [^4]: Nota do *Re-editor* (N.R.): Ao invés da tipografia original, resolvemos usar o emoji ✨ (sparkles) para denotar a resposta que os Espíritos deram. Para destacar as notas e explicaçôes aditadas por Allan Kardec, usamos o emoji 👴🏻 (older_man).
   
-[^5]: N.E.: A definição dada na resposta à [Q.1](#q1) de o ✨ *Livro dos Espíritos* — *cause Première* — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como *causa primária*, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide *Reformador* de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do *Grande dicionário francês-português*, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: "premier, ière […] || Fig. *La cause première*, a causa primária, Deus. 🔤
+[^5]: N.E.: A definição dada na resposta à [Q.1](#q1) de o ✨ *Livro dos Espíritos* — *cause Première* — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como *causa primária*, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide *Reformador* de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do *Grande dicionário francês-português*, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: "premier, ière […] || Fig. *La cause première*, a causa primária, Deus.
   
-[^6]: A.K.: Este princípio explica o fenômeno conhecido de todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias. Desde que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade. 🔤
+[^6]: A.K.: Este princípio explica o fenômeno conhecido de todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias. Desde que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade.
   
-[^7]: N.E.: Ano do calendário judaico. 🔤
+[^7]: N.E.: Ano do calendário judaico.
   
-[^8]: A.K. Ver, na [Introduçâo](#lde-0-04-02), a explicação sobre o termo *alma*, 2º paragráfo. 🔤
+[^8]: A.K. Ver, na [Introduçâo](#lde-0-04-02), a explicação sobre o termo *alma*, 2º paragráfo.
   
-[^9]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^9]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
 [^10]: A.K.: Segundo os Espíritos, de todos os mundos que compõem o nosso sistema planetário, a *Terra* é dos que têm habitantes menos adiantados, física e moralmente. *Marte* lhe estaria ainda abaixo, sendo-lhe *Júpiter* superior de muito, a todos os respeitos. O *Sol* não seria mundo habitado por seres corpóreos, mas simplesmente um lugar de reunião dos Espíritos superiores, os quais de lá irradiam seus pensamentos para os outros mundos, que eles dirigem por intermédio de Espíritos menos elevados, transmitindo-os a estes por meio do fluido universal. Considerado do ponto de vista da sua constituição física, o Sol seria um foco de eletricidade. Todos os sóis como que estariam em situação análoga.
 O volume de cada um e a distância a que esteja do Sol nenhuma relação necessária guardam com o grau do seu adiantamento, pois que, do contrário, Vênus deveria ser tida por mais adiantada do que a Terra e Saturno menos do que Júpiter. 
 Muitos Espíritos, que na Terra animaram personalidades conhecidas, disseram estar reencarnados em Júpiter, um dos mundos mais próximos da perfeição, e há causado espanto que, nesse globo tão adiantado, estivessem homens a quem a opinião geral aqui não atribuía tanta elevação. Nisso nada há de surpreendente, desde que se atenda a que, possivelmente, certos Espíritos, habitantes daquele planeta, foram mandados à Terra para desempenharem aí certa missão que, aos nossos olhos, os não colocava na primeira plana. Em segundo lugar, deve-se atender a que, entre a existência que tiveram na Terra e a que passaram a ter em Júpiter, podem eles ter tido outras intermédias, em que se melhoraram. Finalmente, cumpre se considere que, naquele mundo, como no nosso, múltiplos são os graus de desenvolvimento e que, entre esses graus, pode mediar lá a distância que vai, entre nós, do selvagem ao homem civilizado. Assim, do fato de um Espírito habitar Júpiter não se segue que esteja no nível dos seres mais adiantados, do mesmo modo que ninguém pode considerar-se na categoria de um sábio do Instituto, só porque resida em Paris.
 As condições de longevidade não são, tampouco, em qualquer parte, as mesmas que na Terra e as idades não se podem comparar. Evocado, um Espírito que desencarnara havia alguns anos, disse que, desde seis meses antes, estava encarnado em mundo cujo nome nos é desconhecido. Interrogado sobre a idade que tinha nesse mundo, disse: *"Não posso avaliá-lo, porque não contamos o tempo como contais. Depois, os modos de existência não são idênticos. Nós, lá, nos desenvolvemos muito mais rapidamente. Entretanto, se bem não haja mais de seis dos vossos meses que lá estou, posso dizer que, quanto à inteligência, tenho trinta anos da idade que tive na Terra."*
-Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apresenta de inverossímil. Não vemos que, na Terra, uma imensidade de animais em poucos meses adquire o desenvolvimento normal? Por que não se poderia dar o mesmo com o homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na Terra aos trinta anos talvez não passe de uma espécie de infância, comparado com o que lhe cumpre atingir. Bem curto de vista se revela quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a Divindade o imaginar-se que, fora o homem, nada mais seja possível a Deus. 🔤
+Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apresenta de inverossímil. Não vemos que, na Terra, uma imensidade de animais em poucos meses adquire o desenvolvimento normal? Por que não se poderia dar o mesmo com o homem noutras esferas? Notemos, além disso, que o desenvolvimento que o homem alcança na Terra aos trinta anos talvez não passe de uma espécie de infância, comparado com o que lhe cumpre atingir. Bem curto de vista se revela quem nos toma em tudo por protótipos da Criação, assim como é rebaixar a Divindade o imaginar-se que, fora o homem, nada mais seja possível a Deus.
   
-[^11]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^11]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^12]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^12]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^13]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^13]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^14]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^14]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^15]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^15]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, [Q.664](#q664), é do Espírito São Luís, IX de França. 🔤
+[^16]: A.K.: Resposta dada pelo Sr. Monod (Espírito), pastor protestante em Paris, morto em abril de 1856. A resposta anterior, [Q.664](#q664), é do Espírito São Luís, IX de França.
   
-[^17]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^17]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^18]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^18]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^19]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^19]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^20]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^20]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^21]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^21]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^22]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^22]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^23]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^23]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^24]: N.E.: Frase atribuída ao filósofo grego Sócrates (470–399 a.C.) 🔤
+[^24]: N.E.: Frase atribuída ao filósofo grego Sócrates (470–399 a.C.)
   
-[^25]: N.E.: Na 2ª impressão da 2ª edição de ✨ *O Livro dos Espíritos*, as questões [1012](#q1012) a [1019](#q1019) correspondiam às questões [1011](#q1011) a [1018](#q1018) da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº [1010](#q1010) e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica. 🔤
+[^25]: N.E.: Na 2ª impressão da 2ª edição de ✨ *O Livro dos Espíritos*, as questões [1012](#q1012) a [1019](#q1019) correspondiam às questões [1011](#q1011) a [1018](#q1018) da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº [1010](#q1010) e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica.
   
-[^26]: N.E.: Ver [Nota explicativa](#lde-6-01) 🔤
+[^26]: N.E.: Ver [Nota explicativa](#lde-6-01)
   
-[^27]: N.E.: Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita. 🔤
+[^27]: N.E.: Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
