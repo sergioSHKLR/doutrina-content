@@ -35,8 +35,7 @@ disclaimer: |
 # CUSTOM FEATURES & EMOJIS
 # =============================================================================
 
-emojiDefinitions:
-  Publicações:
+  Publicações: "1-LDE, 2-LDM, 3-ESE, 4-CEU, 5-GEN"
     ✨: "Livro dos Espíritos"
     ✒️: "Livro dos Médiuns"
     🕊️: "O Evangelho segundo o Espiritismo"
@@ -63,7 +62,7 @@ emojiDefinitions:
     ⚓: "notas de rodapé"
     📐: "italics"
     🏋️: "negrito"
-   : "comentário de Kardec"
+    ⚜️: "comentário de Kardec"
     🔤: "textual"
 ---
 # ✨ O Livro dos Espíritos {#lde}
@@ -71,7 +70,6 @@ emojiDefinitions:
 ## 0. 🗃️ Pré-textual {#lde-0}
 
 ### 0.00. ⚖️ Avisos Legais {#lde-0-00}
-
 
 **Edição Digital Educacional • Domínio Público**
 
@@ -91,32 +89,30 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 
 ### 0.01. 📄 Folha de rosto {#lde-0-01}
 
-
-
-Filosofia Espiritualista
-
-✨ **O Livro dos Espíritos**
-
-Princípios da Doutrina Espírita
-
-sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados
-
-por 👴🏻 **Allan Kardec**
-
-Tradução de **Guillon Ribeiro**
-
-Edição digital educacional  
-organizada e adaptada por **Sergio Schickler**  
-[💧 doutrina.org](https://doutrina.org) — 2023  
-Baseada no ISBN 978-85-7328-728-8  
+| :---: |
+| Filosofia Espiritualista |
+| 
+| ✨ **O Livro dos Espíritos** |
+|  |
+| Princípios da Doutrina Espírita |
+|  |
+| sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados |
+|  |
+| por 👴🏻 **Allan Kardec** |
+|  |
+| Tradução de **Guillon Ribeiro** |
+|  |
+| Edição digital educacional | 
+| organizada e adaptada por |
+| **Sergio Schickler** de [💧 doutrina.org](https://doutrina.org) | 
+| Baseada no ISBN 978-85-7328-728-8 | 
 
 ---
 
 ### 0.02. 📋 Sumário Geral {#lde-0-02}
 
-::: grey
 **Sumário Interativo**
-Clique nos itens para navegar
+Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
 
 **Parte 0. 🗃️ Pré-textual**
 - [0.00 ⚖️ Avisos Legais](#lde-0-00)
@@ -164,16 +160,15 @@ Clique nos itens para navegar
 **[Parte 5. 🗃️ Conclusão](#lde-5)**
 
 **[Parte 6. 🗃️ Pós-textual](#lde-6)**
----
 
-**Dica:** Use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
 ---
 
 ### 0.03. 📄 Prefácio {#lde-0-03}
 
-
-![Cepa Espírita](/images/vine.png)
-Interpretação artística do desenho original (mediúnico).
+| A Cepa Espírita |
+| :---: |
+| ![Cepa Espírita](/images/vine.png) |
+| Interpretação artística do desenho original (mediúnico). |
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
 
@@ -530,7 +525,6 @@ Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiq
 > 
 > **Mateus, cap. 13, vers. 14, ARC**
 
-
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
 
 Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons Espíritos? Se Ele não o pode fazer, não é onipotente; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam blasfemas. Note-se que admitir a comunicação dos maus Espíritos é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de Deus. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do bom senso e da religião.
@@ -551,7 +545,6 @@ Acham também singular que os Espíritos dos homens eminentes acudam familiarmen
 > ✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*
 > 
 > **Mateus, cap. 23, vers. 12, ARC**
-
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados.
 
@@ -698,7 +691,6 @@ O que é Deus?
 
 > ✨ ▸ Deus é a inteligência suprema, causa primária de todas as coisas. [^4], [^5]
 
-⚓⚓
 ---
 
 ##### #️⃣ Q.2 {#q2}
@@ -2318,7 +2310,6 @@ Há demônios, no sentido que se dá a esta palavra?
 > 
 > **Mateus, cap. 24, vers. 29 e 34, ARC**
 
-
 > Não temos visto a Ciência contraditar a **forma** do texto bíblico, no tocante à Criação e ao movimento da Terra? Não se dará o mesmo com algumas figuras de que se serviu o Cristo, que tinha de falar de acordo com os tempos e os lugares? Não é possível que Ele haja dito conscientemente uma falsidade. Assim, pois, se nas suas palavras há coisas que parecem chocar a razão, é que não as compreendemos bem, ou as interpretamos mal.
 > 
 > Os homens fizeram com os demônios o que fizeram com os anjo. Como acreditaram na existência de seres perfeitos desde toda a eternidade, tomaram os Espíritos inferiores por seres perpetuamente maus. Por demônios se devem entender os Espíritos impuros, que muitas vezes não valem mais do que as entidades designadas por esse nome, mas com a diferença de ser transitório o estado deles. São Espíritos imperfeitos, que se rebelam contra as provas que lhes tocam e que, por isso, as sofrem mais longamente, porém, que, a seu turno, chegarão a sair daquele estado, quando o quiserem. Poder-se-ia, pois, aceitar o termo *demônio* com esta restrição. Como o entendem atualmente, dando-se-lhe um sentido exclusivo, ele induziria em erro, com o fazer crer na existência de seres especiais criados para o mal.
@@ -3726,23 +3717,19 @@ Supomos dirigir-nos a pessoas que acreditam num futuro depois da morte e não ao
 > 
 > — Quase nada: recomeçar o trabalho mal executado e executá-lo melhor.
 
-
 Hesitaríeis em aceitar, ainda que a poder de muitas existências de provações? Façamos outra comparação mais prosaica. Figuremos que a um homem que, sem ter chegado à miséria extrema, sofre, no entanto, privações, por escassez de recursos, viessem dizer:
 
 > — Aqui está uma riqueza imensa de que podes gozar; para isto, só é necessário que trabalhes arduamente durante um minuto.
 
-
 Fosse ele o mais preguiçoso da Terra, que sem hesitar diria:
 
 > — Trabalhemos um minuto, dois minutos, uma hora, um dia, se for preciso. Que importa isso, desde que me leve a acabar os meus dias na fartura? Ora, que é a duração da vida corpórea, em confronto com a eternidade? Menos que um minuto, menos que um segundo.
-
 
 Temos visto algumas pessoas raciocinarem deste modo: Não é possível que Deus, soberanamente bom como é, imponha ao homem a obrigação de recomeçar uma série de misérias e tribulações. Acharão, porventura, essas pessoas que há mais bondade em condenar Deus o homem a sofrer perpetuamente, por motivo de alguns momentos de erro, do que em lhe facultar meios de reparar suas faltas?
 
 "Dois industriais contrataram dois operários, cada um dos quais podia aspirar a se tornar sócio do respectivo patrão. Aconteceu que esses dois operários certa vez empregaram muito mal o seu dia, merecendo ambos ser despedidos. Um dos industriais, não obstante as súplicas do seu operário, o mandou embora e o pobre operário, não tendo achado mais trabalho, acabou por morrer na miséria. O outro industrial disse ao seu operário:
 
 > — Perdeste um dia; deves-me por isso uma compensação. Executaste mal o teu trabalho; ficaste a me dever uma reparação. Consinto que o recomeces. Trata de executá-lo bem, que te conservarei ao meu serviço e poderás continuar aspirando à posição superior que te prometi."
-
 
 Será preciso perguntemos qual dos industriais foi mais humano? Dar-se-á que Deus, que é a clemência mesma, seja mais inexorável do que um homem?
 
@@ -3777,7 +3764,6 @@ Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existê
 > 
 > **Mateus, cap. 17, vers. 09 a 13, ARC**
 
-
 Pois que João Batista fora Elias, houve reencarnação do Espírito ou da alma de Elias no corpo de João Batista.
 
 Em suma, como quer que opinemos acerca da reencarnação, quer a aceitemos, quer não, isso não constituirá motivo para que deixemos de sofrê-la, desde que ela exista, malgrado todas as crenças em contrário. O essencial está em que o ensino dos Espíritos é eminentemente cristão; apoia-se na imortalidade da alma, nas penas e recompensas futuras, na Justiça de Deus, no livre-arbítrio do homem, na moral do Cristo. Logo, não é antirreligioso.
@@ -3793,7 +3779,6 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito:
 > ✝️ ▸ Respondendo a Nicodemos, disse Jesus: *Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.* Disse-lhe Nicodemos: Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu Jesus: *Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer***.
 > 
 > **João, cap. 3, vers. 3-7, ARC**
-
 
 👉🏻 Veja [Q.1010](#q1010)
 ↩️ Voltar para [Q.619](#q619)
@@ -8054,7 +8039,6 @@ Também desempenham função útil no Universo os Espíritos inferiores e imperf
 > 
 > 👉🏻 Veja [Q.540](#q540)
 
-
 - 🔖 [Trabalho](#trabalho)
 ---
 
@@ -9032,7 +9016,6 @@ Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e d
 > 
 > **Mateus, cap. 07, vers. 12, ARC**
 
-
 ##### #️⃣ Q.633 {#q633}
 
 A regra do bem e do mal, que se poderia chamar de *reciprocidade* ou de *solidariedade*, é inaplicável ao proceder pessoal do homem para consigo mesmo. Achará ele, na lei natural, a regra desse proceder e um guia seguro?
@@ -9174,7 +9157,6 @@ Estará subordinado a determinadas condições o mérito do bem que se pratique?
 > ✨ ▸ O mérito do bem está na dificuldade em praticá-lo. Nenhum merecimento há em fazê-lo sem esforço e quando nada custe. Em melhor conta tem Deus o pobre que divide com outro o seu único pedaço de pão, do que o rico que apenas dá do que lhe sobra, disse-o Jesus, a propósito do óbolo da viúva.
 
 > ✝️ ▸ **Marcos, cap. 12, vers. 41.44 e Lucas, cap. 21, vers. 1.4, ARC**
-
 
 - 🔖 [Bem](#bem)
 - 🔖 [Mérito](#merito)
@@ -9413,7 +9395,6 @@ Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por
 > ✝️ ▸ *Amarás o teu próximo como a ti mesmo.*
 > 
 > **Mateus, cap. 22, vers. 39, ARC**
-
 
 > Esta recomendação contém a de empregar o homem todos os meios possíveis para testemunhar aos outros homens afeição, sem haver entrado em minúcias quanto à maneira de atingir ele esse fim. Se é certo que nada pode fazer que o Criador, imagem da justiça perfeita, deixe de aplicá-la a todas as ações do Espírito, não menos certo é que a prece que lhe dirigis por aquele que vos inspira afeição constitui, para este, um testemunho de que dele vos lembrais, testemunho que forçosamente contribuirá para lhe suavizar os sofrimentos e consolá-lo. Desde que ele manifeste o mais ligeiro arrependimento, mas *só* então é socorrido. Nunca, porém, será deixado na ignorância de que uma alma simpática com ele se ocupou. Ao contrário, será deixado na doce crença de que a intercessão dessa alma lhe foi útil. Daí resulta necessariamente, de sua parte, um sentimento de gratidão e afeto pelo que lhe deu essa prova de amizade ou de piedade. Em consequência, crescerá num e noutro, reciprocamente, o amor que o Cristo recomendava aos homens. Ambos, pois, se fizeram assim obedientes à lei de amor e de união de todos os seres, Lei divina, de que resultará a unidade, objetivo e finalidade do Espírito. [^16]
 
@@ -10646,7 +10627,6 @@ Disse Jesus:
 > 
 > **Mateus, cap. 26, vers. 51.52, ARC**
 
-
 Estas palavras não consagram a pena de talião e, assim, a morte dada ao assassino não constitui uma aplicação dessa pena?
 
 > ✨ ▸ Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, *como acerca de outras*. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, *nesta existência ou em outra*. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também:
@@ -10654,7 +10634,6 @@ Estas palavras não consagram a pena de talião e, assim, a morte dada ao assass
 > ✝️ ▸ *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.*
 > 
 > **Mateus, cap. 06, vers. 14, ARC**
-
 
 > E não vos ensinou a pedir a Deus que vos perdoe as ofensas como houverdes vós mesmos perdoado, isto é, *na mesma proporção* em que houverdes perdoado, compreendei-o bem?
 
@@ -11404,7 +11383,6 @@ Estando o rico sujeito a maiores tentações, também não dispõe, por outro la
 > 
 > **Mateus, cap. 19, vers. 24, ARC**
 
-
 > 👉🏻 Veja [Q.266](#q266)
 
 - 🔖 [Bem](#bem)
@@ -12022,7 +12000,6 @@ Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, 
 > 
 > **Mateus, cap. 06, vers. 13, ARC**
 
-
 Essa teoria da causa determinante dos nossos atos ressalta, com evidência, de todo o ensino que os Espíritos hão dado. Não só é sublime de moralidade, mas também, acrescentaremos, eleva o homem aos seus próprios olhos. Mostra-o livre de subtrair-se a um jugo obsessor, como livre é de fechar sua casa aos importunos. Ele deixa de ser simples máquina, atuando por efeito de uma impulsão independente da sua vontade, para ser um ente racional, que ouve, julga e escolhe livremente de dois conselhos um. Aditemos que, apesar disto, o homem não se acha privado de iniciativa, não deixa de agir por impulso próprio, pois que, em definitivo, ele é apenas um Espírito encarnado que conserva, sob o envoltório corporal, as qualidades e os defeitos que tinha como Espírito. Conseguintemente, as faltas que cometemos têm por fonte primária a imperfeição do nosso próprio Espírito, que ainda não conquistou a superioridade moral que um dia alcançará, mas que, nem por isso, carece de livre-arbítrio. A vida corpórea lhe é dada para se expungir de suas imperfeições, mediante as provas por que passa, imperfeições que, precisamente, o tornam mais fraco e mais acessível às sugestões de outros Espíritos imperfeitos, que delas se aproveitam para tentar fazê-lo sucumbir na luta em que se empenhou. Se dessa luta sai vencedor, ele se eleva; se fracassa, permanece o que era, nem pior, nem melhor. Será uma prova que lhe cumpre recomeçar, podendo suceder que longo tempo gaste nessa alternativa. Quanto mais se depura, tanto mais diminuem os seus pontos fracos e tanto menos acesso oferece aos que procurem atraí-lo para o mal. Na razão de sua elevação, cresce-lhe a força moral, fazendo que dele se afastem os maus Espíritos.
 
 Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espécie humana e, como o nosso mundo é um dos menos adiantados, nele se conta maior número de Espíritos maus do que de bons. Tal a razão por que aí vemos tanta perversidade. Façamos, pois, todos os esforços para a este planeta não voltarmos, após a presente estada, e para merecermos ir repousar em mundo melhor, em um desses mundos privilegiados, onde não nos lembraremos da nossa passagem por aqui, senão como de um exílio temporário.
@@ -12097,7 +12074,6 @@ Posto de parte o direito que a lei humana consagra, qual a base da justiça, seg
 > 
 > **Mateus, cap. 7, vers. 12 ARC**
 
-
 > 👴🏻 ▸ No coração do homem imprimiu Deus a regra da verdadeira justiça, fazendo que cada um deseje ver respeitados os seus direitos. Na incerteza de como deva proceder com o seu semelhante, em dada circunstância, trate o homem de saber como quereria que com ele procedessem, em circunstância idêntica. Guia mais seguro do que a própria consciência não lhe podia Deus haver dado.
 > 
 > Efetivamente, o critério da verdadeira justiça está em querer cada um para os outros o que para si mesmo quereria e não em querer para si o que quereria para os outros, o que absolutamente não é a mesma coisa. Não sendo natural que haja quem deseje o mal para si, desde que cada um tome por modelo o seu desejo pessoal, é evidente que nunca ninguém desejará para o seu semelhante senão o bem. Em todos os tempos e sob o império de todas as crenças, sempre o homem se esforçou para que prevalecesse o seu direito pessoal. *A sublimidade da religião cristã está em que ela tomou o direito pessoal por base do direito do próximo.*
@@ -12171,13 +12147,11 @@ Tem o homem o direito de defender os bens que haja conseguido juntar pelo seu tr
 > 
 > **Êxodo, cap. 20, vers. 15, ARC**
 
-
 > E Jesus não disse:
 
 > ✝️ ▸ *Dai, pois, a César o que é de César e a Deus, o que é de Deus.*
 > 
 > **Mateus, cap. 22, vers. 21, ARC**
-
 
 > 👴🏻 ▸ O que, por meio do trabalho *honesto*, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.
 
@@ -12240,7 +12214,6 @@ Qual o verdadeiro sentido da palavra *caridade*, como a entendia Jesus?
 > 
 > **Mateus, cap. 22, vers. 39, ARC**
 
-
 > A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relações em que nos achamos com os nossos semelhantes, sejam eles nossos inferiores, nossos iguais, ou nossos superiores. Ela nos prescreve a indulgência, porque de indulgência precisamos nós mesmos, e nos proíbe que humilhemos os desafortunados, contrariamente ao que se costuma fazer. Apresente-se uma pessoa rica e todas as atenções e deferências lhe são dispensadas. Se for pobre, toda gente como que entende que não precisa preocupar-se com ela. No entanto, quanto mais lastimosa seja a sua posição, tanto maior cuidado devemos pôr em lhe não aumentarmos o infortúnio pela humilhação. O homem verdadeiramente bom procura elevar, aos seus próprios olhos, aquele que lhe é inferior, diminuindo a distância que os separa.
 ---
 
@@ -12251,7 +12224,6 @@ Jesus também disse:
 > ✝️ ▸ *Amai a vossos inimigos*
 > 
 > **Mateus, cap. 05, vers. 44, ARC**
-
 
 Ora, o amor aos inimigos não será contrário às nossas tendências naturais e a inimizade não provirá de uma falta de simpatia entre os Espíritos?
 
@@ -12283,7 +12255,6 @@ Dar-se-á reproveis a esmola?
 > ✝️ ▸ *… não saiba a tua mão esquerda o que faz a tua direita ….*
 > 
 > **Mateus, cap. 06, vers. 03, ARC**
-
 
 > Por essa forma, Ele vos ensinou a não tisnardes a caridade com o orgulho.
 > 
@@ -12478,7 +12449,6 @@ Incorre em culpa o homem, por estudar os defeitos alheios?
 > ✝️ ▸ *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?.*
 > 
 > **Mateus, cap. 07, vers. 3, ARC**
-
 
 - 🔖 [Crítica](#critica)
 
@@ -12809,7 +12779,6 @@ Criando novas necessidades, a civilização não constitui uma fonte de novas af
 > ✝️ ▸ *… bem-aventurados os que choram, porque eles serão consolados ….*
 > 
 > **Mateus, cap. 05, vers. 04, ARC**
-
 
 - 🔖 [Aflição](#aflicao)
 - 🔖 [Civilização](#civilizacao)
@@ -13927,7 +13896,6 @@ Assim, as penas impostas jamais o são por toda a eternidade?
 > 
 > **Romanos, cap. 2, vers. 6, ARC**
 
-
 > **Santo Agostinho**
 
 > ✨ ▸ Aplicai-vos, por todos os meios ao vosso alcance, em combater, em aniquilar a ideia da eternidade das penas, ideia blasfematória da justiça e da bondade de Deus, gérmen fecundo da incredulidade, do materialismo e da indiferença que invadiram as massas humanas, desde que as inteligências começaram a desenvolver-se. O Espírito, prestes a esclarecer-se, ou mesmo apenas desbastado, logo lhe apreendeu a monstruosa injustiça. Sua razão a repele e, então, raro é que não englobe no mesmo repúdio a pena que o revolta e o Deus a quem a atribui. Daí os males sem conta que hão desabado sobre vós e aos quais vimos trazer remédio. Tanto mais fácil será a tarefa que vos apontamos, quanto é certo que todas as autoridades em quem se apoiam os defensores de tal crença evitaram todas pronunciar-se formalmente a respeito. Nem os concílios, nem os Pais da Igreja resolveram essa grave questão. Muito embora, segundo os evangelistas e tomadas ao pé da letra as palavras emblemáticas do Cristo, Ele tenha ameaçado os culpados com um fogo que se não extingue, com um fogo eterno, absolutamente nada se encontra nas suas palavras capaz de provar que os haja condenado *eternamente*.
@@ -14265,7 +14233,6 @@ Se é certo que, entre os adeptos do Espiritismo, se contam os que divergem de o
 - 🔖 [Espírito bom](#espirito-bom)
 - 🔖 [União](#uniao)
 ---
-
 
 **📖 O Livro dos Espíritos — Edição Digital Educacional**
 
