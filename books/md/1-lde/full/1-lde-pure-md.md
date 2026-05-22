@@ -34,8 +34,8 @@ disclaimer: |
 # =============================================================================
 # CUSTOM FEATURES & EMOJIS
 # =============================================================================
-
-  Publicações: "1-LDE, 2-LDM, 3-ESE, 4-CEU, 5-GEN"
+emojiDefinitions:
+  Publicações:
     ✨: "Livro dos Espíritos"
     ✒️: "Livro dos Médiuns"
     🕊️: "O Evangelho segundo o Espiritismo"
@@ -44,6 +44,7 @@ disclaimer: |
     🪦: "Obras Póstumas"
     📓: "Revista Espírita"
     🔍: "O que é o Espiritismo"
+
   "Legenda deste livro":
     ✨: "Comunicação espiritual"
     ✝️: "Citação bíblica"
@@ -58,12 +59,13 @@ disclaimer: |
     🔖: "Termo do Índice"
     📃: "Notas de rodapé"
     📝: "Nota"
+
   "Conferência de qualidade":
     ⚓: "notas de rodapé"
     📐: "italics"
     🏋️: "negrito"
     ⚜️: "comentário de Kardec"
-   : "textual"
+    🔤: "textual"
 ---
 # ✨ O Livro dos Espíritos {#lde}
 
