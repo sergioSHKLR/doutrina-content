@@ -89,9 +89,10 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 
 ### 0.01. 📄 Folha de rosto {#lde-0-01}
 
-| :---: |
+
 | Filosofia Espiritualista |
-| 
+| :---: |
+|  |
 | ✨ **O Livro dos Espíritos** |
 |  |
 | Princípios da Doutrina Espírita |
