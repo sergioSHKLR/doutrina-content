@@ -4,8 +4,9 @@
 # =============================================================================
 title: "O Livro dos Espíritos"
 subtitle: "Filosofia Espiritualista"
-description: "Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados por Allan Kardec. Tradução de Guillon Ribeiro (Edição FEB Histórica)."
+description: "Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados por Allan Kardec. Tradução de Guillon Ribeiro (Edição Histórica da FEB)."
 
+lang: "pt-BR"
 author: "Allan Kardec"
 codifier: "Allan Kardec"
 translator: "Guillon Ribeiro"
@@ -16,41 +17,36 @@ isbn: "978-85-7328-728-8"
 originalTitle: "Le Livre des Esprits"
 originalPublication: "Paris, 18 de abril de 1857"
 publicationDate: "2019-05"
-language: "pt-BR"
+date: "2025-05-21"
+updated: "{{ currentDate }}"
 
 # =============================================================================
-# DISCLAIMER & COPYRIGHT (Legal)
+# LEGAL & DISCLAIMER
 # =============================================================================
 disclaimer: |
-  Esta é uma **edição digital educacional e gratuita** destinada ao estudo.
+  Esta é uma edição digital educacional e gratuita destinada ao estudo da Doutrina Espírita.
   
-  A tradução de **Guillon Ribeiro** (falecido em 26 de outubro de 1943) encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014, nos termos da Lei 9.610/1998.
+  A tradução de Guillon Ribeiro (falecido em 26/10/1943) encontra-se em domínio público no Brasil desde 01/01/2014 (Lei 9.610/1998).
   
-  O mantenedor deste site **não detém os direitos autorais** sobre a obra. 
-  Baseado na Edição Histórica da FEB (ISBN 978-85-7328-728-8).
-  
-  Agradecemos à Federação Espírita Brasileira pela preservação e divulgação da Doutrina Espírita.
+  O mantenedor deste site não detém os direitos autorais sobre a obra. Baseado na Edição Histórica da FEB.
+
+license: "Uso educacional, não-comercial e doutrinário permitido. Proibida a venda ou reprodução comercial sem autorização da FEB."
+rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Doutrina Espírita."
 
 # =============================================================================
 # TAXONOMY & ORGANIZATION
 # =============================================================================
 tags:
-  - "espiritismo"
-  - "allan-kardec"
-  - "doutrina-espírita"
-  - "filosofia-espiritualista"
-  - "reencarnação"
-  - "lei-moral"
-  - "vida-futura"
-  - "perispírito"
-  - "obras-básicas"
-  - "kardecismo"
-  - "dominio-publico"
+  - espiritismo
+  - allan-kardec
+  - doutrina-espírita
+  - filosofia-espiritualista
+  - reencarnação
+  - lei-moral
 
 categories:
-  - "Obras Básicas do Espiritismo"
-  - "Livros de Allan Kardec"
-  - "Doutrina Espírita"
+  - Obras Básicas do Espiritismo
+  - Livros de Allan Kardec
 
 series: "Obras Básicas do Espiritismo"
 seriesPosition: 1
@@ -60,21 +56,18 @@ seriesPosition: 1
 # =============================================================================
 layout: "lde"
 permalink: "/lde/"
-date: "2025-05-18"
-updated: "{{ currentDate }}"
 draft: false
 featured: true
 toc: true
 showMetadata: true
 showIndex: true
-showTags: true
-showExpanders: true
 showSpiritQuotes: true
 
 eleventyNavigation:
   key: "O Livro dos Espíritos"
   parent: "Obras de Allan Kardec"
   order: 1
+  title: "LDE — O Livro dos Espíritos"
 
 # =============================================================================
 # VISUALS
@@ -88,27 +81,13 @@ thumbnail: "/images/lde-cover-oficial.jpg"
 # CONTENT STRUCTURE
 # =============================================================================
 contentStructure:
-  preTextual:
-    - "Folha de rosto"
-    - "Prefácio"
-    - "Introdução"
-  mainParts:
-    - name: "Parte Primeira"
-      chapters: 4
-    - name: "Parte Segunda"
-      chapters: 11
-    - name: "Parte Terceira"
-      chapters: 12
-    - name: "Parte Quarta"
-      chapters: 2
   questions: 1019
-  notes: true
+  parts: 4
   index: true
-  tagsIndex: true
   questionMap: true
 
 # =============================================================================
-# METADATA & SEO
+# SEO & METADATA
 # =============================================================================
 excerpt: "A obra fundamental do Espiritismo, codificada por Allan Kardec na tradução clássica de Guillon Ribeiro."
 readingTime: "≈ 18 horas"
@@ -121,30 +100,12 @@ schema:
   genre: "ReligiousText"
   inLanguage: "pt-BR"
   numberOfPages: 526
-  about:
-    - "Espiritismo"
-    - "Reencarnação"
-    - "Imortalidade da Alma"
-    - "Leis Morais"
   author:
     name: "Allan Kardec"
-    url: "https://pt.wikipedia.org/wiki/Allan_Kardec"
-  publisher:
-    name: "Federação Espírita Brasileira"
-    url: "https://www.febeditora.com.br"
-  datePublished: "1857"
-  dateModified: "2019"
-  isPartOf: "Obras Básicas do Espiritismo"
 
 # =============================================================================
-# CUSTOM FEATURES & EMOJIS
+# CUSTOM FEATURES
 # =============================================================================
-metadata:
-  sourceFile: "1-lde-full.md"
-  processedBy: "doutrina.org digital edition"
-  license: "Uso educacional e doutrinário"
-  spiritualSignature: "Espírito da Verdade, São Luís, São Vicente de Paulo, etc."
-
 emojiDefinitions:
   Publicações:
     ✨: "Livro dos Espíritos"
@@ -153,8 +114,7 @@ emojiDefinitions:
     🔥: "O Céu e o Inferno"
     🌱: "A Gênese"
     🪦: "Obras Póstumas"
-    📓: "Revista Espírita"
-    🔍: "O que é o Espiritismo"
+
   "Legenda deste livro":
     ✨: "Comunicação espiritual"
     ✝️: "Citação bíblica"
@@ -164,11 +124,7 @@ emojiDefinitions:
     📄: "Tópico do Capítulo"
     #️⃣: "Item numerado"
     👉🏻: "Tópico relacionado"
-    ↩️: "Voltar para"
-    📑: "Lista de termos do Índice"
-    🔖: "Termo do Índice"
-    📃: "Notas de rodapé"
-    📝: "Nota"
+
   "Conferência de qualidade":
     ⚓: "notas de rodapé"
     📐: "italics"
