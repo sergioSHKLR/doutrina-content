@@ -1,27 +1,26 @@
 #!/bin/bash
 
 # =============================================
-# concat-all.sh - Robust > expand replacement
+# concat-all.sh - Fixed Bound Token Injection
 # =============================================
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
-
-BACKUP_ROOT="$PROJECT_ROOT/backup"
+MD_ROOT="$PROJECT_ROOT/books/md"
+SHARED_DIR="$MD_ROOT/shared"
+BACKUP_ROOT="$PROJECT_ROOT/backup/full"
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 
-echo "🔄 Starting full archival concatenation for all books..."
-
+echo "🔄 Starting full compilation with clean bound tokens..."
 mkdir -p "$BACKUP_ROOT"
 
-BOOKS=($(ls -d "$PROJECT_ROOT/books/md/"[0-9]-* 2>/dev/null | sort -V))
+shopt -s nullglob
+BOOKS=("$MD_ROOT"/[0-9]-*)
 
 if [ ${#BOOKS[@]} -eq 0 ]; then
     echo "❌ No book folders found in books/md/"
     exit 1
 fi
-
-echo "📚 Found ${#BOOKS[@]} books to process."
 
 for book_dir in "${BOOKS[@]}"; do
     BOOK_NAME=$(basename "$book_dir")
@@ -29,67 +28,63 @@ for book_dir in "${BOOKS[@]}"; do
     FULL_DIR="$book_dir/full"
     OUTPUT="$FULL_DIR/${BOOK_NAME}-full.md"
     
-    BACKUP_BOOK_FULL="$BACKUP_ROOT/full/$BOOK_NAME"
-    BACKUP_BOOK_PARTIAL="$BACKUP_ROOT/partial/$BOOK_NAME"
-    mkdir -p "$BACKUP_BOOK_FULL"
-    mkdir -p "$BACKUP_BOOK_PARTIAL"
+    if [ ! -d "$PARTIAL_DIR" ]; then continue; fi
+    files=("$PARTIAL_DIR"/*.md)
+    if [ ${#files[@]} -eq 0 ]; then continue; fi
     
-    echo -e "\n────────────────────────────────────"
+    IFS=$'\n' files=($(sort -V <<<"${files[*]}")); unset IFS
     echo "📖 Processing: $BOOK_NAME"
-    
-    if [ ! -d "$PARTIAL_DIR" ]; then
-        echo "   ⚠️  Skipping - no 'partial' folder"
-        continue
-    fi
 
-    files=($(ls -v "$PARTIAL_DIR"/*.md 2>/dev/null | sort -V))
-
-    if [ ${#files[@]} -eq 0 ]; then
-        echo "   ⚠️  No .md files found"
-        continue
-    fi
-
-    echo "   ✅ Found ${#files[@]} parts"
-
-    # Create a safe temporary file for compiling text to prevent self-referencing file locks
     TMP_OUTPUT=$(mktemp)
+    is_first_file=true
 
     for file in "${files[@]}"; do
-        filename=$(basename "$file")
-        part_base="${filename%.md}"
+        TMP_FILE_CONTENT=$(mktemp)
         
-        BACKUP_PART="$BACKUP_BOOK_PARTIAL/${part_base}.${TIMESTAMP}.old"
-        cp "$file" "$BACKUP_PART"
-        
-        echo "   📄 Processing: $filename"
-        
-        # Stream formatting edits directly into the temporary output holder
-        sed -E '
-            s/^>\s*expand\s+/::: expand /g;
-            s/^>expand\s+/::: expand /g;
-            s/^>\s*:::/:::/g;
-            s/^>:::/:::/g
-        ' "$file" >> "$TMP_OUTPUT"
+        sed -E 's/^>\s*expand\s+/::: expand /g; s/^>expand\s+/::: expand /g; s/^>\s*:::/:::/g; s/^>:::/:::/g' "$file" > "$TMP_FILE_CONTENT"
+
+        if [ "$is_first_file" = true ]; then
+            is_first_file=false
+        else
+            # Fix: Inject an explicit, non-clashing HTML part break comment
+            echo -e "\n<!-- PART_BREAK -->\n" >> "$TMP_OUTPUT"
+
+            if head -n 1 "$TMP_FILE_CONTENT" | grep -q '^---$'; then
+                TMP_STRIPPED=$(mktemp)
+                sed '1,/^---$/{ /^---$/d; d; }' "$TMP_FILE_CONTENT" > "$TMP_STRIPPED"
+                mv -f "$TMP_STRIPPED" "$TMP_FILE_CONTENT"
+            fi
+        fi
+
+        while IFS= read -r line; do
+            if [[ "$line" =~ \<\!--[[:space:]]*INSERT_SHARED:([a-zA-Z0-9._-]+)[[:space:]]*--\> ]]; then
+                shared_filename="${BASH_REMATCH}"
+                shared_file_path="$SHARED_DIR/$shared_filename"
+                
+                echo "$line" >> "$TMP_OUTPUT" 
+                if [ -f "$shared_file_path" ]; then
+                    echo "   ➕ Injecting shared content: $shared_filename"
+                    echo "<!-- START_SHARED -->" >> "$TMP_OUTPUT"
+                    awk '1; END {if (NR && substr($0, length($0), 1) != "\n") print ""}' "$shared_file_path" >> "$TMP_OUTPUT"
+                    echo "<!-- END_SHARED -->" >> "$TMP_OUTPUT"
+                else
+                    echo "   ⚠️ Shared content file not found: $shared_file_path"
+                fi
+            else
+                echo "$line" >> "$TMP_OUTPUT"
+            fi
+        done < "$TMP_FILE_CONTENT"
         
         echo "" >> "$TMP_OUTPUT"
+        rm -f "$TMP_FILE_CONTENT"
     done
 
-    # Ensure the destination folder exists before moving files in
     mkdir -p "$FULL_DIR"
-
-    # Safely clear out or back up the pre-existing target file
     if [ -f "$OUTPUT" ]; then
-        BASE_NAME=$(basename "$OUTPUT" .md)
-        BACKUP_FULL="$BACKUP_BOOK_FULL/${BASE_NAME}.${TIMESTAMP}.old"
-        # Using force move guarantees overwrite success on the old backup path
-        mv -f "$OUTPUT" "$BACKUP_FULL"
-        echo "   🗄️  Backed up existing full file"
+        mv -f "$OUTPUT" "$BACKUP_ROOT/${BOOK_NAME}-full.${TIMESTAMP}.old"
     fi
-
-    # Swap the completely built temporary file to the final destination path
     mv -f "$TMP_OUTPUT" "$OUTPUT"
-
-    echo "   🎉 Created: ${BOOK_NAME}-full.md  ($(wc -c < "$OUTPUT" | numfmt --to=iec) bytes)"
+    echo "   🎉 Created: ${BOOK_NAME}-full.md"
 done
 
-echo -e "\n✅ All books processed successfully!"
+echo -e "\n✅ All master files compiled successfully!"
