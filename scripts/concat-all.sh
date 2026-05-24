@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # =============================================
-# concat-all.sh - Fixed Bound Token Injection
+# concat-all.sh - Synchronized Shared Injection
 # =============================================
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE}")" && pwd)"
@@ -46,7 +46,7 @@ for book_dir in "${BOOKS[@]}"; do
         if [ "$is_first_file" = true ]; then
             is_first_file=false
         else
-            # Fix: Inject an explicit, non-clashing HTML part break comment
+            # Inject an explicit HTML part break comment between chapters
             echo -e "\n<!-- PART_BREAK -->\n" >> "$TMP_OUTPUT"
 
             if head -n 1 "$TMP_FILE_CONTENT" | grep -q '^---$'; then
@@ -58,7 +58,7 @@ for book_dir in "${BOOKS[@]}"; do
 
         while IFS= read -r line; do
             if [[ "$line" =~ \<\!--[[:space:]]*INSERT_SHARED:([a-zA-Z0-9._-]+)[[:space:]]*--\> ]]; then
-                shared_filename="${BASH_REMATCH}"
+                shared_filename="${BASH_REMATCH[1]}"
                 shared_file_path="$SHARED_DIR/$shared_filename"
                 
                 echo "$line" >> "$TMP_OUTPUT" 

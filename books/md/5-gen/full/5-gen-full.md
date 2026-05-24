@@ -71,6 +71,7 @@ eleventyNavigation:
 
 ### 0.00. ⚖️ Avisos Legais {#gen-0-00}
 <!-- INSERT_SHARED:avisos-legais.md -->
+<!-- START_SHARED -->
 
 ::: center
 **Edição Digital Educacional • Domínio Público**
@@ -86,6 +87,7 @@ Todos os direitos da edição impressa pertencem à Federação Espírita Brasil
 Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
+<!-- END_SHARED -->
 ### 0.01. 🗂️ Folha de rosto {#gen-0-01}
 
 ::: center
@@ -182,7 +184,6 @@ Aliás, os leitores assíduos da Revista espírita hão tido ensejo de notar, se
 ::: expand 📑 Termos relacionados
 - 🔖 related term
 :::
-
 
 
 
@@ -4432,8 +4433,6 @@ Graças a essa luz, o homem sabe doravante donde vem, para onde vai, por que est
 :::
 
 
-
-
 <!-- PART_BREAK -->
 
 ## 2. 🗃️ Os Milagres {#gen-2}
@@ -7089,8 +7088,6 @@ Não é nova essa ideia sobre a natureza do corpo de Jesus. No quarto século, A
 :::
 
 
-
-
 <!-- PART_BREAK -->
 
 ## 3. 🗃️ As Predições {#gen-3}
@@ -9110,8 +9107,6 @@ Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, diga
 :::
 
 
-
-
 <!-- PART_BREAK -->
 
 ## 4. 🗃️ Pós-textual {#gen-4}
@@ -9122,6 +9117,7 @@ Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, diga
 
 ### 4.01 📄 Nota explicativa {#gen-4-01}
 <!-- INSERT_SHARED:nota-explicativa.md -->
+<!-- START_SHARED -->
 
 ::: kardec
 👴🏻 — Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
@@ -9231,6 +9227,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 A Editora (FEB)
 
+<!-- END_SHARED -->
 ---
 
 ::: expand 📑 Termos relacionados

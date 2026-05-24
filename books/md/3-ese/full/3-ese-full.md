@@ -70,6 +70,7 @@ eleventyNavigation:
 
 ### 0.00. ⚖️ Avisos Legais {#ese-0-00}
 <!-- INSERT_SHARED:avisos-legais.md -->
+<!-- START_SHARED -->
 
 ::: center
 **Edição Digital Educacional • Domínio Público**
@@ -85,6 +86,7 @@ Todos os direitos da edição impressa pertencem à Federação Espírita Brasil
 Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
+<!-- END_SHARED -->
 ### 0.01. 📄 Folha de rosto {#ese-0-01}
 
 ::: center
@@ -589,8 +591,6 @@ Foi por haver professado esses princípios que Sócrates se viu ridiculizado, de
 ::: expand 📑 Termos relacionados
 - 🔖 related term
 :::
-
-
 
 
 <!-- PART_BREAK -->
@@ -8006,14 +8006,13 @@ A obsessão muito prolongada pode ocasionar desordens patológicas e reclama, po
 :::
 
 
-
-
 <!-- PART_BREAK -->
 
 ## 2. 🗃️ Pós-textual {#ese-2}
 
 ### 2.01 📄 Nota explicativa {#ese-2-01}
 <!-- INSERT_SHARED:nota-explicativa.md -->
+<!-- START_SHARED -->
 
 ::: kardec
 👴🏻 — Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
@@ -8123,6 +8122,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 A Editora (FEB)
 
+<!-- END_SHARED -->
 ---
 
 ::: expand 📑 Termos relacionados

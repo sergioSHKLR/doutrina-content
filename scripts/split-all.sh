@@ -49,7 +49,7 @@ for book_dir in "${BOOKS[@]}"; do
         }
         
         /^## / {
-            # Fix: If it is the first heading encountered, do not step up the index.
+            # If it is the first heading encountered, do not step up the index.
             # This ensures ## 0. stays cleanly matched inside 00.md alongside its front matter.
             if (is_first_heading == 1) {
                 is_first_heading = 0
@@ -61,13 +61,20 @@ for book_dir in "${BOOKS[@]}"; do
             skipping_shared = 0
         }
         
+        # Look for the common start token to turn skipping ON
         /<!-- START_SHARED -->/ {
             skipping_shared = 1
             next
         }
         
+        # Look for the common stop token to turn skipping OFF
         /<!-- END_SHARED -->/ {
             skipping_shared = 0
+            next
+        }
+        
+        # Ignore part break markers entirely during splitting
+        /<!-- PART_BREAK -->/ {
             next
         }
         

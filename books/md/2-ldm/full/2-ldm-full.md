@@ -69,6 +69,7 @@ eleventyNavigation:
 
 ### 0.00. ⚖️ Avisos Legais {#ldm-0-00}
 <!-- INSERT_SHARED:avisos-legais.md -->
+<!-- START_SHARED -->
 
 ::: center
 **Edição Digital Educacional • Domínio Público**
@@ -84,6 +85,7 @@ Todos os direitos da edição impressa pertencem à Federação Espírita Brasil
 Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
+<!-- END_SHARED -->
 ### 0.01. 📄 Folha de rosto {#ldm-0-01} 
 
 ::: center
@@ -192,8 +194,6 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 ::: expand 📑 Termos relacionados
 - 🔖 related term
 :::
-
-
 
 
 <!-- PART_BREAK -->
@@ -908,8 +908,6 @@ Assim, Espíritos, que podemos considerar adiantados, ainda não conseguiram son
 ::: expand 📑 Termos relacionados
 - 🔖 related term
 :::
-
-
 
 
 <!-- PART_BREAK -->
@@ -8323,14 +8321,13 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 ---
 
 
-
-
 <!-- PART_BREAK -->
 
 ## 3. 🗃️ Pós-textual {#ldm-3}
 
 ### 3.01 📄 Nota explicativa {#ldm-3-01} 
 <!-- INSERT_SHARED:nota-explicativa.md -->
+<!-- START_SHARED -->
 
 ::: kardec
 👴🏻 — Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
@@ -8440,6 +8437,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 A Editora (FEB)
 
+<!-- END_SHARED -->
 ### 3.02 📑 Índice geral {#ldm-3-02}
 
 ##### A 

@@ -70,6 +70,7 @@ eleventyNavigation:
 
 ### 0.00. ⚖️ Avisos Legais {#lde-0-00}
 <!-- INSERT_SHARED:avisos-legais.md -->
+<!-- START_SHARED -->
 
 ::: center
 **Edição Digital Educacional • Domínio Público**
@@ -85,6 +86,7 @@ Todos os direitos da edição impressa pertencem à Federação Espírita Brasil
 Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
+<!-- END_SHARED -->
 ### 0.01. 📄 Folha de rosto {#lde-0-01}
 
 ::: center
@@ -2172,9 +2174,6 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 :::
 
 ---
-
-
-
 
 
 <!-- PART_BREAK -->
@@ -12665,9 +12664,6 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 ---
 
 
-
-
-
 <!-- PART_BREAK -->
 
 ## 3. 🗃️ Leis morais {#lde-3}
@@ -18342,9 +18338,6 @@ Formulai, pois, de vós para convosco, questões nítidas e precisas e não tema
 ---
 
 
-
-
-
 <!-- PART_BREAK -->
 
 ## 4. 🗃️ Esperanças e Consolações {#lde-4}
@@ -20321,9 +20314,6 @@ Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e ze
 ---
 
 
-
-
-
 <!-- PART_BREAK -->
 
 ## 5. 🗃️ Conclusão {#lde-5}
@@ -20562,6 +20552,7 @@ Voltar para:
 
 ### 6.01. 📄 Nota explicativa {#lde-6-01}
 <!-- INSERT_SHARED:nota-explicativa.md -->
+<!-- START_SHARED -->
 
 ::: kardec
 👴🏻 — Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
@@ -20671,6 +20662,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 A Editora (FEB)
 
+<!-- END_SHARED -->
 [^27]
 
 ---
