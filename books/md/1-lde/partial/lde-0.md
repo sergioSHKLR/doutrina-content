@@ -4,8 +4,9 @@
 # =============================================================================
 title: "O Livro dos Espíritos"
 subtitle: "Filosofia Espiritualista"
-description: "Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados por Allan Kardec. Tradução de Guillon Ribeiro (Edição FEB Histórica)."
+description: "Princípios da Doutrina Espírita sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns, recebidos e coordenados por Allan Kardec. Tradução de Guillon Ribeiro (Edição Histórica da FEB)."
 
+lang: "pt-BR"
 author: "Allan Kardec"
 codifier: "Allan Kardec"
 translator: "Guillon Ribeiro"
@@ -16,41 +17,36 @@ isbn: "978-85-7328-728-8"
 originalTitle: "Le Livre des Esprits"
 originalPublication: "Paris, 18 de abril de 1857"
 publicationDate: "2019-05"
-language: "pt-BR"
+date: "2025-05-21"
+updated: "{{ currentDate }}"
 
 # =============================================================================
-# DISCLAIMER & COPYRIGHT (Legal)
+# LEGAL & DISCLAIMER
 # =============================================================================
 disclaimer: |
-  Esta é uma **edição digital educacional e gratuita** destinada ao estudo.
+  Esta é uma edição digital educacional e gratuita destinada ao estudo da Doutrina Espírita.
   
-  A tradução de **Guillon Ribeiro** (falecido em 26 de outubro de 1943) encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014, nos termos da Lei 9.610/1998.
+  A tradução de Guillon Ribeiro (falecido em 26/10/1943) encontra-se em domínio público no Brasil desde 01/01/2014 (Lei 9.610/1998).
   
-  O mantenedor deste site **não detém os direitos autorais** sobre a obra. 
-  Baseado na Edição Histórica da FEB (ISBN 978-85-7328-728-8).
-  
-  Agradecemos à Federação Espírita Brasileira pela preservação e divulgação da Doutrina Espírita.
+  O mantenedor deste site não detém os direitos autorais sobre a obra. Baseado na Edição Histórica da FEB.
+
+license: "Uso educacional, não-comercial e doutrinário permitido. Proibida a venda ou reprodução comercial sem autorização da FEB."
+rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Doutrina Espírita."
 
 # =============================================================================
 # TAXONOMY & ORGANIZATION
 # =============================================================================
 tags:
-  - "espiritismo"
-  - "allan-kardec"
-  - "doutrina-espírita"
-  - "filosofia-espiritualista"
-  - "reencarnação"
-  - "lei-moral"
-  - "vida-futura"
-  - "perispírito"
-  - "obras-básicas"
-  - "kardecismo"
-  - "dominio-publico"
+  - espiritismo
+  - allan-kardec
+  - doutrina-espírita
+  - filosofia-espiritualista
+  - reencarnação
+  - lei-moral
 
 categories:
-  - "Obras Básicas do Espiritismo"
-  - "Livros de Allan Kardec"
-  - "Doutrina Espírita"
+  - Obras Básicas do Espiritismo
+  - Livros de Allan Kardec
 
 series: "Obras Básicas do Espiritismo"
 seriesPosition: 1
@@ -58,23 +54,20 @@ seriesPosition: 1
 # =============================================================================
 # SITE & NAVIGATION
 # =============================================================================
-layout: "lde"
+layout: "layouts/book"
 permalink: "/lde/"
-date: "2025-05-18"
-updated: "{{ currentDate }}"
 draft: false
 featured: true
 toc: true
 showMetadata: true
 showIndex: true
-showTags: true
-showExpanders: true
 showSpiritQuotes: true
 
 eleventyNavigation:
   key: "O Livro dos Espíritos"
   parent: "Obras de Allan Kardec"
   order: 1
+  title: "LDE — O Livro dos Espíritos"
 
 # =============================================================================
 # VISUALS
@@ -88,27 +81,13 @@ thumbnail: "/images/lde-cover-oficial.jpg"
 # CONTENT STRUCTURE
 # =============================================================================
 contentStructure:
-  preTextual:
-    - "Folha de rosto"
-    - "Prefácio"
-    - "Introdução"
-  mainParts:
-    - name: "Parte Primeira"
-      chapters: 4
-    - name: "Parte Segunda"
-      chapters: 11
-    - name: "Parte Terceira"
-      chapters: 12
-    - name: "Parte Quarta"
-      chapters: 2
   questions: 1019
-  notes: true
+  parts: 4
   index: true
-  tagsIndex: true
   questionMap: true
 
 # =============================================================================
-# METADATA & SEO
+# SEO & METADATA
 # =============================================================================
 excerpt: "A obra fundamental do Espiritismo, codificada por Allan Kardec na tradução clássica de Guillon Ribeiro."
 readingTime: "≈ 18 horas"
@@ -121,30 +100,12 @@ schema:
   genre: "ReligiousText"
   inLanguage: "pt-BR"
   numberOfPages: 526
-  about:
-    - "Espiritismo"
-    - "Reencarnação"
-    - "Imortalidade da Alma"
-    - "Leis Morais"
   author:
     name: "Allan Kardec"
-    url: "https://pt.wikipedia.org/wiki/Allan_Kardec"
-  publisher:
-    name: "Federação Espírita Brasileira"
-    url: "https://www.febeditora.com.br"
-  datePublished: "1857"
-  dateModified: "2019"
-  isPartOf: "Obras Básicas do Espiritismo"
 
 # =============================================================================
-# CUSTOM FEATURES & EMOJIS
+# CUSTOM FEATURES
 # =============================================================================
-metadata:
-  sourceFile: "1-lde-full.md"
-  processedBy: "doutrina.org digital edition"
-  license: "Uso educacional e doutrinário"
-  spiritualSignature: "Espírito da Verdade, São Luís, São Vicente de Paulo, etc."
-
 emojiDefinitions:
   Publicações:
     ✨: "Livro dos Espíritos"
@@ -153,10 +114,9 @@ emojiDefinitions:
     🔥: "O Céu e o Inferno"
     🌱: "A Gênese"
     🪦: "Obras Póstumas"
-    📓: "Revista Espírita"
-    🔍: "O que é o Espiritismo"
+
   "Legenda deste livro":
-    ✨: "Comunicação espiritual"
+    👻: "Comunicação espiritual"
     ✝️: "Citação bíblica"
     👴🏻: "Allan Kardec"
     🗃️: "Parte do Livro"
@@ -164,11 +124,7 @@ emojiDefinitions:
     📄: "Tópico do Capítulo"
     #️⃣: "Item numerado"
     👉🏻: "Tópico relacionado"
-    ↩️: "Voltar para"
-    📑: "Lista de termos do Índice"
-    🔖: "Termo do Índice"
-    📃: "Notas de rodapé"
-    📝: "Nota"
+
   "Conferência de qualidade":
     ⚓: "notas de rodapé"
     📐: "italics"
@@ -176,13 +132,14 @@ emojiDefinitions:
     ⚜️: "comentário de Kardec"
     🔤: "textual"
 ---
+
 # ✨ O Livro dos Espíritos {#lde}
 
 ## 0. 🗃️ Pré-textual {#lde-0}
 
 ### 0.00. ⚖️ Avisos Legais {#lde-0-00}
 
-::: grey-center
+::: center
 **Edição Digital Educacional • Domínio Público**
 
 Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
@@ -203,7 +160,7 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 
 ### 0.01. 📄 Folha de rosto {#lde-0-01}
 
-::: grey-center
+::: center
 
 Filosofia Espiritualista
 
@@ -228,9 +185,8 @@ Baseada no ISBN 978-85-7328-728-8
 
 ### 0.02. 📋 Sumário Geral {#lde-0-02}
 
-::: grey
-**Sumário Interativo**
-Clique nos itens para navegar
+::: box
+Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
 
 **Parte 0. 🗃️ Pré-textual**
 - [0.00 ⚖️ Avisos Legais](#lde-0-00)
@@ -278,17 +234,14 @@ Clique nos itens para navegar
 **[Parte 5. 🗃️ Conclusão](#lde-5)**
 
 **[Parte 6. 🗃️ Pós-textual](#lde-6)**
-
----
-
-**Dica:** Use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
+:::
 
 ---
 
 ### 0.03. 📄 Prefácio {#lde-0-03}
 
-::: grey-center
-![Cepa Espírita](/images/vine.png)
+::: center
+![Cepa Espírita](/assets/images/vine.png)
 Interpretação artística do desenho original (mediúnico).
 :::
 
@@ -309,7 +262,7 @@ No número dos Espíritos que concorreram para a execução desta obra, muitos s
 Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de escrever este livro:
 
 ::: spirit
-✨ ▸ Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.
+✨ — Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.
 
 Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou.
 
@@ -338,8 +291,7 @@ Swedenborg,
 entre outros.**
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Allan Kardec](#allan-kardec)
 - 🔖 [Assistência espiritual](#assistencia-espiritual)
 - 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
@@ -355,14 +307,11 @@ entre outros.**
 - 🔖 [Perseverança](#perseveranca)
 :::
 
-⚓
-
 ---
 
 ### 0.04. 🗂️ Introdução {#lde-0-04}
 
-::: chapter-toc
-Neste capítulo:
+::: chapter-toc Neste capítulo:
 <!-- no toc -->
 - [0.03.01. 📄 Intro 01](#lde-0-04-01)
 - [0.03.02. 📄 Intro 02](#lde-0-04-02)
@@ -381,6 +330,7 @@ Neste capítulo:
 - [0.03.15. 📄 Intro 15](#lde-0-04-15)
 - [0.03.16. 📄 Intro 16](#lde-0-04-16)
 - [0.03.17. 📄 Intro 17](#lde-0-04-17)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 :::
@@ -391,8 +341,7 @@ Para se designarem coisas novas são precisos termos novos. Assim o exige a clar
 
 Como especialidade, ✨ *O Livro dos Espíritos* contém a Doutrina Espírita; como generalidade, prende-se à doutrina *espiritualista*, uma de cujas fases apresenta. Essa a razão por que traz no cabeçalho do seu título as palavras: **Filosofia espiritualista**.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Espiritismo](#espiritismo)
 - 🔖 [Espiritualismo](#espiritualismo)
 - 🔖 [Livro dos Espíritos](#livro-dos-espiritos)
@@ -427,8 +376,7 @@ Julgamos dever insistir nestas explicações pela razão de que a Doutrina Espí
 
 Passemos agora ao objeto principal desta instrução preliminar.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Alma](#alma)
 - 🔖 [Espiritualismo](#espiritualismo)
 - 🔖 [Linguagem](#linguagem)
@@ -437,8 +385,6 @@ Passemos agora ao objeto principal desta instrução preliminar.
 - 🔖 [Princípio vital](#principio-vital)
 - 🔖 [Seres vivos](#seres-vivos)
 :::
-
-⚓
 
 ---
 
@@ -468,8 +414,7 @@ Contra a realidade do fenômeno, poder-se-ia induzir alguma coisa da circunstân
 
 Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Perguntar-lhes-emos, em primeiro lugar, se estão bem certas de que haja fraudes e se não tomaram por fraude efeitos que não podiam explicar, mais ou menos como o camponês que tomava por destro escamoteador um sábio professor de Física a fazer experiências. Admitindo-se mesmo que tal coisa tenha podido verificar-se algumas vezes, constituiria isso razão para negar-se o fato? Dever-se-ia negar a Física, porque há prestidigitadores que se exornam com o título de físicos? Cumpre, ademais, se leve em conta o caráter das pessoas e o interesse que possam ter em iludir. Seria tudo, então, mero gracejo? Admite-se que uma pessoa se divirta por algum tempo, mas um gracejo prolongado indefinidamente se tornaria tão fastidioso para o mistificador, como para o mistificado. Acresce que, numa mistificação que se propaga de um extremo a outro do mundo e por entre as mais austeras, veneráveis e esclarecidas personalidades, alguma coisa há, com certeza, tão extraordinária, pelo menos, quanto o próprio fenômeno.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Ciência](#ciencia)
 - 🔖 [Experimentação](#experimentacao)
 - 🔖 [Fenomenologia](#fenomenologia)
@@ -493,21 +438,20 @@ Tal meio de correspondência era, porém, demorado e incômodo. O Espírito (e i
 O conselho foi dado simultaneamente na América, na França e em diversos outros países. Eis em que termos o deram em Paris, a 10 de junho de 1853, a um dos mais fervorosos adeptos da Doutrina e que, havia muitos anos, desde 1849, se ocupava com a evocação dos Espíritos:
 
 ::: spirit
-Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
+✨ — Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
 :::
 
 Alguns instantes após, a cesta entrou a mover-se e o lápis escreveu, muito legível, esta frase:
 
 ::: spirit
-✨ ▸ Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da próxima vez que escrever, escreverei melhor.
+✨ — Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da próxima vez que escrever, escreverei melhor.
 :::
 
 O objeto a que se adapta o lápis, não passando de mero instrumento, completamente indiferentes são a natureza e a forma que tenha. Daí o haver-se procurado dar-lhe a disposição mais cômoda. Assim é que muita gente se serve de uma prancheta pequena.
 
 A cesta ou a prancheta só podem ser postas em movimento debaixo da influência de certas pessoas, dotadas, para isso, de um poder especial, as quais se designam pelo nome de *médiuns*, isto é — meios ou intermediários entre os Espíritos e os homens. As condições que dão esse poder resultam de causas ao mesmo tempo físicas e morais, ainda imperfeitamente conhecidas, porquanto há médiuns de todas as idades, de ambos os sexos e em todos os graus de desenvolvimento intelectual. É, todavia, uma faculdade que se desenvolve pelo exercício.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Ação](#acao)
 - 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
 - 🔖 [Espírito/s](#espirito/s)
@@ -536,8 +480,7 @@ Eis, pois, efeitos patentes, que se produzem fora do círculo habitual das nossa
 
 Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em pouco e veremos se são capazes de oferecer a explicação de todos os fatos que se observam. Admitamos, enquanto não chegamos até lá, a existência de seres distintos dos humanos, pois que esta é a explicação ministrada pelas Inteligências que se manifestam, e vejamos o que eles nos dizem.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Efeitos inteligentes](#efeitos-inteligentes)
 - 🔖 [Escrita](#escrita)
 - 🔖 [Espírito/s](#espirito/s)
@@ -599,16 +542,13 @@ Vamos resumir, em poucas palavras, os pontos principais da Doutrina que nos tran
 
 Este o resumo da Doutrina Espírita , como resulta dos ensinamentos dados pelos Espíritos superiores. Vejamos agora as objeções que se lhe contrapõem.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Ensino](#ensino)
 - 🔖 [Espiritismo](#espiritismo)
 - 🔖 [Mundo espiritual](#mundo-espiritual)
 - 🔖 [Plano físico](#plano-fisico)
 - 🔖 [Princípios básicos](#principios-basicos)
 :::
-
-⚓
 
 ---
 
@@ -630,8 +570,7 @@ Repetimos mais uma vez que, se os fatos a que aludimos se houvessem reduzido ao 
 
 O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles, cujas ideias são as mais falsas, se apoiam na sua própria razão e é por isso que rejeitam tudo o que lhes parece impossível. Os que outrora repeliram as admiráveis descobertas de que a Humanidade se honra, todos endereçavam seus apelos a esse juiz, para repeli-las. O que se chama razão não é muitas vezes senão orgulho disfarçado e quem quer que se considere infalível apresenta-se como igual a Deus. Dirigimo-nos, pois, aos ponderados, que duvidam do que não viram, mas que, julgando do futuro pelo passado, não creem que o homem haja chegado ao apogeu, nem que a Natureza lhe tenha facultado ler a última página do seu livro.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Ciência](#ciencia)
 - 🔖 [Erro](#erro)
 - 🔖 [Espiritismo](#espiritismo)
@@ -655,8 +594,7 @@ O que caracteriza um estudo sério é a continuidade que se lhe dá. Será de ad
 
 Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobretudo às em que reina perfeita comunhão de pensamentos e de sentimentos para o bem. A leviandade e as questões ociosas os afastam, como, entre os homens, afastam as pessoas criteriosas; o campo fica, então, livre à turba dos Espíritos mentirosos e frívolos, sempre à espreita de ocasiões propícias para zombarem de nós e se divertirem à nossa custa. Que é o que se dará com uma questão grave em reuniões de tal ordem? Será respondida; mas, por quem? Acontece como se a um bando de doidivanas, que estejam a divertir-se, propusésseis estas questões: Que é a alma? Que é a morte? e outras tão recreativas quanto essas. Se quereis respostas sisudas, haveis de comportar-vos com toda a sisudez, na mais ampla acepção do termo, e de preencher todas as condições reclamadas. Só assim obtereis grandes coisas. Sede, além do mais, laboriosos e perseverantes nos vossos estudos, sem o que os Espíritos superiores vos abandonarão, como faz um professor com os discípulos negligentes.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Espírito superior](#espirito-superior)
 - 🔖 [Estudo](#estudo)
 - 🔖 [Estudo Sistematizado da Doutrina Espírita](#estudo-sistematizado-da-doutrina-espirita)
@@ -675,8 +613,7 @@ Que respondem a essa evidência os antagonistas? — Sois vítimas do charlatani
 
 Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em boa lógica, a qualidade das testemunhas é de alguma importância. Ora, é aqui o caso de perguntarmos se a Doutrina Espírita , que já conta milhões de adeptos, só os recruta entre os ignorantes? Os fenômenos em que ela se baseia são tão extraordinários que concebemos a existência da dúvida. O que, porém, não podemos admitir é a pretensão de alguns incrédulos, a de terem o monopólio do bom senso e que, sem guardarem as conveniências e respeitarem o valor moral de seus adversários, tachem, com desplante, de ineptos os que lhes não seguem o parecer. Aos olhos de qualquer pessoa judiciosa, a opinião das que, esclarecidas, observaram durante muito tempo, estudaram e meditaram uma coisa, constituirá sempre, quando não uma prova, uma presunção, no mínimo, a seu favor, visto ter logrado prender a atenção de homens respeitáveis, que não tinham interesse algum em propagar erros nem tempo a perder com futilidades.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Charlatanismo](#charlatanismo)
 - 🔖 [Escrita](#escrita)
 - 🔖 [Fenômeno espírita](#fenomeno-espirita)
@@ -698,7 +635,7 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus:
 
 ::: bible
-✝️ ▸ *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
+✝️ — *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*
 
 **Mateus, cap. 13, vers. 14, ARC**
 :::
@@ -707,8 +644,7 @@ Como variante dessa opinião, temos a dos que não veem, nas comunicações esp�
 
 Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se manifeste, para perder-nos, sem nos dar por contrapeso os conselhos dos bons Espíritos? Se Ele não o pode fazer, não é onipotente; se pode e não o faz, desmente a sua bondade. Ambas as suposições seriam blasfemas. Note-se que admitir a comunicação dos maus Espíritos é reconhecer o princípio das manifestações. Ora, se elas se dão, não pode deixar de ser com a permissão de Deus. Como, então, se há de acreditar, sem impiedade, que Ele só permita o mal, com exclusão do bem? Semelhante doutrina é contrária às mais simples noções do bom senso e da religião.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Demônio](#demonio)
 - 🔖 [Espírito/s](#espirito/s)
 - 🔖 [Fenômeno espírita](#fenomeno-espirita)
@@ -725,15 +661,14 @@ Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conheci
 Acham também singular que os Espíritos dos homens eminentes acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma supremacia lhes dá no mundo espírita. Nisto, os Espíritos confirmam estas palavras do Evangelho:
 
 ::: bible
-✝️ ▸ *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*
+✝️ — *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*
 
 **Mateus, cap. 23, vers. 12, ARC**
 :::
 
 devendo esta sentença entender-se com relação à categoria em que cada um de nós se achará entre eles. É assim que aquele que foi primeiro na Terra pode vir a ser lá um dos últimos. Aquele diante de quem curvávamos aqui a cabeça pode, portanto, vir falar-nos como o mais humilde operário, pois que deixou, com a vida terrena, toda a sua grandeza, e o mais poderoso monarca pode achar-se lá muito abaixo do último dos seus soldados.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Homem](#homem)
 - 🔖 [Personalidade](#personalidade)
 :::
@@ -758,8 +693,7 @@ Inegavelmente a substituição dos Espíritos pode dar lugar a uma porção de e
 
 Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se apresentem por si mesmos. Frequentemente ocorrem por efeito de circunstâncias em que se não pensa. Para o observador atento e paciente os fatos abundam, por isso que ele descobre milhares de matizes característicos, que são verdadeiros raios de luz. O mesmo se dá com as ciências comuns. Ao passo que o homem superficial não vê numa flor mais do que uma forma elegante, o sábio descobre nela tesouros para o pensamento.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Desmaterialização](#desmaterializacao)
 - 🔖 [Espírito/s](#espirito/s)
 - 🔖 [Família](#familia)
@@ -782,8 +716,7 @@ A contradição, demais, nem sempre é tão real quanto possa parecer. Não vemo
 
 Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepção invariável, compreende-se que os Espíritos, como nós, divirjam na definição que dela deem: um poderá dizer que é o princípio da vida, outro chamar-lhe centelha anímica, um terceiro afirmar que ela é interna, um quarto que é externa etc., tendo todos razão, cada um do seu ponto de vista. Poder-se-á mesmo crer que alguns deles professem doutrinas materialistas e, todavia, não ser assim. Outro tanto acontece relativamente a **Deus**. Será: o princípio de todas as coisas, o criador do Universo, a inteligência suprema, o infinito, o grande Espírito etc. Em definitiva, será sempre Deus. Citemos, finalmente, a classificação dos Espíritos. Eles formam uma série ininterrupta, desde o mais ínfimo grau até o grau superior. A classificação é, pois, arbitrária. Um, grupá-los-á em três classes, outro em cinco, dez ou vinte, à vontade, sem que nenhum esteja em erro. Todas as ciências humanas nos oferecem idênticos exemplos. Cada sábio tem o seu sistema; os sistemas mudam, a Ciência, porém, não muda. Aprenda-se a Botânica pelo sistema de Linneu, ou pelo de Jussieu, ou pelo de Tournefort, nem por isso se saberá menos Botânica. Deixemos, conseguintemente, de emprestar a coisas de pura convenção mais importância do que merecem, para só nos atermos ao que é verdadeiramente importante e, não raro, a reflexão fará se descubra, no que pareça disparate, uma similitude que escapara a um primeiro exame.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Ciência](#ciencia)
 - 🔖 [Contradição](#contradicao)
 - 🔖 [Convenção](#convencao)
@@ -798,8 +731,7 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 
 Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, *a despeito da ignorância do médium*.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Ideia](#ideia)
 - 🔖 [Linguagem](#linguagem)
 - 🔖 [Poesia](#poesia)
@@ -819,8 +751,7 @@ Entre as causas mais comuns de sobre-excitação cerebral, devem contar-se as de
 
 Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo já desequilibrou mais de um cérebro. Quantas vítimas não têm feito os que abalam imaginações fracas com esse quadro, que cada vez mais pavoroso se esforçam por tornar, mediante horríveis pormenores? O diabo, dizem, só mete medo a crianças, é um freio para fazê-las ajuizadas. Sim, é, do mesmo modo que o papão e o lobisomem. Quando, porém, elas deixam de ter medo, estão piores do que dantes. E, para alcançar-se tão belo resultado, não se levam em conta as inúmeras epilepsias causadas pelo abalo de cérebros delicados. Bem frágil seria a religião se, por não infundir terror, sua força pudesse ficar comprometida. Felizmente, assim não é. De outros meios dispõe ela para atuar sobre as almas. Mais eficazes e mais sérios são os que o Espiritismo lhe faculta, desde que ela os saiba utilizar. Ele mostra a realidade das coisas e só com isso neutraliza os funestos efeitos de um temor exagerado.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Desequilíbrio](#desequilibrio)
 - 🔖 [Espiritismo](#espiritismo)
 - 🔖 [Loucura](#loucura)
@@ -852,8 +783,7 @@ A esse argumento retrucam os adversários, perguntando, a seu turno, por que os 
 
 Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, em dado momento e, passado este, não há pedidos, nem súplicas que os façam voltar? Se o médium obrasse unicamente por impulsão mental dos assistentes, é claro que, em tal circunstância, o concurso de todas as vontades reunidas haveria de estimular-lhe a clarividência. Desde, portanto, que não cede ao desejo da assembleia, corroborado pela própria vontade dele, é que o médium obedece a uma influência que lhe é estranha e aos que o cercam, influência que, por esse simples fato, testifica da sua independência e da sua individualidade.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
 - 🔖 [Fenômeno espírita](#fenomeno-espirita)
 - 🔖 [Influenciação](#influenciacao)
@@ -871,14 +801,12 @@ A ciência espírita compreende duas partes: experimental uma, relativa às mani
 
 Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o espaço, encontraram, na distribuição dos corpos celestes, lacunas não justificadas e em desacordo com as leis do conjunto. Suspeitaram que essas lacunas deviam estar preenchidas por globos que lhes tinham escapado à observação. De outro lado, observaram certos efeitos, cuja causa lhes era desconhecida e disseram: Deve haver ali um mundo, porquanto esta lacuna não pode existir e estes efeitos hão de ter uma causa. Julgando então da causa pelo efeito, conseguiram calcular-lhe os elementos e mais tarde os fatos lhes vieram confirmar as previsões. Apliquemos este raciocínio a outra ordem de ideias. Se se observa a série dos seres, descobre-se que eles formam uma cadeia sem solução de continuidade, desde a matéria bruta até o homem mais inteligente. Entre o homem e Deus, porém, alfa e ômega de todas as coisas, que imensa lacuna! Será racional pensar-se que no homem terminam os anéis dessa cadeia e que ele transponha sem transição a distância que o separa do infinito? A razão nos diz que entre o homem e Deus outros elos necessariamente haverá, como disse aos astrônomos que, entre os mundos conhecidos, outros haveria, desconhecidos. Que filosofia já preencheu essa lacuna? O Espiritismo no-la mostra preenchida pelos seres de todas as ordens do mundo invisível, e estes seres não são mais do que os Espíritos dos homens, nos diferentes graus que levam à perfeição. Tudo então se liga, tudo se encadeia, desde o alfa até o ômega. Vós, que negais a existência dos Espíritos, cumulai o vácuo que eles ocupam. E vós, que rides deles, ousai rir das obras de Deus e da sua onipotência!
 
-👴🏻 ▸ Allan Kardec
+👴🏻 — **Allan Kardec**
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Deus](#deus)
 - 🔖 [Espiritismo](#espiritismo)
 - 🔖 [Espírito/s](#espirito/s)
 :::
 
 ---
-

@@ -3,13 +3,13 @@
 
 ### 1.01. 🗂️ Deus {#lde-1-01}
 
-::: chapter-toc
+::: chapter-toc Neste capítulo:
 <!-- no toc -->
-Neste capítulo:
 - [1.01.01. 📄 Deus e o infinito](#lde-1-01-01)
 - [1.01.02. 📄 Provas da existência de Deus](#lde-1-01-02)
 - [1.01.03. 📄 Atributos da Divindade](#lde-1-01-03)
 - [1.01.04. 📄 Panteísmo](#lde-1-01-04)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 :::
@@ -21,10 +21,8 @@ Voltar para:
 O que é Deus?
 
 ::: spirit
-✨ ▸ Deus é a inteligência suprema, causa primária de todas as coisas. [^4], [^5]
+✨ — Deus é a inteligência suprema, causa primária de todas as coisas. [^4], [^5]
 :::
-
-⚓⚓
 
 ---
 
@@ -33,11 +31,10 @@ O que é Deus?
 Que se deve entender por infinito?
 
 ::: spirit
-✨ ▸ O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.
+✨ — O que não tem começo nem fim: o desconhecido; tudo o que é desconhecido é infinito.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Infinito](#infinito)
 :::
 
@@ -48,15 +45,14 @@ Que se deve entender por infinito?
 Poder-se-ia dizer que Deus é o infinito?
 
 ::: spirit
-✨ ▸ Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.
+✨ — Definição incompleta. Pobreza da linguagem humana, insuficiente para definir o que está acima da linguagem dos homens.
 :::
 
 ::: kardec
-👴🏻 ▸ Deus é *infinito* em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. ⚜️
+👴🏻 — Deus é *infinito* em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Deus](#deus)
 - 🔖 [Infinito](#infinito)
 :::
@@ -70,11 +66,11 @@ Poder-se-ia dizer que Deus é o infinito?
 Onde se pode encontrar a prova da existência de Deus?
 
 ::: spirit
-✨ ▸ Num axioma que aplicais às vossas ciências. Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e a vossa razão responderá.
+✨ — Num axioma que aplicais às vossas ciências. Não há efeito sem causa. Procurai a causa de tudo o que não é obra do homem e a vossa razão responderá.
 :::
 
 ::: kardec
-👴🏻 ▸ Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação. O Universo existe, logo, tem uma causa. Duvidar da existência de Deus é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa. ⚜️
+👴🏻 — Para crer-se em Deus, basta se lance o olhar sobre as obras da Criação. O Universo existe, logo, tem uma causa. Duvidar da existência de Deus é negar que todo efeito tem uma causa e avançar que o nada pôde fazer alguma coisa.
 :::
 
 ---
@@ -84,11 +80,10 @@ Onde se pode encontrar a prova da existência de Deus?
 Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem em si, da existência de Deus?
 
 ::: spirit
-✨ ▸ A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa.
+✨ — A de que Deus existe; pois, donde lhes viria esse sentimento, se não tivesse uma base? É ainda uma consequência do princípio — não há efeito sem causa.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Sentimento](#sentimento)
 :::
 
@@ -99,15 +94,14 @@ Que dedução se pode tirar do sentimento instintivo, que todos os homens trazem
 O sentimento íntimo que temos da existência de Deus não poderia ser fruto da educação, resultado de ideias adquiridas?
 
 ::: spirit
-✨ ▸ Se assim fosse, por que existiria nos vossos selvagens esse sentimento?
+✨ — Se assim fosse, por que existiria nos vossos selvagens esse sentimento?
 :::
 
 ::: kardec
-👴🏻 ▸ Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas. ⚜️
+👴🏻 — Se o sentimento da existência de um ser supremo fosse tão somente produto de um ensino, não seria universal e não existiria senão nos que houvessem podido receber esse ensino, conforme se dá com as noções científicas.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Deus](#deus)
 - 🔖 [Universalidade](#universalidade)
 :::
@@ -119,15 +113,14 @@ O sentimento íntimo que temos da existência de Deus não poderia ser fruto da 
 Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da formação das coisas?
 
 ::: spirit
-✨ ▸ Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária.
+✨ — Mas, então, qual seria a causa dessas propriedades? É indispensável sempre uma causa primária.
 :::
 
 ::: kardec
-👴🏻 ▸ Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa. ⚜️
+👴🏻 — Atribuir a formação primária das coisas às propriedades íntimas da matéria seria tomar o efeito pela causa, porquanto essas propriedades são, também elas, um efeito que há de ter uma causa.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Matéria](#materia)
 :::
 
@@ -138,15 +131,14 @@ Poder-se-ia achar nas propriedades íntimas da matéria a causa primária da for
 Que se deve pensar da opinião dos que atribuem a formação primária a uma combinação fortuita da matéria, ou, por outra, ao acaso?
 
 ::: spirit
-✨ ▸ Outro absurdo! Que homem de bom senso pode considerar o acaso um ser inteligente? E, demais, que é o acaso? Nada.
+✨ — Outro absurdo! Que homem de bom senso pode considerar o acaso um ser inteligente? E, demais, que é o acaso? Nada.
 :::
 
 ::: kardec
-👴🏻 ▸ A harmonia existente no mecanismo do Universo patenteia combinações e desígnios determinados e, por isso mesmo, revela um poder inteligente. Atribuir a formação primária ao acaso é insensatez, pois que o acaso é cego e não pode produzir os efeitos que a inteligência produz. Um acaso inteligente já não seria acaso. ⚜️
+👴🏻 — A harmonia existente no mecanismo do Universo patenteia combinações e desígnios determinados e, por isso mesmo, revela um poder inteligente. Atribuir a formação primária ao acaso é insensatez, pois que o acaso é cego e não pode produzir os efeitos que a inteligência produz. Um acaso inteligente já não seria acaso.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Harmonia](#harmonia)
 :::
 
@@ -157,17 +149,16 @@ Que se deve pensar da opinião dos que atribuem a formação primária a uma com
 Em que é que, na causa primária, se revela uma inteligência suprema e superior a todas as inteligências?
 
 ::: spirit
-✨ ▸ Tendes um provérbio que diz: 'Pela obra se reconhece o autor.' Pois bem! Vede a obra e procurai o autor. O orgulho é que gera a incredulidade. O homem orgulhoso nada admite acima de si. Por isso é que ele denomina a si mesmo de espírito forte. Pobre ser, que um sopro de Deus pode abater!
+✨ — Tendes um provérbio que diz: 'Pela obra se reconhece o autor.' Pois bem! Vede a obra e procurai o autor. O orgulho é que gera a incredulidade. O homem orgulhoso nada admite acima de si. Por isso é que ele denomina a si mesmo de espírito forte. Pobre ser, que um sopro de Deus pode abater!
 :::
 
 ::: kardec
-👴🏻 ▸ O poder de uma inteligência se julga pelas suas obras. Não podendo nenhum ser humano criar o que a Natureza produz, a causa primária é, conseguintemente, uma inteligência superior à Humanidade.
+👴🏻 — O poder de uma inteligência se julga pelas suas obras. Não podendo nenhum ser humano criar o que a Natureza produz, a causa primária é, conseguintemente, uma inteligência superior à Humanidade.
 
-Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela inteligência superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem. ⚜️
+Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela própria tem uma causa e, quanto maior for o que opere, tanto maior há de ser a causa primária. Aquela inteligência superior é que é a causa primária de todas as coisas, seja qual for o nome que lhe deem.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Deus](#deus)
 :::
 
@@ -180,7 +171,7 @@ Quaisquer que sejam os prodígios que a inteligência humana tenha operado, ela 
 Pode o homem compreender a natureza íntima de Deus?
 
 ::: spirit
-✨ ▸ Não; falta-lhe para isso o sentido.
+✨ — Não; falta-lhe para isso o sentido.
 :::
 
 ---
@@ -190,15 +181,14 @@ Pode o homem compreender a natureza íntima de Deus?
 Será dado um dia ao homem compreender o mistério da Divindade?
 
 ::: spirit
-✨ ▸ Quando não mais tiver o espírito obscurecido pela matéria. Quando, pela sua perfeição, se houver aproximado de Deus, ele o verá e compreenderá.
+✨ — Quando não mais tiver o espírito obscurecido pela matéria. Quando, pela sua perfeição, se houver aproximado de Deus, ele o verá e compreenderá.
 :::
 
 ::: kardec
-👴🏻 ▸ A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de Deus. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão. ⚜️
+👴🏻 — A inferioridade das faculdades do homem não lhe permite compreender a natureza íntima de Deus. Na infância da Humanidade, o homem o confunde muitas vezes com a criatura, cujas imperfeições lhe atribui; mas, à medida que nele se desenvolve o senso moral, seu pensamento penetra melhor no âmago das coisas; então, faz ideia mais justa da Divindade e, ainda que sempre incompleta, mais conforme a sã razão.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Compreensão](#compreensao)
 - 🔖 [Deus](#deus)
 :::
@@ -210,11 +200,10 @@ Será dado um dia ao homem compreender o mistério da Divindade?
 Embora não possamos compreender a natureza íntima de Deus, podemos formar idéia de algumas de suas perfeições?
 
 ::: spirit
-✨ ▸ De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento.
+✨ — De algumas, sim. O homem as compreende melhor à medida que se eleva acima da matéria. Entrevê-as pelo pensamento.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Entendimento](#entendimento)
 :::
 
@@ -225,11 +214,11 @@ Embora não possamos compreender a natureza íntima de Deus, podemos formar idé
 Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipotente, soberanamente justo e bom, temos ideia completa de seus atributos?
 
 ::: spirit
-✨ ▸ Do vosso ponto de vista, sim, porque credes abranger tudo. Sabei, porém, que há coisas que estão acima da inteligência do homem mais inteligente, as quais a vossa linguagem, restrita às vossas ideias e sensações, não tem meios de exprimir. A razão, com efeito, vos diz que Deus deve possuir em grau supremo essas perfeições, porquanto, se uma lhe faltasse, ou não fosse infinita, já Ele não seria superior a tudo, não seria, por conseguinte, Deus. Para estar acima de todas as coisas, Deus tem que se achar isento de qualquer vicissitude e de qualquer das imperfeições que a imaginação possa conceber.
+✨ — Do vosso ponto de vista, sim, porque credes abranger tudo. Sabei, porém, que há coisas que estão acima da inteligência do homem mais inteligente, as quais a vossa linguagem, restrita às vossas ideias e sensações, não tem meios de exprimir. A razão, com efeito, vos diz que Deus deve possuir em grau supremo essas perfeições, porquanto, se uma lhe faltasse, ou não fosse infinita, já Ele não seria superior a tudo, não seria, por conseguinte, Deus. Para estar acima de todas as coisas, Deus tem que se achar isento de qualquer vicissitude e de qualquer das imperfeições que a imaginação possa conceber.
 :::
 
 ::: kardec
-👴🏻 ▸ Deus é *eterno*. Se tivesse tido princípio, teria saído do nada, ou, então, também teria sido criado, por um ser anterior. É assim que, pouco a pouco, remontamos ao infinito e à eternidade.
+👴🏻 — Deus é *eterno*. Se tivesse tido princípio, teria saído do nada, ou, então, também teria sido criado, por um ser anterior. É assim que, pouco a pouco, remontamos ao infinito e à eternidade.
 
 É *imutável*. Se estivesse sujeito a mudanças, as leis que regem o Universo nenhuma estabilidade teriam.
 
@@ -239,11 +228,10 @@ Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipo
 
 É *onipotente*. Ele o é, porque é único. Se não dispusesse do soberano poder, algo haveria mais poderoso ou tão poderoso quanto ele, que então não teria feito todas as coisas. As que não houvesse feito seriam obra de outro Deus.
 
-É *soberanamente justo e bom*. A sabedoria providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa sabedoria não permite se duvide nem da Justiça nem da Bondade de Deus. ⚜️
+É *soberanamente justo e bom*. A sabedoria providencial das leis divinas se revela, assim nas mais pequeninas coisas, como nas maiores, e essa sabedoria não permite se duvide nem da Justiça nem da Bondade de Deus.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Deus](#deus)
 - 🔖 [Divindade](#divindade)
 :::
@@ -257,7 +245,7 @@ Quando dizemos que Deus é eterno, infinito, imutável, imaterial, único, onipo
 Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
 
 ::: spirit
-✨ ▸ Se fosse assim, Deus não existiria, porquanto seria efeito e não causa. Ele não pode ser ao mesmo tempo uma e outra coisa. Deus existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.
+✨ — Se fosse assim, Deus não existiria, porquanto seria efeito e não causa. Ele não pode ser ao mesmo tempo uma e outra coisa. Deus existe; disso não podeis duvidar, e é o essencial. Crede-me, não vades além. Não vos percais num labirinto donde não lograríeis sair. Isso não vos tornaria melhores, antes um pouco mais orgulhosos, pois que acreditaríeis saber, quando na realidade nada saberíeis. Deixai, conseguintemente, de lado todos esses sistemas; tendes bastantes coisas que vos tocam mais de perto, a começar por vós mesmos. Estudai as vossas próprias imperfeições, a fim de vos libertardes delas, o que será mais útil do que pretenderdes penetrar no que é impenetrável.
 :::
 
 ---
@@ -267,11 +255,10 @@ Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as 
 Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos os seres, todos os globos do Universo seriam partes da Divindade e constituiriam, em conjunto, a própria Divindade, ou, por outra, que se deve pensar da doutrina panteísta?
 
 ::: spirit
-✨ ▸ Não podendo fazer-se Deus, o homem quer ao menos ser uma parte de Deus.
+✨ — Não podendo fazer-se Deus, o homem quer ao menos ser uma parte de Deus.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Criatura](#criatura)
 - 🔖 [Panteísmo](#panteismo)
 :::
@@ -283,17 +270,16 @@ Que se deve pensar da opinião segundo a qual todos os corpos da Natureza, todos
 Pretendem os que professam esta doutrina achar nela a demonstração de alguns dos atributos de Deus: Sendo infinitos os mundos, Deus é, por isso mesmo, infinito; não havendo o vazio, ou o nada em parte alguma, Deus está por toda parte; estando Deus em toda parte, pois que tudo é parte integrante de Deus, Ele dá a todos os fenônemo da Natureza uma razão de ser inteligente. Que se pode opor a este raciocínio?
 
 ::: spirit
-✨ ▸ A razão. Refleti maduramente e não vos será difícil reconhecer-lhe o absurdo.
+✨ — A razão. Refleti maduramente e não vos será difícil reconhecer-lhe o absurdo.
 :::
 
 ::: kardec
-👴🏻 ▸ Esta doutrina faz de Deus um ser material que, embora dotado de suprema inteligência, seria em ponto grande o que somos em ponto pequeno. Ora, transformando-se a matéria incessantemente, Deus, se fosse assim, nenhuma estabilidade teria; achar-se-ia sujeito a todas as vicissitudes, mesmo a todas as necessidades da Humanidade; faltar-lhe-ia um dos atributos essenciais da Divindade: a imutabilidade. Não se podem aliar as propriedades da matéria à ideia de Deus, sem que Ele fique rebaixado ante a nossa compreensão e não haverá sutilezas de sofismas que cheguem a resolver o problema da sua natureza íntima. Não sabemos tudo o que Ele é, mas sabemos o que Ele não pode deixar de ser e o sistema de que tratamos está em contradição com as suas mais essenciais propriedades. Ele confunde o Criador com a criatura, exatamente como o faria quem pretendesse que engenhosa máquina fosse parte integrante do mecânico que a imaginou.
+👴🏻 — Esta doutrina faz de Deus um ser material que, embora dotado de suprema inteligência, seria em ponto grande o que somos em ponto pequeno. Ora, transformando-se a matéria incessantemente, Deus, se fosse assim, nenhuma estabilidade teria; achar-se-ia sujeito a todas as vicissitudes, mesmo a todas as necessidades da Humanidade; faltar-lhe-ia um dos atributos essenciais da Divindade: a imutabilidade. Não se podem aliar as propriedades da matéria à ideia de Deus, sem que Ele fique rebaixado ante a nossa compreensão e não haverá sutilezas de sofismas que cheguem a resolver o problema da sua natureza íntima. Não sabemos tudo o que Ele é, mas sabemos o que Ele não pode deixar de ser e o sistema de que tratamos está em contradição com as suas mais essenciais propriedades. Ele confunde o Criador com a criatura, exatamente como o faria quem pretendesse que engenhosa máquina fosse parte integrante do mecânico que a imaginou.
 
-A inteligência de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio Deus, como o quadro não é o pintor que o concebeu e executou. ⚜️
+A inteligência de Deus se revela em suas obras como a de um pintor no seu quadro; mas, as obras de Deus não são o próprio Deus, como o quadro não é o pintor que o concebeu e executou.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Deus](#deus)
 - 🔖 [Panteísmo](#panteismo)
 - 🔖 [Razão](#razao)
@@ -303,13 +289,13 @@ A inteligência de Deus se revela em suas obras como a de um pintor no seu quadr
 
 ### 1.02. 🗂️ Elementos gerais do Universo {#lde-1-02}
 
-::: chapter-toc
-Neste capítulo:
+::: chapter-toc Neste capítulo:
 <!-- no toc -->
 - [1.02.01. 📄 Conhecimento do princípio das coisas](#lde-1-02-01)
 - [1.02.02. 📄 Espírito e Matéria](#lde-1-02-02)
 - [1.02.03. 📄 Propriedades da Matéria](#lde-1-02-03)
 - [1.02.04. 📄 Espaço universal](#lde-1-02-04)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 :::
@@ -321,7 +307,7 @@ Voltar para:
 É dado ao homem conhecer o princípio das coisas?
 
 ::: spirit
-✨ ▸ Não, Deus não permite que ao homem tudo seja revelado neste mundo.
+✨ — Não, Deus não permite que ao homem tudo seja revelado neste mundo.
 :::
 
 ---
@@ -331,11 +317,10 @@ Voltar para:
 Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 
 ::: spirit
-✨ ▸ O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui.
+✨ — O véu se levanta a seus olhos, à medida que ele se depura; mas, para compreender certas coisas, são-lhe precisas faculdades que ainda não possui.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Mistério](#misterio)
 :::
 
@@ -346,15 +331,14 @@ Penetrará o homem um dia o mistério das coisas que lhe estão ocultas?
 Não pode o homem, pelas investigações científicas, penetrar alguns dos segredos da Natureza?
 
 ::: spirit
-✨ ▸ A Ciência lhe foi dada para seu adiantamento em todas as coisas; ele, porém, não pode ultrapassar os limites que Deus estabeleceu.
+✨ — A Ciência lhe foi dada para seu adiantamento em todas as coisas; ele, porém, não pode ultrapassar os limites que Deus estabeleceu.
 :::
 
 ::: kardec
-👴🏻 ▸ Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a sabedoria do Criador . Entretanto, seja por orgulho, seja por fraqueza, sua própria inteligência o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho. ⚜️
+👴🏻 — Quanto mais consegue o homem penetrar nesses mistérios, tanto maior admiração lhe devem causar o poder e a sabedoria do Criador . Entretanto, seja por orgulho, seja por fraqueza, sua própria inteligência o faz joguete da ilusão. Ele amontoa sistemas sobre sistemas e cada dia que passa lhe mostra quantos erros tomou por verdades e quantas verdades rejeitou como erros. São outras tantas decepções para o seu orgulho.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Ciência](#ciencia)
 - 🔖 [Mistério](#misterio)
 :::
@@ -366,15 +350,14 @@ Não pode o homem, pelas investigações científicas, penetrar alguns dos segre
 Dado é ao homem receber, sem ser por meio das investigações da Ciência, comunicações de ordem mais elevada acerca do que lhe escapa ao testemunho dos sentidos?
 
 ::: spirit
-✨ ▸ Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender.
+✨ — Sim, se o julgar conveniente, Deus pode revelar o que à Ciência não é dado apreender.
 :::
 
 ::: kardec
-👴🏻 ▸ Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro. ⚜️
+👴🏻 — Por essas comunicações é que o homem adquire, dentro de certos limites, o conhecimento do seu passado e do seu futuro.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Conhecimento](#conhecimento)
 - 🔖 [Revelação](#revelacao)
 :::
@@ -388,7 +371,7 @@ Dado é ao homem receber, sem ser por meio das investigações da Ciência, comu
 A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
 
 ::: spirit
-✨ ▸ Só Deus o sabe. Há uma coisa, todavia, que a razão vos deve indicar: é que Deus, modelo de amor e caridade, nunca esteve inativo. Por mais distante que logreis figurar o início de sua ação, podereis concebê-lo ocioso, um momento que seja?
+✨ — Só Deus o sabe. Há uma coisa, todavia, que a razão vos deve indicar: é que Deus, modelo de amor e caridade, nunca esteve inativo. Por mais distante que logreis figurar o início de sua ação, podereis concebê-lo ocioso, um momento que seja?
 :::
 
 ---
@@ -398,11 +381,10 @@ A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em d
 Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos impressionar os sentidos, o que é impenetrável. São exatas estas definições?
 
 ::: spirit
-✨ ▸ Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
+✨ — Do vosso ponto de vista, elas o são, porque não falais senão do que conheceis. Mas a matéria existe em estados que ignorais. Pode ser, por exemplo, tão etérea e sutil, que nenhuma impressão vos cause aos sentidos. Contudo, é sempre matéria. Para vós, porém, não o seria.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Matéria](#materia)
 :::
 
@@ -413,15 +395,14 @@ Define-se geralmente a matéria como o que tem extensão, o que é capaz de nos 
 Que definição podeis dar da matéria?
 
 ::: spirit
-✨ ▸ A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação.
+✨ — A matéria é o laço que prende o espírito; é o instrumento de que este se serve e sobre o qual, ao mesmo tempo, exerce sua ação.
 :::
 
 ::: kardec
-👴🏻 ▸ Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito. ⚜️
+👴🏻 — Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário com o auxílio do qual e sobre o qual atua o espírito.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Matéria](#materia)
 :::
 
@@ -432,11 +413,10 @@ Que definição podeis dar da matéria?
 Que é o espírito?
 
 ::: spirit
-✨ ▸ O princípio inteligente do Universo.
+✨ — O princípio inteligente do Universo.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Espírito/s](#espirito/s)
 :::
 
@@ -447,11 +427,10 @@ Que é o espírito?
 Qual a natureza íntima do espírito?
 
 ::: spirit
-✨ ▸ Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.
+✨ — Não é fácil analisar o espírito com a vossa linguagem. Para vós, ele nada é, por não ser palpável. Para nós, entretanto, é alguma coisa. Ficai sabendo: coisa nenhuma é o nada e o nada não existe.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Nada](#nada)
 :::
 
@@ -462,11 +441,10 @@ Qual a natureza íntima do espírito?
 É o espírito sinônimo de inteligência?
 
 ::: spirit
-✨ ▸ A inteligência é um atributo essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa.
+✨ — A inteligência é um atributo essencial do espírito. Uma e outro, porém, se confundem num princípio comum, de sorte que, para vós, são a mesma coisa.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Espírito/s](#espirito/s)
 - 🔖 [Inteligência](#inteligencia)
 :::
@@ -478,11 +456,10 @@ Qual a natureza íntima do espírito?
 O espírito independe da matéria, ou é apenas uma propriedade desta, como as cores o são da luz e o som o é do ar?
 
 ::: spirit
-✨ ▸ São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria.
+✨ — São distintos uma do outro; mas a união do espírito e da matéria é necessária para intelectualizar a matéria.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Espírito/s](#espirito/s)
 - 🔖 [Matéria](#materia)
 :::
@@ -494,11 +471,10 @@ O espírito independe da matéria, ou é apenas uma propriedade desta, como as c
 Essa união é igualmente necessária para a manifestação do espírito? (Entendemos aqui por espírito o princípio da inteligência, abstração feita das individualidades que por esse nome se designam.)
 
 ::: spirit
-✨ ▸ É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos.
+✨ — É necessária a vós outros, porque não tendes organização apta a perceber o espírito sem a matéria. A isto não são apropriados os vossos sentidos.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Percepção](#percepcao)
 :::
 
@@ -509,11 +485,10 @@ Essa união é igualmente necessária para a manifestação do espírito? (Enten
 Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
 
 ::: spirit
-✨ ▸ Pode-se, é fora de dúvida, pelo pensamento.
+✨ — Pode-se, é fora de dúvida, pelo pensamento.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Percepção](#percepcao)
 :::
 
@@ -524,11 +499,10 @@ Poder-se-á conceber o espírito sem a matéria e a matéria sem o espírito?
 Há então dois elementos gerais do Universo: a matéria e o espírito?
 
 ::: spirit
-✨ ▸ Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
+✨ — Sim e acima de tudo Deus, o Criador, o Pai de todas as coisas. Deus, espírito e matéria constituem o princípio de tudo o que existe, a trindade universal. Mas ao elemento material se tem que juntar o fluido universal, que desempenha o papel de intermediário entre o espírito e a matéria propriamente dita, por demais grosseira para que o espírito possa exercer ação sobre ela. Embora, de certo ponto de vista, seja lícito classificá-lo com o elemento material, ele se distingue deste por propriedades especiais. Se o fluido universal fosse positivamente matéria, razão não haveria para que também o espírito não o fosse. Está colocado entre o espírito e a matéria; é fluido, como a matéria é matéria, e suscetível, pelas suas inumeráveis combinações com esta e sob a ação do espírito, de produzir a infinita variedade das coisas de que apenas conheceis uma parte mínima. Esse fluido universal, ou primitivo, ou elementar, sendo o agente de que o espírito se utiliza, é o princípio sem o qual a matéria estaria em perpétuo estado de divisão e nunca adquiriria as qualidades que a gravidade lhe dá.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Espírito/s](#espirito/s)
 - 🔖 [Fluido universal](#fluido-universal)
 - 🔖 [Matéria](#materia)
@@ -542,11 +516,10 @@ Há então dois elementos gerais do Universo: a matéria e o espírito?
 Esse fluido será o que designamos pelo nome de eletricidade?
 
 ::: spirit
-✨ ▸ Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.
+✨ — Dissemos que ele é suscetível de inúmeras combinações. O que chamais fluido elétrico, fluido magnético, são modificações do fluido universal, que não é, propriamente falando, senão matéria mais perfeita, mais sutil e que se pode considerar independente.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Eletricidade](#eletricidade)
 - 🔖 [Fluido universal](#fluido-universal)
 :::
@@ -558,15 +531,14 @@ Esse fluido será o que designamos pelo nome de eletricidade?
 Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos sujeito a confusão dar aos dois elementos gerais as designações de — **matéria inerte** e **matéria inteligente**?
 
 ::: spirit
-✨ ▸ As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas controvérsias provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos.
+✨ — As palavras pouco nos importam. Compete a vós formular a vossa linguagem de maneira a vos entenderdes. As vossas controvérsias provêm, quase sempre, de não vos entenderdes acerca dos termos que empregais, por ser incompleta a vossa linguagem para exprimir o que não vos fere os sentidos.
 :::
 
 ::: kardec
-👴🏻 ▸ Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus. ⚜️
+👴🏻 — Um fato patente domina todas as hipóteses: vemos matéria destituída de inteligência e vemos um princípio inteligente que independe da matéria. A origem e a conexão destas duas coisas nos são desconhecidas. Se promanam ou não de uma só fonte; se há pontos de contato entre ambas; se a inteligência tem existência própria, ou se é uma propriedade, um efeito; se é mesmo, conforme a opinião de alguns, uma emanação da Divindade, ignoramos. Elas se nos mostram distintas; daí o considerarmo-las formando os dois princípios constitutivos do Universo. Vemos acima de tudo isso uma inteligência que domina todas as outras, que as governa, que se distingue delas por atributos essenciais. A essa inteligência suprema é que chamamos Deus.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Linguagem](#linguagem)
 - 🔖 [Princípio inteligente](#principio-inteligente)
 :::
@@ -580,19 +552,21 @@ Pois que o espírito é, em si, alguma coisa, não seria mais exato e menos suje
 A ponderabilidade é um atributo essencial da matéria?
 
 ::: spirit
-✨ ▸ Da matéria como a entendeis, sim; não, porém, da matéria considerada fluido universal. A matéria etérea e sutil que constitui esse fluido vos é imponderável. Nem por isso, entretanto, deixa de ser o princípio da vossa matéria pesada.
+✨ — Da matéria como a entendeis, sim; não, porém, da matéria considerada fluido universal. A matéria etérea e sutil que constitui esse fluido vos é imponderável. Nem por isso, entretanto, deixa de ser o princípio da vossa matéria pesada.
 :::
 
 ::: kardec
-👴🏻 ▸ A gravidade é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo. ⚜️
+👴🏻 — A gravidade é uma propriedade relativa. Fora das esferas de atração dos mundos, não há peso, do mesmo modo que não há alto nem baixo.
 :::
+
+---
 
 ##### #️⃣ Q.30 {#q30}
 
 A matéria é formada de um só ou de muitos elementos?
 
 ::: spirit
-✨ ▸ De um só elemento primitivo. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva.
+✨ — De um só elemento primitivo. Os corpos que considerais simples não são verdadeiros elementos, são transformações da matéria primitiva.
 :::
 
 ---
@@ -602,7 +576,7 @@ A matéria é formada de um só ou de muitos elementos?
 Donde se originam as diversas propriedades da matéria?
 
 ::: spirit
-✨ ▸ São modificações que as moléculas elementares sofrem, por efeito da sua união, em certas circunstâncias.
+✨ — São modificações que as moléculas elementares sofrem, por efeito da sua união, em certas circunstâncias.
 :::
 
 ---
@@ -612,11 +586,11 @@ Donde se originam as diversas propriedades da matéria?
 De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as qualidades venenosas ou salutares dos corpos não passam de modificações de uma única substância primitiva?
 
 ::: spirit
-✨ ▸ Sem dúvida e que só existem devido à disposição dos órgãos destinados a percebê-las.
+✨ — Sem dúvida e que só existem devido à disposição dos órgãos destinados a percebê-las.
 :::
 
 ::: kardec
-👴🏻 ▸ A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar. ⚜️
+👴🏻 — A demonstração deste princípio se encontra no fato de que nem todos percebemos as qualidades dos corpos da mesma maneira: enquanto uma coisa agrada ao gosto de um, para o de outro é detestável; o que uns veem azul, outros vêem vermelho; o que para uns é veneno, para outros é inofensivo ou salutar.
 :::
 
 ---
@@ -626,19 +600,16 @@ De acordo com o que vindes de dizer, os sabores, os odores, as cores, o som, as 
 A mesma matéria elementar é suscetível de experimentar todas as modificações e de adquirir todas as propriedades?
 
 ::: spirit
-✨ ▸ Sim e é isso o que se deve entender, quando dizemos que *tudo está em tudo*! [^6]
+✨ — Sim e é isso o que se deve entender, quando dizemos que *tudo está em tudo*! [^6]
 :::
 
 ::: kardec
-👴🏻 ▸ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem. ⚜️
+👴🏻 — O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramos simples são meras modificações de uma substância primitiva. Na impossibilidade em que ainda nos achamos de remontar, a não ser pelo pensamento, a esta matéria primária, esses corpos são para nós verdadeiros elementos e podemos, sem maiores consequências, tê-los como tais, até nova ordem.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Matéria](#materia)
 :::
-
-⚓
 
 ---
 
@@ -647,11 +618,10 @@ A mesma matéria elementar é suscetível de experimentar todas as modificaçõe
 Não parece que esta teoria dá razão aos que não admitem na matéria senão duas propriedades essenciais: a força e o movimento, entendendo que todas as demais propriedades não passam de efeitos secundários, que variam conforme a intensidade da força e a direção do movimento?
 
 ::: spirit
-✨ ▸ É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.
+✨ — É acertada essa opinião. Falta somente acrescentar: e conforme a disposição das moléculas, como o mostra, por exemplo, um corpo opaco, que pode tornar-se transparente e vice-versa.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Matéria](#materia)
 :::
 
@@ -662,11 +632,10 @@ Não parece que esta teoria dá razão aos que não admitem na matéria senão d
 As moléculas têm forma determinada?
 
 ::: spirit
-✨ ▸ Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.
+✨ — Certamente, as moléculas têm uma forma, porém não sois capazes de apreciá-la.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Matéria](#materia)
 - 🔖 [Molécula](#molecula)
 :::
@@ -678,11 +647,10 @@ As moléculas têm forma determinada?
 Essa forma é constante ou variável?
 
 ::: spirit
-✨ ▸ Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.
+✨ — Constante a das moléculas elementares primitivas; variável a das moléculas secundárias, que mais não são do que aglomerações das primeiras. Porque, o que chamais molécula ainda longe está da molécula elementar.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Molécula](#molecula)
 :::
 
@@ -695,11 +663,11 @@ Essa forma é constante ou variável?
 O Espaço universal é infinito ou limitado?
 
 ::: spirit
-✨ ▸ Infinito. Supõe-no limitado: que haverá para lá de seus limites? Isto te confunde a razão, bem o sei; no entanto, a razão te diz que não pode ser de outro modo. O mesmo se dá com o infinito em todas as coisas. Não é na pequenina esfera em que vos achais que podereis compreendê-lo.
+✨ — Infinito. Supõe-no limitado: que haverá para lá de seus limites? Isto te confunde a razão, bem o sei; no entanto, a razão te diz que não pode ser de outro modo. O mesmo se dá com o infinito em todas as coisas. Não é na pequenina esfera em que vos achais que podereis compreendê-lo.
 :::
 
 ::: kardec
-👴🏻 ▸ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque, a razão diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o vazio absoluto, ainda seria Espaço. ⚜️
+👴🏻 — Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque, a razão diz que além desse limite alguma coisa há e assim, gradativamente, até ao infinito, porquanto, embora essa alguma coisa fosse o vazio absoluto, ainda seria Espaço.
 :::
 
 ---
@@ -709,11 +677,10 @@ O Espaço universal é infinito ou limitado?
 O vácuo absoluto existe em alguma parte no Espaço universal?
 
 ::: spirit
-✨ ▸ Não, não há o vácuo. O que te parece vazio) está ocupado por matéria que te escapa aos sentidos e aos instrumentos.
+✨ — Não, não há o vácuo. O que te parece vazio) está ocupado por matéria que te escapa aos sentidos e aos instrumentos.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Espaço](#espaco)
 - 🔖 [Vácuo](#vacuo)
 :::
@@ -722,8 +689,7 @@ O vácuo absoluto existe em alguma parte no Espaço universal?
 
 ### 1.03. 🗂️ Criação {#lde-1-03}
 
-::: chapter-toc
-Neste capítulo:
+::: chapter-toc Neste capítulo:
 <!-- no toc -->
 - [1.03.01. 📄 Formação dos mundos](#lde-1-03-01)
 - [1.03.02. 📄 Formação dos seres vivos](#lde-1-03-02)
@@ -731,6 +697,7 @@ Neste capítulo:
 - [1.03.04. 📄 Diversidade das raças humanas](#lde-1-03-04)
 - [1.03.05. 📄 Pluralidade dos mundos](#lde-1-03-04)
 - [1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação](#lde-1-03-04)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 :::
@@ -738,7 +705,7 @@ Voltar para:
 #### 1.03.01. 📄 Formação dos mundos {#lde-1-03-01}
 
 ::: kardec
-👴🏻 ▸ O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem. ⚜️
+👴🏻 — O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.
 :::
 
 ---
@@ -748,11 +715,11 @@ Voltar para:
 O Universo foi criado, ou existe de toda a eternidade, como Deus?
 
 ::: spirit
-✨ ▸ É fora de dúvida que ele não pode ter-se feito a si mesmo. Se existisse, como Deus, de toda a eternidade, não seria obra de Deus.
+✨ — É fora de dúvida que ele não pode ter-se feito a si mesmo. Se existisse, como Deus, de toda a eternidade, não seria obra de Deus.
 :::
 
 ::: kardec
-👴🏻 ▸ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e que, não podendo também ser obra do acaso, há de ser obra de Deus. ⚜️
+👴🏻 — Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e que, não podendo também ser obra do acaso, há de ser obra de Deus.
 :::
 
 ---
@@ -762,11 +729,11 @@ O Universo foi criado, ou existe de toda a eternidade, como Deus?
 Como criou Deus o Universo?
 
 ::: spirit
-✨ ▸ Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras:
+✨ — Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras:
 :::
 
 ::: bible
-✝️ ▸ Deus disse: Faça-se a luz e a luz foi feita.
+✝️ — Deus disse: Faça-se a luz e a luz foi feita.
   
 **Gênesis, cap. 1, vers. 3, ARC**
 :::
@@ -778,11 +745,10 @@ Como criou Deus o Universo?
 Poderemos conhecer o modo de formação dos mundos?
 
 ::: spirit
-✨ ▸ Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela condensação da matéria disseminada no Espaço.
+✨ — Tudo o que a esse respeito se pode dizer e podeis compreender é que os mundos se formam pela condensação da matéria disseminada no Espaço.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Deus](#deus)
 :::
 
@@ -793,11 +759,10 @@ Poderemos conhecer o modo de formação dos mundos?
 Serão os cometas, como agora se pensa, um começo de condensação da matéria, mundos em via de formação?
 
 ::: spirit
-✨ ▸ Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os corpos celestes influem de algum modo em certos fenônemo físicos.
+✨ — Isso está certo; absurdo, porém, é acreditar-se na influência deles. Refiro-me à influência que vulgarmente lhes atribuem, porquanto todos os corpos celestes influem de algum modo em certos fenônemo físicos.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Cometa](#cometa)
 :::
 
@@ -808,11 +773,10 @@ Serão os cometas, como agora se pensa, um começo de condensação da matéria,
 Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espaço a matéria que o compõe?
 
 ::: spirit
-✨ ▸ Sim, Deus renova os mundos, como renova os seres vivos.
+✨ — Sim, Deus renova os mundos, como renova os seres vivos.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Lei de destruição](#lei-de-destruicao)
 :::
 
@@ -823,11 +787,10 @@ Pode um mundo completamente formado desaparecer e disseminar-se de novo no Espa�
 Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exemplo?
 
 ::: spirit
-✨ ▸ Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.
+✨ — Nada te posso dizer a respeito, porque só o Criador o sabe e bem louco será quem pretenda sabê-lo, ou conhecer que número de séculos dura essa formação.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Mundos](#mundos)
 - 🔖 [Tempo](#tempo)
 :::
@@ -841,7 +804,7 @@ Poder-se-á conhecer o tempo que dura a formação dos mundos: da Terra, por exe
 Quando começou a Terra a ser povoada?
 
 ::: spirit
-✨ ▸ No começo tudo era caos; os elementos) estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo.
+✨ — No começo tudo era caos; os elementos) estavam em confusão. Pouco a pouco cada coisa tomou o seu lugar. Apareceram então os seres vivos apropriados ao estado do globo.
 :::
 
 ---
@@ -851,11 +814,10 @@ Quando começou a Terra a ser povoada?
 Donde vieram para a Terra os seres vivos?
 
 ::: spirit
-✨ ▸ A Terra lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de inércia, como a crisálida e as sementes das plantas, até o momento propício ao surto de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
+✨ — A Terra lhes continha os germes, que aguardavam momento favorável para se desenvolverem. Os princípios orgânicos se congregaram, desde que cessou a atuação da força que os mantinha afastados, e formaram os germes de todos os seres vivos. Estes germes permaneceram em estado latente de inércia, como a crisálida e as sementes das plantas, até o momento propício ao surto de cada espécie. Os seres de cada uma destas se reuniram, então, e se multiplicaram.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Geração espontânea](#geracao-espontanea)
 - 🔖 [Seres vivos](#seres-vivos)
 :::
@@ -867,15 +829,14 @@ Donde vieram para a Terra os seres vivos?
 Onde estavam os elementos orgânicos, antes da formação da Terra?
 
 ::: spirit
-✨ ▸ Achavam-se, por assim dizer, em estado de fluido no Espaço, no meio dos Espíritos, ou em outros planetas, à espera da criação da Terra para começarem existência nova em novo globo.
+✨ — Achavam-se, por assim dizer, em estado de fluido no Espaço, no meio dos Espíritos, ou em outros planetas, à espera da criação da Terra para começarem existência nova em novo globo.
 :::
 
 ::: kardec
-👴🏻 ▸ A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio *latente* de vitalidade, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do caos pela força mesma da natureza, diminui de alguma coisa a grandeza de Deus? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta teoria não resolve, é verdade, a questão da origem dos elementos vitais; mas Deus tem seus mistérios e pôs limites às nossas investigações. ⚜️
+👴🏻 — A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para formarem cristais de uma regularidade constante, conforme cada espécie, desde que se encontrem nas condições precisas. A menor perturbação nestas condições basta para impedir a reunião dos elementos, ou, pelo menos, para obstar à disposição regular que constitui o cristal. Por que não se daria o mesmo com os elementos orgânicos? Durante anos se conservam germes de plantas e de animais, que não se desenvolvem senão a uma certa temperatura e em meio apropriado. Têm-se visto grãos de trigo germinarem depois de séculos. Há, pois, nesses germes um princípio *latente* de vitalidade, que apenas espera uma circunstância favorável para se desenvolver. O que diariamente ocorre debaixo das nossas vistas, por que não pode ter ocorrido desde a origem do globo terráqueo? A formação dos seres vivos, saindo eles do caos pela força mesma da natureza, diminui de alguma coisa a grandeza de Deus? Longe disso: corresponde melhor à ideia que fazemos do seu poder a se exercer sobre a infinidade dos mundos por meio de leis eternas. Esta teoria não resolve, é verdade, a questão da origem dos elementos vitais; mas Deus tem seus mistérios e pôs limites às nossas investigações.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Elementos orgânicos](#elementos-organicos)
 :::
 
@@ -886,11 +847,10 @@ Onde estavam os elementos orgânicos, antes da formação da Terra?
 Ainda há seres que nasçam espontaneamente?
 
 ::: spirit
-✨ ▸ Sim, mas o germe primitivo já existia em estado latente. Sois todos os dias testemunhas desse fenômeno. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação pútrida que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria.
+✨ — Sim, mas o germe primitivo já existia em estado latente. Sois todos os dias testemunhas desse fenômeno. Os tecidos do corpo humano e do dos animais não encerram os germes de uma multidão de vermes que só esperam, para desabrochar, a fermentação pútrida que lhes é necessária à existência? É um mundo minúsculo que dormita e se cria.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Nascimento](#nascimento)
 :::
 
@@ -901,11 +861,10 @@ Ainda há seres que nasçam espontaneamente?
 A espécie humana se encontrava entre os elementos orgânicos contidos no globo terrestre?
 
 ::: spirit
-✨ ▸ Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do limo da terra.
+✨ — Sim, e veio a seu tempo. Foi o que deu lugar a que se dissesse que o homem se formou do limo da terra.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Cordão fluídico](#cordao-fluidico)
 - 🔖 [Elementos orgânicos](#elementos-organicos)
 :::
@@ -917,11 +876,10 @@ A espécie humana se encontrava entre os elementos orgânicos contidos no globo 
 Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na Terra?
 
 ::: spirit
-✨ ▸ Não; todos os vossos cálculos são quiméricos.
+✨ — Não; todos os vossos cálculos são quiméricos.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Homem](#homem)
 :::
 
@@ -932,11 +890,10 @@ Poderemos conhecer a época do aparecimento do homem e dos outros seres vivos na
 Se o germe da espécie humana se encontrava entre os elementos orgânicos do globo, por que não se formam espontaneamente homens, como na origem dos tempos?
 
 ::: spirit
-✨ ▸ O princípio das coisas está nos segredos de Deus. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos.
+✨ — O princípio das coisas está nos segredos de Deus. Entretanto, pode dizer-se que os homens, uma vez espalhados pela Terra, absorveram em si mesmos os elementos necessários à sua própria formação, para os transmitir segundo as leis da reprodução. O mesmo se deu com as diferentes espécies de seres vivos.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Geração espontânea](#geracao-espontanea)
 - 🔖 [Homem](#homem)
 - 🔖 [Seres vivos](#seres-vivos)
@@ -951,7 +908,7 @@ Se o germe da espécie humana se encontrava entre os elementos orgânicos do glo
 A espécie humana começou por um único homem?
 
 ::: spirit
-✨ ▸ Não; aquele a quem chamais Adão não foi o primeiro, nem o único a povoar a Terra.
+✨ — Não; aquele a quem chamais Adão não foi o primeiro, nem o único a povoar a Terra.
 :::
 
 ---
@@ -961,15 +918,14 @@ A espécie humana começou por um único homem?
 Poderemos saber em que época viveu Adão?
 
 ::: spirit
-✨ ▸ Mais ou menos na que lhe assinais: cerca de 4.000 anos antes do Cristo.
+✨ — Mais ou menos na que lhe assinais: cerca de 4.000 anos antes do Cristo.
 :::
 
 ::: kardec
-👴🏻 ▸ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do Cristo, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na Terra senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo. ⚜️
+👴🏻 — O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobreviveram, em certa região, a alguns dos grandes cataclismos que revolveram em diversas épocas a superfície do globo, e se constituiu tronco de uma das raças que atualmente o povoam. As Leis da Natureza se opõem a que os progressos da Humanidade, comprovados muito tempo antes do Cristo, se tenham realizado em alguns séculos, como houvera sucedido se o homem não existisse na Terra senão a partir da época indicada para a existência de Adão. Muitos, com mais razão, consideram Adão um mito ou uma alegoria que personifica as primeiras idades do mundo.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Adão](#adao)
 - 🔖 [Povoamento](#povoamento)
 :::
@@ -983,7 +939,7 @@ Poderemos saber em que época viveu Adão?
 Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
 
 ::: spirit
-✨ ▸ Do clima, da vida e dos costumes. Dá-se aí o que se dá com dois filhos de uma mesma mãe que, educados longe um do outro e de modos diferentes, em nada se assemelharão, quanto ao moral.
+✨ — Do clima, da vida e dos costumes. Dá-se aí o que se dá com dois filhos de uma mesma mãe que, educados longe um do outro e de modos diferentes, em nada se assemelharão, quanto ao moral.
 :::
 
 ---
@@ -993,11 +949,10 @@ Donde provêm as diferenças físicas e morais que distinguem as raças humanas 
 O homem surgiu em muitos pontos do globo?
 
 ::: spirit
-✨ ▸ Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram.
+✨ — Sim e em épocas várias, o que também constitui uma das causas da diversidade das raças. Depois, dispersando-se os homens por climas diversos e aliando-se os de uma aos de outras raças, novos tipos se formaram.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Homem](#homem)
 :::
 
@@ -1008,7 +963,7 @@ O homem surgiu em muitos pontos do globo?
 Estas diferenças constituem espécies distintas?
 
 ::: spirit
-✨ ▸ Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?
+✨ — Certamente que não; todos são da mesma família. Porventura as múltiplas variedades de um mesmo fruto são motivo para que elas deixem de formar uma só espécie?
 :::
 
 ##### #️⃣ Q.54 {#q54}
@@ -1016,11 +971,10 @@ Estas diferenças constituem espécies distintas?
 Pelo fato de não proceder de um só indivíduo a espécie humana, devem os homens deixar de considerar-se irmãos?
 
 ::: spirit
-✨ ▸ Todos os homens são irmãos em Deus, porque são animados pelo espírito e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal.
+✨ — Todos os homens são irmãos em Deus, porque são animados pelo espírito e tendem para o mesmo fim. Estais sempre inclinados a tomar as palavras na sua significação literal.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Família](#familia)
 :::
 
@@ -1033,15 +987,14 @@ Pelo fato de não proceder de um só indivíduo a espécie humana, devem os home
 São habitados todos os globos que se movem no Espaço?
 
 ::: spirit
-✨ ▸ Sim e o homem terreno está longe de ser, como supõe, o primeiro em inteligência, em bondade e em perfeição. Entretanto, há homens que se têm por espíritos muito fortes e que imaginam pertencer a este pequenino globo o privilégio de conter seres racionais. Orgulho e vaidade! Julgam que só para eles criou Deus o Universo.
+✨ — Sim e o homem terreno está longe de ser, como supõe, o primeiro em inteligência, em bondade e em perfeição. Entretanto, há homens que se têm por espíritos muito fortes e que imaginam pertencer a este pequenino globo o privilégio de conter seres racionais. Orgulho e vaidade! Julgam que só para eles criou Deus o Universo.
 :::
 
 ::: kardec
-👴🏻 ▸ Deus povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da sabedoria de Deus, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes. ⚜️
+👴🏻 — Deus povoou de seres vivos os mundos, concorrendo todos esses seres para o objetivo final da Providência. Acreditar que só os haja no Planeta que habitamos fora duvidar da sabedoria de Deus, que não fez coisa alguma inútil. Certo, a esses mundos há de ele ter dado uma destinação mais séria do que a de nos recrearem a vista. Aliás, nada há, nem na posição, nem no volume, nem na constituição física da Terra, que possa induzir à suposição de que ela goze do privilégio de ser habitada, com exclusão de tantos milhares de milhões de mundos semelhantes.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Pluralidade dos mundos habitados](#pluralidade-dos-mundos-habitados)
 :::
 
@@ -1052,7 +1005,7 @@ São habitados todos os globos que se movem no Espaço?
 É a mesma a constituição física dos diferentes globos?
 
 ::: spirit
-✨ ▸ Não; de modo algum se assemelham.
+✨ — Não; de modo algum se assemelham.
 :::
 
 ---
@@ -1062,11 +1015,10 @@ São habitados todos os globos que se movem no Espaço?
 Não sendo uma só para todos a constituição física dos mundos, seguir-se-á tenham organizações diferentes os seres que os habitam?
 
 ::: spirit
-✨ ▸ Sem dúvida, do mesmo modo que no vosso os peixes são feitos para viver na água e os pássaros no ar.
+✨ — Sem dúvida, do mesmo modo que no vosso os peixes são feitos para viver na água e os pássaros no ar.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Mundos habitados](#mundos-habitados)
 :::
 
@@ -1077,15 +1029,14 @@ Não sendo uma só para todos a constituição física dos mundos, seguir-se-á 
 Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de esse astro se lhes mostrar apenas com a aparência de uma estrela?
 
 ::: spirit
-✨ ▸ Pensais então que não há outras fontes de luz e calor além do Sol e em nenhuma conta tendes a eletricidade que, em certos mundos, desempenha um papel que desconheceis e bem mais importante do que o que lhe cabe desempenhar na Terra? Demais, não dissemos que todos os seres são feitos da mesma matéria que vós outros e com órgãos de conformação idêntica à dos vossos.
+✨ — Pensais então que não há outras fontes de luz e calor além do Sol e em nenhuma conta tendes a eletricidade que, em certos mundos, desempenha um papel que desconheceis e bem mais importante do que o que lhe cabe desempenhar na Terra? Demais, não dissemos que todos os seres são feitos da mesma matéria que vós outros e com órgãos de conformação idêntica à dos vossos.
 :::
 
 ::: kardec
-👴🏻 ▸ As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem dúvida contêm elementos que desconhecemos. Não vemos na Terra as longas noites polares iluminadas pela eletricidade das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na Terra e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes. ⚜️
+👴🏻 — As condições de existência dos seres que habitam os diferentes mundos hão de ser adequadas ao meio em que lhes cumpre viver. Se jamais houvéramos visto peixes, não compreenderíamos pudesse haver seres que vivessem dentro da água. Assim acontece com relação aos outros mundos, que sem dúvida contêm elementos que desconhecemos. Não vemos na Terra as longas noites polares iluminadas pela eletricidade das auroras boreais? Que há de impossível em ser a eletricidade, nalguns mundos, mais abundante do que na Terra e desempenhar neles uma função de ordem geral, cujos efeitos não podemos compreender? Bem pode suceder, portanto, que esses mundos tragam em si mesmos as fontes de calor e de luz necessárias a seus habitantes.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Mundos habitados](#mundos-habitados)
 :::
 
@@ -1095,7 +1046,7 @@ Os mundos mais afastados do Sol estarão privados de luz e calor, por motivo de 
 
 ##### #️⃣ Q.59 {#q59}
 
-👴🏻 ▸ Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
+👴🏻 — Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
 
 A objeção que se lhe pode fazer é a de estar em contradição com o texto dos livros sagrados. Mas um exame sério mostrará que essa contradição é mais aparente do que real e que decorre da interpretação dada ao que muitas vezes só tinha sentido alegórico. A questão de ter sido Adão, como primeiro homem, a origem exclusiva da Humanidade, não é a única a cujo respeito as crenças religiosas tiveram que se modificar. O movimento da Terra pareceu, em determinada época, tão em oposição às letras sagradas, que não houve gênero de perseguições a que essa teoria não tivesse servido de pretexto, e, no entanto, a Terra gira, malgrado os anátemas, não podendo ninguém hoje contestá-lo, sem agravo à sua própria razão.
 
@@ -1109,38 +1060,34 @@ A existência do homem antes do dilúvio geológico ainda é, com efeito, hipot�
 
 A diversidade das raças corrobora, igualmente, esta opinião. O clima e os costumes produzem, é certo, modificações no caráter físico; sabe-se, porém, até onde pode ir a influência dessas causas. Entretanto, o exame fisiológico demonstra haver, entre certas raças, diferenças constitucionais mais profundas do que as que o clima é capaz de determinar. O cruzamento das raças dá origem aos tipos intermediários. Ele tende a apagar os caracteres extremos, mas não os cria; apenas produz variedades. Ora, para que tenha havido cruzamento de raças, preciso era que houvesse raças distintas. Como, porém, se explicará a existência delas, atribuindo-se-lhes uma origem comum e, sobretudo, tão pouco afastada? Como se há de admitir que, em poucos séculos, alguns descendentes de Noé se tenham transformado ao ponto de produzirem a raça etíope, por exemplo? Tão pouco admissível é semelhante metamorfose, quanto à hipótese de uma origem comum para o lobo e o cordeiro, para o elefante e o pulgão, para o pássaro e o peixe. Ainda uma vez: nada pode prevalecer contra a evidência dos fatos.
 
-Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo. ⚜️
+Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterior à época em que vulgarmente se pretende que ela começou; que diversas são as origens; que Adão, vivendo há 6.000 anos, tenha povoado uma região ainda desabitada; que o dilúvio de Noé foi uma catástrofe parcial, confundida com o cataclismo geológico; e atentando-se, finalmente, na forma alegórica, peculiar ao estilo oriental, forma com que deparamos nos livros sagrados de todos os povos. Isto faz ver quanto é prudente não lançar levianamente a pecha de falsas as doutrinas que podem, cedo ou tarde, como tantas outras, desmentir os que as combatem. As ideias religiosas, longe de perderem alguma coisa, se engrandecem, caminhando de par com a Ciência. Esse o meio único de não apresentarem lado vulnerável ao ceticismo.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Mundo](#mundo)
 - 🔖 [Oriente](#oriente)
 - 🔖 [Raciocínio](#raciocinio)
 - 🔖 [Sentido](#sentido)
 :::
 
-⚓
-
 ---
 
 ### 1.04. 🗂️ Princípio Vital {#lde-1-04}
 
-::: chapter-toc
-Neste capítulo:
+::: chapter-toc Neste capítulo:
 <!-- no toc -->
 - [1.04.01. 📄 Seres orgânicos e inorgânicos](#lde-1-04-01)
 - [1.04.02. 📄 A vida e a morte](#lde-1-04-02)
 - [1.04.03. 📄 Inteligência e instinto](#lde-1-04-03)
+
 Voltar para:
 - [0.02. 📋 Sumário Geral](#lde-0-02)
 :::
 
 #### 1.04.01. 📄 Seres orgânicos e inorgânicos {#lde-1-04-01}
 
-👴🏻 ▸ Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc. ⚜️
+👴🏻 — Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria. Tais são os minerais, a água, o ar etc.
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Dilúvio](#diluvio)
 - 🔖 [Lei de atração](#lei-de-atracao)
 :::
@@ -1152,7 +1099,7 @@ Voltar para:
 É a mesma a força que une os elementos da matéria nos corpos orgânicos e nos inorgânicos?
 
 ::: spirit
-✨ ▸ Sim, a lei de atração é a mesma para todos.
+✨ — Sim, a lei de atração é a mesma para todos.
 :::
 
 ---
@@ -1162,11 +1109,10 @@ Voltar para:
 Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 
 ::: spirit
-✨ ▸ A matéria é sempre a mesma, porém nos corpos orgânicos está animalizada.
+✨ — A matéria é sempre a mesma, porém nos corpos orgânicos está animalizada.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Matéria](#materia)
 :::
 
@@ -1177,11 +1123,10 @@ Há diferença entre a matéria dos corpos orgânicos e a dos inorgânicos?
 Qual a causa da animalização da matéria?
 
 ::: spirit
-✨ ▸ Sua união com o princípio vital.
+✨ — Sua união com o princípio vital.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Matéria](#materia)
 - 🔖 [Princípio vital](#principio-vital)
 :::
@@ -1193,11 +1138,10 @@ Qual a causa da animalização da matéria?
 O princípio vital reside nalgum agente particular, ou é simplesmente uma propriedade da matéria organizada? Numa palavra, é efeito ou causa?
 
 ::: spirit
-✨ ▸ Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam.
+✨ — Uma e outra coisa. A vida é um efeito devido à ação de um agente sobre a matéria. Esse agente, sem a matéria, não é a vida, do mesmo modo que a matéria não pode viver sem esse agente. Ele dá a vida a todos os seres que o absorvem e assimilam.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Princípio vital](#principio-vital)
 :::
 
@@ -1208,13 +1152,12 @@ O princípio vital reside nalgum agente particular, ou é simplesmente uma propr
 Vimos que o espírito e a matéria são dois elementos constitutivos do Universo. O princípio vital será um terceiro?
 
 ::: spirit
-✨ ▸ É, sem dúvida, um dos elementos necessários à constituição do Universo, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento), como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio.
+✨ — É, sem dúvida, um dos elementos necessários à constituição do Universo, mas que também tem sua origem na matéria universal modificada. É, para vós, um elemento), como o oxigênio e o hidrogênio, que, entretanto, não são elementos primitivos, pois que tudo isso deriva de um só princípio.
 :::
 
 ↩️ Voltar para [Q.680](#q680)
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Princípio vital](#principio-vital)
 :::
 
@@ -1225,7 +1168,7 @@ Vimos que o espírito e a matéria são dois elementos constitutivos do Universo
 Parece resultar daí que a vitalidade não tem seu princípio num agente primitivo distinto e sim numa propriedade especial da matéria universal, devida a certas modificações.
 
 ::: spirit
-✨ ▸ Isto é consequência do que dissemos.
+✨ — Isto é consequência do que dissemos.
 :::
 
 ##### #️⃣ Q.65 {#q65}
@@ -1233,11 +1176,10 @@ Parece resultar daí que a vitalidade não tem seu princípio num agente primiti
 O princípio vital reside em algum dos corpos que conhecemos?
 
 ::: spirit
-✨ ▸ Ele tem por fonte o fluido universal. É o que chamais fluido magnético ou fluido elétrico animalizado. É o intermediário, o elo existente entre o espírito e a matéria.
+✨ — Ele tem por fonte o fluido universal. É o que chamais fluido magnético ou fluido elétrico animalizado. É o intermediário, o elo existente entre o espírito e a matéria.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Matéria](#materia)
 :::
 
@@ -1248,11 +1190,10 @@ O princípio vital reside em algum dos corpos que conhecemos?
 O princípio vital é um só para todos os seres orgânicos?
 
 ::: spirit
-✨ ▸ Sim, modificado segundo as espécies. É ele que lhes dá movimento e atividade e os distingue da matéria inerte, porquanto o movimento da matéria não é a vida. Esse movimento ela o recebe, não o dá.
+✨ — Sim, modificado segundo as espécies. É ele que lhes dá movimento e atividade e os distingue da matéria inerte, porquanto o movimento da matéria não é a vida. Esse movimento ela o recebe, não o dá.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Princípio vital](#principio-vital)
 :::
 
@@ -1263,11 +1204,10 @@ O princípio vital é um só para todos os seres orgânicos?
 A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pelo funcionamento dos órgãos?
 
 ::: spirit
-✨ ▸ Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida.
+✨ — Ela não se desenvolve senão com o corpo. Não dissemos que esse agente sem a matéria não é a vida? A união dos dois é necessária para produzir a vida.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Princípio vital](#principio-vital)
 :::
 
@@ -1278,15 +1218,14 @@ A vitalidade é atributo permanente do agente vital ou se desenvolve tão só pe
 Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vital não está unido ao corpo?
 
 ::: spirit
-✨ ▸ Sim, é isso.
+✨ — Sim, é isso.
 :::
 
 ::: kardec
-👴🏻 ▸ O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade daquele agente, quase como sucede com o atrito, que desenvolve o calor. ⚜️
+👴🏻 — O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade daquele agente, quase como sucede com o atrito, que desenvolve o calor.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Princípio vital](#principio-vital)
 :::
 
@@ -1299,7 +1238,7 @@ Poder-se-á dizer que a vitalidade se acha em estado latente, quando o agente vi
 Qual a causa da morte dos seres orgânicos?
 
 ::: spirit
-✨ ▸ Esgotamento dos órgãos.
+✨ — Esgotamento dos órgãos.
 :::
 
 ---
@@ -1309,11 +1248,10 @@ Qual a causa da morte dos seres orgânicos?
 Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorganizada?
 
 ::: spirit
-✨ ▸ Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue.
+✨ — Sim; se a máquina está mal montada, cessa o movimento; se o corpo está enfermo, a vida se extingue.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Corpo físico](#corpo-fisico)
 - 🔖 [Enfermidade](#enfermidade)
 :::
@@ -1325,11 +1263,10 @@ Poder-se-ia comparar a morte à cessação do movimento de uma máquina desorgan
 Por que uma lesão do coração mais depressa causa a morte do que as de outros órgãos?
 
 ::: spirit
-✨ ▸ O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais.
+✨ — O coração é máquina de vida, não é, porém, o único órgão cuja lesão ocasiona a morte. Ele não passa de uma das peças essenciais.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Coração](#coracao)
 - 🔖 [Morte](#morte)
 :::
@@ -1341,11 +1278,11 @@ Por que uma lesão do coração mais depressa causa a morte do que as de outros 
 Que é feito da matéria e do princípio vital dos seres orgânicos, quando estes morrem?
 
 ::: spirit
-✨ ▸ A matéria inerte se decompõe e vai formar novos organismos. O princípio vital volta à massa donde saiu.
+✨ — A matéria inerte se decompõe e vai formar novos organismos. O princípio vital volta à massa donde saiu.
 :::
 
 ::: kardec
-👴🏻 ▸ Morto o ser orgânico, os elementos que o compõem sofrem novas combinações, de que resultam novos seres, os quais haurem na fonte universal o princípio da vida e da atividade, o absorvem e assimilam, para novamente o restituírem a essa fonte, quando deixarem de existir.
+👴🏻 — Morto o ser orgânico, os elementos que o compõem sofrem novas combinações, de que resultam novos seres, os quais haurem na fonte universal o princípio da vida e da atividade, o absorvem e assimilam, para novamente o restituírem a essa fonte, quando deixarem de existir.
 
 Os órgãos se impregnam, por assim dizer, desse fluido vital e esse fluido dá a todas as partes do organismo uma atividade que as põe em comunicação entre si, nos casos de certas lesões, e normaliza as funções momentaneamente perturbadas. Mas quando os elementos essenciais ao funcionamento dos órgãos estão destruídos ou muito profundamente alterados, o fluido vital se torna impotente para lhes transmitir o movimento da vida, e o ser morre.
 
@@ -1357,11 +1294,10 @@ A quantidade de fluido vital não é absoluta em todos os seres orgânicos. Vari
 
 A quantidade de fluido vital se esgota. Pode tornar-se insuficiente para a conservação da vida, se não for renovada pela absorção e assimilação das substâncias que o contêm.
 
-O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se. ⚜️
+O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Fluido vital](#fluido-vital)
 - 🔖 [Princípio vital](#principio-vital)
 - 🔖 [Seres vivos](#seres-vivos)
@@ -1376,11 +1312,11 @@ O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maio
 A inteligência é atributo do princípio vital?
 
 ::: spirit
-✨ ▸ Não, pois que as plantas vivem e não pensam: só têm vida orgânica. A inteligência e a matéria são independentes, porquanto um corpo pode viver sem a inteligência. Mas a inteligência só por meio dos órgãos materiais pode manifestar-se. Necessário é que o espírito se una à matéria animalizada para intelectualizá-la.
+✨ — Não, pois que as plantas vivem e não pensam: só têm vida orgânica. A inteligência e a matéria são independentes, porquanto um corpo pode viver sem a inteligência. Mas a inteligência só por meio dos órgãos materiais pode manifestar-se. Necessário é que o espírito se una à matéria animalizada para intelectualizá-la.
 :::
 
 ::: kardec
-👴🏻 ▸ A inteligência é uma faculdade especial, peculiar a algumas classes de seres orgânicos e que lhes dá, com o pensamento, a vontade de atuar, a consciência de que existem e de que constituem uma individualidade cada um, assim como os meios de estabelecerem relações com o mundo exterior e de proverem às suas necessidades.
+👴🏻 — A inteligência é uma faculdade especial, peculiar a algumas classes de seres orgânicos e que lhes dá, com o pensamento, a vontade de atuar, a consciência de que existem e de que constituem uma individualidade cada um, assim como os meios de estabelecerem relações com o mundo exterior e de proverem às suas necessidades.
 
 Podem distinguir-se assim:
 
@@ -1388,7 +1324,7 @@ a) os seres inanimados, constituídos só de matéria, sem vitalidade nem inteli
 
 b) os seres animados que não pensam, formados de matéria e dotados de vitalidade, porém destituídos de inteligência;
 
-c) os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio inteligente que lhes outorga a faculdade de pensar. ⚜️
+c) os seres animados pensantes, formados de matéria, dotados de vitalidade e tendo a mais um princípio inteligente que lhes outorga a faculdade de pensar.
 :::
 
 ---
@@ -1398,11 +1334,10 @@ c) os seres animados pensantes, formados de matéria, dotados de vitalidade e te
 Qual a fonte da inteligência?
 
 ::: spirit
-✨ ▸ Já o dissemos; a inteligência universal.
+✨ — Já o dissemos; a inteligência universal.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Inteligência](#inteligencia)
 :::
 
@@ -1413,11 +1348,10 @@ Qual a fonte da inteligência?
 Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte universal e a assimila, como tira e assimila o princípio da vida material?
 
 ::: spirit
-✨ ▸ Isto não passa de simples comparação, todavia inexata, porque a inteligência é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número.
+✨ — Isto não passa de simples comparação, todavia inexata, porque a inteligência é uma faculdade própria de cada ser e constitui a sua individualidade moral. Demais, como sabeis, há coisas que ao homem não é dado penetrar e esta, por enquanto, é desse número.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Inteligência](#inteligencia)
 :::
 
@@ -1428,11 +1362,10 @@ Poder-se-ia dizer que cada ser tira uma porção de inteligência da fonte unive
 O instinto independe da inteligência?
 
 ::: spirit
-✨ ▸ Precisamente, não, por isso que o instinto é uma espécie de inteligência. É uma inteligência sem raciocínio. Por ele é que todos os seres proveem às suas necessidades.
+✨ — Precisamente, não, por isso que o instinto é uma espécie de inteligência. É uma inteligência sem raciocínio. Por ele é que todos os seres proveem às suas necessidades.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Instinto](#instinto)
 :::
 
@@ -1443,11 +1376,10 @@ O instinto independe da inteligência?
 Pode estabelecer-se uma linha de separação entre instinto e a inteligência, isto é, precisar onde um acaba e começa a outra?
 
 ::: spirit
-✨ ▸ Não, porque muitas vezes se confundem, mas muito bem se podem distinguir os atos que decorrem do instinto dos que são da inteligência.
+✨ — Não, porque muitas vezes se confundem, mas muito bem se podem distinguir os atos que decorrem do instinto dos que são da inteligência.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Instinto](#instinto)
 :::
 
@@ -1458,11 +1390,10 @@ Pode estabelecer-se uma linha de separação entre instinto e a inteligência, i
 É acertado dizer-se que as faculdades instintivas diminuem à medida que crescem as intelectuais?
 
 ::: spirit
-✨ ▸ Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia.
+✨ — Não; o instinto existe sempre, mas o homem o despreza. O instinto também pode conduzir ao bem. Ele quase sempre nos guia e algumas vezes com mais segurança do que a razão. Nunca se transvia.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Razão](#razao)
 :::
 
@@ -1473,22 +1404,20 @@ Pode estabelecer-se uma linha de separação entre instinto e a inteligência, i
 Por que nem sempre é guia infalível a razão?
 
 ::: spirit
-✨ ▸ Seria infalível, se não fosse falseada pela má educação, pelo orgulho e pelo egoísmo. O instinto não raciocina; a razão permite a escolha e dá ao homem o livre-arbítrio.
+✨ — Seria infalível, se não fosse falseada pela má educação, pelo orgulho e pelo egoísmo. O instinto não raciocina; a razão permite a escolha e dá ao homem o livre-arbítrio.
 :::
 
 ::: kardec
-👴🏻 ▸ O instinto é uma inteligência rudimentar, que difere da inteligência propriamente dita, em que suas manifestações são quase sempre espontâneas, ao passo que as da inteligência resultam de uma combinação e de um ato deliberado.
+👴🏻 — O instinto é uma inteligência rudimentar, que difere da inteligência propriamente dita, em que suas manifestações são quase sempre espontâneas, ao passo que as da inteligência resultam de uma combinação e de um ato deliberado.
 
-O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade. ⚜️
+O instinto varia em suas manifestações, conforme as espécies e as suas necessidades. Nos seres que têm a consciência e a percepção das coisas exteriores, ele se alia à inteligência, isto é, à vontade e à liberdade.
 :::
 
-::: expand
-📑 Itens do Índice
+::: expand 📑 Termos relacionados
 - 🔖 [Instinto](#instinto)
 - 🔖 [Livre-arbítrio](#livre-arbitrio)
 - 🔖 [Razão](#razao)
 :::
 
 ---
-
 

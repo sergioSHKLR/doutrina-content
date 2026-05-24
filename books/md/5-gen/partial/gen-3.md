@@ -1,0 +1,2016 @@
+
+## 3. 🗃️ As Predições {#gen-3}
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+### 3.16. 🗂️ Teoria da presciência {#gen-3-16}
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 01
+
+Como é possível o conhecimento do futuro? Compreende-se a possibilidade da previsão dos acontecimentos que devam resultar do estado presente; porém, não a dos que nenhuma relação guardem com esse estado, nem, ainda menos, a dos que são comumente atribuídos ao acaso. Não existem as coisas futuras, dizem; elas ainda se encontram no nada; como, pois, se há de saber que se darão? São, no entanto, em grande número os casos de predições realizadas, donde forçosa se torna a conclusão de que ocorre aí um fenômeno para cuja explicação falta a chave, porquanto não há efeito sem causa. É essa causa que vamos tentar descobrir e é ainda o Espiritismo, já de si mesmo chave de tantos mistérios, que no-la fornecerá, mostrando-nos, ao demais, que o próprio fato das predições não se produz com exclusão das leis naturais.
+
+Tomemos, para comparação, um exemplo nas coisas usuais. Ele nos ajudará a compreender o princípio que teremos de desenvolver.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 02
+
+Suponhamos um homem colocado no cume de uma alta montanha, a observar a vasta extensão da planície em derredor. Nessa situação, o espaço de uma légua pouca coisa será para ele, que poderá facilmente apanhar, de um golpe de vista, todos os acidentes do terreno, de um extremo a outro da estrada que lhe esteja diante dos olhos. O viajor, que pela primeira vez percorra essa estrada, sabe que, caminhando, chegará ao fim dela. Constitui isso uma simples previsão da consequência que terá a sua marcha. Entretanto, os acidentes do terreno, as subidas e descidas, os cursos de água que terá de transpor, os bosques que haja de atravessar, os precipícios em que poderá cair, as casas hospitaleiras onde lhe será possível repousar, os ladrões que o espreitem para roubá-lo, tudo isso independe da sua pessoa; é para ele o desconhecido, o futuro, porque a sua vista não vai além da pequena área que o cerca. Quanto à duração, mede-a pelo tempo que gasta em perlustrar o caminho. Tirai-lhe os pontos de referência e a duração desaparecerá. Para o homem que está em cima da montanha e que o acompanha com o olhar, tudo aquilo está presente. Suponhamos que esse homem desce do seu ponto de observação e, indo ao encontro do viajante, lhe diz: “Em tal momento, encontrarás tal coisa, serás atacado e socorrido.” Estará predizendo o futuro, mas, futuro para o viajante, não para ele, autor da previsão, pois que, para ele, esse futuro é presente.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 03
+
+Se, agora, sairmos do âmbito das coisas puramente materiais e entrarmos, pelo pensamento, no domínio da vida espiritual, veremos o mesmo fenômeno produzir-se em maior escala. Os Espíritos desmaterializados são como o homem da montanha; o espaço e a duração não existem para eles. Mas a extensão e a penetração da vista são proporcionadas à depuração deles e à elevação que alcançaram na hierarquia espiritual. Com relação aos Espíritos inferiores, aqueles são quais homens munidos de possantes telescópios, ao lado de outros que apenas dispõem dos olhos. Nos Espíritos inferiores, a visão é circunscrita, não só porque eles dificilmente podem afastar-se do globo a que se acham presos, como também porque a grosseria de seus perispíritos lhes vela as coisas distantes, do mesmo modo que um nevoeiro as oculta aos olhos do corpo.
+
+Bem se compreende, pois, que, de conformidade com o grau de sua perfeição, possa um Espírito abarcar um período de alguns anos, de alguns séculos, mesmo de muitos milhares de anos, porquanto, que é um século em face do infinito? Diante dele, os acontecimentos não se desenrolam sucessivamente, como os incidentes da estrada diante do viajor: ele vê simultaneamente o começo e o fim do período; todos os eventos que, nesse período, constituem o futuro para o homem da Terra são o presente para ele, que poderia então vir dizer-nos com certeza: Tal coisa acontecerá em tal época, porque essa coisa ele a vê como o homem da montanha vê o que espera o viajante no curso da viagem. Se assim não procede, é porque poderia ser prejudicial ao homem o conhecimento do futuro, conhecimento que lhe pearia o livre-arbítrio, paralisá-lo-ia no trabalho que lhe cumpre executar a bem do seu progresso. O se lhe conservarem desconhecidos o bem e o mal com que topará constitui para o homem uma prova.
+
+Se tal faculdade, mesmo restrita, se pode contar entre os atributos da criatura, em que grau de potencialidade não existirá no Criador, que abrange o infinito? Para o Criador, o tempo não existe: o princípio e o fim dos mundos lhe são o presente. Dentro desse panorama imenso, que é a duração da vida de um homem, de uma geração, de um povo?
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 04
+
+Entretanto, como o homem tem de concorrer para o progresso geral, como certos acontecimentos devem resultar da sua cooperação, pode convir que, em casos especiais, ele pressinta esses acontecimentos, a fim de lhes preparar o encaminhamento e de estar pronto a agir, em chegando a ocasião. Por isso é que Deus, às vezes, permite se levante uma ponta do véu; mas, sempre com fim útil, nunca para satisfação de vã curiosidade. Tal missão pode, pois, ser conferida, não a todos os Espíritos, porquanto muitos há que do futuro não conhecem mais do que os homens, porém a alguns Espíritos bastante adiantados para desempenhá-la. Ora, é de notar-se que as revelações dessa espécie são sempre feitas espontaneamente e jamais, ou, pelo menos, muito raramente, em resposta a uma pergunta direta.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 05
+
+Pode também semelhante missão ser confiada a certos homens, desta maneira:
+
+Aquele a quem é dado o encargo de revelar uma coisa oculta recebe, à sua revelia e por inspiração dos Espíritos que a conhecem, a revelação dela e a transmite maquinalmente, sem se aperceber do que faz. É sabido, ao demais, que, assim durante o sono, como em estado de vigília, nos êxtases da dupla vista, a alma se desprende e adquire, em grau mais ou menos alto, as faculdades do Espírito livre. Se for um Espírito adiantado, se, sobretudo, houver recebido, como os profetas, uma missão especial para esse efeito, gozará, nos momentos de emancipação da alma, da faculdade de abarcar, por si mesmo, um período mais ou menos extenso, e verá, como presente, os sucessos desse período. Pode então revelá-los no mesmo instante, ou conservar lembrança deles ao despertar. Se os sucessos hajam de permanecer secretos, ele os esquecerá, ou apenas guardará uma vaga intuição do que lhe foi revelado, bastante para o guiar instintivamente.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 06
+
+É assim que em certas ocasiões essa faculdade se desenvolve providencialmente, na iminência de perigos, nas grandes calamidades, nas revoluções, e é assim também que a maioria das seitas perseguidas adquire numerosos videntes. É ainda por isso que se veem os grandes capitães avançar resolutamente contra o inimigo, certos da vitória; que homens de gênio, como, por exemplo, Cristóvão Colombo, caminham para uma meta, anunciando previamente, por assim dizer, o instante em que a alcançarão. É que eles viram, essa meta, que, para seus Espíritos, deixou de ser o desconhecido.
+
+Nada, pois, tem de sobrenatural o dom da predição, mais do que uma imensidade de outros fenômenos. Ele se funda nas propriedades da alma e na lei das relações do mundo visível com o mundo invisível, que o Espiritismo veio dar a conhecer.
+
+A teoria da presciência talvez não resolva de modo absoluto todos os casos que se possam apresentar de revelação do futuro, mas não se pode deixar de convir em que lhe estabelece o princípio fundamental.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 07
+
+Muitas vezes, as pessoas dotadas da faculdade de prever, seja no estado de êxtase, seja no de sonambulismo, veem os acontecimentos como que desenhados num quadro, o que também se poderia explicar pela fotografia do pensamento. Atravessando o pensamento o espaço, como os sons atravessam o ar, um sucesso que esteja no dos Espíritos que trabalham para que ele se dê, ou no dos homens cujos atos devam provocá-lo, pode formar uma imagem para o vidente; mas, como a sua realização pode ser apressada ou retardada por um concurso de circunstâncias, este último vê o fato, sem poder, todavia, determinar o momento em que se dará. Não raro acontece que aquele pensamento não passa de um projeto, de um desejo, que se não concretizem em realidade, donde os frequentes erros de fato e de data nas previsões. (Cap. XIV, itens13 e seguintes.)
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 08
+
+Para compreendermos as coisas espirituais, isto é, para fazermos delas ideia tão clara como a que fazemos de uma paisagem que tenhamos ante os olhos, falta-nos em verdade um sentido, exatamente como ao cego de nascença falta um que lhe faculte compreender os efeitos da luz, das cores e da vista, sem o contato. Daí se segue que somente por esforço da imaginação e por meio de comparações com coisas materiais que nos sejam familiares chegamos a consegui-lo. As coisas materiais, porém, não nos podem dar das coisas espirituais senão ideias muito imperfeitas, razão por que não se devem tomar ao pé da letra essas comparações e crer, por exemplo, que a extensão das faculdades perceptivas dos Espíritos depende da efetiva elevação deles, nem que eles precisem estar em cima de uma montanha ou acima das nuvens para abrangerem o tempo e o espaço.
+
+Tal faculdade lhes é inerente ao estado de espiritualização, ou, se o preferirem, de desmaterialização. Quer isto dizer que a espiritualização produz um efeito que se pode comparar, se bem muito imperfeitamente, ao da visão de conjunto que tem o homem colocado sobre a montanha. Esta comparação objetivava simplesmente mostrar que acontecimentos pertencentes ainda, para uns, ao futuro, estão, para outros, ao presente e podem assim ser preditos, o que não implica que o efeito se produza de igual maneira.
+
+Para, portanto, gozar dessa percepção, não precisa o Espírito transportar-se a um ponto qualquer do espaço. Pode possuí-la em toda a sua plenitude aquele que na Terra se acha ao nosso lado, tanto quanto se achasse a mil léguas de distância, ao passo que nós nada vemos além do nosso horizonte visual. Não se operando a visão, nos Espíritos, do mesmo modo, nem com os mesmos elementos que no homem, muito diverso é o horizonte visual dos primeiros. Ora, é precisamente esse o sentido que nos falece para o concebermos. O Espírito, ao lado do encarnado, é como o vidente ao lado do cego.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 09
+
+Devemos, além disso, ponderar que essa percepção não se limita ao que diz respeito à extensão; que ela abrange a penetração de todas as coisas. É, repetimo-lo, uma faculdade inerente e proporcionada ao estado de desmaterialização. A encarnação amortece-a, sem, contudo, a anular completamente, porque a alma não fica encerrada no corpo como numa caixa. O encarnado a possui, embora sempre em grau menor do que quando se acha completamente desprendido; é o que confere a certos homens um poder de penetração que a outros falece inteiramente; maior agudeza de visão moral; compreensão mais fácil das coisas extramateriais.
+
+O Espírito encarnado não somente percebe, como também se lembra do que viu no estado de Espírito livre e essa lembrança é como um quadro que se lhe desenha na mente. Na encarnação, ele vê, mas vagamente, como através de um véu; no estado de liberdade, vê e concebe claramente. O princípio da visão não lhe é exterior, está nele; essa a razão por que não precisa da luz exterior. Por efeito do desenvolvimento moral, alarga-se o círculo das ideias e da concepção; por efeito da desmaterialização gradual do perispírito, este se purifica dos elementos grosseiros que lhe alteravam a delicadeza das percepções, o que torna fácil compreender-se que a ampliação de todas as faculdades acompanha o progresso do Espírito.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 10
+
+O grau da extensão das faculdades do Espírito é que, na encarnação, o torna mais ou menos apto a conceber as coisas espirituais. Essa aptidão, todavia, não é corolário forçoso do desenvolvimento da inteligência; a ciência vulgar não a dá, tanto assim que há homens de grande saber tão cegos para as coisas espirituais, quanto outros o são para as coisas materiais; são-lhes refratários, porque não as compreendem, o que significa que ainda não progrediram em tal sentido, ao passo que outros, de instrução e inteligência vulgares, as aprendem com a maior facilidade, o que prova que já tinham de tais coisas uma intuição prévia. É, para estes, uma lembrança retrospectiva do que viram e souberam, quer na erraticidade, quer em suas existências anteriores, como alguns têm a intuição das línguas e das ciências de que já foram conhecedores.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 11
+
+Quanto ao futuro do Espiritismo, os Espíritos, como se sabe, são unânimes em afirmar o seu triunfo próximo, a despeito dos obstáculos que lhe criem. Fácil lhes é essa previsão, primeiramente, porque a sua propagação é obra pessoal deles: concorrendo para o movimento, ou dirigindo-o, eles naturalmente sabem o que devem fazer; em segundo lugar, basta-lhes entrever um período de curta duração: veem, nesse período, ao longo do caminho, os poderosos auxiliares que Deus lhe suscita e que não tardarão a manifestar-se.
+
+Transportem-se os espíritas, embora sem serem Espíritos desencarnados, a trinta anos apenas para diante, ao seio da geração que surge; daí considerem o que se passa hoje com o Espiritismo; acompanhem-lhe a marcha progressiva e verão consumir-se em vãos esforços os que se creem destinados a derrocá-lo. Verão que esses tais pouco a pouco desaparecem de cena e que, paralelamente, a árvore cresce e alonga cada dia mais as suas raízes.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 12
+
+As mais das vezes, os acontecimentos vulgares da vida privada são consequência da maneira de proceder de cada um: este, de acordo com as suas capacidades, com a sua habilidade, com a sua perseverança, prudência e energia, terá êxito naquilo em que outro verá malogrados todos os seus esforços, por efeito da sua inaptidão, de sorte que se pode dizer que cada um é o artífice do seu próprio futuro, futuro que jamais se encontra sujeito a uma cega fatalidade, independente da sua personalidade. Conhecendo-se o caráter de um indivíduo, facilmente se lhe pode predizer a sorte que o espera no caminho por onde haja ele enveredado.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 13
+
+Os acontecimentos que envolvem interesses gerais da humanidade têm a regulá-los a Providência. Quando uma coisa está nos desígnios de Deus, ela se cumpre a despeito de tudo, ou por um meio, ou por outro. Os homens concorrem para que ela se execute; nenhum, porém, é indispensável, pois, do contrário, o próprio Deus estaria à mercê das suas criaturas. Se faltar aquele a quem incumba a missão de a executar, outro será dela encarregado. Não há missão fatal; o homem tem sempre a liberdade de cumprir ou não a que lhe foi confiada e que ele voluntariamente aceitou. Se não o faz, perde os benefícios que daí lhe resultariam e assume a responsabilidade dos atrasos que possam resultar da sua negligência ou da sua má vontade. Se se tornar um obstáculo a que ela se cumpra, está em Deus afastá-lo com um sopro.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 14
+
+Pode, portanto, ser certo o resultado final de um acontecimento, por se achar este nos desígnios de Deus; como, porém, quase sempre, os pormenores e o modo de execução se encontram subordinados às circunstâncias e ao livre-arbítrio dos homens, podem ser eventuais as sendas e os meios. Está nas possibilidades dos Espíritos prevenir-nos do conjunto, se convier que sejamos avisados; mas, para determinarem lugar e data, fora mister conhecessem previamente a decisão que tomará este ou aquele indivíduo. Ora, se essa decisão ainda não lhe estiver na mente, poderá, tal venha ela a ser, apressar ou demorar a realização do fato, modificar os meios secundários de ação, embora o mesmo resultado chegue sempre a produzir-se. É assim, por exemplo, que, pelo conjunto das circunstâncias, podem os Espíritos prever que uma guerra se acha mais ou menos próxima, que é inevitável, sem, contudo, poderem predizer o dia em que começará, nem os incidentes pormenorizados que possam ser modificados pela vontade dos homens.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 15
+
+Para determinação da época dos acontecimentos futuros, será preciso, ao demais, se leve em conta uma circunstância inerente à natureza mesma dos Espíritos.
+
+O tempo, como o espaço, não pode ser avaliado senão com o auxílio de pontos de referências que o dividam em períodos que se contem. Na Terra, a divisão natural do tempo em dias e anos tem a marcá-la o levantar e o pôr do sol, assim como a duração do movimento de translação do planeta terreno. As unidades de medida do tempo necessariamente variam conforme os mundos, pois que são diferentes os períodos astronômicos. Assim, por exemplo, em Júpiter, os dias equivalem a dez das horas terrestres e os anos a mais de doze anos nossos.
+
+Há, pois, para cada mundo, um modo diferente de computar-se a duração, de acordo com a natureza das revoluções astrais que nele se efetuam. Já haverá aí uma dificuldade para que Espíritos que não conheçam o nosso mundo determinem datas com relação a nós. Além disso, fora dos mundos, não existem tais meios de apreciação. Para um Espírito, no espaço, não há levantar nem pôr de sol a marcar os dias, nem revolução periódica a marcar os anos; só há, para ele, a duração e o espaço infinitos. (Cap. VI, itens 1 e seguintes.) Aquele, portanto, que jamais houvesse vindo à Terra nenhum conhecimento possuiria dos nossos cálculos que, aliás, lhe seriam completamente inúteis. Mais ainda: aquele que jamais houvesse encarnado em nenhum mundo, nenhuma noção teria das frações da duração. Quando um Espírito estranho à Terra vem aqui manifestar-se, não pode assinar datas aos acontecimentos, senão identificando-se com os nossos usos; ora, isso sem dúvida lhe é possível, porém, as mais das vezes, ele nenhuma utilidade descobre nessa identificação.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 16
+
+Os Espíritos, que formam a população invisível do nosso globo, onde eles já viveram e onde continuam a imiscuir-se na nossa vida, estão naturalmente identificados com os nossos hábitos, cuja lembrança conservam na erraticidade. Poderão, por conseguinte, com maior facilidade, determinar datas aos acontecimentos futuros, desde que os conheçam; mas, além de que isso nem sempre lhes é permitido, eles se veem impedidos pela razão de que, sempre que as circunstâncias de minúcias estão subordinadas ao livre-arbítrio e à decisão eventual do homem, nenhuma data precisa existe realmente, senão depois que o acontecimento se tenha dado.
+
+Eis aí por que as predições circunstanciadas não podem apresentar cunho de certeza e somente como prováveis devem ser acolhidas, mesmo que não tragam eiva que as torne legitimamente suspeitas. Por isso mesmo, os Espíritos verdadeiramente ponderados nada nunca predizem para épocas determinadas, limitando-se a prevenir-nos do seguimento das coisas que convenha conheçamos. Insistir por obter informes precisos é expor-se às mistificações dos Espíritos levianos que predizem tudo o que se queira, sem se preocuparem com a verdade, divertindo-se com os terrores e as decepções que causem.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 17
+
+A forma geralmente empregada até agora nas predições faz delas verdadeiros enigmas, as mais das vezes indecifráveis. Essa forma misteriosa e cabalística, de que Nostradamus nos oferece o tipo mais completo, lhes dá certo prestígio perante o vulgo, que tanto mais valor lhes atribui, quanto mais incompreensíveis se mostrem. Pela sua ambiguidade, elas se prestam a interpretações muito diferentes, de tal sorte que, conforme o sentido que se atribua a certas palavras alegóricas ou convencionais, conforme a maneira por que se efetue o cálculo, singularmente complicado, das datas e, com um pouco de boa vontade, nelas se encontra quase tudo o que se queira.
+
+Seja como for, não se pode deixar de convir em que algumas apresentam caráter sério e confundem pela sua veracidade. É provável que a forma velada tenha tido, em certo tempo, sua razão de ser e mesmo sua necessidade.
+
+Hoje, as circunstâncias são outras; o positivismo do século dar-se-ia mal com a linguagem sibilina. Daí vem que presentemente as predições já não se revestem dessas formas singulares; nada têm de místicas as que os Espíritos fazem; eles usam a linguagem de toda gente, como o teriam feito quando vivos na Terra, porque não deixaram de pertencer à humanidade. Avisam-nos das coisas futuras, pessoais ou gerais, quando necessário, na medida da perspicácia de que são dotados, como o fariam conselheiros e amigos. Suas previsões, pois, são antes advertências, do que predições propriamente ditas, as quais implicariam numa fatalidade absoluta. Além disso, quase sempre motivam a opinião que manifestam, por não quererem que o homem anule a sua razão sob uma fé cega e desejarem que este último lhe aprecie a exatidão.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 18
+
+A humanidade contemporânea também conta seus profetas. Mais de um escritor, poeta, literato, historiador ou filósofo hão traçado, em seus escritos, a marcha futura de acontecimentos a cuja realização agora assistimos.
+
+Essa aptidão, sem dúvida, decorre, muitas vezes, da retidão do juízo, no deduzir as consequências lógicas do presente; mas, doutras vezes, também resulta de uma especial clarividência inconsciente, ou de uma inspiração vinda do exterior. O que tais homens fizeram quando vivos, podem, com razão mais forte e maior exatidão, fazer no estado de Espíritos livres, quando não têm a visão espiritual obscurecida pela matéria.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+### 3.17. 🗂️ Predições do Evangelho {#gen-3-17}
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 01
+
+>
+>
+Mateus, cap. 13, vers. 54-58, ARC
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 02
+
+Enunciou Jesus dessa forma uma verdade que se tornou provérbio, que é de todos os tempos e à qual se poderia dar maior amplitude, dizendo que ninguém é profeta em vida.
+
+Na linguagem usual, essa máxima se aplica ao crédito de que alguém goza entre os seus e entre aqueles em cujo seio vive, à confiança que lhes inspira pela superioridade do saber e da inteligência. Se ela sofre exceções, são raras estas e, em nenhum caso, absolutas. O princípio de tal verdade reside numa consequência natural da fraqueza humana e pode explicar-se deste modo:
+
+O hábito de se verem desde a infância, em todas as circunstâncias ordinárias da vida, estabelece entre os homens uma espécie de igualdade material que, muitas vezes, faz que a maioria deles se negue a reconhecer superioridade moral num de quem foram companheiros ou comensais, que saiu do mesmo meio que eles e cujas primeiras fraquezas todos testemunharam. Sofre-lhes o orgulho com o terem de reconhecer o ascendente do outro. Quem quer que se eleve acima do nível comum está sempre em luta com o ciúme e a inveja. Os que se sentem incapazes de chegar à altura em que aquele se encontra esforçam-se para rebaixá-lo, por meio da difamação, da maledicência e da calúnia; tanto mais forte gritam, quanto menores se acham, crendo que se engrandecem e o eclipsam pelo arruído que promovem. Tal foi e será a História da humanidade, enquanto os homens não houverem compreendido a sua natureza espiritual e alargado seu horizonte moral. Por aí se vê que semelhante preconceito é próprio dos espíritos acanhados e vulgares, que tomam suas personalidades por ponto de aferição de tudo.
+
+Doutro lado, toda gente, em geral, faz dos homens apenas conhecidos pelo espírito um ideal que cresce à medida que os tempos e os lugares se vão distanciando. Eles são como que despojados de todo cunho de humanidade; parece que não devem ter falado, nem sentido como os demais; que a linguagem de que usaram e seus pensamentos hão de ter ressoado constantemente no diapasão da sublimidade, sem se lembrarem, os que tal imaginam, que o espírito não poderia permanecer constantemente em estado de tensão e de perpétua superexcitação. No contato da vida privada, vê-se por demais que o homem material em nada se distingue do vulgo. O homem corpóreo, que os sentidos humanos percebem, quase que apaga o homem espiritual, do qual somente o espírito se percebe. De longe, apenas se veem os relâmpagos do gênio; de perto, veem-se as paradas do espírito.
+
+Depois da morte, nenhuma comparação mais sendo possível, unicamente o homem espiritual subsiste e tanto maior parece, quanto mais longínqua se torna a lembrança do homem corporal. É por isso que aqueles cuja passagem pela Terra se assinalou por obras de real valor são mais apreciados depois de mortos do que quando vivos. São julgados com mais imparcialidade, porque, já tendo desaparecido os invejosos e os ciosos, cessaram os antagonismos pessoais. A posteridade é juiz desinteressado no apreciar a obra do espírito; aceita-a sem entusiasmo cego, se é boa, e a rejeita sem rancor, se é má, abstraindo da individualidade que a produziu.
+
+Tanto menos podia Jesus escapar às consequências deste princípio, inerente à natureza humana, quanto pouco esclarecido era o meio em que Ele vivia, meio esse constituído de criaturas votadas inteiramente à vida material. Nele, seus compatriotas apenas viam o filho do carpinteiro, o irmão de homens tão ignorantes quanto Ele e, assim sendo, não percebiam o que lhe dava superioridade e o investia do direito de os censurar. Verificando então que a sua palavra tinha menos autoridade sobre os seus, que o desprezavam, do que sobre os estranhos, preferiu ir pregar para os que o escutavam e aos quais inspirava simpatia.
+
+Pode-se fazer ideia dos sentimentos que para com Ele nutriam os que lhe eram aparentados, pelo fato de que seus próprios irmãos, acompanhados de sua mãe, foram a uma reunião onde Ele se encontrava, para dele se apoderarem, dizendo que perdera o juízo. (Marcos, 3:20 e 21, 31 a 35; O evangelho segundo o espiritismo, cap. XIV.)
+
+Assim, de um lado, os sacerdotes e os fariseus o acusavam de trabalhar pelo demônio; de outro, era tachado de louco pelos seus parentes mais próximos. Não é o que se dá em nossos dias com relação aos espíritas? E deverão estes queixar-se de que os seus concidadãos não os tratem melhor do que os de Jesus o tratavam? O que há de estranhável é que, no século XIX e no seio de nações civilizadas, se dê o que, há dois mil anos, nada tinha de espantoso, por parte de um povo ignorante.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Morte e paixão de Jesus
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 03
+
+>
+>
+Lucas, cap. 9, vers. 44-45, ARC
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 04
+
+>
+>
+Mateus, cap. 16, vers. 21, ARC
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 05
+
+>
+>
+Mateus, cap. 17, vers. 21-22, ARC
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 06
+
+>
+>
+Mateus, cap. 20, vers. 17-19, ARC
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 07
+
+>
+>
+Lucas, cap. 18, vers. 31-34, ARC
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 08
+
+>
+>
+Mateus, cap. 26, vers. 01-05, ARC
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 09
+
+>
+>
+Lucas, cap. 13, vers. 31-32, ARC
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Perseguição aos apóstolos
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 10
+
+>
+>
+Mateus, 10:17 e 18
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 11
+
+>
+>
+João, 16:1 a 4
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 12
+
+>
+>
+Lucas, 21:16 a 19
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 13
+
+>
+>
+João, 21:18 e 19
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Cidades impenitentes
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 14
+
+>
+>
+Mateus, 11:20 a 24
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Ruína do Templo e de Jerusalém
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 15
+
+>
+>
+Mateus, 24:1 e 2
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 16
+
+>
+>
+Lucas, 19:41 a 44
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 17
+
+>
+>
+Lucas, 13:33 a 35
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 18
+
+>
+>
+Lucas, 21:20 a 24
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 19
+
+>
+>
+Lucas, 23:27 a 31
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 20
+
+A faculdade de pressentir as coisas porvindouras é um dos atributos da alma e se explica pela teoria da presciência. Jesus a possuía, como todos os outros, em grau eminente. Pôde, portanto, prever os acontecimentos que se seguiriam à sua morte, sem que nesse fato algo haja de sobrenatural, pois que o vemos reproduzir-se aos nossos olhos, nas mais vulgares condições. Não é raro que indivíduos anunciem com precisão o instante em que morrerão; é que a alma deles, no estado de desprendimento, está como o homem da montanha (cap. XVI, item 1): abarca a estrada a ser percorrida e lhe vê o termo.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 21
+
+Tanto mais assim havia de dar-se com Jesus, quanto, tendo consciência da missão que viera desempenhar, sabia que a morte no suplício forçosamente lhe seria a consequência. A visão espiritual, permanente nele, assim como a penetração do pensamento, haviam de mostrar-lhe as circunstâncias e a época fatal. Pela mesma razão podia prever a ruína do Templo, a de Jerusalém, as desgraças que se iam abater sobre seus habitantes e a dispersão dos judeus.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Maldição contra os fariseus
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 22
+
+>
+>
+Mateus, 3:7 a 10
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 23
+
+>
+>
+Mateus, 23:13 a 36
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Minhas palavras não passarão
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 24
+
+>
+>
+Mateus, 15:12 a 14
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 25
+
+>
+>
+Mateus, 24:35
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 26
+
+As palavras de Jesus não passarão, porque serão verdadeiras em todos os tempos. Será eterno o seu código de moral, porque consagra as condições do bem que conduz o homem ao seu destino eterno. Mas terão as suas palavras chegado até nós puras de toda ganga e de falsas interpretações? Apreenderam-lhes o espírito todas as seitas cristãs? Nenhuma as terá desviado do verdadeiro sentido, em consequência dos preconceitos e da ignorância das leis da natureza? Nenhuma as transformou em instrumento de dominação, para servir às suas ambições e aos seus interesses materiais, em degrau, não para se elevar ao céu, mas para elevar-se na Terra? Terão todas adotado como regra de proceder a prática das virtudes, prática da qual fez Jesus condição expressa de salvação? Estarão todas isentas das apóstrofes que Ele dirigiu aos fariseus de seu tempo? Todas, finalmente, serão, assim em teoria, como na prática, expressão pura da sua doutrina?
+
+Sendo uma só, e única, a verdade não pode achar-se contida em
+afirmações contrárias e Jesus não pretendeu imprimir duplo sentido às suas
+palavras. Se, pois, as diferentes seitas se contradizem; se umas consideram
+verdadeiro o que outras condenam como heresias, impossível é que todas
+estejam com a verdade. Se todas houvessem apreendido o sentido verdadeiro do ensino evangélico, todas se teriam encontrado no mesmo terreno
+e não existiriam seitas.
+
+O que não passará é o verdadeiro sentido das palavras de Jesus; o que passará é o que os homens construíram sobre o sentido falso que deram a essas mesmas palavras.
+
+Tendo por missão transmitir aos homens o pensamento de Deus, somente a sua doutrina, em toda a pureza, pode exprimir esse pensamento. Por isso foi que Ele disse: Toda planta que meu Pai celestial não plantou será arrancada.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### A pedra angular
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 27
+
+>
+>
+Mateus, 21:42 a 46
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 28
+
+A palavra de Jesus se tornou a pedra angular, isto é, a pedra de consolidação do novo edifício da fé, erguido sobre as ruínas do antigo. Havendo os judeus, os príncipes dos sacerdotes e os fariseus rejeitado essa pedra, ela os esmagou, do mesmo modo que esmagará os que, depois, a desconheceram, ou lhe desfiguraram o sentido em prol de suas ambições.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Parábola dos vinhateiros homicidas
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 29
+
+>
+>
+Mateus, 21:33 a 41
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 30
+
+O pai de família é Deus; a vinha que Ele plantou é a lei que estabeleceu; os vinhateiros a quem arrendou a vinha são os homens que devem ensinar e praticar a lei; os servos que enviou aos arrendatários são os profetas que estes últimos massacraram; seu filho, enviado por último, é Jesus, a quem eles igualmente eliminaram. Como tratará o Senhor os seus mandatários prevaricadores da lei? Tratá-los-á como seus enviados foram por eles tratados e chamará outros arrendatários que lhe prestem melhores contas de sua propriedade e do proceder do seu rebanho.
+
+Assim aconteceu com os escribas, com os príncipes dos sacerdotes e com os fariseus; assim será, quando Ele vier de novo pedir a cada um contas do que fez da sua doutrina; retirará toda a autoridade ao que dela houver abusado, porquanto Ele quer que seu campo seja administrado de acordo com a sua vontade.
+
+Ao cabo de dezoito séculos, tendo chegado à idade viril, a humanidade está suficientemente madura para compreender o que o Cristo apenas esflorou, porque então, como Ele próprio o disse, não o teriam compreendido. Ora, a que resultado chegaram os que, durante esse longo período, tiveram a seu cargo a educação religiosa da mesma humanidade? Ao de verem que a indiferença sucedeu à fé e que a incredulidade se alçou em doutrina. Em nenhuma outra época, com efeito, o ceticismo e o espírito de negação estiveram mais espalhados em todas as classes da sociedade.
+
+Mas se algumas das palavras do Cristo se apresentam encobertas pelo véu da alegoria, pelo que concerne à regra de proceder, às relações de homem para homem, aos princípios morais a que Ele expressamente condicionou a salvação, seus ensinos são claros, explícitos, sem ambiguidade. (O evangelho segundo o espiritismo, cap. XV.)
+
+Que fizeram das suas máximas de caridade, de amor e de tolerância; das recomendações que fez a seus apóstolos para que convertessem os homens pela brandura e pela persuasão; da simplicidade, da humildade, do desinteresse e de todas as virtudes que Ele exemplificou? Em seu nome, os homens se anatematizaram mutuamente e reciprocamente se amaldiçoaram; estrangularam-se em nome daquele que disse: “Todos os homens são irmãos.” Do Deus infinitamente justo, bom e misericordioso que Ele revelou, fizeram um Deus cioso, cruel, vingativo e parcial; àquele Deus, de paz e de verdade, sacrificaram nas fogueiras, pelas torturas e perseguições, muito maior número de vítimas, do que as que em todos os tempos os pagãos sacrificaram aos seus falsos deuses; venderam-se as orações e as graças do céu em nome daquele que expulsou do Templo os vendedores e que disse a seus discípulos: “Dai de graça o que de graça recebestes.”
+
+Que diria o Cristo, se viesse hoje entre nós? Se visse os que se dizem seus representantes a ambicionar as honras, as riquezas, o poder e o fausto dos príncipes do mundo, ao passo que Ele, mais rei do que todos os reis da Terra, fez a sua entrada em Jerusalém montado num jumento? Não teria o direito de dizer-lhes: “Que fizestes dos meus ensinos, vós que incensais o bezerro de ouro, que dais a maior parte das vossas preces aos ricos, reservando uma parte insignificante aos pobres, sem embargo de haver eu dito: Os primeiros serão os últimos e os últimos serão os primeiros no reino dos céus?” Mas, se Ele não está carnalmente entre nós, está em Espírito e, como o senhor da parábola, virá pedir contas aos seus vinhateiros do produto da sua vinha, quando chegar o tempo da colheita.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Um só rebanho e um só pastor
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 31
+
+>
+>
+João, 10:16
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 32
+
+Por essas palavras, Jesus claramente anuncia que os homens um dia se unirão por uma crença única; mas como poderá efetuar-se essa união? Difícil parecerá isso, tendo-se em vista as diferenças que existem entre as religiões, o antagonismo que elas alimentam entre seus adeptos, a obstinação que manifestam em se acreditarem na posse exclusiva da verdade. Todas querem a unidade, mas cada uma se lisonjeia de que essa unidade se fará em seu proveito e nenhuma admite a possibilidade de fazer qualquer concessão, no que respeita às suas crenças.
+
+Entretanto, a unidade se fará em religião, como já tende a fazer-se socialmente, politicamente, comercialmente, pela queda das barreiras que separam os povos, pela assimilação dos costumes, dos usos, da linguagem. ^184 Os povos do mundo inteiro já confraternizam, como os das províncias de um mesmo império. Pressente-se essa unidade e todos a desejam. Ela se fará pela força das coisas, porque há de tornar-se uma necessidade, para que se estreitem os laços da fraternidade entre as nações; far-se-á pelo desenvolvimento da razão humana, que se tornará apta a compreender a puerilidade de todas as dissidências; pelo progresso das ciências, a demonstrar cada dia mais os erros materiais sobre que tais dissidências assentam e a destacar pouco a pouco das suas fiadas as pedras estragadas. Demolindo nas religiões o que é obra dos homens e fruto de sua ignorância das leis da natureza, a Ciência não poderá destruir, malgrado a opinião de alguns, o que é obra de Deus e eterna verdade. Afastando os acessórios, ela prepara as vias para a unidade.
+
+A fim de chegarem a esta, as religiões terão que encontrar-se num terreno neutro, se bem que comum a todas; para isso, todas terão que fazer concessões e sacrifícios mais ou menos importantes, conformemente à multiplicidade dos seus dogmas particulares. Mas, em virtude do processo de imutabilidade que todas professam, a iniciativa das concessões não poderá partir do campo oficial; em lugar de tomarem no alto o ponto de partida, tomá-lo-ão embaixo por iniciativa individual. Desde algum tempo, um movimento se vem operando de descentralização, tendente a adquirir irresistível força. O princípio da imutabilidade, que as religiões hão sempre considerado uma égide conservadora, tornar-se-á elemento de destruição, dado que, imobilizando-se, ao passo que a sociedade caminha para a frente, os cultos serão ultrapassados e depois absorvidos pela corrente das ideias de progressão.
+
+A imobilidade, em vez de ser uma força, torna-se uma causa de fraqueza e de ruína para quem não acompanha o movimento geral; ela quebra a unidade, porque os que querem avançar se separam dos que se obstinam em permanecer parados.
+
+No estado atual da opinião e dos conhecimentos, a religião, que terá de congregar um dia todos os homens sob o mesmo estandarte, será a que melhor satisfaça à razão e às legítimas aspirações do coração e do espírito; que não seja em nenhum ponto desmentida pela ciência positiva; que, em vez de se imobilizar, acompanhe a humanidade em sua marcha progressiva, sem nunca deixar que a ultrapassem; que não for nem exclusivista, nem intolerante; que for a emancipadora da inteligência, com o não admitir senão a fé racional; aquela cujo código de moral seja o mais puro, o mais lógico, o mais de harmonia com as necessidades sociais, o mais apropriado, enfim, a fundar na Terra o reinado do Bem, pela prática da caridade e da fraternidade universais.
+
+O que alimenta o antagonismo entre as religiões é a ideia, generalizada por todas elas, de que cada uma tem o seu deus particular e a pretensão de que este é o único verdadeiro e o mais poderoso, em luta constante com os deuses dos outros cultos e ocupado em lhes combater a influência. Quando elas se houverem convencido de que só existe um Deus no universo e que, em definitiva, Ele é o mesmo que elas adoram sob os nomes de Jeová, Alá ou Deus; quando se puserem de acordo sobre os atributos essenciais da Divindade, compreenderão que, sendo um único o Ser, uma única tem que ser a vontade suprema; estender-se-ão as mãos umas às outras, como os servidores de um mesmo Mestre e os filhos de um mesmo Pai e, assim, grande passo terão dado para a unidade.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Advento de Elias
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 33
+
+>
+>
+Mateus, 17:10 a 13
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 34
+
+Elias já voltara na pessoa de João Batista. Seu novo advento é anunciado de modo explícito. Ora, como ele não pode voltar, senão tomando um novo corpo, aí temos a consagração formal do princípio da pluralidade das existências. (O evangelho segundo o espiritismo, cap. IV, item 10.)
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Anunciação do Consolador
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 35
+
+>
+>
+João, 14:15 a 17 e 26; O evangelho segundo o espiritismo, cap. VI.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 36
+
+>
+>
+João, 16:7 a 14
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 37
+
+Esta predição, não há contestar, é uma das mais importantes, do ponto de vista religioso, porquanto comprova, sem a possibilidade do menor equívoco, que Jesus não disse tudo o que tinha a dizer, pela razão de que não o teriam compreendido nem mesmo seus apóstolos, visto que a eles é que o Mestre se dirigia. Se lhes houvesse dado instruções secretas, os Evangelhos fariam referência a tais instruções. Ora, desde que Ele não disse tudo a seus apóstolos, os sucessores destes não terão podido saber mais do que eles, com relação ao que foi dito; ter-se-ão possivelmente enganado, quanto ao sentido das palavras do Senhor, ou dado interpretação falsa aos seus pensamentos, muitas vezes velados sob a forma parabólica. As religiões que se fundaram no Evangelho não podem, pois, dizer-se possuidoras de toda a verdade, porquanto Ele, Jesus, reservou para si a completação ulterior de seus ensinamentos. O princípio da imutabilidade, em que elas se firmam, constitui um desmentido às próprias palavras do Cristo.
+
+Sob o nome de Consolador e de Espírito de Verdade, Jesus anunciou a vinda daquele que havia de ensinar todas as coisas e de lembrar o que Ele dissera. Logo, não estava completo o seu ensino. E, ao demais, prevê não só que ficaria esquecido, como também que seria desvirtuado o que por Ele fora dito, visto que o Espírito de Verdade viria tudo lembrar e, de combinação com Elias, restabelecer todas as coisas, isto é, pô-las de acordo com o verdadeiro pensamento de seus ensinos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 38
+
+Quando terá de vir esse novo revelador? É evidente que se, na época em que Jesus falava, os homens não se achavam em estado de compreender as coisas que lhe restavam a dizer, não seria em alguns anos apenas que poderiam adquirir as luzes necessárias a entendê-las. Para a inteligência de certas partes do Evangelho, excluídos os preceitos morais, faziam-se mister conhecimentos que só o progresso das ciências facultaria e que tinham de ser obra do tempo e de muitas gerações. Se, portanto, o novo Messias tivesse vindo pouco tempo depois do Cristo, houvera encontrado o terreno ainda nas mesmas condições e não teria feito mais do que o mesmo Cristo. Ora, desde aquela época até os nossos dias, nenhuma grande revelação se produziu que haja completado o Evangelho e elucidado suas partes obscuras, indício seguro de que o Enviado ainda não aparecera.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 39
+
+Qual deverá ser esse Enviado? Dizendo: “Pedirei a meu Pai e Ele vos enviará outro Consolador”, Jesus claramente indica que esse Consolador não seria Ele, pois, do contrário, dissera: “Voltarei a completar o que vos tenho ensinado.” Não só tal não disse, como acrescentou: “A fim de que fique eternamente convosco e ele estará em vós.” Esta proposição não poderia referir-se a uma individualidade encarnada, visto que não poderia ficar eternamente conosco, nem, ainda menos, estar em nós; compreendemo-la, porém, muito bem com referência a uma doutrina, a qual, com efeito, quando a tenhamos assimilado, poderá estar eternamente em nós. O Consolador é, pois, segundo o pensamento de Jesus, a personificação de uma doutrina soberanamente consoladora, cujo inspirador há de ser o Espírito de Verdade.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 40
+
+O Espiritismo realiza, como ficou demonstrado (cap. I, item 30), todas as condições do Consolador que Jesus prometeu. Não é uma doutrina individual, nem de concepção humana; ninguém pode dizer-se seu criador. É fruto do ensino coletivo dos Espíritos, ensino a que preside o Espírito de Verdade. Nada suprime do Evangelho: antes o completa e elucida. Com o auxílio das novas leis que revela, conjugadas essas leis às que a Ciência já descobrira, faz se compreenda o que era ininteligível e se admita a possibilidade daquilo que a incredulidade considerava inadmissível. Teve precursores e profetas, que lhe pressentiram a vinda. Pela sua força moralizadora, ele prepara o reinado do bem na Terra.
+
+A doutrina de Moisés, incompleta, ficou circunscrita ao povo judeu; a de Jesus, mais completa, se espalhou por toda a Terra, mediante o Cristianismo, mas não converteu a todos; o Espiritismo, ainda mais completo, com raízes em todas as crenças, converterá a humanidade. ^185
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 41
+
+Dizendo a seus apóstolos: “Outro virá mais tarde, que vos ensinará o que agora não posso ensinar”, proclamava Jesus a necessidade da reencarnação. Como poderiam aqueles homens aproveitar do ensino mais completo que ulteriormente seria ministrado; como estariam aptos a compreendê-lo, se não tivessem de viver novamente? Jesus houvera proferido uma coisa inconsequente se, de acordo com a doutrina vulgar, os homens futuros houvessem de ser homens novos, almas saídas do nada por ocasião do nascimento. Admita-se, ao contrário, que os apóstolos e os homens do tempo deles tenham vivido depois; que ainda hoje revivem, e plenamente justificada estará a promessa de Jesus. Tendo-se desenvolvido ao contato do progresso social, a inteligência deles pode presentemente comportar o que então não podia. Sem a reencarnação a promessa de Jesus fora ilusória.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 42
+
+Se disserem que essa promessa se cumpriu no dia de Pentecostes, por meio da descida do Espírito Santo, poder-se-á responder que o Espírito Santo os inspirou, que lhes desanuviou a inteligência, que desenvolveu neles as aptidões mediúnicas destinadas a facilitar-lhes a missão, porém que nada lhes ensinou além daquilo que Jesus já ensinara, porquanto, no que deixaram, nenhum vestígio se encontra de um ensinamento especial. O Espírito Santo, pois, não realizou o que Jesus anunciara relativamente ao Consolador; a não ser assim, os apóstolos teriam elucidado o que, no Evangelho, permaneceu obscuro até o dia de hoje e cuja interpretação contraditória deu origem às inúmeras seitas que dividiram o Cristianismo desde os primeiros séculos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Segundo advento do Cristo
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 43
+
+>
+>
+Mateus, 16:24 a 28
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 44
+
+>
+>
+Marcos, 16:60 a 63
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 45
+
+Jesus anuncia o seu segundo advento, mas não diz que voltará à Terra com um corpo carnal, nem que personificará o Consolador. Apresenta-se como tendo de vir em Espírito, na glória de seu Pai, a julgar o mérito e o demérito e dar a cada um segundo as suas obras, quando os tempos forem chegados.
+
+Estas palavras: “Alguns há dos que aqui estão que não sofrerão a morte sem terem visto vir o Filho do Homem no seu reinado” parecem encerrar uma contradição, pois é incontestável que Ele não veio em vida de nenhum daqueles que estavam presentes. Jesus, entretanto, não podia enganar-se numa previsão daquela natureza e, sobretudo, com relação a uma coisa contemporânea e que lhe dizia pessoalmente respeito. Há, primeiro, que indagar se suas palavras foram sempre reproduzidas fielmente. É de duvidar-se, desde que se considere que Ele nada escreveu; que elas só foram registradas depois de sua morte; que o mesmo discurso cada evangelista o exarou em termos diferentes, o que constitui prova evidente de que as expressões de que eles se serviram não são textualmente as de que se serviu Jesus. Além disso, é provável que o sentido tenha sofrido alterações ao passar pelas traduções sucessivas.
+
+Por outro lado, é indubitável que, se Jesus houvesse dito tudo o que pudera dizer, Ele se teria expressado sobre todas as coisas de modo claro e preciso, sem dar lugar a qualquer equívoco, conforme o fez com relação aos princípios de moral, ao passo que foi obrigado a velar o seu pensamento acerca dos assuntos que não julgou conveniente aprofundar. Persuadidos de que a geração de que faziam parte testemunharia o que Ele anunciava, os discípulos foram levados a interpretar o pensamento de Jesus de acordo com aquela ideia. Assim é que redigiram do ponto de vista do presente o que o Mestre dissera, fazendo-o de maneira mais absoluta do que Ele próprio o teria feito. Seja como for, o fato é que as coisas não se passaram como eles o supuseram.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 46
+
+A grande e importante lei da reencarnação foi um dos pontos capitais que Jesus não pôde desenvolver, porque os homens do seu tempo não se achavam suficientemente preparados para ideias dessa ordem e para as suas consequências. Contudo, assentou o princípio da referida lei, como o fez relativamente a tudo mais. Estudada e posta em evidência nos dias atuais pelo Espiritismo, a lei da reencarnação constitui a chave para o entendimento de muitas passagens do Evangelho que, sem ela, parecem verdadeiros contrassensos.
+
+É por meio dessa lei que se encontra a explicação racional das palavras acima, admitidas que sejam como textuais. Uma vez que elas não podem ser aplicadas às pessoas dos apóstolos, é evidente que se referem ao futuro reinado do Cristo, isto é, ao tempo em que a sua doutrina, mais bem compreendida, for lei universal. Dizendo que alguns dos ali presentes na ocasião veriam o seu advento, Ele forçosamente se referia aos que estarão vivos de novo nessa época. Os judeus, porém, imaginavam que lhes seria dado ver tudo o que Jesus anunciava e tomavam ao pé da letra suas frases alegóricas.
+
+Aliás, algumas de suas predições se realizaram no devido tempo, tais como a ruína de Jerusalém, as desgraças que se lhe seguiram e a dispersão dos judeus. Sua visão, porém, se projetava muito mais longe, de sorte que, quando falava do presente, sempre aludia ao futuro.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Sinais precursores
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 47
+
+>
+>
+Mateus, 24:6 a 8
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 48
+
+>
+>
+Marcos, 13:12 e 13
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 49
+
+>
+>
+Mateus, 24:15 a 22
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 50
+
+>
+>
+Mateus, 24:29 a 34
+
+>
+>
+Mateus, 24:37 a 39
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 51
+
+>
+>
+Marcos, 13:32
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 52
+
+>
+>
+João, 16:20 a 22
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 53
+
+>
+>
+Mateus, 24:11 a 14
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 54
+
+É evidentemente alegórico este quadro do fim dos tempos, como a maioria dos que Jesus compunha. Pelo seu vigor, as imagens que Ele encerra são de natureza a impressionar inteligências ainda rudes. Para tocar fortemente aquelas imaginações pouco sutis, eram necessárias pinturas vigorosas, de cores bem acentuadas. Ele se dirigia principalmente ao povo, aos homens menos esclarecidos, incapazes de compreender as abstrações metafísicas e de apanhar a delicadeza das formas. A fim de atingir o coração, fazia-se-lhe mister falar aos olhos, com o auxílio de sinais materiais, e aos ouvidos, por meio da força da linguagem.
+
+Como consequência natural daquela disposição de espírito, à suprema potestade, segundo a crença de então, não era possível manifestar-se, a não ser por meio de fatos extraordinários, sobrenaturais. Quanto mais impossíveis fossem esses fatos, tanto mais facilmente aceita era a probabilidade deles.
+
+O Filho do Homem, a vir sobre nuvens, com grande majestade, cercado de seus anjos e ao som de trombetas, lhes parecia de muito maior imponência, do que a simples vinda de uma entidade investida apenas de poder moral. Por isso mesmo, os judeus, que esperavam no Messias um rei terreno, mais poderoso do que todos os outros reis, destinado a colocar-lhes a nação à frente de todas as demais e a reerguer o trono de Davi e de Salomão, não quiseram reconhecê-lo no humilde filho de um carpinteiro, sem autoridade material.
+
+No entanto, aquele pobre proletário da Judeia se tornou o maior entre os grandes; conquistou para a sua soberania maior número de reinos, do que os mais poderosos potentados; exclusivamente com a sua palavra e o concurso de alguns miseráveis pescadores, revolucionou o mundo e a Ele é que os judeus virão a dever sua reabilitação. Disse, pois, uma verdade, quando, respondendo a esta pergunta de Pilatos: “És rei?” respondeu: “Tu o dizes.”
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 55
+
+É de notar-se que, entre os antigos, os tremores de terra e o obscurecimento do Sol eram acessórios forçados de todos os acontecimentos e de todos os presságios sinistros. Com eles deparamos, por ocasião da morte de Jesus, da de César e num sem-número de outras circunstâncias da história do paganismo. Se tais fenômenos se houvessem produzido tão amiudadas vezes quantas são relatados, fora de ter-se por impossível que os homens não houvessem guardado deles lembrança pela tradição. Aqui, acrescenta-se a queda de estrelas do céu, como que a mostrar às gerações futuras, mais esclarecidas, que não há nisso senão uma ficção, pois que agora se sabe que as estrelas não podem cair.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 56
+
+Entretanto, sob essas alegorias, grandes verdades se ocultam. Há, primeiramente, a predição das calamidades de todo gênero que assolarão e dizimarão a humanidade, calamidades decorrentes da luta suprema entre o bem e o mal, entre a fé e a incredulidade, entre as ideias progressistas e as ideias retrógradas. Há, em segundo lugar, a da difusão, por toda a Terra, do Evangelho restaurado na sua pureza primitiva; depois, a do reinado do bem, que será o da paz e da fraternidade universais, a derivar do código de moral evangélica, posto em prática por todos os povos. Será, verdadeiramente, o reino de Jesus, pois que Ele presidirá à sua implantação, passando os homens a viver sob a égide da sua lei. Será o reinado da felicidade, porquanto diz Ele que — “depois dos dias de aflição, virão os de alegria”.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 57
+
+Quando sucederão tais coisas? “Ninguém o sabe” diz Jesus, “nem mesmo o Filho.” Mas, quando chegar o momento, os homens serão advertidos por meio de sinais precursores. Esses indícios, porém, não estarão nem no Sol, nem nas estrelas; mostrar-se-ão no estado social e nos fenômenos mais de ordem moral do que físicos e que, em parte, se podem deduzir das suas alusões.
+
+É indubitável que aquela mutação não poderia operar-se em vida dos apóstolos, pois, do contrário, Jesus não lhe desconheceria o momento. Aliás, semelhante transformação não era possível se desse dentro de apenas alguns anos. Contudo, dela lhes fala como se eles a houvessem de presenciar; é que, com efeito, eles poderão estar reencarnados quando a transformação se der e, até, colaborar na sua efetivação. Ele ora fala da sorte próxima de Jerusalém, ora toma esse fato por ponto de referência ao que ocorreria no futuro.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 58
+
+Será que, predizendo a sua segunda vinda, era o fim do mundo o que Jesus anunciava, dizendo: “Quando o Evangelho for pregado por toda a Terra, então é que virá o fim?”
+
+Não é racional se suponha que Deus destrua o mundo precisamente quando ele entre no caminho do progresso moral, pela prática dos ensinos evangélicos. Nada, aliás, nas palavras do Cristo, indica uma destruição universal que, em tais condições, não se justificaria.
+
+Devendo a prática geral do Evangelho determinar grande melhora no estado moral dos homens, ela, por isso mesmo, trará o reinado do bem e acarretará a queda do mal. É, pois, o fim do mundo velho, do mundo governado pelos preconceitos, pelo orgulho, pelo egoísmo, pelo fanatismo, pela incredulidade, pela cupidez, por todas as paixões pecaminosas, que o Cristo aludia, ao dizer: “Quando o Evangelho for pregado por toda a Terra, então é que virá o fim.” Esse fim, porém, para chegar, ocasionaria uma luta e é dessa luta que advirão os males por Ele previstos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Vossos filhos e vossas filhas profetizarão
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 59
+
+>
+>
+Atos, 2:17 e 18; Joel, 2:28 e 29
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 60
+
+Se considerarmos o estado atual do mundo físico e do mundo moral, as tendências, aspirações e pressentimentos das massas, a decadência das ideias antigas que em vão se debatem há um século contra as ideias novas, não poderemos duvidar de que uma nova ordem de coisas se prepara e que o mundo velho chega a seu termo.
+
+Se, agora, levando em conta a forma alegórica de alguns quadros e perscrutando o sentido profundo das palavras de Jesus, compararmos a situação atual com os tempos por Ele descritos, como assinaladores da era da renovação, não poderemos deixar de convir em que muitas das suas predições se estão presentemente realizando; donde a conclusão de que atingimos os tempos anunciados, o que confirmam, em todos os pontos do globo, os Espíritos que se manifestam.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 61
+
+Como vimos (cap. I, item 32), coincidindo com outras circunstâncias, o advento do Espiritismo realiza uma das mais importantes predições de Jesus, pela influência que ele forçosamente tem de exercer sobre as ideias. Ele se encontra, além disso, anunciado, nos Atos dos Apóstolos: “Nos últimos tempos, diz o Senhor, derramarei do meu Espírito sobre toda carne; vossos filhos e filhas profetizarão.”
+
+É a predição inequívoca da vulgarização da mediunidade, que presentemente se revela em indivíduos de todas as idades, de ambos os sexos e de todas as condições; a predição, por conseguinte, da manifestação universal dos Espíritos, pois que sem os Espíritos não haveria médiuns. Isso, conforme está dito, acontecerá nos últimos tempos; ora, visto que não chegamos ao fim do mundo, mas, ao contrário, à época da sua regeneração, devemos entender aquelas palavras como indicativas dos últimos tempos do mundo moral que chega a seu termo. (O evangelho segundo o espiritismo, cap. XXI.)
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Juízo final
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 62
+
+>
+>
+Mateus, 25:31 a 46; O evangelho segundo o espiritismo, cap. XV
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 63
+
+Tendo que reinar na Terra o bem, necessário é sejam dela excluídos os Espíritos endurecidos no mal e que possam acarretar-lhe perturbações. Deus permitiu que eles aí permanecessem o tempo de que precisavam para se melhorarem; mas, chegado o momento em que, pelo progresso moral de seus habitantes, o globo terráqueo tem de ascender na hierarquia dos mundos, interdito será ele, como morada, a encarnados e desencarnados que não hajam aproveitado os ensinamentos que uns e outros se achavam em condições de aí receber. Serão exilados para mundos inferiores, como o foram outrora para a Terra os da raça adâmica, vindo substituí-los Espíritos melhores. Essa separação, a que Jesus presidirá, é que se acha figurada por estas palavras sobre o juízo final: “Os bons passarão à minha direita e os maus à minha esquerda.” (Cap. XI, itens 31 e seguintes.)
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 64
+
+A doutrina de um juízo final, único e universal, pondo fim para sempre à humanidade, repugna à razão, por implicar a inatividade de Deus, durante a eternidade que precedeu à criação da Terra e durante a eternidade que se seguirá à sua destruição. Que utilidade teriam então o Sol, a Lua e as estrelas que, segundo a Gênese, foram feitos para iluminar o mundo? Causa espanto que tão imensa obra se haja produzido para tão pouco tempo e a benefício de seres votados de antemão, em sua maioria, aos suplícios eternos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 65
+
+Materialmente, a ideia de um julgamento único seria, até certo ponto, admissível para os que não procuram a razão das coisas, quando se cria que a humanidade toda se achava concentrada na Terra e que para seus habitantes fora feito tudo o que o universo contém. É, porém, inadmissível, desde que se sabe que há milhares de milhares de mundos semelhantes, que perpetuam as humanidades pela eternidade em fora e entre os quais a Terra é dos menos consideráveis, simples ponto imperceptível.
+
+Vê-se, só por este fato, que Jesus tinha razão de declarar a seus discípulos: “Há muitas coisas que não vos posso dizer, porque não as compreenderíeis”, dado que o progresso das ciências era indispensável para uma interpretação legítima de algumas de suas palavras. Certamente, os apóstolos, Paulo e os primeiros discípulos teriam estabelecido de modo muito diverso alguns dogmas se tivessem os conhecimentos astronômicos, geológicos, físicos, químicos, fisiológicos e psicológicos que hoje possuímos. Daí vem o ter Jesus adiado a completação de seus ensinos e anunciado que todas as coisas haviam de ser restabelecidas.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 66
+
+Moralmente, um juízo definitivo e sem apelação não se concilia com a bondade infinita do Criador, que Jesus nos apresenta de contínuo como um bom Pai, que deixa sempre aberta uma senda para o arrependimento e que está pronto sempre a estender os braços ao filho pródigo. Se Jesus entendesse o juízo naquele sentido, desmentiria suas próprias palavras.
+
+Além disso, se o juízo final houvesse de apanhar de improviso os homens, em meio de seus trabalhos ordinários, e grávidas as mulheres, caberia perguntar-se com que fim Deus, que não faz coisa alguma inútil ou injusta, faria nascessem crianças e criaria almas novas naquele momento supremo, no termo fatal da humanidade. Seria para submetê-las a julgamento logo ao saírem do ventre materno, antes de terem consciência de si mesmas, quando, a outros, milhares de anos foram concedidos para se inteirarem do que respeita à própria individualidade? Para que lado, direito ou esquerdo, iriam essas almas, que ainda não são nem boas nem más e para as quais, no entanto, todos os caminhos de ulterior progresso se encontrariam desde então fechados, visto que a humanidade não mais existiria? (Cap. II, item 19.)
+
+Conservem-nas os que se contentam com semelhantes crenças; estão no seu direito e ninguém nada tem que dizer a isso; mas, não achem mau que nem toda gente partilhe delas.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 67
+
+O juízo, pelo processo da emigração, conforme ficou explicado acima (item 63), é racional; funda-se na mais rigorosa justiça, visto que conserva para o Espírito, eternamente, o seu livre-arbítrio; não constitui privilégio para ninguém; a todas as suas criaturas, sem exceção alguma, concede Deus igual liberdade de ação para progredirem; o próprio aniquilamento de um mundo, acarretando a destruição do corpo, nenhuma interrupção ocasionará à marcha progressiva do Espírito. Tais as consequências da pluralidade dos mundos e da pluralidade das existências.
+
+Segundo essa interpretação, não é exata a qualificação de juízo final, pois que os Espíritos passam por análogas fieiras a cada renovação dos mundos por eles habitados, até que atinjam certo grau de perfeição. Não há, portanto, juízo final propriamente dito, mas juízos gerais em todas as épocas de renovação parcial ou total da população dos mundos, por efeito das quais se operam as grandes emigrações e imigrações de Espíritos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+### 3.18. 🗂️ São chegados os tempos {#gen-3-18}
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Sinais dos tempos
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 01
+
+São chegados os tempos, dizem-nos de todas as partes, marcados por Deus, em que grandes acontecimentos se vão dar para regeneração da humanidade. Em que sentido se devem entender essas palavras proféticas? Para os incrédulos, nenhuma importância têm; aos seus olhos, nada mais exprimem que uma crença pueril, sem fundamento. Para a maioria dos crentes, elas apresentam qualquer coisa de místico e de sobrenatural, parecendo-lhes prenunciadoras da subversão das leis da natureza. São igualmente errôneas ambas essas interpretações: a primeira, porque envolve uma negação da Providência; a segunda, porque tais palavras não anunciam a perturbação das leis da natureza, mas o cumprimento dessas leis.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 02
+
+Tudo na Criação é harmonia; tudo revela uma previdência que não se desmente, nem nas menores, nem nas maiores coisas. Temos, pois, que afastar, desde logo, toda ideia de capricho, por inconciliável com a Sabedoria divina. Em segundo lugar, se a nossa época está designada para a realização de certas coisas, é que estas têm uma razão de ser na marcha do conjunto.
+
+Isto posto, diremos que o nosso globo, como tudo o que existe, esta submetido à lei do progresso. Ele progride, fisicamente, pela transformação dos elementos que o compõem e, moralmente, pela depuração dos Espíritos encarnados e desencarnados que o povoam. Ambos esses progressos se realizam paralelamente, porquanto o melhoramento da habitação guarda relação com o do habitante. Fisicamente, o globo terráqueo há experimentado transformações que a Ciência tem comprovado e que o tornaram sucessivamente habitável por seres cada vez mais aperfeiçoados. Moralmente, a humanidade progride pelo desenvolvimento da inteligência, do senso moral e do abrandamento dos costumes. Ao mesmo tempo que o melhoramento do globo se opera sob a ação das forças materiais, os homens para isso concorrem pelos esforços de sua inteligência. Saneiam as regiões insalubres, tornam mais fáceis as comunicações e mais produtiva a terra.
+
+De duas maneiras se executa esse duplo progresso: uma, lenta, gradual e insensível; a outra, caracterizada por mudanças bruscas, a cada uma das quais corresponde um movimento ascensional mais rápido, que assinala, mediante impressões bem acentuadas, os períodos progressivos da humanidade. Esses movimentos, subordinados, quanto às particularidades, ao livre-arbítrio dos homens, são, de certo modo, fatais em seu conjunto, porque estão sujeitos a leis, como os que se verificam na germinação, no crescimento e na maturidade das plantas. Por isso é que o movimento progressivo se efetua, às vezes, de modo parcial, isto é, limitado a uma raça ou a uma nação, doutras vezes, de modo geral.
+
+O progresso da humanidade se cumpre, pois, em virtude de uma lei. Ora, como todas as leis da natureza são obra eterna da sabedoria e da presciência divinas, tudo o que é efeito dessas leis resulta da vontade de Deus, não de uma vontade acidental e caprichosa, mas de uma vontade imutável. Quando, por conseguinte, a humanidade está madura para subir um degrau, pode dizer-se que são chegados os tempos marcados por Deus, como se pode dizer também que, em tal estação, eles chegam para a maturação dos frutos e sua colheita.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 03
+
+Do fato de ser inevitável, porque é da natureza o movimento progressivo da humanidade, não se segue que Deus lhe seja indiferente e que, depois de ter estabelecido leis, se haja recolhido à inação, deixando que as coisas caminhem por si sós. Sem dúvida, suas leis são eternas e imutáveis, mas porque a sua própria vontade é eterna e constante e porque o seu pensamento anima sem interrupção todas as coisas. Esse pensamento, que em tudo penetra, é a força inteligente e permanente que mantém a harmonia em tudo. Cessasse ele um só instante de atuar e o universo seria como um relógio sem pêndulo regulador. Deus, pois, vela incessantemente pela execução de suas leis e os Espíritos que povoam o espaço são seus ministros, encarregados de atender aos pormenores, dentro de atribuições que correspondem ao grau de adiantamento que tenham alcançado.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 04
+
+O universo é, ao mesmo tempo, um mecanismo incomensurável, acionado por um número incontável de inteligências, e um imenso governo em o qual cada ser inteligente tem a sua parte de ação sob as vistas do soberano Senhor, cuja vontade única mantém por toda parte a unidade. Sob o império dessa vasta potência reguladora, tudo se move, tudo funciona em perfeita ordem. Onde nos parece haver perturbações, o que há são movimentos parciais e isolados, que se nos afiguram irregulares apenas porque circunscrita é a nossa visão. Se lhes pudéssemos abarcar o conjunto, veríamos que tais irregularidades são apenas aparentes e que se harmonizam com o todo.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 05
+
+A humanidade tem realizado, até o presente, incontestáveis progressos. Os homens, com a sua inteligência, chegaram a resultados que jamais haviam alcançado, sob o ponto de vista das ciências, das artes e do bem-estar material. Resta-lhes ainda um imenso progresso a realizar: o de fazerem que entre si reinem a caridade, a fraternidade, a solidariedade, que lhes assegurem o bem-estar moral. Não poderiam consegui-lo nem com as suas crenças, nem com as suas instituições antiquadas, restos de outra idade, boas para certa época, suficientes para um estado transitório, mas que, havendo dado tudo o que comportavam, seriam hoje um entrave. Já não é somente de desenvolver a inteligência o de que os homens necessitam, mas de elevar o sentimento e, para isso, faz-se preciso destruir tudo o que superexcite neles o egoísmo e o orgulho.
+
+Tal o período em que doravante vão entrar e que marcará uma das fases principais da vida da humanidade. Essa fase, que neste momento se elabora, é o complemento indispensável do estado precedente, como a idade viril o é da juventude. Ela podia, pois, ser prevista e predita de antemão e é por isso que se diz que são chegados os tempos determinados por Deus.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 06
+
+Nestes tempos, porém, não se trata de uma mudança parcial, de uma renovação limitada a certa região, ou a um povo, a uma raça.
+
+Trata-se de um movimento universal, a operar-se no sentido do progresso moral. Uma nova ordem de coisas tende a estabelecer-se, e os homens, que mais opostos lhe são, para ela trabalham a seu mau grado. A geração futura, desembaraçada das escórias do velho mundo e formada de elementos mais depurados, se achará possuída de ideias e de sentimentos muito diversos dos da geração presente, que se vai a passo de gigante. O velho mundo estará morto e apenas viverá na História, como o estão hoje os tempos da Idade Média, com seus costumes bárbaros e suas crenças supersticiosas.
+
+Aliás, todos sabem quanto ainda deixa a desejar a atual ordem de coisas. Depois de se haver, de certo modo, considerado todo o bem-estar material, produto da inteligência, logra-se compreender que o complemento desse bem-estar somente pode achar-se no desenvolvimento moral. Quanto mais se avança, tanto mais se sente o que falta, sem que, entretanto, se possa ainda definir claramente o que seja: é isso efeito do trabalho íntimo que se opera em prol da regeneração. Surgem desejos, aspirações, que são como que o pressentimento de um estado melhor.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 07
+
+Mas uma mudança tão radical como a que se está elaborando não pode realizar-se sem comoções. Há, inevitavelmente, luta de ideias. Desse conflito forçosamente se originarão passageiras perturbações, até que o terreno se ache aplanado e restabelecido o equilíbrio. É, pois, da luta das ideias que surgirão os graves acontecimentos preditos e não de cataclismos ou catástrofes puramente materiais. Os cataclismos gerais foram consequência do estado de formação da Terra. Hoje, não são mais as entranhas do planeta que se agitam: são as da humanidade.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 08
+
+Se a Terra já não tem que temer os cataclismos gerais, nem por isso deixa de estar sujeita a periódicas revoluções, cujas causas, do ponto de vista científico, se encontram explicadas nas instruções seguintes, promanantes de dois Espíritos eminentes: ^187
+
+“Cada corpo celeste, além das leis simples que presidem à divisão dos dias e das noites, das estações etc., experimenta revoluções que demandam milhares de séculos para sua realização completa, porém que, como as revoluções mais breves, passam por todos os períodos, desde o de nascimento até o de um máximo de efeito, após o qual há decrescimento, até o limite extremo, para recomeçar em seguida o percurso das mesmas fases.
+
+“O homem apenas apreende as fases de duração relativamente curta e cuja periodicidade ele pode comprovar. Algumas, no entanto, há que abrangem longas gerações de seres e, até, sucessões de raças, revoluções essas cujos efeitos, conseguintemente, se lhe apresentam com caráter de novidade e de espontaneidade, ao passo que, se seu olhar pudesse projetar-se para trás alguns milhares de séculos, veria, entre aqueles mesmos efeitos e suas causas, uma correlação de que nem suspeita. Esses períodos que, pela sua extensão relativa, confundem a imaginação dos humanos, não são, contudo, mais do que instantes na duração eterna.
+
+“Num mesmo sistema planetário, todos os corpos que o constituem reagem uns sobre os outros; todas as influências físicas são nele solidárias e nem um só há, dos efeitos que designais pelo nome de grandes perturbações, que não seja consequência da componente das influências de todo o sistema.
+
+“Vou mais longe: digo que os sistemas planetários reagem uns sobre os outros, na razão da proximidade ou do afastamento resultantes do movimento de translação deles, através das miríades de sistemas que compõem a nossa nebulosa. Ainda vou mais longe: digo que a nossa nebulosa, que é um como arquipélago na imensidade, tendo também seu movimento de translação através das miríades de nebulosas, sofre a influência das de que ela se aproxima.
+
+“De sorte que as nebulosas reagem sobre as nebulosas, os sistemas reagem sobre os sistemas, como os planetas reagem sobre os planetas, como os elementos de cada planeta reagem uns sobre os outros e assim sucessivamente até o átomo. Daí, em cada mundo, revoluções locais ou gerais, que sê não parecem perturbações porque a brevidade da vida não permite se lhes percebam mais do que os efeitos parciais.
+
+“A matéria orgânica não poderia escapar a essas influências; as perturbações que ela sofre podem, pois, alterar o estado físico dos seres vivos e determinar algumas dessas enfermidades que atacam de modo geral as plantas, os animais e os homens, enfermidades que, como todos os flagelos, são, para a inteligência humana, um estimulante que a impele, por força da necessidade, a procurar meios de os combater e a descobrir leis da natureza.
+
+“Mas a matéria orgânica, a seu turno, reage sobre o Espírito. Este, pelo seu contato e sua ligação íntima com os elementos materiais, também sofre influências que lhe modificam as disposições, sem, no entanto, privá-lo do livre-arbítrio, que lhe sobre-excitam ou atenuam a atividade e que, pois, contribuem para o seu desenvolvimento. A efervescência que por vezes se manifesta em toda uma população, entre os homens de uma mesma raça, não é coisa fortuita, nem resultado de um capricho; tem sua causa nas leis da natureza. Essa efervescência, inconsciente a princípio, não passando de vago desejo, de aspiração indefinida por alguma coisa melhor, de certa necessidade de mudança, traduz-se por uma surda agitação, depois por atos que levam às revoluções sociais, que, acreditai-o, também têm sua periodicidade, como as revoluções físicas, pois que tudo se encadeia. Se não tivésseis a visão espiritual limitada pelo véu da matéria, veríeis as correntes fluídicas que, como milhares de fios condutores, ligam as coisas do mundo espiritual às do mundo material.
+
+“Quando se vos diz que a humanidade chegou a um período de transformação e que a Terra tem que se elevar na hierarquia dos mundos, nada de místico vejais nessas palavras; vede, ao contrário, a execução da uma das grandes leis fatais do universo, contra as quais se quebra toda a má vontade humana.” ^188
+
+**Arago**
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 09
+
+Sim, decerto, a humanidade se transforma, como já se transformou noutras épocas, e cada transformação se assinala por uma crise que é, para o gênero humano, o que são, para os indivíduos, as crises de crescimento. Aquelas se tornam, muitas vezes, penosas, dolorosas, e arrebatam consigo as gerações e as instituições, mas, são sempre seguidas de uma fase de progresso material e moral.
+
+A humanidade terrestre, tendo chegado a um desses períodos de crescimento, está em cheio, há quase um século, no trabalho da sua transformação, pelo que a vemos agitar-se de todos os lados, presa de uma espécie de febre e como que impelida por invisível força. Assim continuará, até que se haja outra vez estabilizado em novas bases. Quem a observar, então, achá-la-á muito mudada em seus costumes, em seu caráter, nas suas leis, em suas crenças, numa palavra: em todo o seu estado social.
+
+“Uma coisa que vos parecerá estranhável, mas que por isso não deixa de ser rigorosa verdade, é que o mundo dos Espíritos, mundo que vos rodeia, experimenta o contrachoque de todas as comoções que abalam o mundo dos encarnados. Digo mesmo que aquele toma parte ativa nessas comoções. Nada tem isto de surpreendente, para quem sabe que os Espíritos fazem corpo com a humanidade; que eles saem dela e a ela têm de voltar, sendo, pois, natural se interessem pelos movimentos que se operam entre os homens. Ficai, portanto, certos de que, quando uma revolução social se produz na Terra, abala igualmente o mundo invisível, onde todas as paixões, boas e más, se exacerbam, como entre vós. Indizível efervescência entra a reinar na coletividade dos Espíritos que ainda pertencem ao vosso mundo e que aguardam o momento de a ele volver.
+
+“À agitação dos encarnados e desencarnados se juntam às vezes, e frequentemente mesmo, já que tudo se conjuga em a natureza, as perturbações dos elementos físicos. Dá-se então, durante algum tempo, verdadeira confusão geral, mas que passa como furacão, após o qual o céu volta a estar sereno, e a humanidade, reconstituída sobre novas bases, imbuída de novas ideias, começa a percorrer nova etapa de progresso.
+
+“É no período que ora se inicia que o Espiritismo florescerá e dará frutos. Trabalhais, portanto, mais para o futuro, do que para o presente. Era, porém, necessário que esses trabalhos se preparassem antecipadamente, porque eles traçam as sendas da regeneração, pela unificação e racionalidade das crenças. Ditosos os que deles aproveitam desde já. Tantas penas se pouparão esses, quantos forem os proveitos que deles aufiram.”
+
+**Doutor Barry**
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 10
+
+Do que precede resulta que, em consequência do movimento de translação que executam no espaço, os corpos celestes exercem, uns sobre os outros, maior ou menor influência, conforme a proximidade em que se achem entre si e as suas respectivas posições; que essa influência pode acarretar uma perturbação momentânea aos seus elementos constitutivos e modificar as condições de vitalidade dos seus habitantes; que a regularidade dos movimentos determina a volta periódica das mesmas causas e dos mesmos efeitos; que, se demasiado curta é a duração de certos períodos para que os homens os apreciem, outros veem passar gerações e raças que deles não se apercebem e às quais se afigura normal o estado de coisas que observam. Ao contrário, as gerações contemporâneas da transição lhe sofrem o contrachoque e tudo lhes parece fora das leis ordinárias. Essas gerações veem uma causa sobrenatural, maravilhosa, miraculosa no que, em realidade, mais não é do que a execução das leis da natureza.
+
+Se, pelo encadeamento e a solidariedade das causas e dos efeitos, os períodos de renovação moral da humanidade coincidem, como tudo leva a crer, com as revoluções físicas do globo, podem os referidos períodos ser acompanhados ou precedidos de fenômenos naturais, insólitos para os que com eles não se acham familiarizados, de meteoros que parecem estranhos, de recrudescência e intensificação desusadas dos flagelos destruidores, que não são nem causa, nem presságios sobrenaturais, mas uma consequência do movimento geral que se opera no mundo físico e no mundo moral.
+
+Anunciando a época de renovação que se havia de abrir para a humanidade e determinar o fim do velho mundo, a Jesus, pois, foi lícito dizer que ela se assinalaria por fenômenos extraordinários, tremores de terra, flagelos diversos, sinais no céu, que mais não são do que meteoros, sem ab-rogação das leis naturais. O vulgo, porém, ignorante, viu nessas palavras a predição de fatos miraculosos. ^189
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 11
+
+A previsão dos movimentos progressivos da humanidade nada apresenta de surpreendente, quando feita por seres desmaterializados, que veem o fim a que tendem todas as coisas, tendo alguns deles conhecimento direto do pensamento de Deus. Pelos movimentos parciais, esses seres veem em que época poderá operar-se um movimento geral, do mesmo modo que o homem pode calcular de antemão o tempo que uma árvore levará para dar frutos, do mesmo modo que os astrônomos calculam a época de um fenômeno astronômico, pelo tempo que um astro gasta para efetuar a sua revolução.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 12
+
+A humanidade é um ser coletivo em quem se operam as mesmas revoluções morais por que passa todo ser individual, com a diferença de que umas se realizam de ano em ano e as outras de século em século. Acompanhe-se a humanidade em suas evoluções através dos tempos e ver-se-á a vida das diversas raças marcada por períodos que dão a cada época uma fisionomia especial. ^190
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 28
+
+A palavra de Jesus se tornou a pedra angular, isto é, a pedra de consolidação do novo edifício da fé, erguido sobre as ruínas do antigo. Havendo os judeus, os príncipes dos sacerdotes e os fariseus rejeitado essa pedra, ela os esmagou, do mesmo modo que esmagará os que, depois, a desconheceram, ou lhe desfiguraram o sentido em prol de suas ambições.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Parábola dos vinhateiros homicidas
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 29
+
+>
+>
+Mateus, 21:33 a 41
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 30
+
+O pai de família é Deus; a vinha que Ele plantou é a lei que estabeleceu; os vinhateiros a quem arrendou a vinha são os homens que devem ensinar e praticar a lei; os servos que enviou aos arrendatários são os profetas que estes últimos massacraram; seu filho, enviado por último, é Jesus, a quem eles igualmente eliminaram. Como tratará o Senhor os seus mandatários prevaricadores da lei? Tratá-los-á como seus enviados foram por eles tratados e chamará outros arrendatários que lhe prestem melhores contas de sua propriedade e do proceder do seu rebanho.
+
+Assim aconteceu com os escribas, com os príncipes dos sacerdotes e com os fariseus; assim será, quando Ele vier de novo pedir a cada um contas do que fez da sua doutrina; retirará toda a autoridade ao que dela houver abusado, porquanto Ele quer que seu campo seja administrado de acordo com a sua vontade.
+
+Ao cabo de dezoito séculos, tendo chegado à idade viril, a humanidade está suficientemente madura para compreender o que o Cristo apenas esflorou, porque então, como Ele próprio o disse, não o teriam compreendido. Ora, a que resultado chegaram os que, durante esse longo período, tiveram a seu cargo a educação religiosa da mesma humanidade? Ao de verem que a indiferença sucedeu à fé e que a incredulidade se alçou em doutrina. Em nenhuma outra época, com efeito, o ceticismo e o espírito de negação estiveram mais espalhados em todas as classes da sociedade.
+
+Mas se algumas das palavras do Cristo se apresentam encobertas pelo véu da alegoria, pelo que concerne à regra de proceder, às relações de homem para homem, aos princípios morais a que Ele expressamente condicionou a salvação, seus ensinos são claros, explícitos, sem ambiguidade. (O evangelho segundo o espiritismo, cap. XV.)
+
+Que fizeram das suas máximas de caridade, de amor e de tolerância; das recomendações que fez a seus apóstolos para que convertessem os homens pela brandura e pela persuasão; da simplicidade, da humildade, do desinteresse e de todas as virtudes que Ele exemplificou? Em seu nome, os homens se anatematizaram mutuamente e reciprocamente se amaldiçoaram; estrangularam-se em nome daquele que disse: “Todos os homens são irmãos.” Do Deus infinitamente justo, bom e misericordioso que Ele revelou, fizeram um Deus cioso, cruel, vingativo e parcial; àquele Deus, de paz e de verdade, sacrificaram nas fogueiras, pelas torturas e perseguições, muito maior número de vítimas, do que as que em todos os tempos os pagãos sacrificaram aos seus falsos deuses; venderam-se as orações e as graças do céu em nome daquele que expulsou do Templo os vendedores e que disse a seus discípulos: “Dai de graça o que de graça recebestes.”
+
+Que diria o Cristo, se viesse hoje entre nós? Se visse os que se dizem seus representantes a ambicionar as honras, as riquezas, o poder e o fausto dos príncipes do mundo, ao passo que Ele, mais rei do que todos os reis da Terra, fez a sua entrada em Jerusalém montado num jumento? Não teria o direito de dizer-lhes: “Que fizestes dos meus ensinos, vós que incensais o bezerro de ouro, que dais a maior parte das vossas preces aos ricos, reservando uma parte insignificante aos pobres, sem embargo de haver eu dito: Os primeiros serão os últimos e os últimos serão os primeiros no reino dos céus?” Mas, se Ele não está carnalmente entre nós, está em Espírito e, como o senhor da parábola, virá pedir contas aos seus vinhateiros do produto da sua vinha, quando chegar o tempo da colheita.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Um só rebanho e um só pastor
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 31
+
+>
+>
+João, 10:16
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 32
+
+Por essas palavras, Jesus claramente anuncia que os homens um dia se unirão por uma crença única; mas como poderá efetuar-se essa união? Difícil parecerá isso, tendo-se em vista as diferenças que existem entre as religiões, o antagonismo que elas alimentam entre seus adeptos, a obstinação que manifestam em se acreditarem na posse exclusiva da verdade. Todas querem a unidade, mas cada uma se lisonjeia de que essa unidade se fará em seu proveito e nenhuma admite a possibilidade de fazer qualquer concessão, no que respeita às suas crenças.
+
+Entretanto, a unidade se fará em religião, como já tende a fazer-se socialmente, politicamente, comercialmente, pela queda das barreiras que separam os povos, pela assimilação dos costumes, dos usos, da linguagem. ^184 Os povos do mundo inteiro já confraternizam, como os das províncias de um mesmo império. Pressente-se essa unidade e todos a desejam. Ela se fará pela força das coisas, porque há de tornar-se uma necessidade, para que se estreitem os laços da fraternidade entre as nações; far-se-á pelo desenvolvimento da razão humana, que se tornará apta a compreender a puerilidade de todas as dissidências; pelo progresso das ciências, a demonstrar cada dia mais os erros materiais sobre que tais dissidências assentam e a destacar pouco a pouco das suas fiadas as pedras estragadas. Demolindo nas religiões o que é obra dos homens e fruto de sua ignorância das leis da natureza, a Ciência não poderá destruir, malgrado a opinião de alguns, o que é obra de Deus e eterna verdade. Afastando os acessórios, ela prepara as vias para a unidade.
+
+A fim de chegarem a esta, as religiões terão que encontrar-se num terreno neutro, se bem que comum a todas; para isso, todas terão que fazer concessões e sacrifícios mais ou menos importantes, conformemente à multiplicidade dos seus dogmas particulares. Mas, em virtude do processo de imutabilidade que todas professam, a iniciativa das concessões não poderá partir do campo oficial; em lugar de tomarem no alto o ponto de partida, tomá-lo-ão embaixo por iniciativa individual. Desde algum tempo, um movimento se vem operando de descentralização, tendente a adquirir irresistível força. O princípio da imutabilidade, que as religiões hão sempre considerado uma égide conservadora, tornar-se-á elemento de destruição, dado que, imobilizando-se, ao passo que a sociedade caminha para a frente, os cultos serão ultrapassados e depois absorvidos pela corrente das ideias de progressão.
+
+A imobilidade, em vez de ser uma força, torna-se uma causa de fraqueza e de ruína para quem não acompanha o movimento geral; ela quebra a unidade, porque os que querem avançar se separam dos que se obstinam em permanecer parados.
+
+No estado atual da opinião e dos conhecimentos, a religião, que terá de congregar um dia todos os homens sob o mesmo estandarte, será a que melhor satisfaça à razão e às legítimas aspirações do coração e do espírito; que não seja em nenhum ponto desmentida pela ciência positiva; que, em vez de se imobilizar, acompanhe a humanidade em sua marcha progressiva, sem nunca deixar que a ultrapassem; que não for nem exclusivista, nem intolerante; que for a emancipadora da inteligência, com o não admitir senão a fé racional; aquela cujo código de moral seja o mais puro, o mais lógico, o mais de harmonia com as necessidades sociais, o mais apropriado, enfim, a fundar na Terra o reinado do Bem, pela prática da caridade e da fraternidade universais.
+
+O que alimenta o antagonismo entre as religiões é a ideia, generalizada por todas elas, de que cada uma tem o seu deus particular e a pretensão de que este é o único verdadeiro e o mais poderoso, em luta constante com os deuses dos outros cultos e ocupado em lhes combater a influência. Quando elas se houverem convencido de que só existe um Deus no universo e que, em definitiva, Ele é o mesmo que elas adoram sob os nomes de Jeová, Alá ou Deus; quando se puserem de acordo sobre os atributos essenciais da Divindade, compreenderão que, sendo um único o Ser, uma única tem que ser a vontade suprema; estender-se-ão as mãos umas às outras, como os servidores de um mesmo Mestre e os filhos de um mesmo Pai e, assim, grande passo terão dado para a unidade.
+
+^184: N.E.: Kardec pressentia a supressão das barreiras linguísticas vinte anos antes do aparecimento do Esperanto, quando Zamenhof tinha somente sete anos. Hoje a profecia se cumpre sob nossos olhos com o progresso constante do Esperanto.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Advento de Elias
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 33
+
+>
+>
+Mateus, 17:10 a 13
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 34
+
+Elias já voltara na pessoa de João Batista. Seu novo advento é anunciado de modo explícito. Ora, como ele não pode voltar, senão tomando um novo corpo, aí temos a consagração formal do princípio da pluralidade das existências. (O evangelho segundo o espiritismo, cap. IV, item 10.)
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Anunciação do Consolador
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 35
+
+>
+>
+João, 14:15 a 17 e 26; O evangelho segundo o espiritismo, cap. VI.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 36
+
+>
+>
+João, 16:7 a 14
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 37
+
+Esta predição, não há contestar, é uma das mais importantes, do ponto de vista religioso, porquanto comprova, sem a possibilidade do menor equívoco, que Jesus não disse tudo o que tinha a dizer, pela razão de que não o teriam compreendido nem mesmo seus apóstolos, visto que a eles é que o Mestre se dirigia. Se lhes houvesse dado instruções secretas, os Evangelhos fariam referência a tais instruções. Ora, desde que Ele não disse tudo a seus apóstolos, os sucessores destes não terão podido saber mais do que eles, com relação ao que foi dito; ter-se-ão possivelmente enganado, quanto ao sentido das palavras do Senhor, ou dado interpretação falsa aos seus pensamentos, muitas vezes velados sob a forma parabólica. As religiões que se fundaram no Evangelho não podem, pois, dizer-se possuidoras de toda a verdade, porquanto Ele, Jesus, reservou para si a completação ulterior de seus ensinamentos. O princípio da imutabilidade, em que elas se firmam, constitui um desmentido às próprias palavras do Cristo.
+
+Sob o nome de Consolador e de Espírito de Verdade, Jesus anunciou a vinda daquele que havia de ensinar todas as coisas e de lembrar o que Ele dissera. Logo, não estava completo o seu ensino. E, ao demais, prevê não só que ficaria esquecido, como também que seria desvirtuado o que por Ele fora dito, visto que o Espírito de Verdade viria tudo lembrar e, de combinação com Elias, restabelecer todas as coisas, isto é, pô-las de acordo com o verdadeiro pensamento de seus ensinos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 38
+
+Quando terá de vir esse novo revelador? É evidente que se, na época em que Jesus falava, os homens não se achavam em estado de compreender as coisas que lhe restavam a dizer, não seria em alguns anos apenas que poderiam adquirir as luzes necessárias a entendê-las. Para a inteligência de certas partes do Evangelho, excluídos os preceitos morais, faziam-se mister conhecimentos que só o progresso das ciências facultaria e que tinham de ser obra do tempo e de muitas gerações. Se, portanto, o novo Messias tivesse vindo pouco tempo depois do Cristo, houvera encontrado o terreno ainda nas mesmas condições e não teria feito mais do que o mesmo Cristo. Ora, desde aquela época até os nossos dias, nenhuma grande revelação se produziu que haja completado o Evangelho e elucidado suas partes obscuras, indício seguro de que o Enviado ainda não aparecera.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 39
+
+Qual deverá ser esse Enviado? Dizendo: “Pedirei a meu Pai e Ele vos enviará outro Consolador”, Jesus claramente indica que esse Consolador não seria Ele, pois, do contrário, dissera: “Voltarei a completar o que vos tenho ensinado.” Não só tal não disse, como acrescentou: “A fim de que fique eternamente convosco e ele estará em vós.” Esta proposição não poderia referir-se a uma individualidade encarnada, visto que não poderia ficar eternamente conosco, nem, ainda menos, estar em nós; compreendemo-la, porém, muito bem com referência a uma doutrina, a qual, com efeito, quando a tenhamos assimilado, poderá estar eternamente em nós. O Consolador é, pois, segundo o pensamento de Jesus, a personificação de uma doutrina soberanamente consoladora, cujo inspirador há de ser o Espírito de Verdade.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 40
+
+O Espiritismo realiza, como ficou demonstrado (cap. I, item 30), todas as condições do Consolador que Jesus prometeu. Não é uma doutrina individual, nem de concepção humana; ninguém pode dizer-se seu criador. É fruto do ensino coletivo dos Espíritos, ensino a que preside o Espírito de Verdade. Nada suprime do Evangelho: antes o completa e elucida. Com o auxílio das novas leis que revela, conjugadas essas leis às que a Ciência já descobrira, faz se compreenda o que era ininteligível e se admita a possibilidade daquilo que a incredulidade considerava inadmissível. Teve precursores e profetas, que lhe pressentiram a vinda. Pela sua força moralizadora, ele prepara o reinado do bem na Terra.
+
+A doutrina de Moisés, incompleta, ficou circunscrita ao povo judeu; a de Jesus, mais completa, se espalhou por toda a Terra, mediante o Cristianismo, mas não converteu a todos; o Espiritismo, ainda mais completo, com raízes em todas as crenças, converterá a humanidade. ^185
+
+^185: A.K.: Todas as doutrinas filosóficas e religiosas trazem o nome do seu fundador. Diz-se: o Moisaísmo, o Cristianismo, o Maometismo, o Budismo, o Cartesianismo, o Furrierismo, o Sansimonismo etc. A palavra Espiritismo, ao contrário, não lembra nenhuma personalidade; encerra uma ideia geral, que ao mesmo tempo indica o caráter e o tronco multíplice da Doutrina.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 41
+
+Dizendo a seus apóstolos: “Outro virá mais tarde, que vos ensinará o que agora não posso ensinar”, proclamava Jesus a necessidade da reencarnação. Como poderiam aqueles homens aproveitar do ensino mais completo que ulteriormente seria ministrado; como estariam aptos a compreendê-lo, se não tivessem de viver novamente? Jesus houvera proferido uma coisa inconsequente se, de acordo com a doutrina vulgar, os homens futuros houvessem de ser homens novos, almas saídas do nada por ocasião do nascimento. Admita-se, ao contrário, que os apóstolos e os homens do tempo deles tenham vivido depois; que ainda hoje revivem, e plenamente justificada estará a promessa de Jesus. Tendo-se desenvolvido ao contato do progresso social, a inteligência deles pode presentemente comportar o que então não podia. Sem a reencarnação a promessa de Jesus fora ilusória.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 42
+
+Se disserem que essa promessa se cumpriu no dia de Pentecostes, por meio da descida do Espírito Santo, poder-se-á responder que o Espírito Santo os inspirou, que lhes desanuviou a inteligência, que desenvolveu neles as aptidões mediúnicas destinadas a facilitar-lhes a missão, porém que nada lhes ensinou além daquilo que Jesus já ensinara, porquanto, no que deixaram, nenhum vestígio se encontra de um ensinamento especial. O Espírito Santo, pois, não realizou o que Jesus anunciara relativamente ao Consolador; a não ser assim, os apóstolos teriam elucidado o que, no Evangelho, permaneceu obscuro até o dia de hoje e cuja interpretação contraditória deu origem às inúmeras seitas que dividiram o Cristianismo desde os primeiros séculos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Segundo advento do Cristo
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 43
+
+>
+>
+Mateus, 16:24 a 28
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 44
+
+>
+>
+Marcos, 16:60 a 63
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 45
+
+Jesus anuncia o seu segundo advento, mas não diz que voltará à Terra com um corpo carnal, nem que personificará o Consolador. Apresenta-se como tendo de vir em Espírito, na glória de seu Pai, a julgar o mérito e o demérito e dar a cada um segundo as suas obras, quando os tempos forem chegados.
+
+Estas palavras: “Alguns há dos que aqui estão que não sofrerão a morte sem terem visto vir o Filho do Homem no seu reinado” parecem encerrar uma contradição, pois é incontestável que Ele não veio em vida de nenhum daqueles que estavam presentes. Jesus, entretanto, não podia enganar-se numa previsão daquela natureza e, sobretudo, com relação a uma coisa contemporânea e que lhe dizia pessoalmente respeito. Há, primeiro, que indagar se suas palavras foram sempre reproduzidas fielmente. É de duvidar-se, desde que se considere que Ele nada escreveu; que elas só foram registradas depois de sua morte; que o mesmo discurso cada evangelista o exarou em termos diferentes, o que constitui prova evidente de que as expressões de que eles se serviram não são textualmente as de que se serviu Jesus. Além disso, é provável que o sentido tenha sofrido alterações ao passar pelas traduções sucessivas.
+
+Por outro lado, é indubitável que, se Jesus houvesse dito tudo o que pudera dizer, Ele se teria expressado sobre todas as coisas de modo claro e preciso, sem dar lugar a qualquer equívoco, conforme o fez com relação aos princípios de moral, ao passo que foi obrigado a velar o seu pensamento acerca dos assuntos que não julgou conveniente aprofundar. Persuadidos de que a geração de que faziam parte testemunharia o que Ele anunciava, os discípulos foram levados a interpretar o pensamento de Jesus de acordo com aquela ideia. Assim é que redigiram do ponto de vista do presente o que o Mestre dissera, fazendo-o de maneira mais absoluta do que Ele próprio o teria feito. Seja como for, o fato é que as coisas não se passaram como eles o supuseram.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 46
+
+A grande e importante lei da reencarnação foi um dos pontos capitais que Jesus não pôde desenvolver, porque os homens do seu tempo não se achavam suficientemente preparados para ideias dessa ordem e para as suas consequências. Contudo, assentou o princípio da referida lei, como o fez relativamente a tudo mais. Estudada e posta em evidência nos dias atuais pelo Espiritismo, a lei da reencarnação constitui a chave para o entendimento de muitas passagens do Evangelho que, sem ela, parecem verdadeiros contrassensos.
+
+É por meio dessa lei que se encontra a explicação racional das palavras acima, admitidas que sejam como textuais. Uma vez que elas não podem ser aplicadas às pessoas dos apóstolos, é evidente que se referem ao futuro reinado do Cristo, isto é, ao tempo em que a sua doutrina, mais bem compreendida, for lei universal. Dizendo que alguns dos ali presentes na ocasião veriam o seu advento, Ele forçosamente se referia aos que estarão vivos de novo nessa época. Os judeus, porém, imaginavam que lhes seria dado ver tudo o que Jesus anunciava e tomavam ao pé da letra suas frases alegóricas.
+
+Aliás, algumas de suas predições se realizaram no devido tempo, tais como a ruína de Jerusalém, as desgraças que se lhe seguiram e a dispersão dos judeus. Sua visão, porém, se projetava muito mais longe, de sorte que, quando falava do presente, sempre aludia ao futuro.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Sinais precursores
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 47
+
+>
+>
+Mateus, 24:6 a 8
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 48
+
+>
+>
+Marcos, 13:12 e 13
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 49
+
+>
+>
+Mateus, 24:15 a 22
+
+^186: A.K.: Esta expressão: a abominação da desolação não só carece de sentido, como se presta ao ridículo. A tradução de Osterwald diz: “A abominação que causa a desolação”, o que é muito diferente. O sentido então se torna perfeitamente claro, porquanto se compreende que as abominações hajam de acarretar a desolação, como castigo. Quando a abominação, diz Jesus, se instalar no lugar santo, também a desolação para aí virá e isso constituirá um sinal de que estão próximos os tempos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 50
+
+>
+>
+Mateus, 24:29 a 34
+
+>
+>
+Mateus, 24:37 a 39
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 51
+
+>
+>
+Marcos, 13:32
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 52
+
+>
+>
+João, 16:20 a 22
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 53
+
+>
+>
+Mateus, 24:11 a 14
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 54
+
+É evidentemente alegórico este quadro do fim dos tempos, como a maioria dos que Jesus compunha. Pelo seu vigor, as imagens que Ele encerra são de natureza a impressionar inteligências ainda rudes. Para tocar fortemente aquelas imaginações pouco sutis, eram necessárias pinturas vigorosas, de cores bem acentuadas. Ele se dirigia principalmente ao povo, aos homens menos esclarecidos, incapazes de compreender as abstrações metafísicas e de apanhar a delicadeza das formas. A fim de atingir o coração, fazia-se-lhe mister falar aos olhos, com o auxílio de sinais materiais, e aos ouvidos, por meio da força da linguagem.
+
+Como consequência natural daquela disposição de espírito, à suprema potestade, segundo a crença de então, não era possível manifestar-se, a não ser por meio de fatos extraordinários, sobrenaturais. Quanto mais impossíveis fossem esses fatos, tanto mais facilmente aceita era a probabilidade deles.
+
+O Filho do Homem, a vir sobre nuvens, com grande majestade, cercado de seus anjos e ao som de trombetas, lhes parecia de muito maior imponência, do que a simples vinda de uma entidade investida apenas de poder moral. Por isso mesmo, os judeus, que esperavam no Messias um rei terreno, mais poderoso do que todos os outros reis, destinado a colocar-lhes a nação à frente de todas as demais e a reerguer o trono de Davi e de Salomão, não quiseram reconhecê-lo no humilde filho de um carpinteiro, sem autoridade material.
+
+No entanto, aquele pobre proletário da Judeia se tornou o maior entre os grandes; conquistou para a sua soberania maior número de reinos, do que os mais poderosos potentados; exclusivamente com a sua palavra e o concurso de alguns miseráveis pescadores, revolucionou o mundo e a Ele é que os judeus virão a dever sua reabilitação. Disse, pois, uma verdade, quando, respondendo a esta pergunta de Pilatos: “És rei?” respondeu: “Tu o dizes.”
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 55
+
+É de notar-se que, entre os antigos, os tremores de terra e o obscurecimento do Sol eram acessórios forçados de todos os acontecimentos e de todos os presságios sinistros. Com eles deparamos, por ocasião da morte de Jesus, da de César e num sem-número de outras circunstâncias da história do paganismo. Se tais fenômenos se houvessem produzido tão amiudadas vezes quantas são relatados, fora de ter-se por impossível que os homens não houvessem guardado deles lembrança pela tradição. Aqui, acrescenta-se a queda de estrelas do céu, como que a mostrar às gerações futuras, mais esclarecidas, que não há nisso senão uma ficção, pois que agora se sabe que as estrelas não podem cair.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 56
+
+Entretanto, sob essas alegorias, grandes verdades se ocultam. Há, primeiramente, a predição das calamidades de todo gênero que assolarão e dizimarão a humanidade, calamidades decorrentes da luta suprema entre o bem e o mal, entre a fé e a incredulidade, entre as ideias progressistas e as ideias retrógradas. Há, em segundo lugar, a da difusão, por toda a Terra, do Evangelho restaurado na sua pureza primitiva; depois, a do reinado do bem, que será o da paz e da fraternidade universais, a derivar do código de moral evangélica, posto em prática por todos os povos. Será, verdadeiramente, o reino de Jesus, pois que Ele presidirá à sua implantação, passando os homens a viver sob a égide da sua lei. Será o reinado da felicidade, porquanto diz Ele que — “depois dos dias de aflição, virão os de alegria”.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 57
+
+Quando sucederão tais coisas? “Ninguém o sabe” diz Jesus, “nem mesmo o Filho.” Mas, quando chegar o momento, os homens serão advertidos por meio de sinais precursores. Esses indícios, porém, não estarão nem no Sol, nem nas estrelas; mostrar-se-ão no estado social e nos fenômenos mais de ordem moral do que físicos e que, em parte, se podem deduzir das suas alusões.
+
+É indubitável que aquela mutação não poderia operar-se em vida dos apóstolos, pois, do contrário, Jesus não lhe desconheceria o momento. Aliás, semelhante transformação não era possível se desse dentro de apenas alguns anos. Contudo, dela lhes fala como se eles a houvessem de presenciar; é que, com efeito, eles poderão estar reencarnados quando a transformação se der e, até, colaborar na sua efetivação. Ele ora fala da sorte próxima de Jerusalém, ora toma esse fato por ponto de referência ao que ocorreria no futuro.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 58
+
+Será que, predizendo a sua segunda vinda, era o fim do mundo o que Jesus anunciava, dizendo: “Quando o Evangelho for pregado por toda a Terra, então é que virá o fim?”
+
+Não é racional se suponha que Deus destrua o mundo precisamente quando ele entre no caminho do progresso moral, pela prática dos ensinos evangélicos. Nada, aliás, nas palavras do Cristo, indica uma destruição universal que, em tais condições, não se justificaria.
+
+Devendo a prática geral do Evangelho determinar grande melhora no estado moral dos homens, ela, por isso mesmo, trará o reinado do bem e acarretará a queda do mal. É, pois, o fim do mundo velho, do mundo governado pelos preconceitos, pelo orgulho, pelo egoísmo, pelo fanatismo, pela incredulidade, pela cupidez, por todas as paixões pecaminosas, que o Cristo aludia, ao dizer: “Quando o Evangelho for pregado por toda a Terra, então é que virá o fim.” Esse fim, porém, para chegar, ocasionaria uma luta e é dessa luta que advirão os males por Ele previstos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Vossos filhos e vossas filhas profetizarão
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 59
+
+>
+>
+Atos, 2:17 e 18; Joel, 2:28 e 29
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 60
+
+Se considerarmos o estado atual do mundo físico e do mundo moral, as tendências, aspirações e pressentimentos das massas, a decadência das ideias antigas que em vão se debatem há um século contra as ideias novas, não poderemos duvidar de que uma nova ordem de coisas se prepara e que o mundo velho chega a seu termo.
+
+Se, agora, levando em conta a forma alegórica de alguns quadros e perscrutando o sentido profundo das palavras de Jesus, compararmos a situação atual com os tempos por Ele descritos, como assinaladores da era da renovação, não poderemos deixar de convir em que muitas das suas predições se estão presentemente realizando; donde a conclusão de que atingimos os tempos anunciados, o que confirmam, em todos os pontos do globo, os Espíritos que se manifestam.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 61
+
+Como vimos (cap. I, item 32), coincidindo com outras circunstâncias, o advento do Espiritismo realiza uma das mais importantes predições de Jesus, pela influência que ele forçosamente tem de exercer sobre as ideias. Ele se encontra, além disso, anunciado, nos Atos dos Apóstolos: “Nos últimos tempos, diz o Senhor, derramarei do meu Espírito sobre toda carne; vossos filhos e filhas profetizarão.”
+
+É a predição inequívoca da vulgarização da mediunidade, que presentemente se revela em indivíduos de todas as idades, de ambos os sexos e de todas as condições; a predição, por conseguinte, da manifestação universal dos Espíritos, pois que sem os Espíritos não haveria médiuns. Isso, conforme está dito, acontecerá nos últimos tempos; ora, visto que não chegamos ao fim do mundo, mas, ao contrário, à época da sua regeneração, devemos entender aquelas palavras como indicativas dos últimos tempos do mundo moral que chega a seu termo. (O evangelho segundo o espiritismo, cap. XXI.)
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Juízo final
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 62
+
+>
+>
+Mateus, 25:31 a 46; O evangelho segundo o espiritismo, cap. XV
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 63
+
+Tendo que reinar na Terra o bem, necessário é sejam dela excluídos os Espíritos endurecidos no mal e que possam acarretar-lhe perturbações. Deus permitiu que eles aí permanecessem o tempo de que precisavam para se melhorarem; mas, chegado o momento em que, pelo progresso moral de seus habitantes, o globo terráqueo tem de ascender na hierarquia dos mundos, interdito será ele, como morada, a encarnados e desencarnados que não hajam aproveitado os ensinamentos que uns e outros se achavam em condições de aí receber. Serão exilados para mundos inferiores, como o foram outrora para a Terra os da raça adâmica, vindo substituí-los Espíritos melhores. Essa separação, a que Jesus presidirá, é que se acha figurada por estas palavras sobre o juízo final: “Os bons passarão à minha direita e os maus à minha esquerda.” (Cap. XI, itens 31 e seguintes.)
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 64
+
+A doutrina de um juízo final, único e universal, pondo fim para sempre à humanidade, repugna à razão, por implicar a inatividade de Deus, durante a eternidade que precedeu à criação da Terra e durante a eternidade que se seguirá à sua destruição. Que utilidade teriam então o Sol, a Lua e as estrelas que, segundo a Gênese, foram feitos para iluminar o mundo? Causa espanto que tão imensa obra se haja produzido para tão pouco tempo e a benefício de seres votados de antemão, em sua maioria, aos suplícios eternos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 65
+
+Materialmente, a ideia de um julgamento único seria, até certo ponto, admissível para os que não procuram a razão das coisas, quando se cria que a humanidade toda se achava concentrada na Terra e que para seus habitantes fora feito tudo o que o universo contém. É, porém, inadmissível, desde que se sabe que há milhares de milhares de mundos semelhantes, que perpetuam as humanidades pela eternidade em fora e entre os quais a Terra é dos menos consideráveis, simples ponto imperceptível.
+
+Vê-se, só por este fato, que Jesus tinha razão de declarar a seus discípulos: “Há muitas coisas que não vos posso dizer, porque não as compreenderíeis”, dado que o progresso das ciências era indispensável para uma interpretação legítima de algumas de suas palavras. Certamente, os apóstolos, Paulo e os primeiros discípulos teriam estabelecido de modo muito diverso alguns dogmas se tivessem os conhecimentos astronômicos, geológicos, físicos, químicos, fisiológicos e psicológicos que hoje possuímos. Daí vem o ter Jesus adiado a completação de seus ensinos e anunciado que todas as coisas haviam de ser restabelecidas.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 66
+
+Moralmente, um juízo definitivo e sem apelação não se concilia com a bondade infinita do Criador, que Jesus nos apresenta de contínuo como um bom Pai, que deixa sempre aberta uma senda para o arrependimento e que está pronto sempre a estender os braços ao filho pródigo. Se Jesus entendesse o juízo naquele sentido, desmentiria suas próprias palavras.
+
+Além disso, se o juízo final houvesse de apanhar de improviso os homens, em meio de seus trabalhos ordinários, e grávidas as mulheres, caberia perguntar-se com que fim Deus, que não faz coisa alguma inútil ou injusta, faria nascessem crianças e criaria almas novas naquele momento supremo, no termo fatal da humanidade. Seria para submetê-las a julgamento logo ao saírem do ventre materno, antes de terem consciência de si mesmas, quando, a outros, milhares de anos foram concedidos para se inteirarem do que respeita à própria individualidade? Para que lado, direito ou esquerdo, iriam essas almas, que ainda não são nem boas nem más e para as quais, no entanto, todos os caminhos de ulterior progresso se encontrariam desde então fechados, visto que a humanidade não mais existiria? (Cap. II, item 19.)
+
+Conservem-nas os que se contentam com semelhantes crenças; estão no seu direito e ninguém nada tem que dizer a isso; mas, não achem mau que nem toda gente partilhe delas.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 67
+
+O juízo, pelo processo da emigração, conforme ficou explicado acima (item 63), é racional; funda-se na mais rigorosa justiça, visto que conserva para o Espírito, eternamente, o seu livre-arbítrio; não constitui privilégio para ninguém; a todas as suas criaturas, sem exceção alguma, concede Deus igual liberdade de ação para progredirem; o próprio aniquilamento de um mundo, acarretando a destruição do corpo, nenhuma interrupção ocasionará à marcha progressiva do Espírito. Tais as consequências da pluralidade dos mundos e da pluralidade das existências.
+
+Segundo essa interpretação, não é exata a qualificação de juízo final, pois que os Espíritos passam por análogas fieiras a cada renovação dos mundos por eles habitados, até que atinjam certo grau de perfeição. Não há, portanto, juízo final propriamente dito, mas juízos gerais em todas as épocas de renovação parcial ou total da população dos mundos, por efeito das quais se operam as grandes emigrações e imigrações de Espíritos.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+### 3.18
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### Sinais dos tempos
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 01
+
+São chegados os tempos, dizem-nos de todas as partes, marcados por Deus, em que grandes acontecimentos se vão dar para regeneração da humanidade. Em que sentido se devem entender essas palavras proféticas? Para os incrédulos, nenhuma importância têm; aos seus olhos, nada mais exprimem que uma crença pueril, sem fundamento. Para a maioria dos crentes, elas apresentam qualquer coisa de místico e de sobrenatural, parecendo-lhes prenunciadoras da subversão das leis da natureza. São igualmente errôneas ambas essas interpretações: a primeira, porque envolve uma negação da Providência; a segunda, porque tais palavras não anunciam a perturbação das leis da natureza, mas o cumprimento dessas leis.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 02
+
+Tudo na Criação é harmonia; tudo revela uma previdência que não se desmente, nem nas menores, nem nas maiores coisas. Temos, pois, que afastar, desde logo, toda ideia de capricho, por inconciliável com a Sabedoria divina. Em segundo lugar, se a nossa época está designada para a realização de certas coisas, é que estas têm uma razão de ser na marcha do conjunto.
+
+Isto posto, diremos que o nosso globo, como tudo o que existe, esta submetido à lei do progresso. Ele progride, fisicamente, pela transformação dos elementos que o compõem e, moralmente, pela depuração dos Espíritos encarnados e desencarnados que o povoam. Ambos esses progressos se realizam paralelamente, porquanto o melhoramento da habitação guarda relação com o do habitante. Fisicamente, o globo terráqueo há experimentado transformações que a Ciência tem comprovado e que o tornaram sucessivamente habitável por seres cada vez mais aperfeiçoados. Moralmente, a humanidade progride pelo desenvolvimento da inteligência, do senso moral e do abrandamento dos costumes. Ao mesmo tempo que o melhoramento do globo se opera sob a ação das forças materiais, os homens para isso concorrem pelos esforços de sua inteligência. Saneiam as regiões insalubres, tornam mais fáceis as comunicações e mais produtiva a terra.
+
+De duas maneiras se executa esse duplo progresso: uma, lenta, gradual e insensível; a outra, caracterizada por mudanças bruscas, a cada uma das quais corresponde um movimento ascensional mais rápido, que assinala, mediante impressões bem acentuadas, os períodos progressivos da humanidade. Esses movimentos, subordinados, quanto às particularidades, ao livre-arbítrio dos homens, são, de certo modo, fatais em seu conjunto, porque estão sujeitos a leis, como os que se verificam na germinação, no crescimento e na maturidade das plantas. Por isso é que o movimento progressivo se efetua, às vezes, de modo parcial, isto é, limitado a uma raça ou a uma nação, doutras vezes, de modo geral.
+
+O progresso da humanidade se cumpre, pois, em virtude de uma lei. Ora, como todas as leis da natureza são obra eterna da sabedoria e da presciência divinas, tudo o que é efeito dessas leis resulta da vontade de Deus, não de uma vontade acidental e caprichosa, mas de uma vontade imutável. Quando, por conseguinte, a humanidade está madura para subir um degrau, pode dizer-se que são chegados os tempos marcados por Deus, como se pode dizer também que, em tal estação, eles chegam para a maturação dos frutos e sua colheita.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 03
+
+Do fato de ser inevitável, porque é da natureza o movimento progressivo da humanidade, não se segue que Deus lhe seja indiferente e que, depois de ter estabelecido leis, se haja recolhido à inação, deixando que as coisas caminhem por si sós. Sem dúvida, suas leis são eternas e imutáveis, mas porque a sua própria vontade é eterna e constante e porque o seu pensamento anima sem interrupção todas as coisas. Esse pensamento, que em tudo penetra, é a força inteligente e permanente que mantém a harmonia em tudo. Cessasse ele um só instante de atuar e o universo seria como um relógio sem pêndulo regulador. Deus, pois, vela incessantemente pela execução de suas leis e os Espíritos que povoam o espaço são seus ministros, encarregados de atender aos pormenores, dentro de atribuições que correspondem ao grau de adiantamento que tenham alcançado.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 04
+
+O universo é, ao mesmo tempo, um mecanismo incomensurável, acionado por um número incontável de inteligências, e um imenso governo em o qual cada ser inteligente tem a sua parte de ação sob as vistas do soberano Senhor, cuja vontade única mantém por toda parte a unidade. Sob o império dessa vasta potência reguladora, tudo se move, tudo funciona em perfeita ordem. Onde nos parece haver perturbações, o que há são movimentos parciais e isolados, que se nos afiguram irregulares apenas porque circunscrita é a nossa visão. Se lhes pudéssemos abarcar o conjunto, veríamos que tais irregularidades são apenas aparentes e que se harmonizam com o todo.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 05
+
+A humanidade tem realizado, até o presente, incontestáveis progressos. Os homens, com a sua inteligência, chegaram a resultados que jamais haviam alcançado, sob o ponto de vista das ciências, das artes e do bem-estar material. Resta-lhes ainda um imenso progresso a realizar: o de fazerem que entre si reinem a caridade, a fraternidade, a solidariedade, que lhes assegurem o bem-estar moral. Não poderiam consegui-lo nem com as suas crenças, nem com as suas instituições antiquadas, restos de outra idade, boas para certa época, suficientes para um estado transitório, mas que, havendo dado tudo o que comportavam, seriam hoje um entrave. Já não é somente de desenvolver a inteligência o de que os homens necessitam, mas de elevar o sentimento e, para isso, faz-se preciso destruir tudo o que superexcite neles o egoísmo e o orgulho.
+
+Tal o período em que doravante vão entrar e que marcará uma das fases principais da vida da humanidade. Essa fase, que neste momento se elabora, é o complemento indispensável do estado precedente, como a idade viril o é da juventude. Ela podia, pois, ser prevista e predita de antemão e é por isso que se diz que são chegados os tempos determinados por Deus.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 06
+
+Nestes tempos, porém, não se trata de uma mudança parcial, de uma renovação limitada a certa região, ou a um povo, a uma raça.
+
+Trata-se de um movimento universal, a operar-se no sentido do progresso moral. Uma nova ordem de coisas tende a estabelecer-se, e os homens, que mais opostos lhe são, para ela trabalham a seu mau grado. A geração futura, desembaraçada das escórias do velho mundo e formada de elementos mais depurados, se achará possuída de ideias e de sentimentos muito diversos dos da geração presente, que se vai a passo de gigante. O velho mundo estará morto e apenas viverá na História, como o estão hoje os tempos da Idade Média, com seus costumes bárbaros e suas crenças supersticiosas.
+
+Aliás, todos sabem quanto ainda deixa a desejar a atual ordem de coisas. Depois de se haver, de certo modo, considerado todo o bem-estar material, produto da inteligência, logra-se compreender que o complemento desse bem-estar somente pode achar-se no desenvolvimento moral. Quanto mais se avança, tanto mais se sente o que falta, sem que, entretanto, se possa ainda definir claramente o que seja: é isso efeito do trabalho íntimo que se opera em prol da regeneração. Surgem desejos, aspirações, que são como que o pressentimento de um estado melhor.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 07
+
+Mas uma mudança tão radical como a que se está elaborando não pode realizar-se sem comoções. Há, inevitavelmente, luta de ideias. Desse conflito forçosamente se originarão passageiras perturbações, até que o terreno se ache aplanado e restabelecido o equilíbrio. É, pois, da luta das ideias que surgirão os graves acontecimentos preditos e não de cataclismos ou catástrofes puramente materiais. Os cataclismos gerais foram consequência do estado de formação da Terra. Hoje, não são mais as entranhas do planeta que se agitam: são as da humanidade.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 08
+
+Se a Terra já não tem que temer os cataclismos gerais, nem por isso deixa de estar sujeita a periódicas revoluções, cujas causas, do ponto de vista científico, se encontram explicadas nas instruções seguintes, promanantes de dois Espíritos eminentes: ^187
+
+“Cada corpo celeste, além das leis simples que presidem à divisão dos dias e das noites, das estações etc., experimenta revoluções que demandam milhares de séculos para sua realização completa, porém que, como as revoluções mais breves, passam por todos os períodos, desde o de nascimento até o de um máximo de efeito, após o qual há decrescimento, até o limite extremo, para recomeçar em seguida o percurso das mesmas fases.
+
+“O homem apenas apreende as fases de duração relativamente curta e cuja periodicidade ele pode comprovar. Algumas, no entanto, há que abrangem longas gerações de seres e, até, sucessões de raças, revoluções essas cujos efeitos, conseguintemente, se lhe apresentam com caráter de novidade e de espontaneidade, ao passo que, se seu olhar pudesse projetar-se para trás alguns milhares de séculos, veria, entre aqueles mesmos efeitos e suas causas, uma correlação de que nem suspeita. Esses períodos que, pela sua extensão relativa, confundem a imaginação dos humanos, não são, contudo, mais do que instantes na duração eterna.
+
+“Num mesmo sistema planetário, todos os corpos que o constituem reagem uns sobre os outros; todas as influências físicas são nele solidárias e nem um só há, dos efeitos que designais pelo nome de grandes perturbações, que não seja consequência da componente das influências de todo o sistema.
+
+“Vou mais longe: digo que os sistemas planetários reagem uns sobre os outros, na razão da proximidade ou do afastamento resultantes do movimento de translação deles, através das miríades de sistemas que compõem a nossa nebulosa. Ainda vou mais longe: digo que a nossa nebulosa, que é um como arquipélago na imensidade, tendo também seu movimento de translação através das miríades de nebulosas, sofre a influência das de que ela se aproxima.
+
+“De sorte que as nebulosas reagem sobre as nebulosas, os sistemas reagem sobre os sistemas, como os planetas reagem sobre os planetas, como os elementos de cada planeta reagem uns sobre os outros e assim sucessivamente até o átomo. Daí, em cada mundo, revoluções locais ou gerais, que sê não parecem perturbações porque a brevidade da vida não permite se lhes percebam mais do que os efeitos parciais.
+
+“A matéria orgânica não poderia escapar a essas influências; as perturbações que ela sofre podem, pois, alterar o estado físico dos seres vivos e determinar algumas dessas enfermidades que atacam de modo geral as plantas, os animais e os homens, enfermidades que, como todos os flagelos, são, para a inteligência humana, um estimulante que a impele, por força da necessidade, a procurar meios de os combater e a descobrir leis da natureza.
+
+“Mas a matéria orgânica, a seu turno, reage sobre o Espírito. Este, pelo seu contato e sua ligação íntima com os elementos materiais, também sofre influências que lhe modificam as disposições, sem, no entanto, privá-lo do livre-arbítrio, que lhe sobre-excitam ou atenuam a atividade e que, pois, contribuem para o seu desenvolvimento. A efervescência que por vezes se manifesta em toda uma população, entre os homens de uma mesma raça, não é coisa fortuita, nem resultado de um capricho; tem sua causa nas leis da natureza. Essa efervescência, inconsciente a princípio, não passando de vago desejo, de aspiração indefinida por alguma coisa melhor, de certa necessidade de mudança, traduz-se por uma surda agitação, depois por atos que levam às revoluções sociais, que, acreditai-o, também têm sua periodicidade, como as revoluções físicas, pois que tudo se encadeia. Se não tivésseis a visão espiritual limitada pelo véu da matéria, veríeis as correntes fluídicas que, como milhares de fios condutores, ligam as coisas do mundo espiritual às do mundo material.
+
+“Quando se vos diz que a humanidade chegou a um período de transformação e que a Terra tem que se elevar na hierarquia dos mundos, nada de místico vejais nessas palavras; vede, ao contrário, a execução da uma das grandes leis fatais do universo, contra as quais se quebra toda a má vontade humana.” ^188
+
+**Arago**
+
+^188: N.E.: Ver Nota Explicativa.
+
+^187: A.K.: Extrato de duas comunicações dadas na Sociedade de Paris e publicadas na Revista espírita de outubro de 1868. São corolários das de Galileu, reproduzidas no capítulo VI, e complementares do capítulo IX, sobre as revoluções do globo.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 09
+
+Sim, decerto, a humanidade se transforma, como já se transformou noutras épocas, e cada transformação se assinala por uma crise que é, para o gênero humano, o que são, para os indivíduos, as crises de crescimento. Aquelas se tornam, muitas vezes, penosas, dolorosas, e arrebatam consigo as gerações e as instituições, mas, são sempre seguidas de uma fase de progresso material e moral.
+
+A humanidade terrestre, tendo chegado a um desses períodos de crescimento, está em cheio, há quase um século, no trabalho da sua transformação, pelo que a vemos agitar-se de todos os lados, presa de uma espécie de febre e como que impelida por invisível força. Assim continuará, até que se haja outra vez estabilizado em novas bases. Quem a observar, então, achá-la-á muito mudada em seus costumes, em seu caráter, nas suas leis, em suas crenças, numa palavra: em todo o seu estado social.
+
+“Uma coisa que vos parecerá estranhável, mas que por isso não deixa de ser rigorosa verdade, é que o mundo dos Espíritos, mundo que vos rodeia, experimenta o contrachoque de todas as comoções que abalam o mundo dos encarnados. Digo mesmo que aquele toma parte ativa nessas comoções. Nada tem isto de surpreendente, para quem sabe que os Espíritos fazem corpo com a humanidade; que eles saem dela e a ela têm de voltar, sendo, pois, natural se interessem pelos movimentos que se operam entre os homens. Ficai, portanto, certos de que, quando uma revolução social se produz na Terra, abala igualmente o mundo invisível, onde todas as paixões, boas e más, se exacerbam, como entre vós. Indizível efervescência entra a reinar na coletividade dos Espíritos que ainda pertencem ao vosso mundo e que aguardam o momento de a ele volver.
+
+“À agitação dos encarnados e desencarnados se juntam às vezes, e frequentemente mesmo, já que tudo se conjuga em a natureza, as perturbações dos elementos físicos. Dá-se então, durante algum tempo, verdadeira confusão geral, mas que passa como furacão, após o qual o céu volta a estar sereno, e a humanidade, reconstituída sobre novas bases, imbuída de novas ideias, começa a percorrer nova etapa de progresso.
+
+“É no período que ora se inicia que o Espiritismo florescerá e dará frutos. Trabalhais, portanto, mais para o futuro, do que para o presente. Era, porém, necessário que esses trabalhos se preparassem antecipadamente, porque eles traçam as sendas da regeneração, pela unificação e racionalidade das crenças. Ditosos os que deles aproveitam desde já. Tantas penas se pouparão esses, quantos forem os proveitos que deles aufiram.”
+
+**Doutor Barry**
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 10
+
+Do que precede resulta que, em consequência do movimento de translação que executam no espaço, os corpos celestes exercem, uns sobre os outros, maior ou menor influência, conforme a proximidade em que se achem entre si e as suas respectivas posições; que essa influência pode acarretar uma perturbação momentânea aos seus elementos constitutivos e modificar as condições de vitalidade dos seus habitantes; que a regularidade dos movimentos determina a volta periódica das mesmas causas e dos mesmos efeitos; que, se demasiado curta é a duração de certos períodos para que os homens os apreciem, outros veem passar gerações e raças que deles não se apercebem e às quais se afigura normal o estado de coisas que observam. Ao contrário, as gerações contemporâneas da transição lhe sofrem o contrachoque e tudo lhes parece fora das leis ordinárias. Essas gerações veem uma causa sobrenatural, maravilhosa, miraculosa no que, em realidade, mais não é do que a execução das leis da natureza.
+
+Se, pelo encadeamento e a solidariedade das causas e dos efeitos, os períodos de renovação moral da humanidade coincidem, como tudo leva a crer, com as revoluções físicas do globo, podem os referidos períodos ser acompanhados ou precedidos de fenômenos naturais, insólitos para os que com eles não se acham familiarizados, de meteoros que parecem estranhos, de recrudescência e intensificação desusadas dos flagelos destruidores, que não são nem causa, nem presságios sobrenaturais, mas uma consequência do movimento geral que se opera no mundo físico e no mundo moral.
+
+Anunciando a época de renovação que se havia de abrir para a humanidade e determinar o fim do velho mundo, a Jesus, pois, foi lícito dizer que ela se assinalaria por fenômenos extraordinários, tremores de terra, flagelos diversos, sinais no céu, que mais não são do que meteoros, sem ab-rogação das leis naturais. O vulgo, porém, ignorante, viu nessas palavras a predição de fatos miraculosos. ^189
+
+^189: A.K.: A terrível epidemia que, de 1866 a 1868, dizimou a população da Ilha Maurício, teve a precedê-la tão extraordinária e tão abundante chuva de estrelas cadentes, em novembro de 1866, que aterrorizou os habitantes daquela ilha. A partir desse momento, a doença, que reinava desde alguns meses de forma muito benigna, se transformou em verdadeiro flagelo devastador. Aquele fora bem um sinal no céu e talvez nesse sentido é que se deva entender a frase — estrelas caindo do céu, de que fala o Evangelho, como um dos sinais dos tempos. (Pormenores sobre a epidemia da Ilha Maurício: Revista espírita, julho de 1867, e novembro de 1868.)
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 11
+
+A previsão dos movimentos progressivos da humanidade nada apresenta de surpreendente, quando feita por seres desmaterializados, que veem o fim a que tendem todas as coisas, tendo alguns deles conhecimento direto do pensamento de Deus. Pelos movimentos parciais, esses seres veem em que época poderá operar-se um movimento geral, do mesmo modo que o homem pode calcular de antemão o tempo que uma árvore levará para dar frutos, do mesmo modo que os astrônomos calculam a época de um fenômeno astronômico, pelo tempo que um astro gasta para efetuar a sua revolução.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 12
+
+A humanidade é um ser coletivo em quem se operam as mesmas revoluções morais por que passa todo ser individual, com a diferença de que umas se realizam de ano em ano e as outras de século em século. Acompanhe-se a humanidade em suas evoluções através dos tempos e ver-se-á a vida das diversas raças marcada por períodos que dão a cada época uma fisionomia especial. ^190
+
+^190: N.E.: Ver Nota Explicativa.
+>>>>>>> 0aaf0c72692b3a8bb5d0f43d461803aaea712c69
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 13
+
+De duas maneiras se opera, como já o dissemos, a marcha progressiva da humanidade: uma, gradual, lenta, imperceptível, se se considerarem as épocas consecutivas, a traduzir-se por sucessivas melhoras nos costumes, nas leis, nos usos, melhoras que só com a continuação se podem perceber, como as mudanças que as correntes de água ocasionam na superfície do globo; a outra, por movimentos relativamente bruscos, semelhantes aos de uma torrente que, rompendo os diques que a continham, transpõe nalguns anos o espaço que levaria séculos a percorrer. É, então, um cataclismo moral que traga em breves instantes as instituições do passado e ao qual sobrevém uma nova ordem de coisas que pouco a pouco se estabiliza, à medida que se restabelece a calma, e que acaba por se tornar definitiva.
+
+Àquele que viva bastante para abranger com a vista as duas vertentes da nova fase, parecerá que um mundo novo surgiu das ruínas do antigo. O caráter, os costumes, os usos, tudo está mudado. É que, com efeito, surgiram homens novos, ou, melhor, regenerados. As ideias, que a geração que se extinguiu levou consigo, cederam lugar a ideias novas que desabrocham com a geração que se ergue.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 14
+
+Tornada adulta, a humanidade tem novas necessidades, aspirações mais vastas e mais elevadas; compreende o vazio com que foi embalada, a insuficiência de suas instituições para lhe dar felicidade; já não encontra, no estado das coisas, as satisfações legítimas a que se sente com direito. Despoja-se, em consequência, das faixas infantis e se lança, impelida por irresistível força, para as margens desconhecidas, em busca de novos horizontes menos limitados.
+
+É a um desses períodos de transformação, ou, se o preferirem, de crescimento moral, que ora chega a humanidade. Da adolescência chega ao estado viril. O passado já não pode bastar às suas novas aspirações, às suas novas necessidades; ela já não pode ser conduzida pelos mesmos métodos; não mais se deixa levar por ilusões, nem fantasmagorias; sua razão amadurecida reclama alimentos mais substanciosos. É demasiado efêmero o presente; ela sente que mais amplo é o seu destino e que a vida corpórea é excessivamente restrita para encerrá-lo inteiramente. Por isso, mergulha o olhar no passado e no futuro, a fim de descobrir num ou noutro o mistério da sua existência e de adquirir uma consoladora certeza.
+
+E é no momento em que ela se encontra muito apertada na esfera material, em que transbordante se encontra de vida intelectual, em que o sentimento da espiritualidade lhe desabrocha no seio, que homens que se dizem filósofos pretendem encher o vazio com as doutrinas do niilismo e do materialismo! Singular aberração! Esses mesmos homens, que intentam impelir para a frente a humanidade, se esforçam por circunscrevê-la no acanhado círculo da matéria, donde ela anseia por escapar-se. Velam-lhe o aspecto da vida infinita e lhe dizem, apontando para o túmulo: Nec plus ultra! ^191
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 15
+
+Quem quer que haja meditado sobre o Espiritismo e suas consequências e não o circunscreva à produção de alguns fenômenos terá compreendido que ele abre à humanidade uma estrada nova e lhe desvenda os horizontes do infinito. Iniciando-a nos mistérios do mundo invisível, mostra-lhe o seu verdadeiro papel na criação, papel perpetuamente ativo, tanto no estado espiritual, como no estado corporal. O homem já não caminha às cegas: sabe donde vem, para onde vai e por que está na Terra. O futuro se lhe revela em sua realidade, despojado dos prejuízos da ignorância e da superstição. Já não se trata de uma vaga esperança, mas de uma verdade palpável, tão certa como a sucessão do dia e da noite. Ele sabe que o seu ser não se acha limitado a alguns instantes de uma existência transitória; que a vida espiritual não se interrompe por efeito da morte; que já viveu e tornará a viver e que nada se perde do que haja ganho em perfeição; em suas existências anteriores depara com a razão do que é hoje e reconhece que: do que ele é hoje, qual se fez a si mesmo, poderá deduzir o que virá a ser um dia.
+
+^191: N.E.: Nada mais além.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 15
+
+Quem quer que haja meditado sobre o Espiritismo e suas consequências e não o circunscreva à produção de alguns fenômenos terá compreendido que ele abre à humanidade uma estrada nova e lhe desvenda os horizontes do infinito. Iniciando-a nos mistérios do mundo invisível, mostra-lhe o seu verdadeiro papel na criação, papel perpetuamente ativo, tanto no estado espiritual, como no estado corporal. O homem já não caminha às cegas: sabe donde vem, para onde vai e por que está na Terra. O futuro se lhe revela em sua realidade, despojado dos prejuízos da ignorância e da superstição. Já não se trata de uma vaga esperança, mas de uma verdade palpável, tão certa como a sucessão do dia e da noite. Ele sabe que o seu ser não se acha limitado a alguns instantes de uma existência transitória; que a vida espiritual não se interrompe por efeito da morte; que já viveu e tornará a viver e que nada se perde do que haja ganho em perfeição; em suas existências anteriores depara com a razão do que é hoje e reconhece que: do que ele é hoje, qual se fez a si mesmo, poderá deduzir o que virá a ser um dia.
+
+>>>>>>> 0aaf0c72692b3a8bb5d0f43d461803aaea712c69
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 16
+
+Com a ideia de que a atividade e a cooperação individuais na obra geral da civilização se limitam à vida presente, que, antes, a criatura nada foi e nada será depois, em que interessa ao homem o progresso ulterior da humanidade? Que lhe importa que no futuro os povos sejam mais bem governados, mais ditosos, mais esclarecidos, melhores uns para com os outros? Não fica perdido para ele todo o progresso, pois que deste nenhum proveito tirará? De que lhe serve trabalhar para os que hão de vir depois, se nunca lhe será dado conhecê-los, se os seus pósteros serão criaturas novas, que pouco depois voltarão por sua vez ao nada? Sob o domínio da negação do futuro individual, tudo forçosamente se amesquinha às insignificantes proporções do momento e da personalidade.
+
+Entretanto, que amplitude, ao contrário, dá ao pensamento do homem a certeza da perpetuidade do seu ser espiritual! Que de mais racional, de mais grandioso, de mais digno do Criador do que a lei segundo a qual a vida espiritual e a vida corpórea são apenas dois modos de existência, que se alternam para a realização do progresso! Que de mais justo há e de mais consolador do que a ideia de estarem os mesmos seres a progredir incessantemente, primeiro, pelas gerações de um mesmo mundo, de mundo em mundo depois, até a perfeição, sem solução de continuidade! Todas as ações têm, então, uma finalidade, porquanto, trabalhando para todos, cada um trabalha para si e reciprocamente, de sorte que nunca se podem considerar infecundos nem o progresso individual, nem o progresso coletivo. De ambos esses progressos aproveitarão as gerações e as individualidades porvindouras, que outras não virão a ser senão as gerações e as individualidades passadas, em mais alto grau de adiantamento.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 17
+
+A fraternidade será a pedra angular da nova ordem social; mas, não há fraternidade real, sólida, efetiva, senão assente em base inabalável e essa base é a fé, não a fé em tais ou tais dogmas particulares, que mudam com os tempos e os povos e que mutuamente se apedrejam, porquanto, anatematizando-se uns aos outros, alimentam o antagonismo, mas a fé nos princípios fundamentais que toda a gente pode aceitar e aceitará: Deus, a alma, o futuro, o progresso individual indefinito, a perpetuidade das relações entre os seres. Quando todos os homens estiverem convencidos de que Deus é o mesmo para todos; de que esse Deus, soberanamente justo e bom, nada de injusto pode querer; que não dele, porém dos homens vem o mal, todos se considerarão filhos do mesmo Pai e se estenderão as mãos uns aos outros.
+
+Essa a fé que o Espiritismo faculta e que doravante será o eixo em torno do qual girará o gênero humano, quaisquer que sejam os cultos e as crenças particulares.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 18
+
+O progresso intelectual realizado até o presente, nas mais largas proporções, constitui um grande passo e marca uma primeira fase no avanço geral da humanidade; impotente, porém, ele é para regenerá-la. Enquanto o orgulho e o egoísmo o dominarem, o homem se servirá da sua inteligência e dos seus conhecimentos para satisfazer às suas paixões e aos seus interesses pessoais, razão por que os aplica em aperfeiçoar os meios de prejudicar os seus semelhantes e de os destruir.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 19
+
+Somente o progresso moral pode assegurar aos homens a felicidade na Terra, refreando as paixões más; somente esse progresso pode fazer que entre os homens reinem a concórdia, a paz, a fraternidade.
+
+Será ele que deitará por terra as barreiras que separam os povos, que fará caiam os preconceitos de casta e se calem os antagonismos de seitas, ensinando os homens a se considerarem irmãos que têm por dever auxiliarem-se mutuamente e não destinados a viver à custa uns dos outros.
+
+Será ainda o progresso moral que, secundado então pelo da inteligência, confundirá os homens numa mesma crença fundada nas verdades eternas, não sujeitas a controvérsias e, em consequência, aceitáveis por todos.
+
+A unidade de crença será o laço mais forte, o fundamento mais sólido da fraternidade universal, obstada, desde todos os tempos pelos antagonismos religiosos que dividem os povos e as famílias, que fazem sejam uns, os dissidentes, vistos, pelos outros, como inimigos a serem evitados, combatidos, exterminados, em vez de irmãos a serem amados.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 20
+
+Semelhante estado de coisas pressupõe uma mudança radical no sentimento das massas, um progresso geral que não se podia realizar senão fora do círculo das ideias acanhadas e corriqueiras que fomentam o egoísmo. Em diversas épocas, homens de escol procuraram impelir a humanidade por esse caminho; mas, ainda muito jovem, ela se conservou surda e os ensinamentos que eles ministraram foram como a boa semente caída no pedregulho.
+
+Hoje, a humanidade está madura para lançar o olhar a alturas que nunca tentou divisar, a fim de nutrir-se de ideias mais amplas e compreender o que antes não compreendia.
+
+A geração que desaparece levará consigo seus erros e prejuízos; a geração que surge, retemperada em fonte mais pura, imbuída de ideias mais sãs, imprimirá ao mundo ascensional movimento, no sentido do progresso moral que assinalará a nova fase da evolução humana.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 21
+
+Essa fase já se revela por sinais inequívocos, por tentativas de reformas úteis e que começam a encontrar eco. Assim é que vemos fundar-se uma imensidade de instituições protetoras, civilizadoras e emancipadoras, sob o influxo e por iniciativa de homens evidentemente predestinados à obra da regeneração; que as leis penais se vão apresentando dia a dia impregnadas de sentimentos mais humanos. Enfraquecem-se os preconceitos de raça, os povos entram a considerar-se membros de uma grande família; pela uniformidade e facilidade dos meios de realizarem suas transações, eles suprimem as barreiras que os separavam e de todos os pontos do mundo reúnem-se em comícios universais, para as justas pacíficas da inteligência.
+
+Falta, porém, a essas reformas uma base que permita se desenvolvam, completem e consolidem; falta uma predisposição moral mais generalizada, para fazer que elas frutifiquem e que as massas as acolham. Ainda aí há um sinal característico da época, porque há o prelúdio do que se efetuará em mais larga escala, à proporção que o terreno se for tornando mais favorável.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 22
+
+Outro sinal não menos característico do período em que entramos encontra-se na reação que se opera no sentido das ideias espiritualistas; na repulsão instintiva que se manifesta contra as ideias materialistas. O espírito de incredulidade, que se apoderara das massas, ignorantes ou esclarecidas, e as levava a rejeitar com a forma a substância mesma de toda crença, parece ter sido um sono, a cujo despertar se sente a necessidade de respirar um ar mais vivificante. Involuntariamente, lá onde o vácuo se fizera, procura-se alguma coisa, um ponto de apoio.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 23
+
+Se supusermos possuída desses sentimentos a maioria dos homens, poderemos facilmente imaginar as modificações que daí decorrerão para as relações sociais; todos terão por divisa: caridade, fraternidade, benevolência para com todos, tolerância para todas as crenças. É a meta para que tende evidentemente a humanidade; esse o objeto de suas aspirações, de seus desejos, sem que, entretanto, ela perceba claramente por que meio as há de realizar. Ensaia, tateia, mas é detida por muitas resistências ativas, ou pela força de inércia dos preconceitos, das crenças estacionárias e refratárias ao progresso. Faz-se-lhe mister vencer tais resistências e essa será a obra da nova geração. Quem acompanhar o curso atual das coisas reconhecerá que tudo parece predestinado a lhe abrir caminho. Ela terá por si a dupla força do número e das ideias e, de acréscimo, a experiência do passado.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 24
+
+A nova geração marchará, pois, para a realização de todas as ideias humanitárias compatíveis com o grau de adiantamento a que houver chegado. Avançando para o mesmo alvo e realizando seus objetivos, o Espiritismo se encontrará com ela no mesmo terreno. Aos homens progressistas se deparará nas ideias espíritas poderosa alavanca e o Espiritismo achará, nos novos homens, espíritos inteiramente dispostos a acolhê-lo. Dado esse estado de coisas, que poderão fazer os que entendam de opor-se-lhe?
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 25
+
+O Espiritismo não cria a renovação social; a madureza da humanidade é que fará dessa renovação uma necessidade. Pelo seu poder moralizador, por suas tendências progressistas, pela amplitude de suas vistas, pela generalidade das questões que abrange, o Espiritismo é mais apto, do que qualquer outra doutrina, a secundar o movimento de regeneração; por isso, é ele contemporâneo desse movimento. Surgiu na hora em que podia ser de utilidade, visto que também para ele os tempos são chegados. Se viera mais cedo, teria esbarrado em obstáculos insuperáveis; houvera inevitavelmente sucumbido, porque, satisfeitos com o que tinham, os homens ainda não sentiriam falta do que ele lhes traz. Hoje, nascido com as ideias que fermentam, encontra preparado o terreno para recebê-lo. Os espíritos cansados da dúvida e da incerteza, horrorizados com o abismo que se lhes abre à frente, o acolhem como âncora de salvação e consolação suprema.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 26
+
+Grande, por certo, é ainda o número dos retardatários; mas, que podem eles contra a onda que se alteia, senão atirar-lhe algumas pedras? Essa onda é a geração que surge, ao passo que eles se somem com a geração que vai desaparecendo todos os dias a passos largos. Até lá, porém, eles defenderão palmo a palmo o terreno. Haverá, portanto, uma luta inevitável, mas luta desigual, porque é a do passado decrépito, a cair em frangalhos, contra o futuro juvenil. Será a luta da estagnação contra o progresso, da criatura contra a vontade do Criador, uma vez que chegados são os tempos por Ele determinados.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### A geração nova
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 27
+
+Para que na Terra sejam felizes os homens, preciso é que somente a povoem Espíritos bons, encarnados e desencarnados, que somente ao bem se dediquem. Havendo chegado o tempo, grande emigração se verifica dos que a habitam: a dos que praticam o mal pelo mal, ainda não tocados pelo sentimento do bem, os quais, já não sendo dignos do planeta transformado, serão excluídos, porque, senão, lhe ocasionariam de novo perturbação e confusão e constituiriam obstáculo ao progresso. Irão expiar o endurecimento de seus corações, uns em mundos inferiores, outros em raças terrestres ainda atrasadas, equivalentes a mundos daquela ordem, aos quais levarão os conhecimentos que hajam adquirido, tendo por missão fazê-las avançar. Substituí-los-ão Espíritos melhores, que farão reinem em seu seio a justiça, a paz e a fraternidade.
+
+A Terra, no dizer dos Espíritos, não terá de transformar-se por meio de um cataclismo que aniquile de súbito uma geração. A atual desaparecerá gradualmente e a nova lhe sucederá do mesmo modo, sem que haja mudança alguma na ordem natural das coisas.
+
+Tudo, pois, se processará exteriormente, como sói acontecer, com a única, mas capital diferença de que uma parte dos Espíritos que encarnavam na Terra aí não mais tornarão a encarnar. Em cada criança que nascer, em vez de um Espírito atrasado e inclinado ao mal, que antes nela encarnaria, virá um Espírito mais adiantado e propenso ao bem.
+
+Muito menos, pois, se trata de uma nova geração corpórea, do que de uma nova geração de Espíritos. Sem dúvida, neste sentido é que Jesus entendia as coisas, quando declarava: “Digo-vos, em verdade, que esta geração não passará sem que estes fatos tenham ocorrido.” Assim, decepcionados ficarão os que contem ver a transformação operar-se por efeitos sobrenaturais e maravilhosos. ^192
+
+^192: 2 N.E.: Ver Nota Explicativa.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 28
+
+A época atual é de transição; confundem-se os elementos das duas gerações. Colocados no ponto intermédio, assistimos à partida de uma e à chegada da outra, já se assinalando cada uma, no mundo, pelos caracteres que lhes são peculiares.
+
+Têm ideias e pontos de vista opostos as duas gerações que se sucedem. Pela natureza das disposições morais, porém, sobretudo das disposições intuitivas e inatas, torna-se fácil distinguir a qual das duas pertence cada indivíduo.
+
+Cabendo-lhe fundar a era do progresso moral, a nova geração se distingue por inteligência e razão geralmente precoces, juntas ao sentimento inato do bem e a crenças espiritualistas, o que constitui sinal indubitável de certo grau de adiantamento anterior. Não se comporá exclusivamente de Espíritos eminentemente superiores, mas dos que, já tendo progredido, se acham predispostos a assimilar todas as ideias progressistas e aptos a secundar o movimento de regeneração.
+
+O que, ao contrário, distingue os Espíritos atrasados é, em primeiro lugar, a revolta contra Deus, pelo se negarem a reconhecer qualquer poder superior aos poderes humanos; a propensão instintiva para as paixões degradantes, para os sentimentos antifraternos de egoísmo, de orgulho, de inveja, de ciúme; enfim, o apego a tudo o que é material: a sensualidade, a cupidez, a avareza.
+
+Desses vícios é que a Terra tem de ser expurgada pelo afastamento dos que se obstinam em não emendar-se; porque são incompatíveis com o reinado da fraternidade e porque o contato com eles constituirá sempre um sofrimento para os homens de bem. Quando a Terra se achar livre deles, os homens caminharão sem óbices para o futuro melhor que lhes está reservado, mesmo neste mundo, por prêmio de seus esforços e de sua perseverança, enquanto esperem que uma depuração mais completa lhes abra o acesso aos mundos superiores.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 29
+
+Não se deve entender que por meio dessa emigração de Espíritos sejam expulsos da Terra e relegados para mundos inferiores todos os Espíritos retardatários. Muitos, ao contrário, aí voltarão, porquanto muitos há que o são porque cederam ao arrastamento das circunstâncias e do exemplo. Nesses, a casca é pior do que o cerne. Uma vez subtraídos à influência da matéria e dos prejuízos do mundo corporal, eles, em sua maioria, verão as coisas de maneira inteiramente diversa daquela por que as viam quando em vida, conforme os múltiplos casos que conhecemos. Para isso, têm a auxiliá-los Espíritos benévolos que por eles se interessam e se dão pressa em esclarecê-los e em lhes mostrar quão falso era o caminho que seguiam. Nós mesmos, pelas nossas preces e exortações, podemos concorrer para que eles se melhorem, visto que entre mortos e vivos há perpétua solidariedade.
+
+É muito simples o modo por que se opera a transformação, sendo, como se vê, todo ele de ordem moral, sem se afastar em nada das leis da natureza.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 30
+
+Sejam os que componham a nova geração Espíritos melhores, ou Espíritos antigos que se melhoraram, o resultado é o mesmo. Desde que trazem disposições melhores, há sempre uma renovação. Assim, segundo suas disposições naturais, os Espíritos encarnados formam duas categorias: de um lado, os retardatários, que partem; de outro, os progressistas, que chegam. O estado dos costumes e da sociedade estará, portanto, no seio de um povo, de uma raça, ou do mundo inteiro, em relação com aquela das duas categorias que preponderar.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 31
+
+Uma comparação vulgar ainda melhor dará a compreender o que se passa nessa circunstância. Figuremos um regimento composto na sua maioria de homens turbulentos e indisciplinados, os quais ocasionarão nele constantes desordens que a lei penal terá por vezes dificuldades em reprimir. Esses homens são os mais fortes, porque mais numerosos do que os outros. Eles se amparam, animam e estimulam pelo exemplo. Os poucos bons nenhuma influência exercem; seus conselhos são desprezados; sofrem com a companhia dos outros, que os achincalham e maltratam. Não é essa uma imagem da sociedade atual?
+
+Suponhamos que esses homens são retirados um a um, dez a dez, cem a cem, do regimento e substituídos gradativamente por iguais números de bons soldados, mesmo por alguns dos que, já tendo sido expulsos, se corrigiram. Ao cabo de algum tempo, existirá o mesmo regimento, mas transformado. A boa ordem terá sucedido à desordem
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 32
+
+As grandes partidas coletivas, entretanto, não têm por único fim ativar as saídas; têm igualmente o de transformar mais rapidamente o espírito da massa, livrando-a das más influências e o de dar maior ascendente às ideias novas.
+
+Por estarem muitos, apesar de suas imperfeições, maduros para a transformação, é que muitos partem, a fim de apenas se retemperarem em fonte mais pura. Enquanto se conservassem no mesmo meio e sob as mesmas influências, persistiriam nas suas opiniões e nas suas maneiras de apreciar as coisas. Uma estada no mundo dos Espíritos bastará para lhes descerrar os olhos, por isso que aí veem o que não podiam ver na Terra. O incrédulo, o fanático, o absolutista, poderão, conseguintemente, voltar com ideias inatas de fé, tolerância e liberdade. Ao regressarem, acharão mudadas as coisas e experimentarão a influência do novo meio em que houverem nascido. Longe de se oporem às novas ideias, constituir-se-ão seus auxiliares
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 33
+
+A regeneração da humanidade, portanto, não exige absolutamente a renovação integral dos Espíritos: basta uma modificação em suas disposições morais. Essa modificação se opera em todos quantos lhe estão predispostos, desde que sejam subtraídos à influência perniciosa do mundo. Assim, nem sempre os que voltam são outros Espíritos; são com frequência os mesmos Espíritos, mas pensando e sentindo de outra maneira.
+
+Quando insulado e individual, esse melhoramento passa despercebido e nenhuma influência ostensiva alcança sobre o mundo. Muito outro é o efeito, quando a melhora se produz simultaneamente sobre grandes massas, porque, então, conforme as proporções que assuma, numa geração, pode modificar profundamente as ideias de um povo ou de uma raça.
+
+É o que quase sempre se nota depois dos grandes choques que dizimam as populações. Os flagelos destruidores apenas destroem corpos, não atingem o Espírito; ativam o movimento de vaivém entre o mundo corporal e o mundo espiritual e, por conseguinte, o movimento progressivo dos Espíritos encarnados e desencarnados. É de notar-se que em todas as épocas da História, às grandes crises sociais se seguiu uma era de progresso.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 34
+
+Opera-se presentemente um desses movimentos gerais, destinados a realizar uma remodelação da humanidade. A multiplicidade das causas de destruição constitui sinal característico dos tempos, visto que elas apressarão a eclosão dos novos germens. São as folhas que caem no outono e às quais sucedem outras folhas cheias de vida, porquanto a humanidade tem suas estações, como os indivíduos têm suas várias idades. As folhas mortas da humanidade caem batidas pelas rajadas e pelos golpes de vento, porém, para renascerem mais vivazes sob o mesmo sopro de vida, que não se extingue, mas se purifica.
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+###### 35
+
+Para o materialista, os flagelos destruidores são calamidades carentes de compensação, sem resultados aproveitáveis, pois que, na opinião deles, os aludidos flagelos aniquilam os seres para sempre. Para aquele, porém, que sabe que a morte unicamente destrói o envoltório, tais flagelos não acarretam as mesmas consequências e não lhe causam o mínimo pavor; ele lhes compreende o objetivo e não ignora que os homens não perdem mais por morrerem juntos, do que por morrerem isolados, dado que, duma forma ou doutra, a isso hão de todos sempre chegar.
+
+Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, digam o que disserem, não fugirão à lei comum; cairão a seu turno, como os outros, e, então, que lhes acontecerá? Eles dizem: Nada! Viverão, no entanto, a despeito de si próprios e se verão, um dia, forçados a abrir os olhos.
+
+---
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::

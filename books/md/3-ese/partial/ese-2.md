@@ -1,0 +1,253 @@
+
+## 2. 🗃️ Pós-textual {#ese-2}
+
+### 2.01 📄 Nota explicativa {#ese-2-01}
+
+Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. ... Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 *Revista Espírita* de 1868)
+{:.grey}
+
+A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
+
+A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
+
+1. ✨ *O Livro dos Espíritos* (1857),
+
+2. ✒️ *O Livro dos Médiuns* (1861),
+
+3. 🕊️ *O Evangelho segundo o Espiritismo* (1864),
+
+4. 🔥 *O Céu e o Inferno* (1865),
+
+5. 🌱 *A Gênese* (1868),
+
+além da obra 🔍 **O Que é o Espiritismo** (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 *Obras Póstumas* (1890).
+
+O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
+
+1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
+
+2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
+
+3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
+
+4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
+
+Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
+
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de ✨ *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+
+O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
+
+Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “_resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc._” (📓 *Revista Espírita*, 1862). De fato, as leis universais do amor, da caridade, da imortalidade da alma(Alma){:.l}, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
+
+Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
+
+O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (✨ *O Livro dos Espíritos*, `LDE-q207`(#LDE-q207))
+>
+... o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 *Revista Espírita*, 1861)
+>
+Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 *Revista Espírita*, 1867)
+>
+Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 *A Gênese*, cap. 1, item 36 Vide também 📓 *Revista Espírita*, 1867)
+{:.grey}
+
+Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
+
+É baseado nesses informes “_científicos_” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
+
+Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. 📓 *Revista Espírita* de 1863)
+>
+O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (🕊️ *O Evangelho segundo o Espiritismo*, cap. 17, item 3)
+{:.grey}
+
+É importante compreender, também, que os textos publicados por Allan Kardec na 📓 *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 *A Gênese*, o Codificador explica essa metodologia:
+
+Quando, na 📓 *Revista Espírita* de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 *A Gênese*, cap. 11, item 43, Nota)
+{:.grey}
+
+Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
+
+É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 *Revista Espírita*, 1862, p. 38.)
+{:.grey}
+
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.^27
+
+A Editora (FEB)
+{:.author}
+
+---
+
+
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+### 2.02 📑 Índice geral {#ese-2-02}
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### A
+
+##### 🏷️ item
+
+#### B
+
+##### 🏷️ item
+
+#### C
+
+##### 🏷️ item
+
+#### D
+
+##### 🏷️ item
+
+#### E
+
+##### 🏷️ item
+
+#### F
+
+##### 🏷️ item
+
+#### G
+
+##### 🏷️ item
+
+#### H
+
+##### 🏷️ item
+
+#### I
+
+##### 🏷️ item
+
+#### J
+
+##### 🏷️ item
+
+#### K
+
+##### 🏷️ item
+
+#### L
+
+##### 🏷️ item
+
+#### M
+
+##### 🏷️ item
+
+#### N
+
+##### 🏷️ item
+
+#### P
+
+##### 🏷️ item
+
+#### Q
+
+##### 🏷️ item
+
+#### R
+
+##### 🏷️ item
+
+#### S
+
+##### 🏷️ item
+
+#### T
+
+##### 🏷️ item
+
+#### U
+
+##### 🏷️ item
+
+#### V
+
+##### 🏷️ item
+
+#### W
+
+##### 🏷️ item
+
+#### X
+
+##### 🏷️ item
+
+#### Y
+
+##### 🏷️ item
+
+#### Z
+
+##### 🏷️ item
+
+### 2.03 📃 Notas de rodapé {#ese-2-03}
+
+^1: Nota de Allan Kardec (A.K.): Houvéramos, sem dúvida, podido apresentar, sobre cada assunto, maior número de comunicações obtidas numa porção de outras cidades e centros, além das que citamos. Tivemos, porém, de evitar a monotonia das repetições inúteis e limitar a nossa escolha às que, tanto pelo fundo quanto pela forma, se enquadravam melhor no plano desta obra, reservando para publicações ulteriores as que não puderam caber aqui. Quanto aos médiuns, abstivemo-nos de nomeá-los. Na maioria dos casos, não os designamos a pedido deles próprios e, assim sendo, não convinha fazer exceções. Ademais, os nomes dos médiuns nenhum valor teriam acrescentado à obra dos Espíritos. Mencioná-los mais não fora, então, do que satisfazer ao amor-próprio, coisa a que os médiuns verdadeiramente sérios nenhuma importância ligam. Compreendem eles que, por ser meramente passivo o papel que lhes toca, o valor das comunicações em nada lhes exalça o mérito pessoal; e que seria pueril envaidecerem-se de um trabalho de inteligência ao qual é apenas mecânico o concurso que prestam.
+
+^2: N.E. de 1947: Não confundir esse Hillel que fundou a seita dos fariseus com o seu homônimo que viveu duzentos anos mais tarde e estabeleceu os princípios religiosos e sociais de um sistema todo de tolerância e amor, sistema hoje conhecido por Hilelismo.
+
+^3: A.K.: A morte de Jesus, supostamente escrita por um essênio, é obra inteiramente apócrifa, cujo único fim foi servir de apoio a uma opinião. Ela traz em si mesma a prova da sua origem moderna.
+
+^4: N.E. de 1947: Allan Kardec cita a parte mais importante do primeiro mandamento, e deixa de transcrever as seguintes frases: “…porque eu, o Senhor vosso Deus, sou Deus zeloso, que puno a iniquidade dos pais nos filhos, na terceira e na quarta gerações daqueles que me aborrecem, e uso de misericórdia até mil gerações daqueles que me amam e guardam os meus mandamentos.” (Êxodo, 20:5 e 6.)
+Nas traduções feitas pelas Igrejas católica e protestante, essa parte do mandamento foi truncada para harmonizá-la com a doutrina da encarnação única da alma(Alma){:.l}. Onde está “na terceira e na quarta gerações”, conforme a tradução Brasileira da Bíblia, a Vulgata Latina (in tertiam et quartam generationem), a tradução de Zamenhof (en la tria kaj kvara generacioj), mudaram o texto para “até a terceira e quarta gerações”.
+Esses textos truncados que aparecem na tradução da Igreja Anglicana, na Católica de Figueiredo, na Protestante de Almeida e outras, tornam monstruosa a Justiça divina, pois que filhos, netos, bisnetos, tetranetos inocentes teriam de ser castigados pelo pecado dos pais, avós, bisavós, tetravós. Foi uma infeliz tentativa de acomodação da Lei à vida única.
+O texto certo que, por mercê de Deus, já está reproduzido pelas edições recentíssimas a que nos referimos — traduções Brasileira e de Zamenhof —, que conferem com São Jerônimo, mostra que a Lei ensina veladamente a reencarnação e as expiações e provas. Na primeira e na segunda gerações, como contemporâneos de seus filhos e netos, o Espírito culpado ainda não reencarnou, mas um pouco mais tarde — na terceira e quarta gerações — já ele voltou e recebe as consequências de suas faltas. Assim, o culpado mesmo, e não outrem, paga sua dívida.
+Logo, tem-se de excluir a 1ª e 2ª gerações e expressar “na” 3ª e 4ª , como realmente é o original.
+Achamos conveniente acrescentar aqui esta nota, para facilitar a compreensão do estudioso que confronte a sua tradução da Bíblia com a citação do Mestre.
+
+^5: N.E.: Ver 👉 Nota explicativa.
+
+^6: N.E.: Ver 👉 Nota explicativa.
+
+^7: A.K.: A tradução de Osterwald está conforme o texto primitivo. Diz: Não renasce da água e do Espírito; a de Sacy diz: do Santo Espírito; a de Lamennais: do Espírito Santo. À nota de Allan Kardec, podemos hoje acrescentar que as modernas traduções já restituíram o texto primitivo, pois que só imprimem Espírito, e não Espírito Santo. Examinamos a tradução brasileira, a inglesa, a em Esperanto, a de Ferreira de Almeida, e em todas elas está somente Espírito. Além dessas modernas, encontramos a confirmação numa latina de Theodoro de Beza, de 1642, que diz: …genitus ex aqua et Spiritu… …et quod genitum est ex Spiritu, spiritus est. É fora de dúvida que a palavra Santo foi interpolada, como diz Kardec.
+
+^8: A.K.: Veja-se, para os desenvolvimentos do dogma da reencarnação, 📔 O Livro dos Espíritos, caps. 4 e 5; 🔍 **O que é o Espiritismo**, cap. 2, por Allan Kardec; Pluralidade das existências, por Pezzani.
+
+^9: N.E.: Ver 👉 Nota explicativa.
+
+^10: N.E.: Ver 👉 Nota explicativa.
+
+^11: N.E.: Nas traduções mais recentes e mais fiéis da Bíblia, a palavra escândalo está expressa por tropeço (na tradução em Esperanto falilo), querendo significar que Jesus se referia a tudo que leva o homem à queda: o mau exemplo, princípios falsos, abuso do poder etc.
+
+^12: A.K.: Esta comunicação foi dada com relação a uma pessoa cega, a cujo favor se evocara o Espírito J.-B. Vianney, cura d’Ars.
+
+^13: N.E.: Francisco Xavier Francisco de Jessu, dito, 1506-1552: cognominado apóstolo das Índias, jesuíta espanhol, pioneiro e cofundador da Companhia de Jesus, cujos membros são conhecidos como jesuítas. Exerceu sua atividade missionária no Oriente, evangelizou o sudeste da Ásia Índia, Malásia e Japão.
+
+^14: N.E.: Na época em que esta obra foi escrita, esse termo era comum, mas atualmente é considerado pejorativo e/ou preconceituoso. Hanseníase morfeia, mal de Hansen ou mal de Lázaro é uma doença infecciosa causada pela bactéria Mycobacterium leprae (também conhecida como bacilo de hansen) que afeta os nervos e a pele, podendo provocar danos severos.
+
+^15: Nota de Allan Kardec: Esta arrojada figura pode parecer um pouco forçada, pois que não se percebe que relação possa existir entre um camelo e uma agulha. Acontece, no entanto, que, em hebreu, a mesma palavra serve para designar um camelo e um cabo. Na tradução, deram-lhe o primeiro desses significados; mas é provável que Jesus a tenha empregado com a outra significação. É, pelo menos, mais natural.
+
+^16: N.E.: Ver Nota Explicativa.
+
+^17: N.E.: O último período desse parágrafo — “inevitável parece a luta entre os dois e difícil achar-se o segredo de como chegarem a equilíbrio” — não aparece nas novas edições francesas desde a a , mas se acha na a edição e, por isso, a repomos no texto, corrigindo um evidente erro de impressão.
+
+^18: N.E. de 1948: Kardec escreveu essas palavras no século XIX. Hoje, o Espírito humano tornou-se ainda mais exigente: a fé cega está abandonada; reina a descrença nas Igrejas que a impunham. As massas humanas vivem sem ideal, sem esperança em outra vida e tentam transformar o mundo pela violência. As lutas econômicas engendraram as mais exóticas doutrinas de ação e reação. Duas guerras mundiais assolaram o planeta, numa ânsia furiosa de predomínio econômico.
+Toda a esperança da Humanidade hoje se apoia no Espiritismo, na restauração do Cristianismo, baseada em fatos que demonstram os princípios básicos da doutrina cristã: eternidade da vida, responsabilidade ilimitada de pensamentos, palavras e atos.
+Sem a Terceira Revelação o mundo estaria irremediavelmente perdido pelo choque das mais desencontradas ideologias materialistas e que pregam a violência.
+
+^19: N.E. de 1948: Na terceira edição francesa esta mensagem saiu incompleta e sem assinatura. Completamo-la em confronto com a primeira edição do original.
+
+^20: A.K.: Ver, sobre a maneira de se distinguirem os Espíritos: O Livro dos Médiuns, a Parte, cap. 24 e seguintes.
+
+^21: Nota do Sr. Pezzani: Non odit, em latim: Kaï ou miseï em grego, não quer dizer odiar, porém, amar menos. O que o verbo grego miseïn exprime, ainda melhor o expressa o verbo hebreu, de que Jesus se há de ter servido. Esse verbo não significa apenas odiar, mas também amar menos, não amar igualmente, tanto quanto a um outro. No dialeto siríaco, do qual, dizem, Jesus usava com mais frequência, ainda melhor acentuada é essa significação. Nesse sentido é que o Gênesis, cap. 29, vers. 30-31, diz: E Jacó amou também mais a Raquel do que a Lia, e Jeová, vendo que Lia era odiada...” É evidente que o verdadeiro sentido aqui é: menos amada. Assim se deve traduzir. Em muitas outras passagens hebraicas e, sobretudo, siríacas, o mesmo verbo é empregado no sentido de não amar tanto quanto a outro, de sorte que fora contrassenso traduzi-lo por odiar, que tem outra acepção bem determinada. O texto de MateusMt, aliás, afasta toda a dificuldade.
+
+^22: N.E.: Ver Nota Explicativa.
+
+^23: N.E. de 1948: No original francês falta o versículo 12 que aqui repomos.
+
+^24: A.K.: Algumas traduções dizem: Não nos induzas à tentação (et ne nos inducas in tentationem). Essa expressão daria a entender que a tentação promana de Deus; que Ele, voluntariamente, impele os homens ao mal, ideia blasfematória que igualaria Deus a satanás e que, portanto, não poderia estar na mente de Jesus. É, aliás, conforme à doutrina vulgar sobre o papel dos demônios. (Veja-se: O céu e o inferno, 1a Parte, cap. IX, Os demônios.)
+
+^25: N. E. de 1947: Confrontando o v. 18 de Atos, cap. 2, com o correspondente de Joel, 2:29, notamos que, na transcrição da profecia para o Novo Testamento, há uma diferença: Pela profecia, trata-se de servos e servas (escravos e escravas) dos homens, e não de Deus, como se acha na transcrição. Eis o texto dos versículos, nas duas traduções mais modernas e fiéis: a Brasileira e a do Esperanto, as quais estão de acordo também com a Inglesa:
+Joel, 2:29: “Também sobre os servos e sobre as servas naqueles dias derramarei o meu Espírito.” – Atos, 2:18: “E, sobre os meus servos e sobre as minhas servas derramarei do meu Espírito naqueles dias, e profetizarão.”
+Na tradução em Esperanto está ainda mais claro que se trata até dos escravos e escravas dos homens, e não de servos de Deus. Ei-la: “Joel, 2:29: Eĉ sur la sklavojn kaj sur la sklavinojn Mi en tiu tempo elverŝos Mian spiriton!” – Atos, 2:18: “Kaj ĉ sur Miajn sklavojn kaj Miajn sklavinojn en tiu tempo Mi elverŝos Mian spiriton, kaj ili profetos.”
+Até os escravos e escravas (dos homens) receberão o Espírito, não somente os servos e servas de Deus (sacerdotes e sacerdotisas). A profecia em sua forma original está se cumprindo em nossos dias, porque a mediunidade brota em todas as classes, até nas pessoas mais humildes e obscuras, e não somente, como faz supor o texto de Atos, entre os sacerdotes (servos de Deus.
+

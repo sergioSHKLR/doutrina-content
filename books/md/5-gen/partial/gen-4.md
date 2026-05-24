@@ -1,0 +1,813 @@
+
+## 4. 🗃️ Pós-textual {#gen-4}
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+### 4.01 📄 Nota explicativa {#gen-4-01}
+
+Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. ... Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 *Revista Espírita* de 1868)
+{:.grey}
+
+A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
+
+A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
+
+1. ✨ *O Livro dos Espíritos* (1857),
+
+2. ✒️ *O Livro dos Médiuns* (1861),
+
+3. 🕊️ **O Evangelho segundo o Espiritismo** (1864),
+
+4. 🔥 *O Céu e o Inferno* (1865),
+
+5. 🌱 *A Gênese* (1868),
+
+além da obra 🔍 **O Que é o Espiritismo** (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 *Obras Póstumas* (1890).
+
+O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
+
+1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
+
+2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
+
+3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
+
+4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
+
+Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
+
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de ✨ *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+
+O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
+
+Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite “_resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc._” (📓 *Revista Espírita*, 1862). De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
+
+Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
+
+O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. (✨ *O Livro dos Espíritos*, `LDE-q207`(#LDE-q207))
+>
+... o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 *Revista Espírita*, 1861)
+>
+Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes. Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo. Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes. (📓 *Revista Espírita*, 1867)
+>
+Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade. (🌱 *A Gênese*, cap. 1, item 36 Vide também 📓 *Revista Espírita*, 1867)
+{:.grey}
+
+Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
+
+É baseado nesses informes “_científicos_” da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
+
+Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais. (KARDEC, Allan. 📓 *Revista Espírita* de 1863)
+>
+O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus. (🕊️ **O Evangelho segundo o Espiritismo**, cap. 17, item 3)
+{:.grey}
+
+É importante compreender, também, que os textos publicados por Allan Kardec na 📓 *Revista Espírita* tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱 *A Gênese*, o Codificador explica essa metodologia:
+
+Quando, na 📓 *Revista Espírita* de janeiro de 1862, publicamos um artigo sobre a “_interpretação da doutrina dos anjos decaídos_”, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica. (🌱 *A Gênese*, cap. 11, item 43, Nota)
+{:.grey}
+
+Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
+
+É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações. (📓 *Revista Espírita*, 1862, p. 38.)
+{:.grey}
+
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (“_benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas_”), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.^27
+
+A Editora (FEB)
+{:.author}
+
+---
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+### 4.02 📑 Índice geral {#gen-4-02}
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### A
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### B
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### C
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### D
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### E
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### F
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### G
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### H
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### I
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### J
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### K
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### L
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### M
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### N
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### P
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### Q
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### R
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### S
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### T
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### U
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### V
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### W
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### X
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### Y
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+#### Z
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+##### 🏷️ item
+
+::: expand 📑 Termos relacionados
+- 🔖 related term
+:::
+
+### 4.03 📃 Notas de rodapé {#gen-4-03}
+
+^1: N.E.: Ao leitor cabe, pois, durante a leitura desta obra, distinguir a parte apresentada como complementar da Doutrina, daquela que o próprio autor considera hipotética e pessoalmente dele.
+
+^2: Fogo, água, terra e ar.
+
+^3: A.K.: A palavra elemento não é empregada aqui no sentido de corpo simples, elementar, de moléculas primitivas, mas no de parte constitutiva de um todo. Neste sentido, pode dizer-se que o elemento espiritual tem parte ativa na economia do universo, como se diz que o elemento civil e o elemento militar figuram no cálculo de uma população; que o elemento religioso entra na educação; ou que na Argélia existem o elemento árabe e o elemento europeu.
+
+^4: N.E.: Refere-se ao século XIX.
+
+^5: N.E.: Arca da aliança, onde os hebreus guardavam as tábuas da lei a mando de Moisés.
+
+^6: N.E.: Ver Nota Explicativa.
+
+^7: A.K.: Muitos pais deploram a morte prematura dos filhos, para a educação deles fizeram grandes sacrifícios, e dizem consigo mesmos que tudo foi em pura perda. À luz do Espiritismo, porém, não lamentariam esses sacrifícios e estariam prontos a fazê-los, mesmo tendo a certeza de que veriam morrer seus filhos, porque sabem que se estes não a aproveitam na vida presente, essa educação servirá, primeiro que tudo, para o seu adiantamento espiritual; e, mais, que serão aquisições novas para outra existência e que, quando voltarem a este mundo, terão um patrimônio intelectual que os tornará mais aptos a adquirirem novos conhecimentos. Tais essas crianças que trazem, ao nascer, ideias inatas — que sabem, por assim dizer, sem que tenham aprendido na presente vida. Se os pais não têm a satisfação imediata de ver os filhos aproveitarem da educação que lhes deram, gozá-la-ão certamente mais tarde, quer como Espíritos, quer como homens. Talvez sejam eles de novo os pais desses mesmos filhos, que se apontam como afortunadamente dotados pela natureza e que devem as suas aptidões a uma educação precedente; assim também, se os filhos se desviam para o mal, pela negligência dos pais, estes podem vir a sofrer mais tarde desgostos e pesares que aqueles lhes suscitarão em nova existência. (O evangelho segundo o espiritismo, cap. V, item 21, Perda de pessoas amadas. Mortes prematuras.)
+
+^8: A.K.: O nosso papel pessoal, no grande movimento de ideias que se prepara pelo Espiritismo e que começa a operar-se, é o de um observador atento, que estuda os fatos para lhes descobrir a causa e tirar-lhes as consequências. Confrontamos todos os que nos têm sido possível reunir, comparamos e comentamos as instruções dadas pelos Espíritos em todos os pontos do globo e depois coordenamos metodicamente o conjunto; em suma, estudamos e demos ao público o fruto das nossas indagações, sem atribuirmos aos nossos trabalhos valor maior do que o de uma obra filosófica deduzida da observação e da experiência, sem nunca nos considerarmos chefe da doutrina, nem procurarmos impor as nossas ideias a quem quer que seja. Publicando-as, usamos de um direito comum e aqueles que as aceitaram o fizeram livremente. Se essas ideias acharam numerosas simpatias, é porque tiveram a vantagem de corresponder às aspirações de avultado número de criaturas, mas disso não colhemos vaidade alguma, dado que a sua origem não nos pertence. O nosso maior mérito é a perseverança e a dedicação à causa que abraçamos. Em tudo isso, fizemos o que outro qualquer poderia ter feito como nós, razão pela qual nunca tivemos a pretensão de nos julgarmos profeta ou messias, nem, ainda menos, de nos apresentarmos como tal.
+
+^9: N.E.: Assim compreendendo, a Federação Espírita Brasileira passou a publicar obras espíritas na língua internacional — o Esperanto.
+
+^10: 0 A.K.: O livro dos espíritos, a primeira obra que levou o Espiritismo a ser considerado de um ponto de vista filosófico, pela dedução das consequências morais dos fatos; que considerou todas as partes da Doutrina, tocando nas questões mais importantes que ela suscita, foi, desde o seu aparecimento, o ponto de união para o qual convergiram espontaneamente os trabalhos individuais. É notório que da publicação desse livro data a era do Espiritismo filosófico, que até então era conservado no domínio das experiências curiosas. Se esse livro conquistou as simpatias da maioria é que exprimia os sentimentos dela, correspondia às suas aspirações e encerrava também a confirmação e a explicação racional do que cada um obtinha em particular. Se ele estivesse em desacordo com o ensino geral dos Espíritos, teria caído no descrédito e no esquecimento. Ora, qual foi aquele ponto de convergência? Decerto não foi o homem, que nada vale por si mesmo, que morre e desaparece; mas, a ideia, que não fenece quando emanada de uma fonte superior ao homem.
+Essa espontânea concentração de forças dispersas deu lugar a uma amplíssima correspondência, monumento único no mundo, quadro vivo da verdadeira história do Espiritismo moderno, em que se refletem ao mesmo tempo os trabalhos parciais, os sentimentos múltiplos nascidos da Doutrina, dos resultados morais, das dedicações, dos desfalecimentos — arquivos preciosos para a posteridade, que poderá julgar os homens e as coisas por meio de documentos autênticos. Em presença desses testemunhos irrecusáveis, a que se reduzirão, com o tempo, todas as falsas alegações, as difamações da inveja e do ciúme?
+
+^11: A.K.: Significativo testemunho, tão notável quão tocante, dessa comunhão de ideias que se estabeleceu entre os espíritas, pela conformidade de suas crenças, são os pedidos de preces que nos chegam dos mais distantes países, desde o Peru até as extremidades da Ásia, feitos por pessoas de religiões e nacionalidades diversas e as quais nunca vimos. Não é isso um prelúdio da grande unificação que se prepara? Não é a prova de que por toda parte o Espiritismo lança raízes fortes? Digno de nota é que, de todos os grupos que se têm formado com a intenção premeditada de cindir, proclamando princípios divergentes, e de tantos outros que, apoiando-se em razões de amor-próprio ou de outras quaisquer, para não parecer que se submetem à lei comum, e por considerarem-se fortes o bastante para caminhar sozinhos, julgando-se possuidores de luzes suficientes para prescindirem de conselhos, nenhum chegou a constituir uma ideia que fosse preponderante e viável. Todos se extinguiram e/ou vegetaram na sombra. Nem de outro modo poderia ser, dado que, para se exalçarem, em vez de se esforçarem por proporcionar maior soma de satisfações, esses grupos discordantes rejeitavam princípios da Doutrina, precisamente os mais atraentes há nela: o que de mais consolador, de encorajador e de mais racional ela contém. Se tivessem compreendido a força dos elementos morais que lhe constituíram a unidade, não se teriam embalado com ilusões quiméricas. Ao contrário, tomando como se fosse o universo o pequeno círculo que constituíam, não viram nos seus novos adeptos mais do que uma camarilha facilmente derrubável por outra contrária. Era equivocar-se de modo singular no tocante aos caracteres essenciais da Doutrina Espírita, e semelhante erro só decepções podia acarretar. Em lugar de romperem a unidade, quebraram o único laço que lhes podia dar força e vida. (Veja-se: Revista espírita, abril de 1866: O Espiritismo sem os Espíritos, O Espiritismo independente.)
+
+^12: A.K.: Esse o objeto das nossas publicações, que se podem considerar o resultado de um trabalho de despojamento e renúncia. Nelas, todas as opiniões são discutidas, mas as questões não são apresentadas em forma de princípios, somente depois de haverem recebido a consagração de todas as comprovações, as quais lhes podem imprimir força de lei e permitir afirmações. Eis por que não preconizamos levianamente nenhuma teoria e é nisso exatamente que a doutrina, decorrendo do ensino geral, não representa de modo algum o produto de um sistema preconcebido. É isso que constitui a sua força e lhe garante o futuro.
+
+^13: N.E.: Locução latina que significa como professor; magistralmente; com verdadeiro conhecimento de causa.
+
+^14: A.K.: Veja-se, em O evangelho segundo o espiritismo, Introdução, item II, e Revista espírita, de abril de 1864: Autoridade da Doutrina Espírita. Controle universal do ensino dos Espíritos.
+
+^15: A.K.: Diante de declarações tão nítidas e tão categóricas, quais as que se contêm neste capítulo, caem por terra todas as alegações de tendências ao absolutismo e à autocracia dos princípios, bem como todas as falsas assimilações que algumas pessoas prevenidas ou mal informadas emprestam à Doutrina. Não são novas, aliás, estas declarações; temo-las repetido muitíssimas vezes nos nossos escritos, para que nenhuma dúvida persista a tal respeito. Elas, ao demais, assinalam o verdadeiro papel que nos cabe, único que ambicionamos: o de mero trabalhador.
+
+^16: A.K.: A anteposição do artigo à palavra Cristo (do gr. Khristós, ungido), empregada em sentido absoluto, é mais correta, atento que essa palavra não é o nome do Messias de Nazaré, mas uma qualidade tomada substantivamente. Dir-se-á, pois: Jesus era Cristo; era o Cristo; era o Cristo anunciado; a morte do Cristo e não de Cristo, ao passo que se diz: a morte de Jesus e não do Jesus. Em Jesus Cristo, as duas palavras reunidas formam um só nome próprio. É pela mesma razão que se diz: o Buda; Gautama conquistou a dignidade de Buda por suas virtudes e austeridades. Diz-se: a vida do Buda, do mesmo modo que: o exército do Faraó e não de Faraó; Henrique IV era rei; o título de rei; a morte do rei e não de rei.
+
+^17: N.E.: Fídias, escultor grego do séc. V a.C. Incumbido por Péricles de dirigir os trabalhos do Pártenon, encarregou-se da decoração esculpida (friso das Panateneias), apogeu do estilo clássico grego.
+
+^18: N.E.: Os efeitos citados são objeto de estudo há tempos, e hoje já são bem mais compreendidos.
+
+^19: N.E.: Kardec escreveu de acordo com os conhecimentos da época, antes de 1894, ano em que se descobriu que a doença, peste bubônica, era devida à bactéria Yersinia pestis (em homenagem ao bacteriologista francês Alexandre Yersin, 1863–1943), que é transmitida ao homem pela pulga do rato.
+
+^20:
+
+^21: A.K.: O erro está em pretender-se que a alma haja saído perfeita das mãos do Criador, quando este, ao contrário, quis que a perfeição resulte da depuração gradual do Espírito e seja obra sua. Houve Deus por bem que a alma, dotada de livre-arbítrio, pudesse optar entre o bem e o mal e chegasse às suas finalidades últimas de forma militante e resistindo ao mal. Se houvera criado a alma tão perfeita quanto Ele e, ao sair-lhe ela das mãos, a houvesse associado à sua beatitude eterna, Deus tê-la-ia feito, não à sua imagem, mas semelhante a si próprio. (Bonnamy, A razão do espiritismo, cap. VI.)
+
+^22: A.K.: Veja-se: Revista espírita, agosto de 1864, Extinção das raças.
+
+^23: A.K.: Sem prejulgar das consequências que se possam tirar desse princípio, apenas quisemos demonstrar, mediante essa explicação, que a destruição de uns seres vivos por outros em nada infirma a sabedoria divina e que, nas leis da natureza, tudo se encadeia. Esse encadeamento forçosamente se quebra, desde que se abstraia do princípio espiritual, razão por que muitas questões permanecem insolúveis, por só se levar em conta a matéria. As doutrinas materialistas trazem em si o princípio de sua própria destruição; têm contra si não só o antagonismo em que se acham com as aspirações da universalidade dos homens e suas consequências morais, que farão sejam elas, as doutrinas, repelidas como dissolventes da sociedade, mas também a necessidade que o homem experimenta de se inteirar de tudo o que resulta do progresso. O desenvolvimento intelectual conduz o homem à pesquisa das causas. Ora, por pouco que ele reflita, não tardará a reconhecer a impotência do materialismo para tudo explicar. Como é possível que doutrinas que não satisfazem ao coração, nem a razão, nem à inteligência, que deixam problemáticas as mais vitais questões, venham a prevalecer? O progresso das ideias matará o materialismo, como matou o fanatismo.
+
+^24: N.E.: Kardec se refere aos séculos XVII e XVIII.
+
+^25: N.E.: Do latim “de vista, por ter visto, por ter presenciado”.
+
+^26: de sua luz e atravessava o céu durante a noite com uma face obscura. A mitologia grega figurava puxado por quatro cavalos o carro de Apolo deus da beleza, da luz, das artes e da profecia. Anaximandro (610–547 a.C.) filósofo grego pré-socrático, considerou o infinito como o princípio do universo, de Mileto, sustentava, ao que refere Plutarco (c. 50–125 d.C.) escritor grego, que o Sol era um carro cheio de fogo muito vivo, que se escapava por uma abertura circular. Epicuro (341–270 a.C., filósofo grego, segundo uns, teria emitido a opinião de que o Sol se acendia pela manhã e se apagava à noite nas águas do oceano; segundo outros, ele considerava esse astro uma pedra-pomes aquecida até a incandescência. Anaxágoras (c. 500 a.C.–c. 428 a.C.) filósofo grego pré-socrático o tomava por um ferro esbraseado, do tamanho do Peloponeso. Coisa singular! os antigos eram tão invencivelmente induzidos a considerar real a grandeza aparente desse astro, que perseguiram o filósofo temerário por haver atribuído aquele volume ao facho do dia, fazendo-se necessária toda a autoridade de Péricles (c. 495 a.C.–429 a.C., político ateniense. Péricles foi discípulo de Anaxágoras, que foi acusado de impiedade para com os deuses e teve que sair de Atenas. para salvá-lo de uma condenação à morte e para que essa pena fosse comutada na de exílio.” (Flammarion, Estudos e leituras sobre a astronomia, p. 6.) Diante de tais ideias, emitidas no quinto século antes do Cristo, ao tempo da maior prosperidade da Grécia, não devem causar espanto aquelas que os homens das primeiras idades faziam sobre o sistema do mundo.
+
+^27:
+
+^28: N.E.: Atualmente, Júpiter possui 66 satélites conhecidos, quatro dos quais de dimensões planetárias.
+
+^29: A.K.: Este capítulo é textualmente extraído de uma série de comunicações ditadas à Sociedade Espírita de Paris, em 1862 e 1863, sob o título — Estudos uranográficos, e assinada GALILEU. Médium: C. F. Estas são as iniciais do nome de Camille Flammarion.
+
+^30: A.K.: Os principais corpos simples são: entre os não metálicos, o oxigênio, o hidrogênio, o azoto nitrogênio, o cloro, o carbono, o fósforo, o enxofre, o iodo; entre os metálicos, o ouro, a prata, a platina, o mercúrio, o chumbo, o estanho, o zinco, o ferro, o cobre, o arsênico, o sódio, o potássio, o cálcio, o alumínio etc.
+
+^31: N.E.: Os elementos químicos (denominação atual dos corpos simples) são classificados de acordo com a Classificação Periódica dos Elementos, de Mendeleiev (1834–1907, químico russo). A Química cataloga 105 elementos, dos quais 92 são encontrados na natureza e os demais, chamados transurânicos (porque são mais pesados que o elemento urânio), foram sintetizados em laboratório. A Classificação distribui os elementos de acordo com as suas propriedades, agrupando os metais, os não metais, os semimetais e os gases nobres. O elemento químico hidrogênio, por suas características especiais, é classificado à parte. Também se sabe que os elementos químicos são decomponíveis em subpartículas, as mais importantes são o próton, o nêutron e o elétron.
+
+^32: A.K.: Tal também a situação dos negadores do mundo dos Espíritos, quando, após se haverem despojado do envoltório carnal, contemplam, desdobrados às suas vistas, os horizontes desse mundo. Compreendem, então, quão ocas eram as teorias com que pretendiam tudo explicar por meio exclusivamente da matéria. Contudo, esses horizontes ainda lhes ocultam mistérios que só posteriormente se lhes desvendam, à medida que, depurando-se, eles se elevam. Desde, porém, os seus primeiros momentos no outro mundo, veem-se forçados a reconhecer a própria cegueira e quão longe estavam da verdade.
+
+^33: A.K.: Tudo reportamos ao que conhecemos e do que escapa à percepção dos nossos sentidos não compreendemos, como não compreende o cego de nascença os efeitos da luz e da utilidade dos olhos. Possível é, pois, que noutros meios, o fluido cósmico possua propriedades, seja suscetível de combinações de que não fazemos nenhuma ideia, produza efeitos apropriados a necessidades que desconhecemos, dando lugar a percepções novas ou a outros modos de percepção. Não compreendemos, por exemplo, que se possa ver sem os olhos do corpo e sem a luz. Quem nos diz, porém, que não existam outros agentes, afora a luz, aos quais são adequados organismos especiais? A vista sonambúlica, que nem a distância, nem os obstáculos materiais, nem a obscuridade detêm, nos oferece um exemplo disso. Suponhamos que, num mundo qualquer, os seres sejam normalmente o que só excepcionalmente o são os nossos sonâmbulos; eles, sem precisarem da nossa luz, nem dos nossos olhos, verão o que não podemos ver. O mesmo se dá com todas as outras sensações. As condições de vitalidade e de perceptibilidade, as sensações e as necessidades variam de conformidade com os meios.
+
+^34: A.K.: Se perguntásseis qual o princípio dessas forças e como pode esse princípio estar na substância mesma que o produz, responderíamos que a mecânica numerosos exemplos nos oferece desse fato. A elasticidade, que faz com que uma mola se distenda, não está na própria mola e não depende do modo de agregação das moléculas? O corpo que obedece à força centrífuga recebe a sua impulsão do movimento primitivo que lhe foi impresso.
+
+^35: N.E.: Atualmente, a Biologia classifica em cinco reinos os seres vivos: monera (bactérias e algas azuis ou cianobactérias), protista (amebas e paramécios), fungos (cogumelos e leveduras), vegetal e animal.
+
+^36: N.E.: Atualmente, a força de atração molecular a que se refere Galileu é chamada pelos astrofísicos de colapso gravitacional.
+
+^37: N.E.: Funda é arma de arremesso constituída por uma correia, ou corda dobrada, em cujo centro é colocado o objeto que se deseja lançar; atiradeira, catapulta etc.
+
+^38: A.K.: Esta teoria da Lua, nova inteiramente, explica, pela lei da gravitação, o motivo por que esse astro apresenta sempre a mesma face para a Terra. Tendo o centro de gravidade num dos pontos de sua superfície, em vez de estar no centro da esfera, e sendo, em consequência, atraído para a Terra por uma força maior do que a que atrai as partes mais leves, a Lua pode ser tida como uma dessas figuras chamadas vulgarmente joão-teimoso, que se levantam constantemente sobre a sua base, ao passo que os planetas, cujo centro de gravidade está a distâncias iguais da superfície, giram regularmente sobre o próprio eixo. Os fluidos vivificantes, gasosos ou líquidos, por virtude da sua leveza específica, se encontrariam acumulados no hemisfério superior, perenemente oposto à Terra. O hemisfério inferior, o único que vemos, seria desprovido de tais fluidos e, por isso, impróprio à vida que, entretanto, reinaria no outro. Se, pois, o hemisfério superior é habitado, seus habitantes jamais viram a Terra, a menos que excursionem pelo outro hemisfério, o que lhes seria impossível, desde que este carece das condições indispensáveis à vitalidade.
+
+Por muito racional e científica que seja essa teoria, como ainda não foi confirmada por nenhuma observação direta, somente a título de hipótese pode ser aceita e como ideia capaz de servir de baliza à Ciência. Não se pode, porém, deixar de convir em que é a única, até o presente, que dá uma explicação satisfatória das particularidades que apresenta o globo lunar.
+
+Grande, por certo, é ainda o número dos retardatários; mas, que podem eles contra a onda que se alteia, senão atirar-lhe algumas pedras? Essa onda é a geração que surge, ao passo que eles se somem com a geração que vai desaparecendo todos os dias a passos largos. Até lá, porém, eles defenderão palmo a palmo o terreno. Haverá, portanto, uma luta inevitável, mas luta desigual, porque é a do passado decrépito, a cair em frangalhos, contra o futuro juvenil. Será a luta da estagnação contra o progresso, da criatura contra a vontade do Criador, uma vez que chegados são os tempos por Ele determinados.
+
+^39: N.E.: A Lua é o único satélite natural da Terra. Atualmente, a teoria mais aceita para a origem da Lua surgiu em 1975, a teoria do Grande Impacto, proposta pelo Instituto de Ciências Planetárias de Tucson e pelo Instituto Harvard-Smithsonian de Astrofísica. Após a análise de amostras de solo e rochas lunares coletadas pelas missões Apollo, os cientistas chegaram à conclusão que há cerca de 4.5 bilhões de anos, durante a formação da Terra, um objeto do tamanho de Marte colidiu com a Terra, essa violenta colisão lançou material, pedaços de rocha líquida, para a órbita da Terra; a Lua teria se formado, então, a partir da condensação do material expelido por essa colisão, tendo ficado aprisionada pelo campo gravitacional da Terra.
+
+^40: N.E.: Em 1877, foram descobertos dois satélites de Marte: Fobos e Deimos.
+
+^41: N.E.: Nuvem luminosa de gás e poeira, de aparência tênue e brumosa, que envolve o núcleo de um astro; coma.
+
+^42: N.E.: Posição orbital apresentada por um satélite terrestre (a Lua ou satélite artificial) quando, em sua revolução, se encontra mais afastado da Terra.
+
+^43: N.E.: Ponto da órbita de um astro ou satélite em torno da Terra, no qual ele se encontra mais próximo de nosso planeta.
+
+^44: A.K.: Mais de 3 trilhões e 400 bilhões de léguas.
+
+^45: A.K.: É o a que se dá, em Astronomia, o nome de “estrelas duplas”. São dois sóis, um dos quais gira em torno do outro, como um planeta em torno do seu sol. De que singular e magnífico espetáculo não gozarão os habitantes dos mundos que formam esses sistemas iluminados por duplo sol! Mas, também, quão diferentes não hão de ser neles as condições da vitalidade!
+
+^46: N.E.: Atualmente, a Ciência atribui à Via Láctea uma assombrosa quantidade de estrelas, que varia de 200 a 400 bilhões de sóis.
+
+^47:
+
+^48: A.K.: Dá-se, em Astronomia, o nome de nebulosas irresolúveis àquelas em que ainda se não puderam distinguir as estrelas que as compõem. Foram, a princípio, consideradas acervos de matéria cósmica em vias de condensação para formar mundos; hoje, porém, geralmente se entende que essa aparência é devida ao afastamento e que, com instrumentos bastante poderosos, todas seriam resolúveis.
+
+^49: A.K.: Há aqui um efeito do tempo que a luz gasta para atravessar o espaço. Sendo de 70.000 léguas por segundo a sua velocidade, ela nos chega do Sol em 8 minutos e 13 segundos. Daí resulta que, se um fenômeno se passa na superfície do Sol, não o percebemos senão 8 minutos mais tarde e, pela mesma razão, ainda o veremos 8 minutos depois da sua cessação. Se, em virtude do seu afastamento, a luz de uma estrela consome mil anos para nos chegar, só mil anos depois da sua formação veremos essa estrela. (Veja-se, para explicação e descrição completa desse fenômeno, a Revista espírita de março e maio de 1867, resenha de Lúmen, por C. Flammarion.)
+
+^50: N.E.: Terra que é úmida, coesa, forte.
+
+^51: N.E.: Solos de calcário e argila, usados em olarias e como corretivo de terras agrícolas.
+
+^52: A.K.: Fóssil, do latim fossilia, fossĭlis, derivado de fossa, e de fodere, cavar, escavar a terra, é uma palavra que em Geologia se emprega designando corpos ou despojos de corpos orgânicos de seres que viveram anteriormente às épocas históricas. Por extensão, diz-se igualmente das substâncias minerais que revelam traços da presença de seres organizados, quais as marcas deixadas por vegetais ou animais.
+
+O termo petrificado se emprega relativamente aos corpos que se transformaram em pedra, pela infiltração de matérias silicosas ou calcárias nos tecidos orgânicos. Todas as petrificações necessariamente são fósseis, mas nem todos os fósseis são petrificações.
+
+Nos objetos que se revestem de uma camada pedregosa quando mergulhados em certas águas carregadas de substâncias calcárias, como as do regato de Saint Allyre, perto de Clermont, no Auvergne (França), não são petrificações propriamente ditas, porém simples incrustações.
+
+Os monumentos, inscrições e objetos produzidos por fabricação humana, esses pertencem à Arqueologia.
+
+^53: N.E.: Sabemos que as primeiras formas de vida (bactérias e algas azul-esverdeadas) surgiram há cerca de 3.500 milhões de anos, e há 570 milhões de anos as plantas e os animais complexos começaram a se desenvolver.
+
+^54: A.K.: No ponto a que Georges Cuvier 1769–1832, zoólogo e paleontólogo francês levou a ciência paleontológica, um só osso basta frequentemente para determinar o gênero, a espécie, a forma de um animal, seus hábitos, e para o reconstruir todo inteiro.
+
+^55:
+
+^56: N.E.: Estima-se que a espessura da crosta seja de 6km no leito dos oceanos e 40km na crosta continental.
+
+^57: N.E.: Teoria Calórica é uma teoria obsoleta que supunha a existência de um fluido invisível e inodoro, chamado calórico, que todos os corpos conteriam em quantidades determinadas em sua composição, era considerado o causador das alterações de temperatura até metade do século XIX. Quanto maior fosse a temperatura de um corpo, maior seria a sua quantidade de calórico, limitada, para cada corpo, a uma quantidade finita. A teoria do calórico explicava o comportamento dos gases e do vapor em termos de uma distinção entre o estado livre e latente do calor. Calor livre podia ser sentido e medido por termômetros; calor latente, por estar intimamente ligado com as ligações da moléculas, não poderia.
+
+^58: N.E.: Parece-nos que Kardec se referia apenas à Terra propriamente dita, não levando em conta os aerólitos e a poeira cósmica que a ela se vêm juntando.
+
+^59: N.E.: Refere-se à parte da Era Pré-Cambriana, de acordo com a Escala de Tempo Geológico moderna.
+
+^60: N.E.: No original francês foi usado o termo “boulet”, projetil esférico de metal, munição de canhões.
+
+^61: N.E.: Refere-se à maior parte da Era Pré-Cambriana e toda a Era Paleozoica atuais.
+
+^62: N.E.: Atualmente se sabe que os primeiros seres vivos eram unicelulares, bactérias muito primitivas e desprovidas de núcleos.
+
+^63: N.E.: Classe de animais invertebrados, cujos órgãos estão dispostos simetricamente em torno de um eixo, ex.: equinodermos e pólipos.
+
+^64: A.K.: Planta dos pauis, vulgarmente chamada cavalinha ou cauda de cavalo.
+
+^65: A.K.: A turfa se formou da mesma maneira, pela decomposição dos amontoados de vegetais, em terrenos pantanosos; mas, com a diferença de que, sendo de formação muito mais recente e sem dúvida noutras condições, ela não teve tempo de se carbonizar.
+
+^66: A.K.: Na baía de Fundy (Nova Escócia), o Sr. Lyell Charles Lyell (1797–1875), geólogo britânico encontrou, numa camada de hulha de espessura de 400 metros, 68 níveis diferentes, apresentando traços evidentes de muitos solos de florestas, de cujas árvores os troncos ainda estavam guarnecidos de suas raízes. (L. Figuier)
+
+^67:
+
+^68: N.E.: Consultar nota 31.
+
+^69: A.K.: O primeiro fóssil deste animal foi descoberto, na Inglaterra, em 1823. Depois, encontraram-se outros na França e na Alemanha.
+
+^70: N.E.: Somente após a desencarnação do autor, ocorrida em 1869, foram descobertos, na Inglaterra, fragmentos suficientes à montagem de um exemplar completo, pelos paleontólogos, permitindo melhor elucidar detalhes da descrição desse dinossauro. Ficou, então, claro que ele tinha uma calosidade óssea sobre o focinho, como os iguanídeos uma crista espinhosa no dorso, inexistindo chifres, que, no entanto, eram bastante evidentes em outros monstros, como nos saurópodes.
+
+^71: N.E.: Período Terciário da Era Cenozoica atual.
+
+^72:
+
+^73: N.E.: No Período Secundário, que corresponde à Era Mesozoica, ocorre o desenvolvimento e expansão dos dinossauros; nesta mesma Era os continentes já estavam formados. No final da Era Mesozoica, há 65 milhões de anos, ocorre a extinção dos dinossauros.
+
+^74: N.E.: A Paleontologia situa o surgimento dos pássaros na Era Mesozoica moderna, mais exatamente no Período Jurássico, que corresponde ao Período Secundário desta obra.
+
+^75: N.E.: Corresponde à época do Pleistoceno, no Período Quaternário da Era Cenozoica
+
+^76: A.K.: Um desses blocos, evidentemente provindo, pela sua composição, das montanhas da Noruega, serve de pedestal à estátua de Pedro, o Grande, em São Petersburgo.
+
+^77: A.K.: Em 1771, o naturalista russo Pallas Peter Simon Pallas (1741–1811), alemão, se tornou famoso na Rússia encontrou nos gelos do Norte o corpo inteiro de um mamute revestido da pele e conservando parte das suas carnes. Em 1799, descobriu-se outro, igualmente encerrado num enorme bloco de gelo, na embocadura do Lena, na Sibéria, e que foi descrito pelo naturalista Adams. Os iacutos das circunvizinhanças lhe despedaçaram as carnes para alimentar seus cães. A pele se achava coberta de pelos negros e o pescoço guarnecia-o espessa crina. A cabeça sem as defesas, que mediam mais de 4 metros, pesava mais de 200 quilos. Seu esqueleto está no museu de São Petersburgo. Nas ilhas e nas bordas do mar glacial encontra-se tão grande quantidade de defesas, que elas fazem objeto de considerável comércio, sob o nome de marfim fóssil ou da Sibéria.
+
+^78: Período pós-diluviano ou atual.
+
+^79: Nascimento do homem.
+
+^80: A.K.: Veja-se: O homem antediluviano, por Boucher de Chévecoeur de Perthes. — Os instrumentos de pedra, idem. — Discurso sobre as revoluções do globo, por Georges Cuvier, anotado pelo Dr. Hoefer.
+
+^81: N.E.: Atualmente se sabe que a existência da espécie humana remonta a 3 milhões de anos, o que corresponde ao Plioceno, última época do período Terciário.
+
+^82:
+
+^83:
+
+^84: N.E.: A Ciência atualmente define os cometas como blocos de gelo e rocha com alguns quilômetros de extensão; quando um cometa se aproxima do Sol, o gelo superficial se evapora, formando uma “bola” de vapor que adquire a forma de longa cauda. Hoje, sabemos que os cometas não são tão inofensivos quando se chocam com planetas; mas em choque com o Sol não causaria qualquer dano a essa estrela.
+
+^85: A.K.: Completa dissertação, à altura da ciência moderna, sobre a natureza do Sol e dos cometas, se encontra nos Estudos e leituras sobre a Astronomia, de Camille Flammarion.
+
+^86: N.E.: Juno, Ceres e Palas são alguns dos mais de 4.000 asteroides identificados pelos astrônomos; asteroides são fragmentos de rocha que giram em torno do Sol.
+
+^87: N.E.: Estima-se que a Terra tenha iniciado seu processo de formação há 4.600 milhões de anos. O processo de solidificação da crosta teria ocorrido nos primeiros 500 milhões de anos.
+
+^88: A.K.: Vejam-se, para maiores esclarecimentos sobre este assunto e sobre a lei do decrescimento do calor: Cartas acerca das revoluções do globo, pelo Dr. Bertrand, ex-aluno da Escola Politécnica de Paris, carta II. — Esta obra, à altura da ciência moderna, escrita com simplicidade e sem espírito de sistema, encerra um estudo geológico de grande interesse.
+
+^89:
+
+^90:
+
+^91:
+
+^92: A.K.: O século XVIII registrou notável exemplo de um fenômeno desse gênero. A seis dias de marcha da cidade do México, existia, em 1750, uma região fértil e bem cultivada, onde davam em abundância arroz, milho e bananas. No mês de junho, pavorosos tremores de terra abalaram o solo, renovando-se continuamente durante dois meses inteiros. Na noite de 28 para 29 de setembro, violenta convulsão se produziu; um território de muitas léguas de extensão entrou a erguer-se pouco a pouco e acabou por alcançar a altitude de 500 pés, numa superfície de 10 léguas quadradas. O terreno ondulava, como as vagas do mar ao sopro da tempestade, milhares de montículos se elevavam e afundavam alternativamente; afinal, abriu-se um abismo de perto de 3 léguas, donde eram lançados à prodigiosa altura fumo, fogo, pedras esbraseadas e cinzas. Seis montanhas surgiram desse abismo hiante, entre as quais o vulcão a que foi dado o nome de Jorullo, que agora se eleva a 550 metros acima da antiga planície. No momento em que principiaram os abalos do solo, os dois rios Cuitimba e San Pedro, refluindo, inundaram toda a planície hoje ocupada pelo Jorullo; no terreno, porém, que sem cessar se elevava, outro sorvedouro se abriu e os absorveu. Os dois reapareceram mais tarde, a oeste, num ponto muito afastado de seus antigos leitos. (Lois Figuier, A Terra antes do dilúvio, p. 370.)
+
+^93: A.K.: A lenda indiana sobre o dilúvio refere, segundo o livro dos Vedas, que Brama, transformado em peixe, se dirigiu ao piedoso monarca Vaivaswata e lhe disse: “Chegou o momento da dissolução do universo; em breve estará destruído tudo o que existe na Terra. Tens que construir um navio em que embarcarás, depois de teres embarcado sementes de todos os vegetais. Esperar-me-ás nesse navio e eu virei ter contigo, trazendo à cabeça um chifre pelo qual me reconhecerás.” O santo obedeceu; construiu um navio, embarcou nele e o atou por um cabo muito forte ao chifre do peixe. O navio foi rebocado durante muitos anos com extrema rapidez, por entre as trevas de uma tremenda tempestade, abordando, afinal, ao cume do monte Himawat (Himalaia). Brama ordenou em seguida a Vaivaswata que criasse todos os seres e com eles povoasse a Terra.
+
+^94:
+
+^95: A.K.: O deslocamento gradual das linhas isotérmicas, fenômeno que a Ciência reconhece de modo tão positivo como o do deslocamento do mar, é um fato material que apoia esta teoria.
+
+^96: A.K.: Entre os fatos mais recentes que provam o deslocamento do mar, podem citar-se estes:
+
+No golfo da Gasconha ou Golfo de Biscaia, separa a costa oeste da França da costa norte da Espanha, entre o velho Soulac e a Torre de Cordouan, quando o mar está calmo, percebe-se no fundo da água trechos de muralha: são os restos da antiga e grande cidade de Noviomagus, invadida pelas ondas em 580. O rochedo de Cordouan, que se achava então ligado à margem, está agora a 12 quilômetros.
+
+No mar da Mancha, sobre a costa do Havre, as águas dia a dia ganham terreno e minam as penedias de Sainte-Adresse, que pouco a pouco desmoronam. A dois quilômetros da costa entre Sainte-Adresse e o cabo de Hève, existe um banco que outrora se achava à vista e ligado à terra firme. Antigos documentos atestam que nesse lugar, por sobre o qual hoje se navega, existia a aldeia de Saint-Denis-chef-de-Caux. Tendo o mar invadido, no século XIV, o terreno, a igreja foi tragada em 1378. Dizem que, com bom tempo, se lhe veem os restos no fundo do mar.
+
+Em quase toda a extensão do litoral da Holanda, o mar só é contido a poder de diques, que de tempos a tempos se rompem. O antigo lago de Flevo, que se reuniu ao mar em 1225, forma hoje o golfo de Zuyderzée. Essa irrupção do oceano tragou muitas povoações.
+
+Segundo isto, o território de Paris e da França toda seria de novo ocupado pelo mar, como já o foi muitas vezes, conforme o demonstram as observações geológicas. Então, as partes montanhosas formarão ilhas, como o são agora Jersey, Guernesey e a Inglaterra, outrora contíguas ao continente.
+
+Navegar-se-á por sobre regiões que atualmente se percorrem de caminho de ferro; os navios aportarão a Montmartre, ao monte Valeriano, aos outeiros de Saint-Cloud e de Meudon; os bosques e florestas, agora lugares de passeio, ficarão sepultados nas águas, cobertos de limo e povoados de peixes, que substituirão as aves.
+
+O dilúvio bíblico não pode ter tido essa causa, pois que foi repentina a invasão das águas e de curta duração a permanência delas, ao passo que, de outro modo, essa permanência houvera sido de muitos milhares de anos e ainda duraria, sem que os homens dessem por isso.
+
+^97: N.E.: Em 15/2/2013, cai na Rússia (região dos Montes Urais) um meteoro. A rocha, estimada em 10 toneladas, entrou na atmosfera e começou a se desfazer; a onda de choque causada por sua queda quebrou vidraças, balançou prédios, causando ferimentos em 1.100 pessoas. (Fonte: Jornal O Globo)
+
+^98: 8 N.E.: Hoje sabemos que o núcleo cometário é sólido, formado por gelo e rocha, e que um impacto direto com a Terra ou outro planeta qualquer poderia causar sérios danos.
+
+^99: A.K.: O cometa de 1861 atravessou a órbita da Terra num ponto do qual esta se achava a uma distância de apenas 20 horas. A Terra esteve, portanto, mergulhada na atmosfera dele, sem que daí resultasse nenhum acidente.
+
+^100: N.E.: O movimento orbital dos planetas em torno do Sol é regido por três propriedades conhecidas como Leis de Kepler — 1a Lei: os planetas descrevem elipses das quais o Sol é um dos focos; 2a Lei: as áreas percorridas pelo raio vetor (reta que une um planeta ao Sol), são proporcionais ao tempo gasto em percorrê-las; 3a Lei: os quadrados dos tempos de revolução são proporcionais aos cubos dos semieixos maiores das órbitas.
+
+^101: A.K.: No seu movimento de translação em torno do Sol, a velocidade da Terra é de 400 léguas por minuto. Sendo de 9.000 léguas a sua circunferência, em seu movimento de rotação ao redor do seu eixo, cada ponto do Equador percorre 9.000 léguas em 24 horas, ou 6,3 léguas por minuto.
+
+^102: N.E.: Ver Nota Explicativa.
+
+^103: N.E.: Segundo Charles Darwin 1809–1882, naturalista britânico, autor de Sobre a origem das espécies por meio da seleção natural (1859), as espécies teriam evoluído pelo processo de seleção natural, ou seja, os indivíduos mais aptos a sobreviver em um determinado ambiente, apresentam mais probabilidade de gerar uma prole que herde suas características genéticas, que por sua vez sofrem imperceptíveis mutações genéticas de geração em geração. Ao longo de séculos, o acúmulo de pequenas mutações genéticas acaba resultando em grandes modificações e aperfeiçoamentos se compararmos com a primeira geração daquela espécie, podendo surgir até novas espécies, bem diversas da primeira.
+
+A teoria mais aceita atualmente é, então, a de que todas as espécies do planeta estão de alguma forma interligadas, das mais simples às mais complexas.
+
+^104: N.E.: Eletronegatividade é a maior ou menor tendência de um átomo para receber elétrons e formar um íon negativo.
+
+^105: N.E.: Os tecidos orgânicos que formam os músculos, os ossos, o sangue, o caule etc., são constituídos por células, seres vivos microscópicos que desempenham funções especializadas, necessárias ao funcionamento de cada órgão do ser a que pertencem.
+
+^106: A.K.: O quadro abaixo, da análise de algumas substâncias, mostra a diferença de propriedades que resulta da só diferença na proporção em que entram os elementos constituintes. Sobre 100 partes, temos: Carbono Hidrog. Oxig. Azoto Açúcar de cana 42.470 6.900 50.630 –– Açúcar de uva 36.710 6.780 56.510 –– Álcool 51.980 13.700 34.320 –– Azeite de oliveira 77.210 13.360 9.430 –– Óleo de nozes 79.774 10.570 9.122 0.534 Gordura 78.996 11.700 9.304 –– Fibrina 53.360 7.021 19.685 19.934 107 N.E.: Na semente, como em todos os ovos que presidem à formação dos seres vivos, encontram-se presentes os genes que contêm o código genético com as informações necessárias à formação da planta.
+
+^108: 8 N.E.: Hoje sabemos que os processos de reprodução de qualquer ser vivo dependem das informações contidas nos genes dos ascendentes do ser que está sendo gerado. Cada indivíduo, com as características e funções de seus órgãos, está relacionado com o ambiente em que vive, o que o torna melhor adaptado e garante a sobrevivência da sua espécie.
+
+^109: N.E.: Hoje sabemos que se refere às células. O metabolismo celular, na troca iônica da bomba de sódio e potássio, produz uma diferença de potencial elétrico, ou seja, produz eletricidade animalizada, pois que é realizada por um ser vivo, a célula. Com a morte da célula, cessa a produção de eletricidade resultante de seu metabolismo, do conjunto dos órgãos, do corpo como um todo.
+
+^110: N.E.: Até meados do século XIX, os cientistas acreditavam que os seres vivos eram gerados espontaneamente do corpo de cadáveres em decomposição; que rãs, cobras e crocodilos eram gerados a partir do lodo dos rios. Essa hipótese, geração espontânea ou abiogênese, foi descartada.
+
+^111: N.E.: O planeta não apresenta as mesmas condições que possibilitaram a existência de seus primeiros habitantes.
+
+^112: N.E.: Atualmente temos a Teoria da Evolução Química ou Molecular, que postula que a vida surgiu a partir do processo de evolução química de compostos inorgânicos, dando origem a moléculas orgânicas e, depois, às primeiras e mais simples formas de vida.
+
+^113: A.K.: Revista espírita, julho de 1868 o desenvolvimento da teoria da geração espontânea. Artigo: A geração espontânea e A gênese.
+
+^114:
+
+^115: N.E.: Ver Nota Explicativa.
+
+^116: N.E.: Ver Nota Explicativa.
+
+^117:
+
+^118:
+
+^119: A.K.: Na Exposição Universal de 1867, apresentaram-se antiguidades do México que nenhuma dúvida deixam sobre as relações que os povos desse país tiveram com os antigos egípcios. O Sr. Léon Méchedin, numa nota afixada no templo mexicano da Exposição, assim se exprimia:
+
+“Não é conveniente se publiquem, prematuramente, as descobertas feitas, do ponto de vista da história do homem, pela recente expedição científica do México.
+
+Entretanto, nada se opõe a que o público saiba, desde já, que a exploração assinalou a existência de grande número de cidades desaparecidas com o tempo, mas que a picareta e o incêndio podem retirar de suas mortalhas. As escavações puseram a descoberto, por toda parte, três camadas de civilizações, que dão ao mundo americano uma antiguidade fabulosa.”
+
+É assim que todos os dias a Ciência opõe o desmentido dos fatos à doutrina que limita a 6.000 anos a aparição do homem na Terra e pretende fazê-lo derivar de um tronco único.
+
+^120: A.K.: Quando, na Revista espírita de janeiro de 1862, publicamos um artigo sobre a interpretação da doutrina dos anjos decaídos, apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controvertível, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decididos, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem-aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana Justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
+
+^121: N.E.: Território francês ultramarino.
+
+^122: N.E.: Anfíbios e insetos foram os primeiros animais presentes no planeta, sugiram no Período Devoniano, da Era Paleozoica.
+
+^123: N.E.: A lei da gravitação universal foi formulada pelo cientista inglês Isaac Newton (1642–1727), que concluiu: “Duas partículas se atraem com forças cuja intensidade é diretamente proporcional ao produto de suas massas e inversamente proporcional ao quadrado da distância que as separa.
+
+^124: N.E.: Um dos livros do Avesta, que são os textos sagrados do Zoroastrismo. Código de leis civis e religiosas.
+
+^125: 5N.E.: Aúra-Masda, Ormasde — deus supremo da Criação; princípio do bem, da harmonia, da beleza e da luz, na religião zoroastriana (antiga religião persa, fundada no século VII a.C. por Zoroastro, caracterizada pelo dualismo ético, cósmico e teogônico, que implica a luta primordial entre dois deuses, representantes do bem e do mal. O zoroastrismo influenciou em diversos aspectos doutrinários a tradição judaico-cristã).
+
+^126: A.K.: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+
+^127: A.K.: O termo hebreu haadam, homem, do qual se compôs Adão e o termo haadama, terra, têm a mesma raiz.
+
+^128: A.K.: Em seguida a alguns versículos se acha a tradução literal do texto hebreu, exprimindo mais fielmente o pensamento primitivo. O sentido alegórico ressalta assim mais claramente.
+
+^129: A.K.: “Paraíso”, do latim paradīsus, derivado do grego: paradeisos, jardim, vergel, lugar plantado de árvores. O termo hebreu empregado em Gênesis é hagan, que tem a mesma significação.
+
+^130:
+
+^131: A.K.: Está hoje perfeitamente reconhecido que a palavra hebreia haadam não é um nome próprio, mas significa o homem em geral, a humanidade, o que destrói toda a estrutura levantada sobre a personalidade de Adão.
+
+^132: A.K.: Em nenhum texto o fruto é especializado na maçã, palavra que só se encontra nas versões infantis. O termo do texto hebreu é peri, que tem as mesmas acepções que em francês, sem determinação de espécie e pode ser tomado em sentido material, moral, alegórico, em sentido próprio e figurado. Para os israelitas, não há interpretação obrigatória; quando uma palavra tem muitas acepções, cada um a entende como quer, contanto que a interpretação não seja contrária à gramática. O termo peri foi traduzido em latim por malum, que se aplica tanto à maçã, como a qualquer espécie de frutos. Deriva do grego melon, particípio do verbo melo, interessar, cuidar, atrair.
+
+^133:
+
+^134: A.K.: O termo nâhâsch existia na língua egípcia, com a significação de negro, provavelmente porque os negros tinham o dom dos encantamentos e da adivinhação. Talvez também por isso é que as esfinges, de origem assíria, eram representadas por uma figura de negro.
+
+^135:
+
+^136: N.E.: Na mitologia grega é um dos Titãs, roubou o fogo sagrado dos deuses e transmitiu-o aos homens. Zeus, para puni-lo, acorrentou-o ao Cáucaso, onde uma águia comia-lhe o fígado, que se regenerava incessantemente. Foi libertado por Hércules.
+
+^137: N.E.: Também chamado de Oseias. Depois da morte de Moisés, Josué liderou o povo de Israel na conquista de Canaã e foi responsável por conduzir os israelitas à Terra Prometida. Sua liderança é narrada no Livro de Josué, em que se destaca a tomada da cidade de Jericó entre outros fatos que contaram com prodigiosa intervenção divina, como no dia em que o sol e a lua chegaram a parar durante a batalha de Josué em defesa dos gibeonitas, contra o ataque de reis cananeus.
+
+^138: N.E.: Em 1729, no Cemitério de Saint-Médard, junto ao túmulo do diácono Francisco de Paris, morto em 1727 e considerado homem muito caridoso, começaram a ocorrer milagres, pessoas passaram a visitar o túmulo e lá sofriam convulsões e se autoinfligiam torturas.
+
+^139: N.E.: Protestantes franceses que foram expatriados por pegarem em armas após a revogação do Édito de Nantes (1685); eram assim chamados por vestir camisa sobre suas roupas.
+
+^140: N.E.: A Possessão das Freiras de Loudun foi um suposto conjunto de possessões demoníacas que ocorreram em Loudun, França, em 1634; as freiras sofreram convulsões e proferiram linguagem abusiva.
+
+^141: A.K.: O livro dos médiuns, 2a Parte, cap. V; Revista espírita: dezembro de 1865; agosto de 1865.
+
+^142: N.E.: Os gases são exemplo desse fluido, invisíveis, embora possam ser detectados e pesados
+
+^143: A.K.: A denominação de fenômeno psíquico exprime com mais exatidão o pensamento, do que a de fenômeno espiritual, dado que esses fenômenos repousam sobre as propriedades e os atributos da alma, ou, melhor, dos fluidos perispiríticos, inseparáveis da alma. Esta qualificação os liga mais intimamente à ordem dos fatos naturais regidos por leis; pode-se, pois, admiti-los como efeitos psíquicos, sem os admitir a título de milagres.
+
+^144: N.E.: Hoje, sabemos que a matéria parece ser compacta e impenetrável em razão da repulsão elétrica que existe entre os átomos que a constituem, impedindo que os seres e objetos materiais se interpenetrem. No mais, a massa do átomo se concentra no seu núcleo, seríamos então uma grande aglomerado de moléculas.
+
+^145:
+
+^146: N.E.: É preciso salientar que no século XIX as teorias raciais estavam em voga, dando status científico às desigualdades entre os seres humanos; Kardec, porém, codificou toda uma doutrina — o Espiritismo —, que tem como base a igualdade entre os homens, pois que todos somos Espíritos em busca de evolução, as raças seriam apenas “roupagens” que vestimos durante determinada encarnação.
+
+^147: N.E.: É preciso salientar que no século XIX as teorias raciais estavam em voga, dando status científico às desigualdades entre os seres humanos; Kardec, porém, codificou toda uma doutrina — o Espiritismo —, que tem como base a igualdade entre os homens, pois que todos somos Espíritos em busca de evolução, as raças seriam apenas “roupagens” que vestimos durante determinada encarnação.
+
+^148: A.K.: Fatos de dupla vista e lucidez sonambúlica relatados na Revista espírita: janeiro de 1858; novembro de 1858; julho de 1861; novembro de 1865.
+
+^149:
+
+^150: A.K.: Podem explicar-se assim as visões da irmã Elmerich que, reportando-se ao tempo da paixão do Cristo, diz ter visto coisas materiais, que nunca existiram, senão nos livros que ela leu; as da Sra. Cantanille (Revista espírita de agosto de 1866) e uma parte das de Swedenborg
+
+^151: A.K.: Veja-se, abaixo, o cap. XVI, Teoria da presciência, itens 1 a 3.
+
+^152: A.K.: Revista espírita, junho de 1866; setembro de 1866. O livro dos espíritos, Parte 2a , cap. VIII, questão 400.
+
+^153: A.K.: Exemplos: Revista espírita, “O doutor Cardon”, agosto de 1863; Uma Ressurreição (A mulher corsa), maio de 1866.
+
+^154: A.K.: Exemplos: Revista espírita, fevereiro de 1863; abril de 1865; setembro de 1865.
+
+^155: A.K.: Casos de curas instantâneas relatados na Revista espírita: O príncipe de Hohenlohe, dezembro de 1866; sobre as curas do sr. Jacob, outubro e novembro de 1866; outubro e novembro de 1867; Simonet, agosto de 1867; O alcaide Hassan, outubro de 1867; O cura Gassner, novembro de 1867.
+
+^156:
+
+^157: N.E.: As materializações prolongadas, quais as verificadas por William Crookes, não eram, então, conhecidas.
+
+^158: N.E.: Segundo a Bíblia, este fato se deu na família de Tobias. (Ver O livro de Tobias.)
+
+^159: A.K.: Exemplos de aparições vaporosas ou tangíveis e de agêneres: Revista espírita, janeiro de 1858; outubro de 1858; fevereiro de 1859; março de 1859; janeiro de 1859; novembro de 1859; agosto de 1859; abril de 1860; maio de 1860; julho de 1861; abril de 1866; “O lavrador Martinho, apresentado a Luís XVIII, detalhes completos”, dezembro de 1866.
+
+^160: A.K.: Exemplos de aparições de pessoas vivas: Revista espírita de dezembro de 1858; fevereiro de 1859; agosto de 1859; novembro de 1860.
+
+^161: A.K.: Devem acolher-se com extrema reserva as narrativas de aparições puramente individuais que, em certos casos, poderiam não passar de efeito de uma imaginação sobre-excitada e, porventura, de uma invenção com fins interesseiros. Convém, pois, levar em conta, muito escrupulosamente, as circunstâncias, a honradez da pessoa, assim como o interesse que ela possa ter em abusar da credulidade de indivíduos excessivamente confiantes.
+
+^162:
+
+^163: A.K.: Tal o princípio dos fenômenos de transporte, fenômeno este muito real, mas que não convém se admita, senão com extrema reserva, porquanto é um dos que mais se prestam à imitação e à trapaçaria. Devem tomar-se em séria consideração a honradez irrecusável da pessoa que os obtém, seu absoluto desinteresse, material e moral, e o concurso das circunstâncias acessórias. Importa, sobretudo, desconfiar da produção de tais efeitos, quando eles se deem com excessiva facilidade e ter por suspeitos os que se renovem com extrema frequência e, por assim dizer, à vontade. Os prestidigitadores fazem coisas mais extraordinárias.
+
+Não menos positivo é o fato do erguimento de uma pessoa; mas, tem que ser muito mais raro, porque mais difícil de ser imitado. É sabido que o Sr. Home se elevou mais de uma vez até ao teto, dando assim volta à sala. Dizem que São Cupertino possuía a mesma faculdade, não sendo o fato mais miraculoso com este do que com aquele.
+
+^164: A.K.: Casos de manifestações materiais e de perturbações operadas pelos Espíritos: Revista espírita, Manifestações físicas (A moça dos panoramas), janeiro de 1858; “Senhorita Clairon”, fevereiro de 1858; “Espírito batedor de Bergzabern” (narração completa), maio a julho de 1858; “Dibbelsdorf”, agosto de 1858; “Padeiro de Dieppe”, março de 1860; “Fabricante de São Petersburgo”, abril de 1860; “Rua des Noyers,”, agosto de 1860; “Espírito batedor do Aube”, janeiro de 1861; “Flagelo do século XVI, janeiro de 1864; “Poitiers”, maio de 1864 e maio de 1865; “Irmã Maria”, junho de 1864; “Marselha”, abril de 1865; “Fives”, agosto de 1865; “Os ratos de Équihem”, fevereiro de 1866.
+
+^165: A.K.: A aptidão, que algumas pessoas denotam para línguas que elas manejam, sem, por assim dizer, as haver aprendido, não tem como origem senão a lembrança intuitiva do que souberam noutra existência. O caso do poeta Méry, relatado na Revista espírita de novembro de 1864, é uma prova do que dizemos. É evidente que, se na sua mocidade, Méry fora médium, teria escrito em latim tão facilmente como em francês e toda gente houvera visto nesse fato um prodígio.
+
+^166: A.K.: Casos de cura de obsessões e de possessões: Revista espírita, dezembro de 1863; janeiro de 1864; junho de 1864; janeiro de 1865; junho de 1865; fevereiro de 1868; junho de 1867.
+
+^167: A.K.: Foi exatamente desse gênero a epidemia que, faz alguns anos, atacou a aldeia de Morzine na Saboia. Veja-se o relato completo dessa epidemia na Revista espírita de dezembro de 1862; janeiro, fevereiro, abril e maio de 1863.
+
+^168:
+
+^169: N.E.: Espécie de lama, fina e inconsistente, característica de certos fundos oceânicos, constituída por carapaças microscópicas de animais ou elementos minerais.
+
+^170: A.K.: Nem todos os teólogos, porém, adotam opiniões tão absolutas sobre a doutrina demoníaca. Aqui está uma cujo valor o clero não pode contestar, emitida por um eclesiástico, Monsenhor Freyssinous, bispo de Hermópolis, na seguinte passagem das suas Conferências sobre a religião, tomo 2o , p. 341 (Paris, 1825):
+
+“Se Jesus operasse seus milagres pelo poder do demônio, este houvera trabalhado pela destruição do seu império e teria empregado contra si próprio o seu poder. Certamente, um demônio que procurasse destruir o reinado do vício para implantar o da virtude, seria um demônio muito singular. Eis por que Jesus, para repelir a absurda acusação dos judeus, lhes dizia: “Se opero prodígios em nome do demônio, o demônio está dividido consigo mesmo, trabalha, conseguintemente, por se destruir a si próprio!” Resposta que não admite réplica.
+
+É precisamente o argumento que os espíritas opõem aos que atribuem ao demônio os bons conselhos que os Espíritos lhes dão. O demônio agiria então como um ladrão profissional que restituísse tudo o que houvesse roubado e exortasse os outros ladrões a se tornarem pessoas honestas.
+
+^171: A.K.: Uma prova desse costume se nos depara nos Atos dos Apóstolos, 5:5 e seguintes. “Ananias, tendo ouvido aquelas palavras, caiu e rendeu o Espírito e todos os que ouviram falar disso foram presas de grande temor. — Logo, alguns rapazes lhe vieram buscar o corpo e, tendo-o levado, o enterraram. — Passadas umas três horas, sua mulher (Safira), que nada sabia do que se dera, entrou. — E Pedro lhe disse... etc. — No mesmo instante, ela lhe caiu aos pés e rendeu o Espírito.
+
+^172: A.K.: O fato seguinte prova que a decomposição precede algumas vezes a morte. No Convento do Bom Pastor, fundado em Toulon, pelo padre Marin, capelão dos cárceres, e destinado às decaídas que se arrependem, encontrava-se uma rapariga que suportara os mais terríveis sofrimentos com a calma e a impassibilidade de uma vítima expiatória. Em meio de suas dores parecia sorrir para uma visão celestial. Como Santa Teresa, pedia lhe fosse dado sofrer mais, embora suas carnes já se achassem em frangalhos, com a gangrena a lhe devastar todos os membros. Por sábia previdência, os médicos tinham recomendado que fizessem a inumação do corpo, logo após o trespasse. Coisa singular! Mal a doente exalou o último suspiro, cessou todo o trabalho de decomposição; desapareceram as exalações cadaverosas, de sorte que durante 36 horas pôde o corpo ficar exposto às preces e à veneração da comunidade.
+
+^173: A.K.: O lago de Genesaré ou de Tiberíades.
+
+^174:
+
+^175: A.K.: A explicação que se segue é reprodução textual do ensino que a esse respeito deu um Espírito.
+
+^176: A.K.: Há constantemente, na superfície do Sol, manchas físicas, que lhe acompanham o movimento de rotação e hão servido para determinar-se a duração desse movimento. Às vezes, porém, essas manchas aumentam em número, em extensão e em intensidade. É então que se produz uma diminuição da luz e do calor solares. O aumento do número das manchas parece coincidir com certos fenômenos astronômicos e com a posição relativa de alguns planetas, o que lhes determina o reaparecimento periódico. É muito variável a duração daquele obscurecimento; por vezes não vai além de duas ou três horas, mas, em 535, houve um que durou catorze meses.
+
+^177:
+
+^178: A.K.: Os inúmeros fatos contemporâneos de curas, aparições, possessões, dupla vista e outros, que se encontram relatados na Revista espírita e lembrados nas observações acima, oferecem, até quanto aos pormenores, tão flagrante analogia com os que o Evangelho narra, que ressalta evidente a identidade dos efeitos e das causas. Não se compreende que o mesmo fato tivesse hoje uma causa natural e que essa causa fosse sobrenatural outrora; diabólica com uns e divina com outros. Se fora possível pô-los aqui em confronto uns com os outros, a comparação mais fácil se tornaria; não o permitem, porém, o número deles e os desenvolvimentos que a narrativa reclamaria.
+
+^179:
+
+^180:
+
+^181:
+
+^182: N.E.: Diante das comunicações e dos fenômenos surgidos após a partida de Kardec, concluiu-se que não houve realmente vão simulacro, como igualmente não houve simulacro de Jesus, após a sua morte, ao pronunciar as palavras que foram registradas por Lucas, 24:39: — “Sou eu mesmo, apalpaime e vede, porque um Espírito não tem carne nem osso, como vedes que eu tenho.”
+
+^183: N.E.: Não somente foram anatematizados os apolinaristas, mas também os reencarnacionistas e os que se põem em comunicação com os mortos.
+
+^184: N.E.: Kardec pressentia a supressão das barreiras linguísticas vinte anos antes do aparecimento do Esperanto, quando Zamenhof tinha somente sete anos. Hoje a profecia se cumpre sob nossos olhos com o progresso constante do Esperanto.
+
+^185: A.K.: Todas as doutrinas filosóficas e religiosas trazem o nome do seu fundador. Diz-se: o Moisaísmo, o Cristianismo, o Maometismo, o Budismo, o Cartesianismo, o Furrierismo, o Sansimonismo etc. A palavra Espiritismo, ao contrário, não lembra nenhuma personalidade; encerra uma ideia geral, que ao mesmo tempo indica o caráter e o tronco multíplice da Doutrina.
+
+^186: A.K.: Esta expressão: a abominação da desolação não só carece de sentido, como se presta ao ridículo. A tradução de Osterwald diz: “A abominação que causa a desolação”, o que é muito diferente. O sentido então se torna perfeitamente claro, porquanto se compreende que as abominações hajam de acarretar a desolação, como castigo. Quando a abominação, diz Jesus, se instalar no lugar santo, também a desolação para aí virá e isso constituirá um sinal de que estão próximos os tempos.
+
+^187: A.K.: Extrato de duas comunicações dadas na Sociedade de Paris e publicadas na Revista espírita de outubro de 1868. São corolários das de Galileu, reproduzidas no capítulo VI, e complementares do capítulo IX, sobre as revoluções do globo.
+
+^188: N.E.: Ver Nota Explicativa.
+
+^189: A.K.: A terrível epidemia que, de 1866 a 1868, dizimou a população da Ilha Maurício, teve a precedê-la tão extraordinária e tão abundante chuva de estrelas cadentes, em novembro de 1866, que aterrorizou os habitantes daquela ilha. A partir desse momento, a doença, que reinava desde alguns meses de forma muito benigna, se transformou em verdadeiro flagelo devastador. Aquele fora bem um sinal no céu e talvez nesse sentido é que se deva entender a frase — estrelas caindo do céu, de que fala o Evangelho, como um dos sinais dos tempos. (Pormenores sobre a epidemia da Ilha Maurício: Revista espírita, julho de 1867, e novembro de 1868.)
+
+^190: N.E.: Ver Nota Explicativa.
+
+^191: N.E.: Nada mais além.
+
+^192: 2 N.E.: Ver Nota Explicativa.
