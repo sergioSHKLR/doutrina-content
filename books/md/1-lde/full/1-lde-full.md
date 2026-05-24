@@ -17,8 +17,8 @@ isbn: "978-85-7328-728-8"
 originalTitle: "Le Livre des Esprits"
 originalPublication: "Paris, 18 de abril de 1857"
 publicationDate: "2019-05"
-date: "2025-05-21"
-updated: "{{ currentDate }}"
+date: "2025-05-24"
+updated: "2025-05-24"
 
 # =============================================================================
 # LEGAL & DISCLAIMER
@@ -56,52 +56,12 @@ seriesPosition: 1
 # =============================================================================
 layout: "layouts/book"
 permalink: "/lde/"
-draft: false
-featured: true
-toc: true
-showMetadata: true
-showIndex: true
-showSpiritQuotes: true
 
 eleventyNavigation:
   key: "O Livro dos Espíritos"
   parent: "Obras de Allan Kardec"
   order: 1
   title: "LDE — O Livro dos Espíritos"
-
-# =============================================================================
-# VISUALS
-# =============================================================================
-cover: "/images/lde-cover-oficial.jpg"
-ogImage: "/images/lde-cover-oficial.jpg"
-heroImage: "/images/lde-ai-reimagined.jpg"
-thumbnail: "/images/lde-cover-oficial.jpg"
-
-# =============================================================================
-# CONTENT STRUCTURE
-# =============================================================================
-contentStructure:
-  questions: 1019
-  parts: 4
-  index: true
-  questionMap: true
-
-# =============================================================================
-# SEO & METADATA
-# =============================================================================
-excerpt: "A obra fundamental do Espiritismo, codificada por Allan Kardec na tradução clássica de Guillon Ribeiro."
-readingTime: "≈ 18 horas"
-wordCount: "≈ 185.000"
-difficulty: "Intermediário"
-
-schemaType: "Book"
-schema:
-  bookFormat: "EBook"
-  genre: "ReligiousText"
-  inLanguage: "pt-BR"
-  numberOfPages: 526
-  author:
-    name: "Allan Kardec"
 
 # =============================================================================
 # CUSTOM FEATURES
@@ -144,9 +104,6 @@ emojiDefinitions:
 
 Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
 
-Baseado na 93ª edição – 8ª impressão (Edição Histórica)  
-ISBN 978-85-7328-728-8
-
 A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943)  
 encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
 nos termos da Lei nº 9.610/1998.
@@ -161,7 +118,6 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 ### 0.01. 📄 Folha de rosto {#lde-0-01}
 
 ::: center
-
 Filosofia Espiritualista
 
 ✨ **O Livro dos Espíritos**
@@ -178,7 +134,6 @@ Edição digital educacional
 organizada e adaptada por **Sergio Schickler** 
 [💧 doutrina.org](https://doutrina.org) — 2023
 Baseada no ISBN 978-85-7328-728-8
-
 :::
 
 ---
@@ -231,9 +186,21 @@ Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida 
 - [4.01. 🗂️ Penas e felicidades materiais](#lde-4-01)
 - [4.02. 🗂️ Penas e felicidades futuras](#lde-4-02)
 
-**[Parte 5. 🗃️ Conclusão](#lde-5)**
+**Parte 5. 🗃️ Conclusão**
+- [5.01. 📄 Conclusão 01](#lde-5-01)
+- [5.02. 📄 Conclusão 02](#lde-5-02)
+- [5.03. 📄 Conclusão 03](#lde-5-03)
+- [5.04. 📄 Conclusão 04](#lde-5-04)
+- [5.05. 📄 Conclusão 05](#lde-5-05)
+- [5.06. 📄 Conclusão 06](#lde-5-06)
+- [5.07. 📄 Conclusão 07](#lde-5-07)
+- [5.08. 📄 Conclusão 08](#lde-5-08)
+- [5.09. 📄 Conclusão 09](#lde-5-09)
 
-**[Parte 6. 🗃️ Pós-textual](#lde-6)**
+**Parte 6. 🗃️ Pós-textual**
+- [6.01. 📄 Nota explicativa](#lde-6-01)
+- [6.02. 📄 Índice geral](#lde-6-02)
+- [6.03. 📄 Notas de rodapé](#lde-6-03)
 :::
 
 ---

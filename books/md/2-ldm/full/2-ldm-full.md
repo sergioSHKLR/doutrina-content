@@ -3,8 +3,8 @@
 # METADATA PRINCIPAL
 # =============================================================================
 title: "O Livro dos Médiuns"
-subtitle: "Instruções Práticas sobre as Manifestações Espíritas"
-description: "Desenvolvimento da Doutrina Espírita sobre os médiuns, as manifestações espíritas, os meios de comunicação com o mundo invisível, os obstáculos e perigos da mediunidade, e as condições para se obter boas comunicações — segundo os ensinos dos Espíritos Superiores, recebidos e coordenados por Allan Kardec. Tradução de Guillon Ribeiro (Edição FEB Histórica. ."
+subtitle: "Guia dos Médiuns e dos Evocadores"
+description: "Instruções especiais sobre a manifestação dos Espíritos, os meios de comunicar-se com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os obstáculos que se podem encontrar na prática do Espiritismo — segundo os ensinos dos Espíritos superiores. Tradução de Guillon Ribeiro."
 
 lang: "pt-BR"
 author: "Allan Kardec"
@@ -12,23 +12,23 @@ codifier: "Allan Kardec"
 translator: "Guillon Ribeiro"
 editor: "Federação Espírita Brasileira (FEB)"
 
-edition: "Edição Histórica FEB"
+edition: "Edição Histórica da FEB"
 isbn: "978-85-7328-729-5"
 originalTitle: "Le Livre des Médiums"
 originalPublication: "Paris, 1861"
 publicationDate: "2019"
-date: "2025-05-23"
-updated: "{{ currentDate }}"
+date: "2025-05-24"
+updated: "2025-05-24"
 
 # =============================================================================
 # LEGAL & DISCLAIMER
 # =============================================================================
 disclaimer: |
- Esta é uma edição digital educacional e gratuita destinada ao estudo da Doutrina Espírita.
- 
- A tradução de Guillon Ribeiro encontra-se em domínio público no Brasil.
- 
- O mantenedor deste site não detém os direitos autorais sobre a obra. Baseado na Edição Histórica da FEB.
+  Esta é uma edição digital educacional e gratuita destinada ao estudo da Doutrina Espírita.
+  
+  A tradução de Guillon Ribeiro (falecido em 26/10/1943) encontra-se em domínio público no Brasil desde 01/01/2014 (Lei 9.610/1998).
+  
+  O mantenedor deste site não detém os direitos autorais sobre a obra. Baseado na Edição Histórica da FEB.
 
 license: "Uso educacional, não-comercial e doutrinário permitido. Proibida a venda ou reprodução comercial sem autorização da FEB."
 rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Doutrina Espírita."
@@ -37,15 +37,15 @@ rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Do
 # TAXONOMY & ORGANIZATION
 # =============================================================================
 tags:
- - espiritismo
- - allan-kardec
- - doutrina-espírita
- - mediunidade
- - manifestações-espíritas
+  - espiritismo
+  - allan-kardec
+  - mediunidade
+  - mediunismo
+  - fenômenos-espíritas
 
 categories:
- - Obras Básicas do Espiritismo
- - Livros de Allan Kardec
+  - Obras Básicas do Espiritismo
+  - Livros de Allan Kardec
 
 series: "Obras Básicas do Espiritismo"
 seriesPosition: 2
@@ -55,50 +55,12 @@ seriesPosition: 2
 # =============================================================================
 layout: "layouts/book"
 permalink: "/ldm/"
-draft: false
-featured: true
-toc: true
-showMetadata: true
-showIndex: true
 
 eleventyNavigation:
- key: "O Livro dos Médiuns"
- parent: "Obras de Allan Kardec"
- order: 2
- title: "LDM — O Livro dos Médiuns"
-
-# =============================================================================
-# VISUALS
-# =============================================================================
-cover: "/images/ldm-cover.jpg"
-ogImage: "/images/ldm-cover.jpg"
-heroImage: "/images/ldm-ai-reimagined.jpg"
-thumbnail: "/images/ldm-cover.jpg"
-
-# =============================================================================
-# CONTENT STRUCTURE
-# =============================================================================
-contentStructure:
- items: 350
- parts: 3
- index: true
-
-# =============================================================================
-# SEO & METADATA
-# =============================================================================
-excerpt: "A principal obra de Allan Kardec sobre mediunidade e manifestações espíritas."
-readingTime: "≈ 12 horas"
-wordCount: "≈ 145.000"
-difficulty: "Intermediário"
-
-schemaType: "Book"
-schema:
- bookFormat: "EBook"
- genre: "ReligiousText"
- inLanguage: "pt-BR"
- numberOfPages: 450
- author:
- name: "Allan Kardec"
+  key: "O Livro dos Médiuns"
+  parent: "Obras de Allan Kardec"
+  order: 2
+  title: "LDM — O Livro dos Médiuns"
 
 # =============================================================================
 # CUSTOM FEATURES
@@ -131,24 +93,103 @@ emojiDefinitions:
 
 ## 0. 🗃️ Pré-textual {#ldm-0}
 
+### 0.00. ⚖️ Avisos Legais {#ldm-0-00}
+
+::: center
+**Edição Digital Educacional • Domínio Público**
+
+Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
+
+A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943)  
+encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
+nos termos da Lei nº 9.610/1998.
+
+Todos os direitos da edição impressa pertencem à Federação Espírita Brasileira (FEB)
+
+Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
+:::
+
+---
+
 ### 0.01. 📄 Folha de rosto {#ldm-0-01} 
 
+::: center
 Espiritismo Experimental 
 
-✒️ *O Livro dos Médiuns* 
+✒️ **O Livro dos Médiuns**
 
 Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da Mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de ✨ *O Livro dos Espíritos* 
 
-por [Allan Kardec] 
+por 👴🏻 **Allan Kardec**
 
-Tradução de [Guillon Ribeiro] 
+Tradução de **Guillon Ribeiro**
 
-Baseado no original [ISBN 978-85-7328-729-5] 
+Edição digital educacional
+organizada e adaptada por **Sergio Schickler** 
+[💧 doutrina.org](https://doutrina.org) — 2023
+Baseada no ISBN 978-85-7328-729-5
 
-Modificado para o consumo digital por Sergio de 
-⭕ [shklr.org]
+---
 
-### 0.02. 📄 Introdução {#ldm-0-02} 
+### 0.02. 📋 Sumário Geral {#ldm-0-02}
+
+::: box
+Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
+
+**Parte 0. 🗃️ Pré-textual**
+- [0.00 ⚖️ Avisos Legais](#ldm-0-00)
+- [0.01 📄 Folha de rosto](#ldm-0-01)
+- [0.02 🗂️ Prefácio](#ldm-0-03)
+
+**Parte 1. 🗃️ Noções Preliminares**
+- [1.01. 🗂️ Há Espíritos?](#ldm-1-01)
+- [1.02. 🗂️ Sobrenatural](#ldm-1-02)
+- [1.03. 🗂️ Método](#ldm-1-03)
+- [1.04. 🗂️ Sistemas](#ldm-1-04)
+
+**Parte 2. 🗃️ Manifestações Espíritas**
+- [2.01. 🗂️ Ação sobre a matéria](#ldm-2-01)
+- [2.02. 🗂️ Manifestações físicas](#ldm-2-02)
+- [2.03. 🗂️ Manifestações inteligentes](#ldm-2-03)
+- [2.04. 🗂️ Teoria sobre manifestações](#ldm-2-04)
+- [2.05. 🗂️ Manifestações espontâneas](#ldm-2-05)
+- [2.06. 🗂️ Manifestações visuais](#ldm-2-06)
+- [2.07. 🗂️ Bicorporeidade](#ldm-2-07)
+- [2.08. 🗂️ Mundo invisível](#ldm-2-08)
+- [2.09. 🗂️ Lugares assombrados](#ldm-2-09)
+- [2.10. 🗂️ Natureza das comunicações](#ldm-2-10)
+- [2.11. 🗂️ Sematologia e tiptologia](#ldm-2-11)
+- [2.12. 🗂️ Pneumatografia e pneumatofonia](#ldm-2-12)
+- [2.13. 🗂️ Psicografia](#ldm-2-13)
+- [2.14. 🗂️ Médiuns](#ldm-2-14)
+- [2.15. 🗂️ Psicógrafos](#ldm-2-15)
+- [2.16. 🗂️ Médiuns especiais](#ldm-2-16)
+- [2.17. 🗂️ Formação dos médiuns](#ldm-2-17)
+- [2.18. 🗂️ Perigos da Mediunidade](#ldm-2-18)
+- [2.19. 🗂️ Papel dos médiuns](#ldm-2-19)
+- [2.20. 🗂️ Influência moral](#ldm-2-20)
+- [2.21. 🗂️ Influência do meio](#ldm-2-21)
+- [2.22. 🗂️ Mediunidade nos animais](#ldm-2-22)
+- [2.23. 🗂️ Obsessão](#ldm-2-23)
+- [2.24. 🗂️ Identidade dos Espíritos](#ldm-2-24)
+- [2.25. 🗂️ Evocações](#ldm-2-25)
+- [2.26. 🗂️ Perguntas que se podem fazer](#ldm-2-26)
+- [2.27. 🗂️ Contradições](#ldm-2-27)
+- [2.28. 🗂️ Charlatanismo](#ldm-2-28)
+- [2.29. 🗂️ Sociedades Espíritas](#ldm-2-29)
+- [2.30. 🗂️ Sociedade Parisiense](#ldm-2-30)
+- [2.31. 🗂️ Dissertaçõe](#ldm-2-31)
+- [2.32. 🗂️ Vocabulário](#ldm-2-32)
+
+**Parte 3. 🗃️ Pós-textual**
+- [3.01. 📄 Nota Explicativa](#ldm-3-01)
+- [3.02. 📑 Índice geral](#ldm-3-02)
+- [3.03. 📄 Notas de rodapé](#ldm-3-03)
+:::
+
+---
+
+### 0.03. 📄 Introdução {#ldm-0-03} 
 
 Todos os dias a experiência nos traz a confirmação de que as dificuldades e os desenganos com que muitos topam na prática do Espiritismo se originam da ignorância dos princípios desta ciência e feliz nos sentimos de haver podido comprovar que o nosso trabalho, feito com o objetivo de precaver os adeptos contra os escolhos de um noviciado, produziu frutos e que à leitura desta obra devem muitos o terem logrado evitá-los.
 

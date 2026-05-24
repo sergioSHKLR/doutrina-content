@@ -1,38 +1,184 @@
+---
+# =============================================================================
+# METADATA PRINCIPAL
+# =============================================================================
+title: "A Gênese, os Milagres e as Predições segundo o Espiritismo"
+subtitle: "Solução dos Problemas da Gênese"
+description: "Explicação científica e espiritual sobre a origem do mundo, dos seres vivos, dos milagres e das predições, à luz dos princípios espíritas. Tradução de Guillon Ribeiro."
+
+
+lang: "pt-BR"
+author: "Allan Kardec"
+codifier: "Allan Kardec"
+translator: "Guillon Ribeiro"
+editor: "Federação Espírita Brasileira (FEB)"
+
+edition: "Edição Histórica da FEB"
+isbn: "978-85-7328-732-5"
+originalTitle: "La Genèse selon le Spiritisme"
+originalPublication: "Paris, 1868"
+publicationDate: "2019"
+date: "2025-05-24"
+updated: "2025-05-24"
+
+# =============================================================================
+# LEGAL & DISCLAIMER
+# =============================================================================
+disclaimer: |
+  Esta é uma edição digital educacional e gratuita destinada ao estudo da Doutrina Espírita.
+  
+  A tradução de Guillon Ribeiro (falecido em 26/10/1943) encontra-se em domínio público no Brasil desde 01/01/2014 (Lei 9.610/1998).
+  
+  O mantenedor deste site não detém os direitos autorais sobre a obra. Baseado na Edição Histórica da FEB.
+
+license: "Uso educacional, não-comercial e doutrinário permitido. Proibida a venda ou reprodução comercial sem autorização da FEB."
+rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Doutrina Espírita."
+
+# =============================================================================
+# TAXONOMY & ORGANIZATION
+# =============================================================================
+tags:
+  - espiritismo
+  - allan-kardec
+  - gênese
+  - criação
+  - milagres
+  - ciência-espírita
+
+categories:
+  - Obras Básicas do Espiritismo
+  - Livros de Allan Kardec
+
+series: "Obras Básicas do Espiritismo"
+seriesPosition: 5
+
+# =============================================================================
+# SITE & NAVIGATION
+# =============================================================================
+layout: "layouts/book"
+permalink: "/gen/"
+
+eleventyNavigation:
+  key: "A Gênese"
+  parent: "Obras de Allan Kardec"
+  order: 5
+  title: "A Gênese — Os Milagres e as Predições"
+
+# =============================================================================
+# CUSTOM FEATURES
+# =============================================================================
+emojiDefinitions:
+  Publicações:
+    ✨: "Livro dos Espíritos"
+    ✒️: "Livro dos Médiuns"
+    🕊️: "O Evangelho segundo o Espiritismo"
+    🔥: "O Céu e o Inferno"
+    🌱: "A Gênese"
+    🪦: "Obras Póstumas"
+
+  "Legenda deste livro":
+    👻: "Comunicação espiritual"
+    ✝️: "Citação bíblica"
+    👴🏻: "Allan Kardec"
+    🗃️: "Parte do Livro"
+    🗂️: "Capítulo da Parte"
+    📄: "Tópico do Capítulo"
+    #️⃣: "Item numerado"
+    👉🏻: "Tópico relacionado"
+
+  "Conferência de qualidade":
+    ⚓: "notas de rodapé"
+    📐: "italics"
+    🏋️: "negrito"
+    ⚜️: "comentário de Kardec"
+    🔤: "textual"
+---
+
 # 🌱 A Gênese
 
 ## 0. 🗃️ Pré-textual {#gen-0}
 
-::: expand 📑 Termos relacionados
-- 🔖 related term
+### 0.00. ⚖️ Avisos Legais {#gen-0-00}
+
+::: center
+**Edição Digital Educacional • Domínio Público**
+
+Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
+
+A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943)  
+encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
+nos termos da Lei nº 9.610/1998.
+
+Todos os direitos da edição impressa pertencem à Federação Espírita Brasileira (FEB)
+
+Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
+
+---
 
 ### 0.01. 🗂️ Folha de rosto {#gen-0-01}
 
->
+::: center
 Ética Espírita
->
-🌱 *A Gênese*
->
-Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida.
->
-Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade.
->
-por Allan Kardec
->
-Tradução de Guillon Ribeiro
->
-Baseado no original ISBN 978-85-7328-730-1{:target="ext"}
->
-Modificado para o consumo digital por Sergio de
-⭕ shklr.org
->
-{:.grey-center}
 
-::: expand 📑 Termos relacionados
-- 🔖 related term
+🌱 **A Gênese**
+
+Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida.
+
+Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade.
+
+por 👴🏻 **Allan Kardec**
+
+Tradução de **Guillon Ribeiro**
+
+Edição digital educacional
+organizada e adaptada por **Sergio Schickler** 
+[💧 doutrina.org](https://doutrina.org) — 2023
+Baseada no ISBN 978-85-7328-732-5
+
+### 0.02. 📋 Sumário Geral {#gen-0-02}
+
+::: box
+Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
+
+**Parte 0. 🗃️ Pré-textual**
+- [0.00 ⚖️ Avisos Legais](#gen-0-00)
+- [0.01 📄 Folha de rosto](#gen-0-01)
+- [0.02 🗂️ Prefácio](#gen-0-03)
+
+**Parte 1. 🗃️ title**
+- [1.01. 🗂️ Caráter da revelação espírita](#gen-1-01)
+- [1.02. 🗂️ Deus](#gen-1-02)
+- [1.03. 🗂️ O bem e o mal](#gen-1-03)
+- [1.04. 🗂️ Papel da Ciência na Gênese](#gen-1-04)
+- [1.05. 🗂️ Antigos e modernos sistemas do mundo](#gen-1-05)
+- [1.06. 🗂️ Uranografia geral](#gen-1-06)
+- [1.07. 🗂️ Esboço geológico da Terra](#gen-1-07)
+- [1.08. 🗂️ Teorias sobre a formação da Terra](#gen-1-08)
+- [1.09. 🗂️ Revoluções do globo](#gen-1-09)
+- [1.10. 🗂️ Gênese orgânica](#gen-1-10)
+- [1.11. 🗂️ Gênese espiritual](#gen-1-11)
+- [1.12. 🗂️ Gênese moisaica](#gen-1-12)
+
+**Parte 2. 🗃️ Os Milagres**
+- [2.13. 🗂️ Caracteres dos milagres](#gen-2-13)
+- [2.14. 🗂️ Os fluidos](#gen-2-14)
+- [2.15. 🗂️ Os milagres do Evangelho](#gen-2-15)
+
+**Parte 3. 🗃️ As Predições**
+- [3.16. 🗂️ Teoria da presciência](#gen-3-16)
+- [3.17. 🗂️ Predições do Evangelho](#gen-3-17)
+- [3.18. 🗂️ São chegados os tempos](#gen-3-18)
+
+**Parte 4. 🗃️ Pós-textual**
+- [4.01. 📄 Nota Explicativa](#gen-4-01)
+- [4.02. 📑 Índice geral](#gen-4-02)
+- [4.03. 📄 Notas de rodapé](#gen-4-03)
 :::
 
-### 0.02. 🗂️ Introdução {#gen-0-02}
+---
+
+### 0.03. 🗂️ Introdução {#gen-0-03}
 
 À primeira edição publicada em janeiro de 1868
 

@@ -1,25 +1,177 @@
+---
+# =============================================================================
+# METADATA PRINCIPAL
+# =============================================================================
+title: "O Céu e o Inferno"
+subtitle: "A Justiça Divina segundo o Espiritismo"
+description: "Exame comparado das doutrinas sobre as penas e recompensas futuras, segundo o Espiritismo e as diversas religiões. Casos concretos de manifestações de Espíritos."
+
+
+lang: "pt-BR"
+author: "Allan Kardec"
+codifier: "Allan Kardec"
+translator: "Guillon Ribeiro"
+editor: "Federação Espírita Brasileira (FEB)"
+
+edition: "Edição Histórica da FEB"
+isbn: "978-85-7328-731-8"
+originalTitle: "Le Ciel et l'Enfer"
+originalPublication: "Paris, 1865"
+publicationDate: "2019"
+date: "2025-05-24"
+updated: "2025-05-24"
+
+# =============================================================================
+# LEGAL & DISCLAIMER
+# =============================================================================
+disclaimer: |
+  Esta é uma edição digital educacional e gratuita destinada ao estudo da Doutrina Espírita.
+  
+  A tradução de Guillon Ribeiro (falecido em 26/10/1943) encontra-se em domínio público no Brasil desde 01/01/2014 (Lei 9.610/1998).
+  
+  O mantenedor deste site não detém os direitos autorais sobre a obra. Baseado na Edição Histórica da FEB.
+
+license: "Uso educacional, não-comercial e doutrinário permitido. Proibida a venda ou reprodução comercial sem autorização da FEB."
+rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Doutrina Espírita."
+
+# =============================================================================
+# TAXONOMY & ORGANIZATION
+# =============================================================================
+tags:
+  - espiritismo
+  - allan-kardec
+  - vida-futura
+  - justiça-divina
+  - expiação
+
+categories:
+  - Obras Básicas do Espiritismo
+  - Livros de Allan Kardec
+
+series: "Obras Básicas do Espiritismo"
+seriesPosition: 4
+
+# =============================================================================
+# SITE & NAVIGATION
+# =============================================================================
+layout: "layouts/book"
+permalink: "/ceu/"
+
+eleventyNavigation:
+  key: "O Céu e o Inferno"
+  parent: "Obras de Allan Kardec"
+  order: 4
+  title: "CEI — O Céu e o Inferno"
+
+# =============================================================================
+# CUSTOM FEATURES
+# =============================================================================
+emojiDefinitions:
+  Publicações:
+    ✨: "Livro dos Espíritos"
+    ✒️: "Livro dos Médiuns"
+    🕊️: "O Evangelho segundo o Espiritismo"
+    🔥: "O Céu e o Inferno"
+    🌱: "A Gênese"
+    🪦: "Obras Póstumas"
+
+  "Legenda deste livro":
+    👻: "Comunicação espiritual"
+    ✝️: "Citação bíblica"
+    👴🏻: "Allan Kardec"
+    🗃️: "Parte do Livro"
+    🗂️: "Capítulo da Parte"
+    📄: "Tópico do Capítulo"
+    #️⃣: "Item numerado"
+    👉🏻: "Tópico relacionado"
+
+  "Conferência de qualidade":
+    ⚓: "notas de rodapé"
+    📐: "italics"
+    🏋️: "negrito"
+    ⚜️: "comentário de Kardec"
+    🔤: "textual"
+---
+
 # 🔥 O Céu e o Inferno
 
 ## 0. 🗃️ Pré-textual {#ceu-0}
 
+### 0.00. ⚖️ Avisos Legais {#ceu-0-00}
+
+::: center
+**Edição Digital Educacional • Domínio Público**
+
+Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
+
+A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943)  
+encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
+nos termos da Lei nº 9.610/1998.
+
+Todos os direitos da edição impressa pertencem à Federação Espírita Brasileira (FEB)
+
+Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
+:::
+
+---
+
 ### 0.01. 🗂️ Folha de rosto {#ceu-0-01}
 
->
-header
->
-🔥 *O Céu e o Inferno*)
->
+::: center
+🔥 **O Céu e o Inferno**
+
 Ou a justiça divina segundo o Espiritismo
->
+
 Exame comparado das doutrinas sobre a passagem da vida corporal à vida espiritual, sobre as penalidades e recompensas futuras, sobre os anjos e demônios, sobre as penas etc., seguido de numerosos exemplos acerca da situação real da alma durante e depois da morte.
->
+
 por Allan Kardec.
->
+
 Tradução de Manuel Quintão
->
-Baseado no original ISBN 978-85-7328-731-8{:target="ext"}
->
-Modificado para o consumo digital por Sergio de
-⭕ shklr.org
->
-{:.grey-center}
+
+Edição digital educacional
+organizada e adaptada por **Sergio Schickler** 
+[💧 doutrina.org](https://doutrina.org) — 2023
+Baseada no ISBN 978-85-7328-731-8
+
+### 0.02. 📋 Sumário Geral {#ceu-0-02}
+
+::: box
+Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
+
+**Parte 0. 🗃️ Pré-textual**
+- [0.00 ⚖️ Avisos Legais](#ceu-0-00)
+- [0.01 📄 Folha de rosto](#ceu-0-01)
+- [0.02 🗂️ Prefácio](#ceu-0-03)
+
+**Parte 1. 🗃️ Doutrina**
+- [1.01. 🗂️ O porvir e o nada](#ceu-1-01)
+- [1.02. 🗂️ Temor da morte](#ceu-1-02)
+- [1.03. 🗂️ O céu](#ceu-1-03)
+- [1.04. 🗂️ O inferno](#ceu-1-04)
+- [1.05. 🗂️ O purgatório](#ceu-1-05)
+- [1.06. 🗂️ Doutrina das penas eternas](#ceu-1-06)
+- [1.07. 🗂️ As penas futuras segundo o Espiritismo](#ceu-1-07)
+- [1.08. 🗂️ Os anjos](#ceu-1-08)
+- [1.09. 🗂️ Os demônios](#ceu-1-09)
+- [1.10. 🗂️ Intervenção dos demônios nas modernas manifestações](#ceu-1-10)
+- [1.11. 🗂️ Da proibição de evocar os mortos](#ceu-1-11)
+
+**Parte 2. 🗃️ Exemplos**
+- [2.01. 🗂️ O passamento](#ceu-2-01)
+- [2.02. 🗂️ Espíritos felizes](#ceu-2-02)
+- [2.03. 🗂️ Espíritos em condições medianas](#ceu-2-03)
+- [2.04. 🗂️ Espíritos sofredores](#ceu-2-04)
+- [2.05. 🗂️ Suicidas](#ceu-2-05)
+- [2.06. 🗂️ Criminosos arrependidos](#ceu-2-06)
+- [2.07. 🗂️ Espíritos endurecidos](#ceu-2-07)
+- [2.08. 🗂️ Expiações terrestres](#ceu-2-08)
+
+**Parte 3. 🗃️ Pós-textual**
+- [3.01. 📄 Nota Explicativa](#ceu-3-01)
+- [3.02. 📑 Índice geral](#ceu-3-02)
+- [3.03. 📄 Notas de rodapé](#ceu-3-03)
+:::
+
+---
+
+

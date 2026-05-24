@@ -1,34 +1,189 @@
+---
+# =============================================================================
+# METADATA PRINCIPAL
+# =============================================================================
+title: "O Evangelho segundo o Espiritismo"
+subtitle: "Explicação das máximas morais de Jesus Cristo"
+description: "Aplicação dos ensinos morais do Cristo à vida real, com a concordância da moral evangélica com a Doutrina Espírita. Tradução de Guillon Ribeiro."
+
+
+lang: "pt-BR"
+author: "Allan Kardec"
+codifier: "Allan Kardec"
+translator: "Guillon Ribeiro"
+editor: "Federação Espírita Brasileira (FEB)"
+
+edition: "Edição Histórica da FEB"
+isbn: "978-85-7328-730-1"
+originalTitle: "L'Évangile selon le Spiritisme"
+originalPublication: "Paris, 1864"
+publicationDate: "2019"
+date: "2025-05-24"
+updated: "2025-05-24"
+
+# =============================================================================
+# LEGAL & DISCLAIMER
+# =============================================================================
+disclaimer: |
+  Esta é uma edição digital educacional e gratuita destinada ao estudo da Doutrina Espírita.
+  
+  A tradução de Guillon Ribeiro (falecido em 26/10/1943) encontra-se em domínio público no Brasil desde 01/01/2014 (Lei 9.610/1998).
+  
+  O mantenedor deste site não detém os direitos autorais sobre a obra. Baseado na Edição Histórica da FEB.
+
+license: "Uso educacional, não-comercial e doutrinário permitido. Proibida a venda ou reprodução comercial sem autorização da FEB."
+rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Doutrina Espírita."
+
+# =============================================================================
+# TAXONOMY & ORGANIZATION
+# =============================================================================
+tags:
+  - espiritismo
+  - allan-kardec
+  - evangelho
+  - moral-cristã
+  - caridade
+
+categories:
+  - Obras Básicas do Espiritismo
+  - Livros de Allan Kardec
+
+series: "Obras Básicas do Espiritismo"
+seriesPosition: 3
+
+# =============================================================================
+# SITE & NAVIGATION
+# =============================================================================
+layout: "layouts/book"
+permalink: "/ese/"
+
+eleventyNavigation:
+  key: "O Evangelho segundo o Espiritismo"
+  parent: "Obras de Allan Kardec"
+  order: 3
+  title: "ESE — O Evangelho segundo o Espiritismo"
+
+# =============================================================================
+# CUSTOM FEATURES
+# =============================================================================
+emojiDefinitions:
+  Publicações:
+    ✨: "Livro dos Espíritos"
+    ✒️: "Livro dos Médiuns"
+    🕊️: "O Evangelho segundo o Espiritismo"
+    🔥: "O Céu e o Inferno"
+    🌱: "A Gênese"
+    🪦: "Obras Póstumas"
+
+  "Legenda deste livro":
+    👻: "Comunicação espiritual"
+    ✝️: "Citação bíblica"
+    👴🏻: "Allan Kardec"
+    🗃️: "Parte do Livro"
+    🗂️: "Capítulo da Parte"
+    📄: "Tópico do Capítulo"
+    #️⃣: "Item numerado"
+    👉🏻: "Tópico relacionado"
+
+  "Conferência de qualidade":
+    ⚓: "notas de rodapé"
+    📐: "italics"
+    🏋️: "negrito"
+    ⚜️: "comentário de Kardec"
+    🔤: "textual"
+---
+
 # 🕊️ O Evangelho segundo o Espiritismo
 
 ## 0. 🗃️ Pré-textual {#ese-0}
 
-### 0.01. 📄 Folha de rosto {#ese-0-01}
+### 0.00. ⚖️ Avisos Legais {#ese-0-00}
 
->
-Ética Espírita
->
-🕊️ *O Evangelho segundo o Espiritismo*
->
-Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida.
->
-Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade.
->
-por Allan Kardec.
->
-Tradução de Guillon Ribeiro
->
-Baseado no original ISBN 978-85-7328-730-1{:target="ext"}
->
-Modificado para o consumo digital por Sergio de
-⭕ shklr.org 
->
-{:.grey-center}
+::: center
+**Edição Digital Educacional • Domínio Público**
 
-::: expand 📑 Termos relacionados
-- 🔖 related term
+Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
+
+A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943)  
+encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
+nos termos da Lei nº 9.610/1998.
+
+Todos os direitos da edição impressa pertencem à Federação Espírita Brasileira (FEB)
+
+Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
-### 0.02. 📄 Prefácio {#ese-0-02}
+---
+
+### 0.01. 📄 Folha de rosto {#ese-0-01}
+
+::: center
+Ética Espírita
+
+🕊️ **O Evangelho segundo o Espiritismo**
+
+Com a explicação das máximas morais do Cristo em concordância com o Espiritismo e suas aplicações às diversas circunstâncias da vida.
+
+Fé inabalável só o é a que pode encarar frente a frente a razão, em todas as épocas da humanidade.
+
+por 👴🏻 **Allan Kardec**
+
+Tradução de **Guillon Ribeiro**
+
+Edição digital educacional
+organizada e adaptada por **Sergio Schickler** 
+[💧 doutrina.org](https://doutrina.org) — 2023
+Baseada no ISBN 978-85-7328-730-1
+
+### 0.02. 📋 Sumário Geral {#ese-0-02}
+
+::: box
+Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
+
+**Parte 0. 🗃️ Pré-textual**
+- [0.00 ⚖️ Avisos Legais](#ese-0-00)
+- [0.01 📄 Folha de rosto](#ese-0-01)
+- [0.02 🗂️ Prefácio](#ese-0-03)
+
+**Parte 1. 🗃️ Miolo**
+- [1.01. 🗂️ Não vim destruir a lei](#ese-1-01)
+- [1.02. 🗂️ Meu Reino não é deste mundo](#ese-1-02)
+- [1.03. 🗂️ Há muitas moradas na casa de meu Pai](#ese-1-03)
+- [1.04. 🗂️ Ninguém poderá ver o Reino de Deus se não nascer de novo](#ese-1-04)
+- [1.05. 🗂️ Bem-aventurados os aflitos](#ese-1-05)
+- [1.06. 🗂️ O Cristo Consolador](#ese-1-06)
+- [1.07. 🗂️ Bem-aventurados os pobres de Espírito](#ese-1-07)
+- [1.08. 🗂️ Bem-aventurados os que têm puro o coração](#ese-1-08)
+- [1.09. 🗂️ Bem-aventurados os que são brandos e pacíficos](#ese-1-09)
+- [1.10. 🗂️ Bem-aventurados os que são misericordiosos](#ese-1-10)
+- [1.11. 🗂️ Amar o próximo como a si mesmo](#ese-1-11)
+- [1.12. 🗂️ Amai os vossos inimigos](#ese-1-12)
+- [1.13. 🗂️ Não saiba a vossa mão esquerda o que dê a vossa mão direita](#ese-1-13)
+- [1.14. 🗂️ Honrai a vosso pai e a vossa mãe](#ese-1-14)
+- [1.15. 🗂️ Fora da caridade não há salvação](#ese-1-15)
+- [1.16. 🗂️ Não se pode servir a Deus e a Mamon](#ese-1-16)
+- [1.17. 🗂️ Sede perfeitos](#ese-1-17)
+- [1.18. 🗂️ Muitos os chamados, poucos os escolhidos](#ese-1-18)
+- [1.19. 🗂️ A fé transporta montanhas](#ese-1-19)
+- [1.20. 🗂️ Os trabalhadores da última hora](#ese-1-20)
+- [1.21. 🗂️ Haverá falsos cristos e falsos profetas](#ese-1-21)
+- [1.22. 🗂️ Não separeis o que Deus juntou](#ese-1-22)
+- [1.23. 🗂️ Estranha moral](#ese-1-23)
+- [1.24. 🗂️ Não ponhais a candeia debaixo do alqueire](#ese-1-24)
+- [1.25. 🗂️ Buscai e achareis](#ese-1-25)
+- [1.26. 🗂️ Dai gratuitamente o que gratuitamente recebestes](#ese-1-26)
+- [1.27. 🗂️ Pedi e obtereis](#ese-1-27)
+- [1.28. 🗂️ Coletânea de preces espíritas](#ese-1-28)
+
+**Parte 2. 🗃️ Pós-textual**
+- [2.01. 📄 Nota Explicativa](#ese-2-01)
+- [2.02. 📑 Índice geral](#ese-2-02)
+- [2.03. 📄 Notas de rodapé](#ese-2-03)
+:::
+
+---
+
+### 0.03. 📄 Prefácio {#ese-0-03}
 
 ✨ — Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
 >
