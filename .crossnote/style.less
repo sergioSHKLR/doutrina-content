@@ -1,293 +1,416 @@
-/* ==================== HIGH-CONTRAST ACCESSIBLE LAYOUT ==================== */
-.markdown-preview.markdown-preview {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.8;
-  color: #111111; /* Optimal dark charcoal reading contrast */
-  background: #ffffff;
-  padding: 40px 50px;
-  max-width: 920px;
-  margin: 0 auto;
+@charset "UTF-8";
 
-  /* ==================== HEADINGS ==================== */
-  h1, h2, h3, h4 {
-    color: #000000;
-    font-weight: 800;
-    margin-top: 2em;
-    margin-bottom: 0.6em;
+/* ==================== HIGH-CONTRAST PRODUCTION ENVIRONMENT ==================== */
+.markdown-preview.markdown-preview {
+
+  /* ==================== PRODUCTION VARIABLE TOKENS ==================== */
+  @accent: #4EC1F5;
+  @bg-light: #ffffff;
+  @card-bg: #f8f9fa;
+  @text: #222222;
+  @heading: #1e3a8a;
+  @bible-red: #9C2A2A;
+  @bible-purple: #9c27b0;
+  @spirit-blue: #4dacff;
+  @kardec-grey: #757575;
+  @kardec-brown: #b85c37;
+
+  @border-light: #eee;
+  @border-md: #ddd;
+  @border-dark: #e5e5e5;
+  @text-muted: #666666;
+  @bg-hover: #f0f2f5;
+  @bg-box: #f9f9f9;
+
+  @content-max-width: 920px;
+  @box-max-width: 720px;
+
+  /* ==================== GLOBAL BASE RESET ==================== */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  line-height: 1.8 !important;
+  color: @text !important;
+  background-color: @bg-light !important;
+  padding: 40px 50px !important;
+  max-width: @content-max-width !important;
+  margin: 0 auto !important;
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
   }
 
   p {
-    margin-bottom: 1.3em;
-    text-align: left; /* Accessible reading path */
+    margin-bottom: 1.4rem !important;
+    text-align: left;
+    line-height: 1.8;
   }
 
-  /* Hide web-only elements */
-  a.heading-anchor {
+  /* Hide web-only anchors in preview workspace */
+  a.heading-anchor,
+  .heading-anchor {
     display: none !important;
   }
 
-  /* ==================== EMOJI-MATCHED SPEAKERS ==================== */
-  
-  /* Shared structural layout for speakers */
-  div.kardec,
-  div.spirit {
-    display: block;                  
-    margin: 2.2rem 0;             
-    position: relative;
-    padding: 0.4rem 0 0.4rem 20px; /* Indent next to thick borders */
-    background: transparent !important; 
-    box-shadow: none !important;        
+  /* ==================== TYPOGRAPHY & HEADING MATCHES ==================== */
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: @heading !important;
+    font-weight: 800 !important;
+    margin-top: 2.4rem !important;
+    margin-bottom: 1rem !important;
   }
 
-  /* Strong Bold Speaker Labels */
+  h1 {
+    font-size: 2.2rem !important;
+  }
+
+  h2 {
+    font-size: 1.75rem !important;
+  }
+
+  h3 {
+    font-size: 1.45rem !important;
+  }
+
+  h4 {
+    font-size: 1.25rem !important;
+    color: darkred !important;
+    /* Kept production accent override */
+  }
+
+  h6 {
+    font-size: 1rem !important;
+  }
+
+  /* PRODUCTION ENGINE: FORCE H5 AND ITS FOLLOWING PARAGRAPH TO RENDER IN-LINE */
+  h5 {
+    display: inline !important;
+    font-size: 1.1rem !important;
+    color: @heading !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    font-weight: 700;
+  }
+
+  h5+p {
+    display: inline !important;
+    font-weight: 700 !important;
+    margin-left: 0.4rem !important;
+    color: @text !important;
+  }
+
+  /* Break the line cleanly after the inline block concludes */
+  h5+p::after {
+    content: "" !important;
+    display: block !important;
+    margin-bottom: 1.2rem !important;
+  }
+
+  /* ==================== EMOJI-MATCHED CUSTOM CONTAINERS ==================== */
+  .kardec,
+  .spirit,
+  .bible {
+    display: block !important;
+    margin: 2.2rem 0 !important;
+    position: relative !important;
+    padding: 4px 0 4px 1.2rem !important;
+    /* Indent matching layout specs */
+    background: transparent !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    border-top: none !important;
+    border-right: none !important;
+    border-bottom: none !important;
+    border-left: 4px solid !important;
+
+    p {
+      line-height: 1.4 !important;
+    }
+
+    p+p {
+      margin-top: 1rem !important;
+    }
+
+    >*:first-child {
+      margin-top: 0 !important;
+    }
+
+    >*:last-child {
+      margin-bottom: 0 !important;
+    }
+  }
+
+  /* Structural Speaker Label Headers */
   .speaker {
     display: block;
     font-size: 0.95rem;
     font-weight: 700;
-    text-transform: uppercase; 
-    letter-spacing: 0.08em;     
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
     margin-bottom: 0.5rem;
   }
 
-  /* ✨ SPIRIT: Sparkles Azure Cyan Glow */
-  div.spirit {
-    border-left: 4px solid royalblue; 
-  }
-  div.spirit .speaker {
-    color: royalblue;
-  }
-
-  /* 👴🏻 KARDEC: Older Man Warm Terracotta Crimson */
-  div.kardec {
-    border-left: 4px solid orange; 
-  }
-  div.kardec .speaker {
-    color: orange;
+  /* Tighten stacked touch components */
+  .spirit+.spirit,
+  .spirit+.kardec,
+  .spirit+.bible,
+  .kardec+.spirit,
+  .kardec+.kardec,
+  .kardec+.bible,
+  .bible+.spirit,
+  .bible+.kardec,
+  .bible+.bible {
+    margin-top: 10px !important;
   }
 
+  /* Color mapping matching your exact design palette */
+  .kardec {
+    border-color: @kardec-brown !important;
 
-  /* ==================== AUXILIARY ELEMENTS ==================== */
-  
-  /* ✝️ BIBLE: Latin Cross Stately Slate Indicator */
-  div.bible {
-    padding: 0.8rem 0 0.8rem 1.5rem;
-    margin: 2rem 0;
-    border-left: 4px solid purple; 
-    background: transparent;        
+    .speaker {
+      color: @kardec-brown;
+    }
+  }
+
+  .spirit {
+    border-color: @spirit-blue !important;
+
+    .speaker {
+      color: @spirit-blue;
+    }
+  }
+
+  .bible {
+    border-color: @bible-purple !important;
     font-weight: 600;
+
+    /* Red Letter Scripting Engine */
+    em,
+    i {
+      color: @bible-red !important;
+      font-style: italic !important;
+      font-weight: 500 !important;
+    }
   }
 
-  /* Section Break Layout */
-  div.grey-center {
+  /* Isolated Structural Box Systems */
+  .box,
+  .center {
+    max-width: @box-max-width !important;
+    margin: 3rem auto !important;
+    padding: 1rem 2rem !important;
+    background: @bg-box !important;
+    border: 1px solid @border-dark !important;
+    border-radius: 10px !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
+  }
+
+  .center {
+    text-align: center !important;
+    padding: 1.5rem 2rem !important;
+  }
+
+  .left {
+    text-align: left !important;
+  }
+
+  .grey-center {
     text-align: center;
     max-width: 100%;
     margin: 3rem auto;
     padding: 2rem 0;
-    background: transparent;
-    border-top: 2px solid #111111;   
-    border-bottom: 2px solid #111111;
-    border-left: none;
-    border-right: none;
-    border-radius: 0;
+    background: transparent !important;
+    border-top: 2px solid @text !important;
+    border-bottom: 2px solid @text !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
   }
 
-  img[src*="vine.png"],
-  img[src*="vine"] {
-    max-width: 60%; 
-    height: auto;
-    display: block;
-    margin: 2rem auto;
+  /* Image Layout Handling */
+  img[src*="vine"],
+  img[src*="Cepa"] {
+    max-width: 60% !important;
+    height: auto !important;
+    display: block !important;
+    margin: 2rem auto !important;
+    border-radius: 8px;
   }
 
-  /* ==================== PERFECTLY ALIGNED CHEVRON BULLETS ==================== */
+  /* ==================== ACCESSIBLE CHEVRON BULLETS ==================== */
   ul {
-    list-style: none !important; /* Completely strip native heavy dots */
-    padding-left: 0 !important;   /* Clear space */
-    margin-left: 1.5rem;
-    margin-bottom: 1.3em;
-  }
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin-left: 1.5rem !important;
+    margin-bottom: 1.3em !important;
 
-  ul li {
-    display: flex;               /* Align chevron and text side-by-side */
-    align-items: flex-start;     /* Keeps chevron aligned with the first line of text */
-    margin-bottom: 0.5rem;
-    line-height: 1.8;            /* Matches your layout line-height */
-  }
+    li {
+      display: flex !important;
+      align-items: flex-start !important;
+      margin-bottom: 0.5rem !important;
+      line-height: 1.8 !important;
 
-  ul li::before {
-    content: "›";                /* Right Chevron symbol */
-    display: inline-block;
-    font-size: 1.3rem;           
-    font-weight: 700;            
-    color: #444444;              
-    margin-right: 0.6rem;        /* Perfectly sets the gap between arrow and text */
-    
-    /* Perfect baseline micro-adjustments */
-    line-height: 1.4rem;         /* Locks glyph within its own reliable boundary box */
-    margin-top: -1px;            /* Nudges the symbol up exactly one pixel to align with font capitals */
-    flex-shrink: 0;              /* Prevents the chevron from squishing */
-  }
-}
-
-/* ==================== > COLLAPSIBLES (HIGH CONTRAST) ==================== */
-
-/* Standard Markdown Blockquotes Collapsible (Linked to Spirit) */
-blockquote {
-  background: #ffffff;
-  border: 1px solid lightgrey; 
-  border-left: 4px solid royalblue; 
-  border-radius: 4px;
-  margin: 2rem 0;
-  padding: 0;
-  overflow: hidden;
-  max-height: 4.2rem !important;           
-  position: relative;
-  transition: max-height 0.4s ease;
-
-  /* Header Line Styling */
-  & > p:first-child {
-    margin: 0;
-    padding: 1rem 1.5rem;
-    background: #f1f3f5;
-    color: #000000;
-    cursor: pointer;
-    position: relative;
-    border-bottom: 1px solid lightgrey;
-
-    &::after {
-      content: " ▼";
-      position: absolute;
-      right: 1.5rem;
-      color: #000000;
-      font-weight: bold;
-    }
-  }
-
-  /* Safe visibility hide */
-  & > *:not(:first-child) {
-    opacity: 0;
-    visibility: hidden;
-    pointer-events: none;
-  }
-
-  /* Expand Action */
-  &:hover,
-  &:focus-within {
-    max-height: 3000px !important;
-
-    & > p:first-child::after {
-      content: " ▲";
-    }
-
-    & > *:not(:first-child) {
-      opacity: 1;
-      visibility: visible;
-      pointer-events: auto;
-      padding: 1.2rem 1.5rem;
+      &::before {
+        content: "›" !important;
+        display: inline-block !important;
+        font-size: 1.3rem !important;
+        font-weight: 700 !important;
+        color: @text-muted !important;
+        margin-right: 0.6rem !important;
+        line-height: 1.4rem !important;
+        margin-top: -1px !important;
+        flex-shrink: 0 !important;
+      }
     }
   }
 }
 
-/* 📖 CHAPTER TOC (Table of Contents) - Deep Scholarly Slate-Charcoal */
-.chapter-toc {
-  background: #ffffff;
-  border: 1px solid lightgrey;
-  border-left: 4px solid #2d3748; /* Solid deep corporate slate border */
-  border-radius: 4px;
-  margin: 2rem 0;
-  padding: 0;
-  overflow: hidden;
+/* ==================== INTERACTIVE HOVER EXPANDERS ==================== */
+
+/* Standard Blockquotes (Linked to Spirit) */
+.markdown-preview.markdown-preview blockquote {
+  background: #ffffff !important;
+  border: 1px solid #ddd !important;
+  border-left: 4px solid #4dacff !important;
+  /* Connected via @spirit-blue variable hex */
+  border-radius: 4px !important;
+  margin: 2rem 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
   max-height: 4.2rem !important;
-  position: relative;
+  position: relative !important;
   transition: max-height 0.4s ease;
 
-  & > *:first-child {
+  &>p:first-child {
     margin: 0 !important;
     padding: 1rem 1.5rem !important;
-    background: #f1f3f5;
-    font-weight: 700;
-    color: #2d3748; /* Text matches theme accent */
-    cursor: pointer;
-    position: relative;
-    display: block !important; 
-    border-bottom: 1px solid lightgrey;
+    background: #f1f3f5 !important;
+    color: #000000 !important;
+    cursor: pointer !important;
+    position: relative !important;
+    border-bottom: 1px solid #ddd !important;
 
     &::after {
-      content: " ▼";
-      position: absolute;
-      right: 1.5rem;
-      color: #2d3748;
-      font-weight: bold;
+      content: " ▼" !important;
+      position: absolute !important;
+      right: 1.5rem !important;
+      color: #000000 !important;
+      font-weight: bold !important;
     }
   }
 
-  & > *:not(:first-child) {
-    opacity: 0;
-    visibility: hidden;
-    pointer-events: none;
+  &>*:not(:first-child) {
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
   }
 
   &:hover,
   &:focus-within {
     max-height: 3000px !important;
-    & > *:first-child::after { content: " ▲"; }
-    & > *:not(:first-child) {
-      opacity: 1;
-      visibility: visible;
-      pointer-events: auto;
-      padding: 1.2rem 1.5rem;
+
+    &>p:first-child::after {
+      content: " ▲" !important;
+    }
+
+    &>*:not(:first-child) {
+      opacity: 1 !important;
+      visibility: visible !important;
+      pointer-events: auto !important;
+      padding: 1.2rem 1.5rem !important;
     }
   }
 }
 
-/* 🔍 EXPAND (Index) - High Contrast Deep Teal Accent */
-.expand {
-  background: #ffffff;
-  border: 1px solid lightgrey;
-  border-left: 4px solid #007a78; /* Vibrant deep teal border */
-  border-radius: 4px;
-  margin: 2rem 0;
-  padding: 0;
-  overflow: hidden;
+/* 📖 CHAPTER TOC (Table of Contents Box) */
+.markdown-preview.markdown-preview .chapter-toc {
+  background: #ffffff !important;
+  border: 1px solid #ddd !important;
+  border-left: 4px solid #2d3748 !important;
+  border-radius: 4px !important;
+  margin: 2rem 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
   max-height: 4.2rem !important;
-  position: relative;
+  position: relative !important;
   transition: max-height 0.4s ease;
 
-  & > *:first-child {
+  &>*:first-child {
     margin: 0 !important;
     padding: 1rem 1.5rem !important;
-    background: #f1f3f5;
-    font-weight: 700;
-    color: #007a78; /* Text matches theme accent */
-    cursor: pointer;
-    position: relative;
-    display: block !important; 
-    border-bottom: 1px solid lightgrey;
+    background: #f1f3f5 !important;
+    font-weight: 700 !important;
+    color: #2d3748 !important;
+    cursor: pointer !important;
+    position: relative !important;
+    display: block !important;
+    border-bottom: 1px solid #ddd !important;
 
     &::after {
-      content: " ▼";
-      position: absolute;
-      right: 1.5rem;
-      color: #007a78;
-      font-weight: bold;
+      content: " ▼" !important;
+      position: absolute !important;
+      right: 1.5rem !important;
+      color: #2d3748 !important;
+      font-weight: bold !important;
     }
   }
 
-  & > *:not(:first-child) {
-    opacity: 0;
-    visibility: hidden;
-    pointer-events: none;
+  &>*:not(:first-child) {
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
   }
 
   &:hover,
   &:focus-within {
     max-height: 3000px !important;
-    & > *:first-child::after { content: " ▲"; }
-    & > *:not(:first-child) {
-      opacity: 1;
-      visibility: visible;
-      pointer-events: auto;
-      padding: 1.2rem 1.5rem;
+
+    &>*:first-child::after {
+      content: " ▲" !important;
+    }
+
+    &>*:not(:first-child) {
+      opacity: 1 !important;
+      visibility: visible !important;
+      pointer-events: auto !important;
+      padding: 1.2rem 1.5rem !important;
     }
   }
+}
+
+/* 🔍 EXPAND CONTAINER */
+.markdown-preview.markdown-preview .expand {
+  background: #ffffff !important;
+  border: 1px solid #ddd !important;
+  border-left: 4px solid #007a78 !important;
+  border-radius: 4px !important;
+  margin: 2rem 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  max-height: 4.2rem !important;
+  position: relative !important;
+  transition: max-height 0.4s ease;
+}
+
+&>*:first-child {
+  margin: 0 !important;
+  padding: 1rem 1.5rem !important;
+  background: #f1f3f5 !important;
+  font-weight: 700 !important;
+  color: #007a78 !important;
+  cursor: pointer !important;
+  position: relative !important;
+  display: block !important;
+  border-bottom: 1px solid #ddd !important;
+}
+
+&::after {
+  content: " ▼" !important;
+  position: absolute !important;
+  right: 1.5rem !important;
+  color: #007a78 !important;
 }
