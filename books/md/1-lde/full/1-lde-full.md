@@ -11537,6 +11537,8 @@ Podem a bênção e a maldição atrair o bem e o mal para aqueles sobre quem s�
 
 ### 2.10. 🗂️ Ocupações e missões {#lde-2-10}
 
+#### Ocupações e missões
+
 ##### #️⃣ Q.558 {#q558}
 
 Alguma outra coisa incumbe aos Espíritos fazer, que não seja melhorarem-se pessoalmente?
@@ -20318,6 +20320,8 @@ Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e ze
 
 ## 5. 🗃️ Conclusão {#lde-5}
 
+### Conclusão
+
 ::: chapter-toc Neste capítulo:
 <!-- no toc -->
 - [5.01. 📄 Conclusão 01](#lde-5-01)
@@ -20668,6 +20672,8 @@ A Editora (FEB)
 ---
 
 ### 6.02. 📑 Índice geral {#lde-6-02}
+
+#### Termos relacionados
 
 ::: chapter-toc Termos relacionados
 <!-- no toc -->

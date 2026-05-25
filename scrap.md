@@ -1,430 +1,190 @@
-@charset "UTF-8";
+# Heading Compliance Report - 1-lde-full.md
+Generated: 2026-05-25 01:58:26
 
-:root {
-  /* Color Palette */
-  --accent: #4EC1F5;
-  --bg-light: #ffffff;
-  --card-bg: #f8f9fa;
-  --text: #222;
-  --heading: #1e3a8a;
-  --bible-red: #9C2A2A;
-  --bible-purple: #9c27b0;
-  --spirit-blue: #4dacff;
-  --kardec-grey: #757575;
-  --kardec-brown: #b85c37;
+- Total Headings: 2118
+h1: 1
+h2: 7
+h3: 37
+h4: 188
+h5: 1237
+h6: 648
 
-  /* Shared Greys & Borders */
-  --border-light: #eee;
-  --border-md: #ddd;
-  --border-dark: #e5e5e5;
-  --text-muted: #666666;
-  --bg-hover: #f0f2f5;
-  --bg-box: #f9f9f9;
+## Compliance Score: **100%**
 
-  /* Layout Dimensions */
-  --sidebar-width: 340px;
-  --content-max-width: 920px;
-  --box-max-width: 720px;
-}
+## Observations
 
-/* ==================== BASE ==================== */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
+## Sample h6 (Index Terms):
+- Line 20638: 🔖 Aberração
+- Line 20641: 🔖 Aborto
+- Line 20644: 🔖 Abuso
+- Line 20647: 🔖 Acaso
+- Line 20650: 🔖 Ação
+- Line 20655: 🔖 Aceitação
+- Line 20658: 🔖 Acerto
+- Line 20661: 🔖 Adão
+- Line 20666: 🔖 Adolescência
+- Line 20669: 🔖 Adoração
+- Line 20683: 🔖 Afeição
+- Line 20687: 🔖 Afinidade
 
-body {
-  margin: 0;
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  line-height: 1.5;
-  color: var(--text);
-  background: var(--bg-light);
-  scroll-behavior: smooth;
-}
+## Nesting Issues Detected (3):
+- Line 11474: Large jump h3 → h5 | #️⃣ Q.558
+- Line 20270: Large jump h2 → h4 | 5.01. 📄 Conclusão 01
+- Line 20635: Large jump h3 → h5 | A
 
-/* ==================== LAYOUT ==================== */
-.container {
-  display: grid;
-  grid-template-columns: var(--sidebar-width) 1fr;
-  min-height: 100vh;
-}
+---
 
-.sidebar {
-  background: var(--card-bg);
-  padding: 2rem 1.5rem;
-  border-right: 1px solid var(--border-md);
-  position: sticky;
-  top: 0;
-  height: 100vh;
-  overflow-y: auto;
-  align-self: start;
-}
+# Heading Compliance Report - 2-ldm-full.md
+Generated: 2026-05-25 01:58:26
 
-.book-content {
-  padding: 3rem 4rem;
-  max-width: var(--content-max-width);
-  margin: 0 auto;
-}
+- Total Headings: 1005
+h1: 1
+h2: 4
+h3: 43
+h4: 358
+h5: 287
+h6: 312
 
-/* Mobile Responsiveness */
-@media (max-width: 1024px) {
-  .container {
-    grid-template-columns: 1fr;
-  }
+## Compliance Score: **100%**
 
-  .sidebar {
-    position: relative;
-    height: auto;
-    padding: 1.5rem;
-  }
+## Observations
 
-  .book-content {
-    padding: 2rem 1.5rem;
-  }
-}
+## Sample h6 (Index Terms):
+- Line  1093: 01
+- Line  1100: 02
+- Line  1107: 03
+- Line  1114: 04
+- Line  1121: 05
+- Line  1128: 06
+- Line  1135: 07
+- Line  1142: 08
+- Line  1149: 09
+- Line  1156: 📝 **Nota**
+- Line  1160: 10
+- Line  1167: 11
 
-/* ==================== TYPOGRAPHY ==================== */
-h1,
-h2,
-h3,
-h4,
-h5 {
-  color: var(--heading);
-  margin-top: 2.4rem;
-  margin-bottom: 1rem;
-  scroll-margin-top: 80px;
-}
+## Nesting Issues Detected (3):
+- Line  7472: Large jump h3 → h6 | 📝 **Nota**
+- Line  7472: h6 directly under h3 (should be under h4/h5) → 📝 **Nota**
+- Line  8378: Large jump h3 → h5 | A
 
-h1 {
-  font-size: 2.2rem;
-}
+---
 
-h2 {
-  font-size: 1.75rem;
-}
+# Heading Compliance Report - 3-ese-full.md
+Generated: 2026-05-25 01:58:26
 
-h3 {
-  font-size: 1.45rem;
-}
+- Total Headings: 813
+h1: 1
+h2: 3
+h3: 36
+h4: 201
+h5: 25
+h6: 547
 
-h4 {
-  font-size: 1.25rem;
-  color: darkred
-}
+## Compliance Score: **93%**
 
-h6 {
-  font-size: 1rem;
-}
+## Observations
 
-/* Force H5 and its following paragraph to render in-line */
-h5 {
-  display: inline;
-  font-size: 1.1rem;
-  margin-top: 0;
-  margin-bottom: 0;
-}
+## Sample h6 (Index Terms):
+- Line   151: Controle universal do ensino dos Espíritos
+- Line   273: Resumo da doutrina de Sócrates e de Platão
+- Line   275: 01
+- Line   287: 02
+- Line   299: 03
+- Line   311: 04
+- Line   323: 05
+- Line   335: 06
+- Line   347: 07
+- Line   357: O Cristianismo e o Espiritismo ensinam a mesma coisa
+- Line   359: 08
+- Line   371: 09
 
-h5+p {
-  display: inline;
-  font-weight: 700;
-  margin-left: 0.4rem;
-}
-
-/* Break the line cleanly after the inline block-group concludes */
-h5+p::after {
-  content: "";
-  display: block;
-  margin-bottom: 1.2rem;
-}
-
-p {
-  margin-bottom: 1.4rem;
-}
-
-/* ==================== CUSTOM CONTAINERS ==================== */
-.kardec,
-.spirit,
-.bible {
-  padding: 4px 0 4px 1.2rem;
-  margin-top: 16px;
-  margin-bottom: 16px;      
-  border-left: 3px solid;
-  border-radius: 0;         
-  background: transparent !important;
-  box-shadow: none !important;
-}
-
-/* Clear 10px spacing block rules that guarantee square edges for touching components */
-.spirit+.spirit,
-.spirit+.kardec,
-.spirit+.bible,
-.kardec+.spirit,
-.kardec+.kardec,
-.kardec+.bible,
-.bible+.spirit,
-.bible+.kardec,
-.bible+.bible {
-  margin-top: 10px !important;
-}
-
-/* Restoring comfortable readability paragraph gaps within the same named div box */
-.kardec p+p,
-.spirit p+p,
-.bible p+p {
-  margin-top: 1rem !important;
-}
-
-/* First/Last child padding safety resets inside containers */
-.kardec>*:first-child,
-.spirit>*:first-child,
-.bible>*:first-child {
-  margin-top: 0 !important;
-}
-
-.kardec>*:last-child,
-.spirit>*:last-child,
-.bible>*:last-child {
-  margin-bottom: 0 !important;
-}
-
-.kardec p,
-.spirit p,
-.bible p {
-  line-height: 1.4;
-}
-
-.kardec {
-  border-color: var(--kardec-brown);
-}
-
-.spirit {
-  border-color: var(--spirit-blue);
-}
-
-.bible {
-  border-color: var(--bible-purple);
-}
-
-/* Red Letter Bible Styling */
-.bible em,
-.bible i {
-  color: var(--bible-red) !important;
-  font-style: italic;
-  font-weight: 500;
-}
-
-/* Isolated Structural Containers */
-.box {
-  max-width: var(--box-max-width);
-  margin: 3rem auto;
-  padding: 1rem 2rem;
-  background: var(--bg-box);
-  border: 1px solid var(--border-dark);
-  border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-}
-
-.center {
-  text-align: center;
-  max-width: var(--box-max-width);
-  margin: 3rem auto;
-  padding: 1.5rem 2rem;
-  background: var(--bg-box);
-  border: 1px solid var(--border-dark);
-  border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-}
-
-.left {
-  text-align: left;
-}
-
-/* ==================== TOC & NAV ==================== */
-.toc-title {
-  font-weight: 700;
-  margin: 0 0 1.2rem 0;
-  font-size: 1.2rem;
-  color: var(--heading);
-}
-
-.toc-tree details {
-  margin-bottom: 10px;
-}
-
-.toc-tree summary {
-  font-weight: 600;
-  cursor: pointer;
-  padding: 6px 0;
-}
-
-.toc-tree ul {
-  list-style: none;
-  padding-left: 1.4rem;
-  margin: 6px 0;
-}
-
-/* ==================== EXPANDERS & INDEX (RESET AGRESSIVO TOTAL) ==================== */
-details,
-.index-section {
-  margin: 0.6rem 0 !important;
-  /*
-  border: 1px solid var(--border-md);
-  border-radius: 8px; */
-  overflow: hidden;
-  /*
-  background: var(--bg-light); */
-}
-
-details[open],
-.index-section {
-  margin: 1.2rem 0 !important;
-}
-
-details summary,
-.index-section summary {
-  padding: 0.6rem 1.2rem 0.6rem 2.4rem;
-  font-weight: 600;
-  cursor: pointer;
-  /*
-  background: var(--card-bg);
-  border-bottom: 1px solid var(--border-light); */
-  position: relative;
-  list-style: none;
-  color: var(--text-muted);
-  transition: color 0.15s ease;
-}
-
-.index-section summary {
-  padding: 0.9rem 1.2rem 0.9rem 2.4rem !important;
-  font-size: 1.08rem !important;
-  min-height: auto !important;
-}
-
-details summary::-webkit-details-marker {
-  display: none;
-}
-
-details[open] summary {
-  color: #000000;
-}
-
-/* Custom CSS Chevron */
-details summary::before {
-  content: "";
-  position: absolute;
-  left: 1.2rem;
-  top: 50%;
-  width: 6px;
-  height: 6px;
-  border-right: 2px solid currentColor;
-  border-bottom: 2px solid currentColor;
-  transform: translateY(-50%) rotate(-45deg);
-  transition: transform 0.15s ease;
-}
-
-details[open] summary::before {
-  transform: translateY(-70%) rotate(45deg);
-}
+## Nesting Issues: None detected ✅
 
 
-details summary:hover {
-  color: black;
-} 
+---
 
-/* FAZ QUALQUER TEXTO DENTRO DE DETALHES FICAR COMPACTADO À FORÇA */
-details>*:not(summary) {
-  padding: 0.4rem 1.2rem !important;
-}
+# Heading Compliance Report - 4-ceu-full.md
+Generated: 2026-05-25 01:58:26
 
-/* Caça parágrafos puros e limpa margens para colar as definições */
-details p,
-details div,
-details span {
-  margin-top: 0 !important;
-  margin-bottom: 3px !important;
-  /* Espaço mínimo absoluto entre as linhas */
-  padding: 0 !important;
-}
+- Total Headings: 654
+h1: 1
+h2: 4
+h3: 25
+h4: 141
+h5: 0
+h6: 483
 
-/* Evita quebras de linha entre as palavras e os links de referência */
-details p:not(:has(strong)):not(:has(b)) {
-  padding-left: 1.2rem !important;
-  margin-bottom: 10px !important;
-  /* Espaço controlado ao fim do bloco completo */
-}
+## Compliance Score: **78%**
 
-/* Remove saltos de bloco de tags inline */
-details a,
-details span {
-  display: inline !important;
-}
+## Observations
+- ⚠️ Note: 483 h6 with no h5 (common in LDM/ESE/CEU/GEN)
 
-/* Cabeçalhos de termos ganham pequeno respiro superior */
-details strong,
-details b {
-  display: inline-block;
-  margin-top: 8px !important;
-  margin-bottom: 1px !important;
-}
+## Sample h6 (Index Terms):
+- Line   125: 03
+- Line   151: 04
+- Line   157: 05
+- Line   175: 06
+- Line   181: 07
+- Line   187: 08
+- Line   193: 09
+- Line   199: 10
+- Line   207: 11
+- Line   216: 12
+- Line   222: 13
+- Line   232: 14
 
-/* Corrige o topo do primeiro item */
-details p:first-child strong,
-details p:first-child b {
-  margin-top: 0 !important;
-}
+## Nesting Issues: None detected ✅
 
-/* Redução secundária para blocos de índice estruturados em listas */
-.index-section>*:not(summary) {
-  padding: 0.6rem 1.4rem 0.8rem !important;
-  margin: 0 !important;
-}
+---
 
-.chapter-toc-content {
-  padding: 0.75rem 1.2rem !important;
-}
+# Heading Compliance Report - 5-gen-full.md
+Generated: 2026-05-25 01:58:26
 
-/* ==================== IMAGES & MEDIA ==================== */
-img[src*="vine"],
-img[src*="Cepa"] {
-  max-width: 680px;
-  width: 100%;
-  height: auto;
-  display: block;
-  margin: 3rem auto;
-  border-radius: 8px;
-}
+- Total Headings: 994
+h1: 1
+h2: 5
+h3: 27
+h4: 27
+h5: 157
+h6: 777
 
-/* ==================== ANCHORS ==================== */
-.heading-anchor {
-  display: none !important;
-  color: var(--accent);
-  margin-left: 0.5rem;
-  text-decoration: none;
-}
+## Compliance Score: **100%**
 
-h1:hover .heading-anchor,
-h2:hover .heading-anchor,
-h3:hover .heading-anchor,
-h4:hover .heading-anchor {
-  display: inline !important;
-}
+## Observations
 
-/* ==================== UTILITIES ==================== */
-.center-text {
-  text-align: center;
-}
+## Sample h6 (Index Terms):
+- Line   137: 01
+- Line   145: 02
+- Line   153: 03
+- Line   161: 04
+- Line   169: 05
+- Line   177: 06
+- Line   185: 07
+- Line   193: 08
+- Line   201: 09
+- Line   209: 10
+- Line   217: 11
+- Line   225: 12
 
-.small {
-  font-size: 0.9rem;
-  color: var(--text-muted);
-}
-
-.kardec blockquote,
-.spirit blockquote,
-.bible blockquote {
-  padding: 0 !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-}
-
+## Nesting Issues Detected (29):
+- Line   137: Large jump h3 → h6 | 01
+- Line   137: h6 directly under h3 (should be under h4/h5) → 01
+- Line   642: Large jump h3 → h6 | Existência de Deus
+- Line   642: h6 directly under h3 (should be under h4/h5) → Existência de Deus
+- Line   968: Large jump h3 → h6 | Origem do bem e do mal
+- Line   968: h6 directly under h3 (should be under h4/h5) → Origem do bem e do mal
+- Line  1185: Large jump h3 → h6 | 01
+- Line  1185: h6 directly under h3 (should be under h4/h5) → 01
+- Line  1327: Large jump h3 → h6 | 01
+- Line  1327: h6 directly under h3 (should be under h4/h5) → 01
+- Line  1445: Large jump h3 → h6 | 01
+- Line  1445: h6 directly under h3 (should be under h4/h5) → 01
+- Line  2703: Large jump h3 → h5 | Teoria da projeção
+- Line  2843: Large jump h3 → h5 | Revoluções gerais ou parciais
+- Line  3079: Large jump h3 → h6 | 01
+- Line  3079: h6 directly under h3 (should be under h4/h5) → 01
+- Line  4003: Large jump h3 → h5 | Os seis dias
+- Line  4383: Large jump h3 → h6 | 01
+- Line  4383: h6 directly under h3 (should be under h4/h5) → 01
+- Line  4603: Large jump h3 → h5 | Elementos fluídicos
