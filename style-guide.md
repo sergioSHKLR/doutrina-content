@@ -1,5 +1,5 @@
-# Estilo de Marcação para a Coleção Digital Espírita (dc)
-**Versão 1.1** — Atualizado em 26 de Maio de 2026
+# Estilo de Marção para a Coleção Digital Espírita (dc)
+**Versão 1.2** — Atualizado em 27 de Maio de 2026
 
 ### 1. Princípios Gerais
 - h1 = Título completo do livro
@@ -9,7 +9,7 @@
 - **h5 = Unidade principal de conteúdo** (Questões no LDE, parágrafos numerados, itens principais)
 - **h6 = Termos de Índice / Referências Cruzadas** (exclusivo para Índice Geral)
 
-### 2. Hierarquia por Livro (Atualizado)
+### 2. Hierarquia por Livro
 
 **LDE – O Livro dos Espíritos**
 - H5 = Questões (Q.1 a Q.1019)
@@ -17,37 +17,37 @@
 
 **LDM, ESE, CEU, GEN**
 - H5 = Parágrafos / Itens principais
-- H6 = Índice (atualmente em placeholder A–Z — será expandido)
+- H6 = Índice (placeholder até expansão completa)
 
 ### 3. Regras Específicas
 - Apenas **LDE** deve ter alto número de H6 atualmente.
-- Outros livros devem manter H6 = ~25 (placeholders) até o índice completo ser construído.
+- Outros livros devem manter H6 ~25 (placeholders) até o índice completo ser construído.
 - Não usar H6 fora da seção **Índice Geral** do Pós-textual.
+
+### 4. Prefixos de Âncoras para Referências Cruzadas
+
+Para permitir interligações consistentes entre os cinco livros, use os seguintes prefixos quando criar IDs de âncoras e links:
+
+- **LDE**: `lde-q` (ex: `lde-q-847`)
+- **LDM**: `ldm-m` (ex: `ldm-m-142`)
+- **ESE**: `ese-e`
+- **CEU**: `ceu-c`
+- **GEN**: `gen-g`
+
+Esses prefixos devem ser usados nos arquivos Markdown fonte para referências estáveis (dentro do livro e entre livros).
 
 ---
 
-Detailed Rationale (from PDF Índice Geral)
-LDE — Already optimal (QXXXX)
+**Rationale detalhado** (do Índice Geral dos PDFs originais)
 
-Index is extremely detailed by question number.
-H5 = individual questions is the natural lowest unit.
+LDE — Já ótimo (QXXXX). O índice é extremamente detalhado por número de questão. H5 = questões individuais é a unidade mais natural.
 
-LDM — PXXX is excellent
+LDM — PXXX é excelente. O índice referencia parágrafos diretamente (ex. §142).
 
-Index references paragraphs directly (e.g. §142).
-Clear sequential numbering.
+ESE — IXXX (Item) é a melhor simplificação.
 
-ESE — IXXX (Item) is the best simplification
+CEU — EXXX (Exemplo) encaixa perfeitamente.
 
-The PDF index references items numerically across chapters (e.g., "XIII, 6", "XXVIII, 45").
-Using I153 is much cleaner than chapter-item pairs.
+GEN — SXXX (Seção) é o mais prático.
 
-CEU — EXXX (Example) fits perfectly
-
-The second part is dominated by examples of spirits (happy, suffering, suicides, etc.).
-The index lists them as individual cases → E247 makes sense.
-
-GEN — SXXX (Section) is the most practical
-
-The index refers to numbered sections within chapters (scientific and doctrinal items).
-S089 is short and sufficient.
+Veja o documento completo de convenções de referências cruzadas em [cross-reference.md](./cross-reference.md).
