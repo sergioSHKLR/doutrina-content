@@ -1,0 +1,982 @@
+# Diagnostic TOC - 5-GEN (h5 included)
+Clean version for hierarchy analysis
+
+
+# 🌱 A Gênese
+
+## 0. 🗃️ Pré-textual
+   - **0.00. ⚖️ Avisos Legais**
+   - **0.01. 🗂️ Folha de rosto**
+   - **0.02. 📋 Sumário Geral**
+   - **0.03. 🗂️ Introdução**
+
+## 1. 🗃️ A Gênese segundo o Espiritismo
+   - **1.01. 🗂️ Caráter da revelação espírita**
+       - 📄 FILLER HEADING
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+           - 15
+           - 16
+           - 17
+           - 18
+           - 19
+           - 20
+           - 21
+           - 22
+           - 23
+           - 24
+           - 25
+           - 26
+           - 27
+           - 28
+           - 29
+           - 30
+           - 31
+           - 32
+           - 33
+           - 34
+           - 35
+           - 36
+           - 37
+           - 38
+           - 39
+           - 40
+           - 41
+           - 42
+           - 43
+           - 44
+           - 45
+           - 46
+           - 47
+           - 48
+           - 49
+           - 50
+           - 51
+           - 52
+           - 53
+           - 54
+           - 55
+           - 56
+           - 57
+           - 58
+           - 59
+           - 60
+           - 61
+           - 62
+   - **1.02. 🗂️ Deus**
+       - 📄 Existência de Deus
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+       - 📄 Da natureza divina
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+           - 15
+           - 16
+           - 17
+           - 18
+           - 19
+           - A Providência
+           - 20
+           - 21
+           - 22
+           - 23
+           - 24
+           - 25
+           - 26
+           - 27
+           - 28
+           - 29
+           - 30
+           - A visão de Deus
+           - 31
+           - 32
+           - 33
+           - 34
+           - 35
+           - 36
+           - 37
+   - **1.03. 🗂️ O bem e o mal**
+       - 📄 Origem do bem e do mal
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - O instinto e a inteligência
+           - 11
+           - 12
+           - 13
+           - 14
+           - 15
+           - 16
+           - 17
+           - 18
+           - 19
+       - 📄 Destruição dos seres vivos uns pelos outros
+           - 20
+           - 21
+           - 22
+           - 23
+           - 24
+   - **1.04. 🗂️ Papel da Ciência na Gênese**
+       - 📄 FILLER HEADING
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+           - 15
+           - 16
+           - 17
+   - **1.05. 🗂️ Antigos e modernos sistemas do mundo**
+       - 📄 FILLER HEADING
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+   - **1.06. 🗂️ Uranografia geral**
+       - 📄 FILLER HEADING
+           - 01
+           - 02
+           - A matéria
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+       - 📄 As leis e as forças
+           - 08
+           - 09
+           - 10
+           - 11
+           - A criação primária
+           - 12
+           - 13
+           - 14
+           - 15
+           - 16
+           - A criação universal
+           - 17
+           - 18
+           - 19
+           - 20
+           - 21
+           - 22
+           - 23
+       - 📄 Os satélites
+           - 24
+           - 25
+           - 26
+           - 27
+       - 📄 Os cometas
+           - 28
+           - 29
+           - 30
+           - 31
+           - A Via Láctea
+           - 32
+           - 33
+           - 34
+           - 35
+           - 36
+       - 📄 As estrelas fixas
+           - 37
+           - 38
+           - 39
+           - 40
+           - 41
+           - 42
+           - 43
+           - 44
+       - 📄 Os desertos do espaço
+           - 45
+           - 46
+           - 47
+       - 📄 Eterna sucessão dos mundos
+           - 48
+           - 49
+           - 50
+           - 51
+           - 52
+           - A vida universal
+           - 53
+           - 54
+           - 55
+           - 56
+           - 57
+       - 📄 Diversidade dos mundos
+           - 58
+           - 59
+           - 60
+           - 61
+   - **1.07. 🗂️ Esboço geológico da Terra**
+       - 📄 Períodos geológicos
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+       - 📄 Estado primitivo do globo [^55]
+           - 15
+           - 16
+           - 17
+           - 18
+       - 📄 Período primário [^59]
+           - 19
+           - 20
+           - 21
+       - 📄 Período de transição [^61]
+           - 22
+           - 23
+           - 24
+           - 25
+           - 26
+           - 27
+       - 📄 Período secundário [^67]
+           - 28
+           - 29
+           - 30
+           - 31
+           - 32
+       - 📄 Período terciário [^71]
+           - 33
+           - 34
+           - 35
+           - 36
+           - 37
+           - 38
+           - 39
+           - 40
+           - 41
+       - 📄 Período diluviano [^75]
+           - 42
+           - 43
+           - 44
+           - 45
+           - 46
+           - 47
+           - 48
+           - 49
+   - **1.08. 🗂️ Teorias sobre a formação da Terra**
+       - 📄 Teoria da projeção
+           - 01
+           - 02
+       - 📄 Teoria da condensação
+           - 03
+       - 📄 Teoria da incrustação
+           - 04
+           - 05
+           - 06
+       - 📄 Alma da Terra
+           - 07
+   - **1.09. 🗂️ Revoluções do globo**
+       - 📄 Revoluções gerais ou parciais
+           - 01
+           - 02
+       - 📄 Idade das montanhas
+           - 03
+       - 📄 Dilúvio bíblico
+           - 04
+           - 05
+       - 📄 Revoluções periódicas
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+       - 📄 Aumento ou diminuição do volume da Terra
+           - 15
+   - **1.10. 🗂️ Gênese orgânica**
+       - 📄 FILLER HEADING
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+           - 15
+       - 📄 Princípio vital
+           - 16
+           - 17
+           - 18
+           - 19
+       - 📄 Geração espontânea ^110
+           - 20
+           - 21
+           - 22
+           - 23
+       - 📄 Escala dos seres orgânicos
+           - 24
+           - 25
+           - O homem corpóreo
+           - 26
+           - 27
+           - 28
+           - 29
+           - 30
+           - 11 - Gênese espiritual
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+       - 📄 União do princípio espiritual à matéria
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+       - 📄 Hipótese sobre a origem do corpo humano
+           - 15
+           - 16
+       - 📄 Encarnação dos Espíritos
+           - 17
+           - 18
+           - 19
+           - 20
+           - 21
+           - 22
+           - 23
+           - 24
+           - 25
+           - 26
+           - 27
+           - 28
+           - 29
+           - 30
+           - 31
+           - 32
+       - 📄 Reencarnações
+           - 33
+           - 34
+       - 📄 Emigrações e imigrações dos Espíritos
+           - 35
+           - 36
+           - 37
+       - 📄 Raça adâmica
+           - 38
+           - 39
+           - 40
+           - 41
+           - 42
+       - 📄 Doutrina dos anjos decaídos e da perda do paraíso [^120]
+           - 43
+           - 44
+           - 45
+           - 46
+           - 47
+           - 48
+           - 49
+   - **1.11. 🗂️ Gênese espiritual**
+   - **1.12. 🗂️ Gênese moisaica**
+       - 📄 Os seis dias
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+       - 📄 Perda do paraíso ^128 ^129
+           - 13
+           - 14
+           - 15
+           - 16
+           - 17
+           - 18
+           - 19
+           - 20
+           - 21
+           - 22
+           - 23
+           - 24
+           - 25
+           - 26
+
+## 2. 🗃️ Os Milagres
+   - **2.13. 🗂️ Caracteres dos milagres**
+       - 📄 FILLER HEADING
+           - 01
+           - 02
+           - 03
+       - 📄 O Espiritismo não faz milagres
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+           - Faz Deus milagres?
+           - 15
+           - 16
+           - 17
+       - 📄 O sobrenatural e as religiões
+           - 18
+           - 19
+   - **2.14. 🗂️ Os fluidos**
+       - 📄 Elementos fluídicos
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - Formação e propriedades do perispírito
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+       - 📄 Ação dos Espíritos sobre os fluidos. Criações fluídicas. Fotografia do pensamento
+           - 13
+           - 14
+           - 15
+           - Qualidades dos fluidos
+           - 16
+           - 17
+           - 18
+           - 19
+           - 20
+           - 21
+           - II. Explicação de alguns fenômenos considerados sobrenaturais
+           - 22
+           - 23
+           - 24
+           - 25
+           - 26
+           - 27
+           - 28
+           - Catalepsia. Ressurreições
+           - 29
+           - 30
+           - Curas
+           - 31
+           - 32
+           - 33
+           - 34
+           - Aparições. Transfigurações
+           - 35
+           - 36
+           - 37
+           - 38
+           - 39
+           - Manifestações físicas. Mediunidade
+           - 40
+           - 41
+           - 42
+           - 43
+           - 44
+           - Obsessões e possessões
+           - 45
+           - 46
+           - 47
+           - 48
+           - 49
+   - **2.15. 🗂️ Superioridade da natureza de Jesus**
+       - 📄 Superioridade da natureza de Jesus
+           - 01
+           - 02
+           - Sonhos
+           - 03
+       - 📄 A volta do Egito
+           - Estrela dos magos
+           - Os magos do Oriente
+           - 04
+           - Dupla vista
+           - Entrada de Jesus em Jerusalém
+           - 05
+       - 📄 A entrada triunfal de Jesus em Jerusalém
+           - Beijo de Judas
+           - 06
+           - Pesca milagrosa
+           - 07
+           - Vocação de Pedro, André, Tiago, João e Mateus
+           - 08
+           - 09
+           - Curas
+           - Perda de sangue
+           - 010
+           - 11
+           - Cego de Betsaida
+           - 12
+           - 13
+           - 14
+           - 15
+           - 16
+           - 17
+       - 📄 Mão seca
+           - 18
+       - 📄 A mulher curvada
+           - 19
+           - 20
+       - 📄 O paralítico da piscina
+           - 21
+           - 22
+           - 23
+           - Cedo de nascença
+           - 24
+           - 25
+           - Numerosas curas operadas por Jesus
+           - 26
+           - 27
+           - 28
+           - Possessos
+           - 29
+           - 30
+           - 31
+           - 32
+           - 33
+           - 34
+           - 35
+           - 36
+           - Ressurreições
+           - 37
+       - 📄 O filho da viúva de Naim
+           - 38
+           - 39
+           - 40
+           - Jesus caminha sobre a água
+           - 41
+           - 42
+           - Transfiguração
+           - 43
+           - 44
+           - Tempestade aplacada
+           - 45
+           - 46
+           - Bodas de Caná
+           - 47
+           - Multiplicação dos pães
+           - 48
+       - 📄 O fermento dos fariseus
+           - 49
+           - 50
+           - 51
+           - 52
+           - 53
+           - 54
+           - 55
+           - 56
+           - 57
+           - 58
+           - 59
+           - 60
+           - 61
+           - 62
+           - 63
+           - 64
+           - 65
+           - 66
+           - 67
+           - 01
+           - 02
+           - Sonhos
+           - 03
+           - Estrela dos magos
+           - 04
+           - Dupla vista
+           - 05
+           - Beijo de Judas
+           - 06
+           - Pesca milagrosa
+           - 07
+           - Vocação de Pedro, André, Tiago, João e Mateus
+           - 08
+           - 09
+           - Curas
+           - 10
+           - 11
+           - Cego de Betsaida
+           - 12
+           - 13
+           - Paralítico
+           - 14
+           - 15
+           - Os dez leprosos
+           - 16
+           - 17
+       - 📄 Mão seca
+           - 18
+       - 📄 A mulher curvada
+           - 19
+           - 20
+       - 📄 O paralítico da piscina
+           - 21
+           - 22
+           - 23
+           - Cego de nascença
+           - 24
+           - 25
+           - Numerosas curas operadas por Jesus
+           - 26
+           - 27
+           - 28
+           - Possessos
+           - 29
+           - 30
+           - 31
+           - 32
+           - 33
+           - 34
+           - 35
+           - 36
+           - Ressurreições
+           - 37
+       - 📄 O filho da viúva de Naim
+           - 38
+           - 39
+           - 40
+           - Jesus caminha sobre a água
+           - 41
+           - 42
+           - Transfiguração
+           - 43
+           - 44
+           - Tempestade aplacada
+           - 45
+           - 46
+           - Bodas de Caná
+           - 47
+           - Multiplicação dos pães
+           - 48
+       - 📄 O fermento dos fariseus
+           - 49
+       - 📄 O pão do céu
+           - 50
+           - 51
+           - Tentação de Jesus
+           - 52
+           - 53
+           - Prodígios por ocasião da morte de Jesus
+           - 54
+           - 55
+           - Aparição de Jesus após sua morte
+           - 56
+           - 57
+           - 58
+           - 59
+           - 60
+           - 61
+           - 62
+           - 63
+           - Desaparecimento do corpo de Jesus
+           - 64
+           - 65
+           - 66
+           - 67
+
+## 3. 🗃️ As Predições
+   - **3.16. 🗂️ Teoria da presciência**
+       - 📄 FILLER HEADING
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+           - 15
+           - 16
+           - 17
+           - 18
+   - **3.17. 🗂️ Predições do Evangelho**
+       - 📄 FILLER HEADING
+           - 01
+           - 02
+           - Morte e paixão de Jesus
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - Perseguição aos apóstolos
+           - 10
+           - 11
+           - 12
+           - 13
+           - Cidades impenitentes
+           - 14
+           - Ruína do Templo e de Jerusalém
+           - 15
+           - 16
+           - 17
+           - 18
+           - 19
+           - 20
+           - 21
+           - Maldição contra os fariseus
+           - 22
+           - 23
+           - Minhas palavras não passarão
+           - 24
+           - 25
+           - 26
+       - 📄 A pedra angular
+           - 27
+           - 28
+           - Parábola dos vinhateiros homicidas
+           - 29
+           - 30
+           - Um só rebanho e um só pastor
+           - 31
+           - 32
+           - Advento de Elias
+           - 33
+           - 34
+           - Anunciação do Consolador
+           - 35
+           - 36
+           - 37
+           - 38
+           - 39
+           - 40
+           - 41
+           - 42
+           - Segundo advento do Cristo
+           - 43
+           - 44
+           - 45
+           - 46
+           - Sinais precursores
+           - 47
+           - 48
+           - 49
+           - 50
+           - 51
+           - 52
+           - 53
+           - 54
+           - 55
+           - 56
+           - 57
+           - 58
+           - Vossos filhos e vossas filhas profetizarão
+           - 59
+           - 60
+           - 61
+           - Juízo final
+           - 62
+           - 63
+           - 64
+           - 65
+           - 66
+           - 67
+   - **3.18. 🗂️ São chegados os tempos**
+       - 📄 Sinais dos tempos
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 28
+           - Parábola dos vinhateiros homicidas
+           - 29
+           - 30
+           - Um só rebanho e um só pastor
+           - 31
+           - 32
+           - Advento de Elias
+           - 33
+           - 34
+           - Anunciação do Consolador
+           - 35
+           - 36
+           - 37
+           - 38
+           - 39
+           - 40
+           - 41
+           - 42
+           - Segundo advento do Cristo
+           - 43
+           - 44
+           - 45
+           - 46
+           - Sinais precursores
+           - 47
+           - 48
+           - 49
+           - 50
+           - 51
+           - 52
+           - 53
+           - 54
+           - 55
+           - 56
+           - 57
+           - 58
+           - Vossos filhos e vossas filhas profetizarão
+           - 59
+           - 60
+           - 61
+           - Juízo final
+           - 62
+           - 63
+           - 64
+           - 65
+           - 66
+           - 67
+       - 📄 Sinais dos tempos
+           - 01
+           - 02
+           - 03
+           - 04
+           - 05
+           - 06
+           - 07
+           - 08
+           - 09
+           - 10
+           - 11
+           - 12
+           - 13
+           - 14
+           - 15
+           - 15
+           - 16
+           - 17
+           - 18
+           - 19
+           - 20
+           - 21
+           - 22
+           - 23
+           - 24
+           - 25
+           - 26
+       - 📄 A geração nova
+           - 27
+           - 28
+           - 29
+           - 30
+           - 31
+           - 32
+           - 33
+           - 34
+           - 35
+
+## 4. 🗃️ Pós-textual
+   - **4.01 📄 Nota explicativa**
+   - **4.02 📑 Índice geral**
+       - Termos relacionados
+           - A
+           - B
+           - C
+           - D
+           - E
+           - F
+           - G
+           - H
+           - I
+           - J
+           - L
+           - M
+           - N
+           - O
+           - P
+           - Q
+           - R
+           - S
+           - T
+           - U
+           - V
+           - Z
+   - **4.03 📝 Notas de rodapé**

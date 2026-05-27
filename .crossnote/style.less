@@ -63,27 +63,41 @@
     margin-bottom: 1rem !important;
   }
 
-  h1 {
-    font-size: 2.2rem !important;
-  }
+  /* Emojis by Heading Level - doutrina-content */
+h1 { 
+    counter-reset: chapter; 
+}
+h1:before { content: "✨ "; }
 
-  h2 {
-    font-size: 1.75rem !important;
-  }
+h2:before { 
+    content: "🗃️ "; 
+    font-size: 1.1em;
+}
 
-  h3 {
-    font-size: 1.45rem !important;
-  }
+h3:before { 
+    content: "🗂️ "; 
+}
 
-  h4 {
-    font-size: 1.25rem !important;
-    color: darkred !important;
-    /* Kept production accent override */
-  }
+h4:before { 
+    content: "📄 "; 
+}
 
-  h6 {
-    font-size: 1rem !important;
-  }
+h5:before { 
+    content: "#️⃣ "; 
+    color: #666;
+}
+
+h6:before { 
+    content: "🔖 "; 
+    color: #c41e3a;
+}
+
+/* Optional: Make h6 smaller and subtler */
+h6 {
+    font-size: 0.95em;
+    font-weight: normal;
+    color: #555;
+}
 
   /* PRODUCTION ENGINE: FORCE H5 AND ITS FOLLOWING PARAGRAPH TO RENDER IN-LINE */
   h5 {

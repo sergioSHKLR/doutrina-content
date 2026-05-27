@@ -1,0 +1,1484 @@
+# Diagnostic TOC - 1-LDE (h5 included)
+Clean version for hierarchy analysis
+
+
+# ✨ *O Livro dos Espíritos*
+
+## 0. 🗃️ Pré-textual
+   - **0.00. ⚖️ Avisos Legais**
+   - **0.01. 📄 Folha de rosto**
+   - **0.02. 📋 Sumário Geral**
+   - **0.03. 📄 Prefácio**
+   - **0.04. 🗂️ Introdução**
+       - 0.04.01. 📄 Intro 01
+       - 0.04.02. 📄 Intro 02
+       - 0.04.03. 📄 Intro 03
+       - 0.04.04. 📄 Intro 04
+       - 0.04.05. 📄 Intro 05
+       - 0.04.06. 📄 Intro 06
+       - 0.04.07. 📄 Intro 07
+       - 0.04.08. 📄 Intro 08
+       - 0.04.09. 📄 Intro 09
+       - 0.04.10. 📄 Intro 10
+       - 0.04.11. 📄 Intro 11
+       - 0.04.12. 📄 Intro 12
+       - 0.04.13. 📄 Intro 13
+       - 0.04.14. 📄 Intro 14
+       - 0.04.15. 📄 Intro 15
+       - 0.04.16. 📄 Intro 16
+       - 0.04.17. 📄 Intro 17
+
+## 1. 🗃️ Causas primárias
+   - **1.01. 🗂️ Deus**
+       - 1.01.01. 📄 Deus e o infinito
+           - Q.1
+           - Q.2
+           - Q.3
+       - 1.01.02. 📄 Provas da existência de Deus
+           - Q.4
+           - Q.5
+           - Q.6
+           - Q.7
+           - Q.8
+           - Q.9
+       - 1.01.03. 📄 Atributos da Divindade
+           - Q.10
+           - Q.11
+           - Q.12
+           - Q.13
+       - 1.01.04. 📄 Panteísmo
+           - Q.14
+           - Q.15
+           - Q.16
+   - **1.02. 🗂️ Elementos gerais do Universo**
+       - 1.02.01. 📄 Conhecimento do princípio das coisas
+           - Q.17
+           - Q.18
+           - Q.19
+           - Q.20
+       - 1.02.02. 📄 Espírito e Matéria
+           - Q.21
+           - Q.22
+           - Q.22.a
+           - Q.23
+           - Q.23.a
+           - Q.24
+           - Q.25
+           - Q.25.a
+           - Q.26
+           - Q.27
+           - Q.27.a
+           - Q.28
+       - 1.02.03. 📄 Propriedades da Matéria
+           - Q.29
+           - Q.30
+           - Q.31
+           - Q.32
+           - Q.33
+           - Q.33.a
+           - Q.34
+           - Q.34.a
+       - 1.02.04. 📄 Espaço universal
+           - Q.35
+           - Q.36
+   - **1.03. 🗂️ Criação**
+       - 1.03.01. 📄 Formação dos mundos
+           - Q.37
+           - Q.38
+           - Q.39
+           - Q.40
+           - Q.41
+           - Q.42
+       - 1.03.02. 📄 Formação dos seres vivos
+           - Q.43
+           - Q.44
+           - Q.45
+           - Q.46
+           - Q.47
+           - Q.48
+           - Q.49
+       - 1.03.03. 📄 Povoamento da Terra. Adão
+           - Q.50
+           - Q.51
+       - 1.03.04. 📄 Diversidade das raças humanas
+           - Q.52
+           - Q.53
+           - Q.53.a
+           - Q.54
+       - 1.03.05. 📄 Pluralidade dos mundos
+           - Q.55
+           - Q.56
+           - Q.57
+           - Q.58
+       - 1.03.06. 📄 Considerações e concordâncias bíblicas concernentes à Criação
+           - Q.59
+   - **1.04. 🗂️ Princípio Vital**
+       - 1.04.01. 📄 Seres orgânicos e inorgânicos
+           - Q.60
+           - Q.61
+           - Q.62
+           - Q.63
+           - Q.64
+           - Q.64.a
+           - Q.65
+           - Q.66
+           - Q.67
+           - Q.67.a
+       - 1.04.02. 📄 A vida e a morte
+           - Q.68
+           - Q.68.a
+           - Q.69
+           - Q.70
+       - 1.04.03. 📄 Inteligência e instinto
+           - Q.71
+           - Q.72
+           - Q.72.a
+           - Q.73
+           - Q.74
+           - Q.75
+           - Q.75.a
+
+## 2. 🗃️ Mundo espiritual
+   - **2.01. 🗂️ Espíritos**
+       - 2.01.01. 📄 Origem e natureza dos Espíritos
+           - Q.76
+           - Q.77
+           - Q.78
+           - Q.79
+           - Q.80
+           - Q.81
+           - Q.82
+           - Q.83
+       - 2.01.02. 📄 Mundo normal primitivo
+           - Q.84
+           - Q.85
+           - Q.86
+           - Q.87
+       - 2.01.03. 📄 Forma e ubiquidade dos Espíritos
+           - Q.88
+           - Q.88.a
+           - Q.89
+           - Q.89.a
+           - Q.90
+           - Q.91
+           - Q.92
+           - Q.92.a
+       - 2.01.04. 📄 Perispírito
+           - Q.93
+           - Q.94
+           - Q.94.a
+           - Q.95
+       - 2.01.05. 📄 Diferentes ordens de Espíritos
+           - Q.96
+           - Q.97
+           - Q.98
+           - Q.99
+       - 2.01.06. 📄 Escala espírita
+           - Q.100
+       - 2.01.07. 📄 3ª ordem – Espíritos imperfeitos
+           - Q.101
+           - Q.102
+           - Q.103
+           - Q.104
+           - Q.105
+           - Q.106
+       - 2.01.08. 📄 2ª ordem – Bons Espíritos
+           - Q.107
+           - Q.108
+           - Q.109
+           - Q.110
+           - Q.111
+       - 2.01.09. 📄 1ª ordem – Espíritos puros
+           - Q.112
+           - Q.113
+       - 2.01.10. 📄 Progressão dos Espíritos
+           - Q.114
+           - Q.115
+           - Q.115.a
+           - Q.116
+           - Q.117
+           - Q.118
+           - Q.119
+           - Q.120
+           - Q.121
+           - Q.122
+           - Q.122.a
+           - Q.122.b
+           - Q.123
+           - Q.124
+           - Q.125
+           - Q.126
+           - Q.127
+       - 2.01.11. 📄 Anjos e demônios
+           - Q.128
+           - Q.129
+           - Q.130
+           - Q.131
+   - **2.02. 🗂️ Encarnação**
+       - 2.02.01. 📄 Objetivo da encarnação
+           - Q.132
+           - Q.133
+           - Q.133.a
+       - 2.02.02. 📄 A alma
+           - Q.134
+           - Q.134.a
+           - Q.134.b
+           - Q.135
+           - Q.135.a
+           - Q.136
+           - Q.136.a
+           - Q.136.b
+           - Q.137
+           - Q.138
+           - Q.139
+           - Q.140
+           - Q.140.a
+           - Q.141
+           - Q.142
+           - Q.143
+           - Q.144
+           - Q.145
+           - Q.146
+           - Q.146.a
+       - 2.02.03. 📄 Materialismo
+           - Q.147
+           - Q.148
+   - **2.03. 🗂️ Retorno à vida espiritual**
+       - 2.03.01. 📄 A alma após a morte. Vida eterna
+           - Q.149
+           - Q.150
+           - Q.150.a
+           - Q.150.b
+           - Q.151
+           - Q.152
+           - Q.153
+           - Q.153.a
+       - 2.03.02. 📄 Separação da alma e do corpo
+           - Q.154
+           - Q.155
+           - Q.155.a
+           - Q.156
+           - Q.157
+           - Q.158
+           - Q.159
+           - Q.160
+           - Q.161
+           - Q.162
+       - 2.03.03. 📄 Perturbação espiritual
+           - Q.163
+           - Q.164
+           - Q.165
+   - **2.04. 🗂️ Pluralidade das existências**
+       - 2.04.01. 📄 A reencarnação
+           - Q.166
+           - Q.166.a
+           - Q.166.b
+           - Q.166.c
+           - Q.167
+           - Q.168
+           - Q.169
+           - Q.170
+       - 2.04.02. 📄 Justiça da reencarnação
+           - Q.171
+       - 2.04.03. 📄 Encarnação nos diferentes mundos
+           - Q.172
+           - Q.173
+           - Q.173.a
+           - Q.173.b
+           - Q.174
+           - Q.175
+           - Q.175.a
+           - Q.176
+           - Q.176.a
+           - Q.176.b
+           - Q.177
+           - Q.177.a
+           - Q.178
+           - Q.178.a
+           - Q.178.b
+           - Q.179
+           - Q.180
+           - Q.181
+           - Q.182
+           - Q.183
+           - Q.184
+           - Q.184.a
+           - Q.185
+           - Q.186
+           - Q.186.a
+           - Q.187
+           - Q.188
+       - 2.04.04. 📄 Transmigrações progressivas
+           - Q.189
+           - Q.190
+           - Q.191
+           - Q.191.a
+           - Q.192
+           - Q.192.a
+           - Q.193
+           - Q.194
+           - Q.194.a
+           - Q.195
+           - Q.196
+           - Q.196.a
+       - 2.04.05. 📄 Sorte das crianças depois da morte
+           - Q.197
+           - Q.197.a
+           - Q.198
+           - Q.199
+           - Q.199.a
+       - 2.04.06. 📄 Sexos nos Espíritos
+           - Q.200
+           - Q.201
+           - Q.202
+       - 2.04.07. 📄 Parentesco, filiação
+           - Q.203
+           - Q.204
+           - Q.205
+           - Q.205.a
+           - Q.206
+       - 2.04.08. 📄 Parecenças físicas e morais
+           - Q.207
+           - Q.207.a
+           - Q.208
+           - Q.209
+           - Q.210
+           - Q.211
+           - Q.212
+           - Q.213
+           - Q.214
+           - Q.215
+           - Q.216
+           - Q.217
+       - 2.04.09. 📄 Ideias inatas
+           - Q.218
+           - Q.218.a
+           - Q.218.b
+           - Q.219
+           - Q.220
+           - Q.221
+           - Q.221.a
+   - **2.05. 🗂️ Considerações sobre as existências**
+       - Q.222
+   - **2.06. 🗂️ Vida espírita**
+       - 2.06.01. 📄 Espíritos errantes
+           - Q.223
+           - Q.224
+           - Q.224.a
+           - Q.224.b
+           - Q.225
+           - Q.226
+           - Q.227
+           - Q.228
+           - Q.229
+           - Q.230
+           - Q.231
+           - Q.232
+           - Q.233
+       - 2.06.02. 📄 Mundos transitórios
+           - Q.234
+           - Q.234.a
+           - Q.235
+           - Q.236
+           - Q.236.a
+           - Q.236.b
+           - Q.236.c
+           - Q.236.d
+           - Q.236.e
+       - 2.06.03. 📄 Percepções, sensações e sofrimentos dos Espíritos
+           - Q.237
+           - Q.238
+           - Q.239
+           - Q.240
+           - Q.241
+           - Q.242
+           - Q.243
+           - Q.243.a
+           - Q.244
+           - Q.244.a
+           - Q.244.b
+           - Q.245
+           - Q.246
+           - Q.247
+           - Q.248
+           - Q.249
+           - Q.249.a
+           - Q.250
+           - Q.251
+           - Q.252
+           - Q.253
+           - Q.254
+           - Q.255
+           - Q.256
+       - 2.06.04. 📄 Ensaio teórico da sensação nos Espíritos
+           - Q.257
+       - 2.06.05. 📄 Escolha das provas
+           - Q.258
+           - Q.258.a
+           - Q.259
+           - Q.260
+           - Q.260.a
+           - Q.261
+           - Q.262
+           - Q.262.a
+           - Q.263
+           - Q.264
+           - Q.265
+           - Q.266
+           - Q.267
+           - Q.267.a
+           - Q.268
+           - Q.269
+           - Q.270
+           - Q.271
+           - Q.272
+           - Q.273
+       - 2.06.06. 📄 As relações no além-túmulo
+           - Q.274
+           - Q.274.a
+           - Q.275
+           - Q.275.a
+           - Q.276
+           - Q.277
+           - Q.278
+           - Q.279
+           - Q.280
+           - Q.281
+           - Q.282
+           - Q.283
+           - Q.284
+           - Q.285
+           - Q.285.a
+           - Q.286
+           - Q.287
+           - Q.288
+           - Q.289
+           - Q.290
+       - 2.06.07. 📄 Relações de simpatia e de antipatia entre os Espíritos. Metades eternas
+           - Q.291
+           - Q.292
+           - Q.293
+           - Q.294
+           - Q.295
+           - Q.296
+           - Q.297
+           - Q.298
+           - Q.299
+           - Q.300
+           - Q.301
+           - Q.302
+           - Q.303
+           - Q.303.a
+       - 2.06.08. 📄 Recordação da existência corpórea
+           - Q.304
+           - Q.305
+           - Q.306
+           - Q.306.a
+           - Q.306.b
+           - Q.307
+           - Q.308
+           - Q.309
+           - Q.309.a
+           - Q.310
+           - Q.311
+           - Q.312
+           - Q.313
+           - Q.314
+           - Q.315
+           - Q.316
+           - Q.317
+           - Q.318
+           - Q.319
+       - 2.06.09. 📄 Comemoração dos mortos. Funerais
+           - Q.320
+           - Q.321
+           - Q.321.a
+           - Q.321.b
+           - Q.322
+           - Q.323
+           - Q.324
+           - Q.325
+           - Q.325.a
+           - Q.326
+           - Q.327
+           - Q.327.a
+           - Q.328
+           - Q.329
+   - **2.07. 🗂️ Volta à vida material**
+       - 2.07.01. 📄 Prelúdio da volta
+           - Q.330
+           - Q.330.a
+           - Q.331
+           - Q.332
+           - Q.333
+           - Q.334
+           - Q.335
+           - Q.335.a
+           - Q.336
+           - Q.337
+           - Q.338
+           - Q.339
+           - Q.340
+           - Q.341
+           - Q.342
+           - Q.343
+       - 2.07.02. 📄 União do espírito e do corpo
+           - Q.344
+           - Q.345
+           - Q.346
+           - Q.346.a
+           - Q.347
+           - Q.348
+           - Q.349
+           - Q.350
+           - Q.351
+           - Q.352
+           - Q.353
+           - Q.354
+           - Q.355
+           - Q.356
+           - Q.356.a
+           - Q.356.b
+           - Q.357
+           - Q.358
+           - Q.359
+           - Q.360
+       - 2.07.03. 📄 Faculdades morais e intelectuais do homem
+           - Q.361
+           - Q.361.a
+           - Q.362
+           - Q.363
+           - Q.364
+           - Q.365
+           - Q.366
+       - 2.07.04. 📄 Influência do corpo
+           - Q.367
+           - Q.368
+           - Q.368.a
+           - Q.369
+           - Q.370
+           - Q.370.a
+       - 2.07.05. 📄 Idiotismo, loucura
+           - Q.371
+           - Q.372
+           - Q.372.a
+           - Q.373
+           - Q.373.a
+           - Q.374
+           - Q.375
+           - Q.375.a
+           - Q.376
+           - Q.377
+           - Q.378
+       - 2.07.06. 📄 A infância
+           - Q.379
+           - Q.380
+           - Q.381
+           - Q.382
+           - Q.383
+           - Q.384
+           - Q.385
+       - 2.07.07. 📄 Simpatia e antipatia materiais
+           - Q.386
+           - Q.386.a
+           - Q.387
+           - Q.388
+           - Q.389
+           - Q.390
+           - Q.391
+       - 2.07.08. 📄 Esquecimento do passado
+           - Q.392
+           - Q.393
+           - Q.394
+           - Q.395
+           - Q.396
+           - Q.397
+           - Q.398
+           - Q.398.a
+           - Q.399
+   - **2.08. 🗂️ Emancipação da alma**
+       - 2.08.01. 📄 O sono e os sonhos
+           - Q.400
+           - Q.401
+           - Q.402
+           - Q.403
+           - Q.404
+           - Q.405
+           - Q.406
+           - Q.407
+           - Q.408
+           - Q.409
+           - Q.410
+           - Q.410.a
+           - Q.411
+           - Q.412
+       - 2.08.02. 📄 Visitas espíritas entre pessoas vivas
+           - Q.413
+           - Q.414
+           - Q.415
+           - Q.416
+           - Q.417
+           - Q.418
+       - 2.08.03. 📄 Transmissão oculta do pensamento
+           - Q.419
+           - Q.420
+           - Q.421
+       - 2.08.04. 📄 Letargia, catalepsia, mortes aparentes
+           - Q.422
+           - Q.422.a
+           - Q.423
+           - Q.424
+       - 2.08.05. 📄 Sonambulismo
+           - Q.425
+           - Q.426
+           - Q.427
+           - Q.428
+           - Q.429
+           - Q.430
+           - Q.431
+           - Q.432
+           - Q.433
+           - Q.434
+           - Q.435
+           - Q.436
+           - Q.437
+           - Q.438
+       - 2.08.06. 📄 Êxtase
+           - Q.439
+           - Q.440
+           - Q.441
+           - Q.442
+           - Q.443
+           - Q.444
+           - Q.445
+           - Q.446
+       - 2.08.07. 📄 Dupla vista
+           - Q.447
+           - Q.448
+           - Q.449
+           - Q.450
+           - Q.450.a
+           - Q.451
+           - Q.452
+           - Q.453
+           - Q.454
+           - Q.454.a
+       - 2.08.08. 📄 Resumo teórico do sonambulismo, do êxtase e da dupla vista
+           - Q.455
+   - **2.09. 🗂️ Intervenção no mundo material**
+       - 2.09.01. 📄 Faculdade que têm os Espíritos de penetrar os nossos pensamentos
+           - Q.456
+           - Q.457
+           - Q.457.a
+           - Q.458
+       - 2.09.02. 📄 Influência oculta dos Espíritos em nossos pensamentos e atos
+           - Q.459
+           - Q.460
+           - Q.461
+           - Q.462
+           - Q.463
+           - Q.464
+           - Q.465
+           - Q.465.a
+           - Q.465.b
+           - Q.466
+           - Q.467
+           - Q.468
+           - Q.469
+           - Q.470
+           - Q.471
+           - Q.472
+       - 2.09.03. 📄 Possessos
+           - Q.473
+           - Q.474
+           - Q.475
+           - Q.476
+           - Q.477
+           - Q.478
+           - Q.479
+           - Q.480
+       - 2.09.04. 📄 Convulsionários
+           - Q.481
+           - Q.481.a
+           - Q.482
+           - Q.483
+       - 2.09.05. 📄 Afeição que os Espíritos votam a certas pessoas
+           - Q.484
+           - Q.485
+           - Q.486
+           - Q.487
+           - Q.488
+           - Q.488.a
+       - 2.09.06. 📄 Anjos da guarda. Espíritos protetores, familiares ou simpáticos
+           - Q.489
+           - Q.490
+           - Q.491
+           - Q.492
+           - Q.493
+           - Q.493.a
+           - Q.494
+           - Q.495
+           - Q.496
+           - Q.497
+           - Q.498
+           - Q.499
+           - Q.500
+           - Q.501
+           - Q.502
+           - Q.502.a
+           - Q.503
+           - Q.504
+           - Q.504.a
+           - Q.505
+           - Q.506
+           - Q.507
+           - Q.508
+           - Q.509
+           - Q.510
+           - Q.511
+           - Q.512
+           - Q.513
+           - Q.513.a
+           - Q.514
+           - Q.515
+           - Q.516
+           - Q.517
+           - Q.518
+           - Q.519
+           - Q.520
+           - Q.521
+       - 2.09.07. 📄 Pressentimentos
+           - Q.522
+           - Q.523
+           - Q.524
+       - 2.09.08. 📄 Influência dos Espíritos nos acontecimentos da vida
+           - Q.525
+           - Q.525.a
+           - Q.526
+           - Q.527
+           - Q.528
+           - Q.529
+           - Q.529.a
+           - Q.530
+           - Q.530.a
+           - Q.531
+           - Q.531.a
+           - Q.532
+           - Q.533
+           - Q.533.a
+           - Q.534
+           - Q.535
+           - Q.535.a
+           - Q.535.b
+       - 2.09.09. 📄 Ação dos Espíritos nos fenômenos da Natureza
+           - Q.536
+           - Q.536.a
+           - Q.536.b
+           - Q.537
+           - Q.537.a
+           - Q.538
+           - Q.538.a
+           - Q.539
+           - Q.540
+       - 2.09.10. 📄 Os Espíritos durante os combates
+           - Q.541
+           - Q.542
+           - Q.543
+           - Q.544
+           - Q.545
+           - Q.546
+           - Q.547
+           - Q.547.a
+           - Q.548
+       - 2.09.11. 📄 Pactos
+           - Q.549
+           - Q.550
+       - 2.09.12. 📄 Poder oculto. Talismãs. Feiticeiros
+           - Q.551
+           - Q.552
+           - Q.553
+           - Q.553.a
+           - Q.554
+           - Q.555
+           - Q.556
+       - 2.09.13. 📄 Bênçãos e maldições
+           - Q.557
+   - **2.10. 🗂️ Ocupações e missões**
+       - Subcapítulo
+           - Q.558
+           - Q.559
+           - Q.560
+           - Q.561
+           - Q.562
+           - Q.562.a
+           - Q.563
+           - Q.563.a
+           - Q.564
+           - Q.565
+           - Q.566
+           - Q.566.a
+           - Q.567
+           - Q.568
+           - Q.569
+           - Q.570
+           - Q.571
+           - Q.572
+           - Q.572.a
+           - Q.573
+           - Q.574
+           - Q.574.a
+           - Q.575
+           - Q.576
+           - Q.577
+           - Q.578
+           - Q.578.a
+           - Q.579
+           - Q.580
+           - Q.581
+           - Q.582
+           - Q.583
+           - Q.583.a
+           - Q.584
+           - Q.584.a
+   - **2.11. 🗂️ Os três reinos**
+       - 2.11.01. 📄 Os minerais e as plantas
+           - Q.585
+           - Q.586
+           - Q.587
+           - Q.588
+           - Q.589
+           - Q.590
+           - Q.591
+       - 2.11.02. 📄 Os animais e o homem
+           - Q.592
+           - Q.593
+           - Q.594
+           - Q.594.a
+           - Q.595
+           - Q.596
+           - Q.597
+           - Q.597.a
+           - Q.598
+           - Q.599
+           - Q.600
+           - Q.601
+           - Q.602
+           - Q.603
+           - Q.604
+           - Q.604.a
+           - Q.605
+           - Q.605.a
+           - Q.606
+           - Q.606.a
+           - Q.607
+           - Q.607.a
+           - Q.607.b
+           - Q.608
+           - Q.609
+           - Q.610
+       - 2.11.03. 📄 Metempsicose
+           - Q.611
+           - Q.612
+           - Q.613
+
+## 3. 🗃️ Leis morais
+   - **3.01. 🗂️ Lei divina**
+       - 3.01.01. 📄 Caracteres da lei natural
+           - Q.614
+           - Q.615
+           - Q.616
+           - Q.617
+           - Q.617.a
+           - Q.618
+       - 3.01.02. 📄 Conhecimento da lei natural
+           - Q.619
+           - Q.620
+           - Q.621
+           - Q.621.a
+           - Q.622
+           - Q.623
+           - Q.624
+           - Q.625
+           - Q.626
+           - Q.627
+           - Q.628
+       - 3.01.03. 📄 O bem e o mal
+           - Q.629
+           - Q.630
+           - Q.631
+           - Q.632
+           - Q.633
+           - Q.634
+           - Q.635
+           - Q.636
+           - Q.637
+           - Q.638
+           - Q.639
+           - Q.640
+           - Q.641
+           - Q.642
+           - Q.643
+           - Q.644
+           - Q.645
+           - Q.646
+       - 3.01.04. 📄 Divisão da lei natural
+           - Q.647
+           - Q.648
+   - **3.02. 🗂️ Lei de adoração**
+       - 3.02.01. 📄 Objetivo da adoração
+           - Q.649
+           - Q.650
+           - Q.651
+           - Q.652
+       - 3.02.02. 📄 Adoração exterior
+           - Q.653
+           - Q.653.a
+           - Q.654
+           - Q.655
+           - Q.656
+       - 3.02.03. 📄 Vida contemplativa
+           - Q.657
+       - 3.02.04. 📄 A prece
+           - Q.658
+           - Q.659
+           - Q.660
+           - Q.660.a
+           - Q.661
+           - Q.662
+           - Q.663
+           - Q.664
+           - Q.665
+           - Q.666
+       - 3.02.05. 📄 Politeísmo
+           - Q.667
+           - Q.668
+       - 3.02.06. 📄 Sacrifícios
+           - Q.669
+           - Q.669.a
+           - Q.669.b
+           - Q.670
+           - Q.671
+           - Q.672
+           - Q.673
+   - **3.03. 🗂️ Lei do trabalho**
+       - 3.03.01. 📄 Necessidade do trabalho
+           - Q.674
+           - Q.675
+           - Q.676
+           - Q.677
+           - Q.678
+           - Q.679
+           - Q.680
+           - Q.681
+       - 3.03.02. 📄 Limite do trabalho. Repouso
+           - Q.682
+           - Q.683
+           - Q.684
+           - Q.685
+           - Q.685.a
+   - **3.04. 🗂️ Lei de reprodução**
+       - 3.04.01. 📄 População do globo
+           - Q.686
+           - Q.687
+       - 3.04.02. 📄 Sucessão e aperfeiçoamento das raças
+           - Q.688
+           - Q.689
+           - Q.690
+           - Q.691
+           - Q.692
+           - Q.692.a
+       - 3.04.03. 📄 Obstáculos à reprodução
+           - Q.693
+           - Q.693.a
+           - Q.694
+       - 3.04.04. 📄 Casamento e celibato
+           - Q.695
+           - Q.696
+           - Q.697
+           - Q.698
+           - Q.699
+       - 3.04.05. 📄 Poligamia
+           - Q.700
+           - Q.701
+   - **3.05. 🗂️ Lei de conservação**
+       - 3.05.01. 📄 Instinto de conservação
+           - Q.702
+           - Q.703
+       - 3.05.02. 📄 Meios de conservação
+           - Q.704
+           - Q.705
+           - Q.706
+           - Q.707
+           - Q.708
+           - Q.709
+           - Q.710
+       - 3.05.03. 📄 Gozo dos bens terrenos
+           - Q.711
+           - Q.712
+           - Q.712.a
+           - Q.713
+           - Q.714
+           - Q.714.a
+       - 3.05.04. 📄 Necessário e supérfluo
+           - Q.715
+           - Q.716
+           - Q.717
+       - 3.05.05. 📄 Privações voluntárias. Mortificações
+           - Q.718
+           - Q.719
+           - Q.720
+           - Q.720.a
+           - Q.721
+           - Q.722
+           - Q.723
+           - Q.724
+           - Q.725
+           - Q.726
+           - Q.727
+   - **3.06. 🗂️ Lei de destruição**
+       - 3.06.01. 📄 Destruição necessária e destruição abusiva
+           - Q.728
+           - Q.728.a
+           - Q.729
+           - Q.730
+           - Q.731
+           - Q.732
+           - Q.733
+           - Q.734
+           - Q.735
+           - Q.736
+       - 3.06.02. 📄 Flagelos destruidores
+           - Q.737
+           - Q.738
+           - Q.738.a
+           - Q.738.b
+           - Q.739
+           - Q.740
+           - Q.741
+       - 3.06.03. 📄 Guerras
+           - Q.742
+           - Q.743
+           - Q.744
+           - Q.744.a
+           - Q.745
+       - 3.06.04. 📄 Assassínio
+           - Q.746
+           - Q.747
+           - Q.748
+           - Q.749
+           - Q.750
+           - Q.751
+       - 3.06.05. 📄 Crueldade
+           - Q.752
+           - Q.753
+           - Q.754
+           - Q.755
+           - Q.756
+       - 3.06.06. 📄 Duelo
+           - Q.757
+           - Q.758
+           - Q.758.a
+           - Q.759
+           - Q.759.a
+       - 3.06.07. 📄 Pena de morte
+           - Q.760
+           - Q.761
+           - Q.762
+           - Q.763
+           - Q.764
+           - Q.765
+   - **3.07. 🗂️ Lei de sociedade**
+       - 3.07.01. 📄 Necessidade da vida social
+           - Q.766
+           - Q.767
+           - Q.768
+       - 3.07.02. 📄 Vida de insulamento. Voto de silêncio
+           - Q.769
+           - Q.770
+           - Q.770.a
+           - Q.771
+           - Q.771.a
+           - Q.772
+       - 3.07.03. 📄 Laços de família
+           - Q.773
+           - Q.774
+           - Q.775
+   - **3.08. 🗂️ Lei do progresso**
+       - 3.08.01. 📄 Estado de natureza
+           - Q.776
+           - Q.777
+           - Q.778
+       - 3.08.02. 📄 Marcha do progresso
+           - Q.779
+           - Q.780
+           - Q.780.a
+           - Q.780.b
+           - Q.781
+           - Q.781.a
+           - Q.782
+           - Q.783
+           - Q.784
+           - Q.785
+       - 3.08.03. 📄 Povos degenerados
+           - Q.786
+           - Q.787
+           - Q.787.a
+           - Q.787.b
+           - Q.788
+           - Q.789
+       - 3.08.04. 📄 Civilização
+           - Q.790
+           - Q.790.a
+           - Q.791
+           - Q.792
+           - Q.792.a
+           - Q.793
+       - 3.08.05. 📄 Progresso da legislação humana
+           - Q.794
+           - Q.795
+           - Q.796
+           - Q.797
+       - 3.08.06. 📄 Influência do Espiritismo no progresso
+           - Q.798
+           - Q.799
+           - Q.800
+           - Q.801
+           - Q.802
+   - **3.09. 🗂️ Lei de igualdade**
+       - 3.09.01. 📄 Igualdade natural
+           - Q.803
+       - 3.09.02. 📄 Desigualdade das aptidões
+           - Q.804
+           - Q.805
+       - 3.09.03. 📄 Desigualdades sociais
+           - Q.806
+           - Q.806.a
+           - Q.807
+       - 3.09.04. 📄 Desigualdade das riquezas
+           - Q.808
+           - Q.808.a
+           - Q.809
+           - Q.810
+           - Q.811
+           - Q.811.a
+           - Q.812
+           - Q.812.a
+           - Q.813
+       - 3.09.05. 📄 As provas de riqueza e de miséria
+           - Q.814
+           - Q.815
+           - Q.816
+       - 3.09.06. 📄 Igualdade dos direitos do homem e da mulher
+           - Q.817
+           - Q.818
+           - Q.819
+           - Q.820
+           - Q.821
+           - Q.822
+           - Q.822.a
+       - 3.09.07. 📄 Igualdade perante o túmulo
+           - Q.823
+           - Q.823.a
+           - Q.824
+   - **3.10. 🗂️ Lei de liberdade**
+       - 3.10.01. 📄 Liberdade natural
+           - Q.825
+           - Q.826
+           - Q.827
+           - Q.828
+           - Q.828.a
+       - 3.10.02. 📄 Escravidão
+           - Q.829
+           - Q.830
+           - Q.831
+           - Q.832
+       - 3.10.03. 📄 Liberdade de pensar
+           - Q.833
+           - Q.834
+       - 3.10.04. 📄 Liberdade de consciência
+           - Q.835
+           - Q.836
+           - Q.837
+           - Q.838
+           - Q.839
+           - Q.840
+           - Q.841
+           - Q.842
+       - 3.10.05. 📄 Livre-arbítrio
+           - Q.843
+           - Q.844
+           - Q.845
+           - Q.846
+           - Q.847
+           - Q.848
+           - Q.849
+           - Q.850
+       - 3.10.06. 📄 Fatalidade
+           - Q.851
+           - Q.852
+           - Q.853
+           - Q.853.a
+           - Q.854
+           - Q.855
+           - Q.856
+           - Q.857
+           - Q.858
+           - Q.859
+           - Q.859.a
+           - Q.860
+           - Q.861
+           - Q.862
+           - Q.863
+           - Q.864
+           - Q.865
+           - Q.866
+           - Q.867
+       - 3.10.07. 📄 Conhecimento do futuro
+           - Q.868
+           - Q.869
+           - Q.870
+           - Q.871
+       - 📄 Resumo teórico do móvel das ações humanas
+           - Q.872
+   - **3.11. 🗂️ Lei de justiça, amor, e caridade**
+       - 3.11.01. 📄 Justiça e direitos naturais
+           - Q.873
+           - Q.874
+           - Q.875
+           - Q.875.a
+           - Q.876
+           - Q.877
+           - Q.878
+           - Q.878.a
+           - Q.879
+       - 3.11.02. 📄 Direito de propriedade. Roubo
+           - Q.880
+           - Q.881
+           - Q.882
+           - Q.883
+           - Q.883.a
+           - Q.884
+           - Q.885
+       - 3.11.03. 📄 Caridade e amor do próximo
+           - Q.886
+           - Q.887
+           - Q.888
+           - Q.888.a
+           - Q.889
+       - 3.11.04. 📄 Amor materno e filial
+           - Q.890
+           - Q.891
+           - Q.892
+   - **3.12. 🗂️ Perfeição moral**
+       - 3.12.01. 📄 As virtudes e os vícios
+           - Q.893
+           - Q.894
+           - Q.895
+           - Q.896
+           - Q.897
+           - Q.897.a
+           - Q.897.b
+           - Q.898
+           - Q.899
+           - Q.900
+           - Q.901
+           - Q.902
+           - Q.903
+           - Q.904
+           - Q.904.a
+           - Q.905
+           - Q.906
+       - 3.12.02. 📄 Paixões
+           - Q.907
+           - Q.908
+           - Q.909
+           - Q.910
+           - Q.911
+           - Q.912
+       - 3.12.03. 📄 O egoísmo
+           - Q.913
+           - Q.914
+           - Q.915
+           - Q.916
+           - Q.917
+       - 3.12.04. 📄 Caracteres do homem de bem
+           - Q.918
+       - 3.12.05. 📄 Conhecimento de si mesmo
+           - Q.919
+           - Q.919.a
+
+## 4. 🗃️ Esperanças e Consolações
+   - **4.01. 🗂️ Penas e felicidades materiais**
+       - 4.01.01. 📄 Felicidade e infelicidade relativas
+           - Q.920
+           - Q.921
+           - Q.922
+           - Q.923
+           - Q.924
+           - Q.925
+           - Q.926
+           - Q.927
+           - Q.928
+           - Q.928.a
+           - Q.929
+           - Q.930
+           - Q.931
+           - Q.932
+           - Q.933
+       - 4.01.02. 📄 Perda dos entes queridos
+           - Q.934
+           - Q.935
+           - Q.936
+       - 4.01.03. 📄 Decepções. Ingratidão. Afeições destruídas
+           - Q.937
+           - Q.938
+           - Q.938.a
+       - 4.01.04. 📄 Uniões antipáticas
+           - Q.939
+           - Q.940
+           - Q.940.a
+       - 4.01.05. 📄 Temor da morte
+           - Q.941
+           - Q.942
+       - 4.01.06. 📄 Desgosto da vida. Suicídio
+           - Q.943
+           - Q.944
+           - Q.944.a
+           - Q.945
+           - Q.946
+           - Q.946.a
+           - Q.947
+           - Q.948
+           - Q.949
+           - Q.950
+           - Q.951
+           - Q.952
+           - Q.952.a
+           - Q.953
+           - Q.953.a
+           - Q.953.b
+           - Q.954
+           - Q.955
+           - Q.956
+           - Q.957
+   - **4.02. 🗂️ Penas e felicidades futuras**
+       - 4.02.01. 📄 O nada. Vida futura
+           - Q.958
+           - Q.959
+       - 4.02.02. 📄 Intuição das penas e gozos futuros
+           - Q.960
+           - Q.961
+           - Q.962
+       - 4.02.03. 📄 Intervenção de Deus nas penas e recompensas
+           - Q.963
+           - Q.964
+       - 4.02.04. 📄 Natureza das penas e gozos futuros
+           - Q.965
+           - Q.966
+           - Q.967
+           - Q.968
+           - Q.969
+           - Q.970
+           - Q.971
+           - Q.971.a
+           - Q.972
+           - Q.972.a
+           - Q.973
+           - Q.974
+           - Q.974.a
+           - Q.975
+           - Q.976
+           - Q.976.a
+           - Q.977
+           - Q.977.a
+           - Q.978
+           - Q.979
+           - Q.980
+           - Q.981
+           - Q.982
+       - 4.02.05. 📄 Penas temporais
+           - Q.983
+           - Q.984
+           - Q.985
+           - Q.986
+           - Q.987
+           - Q.988
+           - Q.989
+       - 4.02.06. 📄 Expiação e arrependimento
+           - Q.990
+           - Q.991
+           - Q.992
+           - Q.993
+           - Q.994
+           - Q.995
+           - Q.995.a
+           - Q.996
+           - Q.997
+           - Q.998
+           - Q.999
+           - Q.999.a
+           - Q.1000
+           - Q.1001
+           - Q.1002
+       - 4.02.07. 📄 Duração das penas futuras
+           - Q.1003
+           - Q.1004
+           - Q.1005
+           - Q.1006
+           - Q.1007
+           - Q.1008
+           - Q.1009
+       - 4.02.08. 📄 Ressurreição da carne
+           - Q.1010
+           - Q.1011
+       - 4.02.09. 📄 Paraíso, inferno e purgatório
+           - Q.1012
+           - Q.1012.a
+           - Q.1013
+           - Q.1014
+           - Q.1014.a
+           - Q.1015
+           - Q.1016
+           - Q.1017
+           - Q.1018
+           - Q.1019
+
+## 5. 🗃️ Conclusão
+   - **Conclusão**
+       - 5.01. 📄 Conclusão 01
+       - 5.02. 📄 Conclusão 02
+       - 5.03. 📄 Conclusão 03
+       - 5.04. 📄 Conclusão 04
+       - 5.05. 📄 Conclusão 05
+       - 5.06. 📄 Conclusão 06
+       - 5.07. 📄 Conclusão 07
+       - 5.08. 📄 Conclusão 08
+       - 5.09. 📄 Conclusão 09
+
+## 6. 🗃️ Pós-textual
+   - **6.01. 📄 Nota explicativa**
+   - **6.02. 🗂️ Índice geral**
+       - Termos relacionados
+           - A
+           - B
+           - C
+           - D
+           - E
+           - F
+           - G
+           - H
+           - I
+           - J
+           - L
+           - M
+           - N
+           - O
+           - P
+           - Q
+           - R
+           - S
+           - T
+           - U
+           - V
+           - Z
+   - **6.03. 📝 Notas de rodapé**
