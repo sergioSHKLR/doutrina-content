@@ -86,7 +86,6 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
 <!-- END_SHARED -->
-
 ### 0.01. 🗂️ Folha de rosto {#0-01}
 
 ::: center
@@ -145,6 +144,9 @@ O Livro dos Espíritos só teve consolidado o seu crédito por ser a expressão 
 Os mesmos escrúpulos havendo presidido à redação das nossas outras obras, podemos, com toda verdade, dizê-las segundo o Espiritismo, porque estamos certos da conformidade delas com o ensino geral dos Espíritos. O mesmo sucede com esta, que podemos, por motivos semelhantes, apresentar como complemento das que a precederam, com exceção, todavia, de algumas teorias ainda hipotéticas, que tivemos o cuidado de indicar como tais e que devem ser consideradas simples opiniões pessoais, enquanto não forem confirmadas ou contraditadas, a fim de que não pese sobre a Doutrina a responsabilidade delas. [^1]
 
 Aliás, os leitores assíduos da Revista espírita hão tido ensejo de notar, sem dúvida, em forma de esboços, a maioria das ideias desenvolvidas aqui nesta obra, conforme o fizemos com relação às anteriores. A Revista, muita vez, representa para nós um terreno de ensaio, destinado a sondar a opinião dos homens e dos Espíritos sobre alguns princípios, antes de os admitir como partes constitutivas da Doutrina.
+
+
+
 
 
 
@@ -2595,6 +2597,9 @@ Graças a essa luz, o homem sabe doravante donde vem, para onde vai, por que est
 
 
 
+
+
+
 <!-- PART_BREAK -->
 
 ## 2. 🗃️ Os Milagres {#2}
@@ -4144,6 +4149,9 @@ Não é nova essa ideia sobre a natureza do corpo de Jesus. No quarto século, A
 
 
 
+
+
+
 <!-- PART_BREAK -->
 
 ## 3. 🗃️ As Predições {#3}
@@ -5351,6 +5359,9 @@ Os incrédulos rirão destas coisas e as qualificarão de quiméricas; mas, diga
 
 
 
+
+
+
 <!-- PART_BREAK -->
 
 ## 4. 🗃️ Pós-textual {#4}
@@ -5468,8 +5479,6 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 A Editora (FEB)
 
 <!-- END_SHARED -->
----
-
 ### 4.02 📑 Índice geral {#4-02}
 
 #### Termos relacionados
@@ -5982,3 +5991,4 @@ Não menos positivo é o fato do erguimento de uma pessoa; mas, tem que ser muit
 ^191: N.E.: Nada mais além.
 
 ^192: 2 N.E.: Ver Nota Explicativa.
+

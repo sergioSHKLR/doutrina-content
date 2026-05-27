@@ -86,7 +86,6 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
 <!-- END_SHARED -->
-
 ### 0.01. 🗂️ Folha de rosto {#0-01}
 
 ::: center
@@ -111,6 +110,9 @@ Baseada no ISBN 978-85-7328-731-8
 ::: box
 Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
 :::
+
+
+
 
 <!-- PART_BREAK -->
 
@@ -2143,6 +2145,9 @@ As seguintes palavras de um Espírito resumem admiravelmente as consequências d
 ✨ — Todo Espírito sofredor e desolado vos contará a causa da sua queda, os desvarios que o perderam. Esperanças, combates e terrores; remorsos, desesperos e dores, tudo vos dirá, mostrando Deus justamente irritado a punir o culpado com toda a severidade. Ao ouvi-lo, dois sentimentos vos acometerão: o da compaixão e o do temor! compaixão por ele, temor por vós mesmos. E se o seguirdes nos seus queixumes, vereis então que Deus jamais o perde de vista, esperando o pecador arrependido e estendendo-lhe os braços logo que procure regenerar-se. Do culpado vereis, enfim, os progressos benéficos para os quais tereis a felicidade e a glória de contribuir, com a solicitude e o carinho do cirurgião acompanhando a cicatrização da ferida que pensa diariamente.
 >
 >**Bordeaux 🇫🇷, 1861**
+
+
+
 
 
 
@@ -5774,6 +5779,9 @@ Pertencia à classe mediana da sociedade e gozava de modesta abastança, ao abri
 
 
 
+
+
+
 <!-- PART_BREAK -->
 
 ## 3. 🗃️ Pós-textual {#3}
@@ -5891,7 +5899,6 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 A Editora (FEB)
 
 <!-- END_SHARED -->
-
 ### 3.02 📑 Índice geral {#3-02}
 
 #### Termos relacionados
@@ -6106,3 +6113,4 @@ Quando esta perspectiva de reparação for inculcada na crença das massas, ser�
 [^56]: N.E.: Estima-se que o Cristianismo atualmente seja a religião com maior número de adeptos (aprox. 2,2 bilhões), seguida pelo Islamismo (aprox. 1,6 bilhão) e Hinduísmo (aprox. 900 milhões). O Espiritismo aparece em 8o lugar, com seus 13 milhões de adeptos.
 
 [^57]: A.K.: Os exemplos que vamos transcrever mostram-nos os Espíritos nas diferentes fases de felicidade e infelicidade da vida espiritual. Não fomos procurá-los nas personagens mais ou menos ilustres da Antiguidade, cuja situação pudera ter mudado consideravelmente depois da existência que lhes conhecemos, e que por isto não ofereceriam provas suficientes de autenticidade. Ao contrário, tomamos esses exemplos nas circunstâncias mais ordinárias da vida contemporânea, uma vez que assim pode cada qual encontrar mais similitudes e tirar, pela comparação, as mais proveitosas instruções. Quanto mais próxima de nós está a existência terrestre dos Espíritos — quer pela posição social, quer por laços de parentesco ou de meras relações — tanto mais nos interessamos por eles, tornando-se fácil averiguar-lhes a identidade. As posições vulgares são as mais comuns, as de maior número, podendo cada qual aplicá-las em si, de modo a tornarem-se úteis, ao passo que as posições excepcionais comovem menos, porque saem da esfera dos nossos hábitos. Não foram, pois, as sumidades que procuramos, e se nesses exemplos se encontram quaisquer personagens conhecidas, de obscuras se compõe o maior número. Acresce que nomes retumbantes nada adiantariam à instrução que visamos, podendo ainda ferir suscetibilidades. E nós não nos dirigimos nem aos curiosos, nem aos amadores de escândalos, mas tão somente aos que pretendem instruir-se. Esses exemplos poderiam ser multiplicados infinitamente, porém, forçados a limitar-lhes o número, fizemos escolha dos que pudessem melhor esclarecer o mundo espiritual e o seu estado, já pela situação dos Espíritos, já pelas explicações que estavam no caso de fornecer. A maior parte destes exemplos está inédita, e apenas alguns, poucos, foram já publicados na Revista espírita. Destes, suprimimos supérfluas minúcias, conservando apenas o essencial ao fim que nos propusemos, ajustando-lhes as instruções complementares a que poderão dar lugar ulteriormente.
+

@@ -87,7 +87,6 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
 <!-- END_SHARED -->
-
 ### 0.01. 📄 Folha de rosto {#0-01}
 
 ::: center
@@ -627,6 +626,9 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 - 🔖 [Espiritismo](#espiritismo)
 - 🔖 [Espírito/s](#espirito/s)
 :::
+
+
+
 
 <!-- PART_BREAK -->
 
@@ -1832,6 +1834,9 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 - 🔖 [Livre-arbítrio](#livre-arbitrio)
 - 🔖 [Razão](#razao)
 :::
+
+
+
 
 <!-- PART_BREAK -->
 
@@ -10898,6 +10903,9 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 - 🔖 [Reencarnação](#reencarnacao)
 :::
 
+
+
+
 <!-- PART_BREAK -->
 
 ## 3. 🗃️ Leis morais {#3}
@@ -15750,6 +15758,9 @@ Formulai, pois, de vós para convosco, questões nítidas e precisas e não tema
 - 🔖 [Valor](#valor)
 :::
 
+
+
+
 <!-- PART_BREAK -->
 
 ## 4. 🗃️ Esperanças e Consolações {#4}
@@ -17468,6 +17479,9 @@ Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e ze
 **São Luís, IX de França**
 :::
 
+
+
+
 <!-- PART_BREAK -->
 
 ## 5. 🗃️ Conclusão {#5}
@@ -17659,11 +17673,14 @@ Esta edição é oferecida gratuitamente para fins de estudo e divulgação da D
 *Tradução de Guillon Ribeiro • doutrina.org — Maio de 2025*
 :::
 
+
+
+
 <!-- PART_BREAK -->
 
 ## 6. 🗃️ Pós-textual {#6}
 
-### 6.01. 📄 Nota explicativa {#6-01}
+### 6.01. 📄 Nota explicativa {#6-01} [^27]
 <!-- INSERT_SHARED:nota-explicativa.md -->
 <!-- START_SHARED -->
 
@@ -17776,8 +17793,6 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 A Editora (FEB)
 
 <!-- END_SHARED -->
-[^27]
-
 ### 6.02. 🗂️ Índice geral {#6-02}
 
 #### Termos relacionados {#6-02-01}
@@ -21808,3 +21823,4 @@ Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apres
 [^26]: N.E.: Ver [Nota explicativa](#6-01) 
   
 [^27]: N.E.: Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
+

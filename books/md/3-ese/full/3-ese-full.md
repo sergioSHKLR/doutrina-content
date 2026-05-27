@@ -76,8 +76,8 @@ eleventyNavigation:
 
 Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
 
-A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943) 
-encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014, 
+A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943)  
+encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
 nos termos da Lei nº 9.610/1998.
 
 Todos os direitos da edição impressa pertencem à Federação Espírita Brasileira (FEB)
@@ -86,7 +86,6 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
 <!-- END_SHARED -->
-
 ### 0.01. 📄 Folha de rosto {#0-01}
 
 ::: center
@@ -438,6 +437,9 @@ Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os pri
 É assim que devem proceder os espíritas com relação aos seus contraditores de boa ou má-fé. Revivesse hoje Platão e acharia as coisas quase como no seu tempo e poderia usar da mesma linguagem. Também Sócrates toparia criaturas que zombariam da sua crença nos Espíritos e que o qualificariam de louco, assim como ao seu discípulo Platão.
 
 Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
+
+
+
 
 
 
@@ -5752,6 +5754,9 @@ A obsessão muito prolongada pode ocasionar desordens patológicas e reclama, po
 
 
 
+
+
+
 <!-- PART_BREAK -->
 
 ## 2. 🗃️ Pós-textual {#2}
@@ -5869,8 +5874,6 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 A Editora (FEB)
 
 <!-- END_SHARED -->
----
-
 ### 2.02 📑 Índice geral {#2-02}
 
 #### Termos relacionados
@@ -6024,3 +6027,4 @@ Sem a Terceira Revelação o mundo estaria irremediavelmente perdido pelo choque
 Joel, 2:29: “Também sobre os servos e sobre as servas naqueles dias derramarei o meu Espírito.” – Atos, 2:18: “E, sobre os meus servos e sobre as minhas servas derramarei do meu Espírito naqueles dias, e profetizarão.”
 Na tradução em Esperanto está ainda mais claro que se trata até dos escravos e escravas dos homens, e não de servos de Deus. Ei-la: “Joel, 2:29: Eĉ sur la sklavojn kaj sur la sklavinojn Mi en tiu tempo elverŝos Mian spiriton!” – Atos, 2:18: “Kaj ĉ sur Miajn sklavojn kaj Miajn sklavinojn en tiu tempo Mi elverŝos Mian spiriton, kaj ili profetos.”
 Até os escravos e escravas (dos homens) receberão o Espírito, não somente os servos e servas de Deus (sacerdotes e sacerdotisas). A profecia em sua forma original está se cumprindo em nossos dias, porque a mediunidade brota em todas as classes, até nas pessoas mais humildes e obscuras, e não somente, como faz supor o texto de Atos, entre os sacerdotes (servos de Deus.
+

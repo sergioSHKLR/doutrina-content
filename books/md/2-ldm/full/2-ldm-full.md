@@ -86,7 +86,6 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
 <!-- END_SHARED -->
-
 ### 0.01. 📄 Folha de rosto {#0-01}
 
 ::: center
@@ -141,6 +140,9 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 ::: expand 📑 Termos relacionados
 - 🔖 related term
 :::
+
+
+
 
 <!-- PART_BREAK -->
 
@@ -666,6 +668,9 @@ Assim, Espíritos, que podemos considerar adiantados, ainda não conseguiram son
 ::: expand 📑 Termos relacionados
 - 🔖 related term
 :::
+
+
+
 
 <!-- PART_BREAK -->
 
@@ -7346,6 +7351,9 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 
 - *Tiptólogo* – Gênero de médiuns aptos à tiptologia. médium tiptólogo
 
+
+
+
 <!-- PART_BREAK -->
 
 ## 3. 🗃️ Pós-textual {#3- 🗃}
@@ -7463,7 +7471,6 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 A Editora (FEB)
 
 <!-- END_SHARED -->
-
 ### 3.02 📑 Índice geral {#3-02}
 
 #### Termos relacionados
@@ -10177,3 +10184,4 @@ linguagem familiar e – 223, 16
 [^24]: N.E.: Ver 👉🏻 Nota explicativa.
 
 [^25]: A.K.: Conhecemos um senhor que foi aceito para um emprego de confiança, numa casa importante, porque era espírita sincero. Entenderam que as suas crenças eram uma garantia da sua moralidade.
+
