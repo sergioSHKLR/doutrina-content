@@ -1,11 +1,11 @@
-# Estilo de Marção para a Coleção Digital Espírita (dc)
-**Versão 1.2** — Atualizado em 27 de Maio de 2026
+# Estilo de Marcação para a Coleção Digital Espírita (dc)
+**Versão 1.3** — 27 de Maio de 2026
 
 ### 1. Princípios Gerais
 - h1 = Título completo do livro
 - h2 = Partes / Pré-textual / Pós-textual
 - h3 = Capítulos
-- h4 = Seções / Tópicos principais
+- h4 = Seções / Tópicos principais (agrupamentos)
 - **h5 = Unidade principal de conteúdo** (Questões no LDE, parágrafos numerados, itens principais)
 - **h6 = Termos de Índice / Referências Cruzadas** (exclusivo para Índice Geral)
 
@@ -19,35 +19,36 @@
 - H5 = Parágrafos / Itens principais
 - H6 = Índice (placeholder até expansão completa)
 
-### 3. Regras Específicas
-- Apenas **LDE** deve ter alto número de H6 atualmente.
-- Outros livros devem manter H6 ~25 (placeholders) até o índice completo ser construído.
-- Não usar H6 fora da seção **Índice Geral** do Pós-textual.
+### 3. Prefixos de Âncoras para Referências Cruzadas
 
-### 4. Prefixos de Âncoras para Referências Cruzadas
+Os prefixos abaixo são usados **principalmente para links entre livros**. Para links internos ao mesmo livro, prefere-se a forma curta (ver seção de convenções de links).
 
-Para permitir interligações consistentes entre os cinco livros, use os seguintes prefixos quando criar IDs de âncoras e links:
-
-- **LDE**: `lde-q` (ex: `lde-q-847`)
-- **LDM**: `ldm-m` (ex: `ldm-m-142`)
+- **LDE**: `lde-q`
+- **LDM**: `ldm-m` (m = médiuns)
 - **ESE**: `ese-e`
 - **CEU**: `ceu-c`
 - **GEN**: `gen-g`
 
-Esses prefixos devem ser usados nos arquivos Markdown fonte para referências estáveis (dentro do livro e entre livros).
+Exemplos de âncoras completas para cross-book:
+- `lde-q-847`
+- `ldm-m-142`
+- `ese-e-153`
+- `ceu-c-247`
+- `gen-g-089`
 
----
+### 4. Numeração e Romanos
 
-**Rationale detalhado** (do Índice Geral dos PDFs originais)
+- Substituímos algarismos romanos por arábicos em todo o conteúdo e índices, **exceto** em títulos pessoais/históricos (ex: "São Luís, IX de França" mantém o IX).
+- O método de endereçamento do Índice Geral original determina diretamente como criamos as âncoras (ver cross-reference.md).
 
-LDE — Já ótimo (QXXXX). O índice é extremamente detalhado por número de questão. H5 = questões individuais é a unidade mais natural.
+### 5. Âncoras nos Termos do Índice Geral (H6)
 
-LDM — PXXX é excelente. O índice referencia parágrafos diretamente (ex. §142).
+Cada termo principal do Índice Geral (H6) recebe uma âncora baseada na palavra principal, sem diacríticos e em minúsculas:
 
-ESE — IXXX (Item) é a melhor simplificação.
+- `Aberração` → `{#aberracao}`
+- `Ação` → `{#acao}`
+- `Além-túmulo` → `{#alem-tumulo}`
+- `Agostinho, Santo` → `{#agostinho-santo}`
+- `Allan Kardec` → `{#allan-kardec}`
 
-CEU — EXXX (Exemplo) encaixa perfeitamente.
-
-GEN — SXXX (Seção) é o mais prático.
-
-Veja o documento completo de convenções de referências cruzadas em [cross-reference.md](./cross-reference.md).
+Ver documento completo em [cross-reference.md](./cross-reference.md).
