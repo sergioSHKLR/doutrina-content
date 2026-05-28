@@ -64,6 +64,74 @@ eleventyNavigation:
   title: "LDE — O Livro dos Espíritos"
 ---
 
+## MD Quality & Fidelity Checklist (LDE)
+
+**Current Focus:** Índice Geral review (one H5/letter at a time)
+
+See also: [PROJECT-MILESTONES.md](../../PROJECT-MILESTONES.md) for the full historical progression since the original manual PDF copy-paste work in 2023.
+
+**Last Updated:** 2026-05-29
+
+### 1. Índice Geral Review (by Letter)
+
+- [x] **A** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **B** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **C** — added 16 items (marked with NEW emoji), missing slugs and sub-items
+- [x] **D** — added 2 items (marked with NEW emoji), missing slugs and sub-items
+- [ ] **E**
+- [ ] **F**
+- [ ] **G**
+- [ ] **H**
+- [ ] **I**
+- [ ] **J**
+- [ ] **K**
+- [ ] **L**
+- [ ] **M**
+- [ ] **N**
+- [ ] **O**
+- [ ] **P**
+- [ ] **Q**
+- [ ] **R**
+- [ ] **S**
+- [ ] **T**
+- [ ] **U**
+- [ ] **V**
+- [ ] **W**
+- [ ] **X**
+- [ ] **Y**
+- [ ] **Z**
+
+### 2. Content Fidelity (PDF vs MD)
+
+- [ ] All questions 1–1019 present and correctly numbered in content
+- [ ] Major structural sections present and correctly ordered (Prefácio, Introduções, 5 Parts, Conclusão, Nota Explicativa)
+- [ ] Text fidelity spot-checks performed on sampled questions
+- [ ] Roman numerals substituted correctly (except personal/historical titles)
+- [ ] No significant missing or extra content vs source PDF
+
+### 3. Anchor & Normalization Quality
+
+- [ ] All H6 terms follow the official normalization rules (no (s), /s, diacritics in anchors)
+- [ ] Anchor style is consistent across the entire file
+- [ ] H5 content units have stable, predictable anchors
+- [ ] Cross-book linking prefixes are correctly applied where needed
+
+### 4. Index & Internal Linking Quality
+
+- [ ] All H6 terms in the Índice Geral have proper anchors
+- [ ] Links from the Índice Geral point to correct H5/H4 targets
+- [ ] No broken internal links within the index section
+- [ ] Cross-references inside the index are accurate and useful
+
+### 5. General Document Health
+
+- [ ] YAML front matter is complete and up to date
+- [ ] Shared content includes (`<!-- INSERT_SHARED:... -->`) are correct
+- [ ] File builds cleanly in Eleventy (no major warnings)
+- [ ] No obvious formatting artifacts from PDF migration remaining
+
+---
+
 # ✨ *O Livro dos Espíritos* {#lde}
 
 ## 0. 🗃️ Pré-textual {#0}
@@ -18036,8 +18104,32 @@ mudança de – Intro V e XII
 ###### 🔖 Calma {#calma}
 aparente – [Q.988](#q988)
 
+###### 🆕 Canibais {#canibais}
+
+###### 🆕 Caráter {#carater}
+
 ###### 🔖 Caridade {#caridade}
 material e ciência – [Q.707](#q707)
+
+###### 🆕 Carne {#carne}
+
+###### 🆕 Csamaneto {#casamento}
+
+###### 🆕 Castigo {#}
+
+###### 🆕 Cataclismo {#}
+
+###### 🆕 Catalepsia {#}
+
+###### 🆕 Causa primária {#}
+
+###### 🆕 Celibato {#}
+
+###### 🆕 Censura {#}
+
+###### 🆕 Centros de força {#}
+
+###### 🆕 Cepa {#}
 
 ###### 🔖 Cérebro {#cerebro}
 desencarnado e – [Q.378](#q378)
@@ -18075,6 +18167,8 @@ movimento das mesas girantes e – [Intro 03](#0-04-03)
 obra divina e – [Q.59](#q59)
 religião e – [Q.59](#q59)
 sábio e – [Intro 13](#0-04-13)
+
+###### 🆕 Ciência {#}
 
 ###### 🔖 Ciência espírita {#ciencia-espirita}
 consolidação da – [Conclusão 06](#5-01-06)
@@ -18326,6 +18420,12 @@ povos primitivos e – [Q.753](#q753)
 procedência do sentimento de – [Q.754](#q754)
 sociedade e – [Q.756](#q756)
 
+###### 🆕 Culpa {#}
+
+###### 🆕 Culpado {#}
+
+###### 🆕 Cura {#}
+
 ##### 📑 D
 
 ###### 🔖 Decálogo {#decalogo}
@@ -18386,6 +18486,9 @@ percepções de – [Q.547a](#q547a)
 valor da recordação amiga para o – [Q.320](#q320)
 Desencarnado ver também Morto
 
+
+###### 🆕 Desencarnado *ver também* Morto
+
 ###### 🔖 Desenvolvimento {#desenvolvimento}
 das faculdades existentes no homem – [Q.754](#q754)
 do senso moral – [Q.754](#q754)
@@ -18442,6 +18545,8 @@ regeneração e – [Q.729](#q729)
 sentimento de repulsa à – [Q.733](#q733)
 seres vivos e – [Q.728](#q728)
 Destruição ver também Lei de destruição
+
+###### 🆕 Destruição *ver também* Lei de destruição
 
 ###### 🔖 Deturpação {#deturpacao}
 sentimento de justiça e – [Q.874](#q874)
@@ -18543,7 +18648,7 @@ alegria da – [Q.1001](#q1001)
 após a morte – [Q.1001](#q1001)
 generosidade e – [Q.1001](#q1001)
 
-###### 🔖 Doença ver Enfermidade {#doenca-ver-enfermidade}
+###### 🆕 Doença *ver* Enfermidade
 
 ###### 🔖 Doença mental {#doenca-mental}
 cérebro e – [Q.375](#q375)
@@ -18654,8 +18759,14 @@ sexos e – [Q.822a](#q822a)
 teoria de períodos, na criança, para o término da – [Q.142](#q142)
 Terra e – [Q.176](#q176)
 
+###### 🆕 Espírito bom {#}
+
+###### 🆕 Espírito mau {#}
+
 ###### 🔖 Encarnado {#encarnado}
 escolha de provas e – [Q.267](#q267)
+
+###### 🆕 Espírito errante {#}
 
 ###### 🔖 Encontro {#encontro}
 busca recíproca no plano físico e – [Q.386](#q386)
@@ -18923,7 +19034,7 @@ passagem do tempo para o – [Q.1005](#q1005)
 ###### 🔖 Espírito superior {#espirito-superior}
 reuniões sérias e – [Intro 08](#0-04-08)
 
-###### 🔖 Espírito/s {#espirito/s}
+###### 🔖 Espírito(s) {#espiritos}
 ação do – [Q.403](#q403)
 ação nos fenômenos da natureza e os – [Q.540](#q540)
 amor dos * a certas pessoas – [Q.485](#q485)
@@ -19018,6 +19129,8 @@ características dos – [Q.106](#q106)
 
 ###### 🔖 Espíritos benévolos {#espiritos-benevolos}
 caraterísticas dos – [Q.108](#q108)
+
+###### 🆕 Espíritos sábios {#}
 
 ###### 🔖 Espíritos encarnados {#espiritos-encarnados}
 assembleias de – [Q.417](#q417)
