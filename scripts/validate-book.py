@@ -39,8 +39,21 @@ ROMAN_PATTERN = re.compile(r'\b([IVXLCDM]{2,})\b')
 PERSONAL_TITLE_HINTS = ["são", "santo", "luís", "francisco", "agostinho", "vicente", "paulo"]
 
 def slugify(text: str) -> str:
+    """
+    Normalização oficial para âncoras de termos do Índice Geral (H6).
+
+    Regras:
+    1. Lowercase + remoção de diacríticos
+    2. Remoção de marcadores de plural parentéticos ou com barra: (s), (es), /s, /es
+    3. Substituição de sequências de caracteres especiais por hífen único
+    4. Colapso de hífens múltiplos
+    """
     text = text.lower()
-    text = re.sub(r'^[🔖📑🗓️🔂#️️\s]+', '', text)
+
+    # Remove leading symbols/emojis
+    text = re.sub(r'^[🔖📑🗃️🗂️#️⃣\s]+', '', text)
+
+    # Remove diacritics
     replacements = {
         'á': 'a', 'à': 'a', 'ã': 'a', 'â': 'a',
         'é': 'e', 'ê': 'e',
@@ -51,8 +64,19 @@ def slugify(text: str) -> str:
     }
     for acc, plain in replacements.items():
         text = text.replace(acc, plain)
-    text = re.sub(r'[^a-z0-9\s-]', '', text)
-    text = re.sub(r'[\s]+', '-', text.strip())
+
+    # Remove parenthetical plural markers: (s), (es), (e)
+    text = re.sub(r'\(s\)|\(es\)|\(e\)', '', text)
+
+    # Remove slash plural markers: /s, /es
+    text = re.sub(r'/s\b|/es\b', '', text)
+
+    # Replace any remaining non-alphanumeric (except hyphen) with single hyphen
+    text = re.sub(r'[^a-z0-9-]+', '-', text)
+
+    # Collapse multiple hyphens
+    text = re.sub(r'-+', '-', text)
+
     return text.strip('-')
 
 def is_personal_title(text: str) -> bool:
@@ -93,7 +117,7 @@ def analyze_file(md_path: Path, book_code: str):
         hashes = heading_match.group(1)
         level = len(hashes)
         raw_text = heading_match.group(2).strip()
-        clean_text = re.sub(r'^[🔖📑🗓️🔂#️️\s]+', '', raw_text).strip()
+        clean_text = re.sub(r'^[🔖📑🗃️🗂️#️⃣\s]+', '', raw_text).strip()
 
         if level > current_level + 1:
             issues["ERROR"].append(f"Line {i:5d}: Heading level jump H{current_level} → H{level} ({clean_text[:60]})")
