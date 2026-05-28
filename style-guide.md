@@ -1,5 +1,5 @@
 # Estilo de Marcação para a Coleção Digital Espírita (dc)
-**Versão 1.1** — Atualizado em 26 de Maio de 2026
+**Versão 1.3** — Atualizado em 28 de Maio de 2026
 
 ### 1. Princípios Gerais
 - h1 = Título completo do livro
@@ -23,6 +23,18 @@
 - Apenas **LDE** deve ter alto número de H6 atualmente.
 - Outros livros devem manter H6 = ~25 (placeholders) até o índice completo ser construído.
 - Não usar H6 fora da seção **Índice Geral** do Pós-textual.
+
+### 4. Prefixos de Âncoras para Referências Cruzadas
+
+Para links **entre livros**, use os seguintes prefixos:
+
+- LDE → `lde-q`
+- LDM → `ldm-m` (m = médiuns)
+- ESE → `ese-e`
+- CEU → `ceu-c`
+- GEN → `gen-g`
+
+Veja o documento completo de convenções em [cross-reference.md](./cross-reference.md), incluindo a **regra oficial de normalização** de âncoras para termos do Índice Geral.
 
 ---
 
