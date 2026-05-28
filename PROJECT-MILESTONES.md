@@ -121,3 +121,99 @@ Parallel track to the content work: faithfully recreate the soul of the original
 
 **Next immediate actions (as of this writing):**  
 Continue the manual H6 letter audit in LDE (D+), resolve the 16 NEW C items, then expand the same discipline to the other four books while the 11ty interface layer matures in parallel.
+
+---
+
+## Codex Schema Evolution & Stress Test (May 2026 Analysis)
+
+### The Journey from Uniform `trigraph-X-YY-ZZ` to Dual Specialized Addressing
+
+**2023 (Early doutrina.org era)**  
+The project adopted a classic library-style "codex" hierarchical numbering for stable addresses:
+- `1-01-01`, `2-05-03`, `0-04-07`
+- When content from multiple books coexisted: `lde-1-01-01`, `ese-X-10`, `gen-2-11-03` (the **trigraph-X-YY-ZZ** form).
+
+This was documented in commits such as `ba52e3e1 1-01-01` and a series of `ESE-1-xx done` entries. It treated the entire collection as a single classified filing system — elegant and uniform.
+
+**Limitation discovered during the 2026 fidelity work**  
+The five books have fundamentally different "natural keys" that real readers and the printed *Índice Geral* actually use:
+
+- **LDE**: Pure question numbers (the entire intellectual structure is question-driven).
+- **LDM**: Numbered paragraphs / items about mediums.
+- **ESE**: Roman chapter + item (`X, 19`, `XXIII, 10`, `introd., IV`).
+- **CEU**: Mix of numbered items + named spirit cases/examples (the second half of the book is dominated by individual stories).
+- **GEN**: Roman chapter + item, heavily mixed with scientific/doctrinal sections (`VI, 24`, `XVIII, 32`).
+
+A single uniform `trigraph-X-YY-ZZ` codex worked for structural navigation but was a poor fit for the actual citation patterns that serious students use.
+
+**Current Dual System (codified May 2026)**
+
+1. **Structural / Hierarchical Layer** (descendant of the old codex)
+   - `1-03-05`, `0-04-07`, `ese-1-01`, `gen-2-11-03`
+   - Excellent for book outlines, TOCs, and fidelity to the physical book's organization.
+
+2. **Atomic Content Unit Layer** (specialized per book)
+   - LDE → `q-847` / cross: `lde:q-847`
+   - LDM → `m-142` / `ldm:m-142`
+   - ESE → `e-153` / `ese:e-153`
+   - CEU → `c-247` / `ceu:c-247`
+   - GEN → `g-089` / `gen:g-089`
+
+This is documented in `style-guide.md` v1.3 (Detailed Rationale section) and `cross-reference.md` v1.2, including the book-specific prefixes (`lde-q`, `ldm-m`, `ese-e`, `ceu-c`, `gen-g`).
+
+The old trigraph-X-YY-ZZ system was not discarded — it was deliberately scoped to structural headings while the atomic layer was specialized to match how each book's own *Índice Geral* actually addresses content.
+
+### Stress Test: Real Index Addressing in ESE, CEU & GEN (extracted from source PDFs)
+
+**ESE – O Evangelho segundo o Espiritismo** (417 pages)
+- Dominant pattern: **Roman Chapter + Arabic item** (`X, 19-21`, `XXIII, 10`, `XIV, 3`, `introd., IV`).
+- Many sub-entries under main concepts.
+- Current proposed `e-XXX` (flat) is a reasonable simplification but loses the chapter context that readers are accustomed to.
+
+**CEU – O Céu e o Inferno** (409 pages)
+- Heavy use of simple Arabic numbers for many items (`– 365`, `– 282`, `– 49, nota`).
+- Equally important: **named individual cases** ("Julienne-Marie, a mendiga", "Jobard, Espírito feliz", "Irmão do Sr. J.-B. D., ateu").
+- The second part of the book is essentially a collection of spirit stories. A pure sequential `c-XXX` works for navigation but may need supplementary name-based or category-based anchors for usability.
+
+**GEN – A Gênese** (417 pages)
+- Strong **Roman Chapter + Arabic item** (`XV, 19`, `XVIII, 32`, `VI, 24`, `Introd.`).
+- Mix of astronomical/scientific topics and doctrinal sections.
+- Similar tension as ESE: the `g-XXX` proposal is clean, but the printed index heavily relies on chapter context.
+
+**Overall Stress Test Verdict on Current Schema**
+- The dual system is **sound and necessary**.
+- The specialized atomic letters (`e-`, `c-`, `g-`) are a pragmatic compromise.
+- For ESE and GEN, there is a real usability cost to completely abandoning chapter+item references. A hybrid approach (primary `e-XXX` + secondary structural `ese-X-10` aliases) may be required.
+- CEU is the most challenging because of its heavy reliance on named cases rather than pure numbers.
+
+### Feasibility of a Global Master Index (All Five Books)
+
+**High feasibility for a unified search/cross-reference layer**, moderate-to-high effort for a traditional alphabetical "Índice Geral" style master index.
+
+**Positive factors**
+- Once Phase 1 (content fidelity) is complete for all five books, we will have:
+  - Consistent H5 atomic anchors (`q-`/`m-`/`e-`/`c-`/`g-`).
+  - Consistent H6 term anchors (after normalization rule).
+  - Rich internal linking already present in the full Markdown.
+- A global index becomes mostly a **merge + deduplication + cross-linking** problem rather than a transcription problem.
+- Tooling already exists (`validate-book.py`, `fidelity-checks.py`, scrap.md process) that can be extended.
+- The 11ty layer (Phase 5) can consume a generated master index for powerful cross-book search and "see also across the collection" features.
+
+**Challenges & Required Work**
+- Each book’s printed *Índice Geral* has its own depth, style, and addressing method (as shown in the stress test). A naive merge would produce an inconsistent or overwhelming result.
+- CEU’s named cases and ESE/GEN’s chapter+item references need thoughtful normalization or dual representation.
+- Many terms overlap across books (e.g. "Perispírito", "Reencarnação", "Obsessão"). These need smart grouping rather than simple concatenation.
+- Sub-item depth varies wildly.
+
+**Recommended Approach (once LDE audit + other books reach similar maturity)**
+1. Generate per-book clean H6 term lists (with their atomic targets).
+2. Create a master term list with:
+   - Normalized anchor
+   - List of occurrences across books with precise links (`lde:q-847`, `ese:e-153`, `ceu:c-247` + structural fallback when useful)
+   - Optional grouping by theme (e.g. "Mediunidade", "Vida futura", "Moral")
+3. Keep the individual book indices intact (they remain the most faithful to the printed source).
+4. Offer the global master index as a powerful digital-only study tool (searchable, filterable by book, with strength-of-connection indicators).
+
+**Verdict**: Very worthwhile and aligned with the original project intent ("rich pure-MD interlinking"). It is one of the highest-leverage deliverables once the five full Markdown files reach comparable fidelity. It would be a genuine scholarly contribution, not just a convenience feature.
+
+This analysis (May 2026) should be revisited after the ESE/CEU/GEN index audits are complete, as the real printed indexes may reveal additional nuances.
