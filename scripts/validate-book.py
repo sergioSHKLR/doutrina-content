@@ -13,6 +13,8 @@ Usage examples:
 
 import re
 import argparse
+import io
+import sys
 from pathlib import Path
 from collections import defaultdict
 from datetime import datetime
@@ -21,13 +23,13 @@ from datetime import datetime
 BOOK_CONFIG = {
     "lde": {
         "name": "O Livro dos Espíritos",
-        "h5_prefix": "q",           # Questions
+        "h5_prefix": "q",
         "h5_pattern": r"Q\.\s*(\d+)",
         "index_section_title": "Índice geral",
     },
     "ldm": {
         "name": "O Livro dos Médiuns",
-        "h5_prefix": "m",           # Médiuns / paragraphs
+        "h5_prefix": "m",
         "h5_pattern": r"(?:§\s*)?(\d+)",
         "index_section_title": "Índice geral",
     },
@@ -37,11 +39,8 @@ ROMAN_PATTERN = re.compile(r'\b([IVXLCDM]{2,})\b')
 PERSONAL_TITLE_HINTS = ["são", "santo", "luís", "francisco", "agostinho", "vicente", "paulo"]
 
 def slugify(text: str) -> str:
-    """Create a clean anchor from index term text (lowercase, no diacritics, hyphenated)."""
     text = text.lower()
-    # Remove common emoji and symbols used in headings
-    text = re.sub(r'^[🔖📑🗃️🗂️#️⃣\s]+', '', text)
-    # Remove accents (very basic, sufficient for Portuguese)
+    text = re.sub(r'^[🔖📑🗓️🔂#️️\s]+', '', text)
     replacements = {
         'á': 'a', 'à': 'a', 'ã': 'a', 'â': 'a',
         'é': 'e', 'ê': 'e',
@@ -68,7 +67,7 @@ def analyze_file(md_path: Path, book_code: str):
     content = md_path.read_text(encoding="utf-8")
     lines = content.splitlines()
 
-    issues = defaultdict(list)  # severity -> list of messages
+    issues = defaultdict(list)
     stats = {
         "total_headings": 0,
         "h5_count": 0,
@@ -83,11 +82,9 @@ def analyze_file(md_path: Path, book_code: str):
     anchors = set()
 
     for i, line in enumerate(lines, 1):
-        # Detect explicit anchors
         for m in re.finditer(r'\{#([^}]+)\}', line):
             anchors.add(m.group(1).strip())
 
-        # Heading detection
         heading_match = re.match(r'^(#{1,6})\s+(.+?)(?:\s*\{.*?\})?$', line.strip())
         if not heading_match:
             continue
@@ -96,62 +93,47 @@ def analyze_file(md_path: Path, book_code: str):
         hashes = heading_match.group(1)
         level = len(hashes)
         raw_text = heading_match.group(2).strip()
-        clean_text = re.sub(r'^[🔖📑🗃️🗂️#️⃣\s]+', '', raw_text).strip()
+        clean_text = re.sub(r'^[🔖📑🗓️🔂#️️\s]+', '', raw_text).strip()
 
-        # Track level gaps
         if level > current_level + 1:
             issues["ERROR"].append(f"Line {i:5d}: Heading level jump H{current_level} → H{level} ({clean_text[:60]})")
         current_level = level
 
-        # H5 (enumerated content)
         if level == 5:
             stats["h5_count"] += 1
-            has_anchor = bool(re.search(r'\{#', line))
-            if has_anchor:
+            if re.search(r'\{#', line):
                 stats["h5_with_anchor"] += 1
-
-            # Check if it looks like the expected pattern for this book
             if not re.search(config["h5_pattern"], clean_text, re.IGNORECASE):
                 issues["WARNING"].append(f"Line {i:5d}: H5 does not match expected pattern for {book_code.upper()}: {clean_text[:70]}")
 
-        # H6 (index terms)
         if level == 6:
             stats["h6_count"] += 1
-            has_anchor = bool(re.search(r'\{#', line))
-            if has_anchor:
+            if re.search(r'\{#', line):
                 stats["h6_with_anchor"] += 1
-
-            # Check anchor quality (only meaningful inside index)
             if in_index_section:
                 anchor_match = re.search(r'\{#([^}]+)\}', line)
                 if anchor_match:
                     anchor = anchor_match.group(1)
                     expected = slugify(clean_text)
                     if anchor != expected:
-                        issues["WARNING"].append(
-                            f"Line {i:5d}: H6 anchor mismatch. Text='{clean_text}' → anchor='{anchor}' (expected '{expected}')"
-                        )
+                        issues["WARNING"].append(f"Line {i:5d}: H6 anchor mismatch. Got '{anchor}', expected '{expected}'")
                 else:
                     issues["ERROR"].append(f"Line {i:5d}: H6 index term missing explicit anchor: {clean_text[:70]}")
 
-        # Detect entry into Índice Geral
         if config["index_section_title"].lower() in clean_text.lower() and level <= 3:
             in_index_section = True
 
-        # Roman numeral detection (outside personal titles)
         if level >= 5:
-            romans = ROMAN_PATTERN.findall(clean_text)
-            for r in romans:
+            for r in ROMAN_PATTERN.findall(clean_text):
                 if not is_personal_title(clean_text):
                     stats["roman_candidates"] += 1
                     issues["INFO"].append(f"Line {i:5d}: Possible Roman numeral to convert: '{r}' in '{clean_text[:60]}'")
 
-    # Post-processing checks
     if stats["h6_count"] > 0 and stats["h6_with_anchor"] < stats["h6_count"] * 0.9:
         issues["WARNING"].append(f"Many H6 index terms are missing explicit anchors ({stats['h6_with_anchor']}/{stats['h6_count']})")
 
     if stats["roman_candidates"] > 0:
-        issues["INFO"].append(f"Found {stats['roman_candidates']} potential Roman numerals that may need conversion to Arabic (review manually for personal titles).")
+        issues["INFO"].append(f"Found {stats['roman_candidates']} potential Roman numerals (review for personal titles).")
 
     return {
         "stats": stats,
@@ -159,57 +141,80 @@ def analyze_file(md_path: Path, book_code: str):
         "anchors_found": len(anchors),
     }
 
+def run_validation(md_path: Path, book_code: str):
+    """Run analysis and return (console_output, result_dict)"""
+    buffer = io.StringIO()
+    original_stdout = sys.stdout
+    sys.stdout = buffer
+
+    try:
+        print(f"🔍 Validating {md_path} as {book_code.upper()}...\n")
+        result = analyze_file(md_path, book_code)
+
+        stats = result["stats"]
+        issues = result["issues"]
+
+        print("=== SUMMARY ===")
+        print(f"Total headings:     {stats['total_headings']}")
+        print(f"H5 units found:     {stats['h5_count']}  (with anchors: {stats['h5_with_anchor']})")
+        print(f"H6 index terms:     {stats['h6_count']}  (with anchors: {stats['h6_with_anchor']})")
+        print(f"Unique anchors:     {result['anchors_found']}")
+        print()
+
+        severity_order = ["ERROR", "WARNING", "INFO"]
+        has_problems = False
+
+        for sev in severity_order:
+            if sev in issues and issues[sev]:
+                has_problems = True
+                print(f"⚠️  {sev} ({len(issues[sev])})")
+                for msg in issues[sev][:30]:
+                    print(f"    {msg}")
+                if len(issues[sev]) > 30:
+                    print(f"    ... and {len(issues[sev]) - 30} more")
+                print()
+
+        if not has_problems:
+            print("✅ No major structural or anchoring issues detected.")
+
+        return buffer.getvalue(), result
+    finally:
+        sys.stdout = original_stdout
+
 def main():
-    parser = argparse.ArgumentParser(description="Validate structure and anchors in doutrina-content full MD files.")
+    parser = argparse.ArgumentParser()
     parser.add_argument("file", nargs="?", help="Path to *-full.md file")
-    parser.add_argument("--book", choices=["lde", "ldm"], required=True, help="Book code")
-    parser.add_argument("--report", action="store_true", help="Write a report file to reports/")
+    parser.add_argument("--book", choices=["lde", "ldm"], required=True)
+    parser.add_argument("--report", action="store_true", help="Write full report to reports/ folder")
     args = parser.parse_args()
 
     if args.file:
         md_path = Path(args.file)
     else:
-        # Default to the usual location
         md_path = Path(f"books/md/{args.book}/full/{args.book}-full.md")
 
     if not md_path.exists():
         print(f"❌ File not found: {md_path}")
         return
 
-    print(f"🔍 Validating {md_path} as {args.book.upper()}...\n")
-    result = analyze_file(md_path, args.book)
+    output, result = run_validation(md_path, args.book)
 
-    stats = result["stats"]
-    issues = result["issues"]
-
-    print("=== SUMMARY ===")
-    print(f"Total headings:     {stats['total_headings']}")
-    print(f"H5 units found:     {stats['h5_count']}  (with anchors: {stats['h5_with_anchor']})")
-    print(f"H6 index terms:     {stats['h6_count']}  (with anchors: {stats['h6_with_anchor']})")
-    print(f"Unique anchors:     {result['anchors_found']}")
-    print()
-
-    severity_order = ["ERROR", "WARNING", "INFO"]
-    has_problems = False
-
-    for sev in severity_order:
-        if sev in issues and issues[sev]:
-            has_problems = True
-            print(f"⚠️  {sev} ({len(issues[sev])})")
-            for msg in issues[sev][:25]:   # limit noise
-                print(f"    {msg}")
-            if len(issues[sev]) > 25:
-                print(f"    ... and {len(issues[sev]) - 25} more")
-            print()
-
-    if not has_problems:
-        print("✅ No major structural or anchoring issues detected.")
+    # Always print to console
+    print(output, end="")
 
     if args.report:
         report_dir = Path("reports")
-        report_dir.mkdir(exist_ok=True)
-        report_path = report_dir / f"validation_{args.book}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.md"
-        print(f"\n📋 Report would be written to: {report_path} (implementation can be expanded)")
+        report_dir.mkdir(parents=True, exist_ok=True)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        report_path = report_dir / f"validation_{args.book}_{timestamp}.md"
+
+        with open(report_path, "w", encoding="utf-8") as f:
+            f.write(f"# Validation Report - {args.book.upper()}\n")
+            f.write(f"File: {md_path}\n")
+            f.write(f"Generated: {datetime.now().isoformat()}\n\n")
+            f.write(output)
+
+        print(f"\n📋 Full report written to: {report_path}")
 
 if __name__ == "__main__":
     main()
