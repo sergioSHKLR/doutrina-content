@@ -1,46 +1,47 @@
-# Convenções de Referências Cruzadas (Cross-References)
+---
 
-**Versão 1.1** — 27 de Maio de 2026
+## 5. Normalização de Âncoras para Termos do Índice Geral (H6)
 
-Este documento define a convenção oficial para criar links dentro de um mesmo livro e entre os cinco livros, respeitando a estrutura hierárquica real dos textos e o método de endereçamento dos Índices Gerais originais.
+Para garantir consistência e links confiáveis entre os cinco livros, todas as âncoras de termos do Índice Geral (H6) devem seguir esta regra de normalização:
 
-## 1. Hierarquia de Cabeçalhos e Endereçamento
+### Regra Oficial de Normalização
 
-- **H1**: Livro
-- **H2**: Partes (Pré-textual, as grandes divisões doutrinárias, Conclusão, Pós-textual)
-- **H3**: Capítulos
-- **H4**: Seções / tópicos principais (agrupamentos)
-- **H5**: Unidade principal de conteúdo enumerada (o alvo mais comum de links)
-  - LDE → Questões
-  - LDM → Parágrafos / itens
-  - ESE → Itens
-  - CEU → Exemplos / Casos
-  - GEN → Seções
-- **H6**: Termos do Índice Geral (camada de navegação e referências cruzadas, **não** conteúdo primário)
+1. Remova emojis e símbolos iniciais (🔖, 📑, etc.).
+2. Converta todo o texto para minúsculas.
+3. Remova todos os diacríticos (á → a, ç → c, etc.).
+4. **Tratamento de variantes de plural**:
+   - `(s)`, `(es)`, `(e)` no final → remova o parênteses e normalize para a forma plural quando apropriado.
+   - `/s`, `/es` → remova e normalize para a forma plural.
+5. Substitua qualquer sequência de caracteres que não sejam letras ou números por um único hífen.
+6. Colapse múltiplos hífens em apenas um.
+7. Remova hífens no início ou final da âncora.
 
-**Princípio fundamental**: O modo como o Índice Geral impresso endereça o conteúdo determina como criamos as âncoras.
+**Exemplos:**
 
-## 2. Prefixos Oficiais
+| Texto original no PDF / Markdown | Âncora normalizada |
+|----------------------------------|----------------------|
+| Espírito(s)                     | `espiritos`          |
+| Espírito/s                      | `espiritos`          |
+| Ação                           | `acao`               |
+| Além-túmulo                    | `alem-tumulo`        |
+| Agostinho, Santo                 | `agostinho-santo`    |
+| Comunicabilidade dos espíritos  | `comunicabilidade-dos-espiritos` |
 
-Usados principalmente para **links entre livros**:
+**Princípio**: Prefira âncoras limpas e legíveis. Informação sobre variantes (singular/plural) deve ficar no texto visível do índice, não na âncora.
 
-- LDE → `lde-q`
-- LDM → `ldm-m` (**m = médiuns**)
-- ESE → `ese-e`
-- CEU → `ceu-c`
-- GEN → `gen-g`
+---
 
-## 3. Âncoras Internas vs Links Entre Livros (Regra Importante)
+## 6. Âncoras Internas vs Links Entre Livros (Regra Importante)
 
 Porque usamos o trigrafo do livro como permalink (`/lde/`, `/ldm/`, etc.), adotamos esta distinção clara:
 
-### 3.1 Dentro do mesmo livro (in-book)
+### 6.1 Dentro do mesmo livro (in-book)
 Use a forma **curta** que corresponde ao ID real presente no arquivo Markdown:
 
 - `[Q.847](#q-847)` ou `[Q.847](#q847)` (conforme o ID efetivo no H5)
 - `[§142](#m-142)`
 
-### 3.2 Entre livros (cross-book)
+### 6.2 Entre livros (cross-book)
 Sempre use o **prefixo completo**:
 
 - `[O Livro dos Espíritos, Q.847](lde:q-847)`
@@ -48,12 +49,12 @@ Sempre use o **prefixo completo**:
 
 Esta separação mantém os arquivos fonte limpos e os links entre livros explícitos e portáveis.
 
-## 4. Numeração e Algarismos Romanos
+## 7. Numeração e Algarismos Romanos
 
 - Substituímos algarismos romanos por arábicos em todo o conteúdo, índices e referências.
 - **Exceção**: Mantemos romanos em títulos pessoais ou históricos (ex: "São Luís, IX de França", "Luís IX").
 
-## 5. Âncoras dos Termos do Índice Geral (H6)
+## 8. Âncoras dos Termos do Índice Geral (H6) - Casos Específicos
 
 Cada termo principal do Índice Geral recebe uma âncora baseada na palavra principal:
 
@@ -71,7 +72,7 @@ Exemplos reais do LDE:
 
 O mesmo padrão deve ser aplicado consistentemente em todos os livros quando o Índice Geral for completado.
 
-## 6. Exemplos Práticos
+## 9. Exemplos Práticos
 
 **No Índice Geral do LDE (H6):**
 
@@ -92,7 +93,7 @@ Como foi amplamente tratado em [O Livro dos Espíritos, Q.400](lde:q-400) e segu
 Ver também [Q.400](#q-400) acima.
 ```
 
-## 7. Futuro no Build (11ty)
+## 10. Futuro no Build (11ty)
 
 O sistema de build poderá:
 - Resolver automaticamente os links curtos e prefixados
