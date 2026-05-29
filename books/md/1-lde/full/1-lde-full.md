@@ -68,9 +68,7 @@ eleventyNavigation:
 
 **Current Focus:** Índice Geral review (one H5/letter at a time)
 
-See also: [PROJECT-MILESTONES.md](../../PROJECT-MILESTONES.md) for the full historical progression since the original manual PDF copy-paste work in 2023.
-
-**Last Updated:** 2026-05-29
+**Last Updated:** 2026-05-28
 
 ### 1. Índice Geral Review (by Letter)
 
@@ -78,28 +76,28 @@ See also: [PROJECT-MILESTONES.md](../../PROJECT-MILESTONES.md) for the full hist
 - [x] **B** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
 - [x] **C** — added 16 items (marked with NEW emoji), missing slugs and sub-items
 - [x] **D** — added 2 items (marked with NEW emoji), missing slugs and sub-items
-- [ ] **E**
-- [ ] **F**
-- [ ] **G**
-- [ ] **H**
-- [ ] **I**
-- [ ] **J**
-- [ ] **K**
-- [ ] **L**
-- [ ] **M**
-- [ ] **N**
-- [ ] **O**
-- [ ] **P**
-- [ ] **Q**
-- [ ] **R**
-- [ ] **S**
-- [ ] **T**
-- [ ] **U**
-- [ ] **V**
-- [ ] **W**
-- [ ] **X**
-- [ ] **Y**
-- [ ] **Z**
+- [x] **E** - added 6 items
+- [x] **F** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **G** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **H** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **I** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **J** - removed 1 placeholder
+- [x] **K** - non-existent
+- [x] **L** - added 1
+- [x] **M** - added 2
+- [x] **N** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **O** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **P** - added one
+- [x] **Q** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **R** - added one
+- [x] **S** - added 22 items
+- [X] **T** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **U** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **V** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
+- [x] **W** - non-existent
+- [x] **X** - non-existent
+- [x] **Y** - non-existent
+- [x] **Z** — Manually verified against PDF. All H6 terms spot-on. Anchors not checked.
 
 ### 2. Content Fidelity (PDF vs MD)
 
@@ -17704,7 +17702,6 @@ Esta edição é oferecida gratuitamente para fins de estudo e divulgação da D
 *Tradução de Guillon Ribeiro • doutrina.org — Maio de 2025*
 :::
 
-
 ## 6. 🗃️ Pós-textual {#6}
 
 ### 6.01. 📄 Nota explicativa {#6-01} [^27]
@@ -18105,31 +18102,71 @@ mudança de – Intro V e XII
 aparente – [Q.988](#q988)
 
 ###### 🆕 Canibais {#canibais}
+escala espiritual e – 271
 
 ###### 🆕 Caráter {#carater}
+encarnação e – 362
+físico e reencarnação – 217
+formação de – 917
+homem de bem e – 918
+moral e reencarnação – 216
 
 ###### 🔖 Caridade {#caridade}
-material e ciência – [Q.707](#q707)
+917
+auxílios mútuos e – 779
+desinteressada – 893
+discriminação racial e – 789
+egoísmo e – 917
+exposição ao ridículo de religião 
+alheia e falta de – 655
+indulgência e – 888a
+Jesus e – 886
+prática da – 771, 789
+procedimento com – 897b
+próximo e – 770a , 903
+solidariedade e – 805
 
 ###### 🆕 Carne {#carne}
+alimentação com a * dos animais – 723
 
-###### 🆕 Csamaneto {#casamento}
+###### 🆕 Casamaneto {#casamento}
+antipatia e – 940
+celibato e – 695
+consequências da abolição do – 696
+ilusão do amor e – 939
+interesse e – 940
+sociedade e – 696
+vivência do – 939
 
 ###### 🆕 Castigo {#}
+duração do – 1008, 1009
+eterno – 1009
+imposição do – 1008
+local destinado ao * dos espíritos – 1012
 
 ###### 🆕 Cataclismo {#}
+geológico e dilúvio de Noé – 59
+recompensa ao provocador de – 584a
 
 ###### 🆕 Catalepsia {#}
+letargia e – 424
 
 ###### 🆕 Causa primária {#}
+formação da matéria e – 7
+revelação de inteligência suprema e – 9
 
 ###### 🆕 Celibato {#}
+casamento e – 696
+lei da natureza e – 699
 
 ###### 🆕 Censura {#}
+retorno ao mundo dos espíritos e – 919a
 
 ###### 🆕 Centros de força {#}
+luido vital e – 140a
 
 ###### 🆕 Cepa {#}
+emblema do trabalho divino – proleg.
 
 ###### 🔖 Cérebro {#cerebro}
 desencarnado e – [Q.378](#q378)
@@ -18167,8 +18204,6 @@ movimento das mesas girantes e – [Intro 03](#0-04-03)
 obra divina e – [Q.59](#q59)
 religião e – [Q.59](#q59)
 sábio e – [Intro 13](#0-04-13)
-
-###### 🆕 Ciência {#}
 
 ###### 🔖 Ciência espírita {#ciencia-espirita}
 consolidação da – [Conclusão 06](#5-01-06)
@@ -18421,10 +18456,19 @@ procedência do sentimento de – [Q.754](#q754)
 sociedade e – [Q.756](#q756)
 
 ###### 🆕 Culpa {#}
+assassinato e – 747
+mal e – 639
 
 ###### 🆕 Culpado {#}
+insensibilidade ao sofrimento alheio e – 899
+manifestações do egoísmo e – 901
+suicídio e – 947
+tempo para reflexão da falta e – 952a
 
 ###### 🆕 Cura {#}
+mediunidade de – 556
+possibilidade de * da desordem e 
+da imprevidência – 685a
 
 ##### 📑 D
 
@@ -18759,14 +18803,38 @@ sexos e – [Q.822a](#q822a)
 teoria de períodos, na criança, para o término da – [Q.142](#q142)
 Terra e – [Q.176](#q176)
 
-###### 🆕 Espírito bom {#}
+###### 🆕 Espírito bom e {#}
+361a
 
 ###### 🆕 Espírito mau {#}
+361a
+evolução e – 987
+expiação dos erros e – 983
+inútil – 988
+libertação da matéria durante a – 987
+mesmo Espírito em dois corpos e – 137
+necessidade da – 132
+objetivo da – 132-133
+período de infância e – 383
+perturbação e – 380
+pessoas exóticas do planeta e – 176a 
+primeira – 190
+purificação dos espíritos e – 226
+sexos e – 822a
+eoria de períodos, na criança, 
+para o término da – 142
+Terra e – 176
 
 ###### 🔖 Encarnado {#encarnado}
 escolha de provas e – [Q.267](#q267)
 
-###### 🆕 Espírito errante {#}
+###### 🆕 Espírito errante e  {#}
+226
+influenciação espiritual e morte de – 528
+inspiração e – 463
+sensações da vida do – 256
+vivência na erraticidade e 
+condição de – 175b
 
 ###### 🔖 Encontro {#encontro}
 busca recíproca no plano físico e – [Q.386](#q386)
@@ -19131,6 +19199,7 @@ características dos – [Q.106](#q106)
 caraterísticas dos – [Q.108](#q108)
 
 ###### 🆕 Espíritos sábios {#}
+características dos – 109, 110
 
 ###### 🔖 Espíritos encarnados {#espiritos-encarnados}
 assembleias de – [Q.417](#q417)
@@ -19178,6 +19247,9 @@ local de reunião dos – [Q.188](#q188)
 adepto do – [Intro 01](#0-04-01)
 conceito de alma e – [Intro 02](#0-04-02)
 Espiritismo e – [Intro 01](#0-04-01)
+
+###### 🆕 Espíritismo e {#}
+ introd., I
 
 ###### 🔖 Esquecimento {#esquecimento}
 maus instintos e – [Q.620](#q620)
@@ -19243,6 +19315,24 @@ planetas distantes do Sol e grau de – [Q.188](#q188)
 progressão do Espírito e – [Q.100](#q100), [Q.114](#q114)
 reencarnação e – [Q.612](#q612)
 vidas sucessivas e – [Q.787b](#q787b)
+
+###### 🆕 Espírito e {#}
+114
+espíritos vulgares e – 566a
+estacionada – 987
+experiências e – 607
+homem e – 364
+idade biológica e – 379
+libertação da influência da matéria e – 987
+mérito do Espírito protetor 
+para sua própria – 502
+moradia do Espírito e grau de – 188
+moral e da inteligência – 791
+paixão e – 191a
+planetas distantes do Sol e grau de – 188
+progressão do Espírito e – 100, 114
+reencarnação e – 612
+vidas sucessivas e – 787b
 
 ###### 🔖 Excessos {#excessos}
 consequências de – [Q.714a](#q714a)
@@ -19893,9 +19983,6 @@ vida futura e – [Q.962](#q962)
 ###### 🔖 Justo {#justo}
 consolo do – [Q.926](#q926)
 
-###### 🔖 Term {#term}
-occurrence – Q.X
-
 ##### 📑 L
 
 ###### 🔖 Laços de família {#lacos-de-familia}
@@ -19925,7 +20012,8 @@ opressão aos fracos e – [Q.807](#q807)
 
 ###### 🔖 Lei de destruição {#lei-de-destruicao}
 renovação e – [Q.41](#q41), [Q.728](#q728)
-Lei de destruição ver também Destruição
+
+###### 🆕 Lei de destruição *ver também* Destruição
 
 ###### 🔖 Lei de progresso {#lei-de-progresso}
 evolução moral e – [Conclusão 04](#5-01-04)
@@ -20194,7 +20282,7 @@ vidas passadas e – [Q.307](#q307)
 ###### 🔖 Mendicância {#mendicancia}
 educação moral e – [Q.889](#q889)
 
-###### 🔖 Merecimento ver Mérito {#merecimento-ver-merito}
+###### 🔖 Merecimento *ver* Mérito
 
 ###### 🔖 Mérito {#merito}
 conquista de – [Q.133](#q133)
@@ -20304,7 +20392,8 @@ temor ou desejo da – [Q.981](#q981)
 vida e – [Q.68](#q68), [Q.738a](#q738a)
 violenta e reação do Espírito – [Q.546](#q546)
 visão do Espírito após a – [Q.257](#q257)
-Morte ver também Desencarnação
+
+###### 🆕 Morte *ver também* Desencarnação
 
 ###### 🔖 Mortificação {#mortificacao}
 alimentação e – [Q.724](#q724)
@@ -20346,7 +20435,8 @@ regresso da alma ao – [Q.287](#q287)
 relacionamento no – [Q.274](#q274)
 revelação dos erros no – [Q.977a](#q977a)
 vida no – [Q.150b](#q150b), [Q.159](#q159)
-Mundo físico ver Plano físico
+
+###### 🆕 Mundo físico *ver* Plano físico
 
 ###### 🔖 Mundos {#mundos}
 formação dos – [Q.37](#q37) a [Q.42](#q42)
@@ -20716,7 +20806,10 @@ prática do bem, consciência pura e – [Q.165](#q165)
 reencarnação e – [Q.339](#q339)
 separação da alma e do corpo e – [Q.164](#q164)
 
-###### 🔖 Plano espiritual ver mundo espiritual {#plano-espiritual-ver-mundo-espiritual}
+###### 🆕 Planetas {}
+formação dos – 56
+
+###### 🔖 Plano espiritual *ver* mundo espiritual
 
 ###### 🔖 Plano físico {#plano-fisico}
 apoio a Espírito na partida para o – [Q.342](#q342)
@@ -20729,7 +20822,8 @@ eternidade das penas – [Q.1009](#q1009)
 
 ###### 🔖 Pluralidade dos mundos habitados {#pluralidade-dos-mundos-habitados}
 homem e – [Q.55](#q55)
-Pluralidade dos mundos habitados ver também Mundos habitados
+
+###### 🆕 Pluralidade dos mundos habitados *ver também* Mundos habitados
 
 ###### 🔖 Pobreza {#pobreza}
 predominância da – [Q.931](#q931)
@@ -20777,7 +20871,7 @@ degenerados – [Q.786](#q786)
 marcha de progresso em diferentes – [Q.780b](#q780b)
 períodos de vida dos – [Q.788](#q788)
 
-###### 🔖 Prece ver Oração {#prece-ver-oracao}
+###### 🔖 Prece *ver* Oração
 
 ###### 🔖 Preconceito {#preconceito}
 obediência a – [Q.955](#q955)
@@ -20959,6 +21053,10 @@ prodígios e – [Q.802](#q802)
 sofredor e – [Q.946](#q946)
 solicitude da – [Q.495](#q495)
 
+###### 🔖 Próximo {#proximo}
+ações contrárias a si mesmo e ao – [Q.919a](#q919a)
+caridade e – [Q.770a](#q770a), [Q.903](#q903)
+
 ###### 🔖 Psicologia {#psicologia}
 Espiritismo e – [Conclusão 08](#5-01-08)
 
@@ -20978,9 +21076,7 @@ local do – [Q.1013](#q1013)
 ###### 🔖 Purificação {#purificacao}
 aperfeiçoamento moral do Espírito e – [Q.182](#q182)
 
-###### 🔖 Próximo {#proximo}
-ações contrárias a si mesmo e ao – [Q.919a](#q919a)
-caridade e – [Q.770a](#q770a), [Q.903](#q903)
+
 
 ##### 📑 Q
 
@@ -21034,7 +21130,7 @@ manifestação de – [Q.488a](#q488a)
 marcas de civilização perfeita e – [Q.793](#q793)
 pais, filhos, amigos e – [Q.285](#q285)
 
-###### 🔖 Recordação ver Lembrança {#recordacao-ver-lembranca}
+###### 🔖 Recordação *ver* Lembrança
 
 ###### 🔖 Reencarnação {#reencarnacao}
 – [Q.166](#q166) a [Q.170](#q170)
@@ -21135,6 +21231,10 @@ legislação e fatores influentes para – [Q.797](#q797)
 exame da própria individualidade e – [Q.919a](#q919a)
 imperfeições e – [Q.14](#q14)
 influenciação perniciosa e – [Q.122b](#q122b)
+
+###### 🆕 Regeneração {}
+destruição e – 729
+nova era para – proleg
 
 ###### 🔖 Regulamento {#regulamento}
 trabalho e – [Q.683](#q683)
@@ -21317,7 +21417,7 @@ escolha de local de – [Q.325](#q325)
 funeral e – [Q.327](#q327)
 presença de desencarnado em – [Q.327](#q327)
 
-###### 🔖 Ser humano ver Homem {#ser-humano-ver-homem}
+###### 🔖 Ser humano *ver* Homem
 
 ###### 🔖 Seres inorgânicos {#seres-inorganicos}
 seres vivos e – [Q.585](#q585)
@@ -21337,6 +21437,68 @@ princípio inteligente e – [Q.611](#q611)
 reprodução dos – [Q.686](#q686)
 seres inorgânicos e – [Q.585](#q585)
 vida material e – [Intro 02](#0-04-02)
+
+###### 🆕 Seriedade {}
+estudo do Espiritismo com – introd., VIII
+
+###### 🆕 Sexo {}
+espíritos e – 200-202
+nos espíritos – 200
+reencarnação e – 201
+
+###### 🆕 Sexos {}
+encarnação e – 822a
+união dos – 700
+
+###### 🆕 Silêncio {}
+sociedade e – 772
+utilidade do – 772
+
+###### 🆕 Símbolo {}
+desenho da cepa pelos espíritos e 
+representação de – proleg.
+representação do Espírito por 
+cor, alegoria e – 88a
+
+###### 🆕 Simpatia {}
+antipatia e – 293
+aparentemente estranhos e – 204
+companhia dos espíritos e – 513a
+convivência e – 940
+espíritos da mesma ordem e – 980
+espíritos e – 387
+gradações na – 514
+individualidade do Espírito e – 301
+lembrança de atos maus e – 294
+magnetismo e – 388
+predicados necessários à existência de – 302
+promoção da – 303
+próximo e – 303a
+
+###### 🆕 Simplicidade {}
+preferência pela – 673
+
+###### 🆕 Sinceridade {}
+adoração com – 654
+
+###### 🆕 Sintonia {}
+faixas inferiores e – 402
+tendências humanas e – 518
+
+###### 🆕 Sistema {}
+antirreencarnacionista – 789
+indagações e busca de respostas 
+pela construção de – 613
+passagem do Espírito pela 
+fieira animal e – 613
+planetário e a Terra – 188
+
+###### 🆕 Sobrenatural {}
+Espiritismo e o – concl., II
+religião e o – concl., II
+
+###### 🆕 Sobrevivência {}
+probabilidades de – 34
 
 ###### 🔖 Sociedade {#sociedade}
 casamento e – [Q.696](#q696)
@@ -21394,13 +21556,13 @@ voluntário – [Q.727](#q727)
 ###### 🔖 Sol {#sol}
 ser humano e direito de lugar ao – [Q.707](#q707)
 
-###### 🔖 Solidariedade {#solidariedade}
-caridade e – [Q.805](#q805)
-conceito de – [Q.916](#q916)
-egoísmo e – [Q.915](#q915)
-Espiritismo e pregação da – [Q.799](#q799)
-isenção do trabalho e – [Q.679](#q679)
-mundos e – [Q.804](#q804)
+###### 🆕 Solidariedade {}
+caridade e – 805
+conceito de – 916
+egoísmo e – 915
+Espiritismo e pregação da – 799
+isenção do trabalho e – 679
+mundos e – 804
 
 ###### 🔖 Som {#som}
 percepção do – [Q.249](#q249)
@@ -21442,12 +21604,85 @@ influência do – [Q.402](#q402)
 relacionamento com espíritos e – [Q.401](#q401)
 sonho – [Q.400](#q400) a [Q.412](#q412)
 
+###### 🆕 Sorte {}
+gênero de prova com rótulo de – 864
+
+###### 🆕 Submissão {}
+costumes sociais e consequências de – 863
+leis divinas e – 725
+
+###### 🆕 Substância {}
+sentidos e – 32
+
+###### 🆕 Sugestão {}
+pensamento e – 461
+pensamento próprio e – 460
+
+###### 🆕 Suicídio {}
+antagonismo das leis da natureza e – 957
+assassinato e – 758a
+busca de uma vida melhor e  – 950
+causa de – 350
+causas da loucura e – introd., XV
+consequências do – 953b, 957
+culpa e – 947, 952a
+deixar-se morrer de fome e – 947
+desespero e – 952a
+desgosto pela vida e – 945
+dever e – 955
+direito de cometer o – 944
+duelo e – 758
+efeitos comuns nos casos de – 957
+eutanásia e – 953
+falta e – 948
+família e – 949
+fuga pelo – 946
+indireto – 952
+induzir ao – 946a
+instinto de conservação e – 944
+intenção e – 949
+interrupção da vida e 
+consequências do – 950
+ligação do Espírito ao cadáver no – 957
+loucura e – 376, 944a
+má ação e – 948
+moral – 952
+morte inevitável e – 953, 953a
+orgulho e – 947, 951
+perda de entes queridos e – 956
+perturbação espiritual e – 957
+punição pelo – 952a
+responsabilidade e – 943
+sacrifício e – 951
+salvar outra vida e – 951
+segundo o Espiritismo – 957
+sofrimento e – 946
+vergonha e – 948, 949
+vício e – 952
+voluntário e loucura – 944a
+
+###### 🆕 Supérfluo {}
+ambição e – 717
+necessário e – 704, 92
+
+###### 🆕 Superior {}
+dependência do Espírito, reencarnado 
+ou na erraticidade, a – 888a
+inferior e – 277
+
+###### 🆕 Superioridade {}
+autoridade e – 274a
+
+###### 🆕 Superstição {}
+alegorias e – 867
+utilização do necessário e – 736
+
 ##### 📑 T
 
 ###### 🔖 Talismã {#talisma}
 feiticeiro e – [Q.554](#q554)
 
-###### 🔖 Temor ver Medo {#temor-ver-medo}
+###### 🔖 Temor *ver* Medo
 
 ###### 🔖 Tempo {#tempo}
 espíritos e compreensão do – [Q.240](#q240)

@@ -122,6 +122,19 @@ Parallel track to the content work: faithfully recreate the soul of the original
 **Next immediate actions (as of this writing):**  
 Continue the manual H6 letter audit in LDE (D+), resolve the 16 NEW C items, then expand the same discipline to the other four books while the 11ty interface layer matures in parallel.
 
+### Future Improvement: Short Machine Codex (3-5 char alphanumeric)
+
+**Idea**: Introduce a parallel ultra-compact codex (mixed-case alphanum, 3-5 chars) for internal/machine use (data layer, 11ty collections, future graph DB, compact cross-refs) while keeping all human-readable anchors (`q847`, `1-03-05`, `lde-1-01`) for source and reader UI.
+
+**Proposed schemes** (documented for later implementation):
+- Option A (recommended for atomic): `L847` style → `LNp`, `MCS`, `ECd`, `CD9`, `GBb` (BookLetter + Base62 number). 3-4 chars.
+- Option B: Packed hierarchical Base62 (e.g. `0axX` for LDE 1-03-05).
+- Option C: Deterministic 4-5 char short hash of stable path/title for maximum stability.
+
+**Rationale**: Current human codex is excellent for study fidelity. A second short layer enables clean internals without polluting Markdown or reader experience. Can be auto-generated at build time and stored in sidecar JSON or heading frontmatter.
+
+This was explored in detail May 2026. Implementation deferred until after core content fidelity and basic 4-col 11ty demo.
+
 ---
 
 ## Codex Schema Evolution & Stress Test (May 2026 Analysis)

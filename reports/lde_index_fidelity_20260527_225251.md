@@ -1,0 +1,153 @@
+# LDE Índice Geral Fidelity Report
+
+Generated: 2026-05-27T22:52:51.153202
+
+- PDF main terms extracted: 363
+- MD H6 terms: 637
+- Overlap: 305
+- Missing in MD: 58
+- Extra in MD: 332
+
+## Terms in PDF index but not matched in MD (sample)
+
+- A gênese
+- Alcorão – concl., VIII
+- Allan Kardec e – proleg
+- Allan Kardec na
+- Assim, aquela palavra não representa uma opinião: é um Proteu
+- Canibais
+- Caráter
+- Censura
+- Centros de força
+- Cepa
+- Ciência espírita – introd., XVII
+- Comunicabilidade dos espíritos –
+- Culpa
+- Culpado
+- Cura
+- Da intervenção dos Espíritos
+- Da pluralidade das existências
+- Da volta do Espírito, extinta a
+- Decálogo – concl.,  VIII
+- Doença
+- Eles responderam
+- Espiritismo e  – concl., VIII
+- Espiritismo e seriedade no – introd., VIII
+- Espiritismo e – introd., I
+- Espírito Santo Agostinho
+- Espírito bom e –
+- Espírito encarnado no corpo
+- Espírito mau e –
+- Espíritos
+- Espíritos estúrdios ou levianos
+- Espíritos, seus verdadeiros autores
+- Humanidade? Eis outras questões que decorrem da anterior
+- Influência oculta dos Espíritos em nossos pensamentos e atos
+- Livro dos espíritos (O)
+- Materialismo –
+- Mundo físico
+- Obras póstumas
+- Ora, não há duas maneiras de fazê-lo.”
+- Planetas
+- Plano espiritual
+- Recordação
+- Resumo teórico do sonambulismo, do êxtase e da dupla vista
+- Ser humano
+- Sinceridade
+- Sintonia
+- Sistema
+- Sobrenatural
+- Sobrevivência
+- Sorte
+- Submissão
+- Substância
+- Sugestão
+- Suicídio
+- Superioridade
+- Superstição
+- Temor
+- Trasgo –
+- Uma vez aberto, esse caminho conduziu a um campo totalmente novo
+
+## Terms in MD but not matched in PDF index (sample)
+
+- Adolescência
+- Adoração
+- Afeição
+- Afinidade
+- Aflição
+- Agostinho, Santo
+- Alcorão
+- Ambiente
+- Ambição
+- Antepassados
+- Antiguidade
+- Antipatia
+- Antropofagia
+- Apego
+- Aperfeiçoamento
+- Aposentadoria
+- Aptidão
+- Arrependimento
+- Autor
+- Autoridade
+- Avaliação
+- Avareza
+- Batista, João
+- Bem
+- Caridade
+- Civilização
+- Ciência espírita
+- Ciúme
+- Clarividência
+- Classificação
+- Clausura
+- Colônia
+- Combate
+- Combates
+- Cometa
+- Começo dos tempos
+- Comunicabilidade dos espíritos
+- Consciência
+- Conselho
+- Conservação
+- Consolação
+- Contradição
+- Convenção
+- Convivência
+- Convulsionários
+- Coração
+- Cordão fluídico
+- Corpo
+- Criança
+- Criatura
+- Crime
+- Criminalidade
+- Criminoso
+- Cristianismo
+- Cristo
+- Crueldade
+- Crítica
+- Decálogo
+- Desencarnado
+- Desenvolvimento
+- Desequilíbrio
+- Desespero
+- Desigualdades
+- Desigualdades sociais
+- Desmaterialização
+- Despertamento
+- Dever
+- Diabrete
+- Dificuldade
+- Dignidade
+- Dilúvio
+- Dinheiro
+- Direito
+- Doença ver Enfermidade
+- Duende
+- Dupla vista
+- Eclesiastes
+- Economia
+- Educação
+- Efeitos inteligentes
