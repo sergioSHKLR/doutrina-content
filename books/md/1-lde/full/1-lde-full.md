@@ -127,7 +127,6 @@ eleventyNavigation:
 - [ ] Shared content includes (`<!-- INSERT_SHARED:... -->`) are correct
 - [ ] File builds cleanly in Eleventy (no major warnings)
 - [ ] No obvious formatting artifacts from PDF migration remaining
-
 ---
 
 # ✨ *O Livro dos Espíritos* {#lde}
@@ -674,10 +673,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 - 🔖 [Deus](#deus)
 - 🔖 [Espiritismo](#espiritismo)
 - 🔖 [Espírito/s](#espirito/s)
-:::
-
-
-## 1. 🗃️ Causas primárias {#1}
+:::## 1. 🗃️ Causas primárias {#1}
 
 ### 1.01. 🗂️ Deus {#1-01}
 
