@@ -117,7 +117,11 @@ def analyze_file(md_path: Path, book_code: str):
         hashes = heading_match.group(1)
         level = len(hashes)
         raw_text = heading_match.group(2).strip()
+<<<<<<< HEAD
         clean_text = re.sub(r'^[🔖📑🗓️🔂#️️\s]+', '', raw_text).strip()
+=======
+        clean_text = re.sub(r'^[🔖📑🗃️🗂️#️⃣\s]+', '', raw_text).strip()
+>>>>>>> c33522679f2cb06e1940d06b2da1180b03c1448c
 
         if level > current_level + 1:
             issues["ERROR"].append(f"Line {i:5d}: Heading level jump H{current_level} → H{level} ({clean_text[:60]})")

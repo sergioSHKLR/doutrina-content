@@ -1,15 +1,19 @@
 # Estilo de Marcação para a Coleção Digital Espírita (dc)
+<<<<<<< HEAD
 **Versão 1.3** — Atualizado em 28 de Maio de 2026
+=======
+**Versão 1.3** — 27 de Maio de 2026
+>>>>>>> c33522679f2cb06e1940d06b2da1180b03c1448c
 
 ### 1. Princípios Gerais
 - h1 = Título completo do livro
 - h2 = Partes / Pré-textual / Pós-textual
 - h3 = Capítulos
-- h4 = Seções / Tópicos principais
+- h4 = Seções / Tópicos principais (agrupamentos)
 - **h5 = Unidade principal de conteúdo** (Questões no LDE, parágrafos numerados, itens principais)
 - **h6 = Termos de Índice / Referências Cruzadas** (exclusivo para Índice Geral)
 
-### 2. Hierarquia por Livro (Atualizado)
+### 2. Hierarquia por Livro
 
 **LDE – O Livro dos Espíritos**
 - H5 = Questões (Q.1 a Q.1019)
@@ -17,13 +21,11 @@
 
 **LDM, ESE, CEU, GEN**
 - H5 = Parágrafos / Itens principais
-- H6 = Índice (atualmente em placeholder A–Z — será expandido)
+- H6 = Índice (placeholder até expansão completa)
 
-### 3. Regras Específicas
-- Apenas **LDE** deve ter alto número de H6 atualmente.
-- Outros livros devem manter H6 = ~25 (placeholders) até o índice completo ser construído.
-- Não usar H6 fora da seção **Índice Geral** do Pós-textual.
+### 3. Prefixos de Âncoras para Referências Cruzadas
 
+<<<<<<< HEAD
 ### 4. Prefixos de Âncoras para Referências Cruzadas
 
 Para links **entre livros**, use os seguintes prefixos:
@@ -37,29 +39,36 @@ Para links **entre livros**, use os seguintes prefixos:
 Veja o documento completo de convenções em [cross-reference.md](./cross-reference.md), incluindo a **regra oficial de normalização** de âncoras para termos do Índice Geral.
 
 ---
+=======
+Os prefixos abaixo são usados **principalmente para links entre livros**. Para links internos ao mesmo livro, prefere-se a forma curta (ver seção de convenções de links).
+>>>>>>> c33522679f2cb06e1940d06b2da1180b03c1448c
 
-Detailed Rationale (from PDF Índice Geral)
-LDE — Already optimal (QXXXX)
+- **LDE**: `lde-q`
+- **LDM**: `ldm-m` (m = médiuns)
+- **ESE**: `ese-e`
+- **CEU**: `ceu-c`
+- **GEN**: `gen-g`
 
-Index is extremely detailed by question number.
-H5 = individual questions is the natural lowest unit.
+Exemplos de âncoras completas para cross-book:
+- `lde-q-847`
+- `ldm-m-142`
+- `ese-e-153`
+- `ceu-c-247`
+- `gen-g-089`
 
-LDM — PXXX is excellent
+### 4. Numeração e Romanos
 
-Index references paragraphs directly (e.g. §142).
-Clear sequential numbering.
+- Substituímos algarismos romanos por arábicos em todo o conteúdo e índices, **exceto** em títulos pessoais/históricos (ex: "São Luís, IX de França" mantém o IX).
+- O método de endereçamento do Índice Geral original determina diretamente como criamos as âncoras (ver cross-reference.md).
 
-ESE — IXXX (Item) is the best simplification
+### 5. Âncoras nos Termos do Índice Geral (H6)
 
-The PDF index references items numerically across chapters (e.g., "XIII, 6", "XXVIII, 45").
-Using I153 is much cleaner than chapter-item pairs.
+Cada termo principal do Índice Geral (H6) recebe uma âncora baseada na palavra principal, sem diacríticos e em minúsculas:
 
-CEU — EXXX (Example) fits perfectly
+- `Aberração` → `{#aberracao}`
+- `Ação` → `{#acao}`
+- `Além-túmulo` → `{#alem-tumulo}`
+- `Agostinho, Santo` → `{#agostinho-santo}`
+- `Allan Kardec` → `{#allan-kardec}`
 
-The second part is dominated by examples of spirits (happy, suffering, suicides, etc.).
-The index lists them as individual cases → E247 makes sense.
-
-GEN — SXXX (Section) is the most practical
-
-The index refers to numbered sections within chapters (scientific and doctrinal items).
-S089 is short and sufficient.
+Ver documento completo em [cross-reference.md](./cross-reference.md).
