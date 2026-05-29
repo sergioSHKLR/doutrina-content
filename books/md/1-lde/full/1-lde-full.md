@@ -118,7 +118,7 @@ eleventyNavigation:
 
 - [ ] All H6 terms in the Índice Geral have proper anchors
 - [ ] Links from the Índice Geral point to correct H5/H4 targets
-- [ ] No broken internal links within the index section
+- [x] No broken internal links within the index section
 - [ ] Cross-references inside the index are accurate and useful
 
 ### 5. General Document Health
@@ -135,6 +135,23 @@ eleventyNavigation:
 
 ### 0.00. ⚖️ Avisos Legais {#0-00}
 <!-- INSERT_SHARED:avisos-legais.md -->
+<!-- START_SHARED -->
+
+::: center
+**Edição Digital Educacional • Domínio Público**
+
+Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
+
+A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943)  
+encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
+nos termos da Lei nº 9.610/1998.
+
+Todos os direitos da edição impressa pertencem à Federação Espírita Brasileira (FEB)
+
+Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
+:::
+
+<!-- END_SHARED -->
 ### 0.01. 📄 Folha de rosto {#0-01}
 
 ::: center
@@ -223,7 +240,7 @@ entre outros.**
 - 🔖 [Efeitos inteligentes](#efeitos-inteligentes)
 - 🔖 [Espiritismo](#espiritismo)
 - 🔖 [Espírito de Verdade](#espirito-de-verdade)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Filosofia](#filosofia)
 - 🔖 [Humildade](#humildade)
 - 🔖 [Livro dos Espíritos](#livro-dos-espiritos)
@@ -346,7 +363,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 ::: expand 📑 Termos relacionados
 - 🔖 [Ação](#acao)
 - 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Fenômeno](#fenomeno)
 - 🔖 [Força](#forca)
 - 🔖 [Identificação](#identificacao)
@@ -373,7 +390,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 ::: expand 📑 Termos relacionados
 - 🔖 [Efeitos inteligentes](#efeitos-inteligentes)
 - 🔖 [Escrita](#escrita)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Mediunidade](#mediunidade)
 - 🔖 [Médium](#medium)
 - 🔖 [Resposta](#resposta)
@@ -526,7 +543,7 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Demônio](#demonio)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Fenômeno espírita](#fenomeno-espirita)
 - 🔖 [Julgamento](#julgamento)
 - 🔖 [Mundo espiritual](#mundo-espiritual)
@@ -571,7 +588,7 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Desmaterialização](#desmaterializacao)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Família](#familia)
 - 🔖 [Identidade](#identidade)
 - 🔖 [Identificação](#identificacao)
@@ -595,7 +612,7 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 - 🔖 [Contradição](#contradicao)
 - 🔖 [Convenção](#convencao)
 - 🔖 [Espiritismo](#espiritismo)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Linguagem](#linguagem)
 :::
 
@@ -672,8 +689,12 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 ::: expand 📑 Termos relacionados
 - 🔖 [Deus](#deus)
 - 🔖 [Espiritismo](#espiritismo)
-- 🔖 [Espírito/s](#espirito/s)
-:::## 1. 🗃️ Causas primárias {#1}
+- 🔖 [Espírito(s)](#espiritos)
+
+
+<!-- PART_BREAK -->
+
+## 1. 🗃️ Causas primárias {#1}
 
 ### 1.01. 🗂️ Deus {#1-01}
 
@@ -1023,7 +1044,7 @@ Que é o espírito?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.23.a {#q23a}
@@ -1047,7 +1068,7 @@ Qual a natureza íntima do espírito?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Inteligência](#inteligencia)
 :::
 
@@ -1060,7 +1081,7 @@ O espírito independe da matéria, ou é apenas uma propriedade desta, como as c
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Matéria](#materia)
 :::
 
@@ -1097,7 +1118,7 @@ Há então dois elementos gerais do Universo: a matéria e o espírito?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Fluido universal](#fluido-universal)
 - 🔖 [Matéria](#materia)
 - 🔖 [Pensamento](#pensamento)
@@ -1877,6 +1898,10 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 :::
 
 
+
+
+<!-- PART_BREAK -->
+
 ## 2. 🗃️ Mundo espiritual {#2}
 
 ### 2.01. 🗂️ Espíritos {#2-01}
@@ -1903,7 +1928,7 @@ Os Espíritos são seres distintos da Divindade ou serão simples emanações ou
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Deus](#deus)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.78 {#q78}
@@ -1915,7 +1940,7 @@ Os Espíritos tiveram princípio ou existem, como Deus, de toda a eternidade?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Mistério](#misterio)
 - 🔖 [Trabalho](#trabalho)
 :::
@@ -1955,7 +1980,7 @@ Os Espíritos se formam espontaneamente ou procedem uns dos outros?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.82 {#q82}
@@ -1971,7 +1996,7 @@ Será certo dizer-se que os Espíritos são imateriais?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.83 {#q83}
@@ -1983,7 +2008,7 @@ Os Espíritos têm fim? Compreende-se que seja eterno o princípio donde eles em
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Imortalidade](#imortalidade)
 :::
 
@@ -2083,7 +2108,7 @@ O pensamento não é a própria alma que se transporta?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Alma](#alma)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Pensamento](#pensamento)
 :::
 
@@ -2096,7 +2121,7 @@ O Espírito que se transporta de um lugar a outro tem consciência da distância
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.91 {#q91}
@@ -2122,7 +2147,7 @@ Têm os Espíritos o dom da ubiquidade? Por outras palavras: um Espírito pode d
 ↩️ Voltar para [Q.247](#q247)
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Ubiquidade](#ubiquidade)
 :::
 
@@ -2212,7 +2237,7 @@ As ordens ou graus de perfeição dos Espíritos são em número determinado?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Classificação](#classificacao)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Hierarquia](#hierarquia)
 :::
 
@@ -2238,7 +2263,7 @@ Os da terceira ordem são todos essencialmente maus?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Espírito imperfeito](#espirito-imperfeito)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 #### 2.01.06. 📄 Escala espírita {#2-01-06}
@@ -2451,7 +2476,7 @@ Dos Espíritos, uns terão sido criados bons e outros maus?
 ::: expand 📑 Termos relacionados
 - 🔖 [Criação](#criacao)
 - 🔖 [Deus](#deus)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Perfeição](#perfeicao)
 :::
 
@@ -2513,7 +2538,7 @@ Não podia Deus isentar os Espíritos das provas que lhes cumpre sofrer para che
 ↩️ Voltar para [Q.871](#q871)
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Perfeição](#perfeicao)
 - 🔖 [Vida espiritual](#vida-espiritual)
 :::
@@ -2650,7 +2675,7 @@ Os Espíritos são criados iguais quanto às faculdades intelectuais?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Criação](#criacao)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Perfeição](#perfeicao)
 :::
 
@@ -2899,7 +2924,7 @@ Um Espírito pode encarnar a um tempo em dois corpos diferentes?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Encarnação](#encarnacao)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.138 {#q138}
@@ -3812,7 +3837,7 @@ Haverá mundos em que o Espírito, deixando de revestir corpos materiais, só te
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Perispírito](#perispirito)
 :::
 
@@ -3909,7 +3934,7 @@ Então, as paixões são um sinal de desenvolvimento?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Evolução](#evolucao)
 - 🔖 [Paixão](#paixao)
 - 🔖 [Vida](#vida)
@@ -3956,7 +3981,7 @@ Pode um homem, nas suas novas existências, descer mais baixo do que esteja na a
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Reencarnação](#reencarnacao)
 :::
 
@@ -3969,7 +3994,7 @@ Pode um homem, nas suas novas existências, descer mais baixo do que esteja na a
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Reencarnação](#reencarnacao)
 :::
 
@@ -3987,7 +4012,7 @@ A alma de um homem perverso pode tornar-se a de um homem de bem?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Arrependimento](#arrependimento)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Homem](#homem)
 - 🔖 [Reencarnação](#reencarnacao)
 :::
@@ -4036,7 +4061,7 @@ Não podendo os Espíritos aperfeiçoar-se, a não ser por meio das tribulaçõe
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Corpo físico](#corpo-fisico)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 #### 2.04.05. 📄 Sorte das crianças depois da morte {#2-04-05}
@@ -4384,7 +4409,7 @@ Não é, então, quimérica a teoria das ideias inatas?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Ideias inatas](#ideias-inatas)
 - 🔖 [Teoria](#teoria)
 :::
@@ -4899,7 +4924,7 @@ A duração, os Espíritos a compreendem como nós?
 ↩️ Voltar para [Q.1005](#q1005)
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Tempo](#tempo)
 :::
 
@@ -4999,7 +5024,7 @@ O Espírito tem circunscrita a visão como os seres corpóreos?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Visão](#visao)
 :::
 
@@ -5012,7 +5037,7 @@ Precisam da luz para ver?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Percepção](#percepcao)
 :::
 
@@ -5045,7 +5070,7 @@ O Espírito vê as coisas tão distintamente como nós?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.249 {#q249}
@@ -5069,7 +5094,7 @@ No Espírito, a faculdade de ouvir está em todo ele, como a de ver?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.250 {#q250}
@@ -5120,7 +5145,7 @@ Os Espíritos experimentam as nossas necessidades e sofrimentos físicos?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Sofrimento](#sofrimento)
 :::
 
@@ -5133,7 +5158,7 @@ E a fadiga, a necessidade de repouso, experimentam-nas?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Repouso](#repouso)
 :::
 
@@ -5146,7 +5171,7 @@ Quando um Espírito diz que sofre, de que natureza é o seu sofrimento?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Sofrimento](#sofrimento)
 :::
 
@@ -5370,7 +5395,7 @@ Dizem todos os Espíritos que, na erraticidade, eles se aplicam a pesquisar, est
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Escolha](#escolha)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Homem](#homem)
 - 🔖 [Livre-arbítrio](#livre-arbitrio)
 - 🔖 [Matéria](#materia)
@@ -5837,7 +5862,7 @@ Em que sentido se deve entender a palavra *metade*, de que alguns Espíritos se 
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.300 {#q300}
@@ -5952,7 +5977,7 @@ Entrevê o Espírito o objetivo da vida terrestre com relação à vida futura?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Vida terrena](#vida-terrena)
 :::
 
@@ -5991,7 +6016,7 @@ Como considera o Espírito o corpo de que vem de separar-se?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Corpo físico](#corpo-fisico)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.309.a {#q309a}
@@ -6004,7 +6029,7 @@ Que sensação lhe causa o espetáculo do seu corpo em decomposição?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Corpo físico](#corpo-fisico)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.310 {#q310}
@@ -6028,7 +6053,7 @@ A veneração que se tenha pelos objetos materiais que pertenceram ao Espírito 
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.312 {#q312}
@@ -6094,7 +6119,7 @@ No além, o Espírito se interessa pelos trabalhos que se executam na Terra, pel
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.317 {#q317}
@@ -6110,7 +6135,7 @@ Após a morte, conservam os Espíritos o amor da pátria?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Evolução](#evolucao)
 - 🔖 [Nação](#nacao)
 - 🔖 [Povoamento](#povoamento)
@@ -6171,7 +6196,7 @@ O dia da comemoração dos mortos é, para os Espíritos, mais solene do que os 
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Finados](#finados)
 :::
 
@@ -6356,7 +6381,7 @@ Todos os Espíritos se preocupam com a sua reencarnação?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Reencarnação](#reencarnacao)
 :::
 
@@ -6516,7 +6541,7 @@ No momento de reencarnar, o Espírito se acha acompanhado de outros Espíritos s
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Plano físico](#plano-fisico)
 :::
 
@@ -6553,7 +6578,7 @@ Em que momento a alma se une ao corpo?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Concepção](#concepcao)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Vontade](#vontade)
 :::
 
@@ -6602,7 +6627,7 @@ Sabe o Espírito, previamente, que o corpo de sua escolha não tem probabilidade
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.349 {#q349}
@@ -6665,7 +6690,7 @@ Não sendo completa a união do Espírito ao corpo, não estando definitivamente
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Feto](#feto)
 :::
 
@@ -6703,7 +6728,7 @@ Entre os natimortos alguns haverá que não tenham sido destinados à encarnaç�
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Natimorto](#natimorto)
 :::
 
@@ -6844,7 +6869,7 @@ O mesmo Espírito dá ao homem as qualidades morais e as da inteligência?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Evolução](#evolucao)
 :::
 
@@ -6923,7 +6948,7 @@ Assim, o invólucro material é obstáculo à livre manifestação das faculdade
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Matéria](#materia)
 :::
 
@@ -6950,7 +6975,7 @@ Da influência dos órgãos se pode inferir a existência de uma relação entre
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Cérebro](#cerebro)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Influência](#influencia)
 :::
 
@@ -6968,7 +6993,7 @@ Dever-se-á deduzir daí que a diversidade das aptidões entre os homens deriva 
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Aptidão](#aptidao)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 #### 2.07.05. 📄 Idiotismo, loucura {#2-07-05}
@@ -7069,7 +7094,7 @@ Qual, na loucura, a situação do Espírito?
 ::: expand 📑 Termos relacionados
 - 🔖 [Cérebro](#cerebro)
 - 🔖 [Doença mental](#doenca-mental)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Loucura](#loucura)
 :::
 
@@ -7083,7 +7108,7 @@ Então, o desorganizado é sempre o corpo e não o Espírito?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Ação](#acao)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Matéria](#materia)
 :::
 
@@ -7267,7 +7292,7 @@ A simpatia tem sempre por princípio um anterior conhecimento?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.388 {#q388}
@@ -7547,7 +7572,7 @@ Por que não nos lembramos sempre dos sonhos?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.404 {#q404}
@@ -7622,7 +7647,7 @@ Doutras vezes, num estado que ainda não é bem o do adormecimento, estando com 
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Fenômeno mediúnico](#fenomeno-mediunico)
 - 🔖 [Mediunidade](#mediunidade)
 :::
@@ -7674,7 +7699,7 @@ Pode a atividade do Espírito, durante o repouso, ou o sono corporal, fatigar o 
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Sono](#sono)
 :::
 
@@ -7908,7 +7933,7 @@ Como pode o sonâmbulo ver através dos corpos opacos?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Visão](#visao)
 :::
 
@@ -8750,7 +8775,7 @@ Os Espíritos se afeiçoam de preferência a certas pessoas?
 ::: expand 📑 Termos relacionados
 - 🔖 [Afeição](#afeicao)
 - 🔖 [Amor](#amor)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.486 {#q486}
@@ -9396,7 +9421,7 @@ Tendo, como têm, ação sobre a matéria, podem os Espíritos provocar certos e
 ↩️ Voltar para [Q.855](#q855)
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Lei divina](#lei-divina)
 :::
 
@@ -9409,7 +9434,7 @@ Tomemos outro exemplo, em que não entre a matéria em seu estado natural. Um ho
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.528 {#q528}
@@ -9518,7 +9543,7 @@ Sabei ainda que nem sempre é um mal o que vos parece sê-lo. Frequentemente, do
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Conhecimento](#conhecimento)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.533 {#q533}
@@ -9703,7 +9728,7 @@ Os Espíritos que exercem ação nos fenônemo da Natureza operam com conhecimen
 ↩️ Voltar para [Q.559](#q559)
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Mundo espiritual](#mundo-espiritual)
 :::
 
@@ -10668,7 +10693,7 @@ Sobrevivendo ao corpo em que habitou, a alma do animal vem a achar-se, depois da
 - 🔖 [Alma](#alma)
 - 🔖 [Animais](#animais)
 - 🔖 [Espírito errante](#espirito-errante)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.601 {#q601}
@@ -10767,7 +10792,7 @@ De modo que, além de suas próprias imperfeições de que cumpre ao Espírito d
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Homem](#homem)
 - 🔖 [Matéria](#materia)
 :::
@@ -10818,7 +10843,7 @@ Parece que, assim, se pode considerar a alma como tendo sido o princípio inteli
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Harmonia](#harmonia)
 - 🔖 [Homem](#homem)
 - 🔖 [Natureza](#natureza)
@@ -10836,7 +10861,7 @@ Esse período de humanização principia na Terra?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Humanização](#humanizacao)
 - 🔖 [Terra](#terra)
 :::
@@ -10850,7 +10875,7 @@ O Espírito do homem tem, após a morte, consciência de suas existências anter
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.609 {#q609}
@@ -10934,12 +10959,16 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 - 🔖 [Alma](#alma)
 - 🔖 [Crença](#crenca)
 - 🔖 [Criação](#criacao)
-- 🔖 [Espírito/s](#espirito/s)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Perguntas](#perguntas)
 - 🔖 [Reencarnação](#reencarnacao)
 :::
 
+
+
+
+<!-- PART_BREAK -->
 
 ## 3. 🗃️ Leis morais {#3}
 
@@ -12813,7 +12842,7 @@ Durante a vida, o homem tudo refere ao seu corpo; entretanto, de maneira diversa
 ::: expand 📑 Termos relacionados
 - 🔖 [Calamidades](#calamidades)
 - 🔖 [Corpo](#corpo)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Eternidade](#eternidade)
 - 🔖 [Morte](#morte)
 - 🔖 [Sofrimento](#sofrimento)
@@ -13041,7 +13070,7 @@ Por que razão a crueldade forma o caráter predominante dos povos primitivos?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Crueldade](#crueldade)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Instinto](#instinto)
 :::
 
@@ -13453,7 +13482,7 @@ Pode o homem retrogradar para o estado de natureza?
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Destino](#destino)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Estado de natureza](#estado-de-natureza)
 :::
 
@@ -13576,7 +13605,7 @@ Bastante grande é a perversidade do homem. Não parece que, pelo menos do ponto
 ↩️ Voltar para [Q.917](#q917)
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Mal](#mal)
 :::
 
@@ -13948,7 +13977,7 @@ Passando de um mundo superior a outro inferior, conserva o Espírito, integralme
 ::: expand 📑 Termos relacionados
 - 🔖 [Aptidão](#aptidao)
 - 🔖 [Criação](#criacao)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Mundos](#mundos)
 - 🔖 [Solidariedade](#solidariedade)
 :::
@@ -15792,6 +15821,10 @@ Formulai, pois, de vós para convosco, questões nítidas e precisas e não tema
 :::
 
 
+
+
+<!-- PART_BREAK -->
+
 ## 4. 🗃️ Esperanças e Consolações {#4}
 
 ### 4.01. 🗂️ Penas e felicidades materiais {#4-01}
@@ -16060,7 +16093,7 @@ Que se deve pensar da opinião dos que consideram profanação as comunicações
 ::: expand 📑 Termos relacionados
 - 🔖 [Além-túmulo](#alem-tumulo)
 - 🔖 [Comunicabilidade dos espíritos](#comunicabilidade-dos-espiritos)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 :::
 
 ##### #️⃣ Q.936 {#q936}
@@ -16664,7 +16697,7 @@ Em que consistem os sofrimentos dos Espíritos inferiores?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Influenciação](#influenciacao)
 :::
 
@@ -16959,7 +16992,7 @@ Pode o Espírito, que progrediu em sua existência terrena, reencarnar alguma ve
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Espírito puro](#espirito-puro)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Mundos evoluídos](#mundos-evoluidos)
 - 🔖 [Reencarnação](#reencarnacao)
 :::
@@ -17078,7 +17111,7 @@ Haverá Espíritos que, sem serem maus, se conservem indiferentes à sua sorte?
 :::
 
 ::: expand 📑 Termos relacionados
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Progresso](#progresso)
 :::
 
@@ -17509,6 +17542,10 @@ Todos vós, homens de fé e de boa vontade, trabalhai, portanto, com ânimo e ze
 :::
 
 
+
+
+<!-- PART_BREAK -->
+
 ## 5. 🗃️ Conclusão {#5}
 
 ### Conclusão {#5-01}
@@ -17522,7 +17559,7 @@ Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imanta
 
 ::: expand 📑 Termos relacionados
 - 🔖 [Bem](#bem)
-- 🔖 [Espírito/s](#espirito/s)
+- 🔖 [Espírito(s)](#espiritos)
 - 🔖 [Humanidade](#humanidade)
 - 🔖 [Luís (São)](#luis-sao)
 - 🔖 [Paraíso](#paraiso)
@@ -17698,10 +17735,126 @@ Esta edição é oferecida gratuitamente para fins de estudo e divulgação da D
 *Tradução de Guillon Ribeiro • doutrina.org — Maio de 2025*
 :::
 
+
+
+<!-- PART_BREAK -->
+
+
 ## 6. 🗃️ Pós-textual {#6}
 
 ### 6.01. 📄 Nota explicativa {#6-01} [^27]
 <!-- INSERT_SHARED:nota-explicativa.md -->
+<!-- START_SHARED -->
+
+::: kardec
+👴🏻 — Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
+
+📓 *Revista Espírita*, Janeiro, 1868
+:::
+
+A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
+
+A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
+
+1. ✨ *O Livro dos Espíritos* (1857),
+2. ✒️ *O Livro dos Médiuns* (1861),
+3. 🕊️ *O Evangelho segundo o Espiritismo* (1864),
+4. 🔥 *O Céu e o Inferno* (1865),
+5. 🌱 *A Gênese* (1868),
+
+além da obra 🔍 *O Que é o Espiritismo* (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 *Obras Póstumas* (1890).
+
+O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
+
+1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
+2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
+3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
+4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
+
+Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
+
+Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de ✨ *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
+
+O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
+
+Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite
+
+::: kardec
+👴🏻 — … resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc.
+
+📓 *Revista Espírita*, Outubro, 1862
+:::
+
+De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
+
+Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
+
+::: spirit
+✨ — O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
+
+✨ *O Livro dos Espíritos*, Q.207
+:::
+
+::: kardec
+👴🏻 — … o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor.
+
+📓 *Revista Espírita*, Outubro, 1861
+:::
+
+::: kardec
+👴🏻 — Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes.
+
+Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo.
+
+Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes.
+
+📓 *Revista Espírita*, Junho, 1867
+:::
+
+::: kardec
+👴🏻 — Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade.
+
+🌱 A Gênese, cap. 1, item 36
+📓 *Revista Espírita*, Setembro, 1867
+:::
+
+Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
+
+É baseado nesses informes "*científicos*" da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
+
+::: kardec
+👴🏻 — Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais.
+
+📓 *Revista Espírita*, Janeiro, 1863
+:::
+
+::: kardec
+👴🏻 — O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus.
+
+🕊️ *O Evangelho segundo o Espiritismo*, cap. 17, item 3
+:::
+
+É importante compreender, também, que os textos publicados por Allan Kardec na 📓 Revista Espírita tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱*A Gênese*, o Codificador explica essa metodologia:
+
+::: kardec
+👴🏻 — Quando, na 📓 Revista Espírita de janeiro de 1862, publicamos um artigo sobre a "interpretação da doutrina dos anjos decaídos", apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
+ 
+🌱 *A Gênese*, cap. 11, item 43, Nota
+:::
+
+Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
+
+::: kardec
+👴🏻 — É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações.
+ 
+📓 *Revista Espírita*, Janeiro, 1862
+:::
+
+Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (*benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas*), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.
+
+A Editora (FEB)
+
+<!-- END_SHARED -->
 ### 6.02. 🗂️ Índice geral {#6-02}
 
 #### Termos relacionados {#6-02-01}
@@ -18002,7 +18155,7 @@ minerais e – [Q.888a](#q888a)
 
 ###### 🔖 Autenticidade {#autenticidade}
 autoconhecimento e – [Q.919](#q919)
-fenômeno espírita e – Intro 09
+fenômeno espírita e – [Intro 09](#0-04-09)
 
 ###### 🔖 Automatismo {#automatismo}
 conveniência e – [Q.590](#q590)
@@ -18092,76 +18245,76 @@ linguagem figurada e a – [Q.59](#q59)
 espíritos e – [Q.738a](#q738a)
 
 ###### 🔖 Caligrafia {#caligrafia}
-mudança de – Intro V e XII
+mudança de – [Intro 05](#0-04-05) e [Intro 12](#0-04-12)
 
 ###### 🔖 Calma {#calma}
 aparente – [Q.988](#q988)
 
-###### 🆕 Canibais {#canibais}
-escala espiritual e – 271
+###### 🔖 Canibais {#canibais}
+escala espiritual e – [Q.271](#q271)
 
-###### 🆕 Caráter {#carater}
-encarnação e – 362
-físico e reencarnação – 217
-formação de – 917
-homem de bem e – 918
-moral e reencarnação – 216
+###### 🔖 Caráter {#carater}
+encarnação e – [Q.362](#q362)
+físico e reencarnação – [Q.217](#q217)
+formação de – [Q.917](#q917)
+homem de bem e – [Q.918](#q918)
+moral e reencarnação – [Q.216](#q216)
 
 ###### 🔖 Caridade {#caridade}
-917
-auxílios mútuos e – 779
-desinteressada – 893
-discriminação racial e – 789
-egoísmo e – 917
+[Q.917](#q917)
+auxílios mútuos e – [Q.779](#q779)
+desinteressada – [Q.893](#q893)
+discriminação racial e – [Q.789](#q789)
+egoísmo e – [Q.917](#q917)
 exposição ao ridículo de religião 
-alheia e falta de – 655
-indulgência e – 888a
-Jesus e – 886
-prática da – 771, 789
-procedimento com – 897b
-próximo e – 770a , 903
-solidariedade e – 805
+alheia e falta de – [Q.655](#q655)
+indulgência e – [Q.888.a](#q888a)
+Jesus e – [Q.886](#q886)
+prática da – [Q.771](#q771), [Q.789](#q789)
+procedimento com – [Q.897.b](#q897b)
+próximo e – [Q.770.a](#q770a) , [Q.903](#q903)
+solidariedade e – [Q.805](#q805)
 
-###### 🆕 Carne {#carne}
-alimentação com a * dos animais – 723
+###### 🔖 Carne {#carne}
+alimentação com a * dos animais – [Q.723](#q723)
 
-###### 🆕 Casamaneto {#casamento}
-antipatia e – 940
-celibato e – 695
-consequências da abolição do – 696
-ilusão do amor e – 939
-interesse e – 940
-sociedade e – 696
-vivência do – 939
+###### 🔖 Casamento {#casamento}
+antipatia e – [Q.940](#q940)
+celibato e – [Q.695](#q695)
+consequências da abolição do – [Q.696](#q696)
+ilusão do amor e – [Q.939](#q939)
+interesse e – [Q.940](#q940)
+sociedade e – [Q.696](#q696)
+vivência do – [Q.939](#q939)
 
-###### 🆕 Castigo {#}
-duração do – 1008, 1009
-eterno – 1009
-imposição do – 1008
-local destinado ao * dos espíritos – 1012
+###### 🔖 Castigo {#castigo}
+duração do – [Q.1008](#q1008), [Q.1009](#q1009)
+eterno – [Q.1009](#q1009)
+imposição do – [Q.1008](#q1008)
+local destinado ao * dos espíritos – [Q.1012](#q1012)
 
-###### 🆕 Cataclismo {#}
-geológico e dilúvio de Noé – 59
-recompensa ao provocador de – 584a
+###### 🔖 Cataclismo {#cataclismo}
+geológico e dilúvio de Noé – [Q.59](#q59)
+recompensa ao provocador de – [Q.584.a](#q584a)
 
-###### 🆕 Catalepsia {#}
-letargia e – 424
+###### 🔖 Catalepsia {#catalepsia}
+letargia e – [Q.424](#q424)
 
-###### 🆕 Causa primária {#}
-formação da matéria e – 7
-revelação de inteligência suprema e – 9
+###### 🔖 Causa primária {#causa-primaria}
+formação da matéria e – [Q.7](#q7)
+revelação de inteligência suprema e – [Q.9](#q9)
 
-###### 🆕 Celibato {#}
-casamento e – 696
-lei da natureza e – 699
+###### 🔖 Celibato {#celibato}
+casamento e – [Q.696](#q696)
+lei da natureza e – [Q.699](#q699)
 
-###### 🆕 Censura {#}
-retorno ao mundo dos espíritos e – 919a
+###### 🔖 Censura {#censura}
+retorno ao mundo dos espíritos e – [Q.919.a](#q919a)
 
-###### 🆕 Centros de força {#}
-luido vital e – 140a
+###### 🔖 Centros de força {#centros-de-forca}
+luido vital e – [Q.140.a](#q140a)
 
-###### 🆕 Cepa {#}
+###### 🔖 Cepa {#cepa}
 emblema do trabalho divino – proleg.
 
 ###### 🔖 Cérebro {#cerebro}
@@ -18451,20 +18604,20 @@ povos primitivos e – [Q.753](#q753)
 procedência do sentimento de – [Q.754](#q754)
 sociedade e – [Q.756](#q756)
 
-###### 🆕 Culpa {#}
-assassinato e – 747
-mal e – 639
+###### 🔖 Culpa {#culpa}
+assassinato e – [Q.747](#q747)
+mal e – [Q.639](#q639)
 
-###### 🆕 Culpado {#}
-insensibilidade ao sofrimento alheio e – 899
-manifestações do egoísmo e – 901
-suicídio e – 947
-tempo para reflexão da falta e – 952a
+###### 🔖 Culpado {#culpado}
+insensibilidade ao sofrimento alheio e – [Q.899](#q899)
+manifestações do egoísmo e – [Q.901](#q901)
+suicídio e – [Q.947](#q947)
+tempo para reflexão da falta e – [Q.952.a](#q952a)
 
-###### 🆕 Cura {#}
-mediunidade de – 556
+###### 🔖 Cura {#cura}
+mediunidade de – [Q.556](#q556)
 possibilidade de * da desordem e 
-da imprevidência – 685a
+da imprevidência – [Q.685.a](#q685a)
 
 ##### 📑 D
 
@@ -18526,8 +18679,7 @@ percepções de – [Q.547a](#q547a)
 valor da recordação amiga para o – [Q.320](#q320)
 Desencarnado ver também Morto
 
-
-###### 🆕 Desencarnado *ver também* Morto
+###### 🔖 Desencarnado *ver também* Morto
 
 ###### 🔖 Desenvolvimento {#desenvolvimento}
 das faculdades existentes no homem – [Q.754](#q754)
@@ -18586,7 +18738,7 @@ sentimento de repulsa à – [Q.733](#q733)
 seres vivos e – [Q.728](#q728)
 Destruição ver também Lei de destruição
 
-###### 🆕 Destruição *ver também* Lei de destruição
+###### 🔖 Destruição *ver também* Lei de destruição
 
 ###### 🔖 Deturpação {#deturpacao}
 sentimento de justiça e – [Q.874](#q874)
@@ -18688,7 +18840,7 @@ alegria da – [Q.1001](#q1001)
 após a morte – [Q.1001](#q1001)
 generosidade e – [Q.1001](#q1001)
 
-###### 🆕 Doença *ver* Enfermidade
+###### 🔖 Doença *ver* Enfermidade
 
 ###### 🔖 Doença mental {#doenca-mental}
 cérebro e – [Q.375](#q375)
@@ -18799,38 +18951,38 @@ sexos e – [Q.822a](#q822a)
 teoria de períodos, na criança, para o término da – [Q.142](#q142)
 Terra e – [Q.176](#q176)
 
-###### 🆕 Espírito bom e {#}
-361a
+###### 🔖 Espírito bom e {#espirito-bom-e}
+[Q.361.a](#q361a)
 
-###### 🆕 Espírito mau {#}
-361a
-evolução e – 987
-expiação dos erros e – 983
-inútil – 988
-libertação da matéria durante a – 987
-mesmo Espírito em dois corpos e – 137
-necessidade da – 132
+###### 🔖 Espírito mau {#espirito-mau}
+[Q.361.a](#q361a)
+evolução e – [Q.987](#q987)
+expiação dos erros e – [Q.983](#q983)
+inútil – [Q.988](#q988)
+libertação da matéria durante a – [Q.987](#q987)
+mesmo Espírito em dois corpos e – [Q.137](#q137)
+necessidade da – [Q.132](#q132)
 objetivo da – 132-133
-período de infância e – 383
-perturbação e – 380
-pessoas exóticas do planeta e – 176a 
-primeira – 190
-purificação dos espíritos e – 226
-sexos e – 822a
+período de infância e – [Q.383](#q383)
+perturbação e – [Q.380](#q380)
+pessoas exóticas do planeta e – [Q.176.a](#q176a) 
+primeira – [Q.190](#q190)
+purificação dos espíritos e – [Q.226](#q226)
+sexos e – [Q.822.a](#q822a)
 eoria de períodos, na criança, 
-para o término da – 142
-Terra e – 176
+para o término da – [Q.142](#q142)
+Terra e – [Q.176](#q176)
 
 ###### 🔖 Encarnado {#encarnado}
 escolha de provas e – [Q.267](#q267)
 
-###### 🆕 Espírito errante e  {#}
-226
-influenciação espiritual e morte de – 528
-inspiração e – 463
-sensações da vida do – 256
+###### 🔖 Espírito errante e {#espirito-errante-e}
+[Q.226](#q226)
+influenciação espiritual e morte de – [Q.528](#q528)
+inspiração e – [Q.463](#q463)
+sensações da vida do – [Q.256](#q256)
 vivência na erraticidade e 
-condição de – 175b
+condição de – [Q.175](#q175)
 
 ###### 🔖 Encontro {#encontro}
 busca recíproca no plano físico e – [Q.386](#q386)
@@ -18958,7 +19110,7 @@ duração do castigo segundo o – [Q.1009](#q1009)
 eliminação da solidão pelo – [Q.936](#q936)
 ensinamentos do – [Q.800](#q800), [Q.917](#q917), [Q.982](#q982)
 espiritualismo e – [Intro 01](#0-04-01)
-estudo do – Intro VIII, [Intro 13](#0-04-13)
+estudo do – [Intro 08](#0-04-08), [Intro 13](#0-04-13)
 existência dos espíritos e – [Intro 17](#0-04-17)
 fé, resignação e – [Conclusão 03](#5-01-03)
 felicidade e – [Conclusão 05](#5-01-05)
@@ -18978,7 +19130,7 @@ missão do – [Q.148](#q148)
 necessidade do – [Q.982](#q982)
 O Livro dos Espíritos e – [Prefácio](#0-03)
 oposição ao – concl., V, [Conclusão 06](#5-01-06)
-origem da palavra – introd. I
+origem da palavra – [Intro 01](#0-04-01)
 povos antigos e o – [Q.221a](#q221a)
 princípios básicos do – [Intro 06](#0-04-06)
 ressurreição, reencarnação e – [Q.1010](#q1010)
@@ -19194,8 +19346,8 @@ características dos – [Q.106](#q106)
 ###### 🔖 Espíritos benévolos {#espiritos-benevolos}
 caraterísticas dos – [Q.108](#q108)
 
-###### 🆕 Espíritos sábios {#}
-características dos – 109, 110
+###### 🔖 Espíritos sábios {#espiritos-sabios}
+características dos – [Q.109](#q109), [Q.110](#q110)
 
 ###### 🔖 Espíritos encarnados {#espiritos-encarnados}
 assembleias de – [Q.417](#q417)
@@ -19244,8 +19396,8 @@ adepto do – [Intro 01](#0-04-01)
 conceito de alma e – [Intro 02](#0-04-02)
 Espiritismo e – [Intro 01](#0-04-01)
 
-###### 🆕 Espíritismo e {#}
- introd., I
+###### 🔖 Espíritismo e {#espiritismo-e}
+Intro 01
 
 ###### 🔖 Esquecimento {#esquecimento}
 maus instintos e – [Q.620](#q620)
@@ -19312,23 +19464,23 @@ progressão do Espírito e – [Q.100](#q100), [Q.114](#q114)
 reencarnação e – [Q.612](#q612)
 vidas sucessivas e – [Q.787b](#q787b)
 
-###### 🆕 Espírito e {#}
-114
-espíritos vulgares e – 566a
-estacionada – 987
-experiências e – 607
-homem e – 364
-idade biológica e – 379
-libertação da influência da matéria e – 987
+###### 🔖 Espírito e {#espirito-e}
+[Q.114](#q114)
+espíritos vulgares e – [Q.566.a](#q566a)
+estacionada – [Q.987](#q987)
+experiências e – [Q.607](#q607)
+homem e – [Q.364](#q364)
+idade biológica e – [Q.379](#q379)
+libertação da influência da matéria e – [Q.987](#q987)
 mérito do Espírito protetor 
-para sua própria – 502
-moradia do Espírito e grau de – 188
-moral e da inteligência – 791
-paixão e – 191a
-planetas distantes do Sol e grau de – 188
-progressão do Espírito e – 100, 114
-reencarnação e – 612
-vidas sucessivas e – 787b
+para sua própria – [Q.502](#q502)
+moradia do Espírito e grau de – [Q.188](#q188)
+moral e da inteligência – [Q.791](#q791)
+paixão e – [Q.191.a](#q191a)
+planetas distantes do Sol e grau de – [Q.188](#q188)
+progressão do Espírito e – [Q.100](#q100), [Q.114](#q114)
+reencarnação e – [Q.612](#q612)
+vidas sucessivas e – [Q.787.b](#q787b)
 
 ###### 🔖 Excessos {#excessos}
 consequências de – [Q.714a](#q714a)
@@ -20009,7 +20161,7 @@ opressão aos fracos e – [Q.807](#q807)
 ###### 🔖 Lei de destruição {#lei-de-destruicao}
 renovação e – [Q.41](#q41), [Q.728](#q728)
 
-###### 🆕 Lei de destruição *ver também* Destruição
+###### 🔖 Lei de destruição *ver também* Destruição
 
 ###### 🔖 Lei de progresso {#lei-de-progresso}
 evolução moral e – [Conclusão 04](#5-01-04)
@@ -20389,7 +20541,7 @@ vida e – [Q.68](#q68), [Q.738a](#q738a)
 violenta e reação do Espírito – [Q.546](#q546)
 visão do Espírito após a – [Q.257](#q257)
 
-###### 🆕 Morte *ver também* Desencarnação
+###### 🔖 Morte *ver também* Desencarnação
 
 ###### 🔖 Mortificação {#mortificacao}
 alimentação e – [Q.724](#q724)
@@ -20432,7 +20584,7 @@ relacionamento no – [Q.274](#q274)
 revelação dos erros no – [Q.977a](#q977a)
 vida no – [Q.150b](#q150b), [Q.159](#q159)
 
-###### 🆕 Mundo físico *ver* Plano físico
+###### 🔖 Mundo físico *ver* Plano físico
 
 ###### 🔖 Mundos {#mundos}
 formação dos – [Q.37](#q37) a [Q.42](#q42)
@@ -20488,7 +20640,7 @@ alma e – [Q.336](#q336)
 ambiente de – [Q.260](#q260)
 choro e – [Q.384](#q384)
 concepção e – [Q.351](#q351)
-criação da alma e – 222
+criação da alma e – [Q.222](#q222)
 criança e – [Q.336](#q336)
 desenvolvimento de faculdades do Espírito com o – [Q.352](#q352)
 espontaneidade do – [Q.46](#q46)
@@ -20693,7 +20845,7 @@ execução do assassino e – [Q.764](#q764)
 
 ###### 🔖 Penas eternas {#penas-eternas}
 arrependimento e – [Q.1006](#q1006)
-condenação a – [Q.171](#q171), 222
+condenação a – [Q.171](#q171), [Q.222](#q222)
 Deus e – [Q.1009](#q1009)
 
 ###### 🔖 Penas futuras {#penas-futuras}
@@ -20749,7 +20901,7 @@ grau de – [Q.179](#q179)
 igualdade na criação do Espírito e – [Q.115](#q115)
 Jesus e – [Q.625](#q625)
 possibilidades do Espírito na caminhada para a – [Q.398a](#q398a)
-reencarnação e – [Q.168](#q168), 222
+reencarnação e – [Q.168](#q168), [Q.222](#q222)
 retrogradação e – [Q.118](#q118)
 sabedoria e – [Q.238](#q238)
 união e – [Q.298](#q298)
@@ -20802,8 +20954,8 @@ prática do bem, consciência pura e – [Q.165](#q165)
 reencarnação e – [Q.339](#q339)
 separação da alma e do corpo e – [Q.164](#q164)
 
-###### 🆕 Planetas {}
-formação dos – 56
+###### 🔖 Planetas {} {#planetas}
+formação dos – [Q.56](#q56)
 
 ###### 🔖 Plano espiritual *ver* mundo espiritual
 
@@ -20819,7 +20971,7 @@ eternidade das penas – [Q.1009](#q1009)
 ###### 🔖 Pluralidade dos mundos habitados {#pluralidade-dos-mundos-habitados}
 homem e – [Q.55](#q55)
 
-###### 🆕 Pluralidade dos mundos habitados *ver também* Mundos habitados
+###### 🔖 Pluralidade dos mundos habitados *ver também* Mundos habitados
 
 ###### 🔖 Pobreza {#pobreza}
 predominância da – [Q.931](#q931)
@@ -21177,7 +21329,7 @@ inconformismo e – [Q.350](#q350)
 influência do organismo e – [Q.367](#q367)
 intervalo para – [Q.349](#q349)
 justiça da – [Q.171](#q171)
-justiça divina e – [Q.171](#q171), 222
+justiça divina e – [Q.171](#q171), [Q.222](#q222)
 laços de família e – [Q.205](#q205)
 lei de causa e efeito e – [Q.807](#q807)
 livre-arbítrio e – [Q.847](#q847)
@@ -21228,8 +21380,8 @@ exame da própria individualidade e – [Q.919a](#q919a)
 imperfeições e – [Q.14](#q14)
 influenciação perniciosa e – [Q.122b](#q122b)
 
-###### 🆕 Regeneração {}
-destruição e – 729
+###### 🔖 Regeneração {} {#regeneracao}
+destruição e – [Q.729](#q729)
 nova era para – proleg
 
 ###### 🔖 Regulamento {#regulamento}
@@ -21434,67 +21586,67 @@ reprodução dos – [Q.686](#q686)
 seres inorgânicos e – [Q.585](#q585)
 vida material e – [Intro 02](#0-04-02)
 
-###### 🆕 Seriedade {}
-estudo do Espiritismo com – introd., VIII
+###### 🔖 Seriedade {} {#seriedade}
+estudo do Espiritismo com – [Intro 08](#0-04-08)
 
-###### 🆕 Sexo {}
+###### 🔖 Sexo {} {#sexo}
 espíritos e – 200-202
-nos espíritos – 200
-reencarnação e – 201
+nos espíritos – [Q.200](#q200)
+reencarnação e – [Q.201](#q201)
 
-###### 🆕 Sexos {}
-encarnação e – 822a
-união dos – 700
+###### 🔖 Sexos {} {#sexos}
+encarnação e – [Q.822.a](#q822a)
+união dos – [Q.700](#q700)
 
-###### 🆕 Silêncio {}
-sociedade e – 772
-utilidade do – 772
+###### 🔖 Silêncio {} {#silencio}
+sociedade e – [Q.772](#q772)
+utilidade do – [Q.772](#q772)
 
-###### 🆕 Símbolo {}
+###### 🔖 Símbolo {} {#simbolo}
 desenho da cepa pelos espíritos e 
 representação de – proleg.
 representação do Espírito por 
-cor, alegoria e – 88a
+cor, alegoria e – [Q.88.a](#q88a)
 
-###### 🆕 Simpatia {}
-antipatia e – 293
-aparentemente estranhos e – 204
-companhia dos espíritos e – 513a
-convivência e – 940
-espíritos da mesma ordem e – 980
-espíritos e – 387
-gradações na – 514
-individualidade do Espírito e – 301
-lembrança de atos maus e – 294
-magnetismo e – 388
-predicados necessários à existência de – 302
-promoção da – 303
-próximo e – 303a
+###### 🔖 Simpatia {} {#simpatia}
+antipatia e – [Q.293](#q293)
+aparentemente estranhos e – [Q.204](#q204)
+companhia dos espíritos e – [Q.513.a](#q513a)
+convivência e – [Q.940](#q940)
+espíritos da mesma ordem e – [Q.980](#q980)
+espíritos e – [Q.387](#q387)
+gradações na – [Q.514](#q514)
+individualidade do Espírito e – [Q.301](#q301)
+lembrança de atos maus e – [Q.294](#q294)
+magnetismo e – [Q.388](#q388)
+predicados necessários à existência de – [Q.302](#q302)
+promoção da – [Q.303](#q303)
+próximo e – [Q.303.a](#q303a)
 
-###### 🆕 Simplicidade {}
-preferência pela – 673
+###### 🔖 Simplicidade {} {#simplicidade}
+preferência pela – [Q.673](#q673)
 
-###### 🆕 Sinceridade {}
-adoração com – 654
+###### 🔖 Sinceridade {} {#sinceridade}
+adoração com – [Q.654](#q654)
 
-###### 🆕 Sintonia {}
-faixas inferiores e – 402
-tendências humanas e – 518
+###### 🔖 Sintonia {} {#sintonia}
+faixas inferiores e – [Q.402](#q402)
+tendências humanas e – [Q.518](#q518)
 
-###### 🆕 Sistema {}
-antirreencarnacionista – 789
+###### 🔖 Sistema {} {#sistema}
+antirreencarnacionista – [Q.789](#q789)
 indagações e busca de respostas 
-pela construção de – 613
+pela construção de – [Q.613](#q613)
 passagem do Espírito pela 
-fieira animal e – 613
-planetário e a Terra – 188
+fieira animal e – [Q.613](#q613)
+planetário e a Terra – [Q.188](#q188)
 
-###### 🆕 Sobrenatural {}
+###### 🔖 Sobrenatural {} {#sobrenatural}
 Espiritismo e o – concl., II
 religião e o – concl., II
 
-###### 🆕 Sobrevivência {}
-probabilidades de – 34
+###### 🔖 Sobrevivência {} {#sobrevivencia}
+probabilidades de – [Q.34](#q34)
 
 ###### 🔖 Sociedade {#sociedade}
 casamento e – [Q.696](#q696)
@@ -21552,13 +21704,13 @@ voluntário – [Q.727](#q727)
 ###### 🔖 Sol {#sol}
 ser humano e direito de lugar ao – [Q.707](#q707)
 
-###### 🆕 Solidariedade {}
-caridade e – 805
-conceito de – 916
-egoísmo e – 915
-Espiritismo e pregação da – 799
-isenção do trabalho e – 679
-mundos e – 804
+###### 🔖 Solidariedade {} {#solidariedade}
+caridade e – [Q.805](#q805)
+conceito de – [Q.916](#q916)
+egoísmo e – [Q.915](#q915)
+Espiritismo e pregação da – [Q.799](#q799)
+isenção do trabalho e – [Q.679](#q679)
+mundos e – [Q.804](#q804)
 
 ###### 🔖 Som {#som}
 percepção do – [Q.249](#q249)
@@ -21600,78 +21752,78 @@ influência do – [Q.402](#q402)
 relacionamento com espíritos e – [Q.401](#q401)
 sonho – [Q.400](#q400) a [Q.412](#q412)
 
-###### 🆕 Sorte {}
-gênero de prova com rótulo de – 864
+###### 🔖 Sorte {} {#sorte}
+gênero de prova com rótulo de – [Q.864](#q864)
 
-###### 🆕 Submissão {}
-costumes sociais e consequências de – 863
-leis divinas e – 725
+###### 🔖 Submissão {} {#submissao}
+costumes sociais e consequências de – [Q.863](#q863)
+leis divinas e – [Q.725](#q725)
 
-###### 🆕 Substância {}
-sentidos e – 32
+###### 🔖 Substância {} {#substancia}
+sentidos e – [Q.32](#q32)
 
-###### 🆕 Sugestão {}
-pensamento e – 461
-pensamento próprio e – 460
+###### 🔖 Sugestão {} {#sugestao}
+pensamento e – [Q.461](#q461)
+pensamento próprio e – [Q.460](#q460)
 
-###### 🆕 Suicídio {}
-antagonismo das leis da natureza e – 957
-assassinato e – 758a
-busca de uma vida melhor e  – 950
-causa de – 350
-causas da loucura e – introd., XV
-consequências do – 953b, 957
-culpa e – 947, 952a
-deixar-se morrer de fome e – 947
-desespero e – 952a
-desgosto pela vida e – 945
-dever e – 955
-direito de cometer o – 944
-duelo e – 758
-efeitos comuns nos casos de – 957
-eutanásia e – 953
-falta e – 948
-família e – 949
-fuga pelo – 946
-indireto – 952
-induzir ao – 946a
-instinto de conservação e – 944
-intenção e – 949
+###### 🔖 Suicídio {} {#suicidio}
+antagonismo das leis da natureza e – [Q.957](#q957)
+assassinato e – [Q.758.a](#q758a)
+busca de uma vida melhor e  – [Q.950](#q950)
+causa de – [Q.350](#q350)
+causas da loucura e – [Intro 15](#0-04-15)
+consequências do – [Q.953.b](#q953b), [Q.957](#q957)
+culpa e – [Q.947](#q947), [Q.952.a](#q952a)
+deixar-se morrer de fome e – [Q.947](#q947)
+desespero e – [Q.952.a](#q952a)
+desgosto pela vida e – [Q.945](#q945)
+dever e – [Q.955](#q955)
+direito de cometer o – [Q.944](#q944)
+duelo e – [Q.758](#q758)
+efeitos comuns nos casos de – [Q.957](#q957)
+eutanásia e – [Q.953](#q953)
+falta e – [Q.948](#q948)
+família e – [Q.949](#q949)
+fuga pelo – [Q.946](#q946)
+indireto – [Q.952](#q952)
+induzir ao – [Q.946.a](#q946a)
+instinto de conservação e – [Q.944](#q944)
+intenção e – [Q.949](#q949)
 interrupção da vida e 
-consequências do – 950
-ligação do Espírito ao cadáver no – 957
-loucura e – 376, 944a
-má ação e – 948
-moral – 952
-morte inevitável e – 953, 953a
-orgulho e – 947, 951
-perda de entes queridos e – 956
-perturbação espiritual e – 957
-punição pelo – 952a
-responsabilidade e – 943
-sacrifício e – 951
-salvar outra vida e – 951
-segundo o Espiritismo – 957
-sofrimento e – 946
-vergonha e – 948, 949
-vício e – 952
-voluntário e loucura – 944a
+consequências do – [Q.950](#q950)
+ligação do Espírito ao cadáver no – [Q.957](#q957)
+loucura e – [Q.376](#q376), [Q.944.a](#q944a)
+má ação e – [Q.948](#q948)
+moral – [Q.952](#q952)
+morte inevitável e – [Q.953](#q953), [Q.953.a](#q953a)
+orgulho e – [Q.947](#q947), [Q.951](#q951)
+perda de entes queridos e – [Q.956](#q956)
+perturbação espiritual e – [Q.957](#q957)
+punição pelo – [Q.952.a](#q952a)
+responsabilidade e – [Q.943](#q943)
+sacrifício e – [Q.951](#q951)
+salvar outra vida e – [Q.951](#q951)
+segundo o Espiritismo – [Q.957](#q957)
+sofrimento e – [Q.946](#q946)
+vergonha e – [Q.948](#q948), [Q.949](#q949)
+vício e – [Q.952](#q952)
+voluntário e loucura – [Q.944.a](#q944a)
 
-###### 🆕 Supérfluo {}
-ambição e – 717
-necessário e – 704, 92
+###### 🔖 Supérfluo {} {#superfluo}
+ambição e – [Q.717](#q717)
+necessário e – [Q.704](#q704), [Q.92](#q92)
 
-###### 🆕 Superior {}
+###### 🔖 Superior {} {#superior}
 dependência do Espírito, reencarnado 
-ou na erraticidade, a – 888a
-inferior e – 277
+ou na erraticidade, a – [Q.888.a](#q888a)
+inferior e – [Q.277](#q277)
 
-###### 🆕 Superioridade {}
-autoridade e – 274a
+###### 🔖 Superioridade {} {#superioridade}
+autoridade e – [Q.274.a](#q274a)
 
-###### 🆕 Superstição {}
-alegorias e – 867
-utilização do necessário e – 736
+###### 🔖 Superstição {} {#supersticao}
+alegorias e – [Q.867](#q867)
+utilização do necessário e – [Q.736](#q736)
 
 ##### 📑 T
 
@@ -21966,7 +22118,7 @@ excesso de – [Q.736](#q736)
   
 [^4]: Nota do *Re-editor* (N.R.): Ao invés da tipografia original, resolvemos usar o emoji ✨ (sparkles) para denotar a resposta que os Espíritos deram. Para destacar as notas e explicaçôes aditadas por Allan Kardec, usamos o emoji 👴🏻 (older_man).
   
-[^5]: N.E.: A definição dada na resposta à [Q.1](#q1) de o ✨ *Livro dos Espíritos* — *cause Première* — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como *causa primária*, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide *Reformador* de 1952, p. 98-99, e de 1973, p. 230 e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do *Grande dicionário francês-português*, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: "premier, ière […] || Fig. *La cause première*, a causa primária, Deus. 
+[^5]: N.E.: A definição dada na resposta à [Q.1](#q1) de o ✨ *Livro dos Espíritos* — *cause Première* — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como *causa primária*, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide *Reformador* de 1952, p. 98-99, e de 1973, p. [Q.230](#q230) e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do *Grande dicionário francês-português*, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: "premier, ière […] || Fig. *La cause première*, a causa primária, Deus. 
   
 [^6]: A.K.: Este princípio explica o fenômeno conhecido de todos os magnetizadores e que consiste em dar-se, pela ação da vontade, a uma substância qualquer, à água, por exemplo, propriedades muito diversas: um gosto determinado e até as qualidades ativas de outras substâncias. Desde que não há mais de um elemento primitivo e que as propriedades dos diferentes corpos são apenas modificações desse elemento, o que se segue é que a mais inofensiva substância tem o mesmo princípio que a mais deletéria. Assim, a água, que se compõe de uma parte de oxigênio e de duas de hidrogênio, se torna corrosiva, duplicando-se a proporção do oxigênio. Transformação análoga se pode produzir por meio da ação magnética dirigida pela vontade. 
   
@@ -22010,8 +22162,8 @@ Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apres
   
 [^24]: N.E.: Frase atribuída ao filósofo grego Sócrates (470–399 a.C.) 
   
-[^25]: N.E.: Na 2ª impressão da 2ª edição de ✨ *O Livro dos Espíritos*, as questões [1012](#q1012) a [1019](#q1019) correspondiam às questões [1011](#q1011) a [1018](#q1018) da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº 1011 a questão que se segue à de nº [1010](#q1010) e que antecede a de nº 1012, o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº 1011, acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica. 
+[^25]: N.E.: Na 2ª impressão da 2ª edição de ✨ *O Livro dos Espíritos*, as questões [1012](#q1012) a [1019](#q1019) correspondiam às questões [1011](#q1011) a [1018](#q1018) da 1ª impressão da mesma edição. Esta mudança nos leva à conclusão de que era propósito do autor identificar pelo nº [Q.1011](#q1011) a questão que se segue à de nº [1010](#q1010) e que antecede a de nº [Q.1012](#q1012), o que nos parece perfeitamente lógico. Todavia, esta identificação permaneceu em aberto nas demais edições francesas publicadas quando Kardec estava encarnado. Visando a dar referência objetiva à questão, estamos atribuindo a esta pergunta o nº [Q.1011](#q1011), acreditando superar, com isso, o que entendemos não passar de um simples descuido de revisão gráfica. 
   
 [^26]: N.E.: Ver [Nota explicativa](#6-01) 
   
-[^27]: N.E.: Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
+
