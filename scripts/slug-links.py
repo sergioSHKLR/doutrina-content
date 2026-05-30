@@ -63,8 +63,8 @@ def process_markdown_index(input_file, output_file):
         f.write("\n".join(updated_lines))
 
 # Execution Path Configuration
-input_path = "books/md/1-lde/partial/06.md"
-output_path = "books/md/1-lde/partial/06-slugged-linked.md"
+input_path = "books/md/2-ldm/partial/03.md"
+output_path = "books/md/2-ldm/partial/03-slugged-linked.md"
 
 process_markdown_index(input_path, output_path)
 print("Index updated successfully with strict spacing rules!")

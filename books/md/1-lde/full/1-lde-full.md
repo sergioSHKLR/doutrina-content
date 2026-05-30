@@ -18953,9 +18953,7 @@ Terra e – [Q.176](#q176)
 
 ###### 🔖 Espírito bom e {#espirito-bom-e}
 [Q.361.a](#q361a)
-
-###### 🔖 Espírito mau {#espirito-mau}
-[Q.361.a](#q361a)
+Espírito mau – [Q.361.a](#q361a)
 evolução e – [Q.987](#q987)
 expiação dos erros e – [Q.983](#q983)
 inútil – [Q.988](#q988)
@@ -19346,9 +19344,6 @@ características dos – [Q.106](#q106)
 ###### 🔖 Espíritos benévolos {#espiritos-benevolos}
 caraterísticas dos – [Q.108](#q108)
 
-###### 🔖 Espíritos sábios {#espiritos-sabios}
-características dos – [Q.109](#q109), [Q.110](#q110)
-
 ###### 🔖 Espíritos encarnados {#espiritos-encarnados}
 assembleias de – [Q.417](#q417)
 
@@ -19381,7 +19376,7 @@ características dos – [Q.112](#q112), [Q.113](#q113)
 união de – [Q.300](#q300)
 
 ###### 🔖 Espíritos sábios {#espiritos-sabios}
-características dos – [Q.109](#q109)
+características dos – [Q.109](#q109), [Q.110](#q110)
 
 ###### 🔖 Espíritos simpáticos {#espiritos-simpaticos}
 atração ou repulsão de – [Q.518](#q518)
