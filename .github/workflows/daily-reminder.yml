@@ -1,0 +1,40 @@
+name: Daily Reminder
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # Runs daily at 10:00 UTC (adjust as needed — e.g. 12:00 UTC = 9 AM BRT)
+  workflow_dispatch:       # Allows manual trigger for testing
+
+jobs:
+  daily-reminder:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Post daily reminder to tracking issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const today = new Date().toLocaleDateString('pt-BR');
+            const issueNumber = 10;
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              body: \`## 📅 Daily Progress \${today}
+
+**Project**: [dc Content Fidelity & Legacy](link-to-your-project)
+
+**Focus**: LDM verification + content fidelity (no theme/UX).
+
+### Today's Checklist
+- [ ] Review prior day's work (numbering, anchors, H6)
+- [ ] Advance extraction / verification
+- [ ] Apply style-guide + cross-reference rules
+- [ ] Commit & reflect (assimilation note)
+
+**Historical Pipeline Reminder**: Copy-paste → line breaks → anchors → index → verification.
+
+Content first. Assimilation. Retention. Build to outlast.\`
+            });
