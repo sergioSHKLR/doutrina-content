@@ -12,10 +12,8 @@
 - do Espírito nos efeitos físicos – 74, VIII
 - do Espírito sobre a matéria – 52; 53
 - espiritual e fenômenos naturais – 99, 16<sup>a</sup>
-- mecanismo da \* do Espírito
-- batedor – 74, XXII
-- organização da matéria e \*
-- do Espírito – 130
+- mecanismo da \* do Espírito batedor – 74, XXII
+- organização da matéria e \* do Espírito – 130
 
 ### Afinidade
 

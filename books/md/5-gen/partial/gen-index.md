@@ -1,2655 +1,2664 @@
-# Índice Geral
+## 4. 🗃️ Pós-textual {#6}
 
-A
+### 4.01. 📄 Nota explicativa {#4-01}
+
+<!-- INSERT_SHARED:nota-explicativa.md -->
+
+### 4.02. 🗂️ Índice geral {#4-02}
+
+#### Termos relacionados {#4-02-01}
+
+##### 📑 A
+
 Abalo sísmico
-exemplo de – IX, 3, nota
+exemplo de – Cap. 09, 3, nota
 Ação magnética
-instinto, inteligência e – III, 13
-produção da – XIV, 33
+instinto, inteligência e – Cap. 03, 13
+produção da – Cap. 14, 33
 Acusação
-Jesus e _ de simulacro – XV, 67
+Jesus e _ de simulacro – Cap. 15, 67
 Adão
-cultivo da terra e – XII, 21
-Eva, vergonha e – XII, 19
-humanidade e – XII, 16
-inteligência e descendência de – XI, 40
-outros habitantes da Terra e – XII, 25
-simbolismo de – XI, 38
+cultivo da terra e – Cap. 12, 21
+Eva, vergonha e – Cap. 12, 19
+humanidade e – Cap. 12, 16
+inteligência e descendência de – Cap. 11, 40
+outros habitantes da Terra e – Cap. 12, 25
+simbolismo de – Cap. 11, 38
 Adão e Eva
 criação de _ e entendimento da
-palavra de Deus – XII, 22
+palavra de Deus – Cap. 12, 22
 Advento
-do profeta Elias – XVII, 33
-segundo _ de Jesus – XVII, 43
+do profeta Elias – Cap. 17, 33
+segundo _ de Jesus – Cap. 17, 43
 Aerólito
-período diluviano e – VII, 44
+período diluviano e – Cap. 07, 44
 Afinidade
-fluido universal, matéria e – VI, 10
+fluido universal, matéria e – Cap. 06, 10
 194 N.E.: As remissivas são indicadas pelos números dos capítulos em romanos e dos itens em números
 arábicos.
 Agênere
-corpo e morte de – XV, 65
-meio físico e – XIV, 36
+corpo e morte de – Cap. 15, 65
+meio físico e – Cap. 14, 36
 vivência simultânea de Jesus como
-ser humano e – XV, 66
+ser humano e – Cap. 15, 66
 Água
 ação da _ na formação da
-crosta terrestre – IX, 2
-blocos erráticos e – VII, 43
-caminhada de Jesus sobre a – XV, 41
+crosta terrestre – Cap. 09, 2
+blocos erráticos e – Cap. 07, 43
+caminhada de Jesus sobre a – Cap. 15, 41
 erosão, formação da crosta
-terrestre e – IX, 2
-formação do solo e – VII, 5 e 39
-ossadas, cavernas e – VII, 47
-período de transição e – VII, 22
-terrenos diluvianos e – VII, 42
+terrestre e – Cap. 09, 2
+formação do solo e – Cap. 07, 5 e 39
+ossadas, cavernas e – Cap. 07, 47
+período de transição e – Cap. 07, 22
+terrenos diluvianos e – Cap. 07, 42
 Alegoria
-mitologia e – XII, 15
+mitologia e – Cap. 12, 15
 Além-túmulo
-alegoria da comunicação com o – I, 62
+alegoria da comunicação com o – Cap. 01, 62
 Alimento
-material e _ espiritual – XV, 50
-verdadeiro sentido de _ espiritual – XV, 51
+material e _ espiritual – Cap. 15, 50
+verdadeiro sentido de _ espiritual – Cap. 15, 51
 Alma
-da Terra – VIII, 7
-Espíritos e \* da Terra – VIII, 7
+da Terra – Cap. 08, 7
+Espíritos e \* da Terra – Cap. 08, 7
 
-- eternidade e – VI, 2
-- existência da – I, 31
-- individualidade da – I, 31
-- instinto e educação da – III, 24
-- preexistência da – I, 35
-- pressentimento e – XVII, 20
-- reencarnação e – I, 35
-- religiões e – IV, 13
-- sobrevivência da – I, 35
+- eternidade e – Cap. 06, 2
+- existência da – Cap. 01, 31
+- individualidade da – Cap. 01, 31
+- instinto e educação da – Cap. 03, 24
+- preexistência da – Cap. 01, 35
+- pressentimento e – Cap. 17, 20
+- reencarnação e – Cap. 01, 35
+- religiões e – Cap. 04, 13
+- sobrevivência da – Cap. 01, 35
 - Alquimia
-- química e – I, 19
+- química e – Cap. 01, 19
 - Anaximandro
-- Plutarco, movimento do Sol e – V, 2, nota
+- Plutarco, movimento do Sol e – Cap. 05, 2, nota
 - Anjos decaídos
-- doutrina dos – XI, 43
+- doutrina dos – Cap. 11, 43
 - Antiguidade
-- fenômenos da natureza e – XVII, 55
-- religião, história e – IV, 1
+- fenômenos da natureza e – Cap. 17, 55
+- religião, história e – Cap. 04, 1
 - Antropologia
-- evolução e – IV, 3
+- evolução e – Cap. 04, 3
 - Aparência
-- de morte do corpo físico – XV, 38
-- Jesus e mutabilidade na – XV, 59
+- de morte do corpo físico – Cap. 15, 38
+- Jesus e mutabilidade na – Cap. 15, 59
 - Aparição
 - atuação do Espírito sobre fluidos
-- espirituais e – XIV, 14
-- de Jesus – XV, 56
-- de Jesus aos apóstolos – XV, 57
+- espirituais e – Cap. 14, 14
+- de Jesus – Cap. 15, 56
+- de Jesus aos apóstolos – Cap. 15, 57
 - fluido perispirítico e fenômeno
-- de – XIV, 35
+- de – Cap. 14, 35
 - modificação molecular do
-- perispírito e – XIV, 35
-- propriedade do perispírito e – XV, 61
-- transfiguração e – XIV, 39
-- vaporosa e tangível – XIV, 38
+- perispírito e – Cap. 14, 35
+- propriedade do perispírito e – Cap. 15, 61
+- transfiguração e – Cap. 14, 39
+- vaporosa e tangível – Cap. 14, 38
 - Apolinarismo
-- corpo de Jesus e – XV, 67
+- corpo de Jesus e – Cap. 15, 67
 - Apóstolo
-- perseguição a – XVII, 10
+- perseguição a – Cap. 17, 10
 - Aprendizado
-- esforço próprio e – I, 61
+- esforço próprio e – Cap. 01, 61
 - Ar
-- ácido carbônico e – VII, 22
+- ácido carbônico e – Cap. 07, 22
 - período de transição e precipitação
-- de partículas do – VII, 22
+- de partículas do – Cap. 07, 22
 - Arago, Espírito
 - revoluções da Terra e
-- explicações de – XVIII, 8
+- explicações de – Cap. 18, 8
 - Arqueologia
-- campo da – VII, 7, nota
-- evolução do homem e – IV, 3
+- campo da – Cap. 07, 7, nota
+- evolução do homem e – Cap. 04, 3
 - Árvore da vida
-- simbologia da – XII, 16
+- simbologia da – Cap. 12, 16
 - Astronomia
-- astrologia e – I, 19
-- civilizações antigas e – V, 10
-- Copérnico, Galileu e – V, 13
-- evolução da – V, 13 e 14
-- Gênese e – V, 14
-- infinito e – IV, 3
+- astrologia e – Cap. 01, 19
+- civilizações antigas e – Cap. 05, 10
+- Copérnico, Galileu e – Cap. 05, 13
+- evolução da – Cap. 05, 13 e 14
+- Gênese e – Cap. 05, 14
+- infinito e – Cap. 04, 3
 - Astros
-- criação e destruição dos – VI, 49
-- movimento dos – VI, 41
+- criação e destruição dos – Cap. 06, 49
+- movimento dos – Cap. 06, 41
 - observação dos \* e velocidade
-- da luz – VI, 51
-- vida nos diversos – VI, 38
+- da luz – Cap. 06, 51
+- vida nos diversos – Cap. 06, 38
 - Atmosfera
-- vida e condições da – VII, 28
+- vida e condições da – Cap. 07, 28
 - Atração
-- fluido universal, matéria e – VI, 10
+- fluido universal, matéria e – Cap. 06, 10
 - Atributos
-- de Deus – XVII, 51
+- de Deus – Cap. 17, 51
 - Autor
 - progresso científico, tecnológico
-- e – XVI, 18
+- e – Cap. 16, 18
 - Autoridade
-- moral de Jesus – XV, 46
-- revelação espírita e – I, 57
+- moral de Jesus – Cap. 15, 46
+- revelação espírita e – Cap. 01, 57
 - Avaliação
-- de tempo e espaço – XVI, 15
+- de tempo e espaço – Cap. 16, 15
 
-## B
+##### 📑 B
 
-### Barry, Dr., Espírito
+###### 🔖 Barry, Dr., Espírito {#barry-dr-espirito}
 
 - comoções do mundo físico no plano
-- espiritual e explicações do – XVIII, 9
+- espiritual e explicações do – Cap. 18, 9
 
-### Bem
+###### 🔖 Bem {#bem}
 
-- emprego do tempo na prática do – XVII, 9
-- mal e – III, 20
-- ocasião para prática do – XV, 18
-- origem do – III, 1 a 10
-- prática incessante do – XV, 2
+- emprego do tempo na prática do – Cap. 17, 9
+- mal e – Cap. 03, 20
+- ocasião para prática do – Cap. 15, 18
+- origem do – Cap. 03, 1 a 10
+- prática incessante do – Cap. 15, 2
 
-### Bem-estar
+###### 🔖 Bem-estar {#bem-estar}
 
-- moral – XVIII, 5
+- moral – Cap. 18, 5
 
-### Betsaida
+###### 🔖 Betsaida {#betsaida}
 
-- cego de – XV, 12
+- cego de – Cap. 15, 12
 
-### Bíblia
+###### 🔖 Bíblia {#biblia}
 
-- alegoria, verdade e – IV, 6
-- ciência e – IV, 6
-- fé cega e – IV, 6
-- geologia e – VIII, 4
-- revelação divina, ciência e – IV, 8
+- alegoria, verdade e – Cap. 04, 6
+- ciência e – Cap. 04, 6
+- fé cega e – Cap. 04, 6
+- geologia e – Cap. 08, 4
+- revelação divina, ciência e – Cap. 04, 8
 
-### Bicorporeidade
+###### 🔖 Bicorporeidade {#bicorporeidade}
 
-- estado de emancipação da alma e – XIV, 37
+- estado de emancipação da alma e – Cap. 14, 37
 
-### Bodas
+###### 🔖 Bodas {#bodas}
 
-- de Caná – XV, 47
+- de Caná – Cap. 15, 47
 
-### Bondade
+###### 🔖 Bondade {#bondade}
 
-- Deus, justiça e – II, 14
+- Deus, justiça e – Cap. 02, 14
 
-### Botânica
+###### 🔖 Botânica {#botanica}
 
-- seres vivos e – IV, 3
+- seres vivos e – Cap. 04, 3
 
-### Buffon
+###### 🔖 Buffon {#buffon}
 
-- refutação da teoria de – VIII, 2
+- refutação da teoria de – Cap. 08, 2
 
-## C
+##### 📑 C
 
-### Caifás
+###### 🔖 Caifás {#caifas}
 
-- Jesus e – XVII, 44
+- Jesus e – Cap. 17, 44
 - Caim
-- assassinato de Abel e – XII, 24
-- família de – XII, 24
+- assassinato de Abel e – Cap. 12, 24
+- família de – Cap. 12, 24
 - Calamidade
-- finalidade da – XI, 36
-- predição de – XVII, 56
-- renovação da Terra e – XVII, 49
+- finalidade da – Cap. 11, 36
+- predição de – Cap. 17, 56
+- renovação da Terra e – Cap. 17, 49
 - Caldeia
-- movimento dos astros e – V, 10
+- movimento dos astros e – Cap. 05, 10
 - Calor
-- centro da Terra e – VII, 16
-- fluido universal, matéria e – VI, 10
+- centro da Terra e – Cap. 07, 16
+- fluido universal, matéria e – Cap. 06, 10
 - Cataclismo
-- flora, fauna e – VII, 28
-- formação de montanhas e – VII, 46
-- globo terrestre e – VII, 42
-- migrações espirituais e – XI, 36
+- flora, fauna e – Cap. 07, 28
+- formação de montanhas e – Cap. 07, 46
+- globo terrestre e – Cap. 07, 42
+- migrações espirituais e – Cap. 11, 36
 - moral e substituição de
-- gerações – XVIII, 13
-- movimentos telúricos e – IX, 11
-- progresso social e – XI, 36
-- vida na Terra e ação de – VII, 11
+- gerações – Cap. 18, 13
+- movimentos telúricos e – Cap. 09, 11
+- progresso social e – Cap. 11, 36
+- vida na Terra e ação de – Cap. 07, 11
 - Catalepsia
-- aparência de morte física e – XIV, 30
-- ignorância sobre fenômeno de – XV, 37
-- ressurreição e – XIV, 29
-- sensações do Espírito e – XIV, 29
+- aparência de morte física e – Cap. 14, 30
+- ignorância sobre fenômeno de – Cap. 15, 37
+- ressurreição e – Cap. 14, 29
+- sensações do Espírito e – Cap. 14, 29
 - Causa
-- efeito inteligente e – II, 2 e 3
-- Cego de nascença – XV, 24
+- efeito inteligente e – Cap. 02, 2 e 3
+- Cego de nascença – Cap. 15, 24
 - Cegueira
-- fluido espiritual e cura da – XV, 25
+- fluido espiritual e cura da – Cap. 15, 25
 - Céu(s)
-- concepção de abóbada sólida e – V, 3
-- fim da ideia de \* superpostos – V, 12, nota
+- concepção de abóbada sólida e – Cap. 05, 3
+- fim da ideia de \* superpostos – Cap. 05, 12, nota
 - origem da palavra firmamento
-- e concepção de – V, 3
-- pão do – XV, 50
-- Ptolomeu e os diversos – V, 11
-- sinais no – XVIII, 10
+- e concepção de – Cap. 05, 3
+- pão do – Cap. 15, 50
+- Ptolomeu e os diversos – Cap. 05, 11
+- sinais no – Cap. 18, 10
 
-### Chuva
+###### 🔖 Chuva {#chuva}
 
-- águas inferiores, águas superiores e – V, 5
-- hipóteses primitivas sobre a – V, 5
-- período de transição e \* quente – VII, 22
+- águas inferiores, águas superiores e – Cap. 05, 5
+- hipóteses primitivas sobre a – Cap. 05, 5
+- período de transição e \* quente – Cap. 07, 22
 
-### Cidade
+###### 🔖 Cidade {#cidade}
 
-- impenitente – XVII, 14
+- impenitente – Cap. 17, 14
 
-### Ciência
+###### 🔖 Ciência {#ciencia}
 
-- correlação entre – I, 17
-- dificuldades na popularização da – V, 10
-- dogmatismo e – IV, 8
-- Espiritismo e – I, 16
-- evolução da – I, 19
-- fé ortodoxa , gênese e – IV, 7
+- correlação entre – Cap. 01, 17
+- dificuldades na popularização da – Cap. 05, 10
+- dogmatismo e – Cap. 04, 8
+- Espiritismo e – Cap. 01, 16
+- evolução da – Cap. 01, 19
+- fé ortodoxa , gênese e – Cap. 04, 7
 - fenômenos naturais e explicação
-- pela – XIII, 2
-- filosofia e – IV, 11
-- gênese e – IV, 1 a 17
-- heresia e – I, 29
-- leis divinas e – I, 55
-- leis naturais, religião e – IV, 9
-- matéria e – IV, 11
-- milagres e – XIV, 1
-- observação e – I, 54
-- papel da – XVII, 32
-- religião e progresso da – IV, 8
-- revelação de novas leis e – XIII, 3
-- revelação e – I, 2
-- teologia e – I, 29
-- transformações da matéria e – I, 18
+- pela – Cap. 13, 2
+- filosofia e – Cap. 04, 11
+- gênese e – Cap. 04, 1 a 17
+- heresia e – Cap. 01, 29
+- leis divinas e – Cap. 01, 55
+- leis naturais, religião e – Cap. 04, 9
+- matéria e – Cap. 04, 11
+- milagres e – Cap. 14, 1
+- observação e – Cap. 01, 54
+- papel da – Cap. 17, 32
+- religião e progresso da – Cap. 04, 8
+- revelação de novas leis e – Cap. 13, 3
+- revelação e – Cap. 01, 2
+- teologia e – Cap. 01, 29
+- transformações da matéria e – Cap. 01, 18
 
-### Ciúme
+###### 🔖 Ciúme {#ciume}
 
-- inveja e – XVII, 2
-- no trabalho – XVII, 2
+- inveja e – Cap. 17, 2
+- no trabalho – Cap. 17, 2
 
-### Civilização
+###### 🔖 Civilização {#civilizacao}
 
-- reencarnação e – XI, 33
+- reencarnação e – Cap. 11, 33
 
-### Coesão
+###### 🔖 Coesão {#coesao}
 
-- fluido universal, matéria e – VI, 10
+- fluido universal, matéria e – Cap. 06, 10
 
-### Cometas
+###### 🔖 Cometas {#cometas}
 
-- astrologia e – VI, 29
-- constituição dos – IX, 12
-- destinação dos – VI, 30
-- espaço infinito e – VI, 31
-- função dos – IX, 12
-- hipóteses sobre os – VI, 29 e 31
-- limites do sistema solar e – VI, 28
-- matéria formadora dos – VIII, 2
-- órbita dos – VI, 31
+- astrologia e – Cap. 06, 29
+- constituição dos – Cap. 09, 12
+- destinação dos – Cap. 06, 30
+- espaço infinito e – Cap. 06, 31
+- função dos – Cap. 09, 12
+- hipóteses sobre os – Cap. 06, 29 e 31
+- limites do sistema solar e – Cap. 06, 28
+- matéria formadora dos – Cap. 08, 2
+- órbita dos – Cap. 06, 31
 - Compreensão
-- das coisas espirituais – XVI, 8
+- das coisas espirituais – Cap. 16, 8
 - Comunicação
-- discernimento na \* com os Espíritos – I, 58
-- entre os mundos material e espiritual – I, 58
+- discernimento na \* com os Espíritos – Cap. 01, 58
+- entre os mundos material e espiritual – Cap. 01, 58
 - Concordância
-- unanimidade e – XVIII, 17
+- unanimidade e – Cap. 18, 17
 - Conhecimento
-- evolução, verdade, fé e – XII, 12
-- objetivo, meta e – XVI, 1
+- evolução, verdade, fé e – Cap. 12, 12
+- objetivo, meta e – Cap. 16, 1
 - Consciência
-- leis divinas e – III, 6
+- leis divinas e – Cap. 03, 6
 - Consolador
-- anunciação do – XVII, 35
-- Espiritismo e – I, 42
+- anunciação do – Cap. 17, 35
+- Espiritismo e – Cap. 01, 42
 - Espírito de Verdade, denominação
-- de – XVII, 37
+- de – Cap. 17, 37
 - Constelações
-- forma das – V, 12
-- posição das estrelas e – V, 12
-- signos do zodíaco e – V, 12
-- superstições e – V, 12
+- forma das – Cap. 05, 12
+- posição das estrelas e – Cap. 05, 12
+- signos do zodíaco e – Cap. 05, 12
+- superstições e – Cap. 05, 12
 - Contradição
-- apontamento evangélico e – XVII, 45
+- apontamento evangélico e – Cap. 17, 45
 - Convicção
-- tomada de consciência e – XV, 32
+- tomada de consciência e – Cap. 15, 32
 - Copérnico
-- sistema heliocêntrico de – V, 12
+- sistema heliocêntrico de – Cap. 05, 12
 - Cordão fluídico
-- corpo físico e – XIV, 23
+- corpo físico e – Cap. 14, 23
 - Corpo
-- Espírito e modelagem do – XI, 11
+- Espírito e modelagem do – Cap. 11, 11
 - evolução espiritual e características
-- do – XI, 32
-- origem do \* humano – XI, 15
-- princípio inteligente e – III, 22
+- do – Cap. 11, 32
+- origem do \* humano – Cap. 11, 15
+- princípio inteligente e – Cap. 03, 22
 
-### Corpo físico
+###### 🔖 Corpo físico {#corpo-fisico}
 
-- de Jesus – XV, 2
+- de Jesus – Cap. 15, 2
 - de Jesus após suplício de
-- crucificação – XV, 65
-- decomposição de – XV, 40
-- desaparecimento do \* de Jesus – XV, 64
+- crucificação – Cap. 15, 65
+- decomposição de – Cap. 15, 40
+- desaparecimento do \* de Jesus – Cap. 15, 64
 - semelhança de elementos na
-- formação do – XIV, 10
-- volta do Espírito ao – XIV, 30
+- formação do – Cap. 14, 10
+- volta do Espírito ao – Cap. 14, 30
 
-### Corpo fluídico
+###### 🔖 Corpo fluídico {#corpo-fluidico}
 
-- corpo carnal e – XV, 65
-- manifestações do \* de Jesus – XV, 61
+- corpo carnal e – Cap. 15, 65
+- manifestações do \* de Jesus – Cap. 15, 61
 
-### Corpos
+###### 🔖 Corpos {#corpos}
 
 - combinações químicas e
-- variedade dos – X, 5
-- cristalização e – X, 11
-- formação dos – X, 3 e 8
-- formação dos \* compostos – X, 7
+- variedade dos – Cap. 10, 5
+- cristalização e – Cap. 10, 11
+- formação dos – Cap. 10, 3 e 8
+- formação dos \* compostos – Cap. 10, 7
 - formação dos \* orgânicos e
-- inorgânicos – X, 12
-- formação dos \* sólidos – X, 11
-- química e formação dos – X, 4
+- inorgânicos – Cap. 10, 12
+- formação dos \* sólidos – Cap. 10, 11
+- química e formação dos – Cap. 10, 4
 
-### Cosmogonia
+###### 🔖 Cosmogonia {#cosmogonia}
 
-- Moisés e – XII, 9
+- Moisés e – Cap. 12, 9
 
-### Crença
+###### 🔖 Crença {#crenca}
 
 - Espiritismo e – Introd.
-- única – XVII, 32
-- unidade de – XVIII, 19
+- única – Cap. 17, 32
+- unidade de – Cap. 18, 19
 
-### Criação
+###### 🔖 Criação {#criacao}
 
-- Adão, Eva e objetivos da – XII, 19
-- atributos de Deus e compreensão da – II, 8
-- cronologia bíblica da – XII, 1
-- da Terra – VI, 12
-- dos mundos e seres – VI, 12
-- dos seres vivos – X, 2
-- Espírito, matéria e – XI, 8
-- eternidade da – VI, 11
-- igualdade e \* dos Espíritos – I, 30
-- instinto nos seres inferiores da – III, 24
-- inteligência, pensamento e – VI, 54
-- laboratório da – VI, 50
-- mundo espiritual e – VI, 19
-- primórdios da – VI, 15
-- seis dias bíblicos e – XII, 7
+- Adão, Eva e objetivos da – Cap. 12, 19
+- atributos de Deus e compreensão da – Cap. 02, 8
+- cronologia bíblica da – Cap. 12, 1
+- da Terra – Cap. 06, 12
+- dos mundos e seres – Cap. 06, 12
+- dos seres vivos – Cap. 10, 2
+- Espírito, matéria e – Cap. 11, 8
+- eternidade da – Cap. 06, 11
+- igualdade e \* dos Espíritos – Cap. 01, 30
+- instinto nos seres inferiores da – Cap. 03, 24
+- inteligência, pensamento e – Cap. 06, 54
+- laboratório da – Cap. 06, 50
+- mundo espiritual e – Cap. 06, 19
+- primórdios da – Cap. 06, 15
+- seis dias bíblicos e – Cap. 12, 7
 - Criança
-- ideias inatas e – I, 42, nota
+- ideias inatas e – Cap. 01, 42, nota
 - Cristianismo
-- Espiritismo e – I, 30
-- leis divinas e – XIII, 18
-- leis naturais, Espiritismo e – I, 56
+- Espiritismo e – Cap. 01, 30
+- leis divinas e – Cap. 13, 18
+- leis naturais, Espiritismo e – Cap. 01, 56
 - Cristo
-- anteposição de artigo à palavra – I, 62, nota
-- Consolador e – I, 27
-- Deus Pai e – I, 23
-- ensino dos Espíritos e – I, 56
-- Espiritismo e moral do – I, 56
-- Espírito de Verdade e – I, 26
-- evolução do homem e ensino de – I, 28
-- Messias divino – I, 41
-- pedra angular da doutrina de – I, 23
-- pluralidade das existências e – I, 34
-- restabelecimento do ensino de – I, 26
-- revelação de – I, 22
-- Sócrates, Platão e – I, 56
+- anteposição de artigo à palavra – Cap. 01, 62, nota
+- Consolador e – Cap. 01, 27
+- Deus Pai e – Cap. 01, 23
+- ensino dos Espíritos e – Cap. 01, 56
+- Espiritismo e moral do – Cap. 01, 56
+- Espírito de Verdade e – Cap. 01, 26
+- evolução do homem e ensino de – Cap. 01, 28
+- Messias divino – Cap. 01, 41
+- pedra angular da doutrina de – Cap. 01, 23
+- pluralidade das existências e – Cap. 01, 34
+- restabelecimento do ensino de – Cap. 01, 26
+- revelação de – Cap. 01, 22
+- Sócrates, Platão e – Cap. 01, 56
 - Crosta terrestre
-- espessura da – VII, 16
-- período terciário e mudanças na – VII, 34
-- rochas, fogo, água e formação da – VII, 4
+- espessura da – Cap. 07, 16
+- período terciário e mudanças na – Cap. 07, 34
+- rochas, fogo, água e formação da – Cap. 07, 4
 - Crucificação
-- obscuridade do Sol após – XV, 55
+- obscuridade do Sol após – Cap. 15, 55
 - Cura
-- cego de nascença e – XV, 24
-- da mulher curvada – XV, 19
-- de possessos – XV, 29
-- dez leprosos e – XV, 16
-- do paralítico da piscina – XV, 21
+- cego de nascença e – Cap. 15, 24
+- da mulher curvada – Cap. 15, 19
+- de possessos – Cap. 15, 29
+- dez leprosos e – Cap. 15, 16
+- do paralítico da piscina – Cap. 15, 21
 - fenômenos de \* no
-- Evangelho – XV, 10
-- fluidos de Jesus e – XV, 10
-- homem com a mão seca e – XV, 18
-- influência fluídica e – XIV, 34
-- irradiação fluídica e – XV, 11
-- magnetismo e – XIV, 32; XV, 12
-- mecanismo de – XIV, 31
-- perdão das ofensas e – XV, 15
-- ressurreição e – XV, 39
+- Evangelho – Cap. 15, 10
+- fluidos de Jesus e – Cap. 15, 10
+- homem com a mão seca e – Cap. 15, 18
+- influência fluídica e – Cap. 14, 34
+- irradiação fluídica e – Cap. 15, 11
+- magnetismo e – Cap. 14, 32; Cap. 15, 12
+- mecanismo de – Cap. 14, 31
+- perdão das ofensas e – Cap. 15, 15
+- ressurreição e – Cap. 15, 39
 
-## D
+##### 📑 D
 
-### Decálogo
+###### 🔖 Decálogo {#decalogo}
 
-- Cristo e – I, 10
+- Cristo e – Cap. 01, 10
 
-### Desaparecimento
+###### 🔖 Desaparecimento {#desaparecimento}
 
-- do corpo de Jesus – XV, 64
+- do corpo de Jesus – Cap. 15, 64
 
-### Desencarnação
+###### 🔖 Desencarnação {#desencarnacao}
 
-- coletiva – XVIII, 32
-- perispírito e – XI, 18
-- visão de Deus e – II, 35
+- coletiva – Cap. 18, 32
+- perispírito e – Cap. 11, 18
+- visão de Deus e – Cap. 02, 35
 
-### Desencarnado
+###### 🔖 Desencarnado {#desencarnado}
 
-- conhecimento do universo e – VI, 9
+- conhecimento do universo e – Cap. 06, 9
 
-### Desmaterialização
+###### 🔖 Desmaterialização {#desmaterializacao}
 
-- estado de – XVI, 8
+- estado de – Cap. 16, 8
 
-### Destruição
+###### 🔖 Destruição {#destruicao}
 
-- de Jerusalém – XVII, 16
-- perfeição divina e – III, 20
-- seres vivos e lei de – III, 20
-- utilidade da – III, 22
-- vida, cataclismos e – VII, 42
+- de Jerusalém – Cap. 17, 16
+- perfeição divina e – Cap. 03, 20
+- seres vivos e lei de – Cap. 03, 20
+- utilidade da – Cap. 03, 22
+- vida, cataclismos e – Cap. 07, 42
 
-### Deus
+###### 🔖 Deus {#deus}
 
-- ação providencial de – II, 24
-- antropomorfismo e – II, 21
-- causa primeira – II, 1
-- ciência, religião e – VI, 47, nota
-- compreensão e atributos de – II, 8
-- concepção cristã de – I, 23
-- concepção moisaica de – I, 23
-- conhecimento, alegoria e – XII, 12
-- conhecimento humano e – III, 21
-- crença intuitiva em – II, 7
-- criação da alma perfeita e – III, 10, nota
-- criação do mal e – III, 2; 9
-- criação, eternidade e – VI, 14
-- criação ilimitada de – VI, 46
-- criação incessante de – VI, 18 e 46
-- desencarnação e visão de – II, 35
-- desígnios de – XVI, 14
-- dimensão do tempo para – XVI, 3
-- doutrinas filosóficas, religiões e – II, 19
+- ação providencial de – Cap. 02, 24
+- antropomorfismo e – Cap. 02, 21
+- causa primeira – Cap. 02, 1
+- ciência, religião e – Cap. 06, 47, nota
+- compreensão e atributos de – Cap. 02, 8
+- concepção cristã de – Cap. 01, 23
+- concepção moisaica de – Cap. 01, 23
+- conhecimento, alegoria e – Cap. 12, 12
+- conhecimento humano e – Cap. 03, 21
+- crença intuitiva em – Cap. 02, 7
+- criação da alma perfeita e – Cap. 03, 10, nota
+- criação do mal e – Cap. 03, 2; 9
+- criação, eternidade e – Cap. 06, 14
+- criação ilimitada de – Cap. 06, 46
+- criação incessante de – Cap. 06, 18 e 46
+- desencarnação e visão de – Cap. 02, 35
+- desígnios de – Cap. 16, 14
+- dimensão do tempo para – Cap. 16, 3
+- doutrinas filosóficas, religiões e – Cap. 02, 19
 - esforços para o entendimento
-- das leis de – V, 13
-- Espírito, corpo, criação e – II, 27
-- eternidade de – II, 10
+- das leis de – Cap. 05, 13
+- Espírito, corpo, criação e – Cap. 02, 27
+- eternidade de – Cap. 02, 10
 - exemplificação para compreensão
-- da ação de – II, 26
-- existência de – II, 1 a 37
-- fé e – II, 30
-- fé em – XIV, 12
-- fluido inteligente e – II, 25
-- forma de – II, 37
+- da ação de – Cap. 02, 26
+- existência de – Cap. 02, 1 a 37
+- fé e – Cap. 02, 30
+- fé em – Cap. 14, 12
+- fluido inteligente e – Cap. 02, 25
+- forma de – Cap. 02, 37
 - fraternidade universal e
-- concepção de – I, 25
-- humildade perante – III, 21
-- ignorância e negação de – II, 28
-- imaterialidade de – II, 12
-- imutabilidade de – II, 11
-- infinito e – II, 18
-- infinito e atributos de – II, 15
-- inteligência suprema – II, 9
-- justiça e bondade de – II, 14
-- leis do universo e – II, 20
-- médium de – XV, 2
-- mensageiros de – I, 56
-- milagres de – XIII, 15
-- natureza de – II, 6 e 8 a 19
-- onipotência de – II, 13
-- onipresença de – II, 24 e 29
-- onisciência de – XVII, 51
-- origem do mal e – III, 1
-- pensamento de – II, 24
-- perfeição de – II, 15
-- personificação de – XII, 18
-- princípio espiritual e existência de – XI, 2
+- concepção de – Cap. 01, 25
+- humildade perante – Cap. 03, 21
+- ignorância e negação de – Cap. 02, 28
+- imaterialidade de – Cap. 02, 12
+- imutabilidade de – Cap. 02, 11
+- infinito e – Cap. 02, 18
+- infinito e atributos de – Cap. 02, 15
+- inteligência suprema – Cap. 02, 9
+- justiça e bondade de – Cap. 02, 14
+- leis do universo e – Cap. 02, 20
+- médium de – Cap. 15, 2
+- mensageiros de – Cap. 01, 56
+- milagres de – Cap. 13, 15
+- natureza de – Cap. 02, 6 e 8 a 19
+- onipotência de – Cap. 02, 13
+- onipresença de – Cap. 02, 24 e 29
+- onisciência de – Cap. 17, 51
+- origem do mal e – Cap. 03, 1
+- pensamento de – Cap. 02, 24
+- perfeição de – Cap. 02, 15
+- personificação de – Cap. 12, 18
+- princípio espiritual e existência de – Cap. 11, 2
 - provas da existência e do
-- poder de – XIII, 19
-- providência e – II, 20
-- pureza espiritual e percepção de – II, 34
-- religião e concepção de – I, 24
-- revelação cristã e atributos de – I, 25
-- Satanás e – III, 2
-- simbolismo do fiat lux e – VI, 14
-- sobrevivência da alma e – XI, 3
-- trabalho e – XV, 21
-- trabalho incessante de – XV, 23
-- ubiquidade e – II, 29
-- unicidade de – II, 16
-- universo e grandeza de – VI, 47, nota
-- universo, eternidade e – VI, 13
-- verdade e – IV, 8
-- vingança, perdão e – I, 23
+- poder de – Cap. 13, 19
+- providência e – Cap. 02, 20
+- pureza espiritual e percepção de – Cap. 02, 34
+- religião e concepção de – Cap. 01, 24
+- revelação cristã e atributos de – Cap. 01, 25
+- Satanás e – Cap. 03, 2
+- simbolismo do fiat lux e – Cap. 06, 14
+- sobrevivência da alma e – Cap. 11, 3
+- trabalho e – Cap. 15, 21
+- trabalho incessante de – Cap. 15, 23
+- ubiquidade e – Cap. 02, 29
+- unicidade de – Cap. 02, 16
+- universo e grandeza de – Cap. 06, 47, nota
+- universo, eternidade e – Cap. 06, 13
+- verdade e – Cap. 04, 8
+- vingança, perdão e – Cap. 01, 23
 
-### Dilúvio
+###### 🔖 Dilúvio {#diluvio}
 
-- abalo sísmico e \* bíblico – IX, 4
-- teogonias e – IX, 5
+- abalo sísmico e \* bíblico – Cap. 09, 4
+- teogonias e – Cap. 09, 5
 
-### Divindade
+###### 🔖 Divindade {#divindade}
 
-- hipóteses para entendimento da – II, 22
+- hipóteses para entendimento da – Cap. 02, 22
 
-### Doceta
+###### 🔖 Doceta {#doceta}
 
-- corpo de Jesus e opinião de – XV, 67
+- corpo de Jesus e opinião de – Cap. 15, 67
 
-### Dor
+###### 🔖 Dor {#dor}
 
-- progresso e – III, 5
+- progresso e – Cap. 03, 5
 
-### Doutrina
+###### 🔖 Doutrina {#doutrina}
 
-- demoníaca e teólogos – XV, 36
-- do juízo final – XVII, 64
-- dos anjos decaídos – XI, 43
+- demoníaca e teólogos – Cap. 15, 36
+- do juízo final – Cap. 17, 64
+- dos anjos decaídos – Cap. 11, 43
 - efeitos no mundo da pregação
-- da \* de Jesus – XV, 63
+- da \* de Jesus – Cap. 15, 63
 
-### Doutrina Espírita ver Espiritismo
+###### 🔖 Doutrina Espírita ver Espiritismo {#doutrina-espirita-ver-espiritismo}
 
-### Doutrinação
+###### 🔖 Doutrinação {#doutrinacao}
 
-- autoridade moral e – XV, 29
+- autoridade moral e – Cap. 15, 29
 
-### Dupla vista
+###### 🔖 Dupla vista {#dupla-vista}
 
-- beijo de Judas e fenômeno de – XV, 6
-- entrada de Jesus em Jerusalém e – XV, 5
-- fenômeno de \* no Evangelho – XV, 5
-- Jesus portador de – XV, 2
-- outras denominações de – XIV, 22
-- pesca milagrosa e fenômeno de – XV, 7
-- sonambulismo e – XIV, 22
+- beijo de Judas e fenômeno de – Cap. 15, 6
+- entrada de Jesus em Jerusalém e – Cap. 15, 5
+- fenômeno de \* no Evangelho – Cap. 15, 5
+- Jesus portador de – Cap. 15, 2
+- outras denominações de – Cap. 14, 22
+- pesca milagrosa e fenômeno de – Cap. 15, 7
+- sonambulismo e – Cap. 14, 22
 - vocação de apóstolos e
-- fenômeno de – XV, 8
+- fenômeno de – Cap. 15, 8
 
-## E
+##### 📑 E
 
 - Efeito
-- causa inteligente e – II, 3
+- causa inteligente e – Cap. 02, 3
 - Efeito físico
-- mediunidade de – XIV, 41
-- produção de fenômeno de – XV, 42
+- mediunidade de – Cap. 14, 41
+- produção de fenômeno de – Cap. 15, 42
 - Egito
-- movimento dos astros e – V, 10
+- movimento dos astros e – Cap. 05, 10
 - Elementos
-- condições para combinações dos – X, 14
-- contextualização do termo – I, 19, nota
-- tabela periódica dos – VI, notas
+- condições para combinações dos – Cap. 10, 14
+- contextualização do termo – Cap. 01, 19, nota
+- tabela periódica dos – Cap. 06, notas
 - Eletricidade
-- fluido universal, matéria e – VI, 10
+- fluido universal, matéria e – Cap. 06, 10
 - Elias
-- advento do profeta – XVII, 33
+- advento do profeta – Cap. 17, 33
 - Emancipação da alma
-- fenômeno da – XIV, 23
+- fenômeno da – Cap. 14, 23
 - modificação celular do fluido
-- perispiritual e – XIV, 29
-- presciência e – XVI, 5
+- perispiritual e – Cap. 14, 29
+- presciência e – Cap. 16, 5
 - Emaús
-- diálogo na estrada de – XV, 57
+- diálogo na estrada de – Cap. 15, 57
 - Emigração
-- contumácia no mal e – XVIII, 27
+- contumácia no mal e – Cap. 18, 27
 - Encarnação
-- de missionários – I, 6
-- Espírito e – XI, 12 e 17
-- esquecimento do passado e – XI, 21
-- livre-arbítrio e – XI, 26
-- necessidade da – XI, 24
-- perispírito e – XI, 18
-- perturbação do Espírito na – XI, 20
-- progresso e – XI, 26
-- progresso no mundo espiritual e – XI, 25
-- transitoriedade da – XI, 25
+- de missionários – Cap. 01, 6
+- Espírito e – Cap. 11, 12 e 17
+- esquecimento do passado e – Cap. 11, 21
+- livre-arbítrio e – Cap. 11, 26
+- necessidade da – Cap. 11, 24
+- perispírito e – Cap. 11, 18
+- perturbação do Espírito na – Cap. 11, 20
+- progresso e – Cap. 11, 26
+- progresso no mundo espiritual e – Cap. 11, 25
+- transitoriedade da – Cap. 11, 25
 
-### Encarnado
+###### 🔖 Encarnado {#encarnado}
 
 - ação dos Espíritos sobre os fluidos
-- espirituais e – XIV, 16
-- conhecimento do universo e – VI, 9
+- espirituais e – Cap. 14, 16
+- conhecimento do universo e – Cap. 06, 9
 
-### Enfermidade
+###### 🔖 Enfermidade {#enfermidade}
 
-- demônio e diagnose de – XV, 20
+- demônio e diagnose de – Cap. 15, 20
 
-### Enfermo
+###### 🔖 Enfermo {#enfermo}
 
-- ação fluídica sobre – XIV, 32
+- ação fluídica sobre – Cap. 14, 32
 
-### Ensino
+###### 🔖 Ensino {#ensino}
 
 - colaboração e revelação no \*
-- dos Espíritos – I, 57
-- eternidade do \* de Jesus – XVII, 26
+- dos Espíritos – Cap. 01, 57
+- eternidade do \* de Jesus – Cap. 17, 26
 - generalidade e concordância do \*
 - do Espiritismo – Introd.
-- lógica e aceitação do \* dos Espíritos – I, 57
+- lógica e aceitação do \* dos Espíritos – Cap. 01, 57
 - progressividade do \* dos Espíritos – Introd.
 
-### Entendimento
+###### 🔖 Entendimento {#entendimento}
 
 - advertência de Jesus e necessidade
-- de – XV, 32
+- de – Cap. 15, 32
 
-### Epicuro
+###### 🔖 Epicuro {#epicuro}
 
-- movimento do Sol e – V, 2, nota
+- movimento do Sol e – Cap. 05, 2, nota
 - Época
 - previsão de \* precisa de acontecimentos
-- futuros – XVI, 16
+- futuros – Cap. 16, 16
 
-### Equinócio(s)
+###### 🔖 Equinócio(s) {#equinocios}
 
-- conceito de – IX, 7
-- estações do ano e precessão dos – IX, 7
+- conceito de – Cap. 09, 7
+- estações do ano e precessão dos – Cap. 09, 7
 - revoluções periódicas e
-- precessão dos – IX, 6
+- precessão dos – Cap. 09, 6
 
-### Erraticidade
+###### 🔖 Erraticidade {#erraticidade}
 
-- população espiritual da Terra e – XI, 35
+- população espiritual da Terra e – Cap. 11, 35
 
-### Erro
+###### 🔖 Erro {#erro}
 
-- reincidência no – XV, 22
+- reincidência no – Cap. 15, 22
 
-### Escrituras sagradas
+###### 🔖 Escrituras sagradas {#escrituras-sagradas}
 
-- ciência e – I, 29
+- ciência e – Cap. 01, 29
 
-### Espiritismo e explicação das – Introd.
+###### 🔖 Espiritismo e explicação das – Introd. {#espiritismo-e-explicacao-das-introd}
 
 - evolução do conhecimento
-- humano e – I, 29
-- interpretação das – I, 29
-- preconceito e interpretação das – I, 29
+- humano e – Cap. 01, 29
+- interpretação das – Cap. 01, 29
+- preconceito e interpretação das – Cap. 01, 29
 - Espaço
-- conceito de infinito e – VI, 1
-- definição de – VI, 1
-- fluido cósmico e – VI, 10
-- hipótese de viagem no – VI, 47, nota
-- limites do – VI, 1
-- tempo e – VI, 1
+- conceito de infinito e – Cap. 06, 1
+- definição de – Cap. 06, 1
+- fluido cósmico e – Cap. 06, 10
+- hipótese de viagem no – Cap. 06, 47, nota
+- limites do – Cap. 06, 1
+- tempo e – Cap. 06, 1
 - Espécies
-- adaptação e extinção das – VII, 41
+- adaptação e extinção das – Cap. 07, 41
 - Esperanto
-- Kardec e – XVII, 32
+- Kardec e – Cap. 17, 32
 - Espíritas
-- união e fortalecimento dos – I, 53
+- união e fortalecimento dos – Cap. 01, 53
 - Espiritismo
-- advento do – XVII, 60
-- adversários do – I, 44; XV, 25
-- aflitos e – I, 44
-- ajuda a Espírito possessor e – XIV, 48
-- análise das instruções dos Espíritos e – I, 52
-- aniquilamento do – I, 47
-- anjos, demônios e – I, 30
-- aparições de Jesus e – XV, 62
-- autoridade do ensino do – I, 54
-- benefícios morais do – XV, 28
-- centralização de informações e – I, 53
-- ciência e – I, 16 e 40
-- ciência, materialismo e – X, 30
+- advento do – Cap. 17, 60
+- adversários do – Cap. 01, 44; Cap. 15, 25
+- aflitos e – Cap. 01, 44
+- ajuda a Espírito possessor e – Cap. 14, 48
+- análise das instruções dos Espíritos e – Cap. 01, 52
+- aniquilamento do – Cap. 01, 47
+- anjos, demônios e – Cap. 01, 30
+- aparições de Jesus e – Cap. 15, 62
+- autoridade do ensino do – Cap. 01, 54
+- benefícios morais do – Cap. 15, 28
+- centralização de informações e – Cap. 01, 53
+- ciência e – Cap. 01, 16 e 40
+- ciência, materialismo e – Cap. 10, 30
 - compilação das instruções dos
-- Espíritos e – I, 52
+- Espíritos e – Cap. 01, 52
 - conhecimento e consequências
-- do – XVIII, 15
-- conhecimentos para o futuro e – XIII, 9
-- Consolador e – I, 42; XVII, 36
-- constituição do universo e – I, 18
-- convicção, dever e – I, 56
-- crença cega e – I, 13
-- Cristianismo e – I, 30
-- critério da universalidade do – I, 54
-- critérios, análises e – I, 57
-- difusão do – XVII, 56
-- discórdia e – I, 53, nota
-- documentos originais do – I, 52, nota
-- ensino coletivo do – I, 52
-- entendimento da Gênese e – XII, 26
+- do – Cap. 18, 15
+- conhecimentos para o futuro e – Cap. 13, 9
+- Consolador e – Cap. 01, 42; Cap. 17, 36
+- constituição do universo e – Cap. 01, 18
+- convicção, dever e – Cap. 01, 56
+- crença cega e – Cap. 01, 13
+- Cristianismo e – Cap. 01, 30
+- critério da universalidade do – Cap. 01, 54
+- critérios, análises e – Cap. 01, 57
+- difusão do – Cap. 17, 56
+- discórdia e – Cap. 01, 53, nota
+- documentos originais do – Cap. 01, 52, nota
+- ensino coletivo do – Cap. 01, 52
+- entendimento da Gênese e – Cap. 12, 26
 
-### Espírito de Verdade e – XVII, 37
+###### 🔖 Espírito de Verdade e – Cap. 17, 37 {#espirito-de-verdade-e-cap-17-37}
 
-- estruturação do – I, 54
+- estruturação do – Cap. 01, 54
 
-### Evangelho e – I, 41
+###### 🔖 Evangelho e – Cap. 01, 41 {#evangelho-e-cap-01-41}
 
-- evolução do – I, 55
+- evolução do – Cap. 01, 55
 - explicação de fenômenos
-- sobrenaturais e – XIII, 13
-- fé raciocinada e – I, 57
-- futuro do – XVI, 11
-- gradação do ensino do – I, 54
-- julgamento dos críticos do – XIII, 11
-- literatura e divulgação do – I, 48
+- sobrenaturais e – Cap. 13, 13
+- fé raciocinada e – Cap. 01, 57
+- futuro do – Cap. 16, 11
+- gradação do ensino do – Cap. 01, 54
+- julgamento dos críticos do – Cap. 13, 11
+- literatura e divulgação do – Cap. 01, 48
 - lógica e perpetuidade do – Introd.
-- magia, feitiçaria e – I, 19
+- magia, feitiçaria e – Cap. 01, 19
 - maturidade das ideias e – Introd.
-- método científico e – I, 54
-- método experimental e – I, 14
-- milagres e – XIII, 4
+- método científico e – Cap. 01, 54
+- método experimental e – Cap. 01, 14
+- milagres e – Cap. 13, 4
 - misticismo e – Introd.
-- Moisés, Cristo e – I, 45
-- moral cristã e – I, 1
-- moral e – I, 42
-- morte do corpo e – XI, 19
-- objeto de estudo do – I, 16
-- origem do – XVII, 40
-- perseguição ao – I, 47
-- pluralidade das existências e – I, 34
-- postulados do – I, 30
-- propagação do – I, 43
-- raciocínio, livre-arbítrio e – I, 13
-- razão e – I, 57
-- reino de Deus e – I, 62
-- revelação e – I, 1, 12, 45, 52; XIII, 4
+- Moisés, Cristo e – Cap. 01, 45
+- moral cristã e – Cap. 01, 1
+- moral e – Cap. 01, 42
+- morte do corpo e – Cap. 11, 19
+- objeto de estudo do – Cap. 01, 16
+- origem do – Cap. 17, 40
+- perseguição ao – Cap. 01, 47
+- pluralidade das existências e – Cap. 01, 34
+- postulados do – Cap. 01, 30
+- propagação do – Cap. 01, 43
+- raciocínio, livre-arbítrio e – Cap. 01, 13
+- razão e – Cap. 01, 57
+- reino de Deus e – Cap. 01, 62
+- revelação e – Cap. 01, 1, 12, 45, 52; Cap. 13, 4
 - revelação e estudo das leis da
-- natureza pelo – XIII, 14
-- sistemas divergentes do – I, 53
-- sistemas preconcebidos e – I, 53, nota
-- sobrenatural e – I, 40
-- solidariedade e – I, 54 e 56
-- tempestividade na chegada do – XVIII, 25
-- terceira revelação e – I, 20
-- trabalho coletivo e – I, 54
+- natureza pelo – Cap. 13, 14
+- sistemas divergentes do – Cap. 01, 53
+- sistemas preconcebidos e – Cap. 01, 53, nota
+- sobrenatural e – Cap. 01, 40
+- solidariedade e – Cap. 01, 54 e 56
+- tempestividade na chegada do – Cap. 18, 25
+- terceira revelação e – Cap. 01, 20
+- trabalho coletivo e – Cap. 01, 54
 - unidade e diversidade na
-- codificação do – I, 53
-- utilidade do – I, 56
-- verdade, progresso e – I, 55
-- vida futura e – I, 37
+- codificação do – Cap. 01, 53
+- utilidade do – Cap. 01, 56
+- verdade, progresso e – Cap. 01, 55
+- vida futura e – Cap. 01, 37
 - Espírito(s)
-- ação dos \* sobre os fluidos – XIV, 13
-- aparição de \* sob forma luminosa – XV, 4
-- atribuições do \* no universo – XI, 28
-- caráter dos povos e – XI, 30
-- comunicabilidade dos – I, 57
-- conceito de – XIII, 4
-- conhecimento dos – VI, 6
-- controle do corpo e – II, 27
-- corpo físico e – III, 21
-- criações fluídicas e – XIV, 13
-- democratização do ensino dos – I, 56
-- destruição da matéria e – III, 21
+- ação dos \* sobre os fluidos – Cap. 14, 13
+- aparição de \* sob forma luminosa – Cap. 15, 4
+- atribuições do \* no universo – Cap. 11, 28
+- caráter dos povos e – Cap. 11, 30
+- comunicabilidade dos – Cap. 01, 57
+- conceito de – Cap. 13, 4
+- conhecimento dos – Cap. 06, 6
+- controle do corpo e – Cap. 02, 27
+- corpo físico e – Cap. 03, 21
+- criações fluídicas e – Cap. 14, 13
+- democratização do ensino dos – Cap. 01, 56
+- destruição da matéria e – Cap. 03, 21
 - destruição da matéria e
-- evolução do – III, 23
-- domínio sobre a matéria e – III, 10
-- duração do corpo e – XI, 13
-- elementos da natureza e ação dos – XV, 46
-- encarnação dos – XI, 12 e 17
-- encarnação, evolução e – II, 35
-- encarnação na Terra e progresso do – XI, 34
-- encarnação nos diversos mundos e – XI, 34
-- encarnações e individualidade do – XI, 22
-- endurecidos e exílio – XVII, 63
+- evolução do – Cap. 03, 23
+- domínio sobre a matéria e – Cap. 03, 10
+- duração do corpo e – Cap. 11, 13
+- elementos da natureza e ação dos – Cap. 15, 46
+- encarnação dos – Cap. 11, 12 e 17
+- encarnação, evolução e – Cap. 02, 35
+- encarnação na Terra e progresso do – Cap. 11, 34
+- encarnação nos diversos mundos e – Cap. 11, 34
+- encarnações e individualidade do – Cap. 11, 22
+- endurecidos e exílio – Cap. 17, 63
 - época de acontecimentos futuros
-- em previsão por – XVI, 15
-- esforço e desenvolvimento do – III, 23
-- evolução do – III, 24; XI, 28
-- fluido etéreo e necessidades do – XIV, 11
-- fluido perispirítico e – II, 23
-- fluidos espirituais e atuação dos – XIV, 14
-- gradação do saber dos – I, 60
-- humanidade e – I, 57; XI, 23
-- individualização do – VI, 19
-- informações do além-túmulo e – I, 61
-- laços de família e progresso do – XI, 34
-- limites do conhecimento do – I, 54
-- matéria e desenvolvimento do – XI, 10
-- matéria orgânica e – XVIII, 8
-- migrações dos – XI, 35
-- modelagem do corpo e – XI, 11
-- mundo inferior, expiação e – XI, 43
-- opiniões pessoais e – VI, 6
-- origem do – XI, 23
-- paraíso perdido, expiação e – XI, 43
-- perispírito e – XI, 17
-- perispírito, matéria e – XI, 17
-- pesquisa humana e – I, 60
-- povoamento da Terra e – XI, 30
-- princípio espiritual e – XI, 6
-- progresso nos diversos mundos e – XI, 28
-- proteção aos encarnados e – III, 14
-- raças e – XI, 32
-- reencarnação e – III, 23
-- retrocesso e – XI, 48
-- selo da consciência e – VI, 19
-- sobrenatural e – I, 60
-- superioridade dos – I, 61
-- universo e famílias de – VI, 56
-- validade das informações dos – I, 61
+- em previsão por – Cap. 16, 15
+- esforço e desenvolvimento do – Cap. 03, 23
+- evolução do – Cap. 03, 24; Cap. 11, 28
+- fluido etéreo e necessidades do – Cap. 14, 11
+- fluido perispirítico e – Cap. 02, 23
+- fluidos espirituais e atuação dos – Cap. 14, 14
+- gradação do saber dos – Cap. 01, 60
+- humanidade e – Cap. 01, 57; Cap. 11, 23
+- individualização do – Cap. 06, 19
+- informações do além-túmulo e – Cap. 01, 61
+- laços de família e progresso do – Cap. 11, 34
+- limites do conhecimento do – Cap. 01, 54
+- matéria e desenvolvimento do – Cap. 11, 10
+- matéria orgânica e – Cap. 18, 8
+- migrações dos – Cap. 11, 35
+- modelagem do corpo e – Cap. 11, 11
+- mundo inferior, expiação e – Cap. 11, 43
+- opiniões pessoais e – Cap. 06, 6
+- origem do – Cap. 11, 23
+- paraíso perdido, expiação e – Cap. 11, 43
+- perispírito e – Cap. 11, 17
+- perispírito, matéria e – Cap. 11, 17
+- pesquisa humana e – Cap. 01, 60
+- povoamento da Terra e – Cap. 11, 30
+- princípio espiritual e – Cap. 11, 6
+- progresso nos diversos mundos e – Cap. 11, 28
+- proteção aos encarnados e – Cap. 03, 14
+- raças e – Cap. 11, 32
+- reencarnação e – Cap. 03, 23
+- retrocesso e – Cap. 11, 48
+- selo da consciência e – Cap. 06, 19
+- sobrenatural e – Cap. 01, 60
+- superioridade dos – Cap. 01, 61
+- universo e famílias de – Cap. 06, 56
+- validade das informações dos – Cap. 01, 61
 
-### Espírito benévolo
+###### 🔖 Espírito benévolo {#espirito-benevolo}
 
-- atuação de – XVIII, 29
+- atuação de – Cap. 18, 29
 
-### Espírito desmaterializado
+###### 🔖 Espírito desmaterializado {#espirito-desmaterializado}
 
-- tempo e espaço para o – XVI, 3
+- tempo e espaço para o – Cap. 16, 3
 
-### Espírito encarnado
+###### 🔖 Espírito encarnado {#espirito-encarnado}
 
-- concepção das coisas espirituais e – XVI, 10
+- concepção das coisas espirituais e – Cap. 16, 10
 
-### Espírito impuro
+###### 🔖 Espírito impuro {#espirito-impuro}
 
-- ação de \* sobre animais – XV, 34
+- ação de \* sobre animais – Cap. 15, 34
 
-### Espírito inferior
+###### 🔖 Espírito inferior {#espirito-inferior}
 
-- influência de – XIV, 21
-- visão espiritual de – XVI, 3
+- influência de – Cap. 14, 21
+- visão espiritual de – Cap. 16, 3
 
-### Espírito protetor
+###### 🔖 Espírito protetor {#espirito-protetor}
 
-- missão do – III, 16
+- missão do – Cap. 03, 16
 - Espírito puro
-- qualidades de – XV, 2
+- qualidades de – Cap. 15, 2
 - Espírito superior
-- mundos inferiores e – XIV, 9
+- mundos inferiores e – Cap. 14, 9
 - Espiritualidade
-- maravilhoso e – XIII, 3
+- maravilhoso e – Cap. 13, 3
 - Espiritualismo
-- intuição e – XI, 4
+- intuição e – Cap. 11, 4
 - Espiritualização
-- predição e – XVI, 8
+- predição e – Cap. 16, 8
 - Estratificação
-- solo da Terra e – VII, 2, 3 e 6
+- solo da Terra e – Cap. 07, 2, 3 e 6
 - Estrela polar
 - observação da \* e esfericidade
-- da Terra – V, 10
+- da Terra – Cap. 05, 10
 - Estrelas
-- abóbada celeste e fixação das – V, 4
-- abóbada celeste e movimentos das – V, 8
-- distâncias, ilusão de ótica e – VI, 40
-- espaço infinito e – V, 12
-- gravitação universal e grupos de – VI, 37
-- sistemas binários de – VI, 38
+- abóbada celeste e fixação das – Cap. 05, 4
+- abóbada celeste e movimentos das – Cap. 05, 8
+- distâncias, ilusão de ótica e – Cap. 06, 40
+- espaço infinito e – Cap. 05, 12
+- gravitação universal e grupos de – Cap. 06, 37
+- sistemas binários de – Cap. 06, 38
 - sistemas planetários de \*
-- duplas – VI, 38, nota
-- sistemas planetários e – VI, 38
-- Via Láctea e \* fixas – VI, 37
+- duplas – Cap. 06, 38, nota
+- sistemas planetários e – Cap. 06, 38
+- Via Láctea e \* fixas – Cap. 06, 37
 - Eternidade
-- imortalidade e – VI, 52
-- tempo e – VI, 13
+- imortalidade e – Cap. 06, 52
+- tempo e – Cap. 06, 13
 - Eva
-- Adão, vergonha e – XII, 19
+- Adão, vergonha e – Cap. 12, 19
 - Evangelho
 - doutrina de Jesus e adulterações
-- do – XVII, 28
-- entendimento do – XVII, 38
-- fenômenos psíquicos e – XV, 1
-- Jesus e pregação do – XV, 26
-- milagres do – XV, 1
-- pregação do – XVII, 58
+- do – Cap. 17, 28
+- entendimento do – Cap. 17, 38
+- fenômenos psíquicos e – Cap. 15, 1
+- Jesus e pregação do – Cap. 15, 26
+- milagres do – Cap. 15, 1
+- pregação do – Cap. 17, 58
 
-### Evangelista
+###### 🔖 Evangelista {#evangelista}
 
 - reprodução da palavra de Jesus
-- pelos – XVII, 45
+- pelos – Cap. 17, 45
 
-### Evolução
+###### 🔖 Evolução {#evolucao}
 
-- conhecimento, verdade, fé e – XII, 12
-- dos Espíritos e dos mundos – XI, 43
-- humanidade e processos de – XVIII, 13
-- material e espiritual – III, 10
+- conhecimento, verdade, fé e – Cap. 12, 12
+- dos Espíritos e dos mundos – Cap. 11, 43
+- humanidade e processos de – Cap. 18, 13
+- material e espiritual – Cap. 03, 10
 
-### Excesso
+###### 🔖 Excesso {#excesso}
 
 - narrativas evangélicas e \* de
-- imaginação – XV, 55
+- imaginação – Cap. 15, 55
 
-### Exílio
+###### 🔖 Exílio {#exilio}
 
-- analogia do paraíso perdido e – XI, 47
-- encarnação na Terra e – XVIII, 27
+- analogia do paraíso perdido e – Cap. 11, 47
+- encarnação na Terra e – Cap. 18, 27
 
-### Espíritos retardatários e – XVIII, 29
+###### 🔖 Espíritos retardatários e – Cap. 18, 29 {#espiritos-retardatarios-e-cap-18-29}
 
-- mundos inferiores e – XVII, 63
-- progresso no – XI, 49
+- mundos inferiores e – Cap. 17, 63
+- progresso no – Cap. 11, 49
 
-### Expiação
+###### 🔖 Expiação {#expiacao}
 
-- paraíso perdido e – XI, 43
+- paraíso perdido e – Cap. 11, 43
 
-### Expulsão
+###### 🔖 Expulsão {#expulsao}
 
-- legião de maus Espíritos e – XV, 34
+- legião de maus Espíritos e – Cap. 15, 34
 - Êxtase
-- visão de Deus e – II, 36
+- visão de Deus e – Cap. 02, 36
 
-## F
+##### 📑 F
 
-### Família
+###### 🔖 Família {#familia}
 
-- desarmonia e – XVII, 48
-- divisão da – XV, 32
+- desarmonia e – Cap. 17, 48
+- divisão da – Cap. 15, 32
 
-### Fariseus
+###### 🔖 Fariseus {#fariseus}
 
-- expulsão de Espíritos obsessores e – XV, 36
-- fermento dos – XV, 49
-- maldição contra os – XVII, 22
+- expulsão de Espíritos obsessores e – Cap. 15, 36
+- fermento dos – Cap. 15, 49
+- maldição contra os – Cap. 17, 22
 
-### Fascinação
+###### 🔖 Fascinação {#fascinacao}
 
 - rejeição de assistência
-- espiritual e vítimas de – XIV, 46
+- espiritual e vítimas de – Cap. 14, 46
 
-### Fatos espíritas
+###### 🔖 Fatos espíritas {#fatos-espiritas}
 
-- teorias e – I, 14
+- teorias e – Cap. 01, 14
 
-### Fauna
+###### 🔖 Fauna {#fauna}
 
-- período secundário e – VII, 30 e 31
+- período secundário e – Cap. 07, 30 e 31
 - Fé
-- ação curadora do fluido e – XV, 11
+- ação curadora do fluido e – Cap. 15, 11
 - conhecimento, verdade,
-- evolução e – XII, 12
-- Deus e – II, 30
-- gênese, ciência e – IV, 7
+- evolução e – Cap. 12, 12
+- Deus e – Cap. 02, 30
+- gênese, ciência e – Cap. 04, 7
 - Felicidade
-- progresso moral e – III, 7
-- progresso moral e \* terrena – XVIII, 19
+- progresso moral e – Cap. 03, 7
+- progresso moral e \* terrena – Cap. 18, 19
 - Fenômeno
 - elementos do universo e
 - explicação de – Introd.
-- explicação sobrenatural para o – XIII, 8
-- ignorância e negação de – II, 28
+- explicação sobrenatural para o – Cap. 13, 8
+- ignorância e negação de – Cap. 02, 28
 - Fenômeno espírita
-- aparência de sobrenatural do – XIII, 6
-- conceito de – XIII, 9
-- espontaneidade do – XIII, 12
-- produção do – XIII, 7
-- provocação do – XIII, 12
+- aparência de sobrenatural do – Cap. 13, 6
+- conceito de – Cap. 13, 9
+- espontaneidade do – Cap. 13, 12
+- produção do – Cap. 13, 7
+- provocação do – Cap. 13, 12
 - Fenômeno psíquico
-- conceito de – XV, 1
+- conceito de – Cap. 15, 1
 - propriedades do fluido
-- perispiritual e – XV, 1
-- vida corpórea e percepção de – XIV, 2
+- perispiritual e – Cap. 15, 1
+- vida corpórea e percepção de – Cap. 14, 2
 - Fenômeno sobrenatural
-- explicação de – XIV, 22
+- explicação de – Cap. 14, 22
 - Filho
-- morte prematura de – I, 42, nota
+- morte prematura de – Cap. 01, 42, nota
 - Filosofia
-- ciência e – IV, 11
-- mundos habitados e – VI, 57
-- sistemas contraditórios da – IV, 11
+- ciência e – Cap. 04, 11
+- mundos habitados e – Cap. 06, 57
+- sistemas contraditórios da – Cap. 04, 11
 - Final
-- do mundo – XVII, 47 a 58
+- do mundo – Cap. 17, 47 a 58
 - Firmamento
-- concepção de – V, 3
+- concepção de – Cap. 05, 3
 - Física
-- leis da – IV, 3
+- leis da – Cap. 04, 3
 
-### Flagelação
+###### 🔖 Flagelação {#flagelacao}
 
-- notícia da crucificação e – XVII, 6
+- notícia da crucificação e – Cap. 17, 6
 
-### Flagelo
+###### 🔖 Flagelo {#flagelo}
 
-- Espírito, corpo material e – XVIII, 33
-- materialismo e – XVIII, 35
+- Espírito, corpo material e – Cap. 18, 33
+- materialismo e – Cap. 18, 35
 
-### Flammarion, C.
+###### 🔖 Flammarion, C. {#flammarion-c}
 
-- Galileu e – VI, nota
+- Galileu e – Cap. 06, nota
 
-### Fluido cósmico universal
+###### 🔖 Fluido cósmico universal {#fluido-cosmico-universal}
 
-- conceito de – XIV, 2
-- definição de – VI, 17
-- estado de eterização do – XIV, 3
-- eternidade da criação e – VI, 17
-- formação dos mundos e – IX, 15
+- conceito de – Cap. 14, 2
+- definição de – Cap. 06, 17
+- estado de eterização do – Cap. 14, 3
+- eternidade da criação e – Cap. 06, 17
+- formação dos mundos e – Cap. 09, 15
 - hipóteses sobre propriedades
-- do – VI, 10, nota
+- do – Cap. 06, 10, nota
 - imponderabilidade e materialização
-- do – XIV, 2
-- papel de agente terapêutico do – XIV, 31
-- princípio vital e – VI, 18
-- reinos naturais e – VI, 18
-- transformações do – XIV, 31
+- do – Cap. 14, 2
+- papel de agente terapêutico do – Cap. 14, 31
+- princípio vital e – Cap. 06, 18
+- reinos naturais e – Cap. 06, 18
+- transformações do – Cap. 14, 31
 
-### Fluido espiritual
+###### 🔖 Fluido espiritual {#fluido-espiritual}
 
-- magnetizador e ação do – XIV, 33
+- magnetizador e ação do – Cap. 14, 33
 
-### Fluidos
+###### 🔖 Fluidos {#fluidos}
 
-- afinidade e maus – XIV, 21
-- aquisição de qualidades pelos – XIV, 17
+- afinidade e maus – Cap. 14, 21
+- aquisição de qualidades pelos – Cap. 14, 17
 - corpo de animal e \* do ser
-- humano – XV, 34
+- humano – Cap. 15, 34
 - derivados do fluido cósmico universal e
-- ação dos Espíritos superiores – XIV, 3
-- lei dos – XIV, 21
-- matéria, inteligência e – II, 22
-- natureza e propriedades dos – XIV, 1
-- qualidades dos – XIV, 16
+- ação dos Espíritos superiores – Cap. 14, 3
+- lei dos – Cap. 14, 21
+- matéria, inteligência e – Cap. 02, 22
+- natureza e propriedades dos – Cap. 14, 1
+- qualidades dos – Cap. 14, 16
 
-### Fluidos espirituais
+###### 🔖 Fluidos espirituais {#fluidos-espirituais}
 
-- atuação dos Espíritos sobre os – XIV, 14
-- conceito de – XIV, 5
-- pensamento e – XIV, 18
-- propriedades dos – XIV, 13
+- atuação dos Espíritos sobre os – Cap. 14, 14
+- conceito de – Cap. 14, 5
+- pensamento e – Cap. 14, 18
+- propriedades dos – Cap. 14, 13
 - Fogo
 - abalos sísmicos, formação da
-- crosta terrestre e – IX, 2
+- crosta terrestre e – Cap. 09, 2
 - ação do \* na formação da
-- crosta terrestre – IX, 2
+- crosta terrestre – Cap. 09, 2
 - Formas-pensamento
-- produção de – XIV, 15
+- produção de – Cap. 14, 15
 - Fósseis
-- camadas geológicas e – VII, 7, 11
-- definição de – VII, 7, nota
-- espécies extintas e – VII, 11
-- identificação de animais e – VII, 9
-- petrificação, incrustação e – VII, 7, nota
+- camadas geológicas e – Cap. 07, 7, 11
+- definição de – Cap. 07, 7, nota
+- espécies extintas e – Cap. 07, 11
+- identificação de animais e – Cap. 07, 9
+- petrificação, incrustação e – Cap. 07, 7, nota
 - temperatura do período de
-- tempo e – VII, 7
-- tipos de – VII, 8
-- transição e \* vegetais – VII, 27
+- tempo e – Cap. 07, 7
+- tipos de – Cap. 07, 8
+- transição e \* vegetais – Cap. 07, 27
 - Fotografia
-- pensamento e – XIV, 15
+- pensamento e – Cap. 14, 15
 - Fraternidade
-- leis da natureza e – I, 35
-- mundos habitados e \* universal – VI, 56
-- predomínio da – XVIII, 17
+- leis da natureza e – Cap. 01, 35
+- mundos habitados e \* universal – Cap. 06, 56
+- predomínio da – Cap. 18, 17
 - Fruto proibido
-- simbologia do – XII, 16
+- simbologia do – Cap. 12, 16
 - Futuro
 - capacitação para conhecimento do
-- presente em relação ao – XVI, 2
+- presente em relação ao – Cap. 16, 2
 - caráter do indivíduo e predição
-- do – XVI, 12
-- conhecimento e – XVI, 1
-- construção do próprio – XVI, 12
+- do – Cap. 16, 12
+- conhecimento e – Cap. 16, 1
+- construção do próprio – Cap. 16, 12
 
-## G
+##### 📑 G
 
 - Galileu
-- C. Flammarion e – VI, nota
-- invenção do telescópio e – V, 12
-- sistema de Copérnico e – V, 12
+- C. Flammarion e – Cap. 06, nota
+- invenção do telescópio e – Cap. 05, 12
+- sistema de Copérnico e – Cap. 05, 12
 - Geleira
-- animais diluvianos e – VII, 46, nota
+- animais diluvianos e – Cap. 07, 46, nota
 
-### Gelo
+###### 🔖 Gelo {#gelo}
 
-- aquecimento solar, polos e – VII, 27
+- aquecimento solar, polos e – Cap. 07, 27
 
-### Gênese, A
+###### 🔖 Gênese, A {#genese-a}
 
 - formulação de hipóteses e – Introd.
 - objeto de estudo de – Introd.
 - oportunidade da publicação de – Introd.
 
-### Gênese
+###### 🔖 Gênese {#genese}
 
-- alegoria da – XII, 12
-- alegoria da \* bíblica – XII, 3 e 4
-- alegoria e – IV, 5; XII, 16
-- astronomia e – V, 14
-- ciência e – IV, 1 a 17; XII, 3
-- civilizações da Antiguidade e – XI, 41
+- alegoria da – Cap. 12, 12
+- alegoria da \* bíblica – Cap. 12, 3 e 4
+- alegoria e – Cap. 04, 5; Cap. 12, 16
+- astronomia e – Cap. 05, 14
+- ciência e – Cap. 04, 1 a 17; Cap. 12, 3
+- civilizações da Antiguidade e – Cap. 11, 41
 - conhecimento material e
-- espiritual e – IV, 17
+- espiritual e – Cap. 04, 17
 - conhecimentos astronômicos e \*
-- moisaica – VI, 47, nota
-- corporal e espiritual – IV, 11
-- criação da luz do Sol e – XII, 8
-- datação das rochas e – VII, 7
-- época do surgimento do homem e – VII, 49
-- espaço, tempo e – VI, 2
-- Espiritismo, Bíblia e – XII, 2
-- Espiritismo e entendimento da – XII, 26
-- existência do homem, geologia e – XI, 41
-- fé ortodoxa, ciência e – IV, 7
-- geologia e – VII, 1
-- leis divinas, milagres e – IV, 3
-- mediunidade e compreensão da – IV, 16
-- Moisés e – IV, 5
-- períodos geológicos e – VII, 13
-- períodos geológicos e \* bíblica – XII, 5-6
+- moisaica – Cap. 06, 47, nota
+- corporal e espiritual – Cap. 04, 11
+- criação da luz do Sol e – Cap. 12, 8
+- datação das rochas e – Cap. 07, 7
+- época do surgimento do homem e – Cap. 07, 49
+- espaço, tempo e – Cap. 06, 2
+- Espiritismo, Bíblia e – Cap. 12, 2
+- Espiritismo e entendimento da – Cap. 12, 26
+- existência do homem, geologia e – Cap. 11, 41
+- fé ortodoxa, ciência e – Cap. 04, 7
+- geologia e – Cap. 07, 1
+- leis divinas, milagres e – Cap. 04, 3
+- mediunidade e compreensão da – Cap. 04, 16
+- Moisés e – Cap. 04, 5
+- períodos geológicos e – Cap. 07, 13
+- períodos geológicos e \* bíblica – Cap. 12, 5-6
 - química e entendimento da
-- - da Terra – X, 10
-- século XIX e entendimento da – IV, 4
-- traduções da – IV, 5
+- - da Terra – Cap. 10, 10
+- século Cap. 19 e entendimento da – Cap. 04, 4
+- traduções da – Cap. 04, 5
 
-### Gênio
+###### 🔖 Gênio {#genio}
 
-- autoridade do \* desencarnado – I, 57
+- autoridade do \* desencarnado – Cap. 01, 57
 - preexistência da alma, pluralidade
-- das existências e – I, 5
-- revelação e – I, 5
+- das existências e – Cap. 01, 5
+- revelação e – Cap. 01, 5
 - Geocentrismo
-- ignorância das leis naturais e – V, 6
-- observação visível e – V, 1
-- preconceito, ciência e – V, 6
-- religiões e – V, 7
-- vaidade humana e – VI, 47, nota
+- ignorância das leis naturais e – Cap. 05, 6
+- observação visível e – Cap. 05, 1
+- preconceito, ciência e – Cap. 05, 6
+- religiões e – Cap. 05, 7
+- vaidade humana e – Cap. 06, 47, nota
 - Geologia
-- formação da Terra e – IV, 3; VII, 1
-- Gênese e – VII, 1
+- formação da Terra e – Cap. 04, 3; Cap. 07, 1
+- Gênese e – Cap. 07, 1
 - Geração espontânea
-- princípio vital e – VI, 18
-- questões sobre – X, 20-23
+- princípio vital e – Cap. 06, 18
+- questões sobre – Cap. 10, 20-23
 - Geração nova
-- caracteres da – XVIII, 28
-- destino da – XVIII, 24
-- formação de – XVIII, 6
-- propensão para o bem e – XVIII, 27
-- surgimento da – XVIII, 26
+- caracteres da – Cap. 18, 28
+- destino da – Cap. 18, 24
+- formação de – Cap. 18, 6
+- propensão para o bem e – Cap. 18, 27
+- surgimento da – Cap. 18, 26
 - Globo
-- revoluções do \* terrestre – IX, 1
+- revoluções do \* terrestre – Cap. 09, 1
 - Granito
-- períodos geológicos e – VII, 20
-- resfriamento da Terra e – VII, 19
+- períodos geológicos e – Cap. 07, 20
+- resfriamento da Terra e – Cap. 07, 19
 - Gravidade
-- fluido universal, matéria e – VI, 10
+- fluido universal, matéria e – Cap. 06, 10
 - Gravitação
-- movimento estelares e – VI, 42
+- movimento estelares e – Cap. 06, 42
 
-## H
+##### 📑 H
 
 - Heresia
-- ciência e – I, 29
+- ciência e – Cap. 01, 29
 - Hierarquia
-- Jesus na \* dos Espíritos puros – XV, 2
+- Jesus na \* dos Espíritos puros – Cap. 15, 2
 - Hiparco
-- descobertas de – V, 10
-- invenção do astrolábio e – V, 10
+- descobertas de – Cap. 05, 10
+- invenção do astrolábio e – Cap. 05, 10
 - Hipocrisia
-- advertências e condenação à – XVII, 23
+- advertências e condenação à – Cap. 17, 23
 
-### Homem
+###### 🔖 Homem {#homem}
 
-- ação do \* na natureza – III, 4
+- ação do \* na natureza – Cap. 03, 4
 - alargamento do horizonte
-- moral do – XVII, 2
-- características do reino animal e – X, 26
-- classificação biológica do – X, 27
+- moral do – Cap. 17, 2
+- características do reino animal e – Cap. 10, 26
+- classificação biológica do – Cap. 10, 27
 - compreensão da natureza
-- espiritual do – XVII, 2
+- espiritual do – Cap. 17, 2
 - condições naturais e surgimento
-- do – VII, 48
-- conhecimento do futuro do – XVI, 3
+- do – Cap. 07, 48
+- conhecimento do futuro do – Cap. 16, 3
 - conhecimento do princípio
-- espiritual e – III, 20
-- conhecimento do universo e – VI, 8
-- conhecimento espiritual e – IV, 15
-- conhecimento material e – IV, 15
-- consciência, moral e – I, 56
-- corpo, Espírito e – X, 29
-- corpo material do – XI, 14
-- desígnios de Deus e – III, 3
-- destruição e senso moral do – III, 24
+- espiritual e – Cap. 03, 20
+- conhecimento do universo e – Cap. 06, 8
+- conhecimento espiritual e – Cap. 04, 15
+- conhecimento material e – Cap. 04, 15
+- consciência, moral e – Cap. 01, 56
+- corpo, Espírito e – Cap. 10, 29
+- corpo material do – Cap. 11, 14
+- desígnios de Deus e – Cap. 03, 3
+- destruição e senso moral do – Cap. 03, 24
 - domínio do orgulho e do egoísmo
-- sobre o – XVIII, 18
-- entendimento de Deus e – III, 20
-- espécies extintas e – VII, 32
-- evolução científica e – VI, 8
-- evolução das espécies e – X, 28
-- flagelos naturais, inteligência e – III, 4
+- sobre o – Cap. 18, 18
+- entendimento de Deus e – Cap. 03, 20
+- espécies extintas e – Cap. 07, 32
+- evolução científica e – Cap. 06, 8
+- evolução das espécies e – Cap. 10, 28
+- flagelos naturais, inteligência e – Cap. 03, 4
 - gênese bíblica e época do
-- surgimento do – VII, 49
+- surgimento do – Cap. 07, 49
 - gênese, geologia, povoamento
-- da Terra e – XI, 42
-- harmonia da criação e – III, 20
-- instinto e – III, 11
-- instinto e evolução do – III, 24
-- instinto, inteligência e – III, 19
-- lei do progresso, trabalho e – III, 9
-- limo da terra e criação do – XII, 11
-- livre-arbítrio, bem, mal e – III, 9
-- livre-arbítrio, sofrimento e – III, 6
-- macaco e evolução do – XI, 15
-- mal e inferioridade do – III, 6
-- males físicos e morais e – III, 3
+- da Terra e – Cap. 11, 42
+- harmonia da criação e – Cap. 03, 20
+- instinto e – Cap. 03, 11
+- instinto e evolução do – Cap. 03, 24
+- instinto, inteligência e – Cap. 03, 19
+- lei do progresso, trabalho e – Cap. 03, 9
+- limo da terra e criação do – Cap. 12, 11
+- livre-arbítrio, bem, mal e – Cap. 03, 9
+- livre-arbítrio, sofrimento e – Cap. 03, 6
+- macaco e evolução do – Cap. 11, 15
+- mal e inferioridade do – Cap. 03, 6
+- males físicos e morais e – Cap. 03, 3
 - matéria e capacidade de
-- observação do – VI, 5
+- observação do – Cap. 06, 5
 - meios de observação, conhecimento
-- do mundo e – IV, 2
-- moral cristã e – I, 56
-- mundo espiritual e – VI, 8, nota
-- obra e existência do \* antediluviano – II, 4
-- orgulho, criação divina e – VII, 32
-- origem do – XI, 29
-- origem do mal e – III, 8
-- percepção de Deus e – II, 21
-- perfeição e – III, 9
-- período pós-diluviano e – VII, 48-49
+- do mundo e – Cap. 04, 2
+- moral cristã e – Cap. 01, 56
+- mundo espiritual e – Cap. 06, 8, nota
+- obra e existência do \* antediluviano – Cap. 02, 4
+- orgulho, criação divina e – Cap. 07, 32
+- origem do – Cap. 11, 29
+- origem do mal e – Cap. 03, 8
+- percepção de Deus e – Cap. 02, 21
+- perfeição e – Cap. 03, 9
+- período pós-diluviano e – Cap. 07, 48-49
 - períodos geológicos e surgimento
-- do – VII, 49
-- progresso e – VII, 48
-- tempo, eternidade e – VI, 2
-- teoria sobre a evolução do – XI, 16
-- Terra, eternidade e – VI, 52
-- visão de Deus e – II, 36
+- do – Cap. 07, 49
+- progresso e – Cap. 07, 48
+- tempo, eternidade e – Cap. 06, 2
+- teoria sobre a evolução do – Cap. 11, 16
+- Terra, eternidade e – Cap. 06, 52
+- visão de Deus e – Cap. 02, 36
 - Homens duplos
 - aparição de pessoas vivas e
-- lenda de – XIV, 37
+- lenda de – Cap. 14, 37
 - Hulha
-- formação da – VII, 26
-- tempo e formação das camadas de – VII, 27
+- formação da – Cap. 07, 26
+- tempo e formação das camadas de – Cap. 07, 27
 - humanidade
-- amadurecimento da – XVIII, 20
-- apelo de Jesus à – XVII, 17
-- aspirações da – XVIII, 14
-- conceito de – XVIII, 12
-- espiritualidade e – I, 60
-- evolução dos Espíritos e – XI, 32
-- formas de evolução da – XVIII, 13
-- interesses gerais da – XVI, 13
-- madureza da – XVIII, 25
-- material e espiritual – I, 62
-- meta para a – XVIII, 23
-- origem da – XI, 39
-- pensamento divino e – XVIII, 3
-- períodos da – XVIII, 34
-- progresso da – I, 5; XVIII, 2
-- transformações da – XVIII, 9, 14
-- virtudes em falta na – XVIII, 5
+- amadurecimento da – Cap. 18, 20
+- apelo de Jesus à – Cap. 17, 17
+- aspirações da – Cap. 18, 14
+- conceito de – Cap. 18, 12
+- espiritualidade e – Cap. 01, 60
+- evolução dos Espíritos e – Cap. 11, 32
+- formas de evolução da – Cap. 18, 13
+- interesses gerais da – Cap. 16, 13
+- madureza da – Cap. 18, 25
+- material e espiritual – Cap. 01, 62
+- meta para a – Cap. 18, 23
+- origem da – Cap. 11, 39
+- pensamento divino e – Cap. 18, 3
+- períodos da – Cap. 18, 34
+- progresso da – Cap. 01, 5; Cap. 18, 2
+- transformações da – Cap. 18, 9, 14
+- virtudes em falta na – Cap. 18, 5
 
-### Humildade
+###### 🔖 Humildade {#humildade}
 
-- prática da – XVII, 54
+- prática da – Cap. 17, 54
 
-## I
+##### 📑 I
 
-### Ictiossauro
+###### 🔖 Ictiossauro {#ictiossauro}
 
-- descrição do – VII, 30
+- descrição do – Cap. 07, 30
 
-### Ideias
+###### 🔖 Ideias {#ideias}
 
-- comunhão de \* entre espíritas – I, 53, nota
-- espiritualistas e incredulidade – XVIII, 22
+- comunhão de \* entre espíritas – Cap. 01, 53, nota
+- espiritualistas e incredulidade – Cap. 18, 22
 - internacionalidade das \*
-- espíritas – I, 53, nota
+- espíritas – Cap. 01, 53, nota
 
-### Ideoplastia
+###### 🔖 Ideoplastia {#ideoplastia}
 
-- pensamento do Espírito e – XIV, 14
+- pensamento do Espírito e – Cap. 14, 14
 
-### Ignorância
+###### 🔖 Ignorância {#ignorancia}
 
-- ciência, milagres e – XIII, 2
+- ciência, milagres e – Cap. 13, 2
 
-### Igreja
+###### 🔖 Igreja {#igreja}
 
-- milagres e – XIII, 16
+- milagres e – Cap. 13, 16
 
-### Iguanodonte
+###### 🔖 Iguanodonte {#iguanodonte}
 
-- descrição do – VII, 30
+- descrição do – Cap. 07, 30
 
-### Imortalidade
+###### 🔖 Imortalidade {#imortalidade}
 
-- mundo físico e – VI, 53
-- viajora – VI, 53
+- mundo físico e – Cap. 06, 53
+- viajora – Cap. 06, 53
 
-### Imperfeição
+###### 🔖 Imperfeição {#imperfeicao}
 
 - dominante entre fariseus e
-- saduceus – XV, 49
+- saduceus – Cap. 15, 49
 
-### Imprensa
+###### 🔖 Imprensa {#imprensa}
 
-- divulgação da ciência e – V, 13
+- divulgação da ciência e – Cap. 05, 13
 
-### Incredulidade
+###### 🔖 Incredulidade {#incredulidade}
 
-- dúvidas e – XV, 58
-- ideias espiritualistas e – XVIII, 22
-- missão de Jesus e – XV, 49
-- vida futura e – IV, 14
+- dúvidas e – Cap. 15, 58
+- ideias espiritualistas e – Cap. 18, 22
+- missão de Jesus e – Cap. 15, 49
+- vida futura e – Cap. 04, 14
 - Índia
-- movimento dos astros e – V, 10
+- movimento dos astros e – Cap. 05, 10
 
-### Individualidade
+###### 🔖 Individualidade {#individualidade}
 
-- encarnação e \* do Espírito – XI, 22
+- encarnação e \* do Espírito – Cap. 11, 22
 - Indivíduo
-- predição do futuro e caráter do – XVI, 12
+- predição do futuro e caráter do – Cap. 16, 12
 - Inferno
-- arrependimento e – I, 33
-- geologia, astronomia e – V, 9
-- localização do – V, 9
+- arrependimento e – Cap. 01, 33
+- geologia, astronomia e – Cap. 05, 9
+- localização do – Cap. 05, 9
 - Infinito
-- espaço, velocidade e – VI, 1
-- extensão, duração e – VI, 2
+- espaço, velocidade e – Cap. 06, 1
+- extensão, duração e – Cap. 06, 2
 - Influência
-- proximidade e – XVIII, 10
+- proximidade e – Cap. 18, 10
 - sistemas planetários e \* de uns
-- sobre outros – XVIII, 8
+- sobre outros – Cap. 18, 8
 - Inspiração
-- vigilância contra má – XV, 53
+- vigilância contra má – Cap. 15, 53
 - Instinto
-- ação, inteligência e – III, 13
-- conservação da espécie e – III, 10
-- definição de – III, 11
-- Espiritismo e – III, 14
-- Espíritos protetores e – III, 16
-- hipóteses sobre a origem do – III, 13-16
-- incapacidade mental e – III, 14
-- individualidade e – III, 15
-- infância e – III, 14
-- inteligência e – III, 12
-- matéria e – III, 12
-- necessidade dos seres e – III, 15
-- paixão, inteligência e – III, 10
-- paixões e – III, 18
-- princípio espiritual e – III, 12
-- proteção espiritual e – III, 14
-- providência divina e – III, 15
-- unidade na ação do – III, 15
-- vegetais, animais e – III, 11
+- ação, inteligência e – Cap. 03, 13
+- conservação da espécie e – Cap. 03, 10
+- definição de – Cap. 03, 11
+- Espiritismo e – Cap. 03, 14
+- Espíritos protetores e – Cap. 03, 16
+- hipóteses sobre a origem do – Cap. 03, 13-16
+- incapacidade mental e – Cap. 03, 14
+- individualidade e – Cap. 03, 15
+- infância e – Cap. 03, 14
+- inteligência e – Cap. 03, 12
+- matéria e – Cap. 03, 12
+- necessidade dos seres e – Cap. 03, 15
+- paixão, inteligência e – Cap. 03, 10
+- paixões e – Cap. 03, 18
+- princípio espiritual e – Cap. 03, 12
+- proteção espiritual e – Cap. 03, 14
+- providência divina e – Cap. 03, 15
+- unidade na ação do – Cap. 03, 15
+- vegetais, animais e – Cap. 03, 11
 - Inteligência
-- definição de – III, 12
-- hipóteses sobre a origem da – III, 13-16
-- instinto, ação e – III, 13
-- livre-arbítrio, responsabilidade e – XII, 16
-- progresso moral e da – XVIII, 2
+- definição de – Cap. 03, 12
+- hipóteses sobre a origem da – Cap. 03, 13-16
+- instinto, ação e – Cap. 03, 13
+- livre-arbítrio, responsabilidade e – Cap. 12, 16
+- progresso moral e da – Cap. 18, 2
 
-### Interpretação
+###### 🔖 Interpretação {#interpretacao}
 
-- correntes de pensamento e – XVIII, 1
+- correntes de pensamento e – Cap. 18, 1
 
-### Introdução
+###### 🔖 Introdução {#introducao}
 
 - da 1<sup>a</sup> edição de A gênese – Introd.
 
-### Inveja
+###### 🔖 Inveja {#inveja}
 
-- ciúmes e – XVII, 2
-- no trabalho – XVII, 2
+- ciúmes e – Cap. 17, 2
+- no trabalho – Cap. 17, 2
 
-### Irradiação
+###### 🔖 Irradiação {#irradiacao}
 
-- fluídica – XV, 44
+- fluídica – Cap. 15, 44
 
-## J
+##### 📑 J
 
-### Jairo
+###### 🔖 Jairo {#jairo}
 
-- filha de – XV, 37
+- filha de – Cap. 15, 37
 
-### Jerusalém
+###### 🔖 Jerusalém {#jerusalem}
 
-- destruição de – XVII, 16
+- destruição de – Cap. 17, 16
 
-### Jesus
+###### 🔖 Jesus {#jesus}
 
-- compatriotas e aparentados de – XVII, 2
+- compatriotas e aparentados de – Cap. 17, 2
 - convite ao trabalho santificante
-- por – XV, 21
-- crença em – XV, 48, 50
-- curas operadas por – XV, 26
+- por – Cap. 15, 21
+- crença em – Cap. 15, 48, 50
+- curas operadas por – Cap. 15, 26
 - domínio sobre a matéria e superioridade
-- do perispírito de – XV, 2
-- encarnação e missão de – XV, 2
-- estada de \* na Terra – XV, 65
-- humanidade terrestre e – XV, 2
-- morte e paixão de – XVII, 4
-- mutabilidade na aparência de – XV, 59
-- natureza de – XV, 1
-- permanência do ensino de – XVII, 26
-- segundo advento de – XVII, 43
-- sumo sacerdote dos Judeus e – XVII, 44
+- do perispírito de – Cap. 15, 2
+- encarnação e missão de – Cap. 15, 2
+- estada de \* na Terra – Cap. 15, 65
+- humanidade terrestre e – Cap. 15, 2
+- morte e paixão de – Cap. 17, 4
+- mutabilidade na aparência de – Cap. 15, 59
+- natureza de – Cap. 15, 1
+- permanência do ensino de – Cap. 17, 26
+- segundo advento de – Cap. 17, 43
+- sumo sacerdote dos Judeus e – Cap. 17, 44
 
-### João Batista
+###### 🔖 João Batista {#joao-batista}
 
-- identidade de Jesus e – XV, 27
+- identidade de Jesus e – Cap. 15, 27
 
-### João Evangelista, Espírito
+###### 🔖 João Evangelista, Espírito {#joao-evangelista-espirito}
 
 - ensino de \* sobre a tentação
-- de Jesus – XV, 53
+- de Jesus – Cap. 15, 53
 
-### Judaísmo
+###### 🔖 Judaísmo {#judaismo}
 
-- Evangelho de Jesus e – XVII, 27
+- Evangelho de Jesus e – Cap. 17, 27
 - Juízo final
-- atributos de Deus e – XVII, 66
-- separação definitiva e dogma do – XVII, 65
-- visão espírita do dogma do – XVII, 67
+- atributos de Deus e – Cap. 17, 66
+- separação definitiva e dogma do – Cap. 17, 65
+- visão espírita do dogma do – Cap. 17, 67
 - Julgamento
-- da posteridade – XVII, 2
+- da posteridade – Cap. 17, 2
 - Justiça
-- Deus, bondade e – II, 14
-- distributiva e imparcial – I, 33
+- Deus, bondade e – Cap. 02, 14
+- distributiva e imparcial – Cap. 01, 33
 - Justiça divina
 - pecado original, preexistência
-- da alma e – I, 38
-- reencarnação e – XI, 33
+- da alma e – Cap. 01, 38
+- reencarnação e – Cap. 11, 33
 
-## K
+##### 📑 K
 
 - Kardec, Allan
-- Esperanto e – XVII, 32
-- papel de – I, 55, nota
+- Esperanto e – Cap. 17, 32
+- papel de – Cap. 01, 55, nota
 
-## L
+##### 📑 L
 
 - Lázaro
-- ressurreição de – XV, 40
+- ressurreição de – Cap. 15, 40
 - Lei divina
-- imutabilidade da – XIII, 16
-- missionários, profetas e – III, 6
+- imutabilidade da – Cap. 13, 16
+- missionários, profetas e – Cap. 03, 6
 - Lei natural
-- fluido cósmico universal e – VI, 11
-- homem e entendimento da – VI, 11
-- predições e – XVI, 1
-- punição e – XII, 21
+- fluido cósmico universal e – Cap. 06, 11
+- homem e entendimento da – Cap. 06, 11
+- predições e – Cap. 16, 1
+- punição e – Cap. 12, 21
 - reencarnação nos diversos mundos
-- e aprendizado da – XI, 34
+- e aprendizado da – Cap. 11, 34
 - Lei universal
-- diversificação dos efeitos da – VI, 10
+- diversificação dos efeitos da – Cap. 06, 10
 - Leproso
-- cura de – XV, 16
+- cura de – Cap. 15, 16
 - Letargia
-- morte e – XV, 39
+- morte e – Cap. 15, 39
 - perispírito, transmissão de sensações
-- ao Espírito e – XIV, 29
+- ao Espírito e – Cap. 14, 29
 
-### Levitação
+###### 🔖 Levitação {#levitacao}
 
-- fenômeno de – XV, 41
-- mediunidade de efeitos físicos e – XIV, 43
+- fenômeno de – Cap. 15, 41
+- mediunidade de efeitos físicos e – Cap. 14, 43
 
-### Linguagem
+###### 🔖 Linguagem {#linguagem}
 
-- bom senso e – XV, 25
+- bom senso e – Cap. 15, 25
 
-### Linhas isotérmicas
+###### 🔖 Linhas isotérmicas {#linhas-isotermicas}
 
-- deslocamento das – IX, 9
+- deslocamento das – Cap. 09, 9
 
-### Livre-arbítrio
+###### 🔖 Livre-arbítrio {#livre-arbitrio}
 
-- busca do bem e – III, 7
-- causa e efeito e – I, 32
-- inteligência, responsabilidade e – XII, 16
-- mal e – III, 10
-- sofrimento e – I, 32
+- busca do bem e – Cap. 03, 7
+- causa e efeito e – Cap. 01, 32
+- inteligência, responsabilidade e – Cap. 12, 16
+- mal e – Cap. 03, 10
+- sofrimento e – Cap. 01, 32
 
-### Livro dos espíritos, O
+###### 🔖 Livro dos espíritos, O {#livro-dos-espiritos-o}
 
 - consolidação de – Introd.
-- convergência de ideias e – I, 52, nota
-- Espiritismo filosófico e – I, 52, nota
-- racionalidade, credulidade e – I, 52, nota
+- convergência de ideias e – Cap. 01, 52, nota
+- Espiritismo filosófico e – Cap. 01, 52, nota
+- racionalidade, credulidade e – Cap. 01, 52, nota
 
-### Lógica
+###### 🔖 Lógica {#logica}
 
-- aceitação do ensino dos Espíritos e – I, 57
+- aceitação do ensino dos Espíritos e – Cap. 01, 57
 
-### Lua
+###### 🔖 Lua {#lua}
 
 - atualização de conhecimentos
-- sobre a – VI, notas
-- face oculta e rotação da – VI, notas
-- hipótese sobre a face oculta da – VI, 25
-- hipótese sobre a natureza da – VI, 25
-- movimento e forma da – VI, 24
-- programa Apolo e – VI, notas
-- rotação e translação da – VI, notas
-- teorias sobre a – VI, 25, nota
+- sobre a – Cap. 06, notas
+- face oculta e rotação da – Cap. 06, notas
+- hipótese sobre a face oculta da – Cap. 06, 25
+- hipótese sobre a natureza da – Cap. 06, 25
+- movimento e forma da – Cap. 06, 24
+- programa Apolo e – Cap. 06, notas
+- rotação e translação da – Cap. 06, notas
+- teorias sobre a – Cap. 06, 25, nota
 
-### Luz
+###### 🔖 Luz {#luz}
 
-- criação da \* na gênese bíblica – XII, 8
-- criação do Sol e – XII, 8
-- espiritual e \* material – XIV, 24
-- fluido universal, matéria e – VI, 10
+- criação da \* na gênese bíblica – Cap. 12, 8
+- criação do Sol e – Cap. 12, 8
+- espiritual e \* material – Cap. 14, 24
+- fluido universal, matéria e – Cap. 06, 10
 - observação dos astros e
-- velocidade da – VI, 51
+- velocidade da – Cap. 06, 51
 
-## M
+##### 📑 M
 
 - Madureza
 - compreensão das faculdades do
-- Espírito e \* espiritual – XVI, 10
+- Espírito e \* espiritual – Cap. 16, 10
 - Magia
-- Espiritismo e – I, 19
+- Espiritismo e – Cap. 01, 19
 - Magnetismo
-- cura e – XV, 13
-- cura e emprego do – XIV, 33
-- Espiritismo e – XIII, 13
-- fluido universal, matéria e – VI, 10
+- cura e – Cap. 15, 13
+- cura e emprego do – Cap. 14, 33
+- Espiritismo e – Cap. 13, 13
+- fluido universal, matéria e – Cap. 06, 10
 - Magos
-- estrela dos – XV, 4
+- estrela dos – Cap. 15, 4
 - Mal
-- bem e – III, 20
-- categorias de – III, 3
-- causa do – III, 3
-- existência do – III, 8
-- imperfeição humana e – III, 9
-- imprevidência e – III, 8
-- livre-arbítrio e – III, 8
+- bem e – Cap. 03, 20
+- categorias de – Cap. 03, 3
+- causa do – Cap. 03, 3
+- existência do – Cap. 03, 8
+- imperfeição humana e – Cap. 03, 9
+- imprevidência e – Cap. 03, 8
+- livre-arbítrio e – Cap. 03, 8
 - oração e boa vontade no
-- combate ao – XIV, 46
-- origem do – III, 1 a 10
-- remédio e – III, 7
-- responsabilidade e – III, 10
-- supérfluo e – III, 8
+- combate ao – Cap. 14, 46
+- origem do – Cap. 03, 1 a 10
+- remédio e – Cap. 03, 7
+- responsabilidade e – Cap. 03, 10
+- supérfluo e – Cap. 03, 8
 - Manifestação
-- do corpo fluídico de Jesus – XV, 57, 61
-- efeitos físicos – XIV, 43
+- do corpo fluídico de Jesus – Cap. 15, 57, 61
+- efeitos físicos – Cap. 14, 43
 - Mãos
-- imposição das – XIV, 32
-- Mão seca – XV, 18
+- imposição das – Cap. 14, 32
+- Mão seca – Cap. 15, 18
 - Mar
-- deslocamentos do – IX, 9
+- deslocamentos do – Cap. 09, 9
 - exemplos de deslocamento
-- do – IX, 10, nota
+- do – Cap. 09, 10, nota
 - matéria orgânica e deslocamento
-- do – IX, 10
+- do – Cap. 09, 10
 
-### Maravilhoso
+###### 🔖 Maravilhoso {#maravilhoso}
 
-- espiritualidade e – XIII, 3
+- espiritualidade e – Cap. 13, 3
 
-### Matéria
+###### 🔖 Matéria {#materia}
 
-- agregação e desagregação da – VI, 50
-- ciclos de existência dos mundos e – VI, 50
-- cósmica universal – VI, 5
-- desenvolvimento do Espírito e – XI, 10
-- destruição da – VI, 49
-- diversidade da – VI, 3
-- Espírito, perispírito e – XI, 17
-- fluido cósmico e – VI, 10
-- primórdios da Terra e estado da – VII, 18
-- princípio espiritual e – XI, 10
-- tangível e o fluido universal – XIV, 6
-- transformações da – VI, 3; 7
-- transformações da \* orgânica – X, 13
-- unidade da – VI, 6
+- agregação e desagregação da – Cap. 06, 50
+- ciclos de existência dos mundos e – Cap. 06, 50
+- cósmica universal – Cap. 06, 5
+- desenvolvimento do Espírito e – Cap. 11, 10
+- destruição da – Cap. 06, 49
+- diversidade da – Cap. 06, 3
+- Espírito, perispírito e – Cap. 11, 17
+- fluido cósmico e – Cap. 06, 10
+- primórdios da Terra e estado da – Cap. 07, 18
+- princípio espiritual e – Cap. 11, 10
+- tangível e o fluido universal – Cap. 14, 6
+- transformações da – Cap. 06, 3; 7
+- transformações da \* orgânica – Cap. 10, 13
+- unidade da – Cap. 06, 6
 
-### Materialismo
+###### 🔖 Materialismo {#materialismo}
 
-- esperança, responsabilidade e – I, 37
-- progresso e – III, 24, nota
+- esperança, responsabilidade e – Cap. 01, 37
+- progresso e – Cap. 03, 24, nota
 
-### Materialização
+###### 🔖 Materialização {#materializacao}
 
-- aparição tangível e duração da – XIV, 36
+- aparição tangível e duração da – Cap. 14, 36
 
-### Maternidade
+###### 🔖 Maternidade {#maternidade}
 
-- providência divina, instinto e – III, 15
+- providência divina, instinto e – Cap. 03, 15
 
-### Médium
+###### 🔖 Médium {#medium}
 
-- atuação do Espírito e tarefa do – XIII, 5
-- classificação de – XIII, 12
-- concurso do perispírito e – XIV, 41
-- Espírito de taumaturgo e – XIII, 12
-- milagre e – XIII, 12
+- atuação do Espírito e tarefa do – Cap. 13, 5
+- classificação de – Cap. 13, 12
+- concurso do perispírito e – Cap. 14, 41
+- Espírito de taumaturgo e – Cap. 13, 12
+- milagre e – Cap. 13, 12
 
-### Mediunidade
+###### 🔖 Mediunidade {#mediunidade}
 
-- conhecimento da alma e – IV, 16
-- curadora – XV, 11
-- de cura – XIV, 34
-- de efeitos físicos – XIV, 41
-- gênese e – IV, 16
-- importância da – IV, 16
-- vulgarização da – XVII, 59
+- conhecimento da alma e – Cap. 04, 16
+- curadora – Cap. 15, 11
+- de cura – Cap. 14, 34
+- de efeitos físicos – Cap. 14, 41
+- gênese e – Cap. 04, 16
+- importância da – Cap. 04, 16
+- vulgarização da – Cap. 17, 59
 
-### Megalossauro
+###### 🔖 Megalossauro {#megalossauro}
 
-- descrição do – VII, 30
+- descrição do – Cap. 07, 30
 - Meio
-- mudança de – XIV, 11
-- natureza dos seres e o – XIV, 11
+- mudança de – Cap. 14, 11
+- natureza dos seres e o – Cap. 14, 11
 - Mesas girantes
 - propriedades do fluido
-- perispirítico e – XIV, 40
+- perispirítico e – Cap. 14, 40
 - Metafísica
-- Espiritismo e – IV, 16
-- raciocínios humanos e – VI, 19
+- Espiritismo e – Cap. 04, 16
+- raciocínios humanos e – Cap. 06, 19
 - Migração
 - evolução dos mundos e \* dos
-- Espíritos – XI, 43
+- Espíritos – Cap. 11, 43
 - Milagre
-- acepção vulgar do vocábulo – XIII, 1
-- caracteres do – XIII, 1
-- conceito de – XIII, 1
-- Deus e – XIII, 15
-- Espiritismo e – XIII, 4
-- etimologia do vocábulo – XIII, 1, 19
-- origem sobrenatural do – XIII, 1
-- sentido teológico do – XIII, 1
+- acepção vulgar do vocábulo – Cap. 13, 1
+- caracteres do – Cap. 13, 1
+- conceito de – Cap. 13, 1
+- Deus e – Cap. 13, 15
+- Espiritismo e – Cap. 13, 4
+- etimologia do vocábulo – Cap. 13, 1, 19
+- origem sobrenatural do – Cap. 13, 1
+- sentido teológico do – Cap. 13, 1
 - Minerais
-- período secundário e – VII, 29
+- período secundário e – Cap. 07, 29
 - Mineralogia
-- superfície da Terra e – IV, 3
+- superfície da Terra e – Cap. 04, 3
 - Missão
-- classificação da – XVI, 13
+- classificação da – Cap. 16, 13
 - Mistério
-- princípio das coisas e – X, 1
+- princípio das coisas e – Cap. 10, 1
 - Mitologia
-- alegoria e – XII, 15
-- movimento do Sol e \* grega – V, 2, nota
-- movimento do Sol e \* hindu – V, 2, nota
+- alegoria e – Cap. 12, 15
+- movimento do Sol e \* grega – Cap. 05, 2, nota
+- movimento do Sol e \* hindu – Cap. 05, 2, nota
 - Moisés
-- cosmogonia e – XII, 9
-- Deus dos exércitos e – I, 23
-- Deus único e – I, 21
-- palavra de Deus e – XII, 10
-- revelação de – I, 21
+- cosmogonia e – Cap. 12, 9
+- Deus dos exércitos e – Cap. 01, 23
+- Deus único e – Cap. 01, 21
+- palavra de Deus e – Cap. 12, 10
+- revelação de – Cap. 01, 21
 
-### Molécula
+###### 🔖 Molécula {#molecula}
 
 - cura do corpo físico e substituição
-- de \* malsã – XIV, 31
+- de \* malsã – Cap. 14, 31
 
-### Montanhas
+###### 🔖 Montanhas {#montanhas}
 
-- elevação das – VII, 36
-- formação das – IX, 3
-- geologia e – VII, 37
-- geologia e idade das – IX, 3
+- elevação das – Cap. 07, 36
+- formação das – Cap. 09, 3
+- geologia e – Cap. 07, 37
+- geologia e idade das – Cap. 09, 3
 
-### Moral
+###### 🔖 Moral {#moral}
 
-- progresso intelectual e – XVIII, 2
-- unidade do Espiritismo e – I, 53, nota
+- progresso intelectual e – Cap. 18, 2
+- unidade do Espiritismo e – Cap. 01, 53, nota
 
-### Morte
+###### 🔖 Morte {#morte}
 
-- aparência de – XV, 39
-- aparente da filha de Jairo – XV, 37
-- Espírito e aceitação da própria – I, 15
+- aparência de – Cap. 15, 39
+- aparente da filha de Jairo – Cap. 15, 37
+- Espírito e aceitação da própria – Cap. 01, 15
 - momento exato da \* e
-- premonição – XVII, 20
+- premonição – Cap. 17, 20
 
-### Movimento
+###### 🔖 Movimento {#movimento}
 
-- corpos celestes e \* de translação – XVIII, 10
+- corpos celestes e \* de translação – Cap. 18, 10
 
-### Mulher
+###### 🔖 Mulher {#mulher}
 
-- costela de Adão e igualdade da – XII, 11
-- curvada – XV, 19
-- hemorroíssa – XV, 10
+- costela de Adão e igualdade da – Cap. 12, 11
+- curvada – Cap. 15, 19
+- hemorroíssa – Cap. 15, 10
 
-### Multiplicação
+###### 🔖 Multiplicação {#multiplicacao}
 
-- dos pães no sentido alegórico – XV, 48
+- dos pães no sentido alegórico – Cap. 15, 48
 
-### Mundo(s)
+###### 🔖 Mundo(s) {#mundos}
 
-- diversidade dos – VI, 50
+- diversidade dos – Cap. 06, 50
 - encarnação dos Espíritos e
-- evolução dos – XI, 44
+- evolução dos – Cap. 11, 44
 - estágio da Terra em relação
-- aos outros – XI, 27
-- etapas da formação dos – IX, 15
+- aos outros – Cap. 11, 27
+- etapas da formação dos – Cap. 09, 15
 - evolução científica e
-- entendimento do – IV, 3
-- evolução dos Espíritos e – IX, 15
-- existência e morte dos – VI, 50
-- final do – XVII, 47, 58
-- formação dos – VI, 22
-- migrações de Espíritos entre – XI, 37
+- entendimento do – Cap. 04, 3
+- evolução dos Espíritos e – Cap. 09, 15
+- existência e morte dos – Cap. 06, 50
+- final do – Cap. 17, 47, 58
+- formação dos – Cap. 06, 22
+- migrações de Espíritos entre – Cap. 11, 37
 - migrações dos Espíritos e
-- evolução dos – XI, 43
-- perispírito e \* habitados – XIV, 8
-- progresso material e espiritual dos – XI, 27
-- sistemas e conhecimento do – V, 1
-- vida inteligente nos – VI, 54
+- evolução dos – Cap. 11, 43
+- perispírito e \* habitados – Cap. 14, 8
+- progresso material e espiritual dos – Cap. 11, 27
+- sistemas e conhecimento do – Cap. 05, 1
+- vida inteligente nos – Cap. 06, 54
 - Mundo espiritual
-- caráter do – I, 58
-- ciência, filosofia, religião e – IV, 12
-- comunicação com o – I, 20
-- conhecimento do \* e relações sociais – I, 20
-- encarnação e progresso no – XI, 25
-- fluidos do – XIV, 4
-- manifestações variadas do – I, 58
-- morte e conhecimento do – I, 31
-- mundo material e – XVIII, 9
-- percepção no – I, 61
-- relação com o – I, 31
-- revelação e – I, 11
-- superstição e – I, 11
+- caráter do – Cap. 01, 58
+- ciência, filosofia, religião e – Cap. 04, 12
+- comunicação com o – Cap. 01, 20
+- conhecimento do \* e relações sociais – Cap. 01, 20
+- encarnação e progresso no – Cap. 11, 25
+- fluidos do – Cap. 14, 4
+- manifestações variadas do – Cap. 01, 58
+- morte e conhecimento do – Cap. 01, 31
+- mundo material e – Cap. 18, 9
+- percepção no – Cap. 01, 61
+- relação com o – Cap. 01, 31
+- revelação e – Cap. 01, 11
+- superstição e – Cap. 01, 11
 - Mundo material
-- mundo espiritual e – XVIII, 9
+- mundo espiritual e – Cap. 18, 9
 
-## N
+##### 📑 N
 
 - Naim
-- filho da viúva de – XV, 38
+- filho da viúva de – Cap. 15, 38
 - Natureza
-- atuação das forças da – II, 6
-- elementos material, espiritual e – I, 18
-- fluido divino e – II, 24
-- formação da Terra e laboratório da – X, 9
-- inteligência humana e – II, 5
-- milagre e leis da – XIII, 1
+- atuação das forças da – Cap. 02, 6
+- elementos material, espiritual e – Cap. 01, 18
+- fluido divino e – Cap. 02, 24
+- formação da Terra e laboratório da – Cap. 10, 9
+- inteligência humana e – Cap. 02, 5
+- milagre e leis da – Cap. 13, 1
 - princípio espiritual e compreensão
-- das leis da – III, 24, nota
+- das leis da – Cap. 03, 24, nota
 - sistemas planetários e
-- diversidade da – VI, 61
-- Terra e diversidade da – VI, 60
+- diversidade da – Cap. 06, 61
+- Terra e diversidade da – Cap. 06, 60
 - Nebulosa(s)
 - ação das forças centrífuga e
-- centrípeta na – VI, 21
-- espaço entre as – VI, 45
-- formação de – VI, 20
-- formação do Sol e – VI, 21
-- grandeza das – VI, 39
+- centrípeta na – Cap. 06, 21
+- espaço entre as – Cap. 06, 45
+- formação de – Cap. 06, 20
+- formação do Sol e – Cap. 06, 21
+- grandeza das – Cap. 06, 39
 - movimentos de rotação de
-- translação e – VI, 21
-- mundos e vida nas – VI, 47
-- observação humana e – VI, 47
-- origem de sistemas solares e – VI, 22
-- reação das – XVIII, 8
-- resolúveis e irresolúveis – VI, 47, nota
+- translação e – Cap. 06, 21
+- mundos e vida nas – Cap. 06, 47
+- observação humana e – Cap. 06, 47
+- origem de sistemas solares e – Cap. 06, 22
+- reação das – Cap. 18, 8
+- resolúveis e irresolúveis – Cap. 06, 47, nota
 
-### Noé
+###### 🔖 Noé {#noe}
 
-- povoamento da Terra e – XI, 42
+- povoamento da Terra e – Cap. 11, 42
 
-### Nostradamus
+###### 🔖 Nostradamus {#nostradamus}
 
-- forma velada nas profecias de – XVI, 17
+- forma velada nas profecias de – Cap. 16, 17
 
-### Nova era
+###### 🔖 Nova era {#nova-era}
 
-- progresso moral e – XVIII, 6
+- progresso moral e – Cap. 18, 6
 
-## O
+##### 📑 O
 
-### Observação
+###### 🔖 Observação {#observacao}
 
-- ciência e – VI, 8
-- mundo dos Espíritos e – VI, 8, nota
-- teoria e – I, 15
+- ciência e – Cap. 06, 8
+- mundo dos Espíritos e – Cap. 06, 8, nota
+- teoria e – Cap. 01, 15
 
-### Obsessão
+###### 🔖 Obsessão {#obsessao}
 
-- autoridade moral e – XIV, 46
-- bons fluidos e combate a – XIV, 46
-- causas de – XIV, 46
-- coletividade de Espíritos maus e – XV, 34
-- conceito de – XIV, 45
-- cura de – XV, 30
-- deficiências na visão e na fala por – XV, 32
-- imperfeição moral e – XIV, 46
-- individual e epidêmica– XV, 35
-- mudez e – XV, 33
-- possessão e – XIV, 48
-- tratamento da – XV, 33
+- autoridade moral e – Cap. 14, 46
+- bons fluidos e combate a – Cap. 14, 46
+- causas de – Cap. 14, 46
+- coletividade de Espíritos maus e – Cap. 15, 34
+- conceito de – Cap. 14, 45
+- cura de – Cap. 15, 30
+- deficiências na visão e na fala por – Cap. 15, 32
+- imperfeição moral e – Cap. 14, 46
+- individual e epidêmica– Cap. 15, 35
+- mudez e – Cap. 15, 33
+- possessão e – Cap. 14, 48
+- tratamento da – Cap. 15, 33
 
-### Obsessor
+###### 🔖 Obsessor {#obsessor}
 
 - atuação individual ou coletiva de
-- maus Espíritos na – XIV, 49
-- maneira de atuação de – XIV, 47
+- maus Espíritos na – Cap. 14, 49
+- maneira de atuação de – Cap. 14, 47
 - Opiniões
-- corpo carnal de Jesus e – XV, 64
+- corpo carnal de Jesus e – Cap. 15, 64
 - Oração
-- autoridade moral e valor da – XV, 31
-- boa vontade e – XIV, 46
+- autoridade moral e valor da – Cap. 15, 31
+- boa vontade e – Cap. 14, 46
 - Origem
 - do corpo perispirítico e do
-- corpo carnal – XIV, 7
-- do gênero humano – XI, 39
+- corpo carnal – Cap. 14, 7
+- do gênero humano – Cap. 11, 39
 
-## P
+##### 📑 P
 
 - Paixão
-- de Jesus – XVII, 3
-- desenvolvimento da razão e – III, 18
-- instinto e – III, 18
+- de Jesus – Cap. 17, 3
+- desenvolvimento da razão e – Cap. 03, 18
+- instinto e – Cap. 03, 18
 - Palavra
-- Espíritos puros e \* de Deus – I, 10
-- eternidade da \* de Jesus – XVII, 25
+- Espíritos puros e \* de Deus – Cap. 01, 10
+- eternidade da \* de Jesus – Cap. 17, 25
 - Paleontologia
-- sucessão dos seres e – IV, 3
+- sucessão dos seres e – Cap. 04, 3
 - Parábola(s)
 - do filho pródigo e do bom
-- samaritano – XV, 53
-- dos vinhateiros homicidas – XVII, 29, 30
+- samaritano – Cap. 15, 53
+- dos vinhateiros homicidas – Cap. 17, 29, 30
 - Paraíso
-- anjos decaídos e perda do – XI, 43
-- narrativa bíblica e perda do – XII, 13-14
-- perda do – XI, 43; XII, 13
+- anjos decaídos e perda do – Cap. 11, 43
+- narrativa bíblica e perda do – Cap. 12, 13-14
+- perda do – Cap. 11, 43; Cap. 12, 13
 - Paraíso perdido
 - encarnação expiatória em mundo
-- inferior e – XII, 23
+- inferior e – Cap. 12, 23
 - Paralítico
-- da piscina – XV, 21
-- de Cafarnaum e cura – XV, 13
+- da piscina – Cap. 15, 21
+- de Cafarnaum e cura – Cap. 15, 13
 - Páscoa
 - previsão de Jesus sobre a
-- crucificação e a – XVII, 8
+- crucificação e a – Cap. 17, 8
 - Passe
-- cura e – XIV, 32
+- cura e – Cap. 14, 32
 
-### Paulo,
+###### 🔖 Paulo, {#paulo}
 
-- perispírito e – I, 39
+- perispírito e – Cap. 01, 39
 
-### Paulo de Tarso
+###### 🔖 Paulo de Tarso {#paulo-de-tarso}
 
-- céus de Ptolomeu e – V, 11
+- céus de Ptolomeu e – Cap. 05, 11
 
-### Pecado original
+###### 🔖 Pecado original {#pecado-original}
 
 - infração da lei divina e
-- simbologia do – XII, 20
-- preexistência da alma e – I, 38
+- simbologia do – Cap. 12, 20
+- preexistência da alma e – Cap. 01, 38
 
-### Pedra angular – XVII, 27
+###### 🔖 Pedra angular – Cap. 17, 27 {#pedra-angular-cap-17-27}
 
-### Penalização
+###### 🔖 Penalização {#penalizacao}
 
-- Espíritos culpados e – XVII, 14
+- Espíritos culpados e – Cap. 17, 14
 
-### Pensamento
+###### 🔖 Pensamento {#pensamento}
 
 - ação dos Espíritos pela vontade
-- do – XIV, 14
-- dos Espíritos e criações fluídicas – XIV, 14
-- fluidos espirituais e atuação do – XIV, 15
-- fotografia do – XIV, 13, 15
-- imagens fluídicas e – XIV, 15
-- irradiações fluídicas e – XV, 9
-- perda de fluidos espirituais e – XIV, 20
-- perispírito e – XIV, 14
-- transmissão do – XIV, 15
-- vista espiritual de Jesus e leitura do – XV, 14
+- do – Cap. 14, 14
+- dos Espíritos e criações fluídicas – Cap. 14, 14
+- fluidos espirituais e atuação do – Cap. 14, 15
+- fotografia do – Cap. 14, 13, 15
+- imagens fluídicas e – Cap. 14, 15
+- irradiações fluídicas e – Cap. 15, 9
+- perda de fluidos espirituais e – Cap. 14, 20
+- perispírito e – Cap. 14, 14
+- transmissão do – Cap. 14, 15
+- vista espiritual de Jesus e leitura do – Cap. 15, 14
 
-### Pentecostes
+###### 🔖 Pentecostes {#pentecostes}
 
-- significado do – XVII, 42
+- significado do – Cap. 17, 42
 
-### Percepção
+###### 🔖 Percepção {#percepcao}
 
-- do fenômeno de transfiguração – XIV, 39
+- do fenômeno de transfiguração – Cap. 14, 39
 
-### Perfeição
+###### 🔖 Perfeição {#perfeicao}
 
-- grau de – XVI, 3
+- grau de – Cap. 16, 3
 
-### Período diluviano
+###### 🔖 Período diluviano {#periodo-diluviano}
 
-- aerólitos e – VII, 44
-- blocos erráticos e – VII, 43
-- cataclismos e – VII, 42
-- dilúvio universal e – VII, 46
-- resfriamento dos polos e – VII, 45
-- violência das águas e – VII, 42
+- aerólitos e – Cap. 07, 44
+- blocos erráticos e – Cap. 07, 43
+- cataclismos e – Cap. 07, 42
+- dilúvio universal e – Cap. 07, 46
+- resfriamento dos polos e – Cap. 07, 45
+- violência das águas e – Cap. 07, 42
 
-### Período terciário
+###### 🔖 Período terciário {#periodo-terciario}
 
-- animais antediluvianos e – VII, 41
-- formação dos continentes e – VII, 41
-- grandes mamíferos e – VII, 41
+- animais antediluvianos e – Cap. 07, 41
+- formação dos continentes e – Cap. 07, 41
+- grandes mamíferos e – Cap. 07, 41
 - Perispírito
-- ação dos fluidos espirituais e – XIV, 18
-- concepção do corpo material e – XI, 18
-- constituição fluídica de cada – XIV, 10
-- corpo material e – XV, 65
-- definição de – I, 39
-- densidade do – XIV, 9
-- depois da morte carnal – XIV, 8
-- desmaterialização gradual do – XVI, 9
-- encarnação, desencarnação e – XI, 18
-- Espírito encarnado e – XIV, 18
-- Espírito, matéria e – II, 33; XI, 17
-- evolução, percepção e – II, 33
-- fluidos ambientes e formação do – XIV, 8
-- formação do – XI, 17
-- formação e propriedades do – XIV, 7
-- grau de evolução e – XIV, 9
-- mundos habitados e – XIV, 8
-- Paulo, e – I, 39
-- pensamento e – II, 23; XIV, 14
+- ação dos fluidos espirituais e – Cap. 14, 18
+- concepção do corpo material e – Cap. 11, 18
+- constituição fluídica de cada – Cap. 14, 10
+- corpo material e – Cap. 15, 65
+- definição de – Cap. 01, 39
+- densidade do – Cap. 14, 9
+- depois da morte carnal – Cap. 14, 8
+- desmaterialização gradual do – Cap. 16, 9
+- encarnação, desencarnação e – Cap. 11, 18
+- Espírito encarnado e – Cap. 14, 18
+- Espírito, matéria e – Cap. 02, 33; Cap. 11, 17
+- evolução, percepção e – Cap. 02, 33
+- fluidos ambientes e formação do – Cap. 14, 8
+- formação do – Cap. 11, 17
+- formação e propriedades do – Cap. 14, 7
+- grau de evolução e – Cap. 14, 9
+- mundos habitados e – Cap. 14, 8
+- Paulo, e – Cap. 01, 39
+- pensamento e – Cap. 02, 23; Cap. 14, 14
 - progresso moral e modificações
-- no – XIV, 10
-- transformações do – XIV, 39
+- no – Cap. 14, 10
+- transformações do – Cap. 14, 39
 - transmissão de impressões ao
-- Espírito pelo – XIV, 29
+- Espírito pelo – Cap. 14, 29
 - Perseguição
-- aos apóstolos – XVII, 10
+- aos apóstolos – Cap. 17, 10
 - Piedade
-- conceito de – XV, 23
+- conceito de – Cap. 15, 23
 - Pitágoras
-- descobertas de – V, 10
-- movimento da Terra e – V, 10
+- descobertas de – Cap. 05, 10
+- movimento da Terra e – Cap. 05, 10
 - Planetas
-- condensação de matéria e – VI, 23
-- entendimento dos – V, 12, nota
-- forma dos – VI, 23
-- inclinação das órbitas dos – VIII, 2
-- teoria sobre a formação dos – VIII, 1
+- condensação de matéria e – Cap. 06, 23
+- entendimento dos – Cap. 05, 12, nota
+- forma dos – Cap. 06, 23
+- inclinação das órbitas dos – Cap. 08, 2
+- teoria sobre a formação dos – Cap. 08, 1
 - Plano espiritual ver Mundo espiritual
 - Plesiossauro
-- descrição do – VII, 30
+- descrição do – Cap. 07, 30
 
-### Pluralidade das existências
+###### 🔖 Pluralidade das existências {#pluralidade-das-existencias}
 
 - ver Reencarnação
 
-### Plutarco
+###### 🔖 Plutarco {#plutarco}
 
 - Anaximandro, movimento do
-- Sol e – V, 2, nota
+- Sol e – Cap. 05, 2, nota
 
-### Pneumatofonia
+###### 🔖 Pneumatofonia {#pneumatofonia}
 
-- fenômeno de – XV, 43
+- fenômeno de – Cap. 15, 43
 
-### Politeísmo
+###### 🔖 Politeísmo {#politeismo}
 
-- perfeição de Deus e – II, 17
+- perfeição de Deus e – Cap. 02, 17
 
-### Polos
+###### 🔖 Polos {#polos}
 
-- aquecimento e resfriamento dos – IX, 9
-- formação de gelo nos – VII, 45
+- aquecimento e resfriamento dos – Cap. 09, 9
+- formação de gelo nos – Cap. 07, 45
 
-### Possessão
+###### 🔖 Possessão {#possessao}
 
 - atuação individual ou coletiva de
-- maus Espíritos na – XIV, 49
-- Espírito bom e – XIV, 48
-- Espírito mau e – XIV, 48
+- maus Espíritos na – Cap. 14, 49
+- Espírito bom e – Cap. 14, 48
+- Espírito mau e – Cap. 14, 48
 - maneira de atuação junto à
-- vítima de – XIV, 47
+- vítima de – Cap. 14, 47
 - mecanismo de influenciação no
-- fenômeno da – XIV, 47
-- mudez e – XV, 31
-- obsessão e – XIV, 48
+- fenômeno da – Cap. 14, 47
+- mudez e – Cap. 15, 31
+- obsessão e – Cap. 14, 48
 
-### Possesso
+###### 🔖 Possesso {#possesso}
 
-- cura de – XV, 29
+- cura de – Cap. 15, 29
 
-### Povoamento
+###### 🔖 Povoamento {#povoamento}
 
 - de Espíritos bons, encarnados e
-- desencarnados – XVIII, 27
+- desencarnados – Cap. 18, 27
 
-### Povos
+###### 🔖 Povos {#povos}
 
-- Espíritos, afinidade e formação dos – XI, 31
+- Espíritos, afinidade e formação dos – Cap. 11, 31
 
-### Predição
+###### 🔖 Predição {#predicao}
 
-- emprego de linguagem simples e – XVI, 17
-- Espiritismo e – XVI, 1
-- Evangelho e – XVII, 1
-- felicidade na Terra e – XVII, 56
-- leis naturais e – XVI, 1
-- mostra ostensiva na faculdade de – XVI, 7
-- nova vinda de Jesus e – XVII, 43
-- obras de ficção científica e – XVI, 18
-- propriedades da alma e – XVI, 6
+- emprego de linguagem simples e – Cap. 16, 17
+- Espiritismo e – Cap. 16, 1
+- Evangelho e – Cap. 17, 1
+- felicidade na Terra e – Cap. 17, 56
+- leis naturais e – Cap. 16, 1
+- mostra ostensiva na faculdade de – Cap. 16, 7
+- nova vinda de Jesus e – Cap. 17, 43
+- obras de ficção científica e – Cap. 16, 18
+- propriedades da alma e – Cap. 16, 6
 - Pregação
-- do Evangelho por Jesus – XV, 26
-- legado de ensino e \* de Jesus – XV, 63
+- do Evangelho por Jesus – Cap. 15, 26
+- legado de ensino e \* de Jesus – Cap. 15, 63
 - reunião de Jesus com apóstolos
-- e programa de – XV, 57
+- e programa de – Cap. 15, 57
 - Premonição
-- data da morte e – XVII, 20
+- data da morte e – Cap. 17, 20
 - Presciência
-- dupla vista e – XV, 9
-- emancipação da alma e – XVI, 5
-- Espírito encarnado e – XVI, 9
-- Espíritos desmaterializados e – XVIII, 11
-- Espíritos e – XVI, 14
-- estado de desmaterialização e – XVI, 9
-- exercício da faculdade de – XVI, 2
-- ocasiões de desenvolvimento da – XVI, 6
-- teoria da – XVI, 1, 6
+- dupla vista e – Cap. 15, 9
+- emancipação da alma e – Cap. 16, 5
+- Espírito encarnado e – Cap. 16, 9
+- Espíritos desmaterializados e – Cap. 18, 11
+- Espíritos e – Cap. 16, 14
+- estado de desmaterialização e – Cap. 16, 9
+- exercício da faculdade de – Cap. 16, 2
+- ocasiões de desenvolvimento da – Cap. 16, 6
+- teoria da – Cap. 16, 1, 6
 - Pressentimento
-- acontecimentos futuros e – XVI, 4
-- alma e – XVII, 20
+- acontecimentos futuros e – Cap. 16, 4
+- alma e – Cap. 17, 20
 - Previdência
-- reformas sociais e – XVIII, 21
+- reformas sociais e – Cap. 18, 21
 - Princípio espiritual
-- conhecimento das leis do – IV, 15
-- demonstração da existência do – XI, 1
-- Deus e origem do – XI, 7
-- matéria e – XI, 10
-- origem do – XI, 6
-- princípio vital e – XI, 5, 18
-- religiões e – XIII, 18
+- conhecimento das leis do – Cap. 04, 15
+- demonstração da existência do – Cap. 11, 1
+- Deus e origem do – Cap. 11, 7
+- matéria e – Cap. 11, 10
+- origem do – Cap. 11, 6
+- princípio vital e – Cap. 11, 5, 18
+- religiões e – Cap. 13, 18
 - Princípio vital
-- formação dos seres orgânicos e – X, 17
-- geração espontânea e – VI, 18
-- matéria orgânica e – X, 16
-- princípio espiritual e – XI, 5, 18
-- seres inorgânicos, orgânicos e – X, 18
-- vida, morte e – X, 19
+- formação dos seres orgânicos e – Cap. 10, 17
+- geração espontânea e – Cap. 06, 18
+- matéria orgânica e – Cap. 10, 16
+- princípio espiritual e – Cap. 11, 5, 18
+- seres inorgânicos, orgânicos e – Cap. 10, 18
+- vida, morte e – Cap. 10, 19
 - Princípios espíritas
-- comprovação e publicação dos – I, 53, nota
+- comprovação e publicação dos – Cap. 01, 53, nota
 
-### Prodígios
+###### 🔖 Prodígios {#prodigios}
 
-- morte de Jesus e – XV, 54
+- morte de Jesus e – Cap. 15, 54
 
-### Professor
+###### 🔖 Professor {#professor}
 
-- revelação e – I, 4
+- revelação e – Cap. 01, 4
 
-### Profeta
+###### 🔖 Profeta {#profeta}
 
-- dificuldades para o – XVII, 1
-- falso – XVII, 53
-- terra natal e – XVII, 1
+- dificuldades para o – Cap. 17, 1
+- falso – Cap. 17, 53
+- terra natal e – Cap. 17, 1
 
-### Progresso
+###### 🔖 Progresso {#progresso}
 
-- criação divina, eternidade e – XI, 9
-- efeitos do \* moral – XVIII, 19
-- humanidade e – XVIII, 2
-- intelectual e moral – XI, 43
-- material e espiritual dos mundos – XI, 27
-- material e moral – XVIII, 2
-- social e reencarnação – XI, 33
+- criação divina, eternidade e – Cap. 11, 9
+- efeitos do \* moral – Cap. 18, 19
+- humanidade e – Cap. 18, 2
+- intelectual e moral – Cap. 11, 43
+- material e espiritual dos mundos – Cap. 11, 27
+- material e moral – Cap. 18, 2
+- social e reencarnação – Cap. 11, 33
 - substituição de gerações e \*
-- moral – XVIII, 20
-- valor do \* intelectual – XVIII, 18
+- moral – Cap. 18, 20
+- valor do \* intelectual – Cap. 18, 18
 
-### Promessa
+###### 🔖 Promessa {#promessa}
 
-- do segundo advento de Jesus – XVII, 52
+- do segundo advento de Jesus – Cap. 17, 52
 
-### Provação
+###### 🔖 Provação {#provacao}
 
-- progresso e – XV, 25
+- progresso e – Cap. 15, 25
 
-### Providência
+###### 🔖 Providência {#providencia}
 
-- definição de – II, 20
-- incredulidade e – II, 20
-- leis do universo e – II, 20
+- definição de – Cap. 02, 20
+- incredulidade e – Cap. 02, 20
+- leis do universo e – Cap. 02, 20
 
-### Pterodátilo
+###### 🔖 Pterodátilo {#pterodatilo}
 
-- descrição do – VII, 30
+- descrição do – Cap. 07, 30
 
-### Ptolomeu
+###### 🔖 Ptolomeu {#ptolomeu}
 
-- descrição do modelo de – V, 11
-- precessão dos equinócios e – V, 11
-- sistema geocêntrico de – V, 11
+- descrição do modelo de – Cap. 05, 11
+- precessão dos equinócios e – Cap. 05, 11
+- sistema geocêntrico de – Cap. 05, 11
 
-### Punição
+###### 🔖 Punição {#punicao}
 
-- leis naturais e – XII, 21
+- leis naturais e – Cap. 12, 21
 
-## Q
+##### 📑 Q
 
-### Química
+###### 🔖 Química {#quimica}
 
-- afinidade e – X, 6
-- alquimia e – I, 19
-- conhecimento das leis naturais e – VI, 4
-- corpos simples e – VI, 4
-- evolução da – VI, 4
-- Gênese, formação da Terra e – X, 10
-- quatro elementos e – VI, 4
-- reconstrução dos corpos orgânicos e – X, 18
-- transformações da matéria e – IV, 3
+- afinidade e – Cap. 10, 6
+- alquimia e – Cap. 01, 19
+- conhecimento das leis naturais e – Cap. 06, 4
+- corpos simples e – Cap. 06, 4
+- evolução da – Cap. 06, 4
+- Gênese, formação da Terra e – Cap. 10, 10
+- quatro elementos e – Cap. 06, 4
+- reconstrução dos corpos orgânicos e – Cap. 10, 18
+- transformações da matéria e – Cap. 04, 3
 - Quinemant
-- Sociedade de Paris, 1867 – II, 27
+- Sociedade de Paris, 1867 – Cap. 02, 27
 
-## R
+##### 📑 R
 
 - Raça adâmica
-- exílio na Terra e – XI, 45
-- Jesus e – XI, 45
+- exílio na Terra e – Cap. 11, 45
+- Jesus e – Cap. 11, 45
 - migração para a Terra, pecado
-- original e – XI, 46
-- progresso da Terra e – XI, 38
-- raças primitivas da Terra e – XI, 38
+- original e – Cap. 11, 46
+- progresso da Terra e – Cap. 11, 38
+- raças primitivas da Terra e – Cap. 11, 38
 - Raças
-- características das – XI, 39
+- características das – Cap. 11, 39
 - Razão
-- penas eternas e – I, 33
+- penas eternas e – Cap. 01, 33
 - Reencarnação
-- alcance da lei de – XVII, 46
+- alcance da lei de – Cap. 17, 46
 - aprendizado das leis naturais,
-- mundos e – XI, 34
+- mundos e – Cap. 11, 34
 - aptidão de médium para assuntos
-- estranhos à vivencia atual e – XIV, 44
-- civilização e – XI, 33
-- entendimento de Adão e Eva e – XII, 23
-- igualdade, liberdade e – I, 36
-- intuição sobre a lei da – XV, 24
-- justiça divina e – XI, 33
-- pecado original e – I, 38; XI, 46
-- preconceitos e – I, 36
-- princípio da – XVII, 34
-- progresso humano e – XI, 33
-- progresso social e – XI, 33
+- estranhos à vivencia atual e – Cap. 14, 44
+- civilização e – Cap. 11, 33
+- entendimento de Adão e Eva e – Cap. 12, 23
+- igualdade, liberdade e – Cap. 01, 36
+- intuição sobre a lei da – Cap. 15, 24
+- justiça divina e – Cap. 11, 33
+- pecado original e – Cap. 01, 38; Cap. 11, 46
+- preconceitos e – Cap. 01, 36
+- princípio da – Cap. 17, 34
+- progresso humano e – Cap. 11, 33
+- progresso social e – Cap. 11, 33
 - promessa de Jesus e necessidade
-- da – XVII, 41
-- raça adâmica, missão do Cristo e – XI, 46
-- término de expiação e – XV, 15
+- da – Cap. 17, 41
+- raça adâmica, missão do Cristo e – Cap. 11, 46
+- término de expiação e – Cap. 15, 15
 
-### Regeneração
+###### 🔖 Regeneração {#regeneracao}
 
-- cataclismo moral e – XVIII, 13
-- humanidade e – XVIII, 33
-- individual e \* coletiva – XVIII, 33
+- cataclismo moral e – Cap. 18, 13
+- humanidade e – Cap. 18, 33
+- individual e \* coletiva – Cap. 18, 33
 - necessidade de desenvolvimento
-- moral e – XVIII, 6
-- passos iniciais para a – XVIII, 28
+- moral e – Cap. 18, 6
+- passos iniciais para a – Cap. 18, 28
 
-### Religião(ões)
+###### 🔖 Religião(ões) {#religiaooes}
 
-- antagonismos entre – XVII, 32
-- do futuro – XVII, 32
-- dominação e – I, 8
-- fenômenos sobrenaturais e – XIII, 17
-- ideias progressistas e – IV, 10
-- leis naturais e – IV, 10
-- origem e destino da alma e – IV, 13
-- princípio espiritual e – XIII, 18
-- profetas e – I, 8
-- progresso e – IV, 9
-- razão, incredulidade e – IV, 14
-- sobrenatural e – XIII, 18
-- união das – XVII, 31
+- antagonismos entre – Cap. 17, 32
+- do futuro – Cap. 17, 32
+- dominação e – Cap. 01, 8
+- fenômenos sobrenaturais e – Cap. 13, 17
+- ideias progressistas e – Cap. 04, 10
+- leis naturais e – Cap. 04, 10
+- origem e destino da alma e – Cap. 04, 13
+- princípio espiritual e – Cap. 13, 18
+- profetas e – Cap. 01, 8
+- progresso e – Cap. 04, 9
+- razão, incredulidade e – Cap. 04, 14
+- sobrenatural e – Cap. 13, 18
+- união das – Cap. 17, 31
 
-### Responsabilidade
+###### 🔖 Responsabilidade {#responsabilidade}
 
-- livre-arbítrio, inteligência e – XII, 16
+- livre-arbítrio, inteligência e – Cap. 12, 16
 
-### Ressurreição
+###### 🔖 Ressurreição {#ressurreicao}
 
-- advertência sobre a – XVII, 5
+- advertência sobre a – Cap. 17, 5
 - aparente e volta do Espírito ao
-- corpo físico – XIV, 30
-- de Jesus – XV, 65
-- Evangelho e – XV, 37
-- Lázaro e – XV, 40
+- corpo físico – Cap. 14, 30
+- de Jesus – Cap. 15, 65
+- Evangelho e – Cap. 15, 37
+- Lázaro e – Cap. 15, 40
 
-### Reunião
+###### 🔖 Reunião {#reuniao}
 
-- atmosfera reinante em lugares de – XIV, 19
+- atmosfera reinante em lugares de – Cap. 14, 19
 
-### Revelação espírita
+###### 🔖 Revelação espírita {#revelacao-espirita}
 
-- caráter da – I, 1; 13
-- centros isolados e – I, 51
-- racionalização da – I, 50
-- resumo da – I, 62
-- simultaneidade da – I, 54
-- transformação do homem pela – I, 62
-- utilidade da – I, 61
+- caráter da – Cap. 01, 1; 13
+- centros isolados e – Cap. 01, 51
+- racionalização da – Cap. 01, 50
+- resumo da – Cap. 01, 62
+- simultaneidade da – Cap. 01, 54
+- transformação do homem pela – Cap. 01, 62
+- utilidade da – Cap. 01, 61
 - Revelação(ões)
-- aceitação da – I, 7
-- atributos de Deus e \* cristã – I, 25
+- aceitação da – Cap. 01, 7
+- atributos de Deus e \* cristã – Cap. 01, 25
 - capacitação humana para
-- entendimento de – XVII, 65
-- caráter coletivo da terceira – I, 46
-- caráter pessoal das duas primeiras – I, 46
+- entendimento de – Cap. 17, 65
+- caráter coletivo da terceira – Cap. 01, 46
+- caráter pessoal das duas primeiras – Cap. 01, 46
 - comunicação com mundo
-- espiritual e – I, 11
-- Cristo e – I, 22
-- Cristo, Moisés e – I, 10
-- Deus e – I, 3; 9
-- ensino e – I, 4
-- Espiritismo e – I, 12
-- Espíritos superiores e – I, 9
-- gênios da humanidade e – I, 6
-- gênios e – I, 5
-- gradação e progressividade da – I, 8
-- gradual – I, 61
-- imposição da \* moisaica – I, 49
-- inspiração dos Espíritos e – XVI, 5
-- leis moisaicas e – I, 10
-- mediunidade e – I, 9
-- Moisés e – I, 21
-- necessidade das – I, 56
-- persuasão da \* cristã – I, 49
-- propagação das três – I, 46
-- raciocínios humanos e – VI, 19
-- religião e – I, 7
-- significado de – I, 2
-- verdade e – I, 3
-- verdade e \* divina – I, 10
+- espiritual e – Cap. 01, 11
+- Cristo e – Cap. 01, 22
+- Cristo, Moisés e – Cap. 01, 10
+- Deus e – Cap. 01, 3; 9
+- ensino e – Cap. 01, 4
+- Espiritismo e – Cap. 01, 12
+- Espíritos superiores e – Cap. 01, 9
+- gênios da humanidade e – Cap. 01, 6
+- gênios e – Cap. 01, 5
+- gradação e progressividade da – Cap. 01, 8
+- gradual – Cap. 01, 61
+- imposição da \* moisaica – Cap. 01, 49
+- inspiração dos Espíritos e – Cap. 16, 5
+- leis moisaicas e – Cap. 01, 10
+- mediunidade e – Cap. 01, 9
+- Moisés e – Cap. 01, 21
+- necessidade das – Cap. 01, 56
+- persuasão da \* cristã – Cap. 01, 49
+- propagação das três – Cap. 01, 46
+- raciocínios humanos e – Cap. 06, 19
+- religião e – Cap. 01, 7
+- significado de – Cap. 01, 2
+- verdade e – Cap. 01, 3
+- verdade e \* divina – Cap. 01, 10
 - Revista espírita
 - característica da – Introd.
 - Revoluções periódicas
-- precessão dos equinócios e – IX, 6
+- precessão dos equinócios e – Cap. 09, 6
 - Rochas
-- características das – VII, 4
-- exame e reconhecimento das – VII, 4
-- seixos rolados – VII, 10
+- características das – Cap. 07, 4
+- exame e reconhecimento das – Cap. 07, 4
+- seixos rolados – Cap. 07, 10
 
-## S
+##### 📑 S
 
-### Sábado
+###### 🔖 Sábado {#sabado}
 
-- ensino sobre o – XV, 19
+- ensino sobre o – Cap. 15, 19
 
-### Sabedoria
+###### 🔖 Sabedoria {#sabedoria}
 
-- divina e desencarnação coletiva – XVIII, 32
+- divina e desencarnação coletiva – Cap. 18, 32
 
-### Salvação
+###### 🔖 Salvação {#salvacao}
 
-- fé e – XV, 17
+- fé e – Cap. 15, 17
 
-### Sangue
+###### 🔖 Sangue {#sangue}
 
-- cura na perda de – XV, 10
+- cura na perda de – Cap. 15, 10
 
-### Satanás
+###### 🔖 Satanás {#satanas}
 
-- obra divina e – XIII, 16
+- obra divina e – Cap. 13, 16
 
-### Satélites
+###### 🔖 Satélites {#satelites}
 
-- formação dos – VI, 24
-- planetas e número de seus – VI, 26
+- formação dos – Cap. 06, 24
+- planetas e número de seus – Cap. 06, 26
 
-### Saturno
+###### 🔖 Saturno {#saturno}
 
-- anéis de – VI, 27
+- anéis de – Cap. 06, 27
 
-### Sedimentos
+###### 🔖 Sedimentos {#sedimentos}
 
-- geologia e estudo dos – VII, 36
-- inclinação das camadas de – VII, 35
+- geologia e estudo dos – Cap. 07, 36
+- inclinação das camadas de – Cap. 07, 35
 
-### Separação
+###### 🔖 Separação {#separacao}
 
-- juízo final e – XVII, 62
+- juízo final e – Cap. 17, 62
 
-### Sepultamento
+###### 🔖 Sepultamento {#sepultamento}
 
-- imediato – XV, 39
+- imediato – Cap. 15, 39
 
-### Seres
+###### 🔖 Seres {#seres}
 
-- escala dos \* orgânicos – X, 24
-- formação dos \* vivos – X, 1
-- geração espontânea e \* orgânicos – X, 25
-- moléculas, afinidade e formação dos – X, 15
+- escala dos \* orgânicos – Cap. 10, 24
+- formação dos \* vivos – Cap. 10, 1
+- geração espontânea e \* orgânicos – Cap. 10, 25
+- moléculas, afinidade e formação dos – Cap. 10, 15
 
-### Serpente
+###### 🔖 Serpente {#serpente}
 
-- alegoria da – XII, 17
+- alegoria da – Cap. 12, 17
 
-### Sinais
+###### 🔖 Sinais {#sinais}
 
-- precursores – XVII, 47 e 57
+- precursores – Cap. 17, 47 e 57
 
-### Sírio
+###### 🔖 Sírio {#sirio}
 
-- magnitude de – VI, 38
+- magnitude de – Cap. 06, 38
 
-### Sobrenatural
+###### 🔖 Sobrenatural {#sobrenatural}
 
-- Espiritismo e – XIII, 8
+- Espiritismo e – Cap. 13, 8
 - Espírito, matéria e – Introd.
-- explicação de fenômenos e – XIII, 8
+- explicação de fenômenos e – Cap. 13, 8
 - leis da natureza e – Introd.
-- materialismo e – XIII, 10
-- religiões e – XIII, 18
+- materialismo e – Cap. 13, 10
+- religiões e – Cap. 13, 18
 - Sociedade
-- paralelo com a atual – XVIII, 31
+- paralelo com a atual – Cap. 18, 31
 - Sofrimento
-- prática do bem e alívio de – XV, 27
-- situação espiritual e – I, 32
+- prática do bem e alívio de – Cap. 15, 27
+- situação espiritual e – Cap. 01, 32
 - Sol
-- conhecimento do \* como estrela – V, 12
-- criação da luz e – XII, 8
-- crucificação e obscurecimento do – XV, 55
+- conhecimento do \* como estrela – Cap. 05, 12
+- criação da luz e – Cap. 12, 8
+- crucificação e obscurecimento do – Cap. 15, 55
 - ideias primitivas sobre o
-- movimento do – V, 2, nota
-- manchas físicas do – XV, 55
-- movimento do – VI, 42
+- movimento do – Cap. 05, 2, nota
+- manchas físicas do – Cap. 15, 55
+- movimento do – Cap. 06, 42
 - períodos de duração do
-- obscurecimento do – XV, 55
-- planetas e – VI, 22
-- posição do \* na Via Láctea – VI, 33
-- teoria sobre a natureza do – VIII, 2
+- obscurecimento do – Cap. 15, 55
+- planetas e – Cap. 06, 22
+- posição do \* na Via Láctea – Cap. 06, 33
+- teoria sobre a natureza do – Cap. 08, 2
 - Solidariedade
-- Criador, criação e – II, 27
+- Criador, criação e – Cap. 02, 27
 - fuga à colaboração individual
-- e lei de – XVIII, 16
+- e lei de – Cap. 18, 16
 - Solo
-- convulsões e – VII, 6
+- convulsões e – Cap. 07, 6
 - Som
-- fluido universal, matéria e – VI, 10
+- fluido universal, matéria e – Cap. 06, 10
 - Sonambulismo
-- dupla vista e – XIV, 22
+- dupla vista e – Cap. 14, 22
 - Sonho
-- avisos por meio de – XV, 3
-- Evangelho e – XV, 3
-- vista espiritual e – XIV, 28
+- avisos por meio de – Cap. 15, 3
+- Evangelho e – Cap. 15, 3
+- vista espiritual e – Cap. 14, 28
 - Subjugação
-- cegueira e mudez por efeito de – XV, 32
+- cegueira e mudez por efeito de – Cap. 15, 32
 - Submissão
-- à lei da unidade – XIV, 12
+- à lei da unidade – Cap. 14, 12
 
-## T
+##### 📑 T
 
-### Tales de Mileto
+###### 🔖 Tales de Mileto {#tales-de-mileto}
 
-- descobertas de – V, 10
+- descobertas de – Cap. 05, 10
 
-### Tangibilidade
+###### 🔖 Tangibilidade {#tangibilidade}
 
-- aparições e – XIV, 35
+- aparições e – Cap. 14, 35
 
-### Teleossauro
+###### 🔖 Teleossauro {#teleossauro}
 
-- descrição do – VII, 30
+- descrição do – Cap. 07, 30
 
-### Tempestade aplacada – XV, 45
+###### 🔖 Tempestade aplacada – Cap. 15, 45 {#tempestade-aplacada-cap-15-45}
 
-### Templo de Jerusalém
+###### 🔖 Templo de Jerusalém {#templo-de-jerusalem}
 
-- ruína do – XVII, 15
+- ruína do – Cap. 17, 15
 
-### Tempo(s)
+###### 🔖 Tempo(s) {#tempos}
 
-- definição de – VI, 2
-- espaço e – VI, 1
-- eternidade e – VI, 2; 13
-- evolução espiritual e – II, 35
-- final dos – XVII, 53, 54; XVIII, 2
-- formação da Terra e – VII, 12
-- infinito e – VI, 2
-- movimento da Terra e – VI, 2
-- relatividade do – VI, 2; XVI, 3
-- sinais dos – XVIII, 1
-- sistemas planetários e – VI, 38
+- definição de – Cap. 06, 2
+- espaço e – Cap. 06, 1
+- eternidade e – Cap. 06, 2; 13
+- evolução espiritual e – Cap. 02, 35
+- final dos – Cap. 17, 53, 54; Cap. 18, 2
+- formação da Terra e – Cap. 07, 12
+- infinito e – Cap. 06, 2
+- movimento da Terra e – Cap. 06, 2
+- relatividade do – Cap. 06, 2; Cap. 16, 3
+- sinais dos – Cap. 18, 1
+- sistemas planetários e – Cap. 06, 38
 - variação nas unidades de
-- medida do – XVI, 15
-- velocidade da luz e – VI, 51
-- vida humana e – VI, 2
+- medida do – Cap. 16, 15
+- velocidade da luz e – Cap. 06, 51
+- vida humana e – Cap. 06, 2
 
-### Tentação
+###### 🔖 Tentação {#tentacao}
 
-- de Jesus – XV, 52
+- de Jesus – Cap. 15, 52
 
-### Teoria
+###### 🔖 Teoria {#teoria}
 
-- contestação da \* da incrustação – VIII, 5-6
-- da condensação – VIII, 3
-- da incrustação – VIII, 4
-- da presciência – XVI, 1
-- da projeção – VIII, 1
-- de Buffon – VIII, 1
-- observação e – I, 15
+- contestação da \* da incrustação – Cap. 08, 5-6
+- da condensação – Cap. 08, 3
+- da incrustação – Cap. 08, 4
+- da presciência – Cap. 16, 1
+- da projeção – Cap. 08, 1
+- de Buffon – Cap. 08, 1
+- observação e – Cap. 01, 15
 
-### Terra
+###### 🔖 Terra {#terra}
 
-- ação do homem e convulsões da – IX, 14
+- ação do homem e convulsões da – Cap. 09, 14
 - ácido carbônico e cobertura
-- vegetal da – VII, 25
-- alma da – VIII, 7
-- alterações na superfície da – VII, 20
+- vegetal da – Cap. 07, 25
+- alma da – Cap. 08, 7
+- alterações na superfície da – Cap. 07, 20
 - atividade vulcânica e formação
-- do solo da – VII, 22
-- atmosfera espiritual da – XIV, 5
-- calor e centro da – VII, 16
-- camadas de fluidos espirituais – XIV, 10
-- camadas geológicas e formação da – VII, 12
+- do solo da – Cap. 07, 22
+- atmosfera espiritual da – Cap. 14, 5
+- calor e centro da – Cap. 07, 16
+- camadas de fluidos espirituais – Cap. 14, 10
+- camadas geológicas e formação da – Cap. 07, 12
 - causas da periodicidade de revoluções
-- do planeta – XVIII, 8
-- chuvas e resfriamento da crosta da – VII, 20
-- concepção da \* convexa – V, 8
-- concepção da \* plana – V, 2
+- do planeta – Cap. 18, 8
+- chuvas e resfriamento da crosta da – Cap. 07, 20
+- concepção da \* convexa – Cap. 05, 8
+- concepção da \* plana – Cap. 05, 2
 - consequências da inferioridade moral
-- dos habitantes da – XIV, 45
-- criação da – VI, 23
-- criações anteriores à – VI, 16
-- densidade atmosférica da – VII, 27
-- desunião entre habitantes da – XV, 32
-- emigração de Espíritos maus e a – XVIII, 27
-- encarnação de Espíritos na – XI, 29
+- dos habitantes da – Cap. 14, 45
+- criação da – Cap. 06, 23
+- criações anteriores à – Cap. 06, 16
+- densidade atmosférica da – Cap. 07, 27
+- desunião entre habitantes da – Cap. 15, 32
+- emigração de Espíritos maus e a – Cap. 18, 27
+- encarnação de Espíritos na – Cap. 11, 29
 - encarnação de Espíritos superiores
-- e evolução da – XI, 45
-- esfericidade da – V, 2
+- e evolução da – Cap. 11, 45
+- esfericidade da – Cap. 05, 2
 - espessura da crosta e temperatura
-- da – VII, 27
-- estada de Jesus na – XV, 65
-- estado primitivo da – VII, 15
+- da – Cap. 07, 27
+- estada de Jesus na – Cap. 15, 65
+- estado primitivo da – Cap. 07, 15
 - estágio da \* em relação a outros
-- mundos – XI, 27
-- evolução e encarnação na – XI, 34
-- fauna e flora no período terciário – VII, 33
-- fim da – IX, 13
-- fluidez, calor e origem da – VII, 15
-- formação da – VII, 26, nota
-- formação da Lua e – VI, 23
+- mundos – Cap. 11, 27
+- evolução e encarnação na – Cap. 11, 34
+- fauna e flora no período terciário – Cap. 07, 33
+- fim da – Cap. 09, 13
+- fluidez, calor e origem da – Cap. 07, 15
+- formação da – Cap. 07, 26, nota
+- formação da Lua e – Cap. 06, 23
 - formação de camadas
-- sedimentares e – VII, 23
+- sedimentares e – Cap. 07, 23
 - grau de evolução dos habitantes
-- da – XVII, 63
-- hierarquia dos mundos e – VI, 59
-- inferno, céu e ideia de \* plana – V, 9
-- massa da – IX, 15
-- nebulosas, galáxias e – VI, 16
-- núcleo incandescente da – VII, 16
-- número de períodos geológicos da – VII, 14
-- observação e conhecimento da – V, 2
-- orgulho, universo e – VI, 59
-- origem incandescente da – VII, 17
-- período de transição da – VII, 22
-- período primário da – VII, 19
-- período secundário da – VII, 28
-- períodos geológicos da – VII, 1, 13; IX, 1
-- população espiritual da – XI, 35
-- posição da \* na criação – VI, 16
+- da – Cap. 17, 63
+- hierarquia dos mundos e – Cap. 06, 59
+- inferno, céu e ideia de \* plana – Cap. 05, 9
+- massa da – Cap. 09, 15
+- nebulosas, galáxias e – Cap. 06, 16
+- núcleo incandescente da – Cap. 07, 16
+- número de períodos geológicos da – Cap. 07, 14
+- observação e conhecimento da – Cap. 05, 2
+- orgulho, universo e – Cap. 06, 59
+- origem incandescente da – Cap. 07, 17
+- período de transição da – Cap. 07, 22
+- período primário da – Cap. 07, 19
+- período secundário da – Cap. 07, 28
+- períodos geológicos da – Cap. 07, 1, 13; Cap. 09, 1
+- população espiritual da – Cap. 11, 35
+- posição da \* na criação – Cap. 06, 16
 - possibilidade de cataclismos
-- futuros na – IX, 11
-- primeiros animais na – VII, 24
-- primeiros vegetais na – VII, 24
+- futuros na – Cap. 09, 11
+- primeiros animais na – Cap. 07, 24
+- primeiros vegetais na – Cap. 07, 24
 - processo de liquefação dos gases no
-- resfriamento da – VII, 20
-- resfriamento da – VII, 17, 19; VIII, 2
-- revoluções físicas da – XVIII, 10
-- solidificação da crosta da – VII, 19
-- tempo e movimento da – VI, 2
-- tempo e resfriamento da – VII, 21
-- teorias sobre a formação da – VIII, 1
-- universo e – VI, 16, 36
-- vida e caos original na – VII, 21
-- vida orgânica primitiva e – VII, 23
-- volume da – IX, 15
+- resfriamento da – Cap. 07, 20
+- resfriamento da – Cap. 07, 17, 19; Cap. 08, 2
+- revoluções físicas da – Cap. 18, 10
+- solidificação da crosta da – Cap. 07, 19
+- tempo e movimento da – Cap. 06, 2
+- tempo e resfriamento da – Cap. 07, 21
+- teorias sobre a formação da – Cap. 08, 1
+- universo e – Cap. 06, 16, 36
+- vida e caos original na – Cap. 07, 21
+- vida orgânica primitiva e – Cap. 07, 23
+- volume da – Cap. 09, 15
 
-### Tiptologia
+###### 🔖 Tiptologia {#tiptologia}
 
-- comunicação por – XIV, 42
+- comunicação por – Cap. 14, 42
 
-### Tolerância
+###### 🔖 Tolerância {#tolerancia}
 
-- religiões e lição de – XV, 17
+- religiões e lição de – Cap. 15, 17
 
-### Tomé
+###### 🔖 Tomé {#tome}
 
-- dúvidas de – XV, 58
+- dúvidas de – Cap. 15, 58
 
-### Trabalho
+###### 🔖 Trabalho {#trabalho}
 
-- evolução espiritual e \* cotidiano – XV, 23
-- Jesus e a lei do – XV, 23
-- punição e – XII, 21
+- evolução espiritual e \* cotidiano – Cap. 15, 23
+- Jesus e a lei do – Cap. 15, 23
+- punição e – Cap. 12, 21
 
-### Transfiguração
+###### 🔖 Transfiguração {#transfiguracao}
 
-- de Jesus – XV, 43
-- mecanismo de – XIV, 39
+- de Jesus – Cap. 15, 43
+- mecanismo de – Cap. 14, 39
 - Transformação
-- humanidade terrestre e – XVIII, 9
-- moral da Terra – XVIII, 29
+- humanidade terrestre e – Cap. 18, 9
+- moral da Terra – Cap. 18, 29
 - Transição
 - categorias de Espíritos encarnados
-- e fase de – XVIII, 30
-- gradual – XVIII, 27
+- e fase de – Cap. 18, 30
+- gradual – Cap. 18, 27
 - Trazimento
-- fenômeno de – XIV, 43
+- fenômeno de – Cap. 14, 43
 
-## U
+##### 📑 U
 
 - União
-- das religiões – XVII, 31
-- fortalecimento dos espíritas e – I, 53
-- necessidade de – XV, 32
+- das religiões – Cap. 17, 31
+- fortalecimento dos espíritas e – Cap. 01, 53
+- necessidade de – Cap. 15, 32
 - Unidade
-- submissão à lei da – XIV, 12
+- submissão à lei da – Cap. 14, 12
 - Universo
-- astros, infinito e – VI, 58
-- atribuições do Espírito no – XI, 28
-- conceito de – XVIII, 4
-- conhecimento do – VI, 58
-- criação e evolução do – VI, 15
-- Deus e as leis gerais do – XIII, 15
+- astros, infinito e – Cap. 06, 58
+- atribuições do Espírito no – Cap. 11, 28
+- conceito de – Cap. 18, 4
+- conhecimento do – Cap. 06, 58
+- criação e evolução do – Cap. 06, 15
+- Deus e as leis gerais do – Cap. 13, 15
 - elementos do – Introd.
 - encadeamento das coisas da
-- natureza e o – XIV, 12
-- Espiritismo e constituição do – I, 18
-- Espírito, matéria e – XI, 28
-- fluido cósmico universal e – VI, 15
+- natureza e o – Cap. 14, 12
+- Espiritismo e constituição do – Cap. 01, 18
+- Espírito, matéria e – Cap. 11, 28
+- fluido cósmico universal e – Cap. 06, 15
 - ignorância humana e compreensão
-- do – VI, 10
-- infinito e – VI, 1
-- infinitude e eternidade do – VI, 2
-- lei divina e estabilidade do – VI, 48
-- livros sagrados e conhecimento do – IV, 1
-- matéria cósmica e – VI, 7
+- do – Cap. 06, 10
+- infinito e – Cap. 06, 1
+- infinitude e eternidade do – Cap. 06, 2
+- lei divina e estabilidade do – Cap. 06, 48
+- livros sagrados e conhecimento do – Cap. 04, 1
+- matéria cósmica e – Cap. 06, 7
 - plano material, plano espiritual e
-- conhecimento do – VI, 9
-- unidade, variedade e – VI, 11, 38
-- vida no – VI, 55
+- conhecimento do – Cap. 06, 9
+- unidade, variedade e – Cap. 06, 11, 38
+- vida no – Cap. 06, 55
 
-## V
+##### 📑 V
 
-### Vedas
+###### 🔖 Vedas {#vedas}
 
-- dilúvio universal e – IX, 5, nota
+- dilúvio universal e – Cap. 09, 5, nota
 
-### Vegetação
+###### 🔖 Vegetação {#vegetacao}
 
-- período secundário e – VII, 29
+- período secundário e – Cap. 07, 29
 - sedimentação e emersão dos
-- solos e – VII, 26
+- solos e – Cap. 07, 26
 
-### Verdade
+###### 🔖 Verdade {#verdade}
 
-- Deus, instinto e – III, 17
-- difusão da \* pelos Espíritos – I, 59
-- encarnados e propagação da – I, 59
-- evolução humana e – III, 17
-- evolução, conhecimento, fé e – XII, 12
-- opiniões pessoais, Espiritismo e – I, 52
+- Deus, instinto e – Cap. 03, 17
+- difusão da \* pelos Espíritos – Cap. 01, 59
+- encarnados e propagação da – Cap. 01, 59
+- evolução humana e – Cap. 03, 17
+- evolução, conhecimento, fé e – Cap. 12, 12
+- opiniões pessoais, Espiritismo e – Cap. 01, 52
 
-### Vergonha
+###### 🔖 Vergonha {#vergonha}
 
-- Adão, Eva e – XII, 19
+- Adão, Eva e – Cap. 12, 19
 
-### Via Láctea
+###### 🔖 Via Láctea {#via-lactea}
 
-- grandiosidade da – VI, 44
+- grandiosidade da – Cap. 06, 44
 - harmonia e hierarquia dos
-- astros na – VI, 43
-- influência da \* e sobre a – XVIII, 8
-- mundos habitados e – VI, 34
-- natureza da – VI, 32
-- planetas de – VI, 47, nota
-- sistema solar e da – VI, 33
-- universo e – VI, 35; 44
+- astros na – Cap. 06, 43
+- influência da \* e sobre a – Cap. 18, 8
+- mundos habitados e – Cap. 06, 34
+- natureza da – Cap. 06, 32
+- planetas de – Cap. 06, 47, nota
+- sistema solar e da – Cap. 06, 33
+- universo e – Cap. 06, 35; 44
 
-### Vida
+###### 🔖 Vida {#vida}
 
-- condições dos mundos e formas de – VI, 61
-- matéria e – III, 21
+- condições dos mundos e formas de – Cap. 06, 61
+- matéria e – Cap. 03, 21
 - período terciário e novas
-- espécies de – VII, 40
-- princípio inteligente e – III, 21
-- surgimento da – VII, 23
+- espécies de – Cap. 07, 40
+- princípio inteligente e – Cap. 03, 21
+- surgimento da – Cap. 07, 23
 
-### Vida extraterrestre
+###### 🔖 Vida extraterrestre {#vida-extraterrestre}
 
-- tipos de – VI, 61
+- tipos de – Cap. 06, 61
 
-### Vida futura
+###### 🔖 Vida futura {#vida-futura}
 
-- ciência, religião e – IV, 14
-- conhecimento da – I, 62
+- ciência, religião e – Cap. 04, 14
+- conhecimento da – Cap. 01, 62
 - Vigilância
-- más inspirações e – XV, 53
-- predição e recomendação de – XVII, 47
+- más inspirações e – Cap. 15, 53
+- predição e recomendação de – Cap. 17, 47
 - Vinhateiros homicidas
-- parábola dos – XVII, 29
+- parábola dos – Cap. 17, 29
 - Virtude
-- palavras de Jesus e prática da – XVII, 26
+- palavras de Jesus e prática da – Cap. 17, 26
 - Visão
 - amplitude e conhecimento de
-- detalhes – XVI, 2
-- limites da – II, 31
-- microcosmo e – II, 31
-- perfeição espiritual e \* de Deus – II, 32
-- Vista espiritual – XVI, 8
-- aparições e – XIV, 38
-- de Jesus – XVII, 21
-- e material – II, 32
+- detalhes – Cap. 16, 2
+- limites da – Cap. 02, 31
+- microcosmo e – Cap. 02, 31
+- perfeição espiritual e \* de Deus – Cap. 02, 32
+- Vista espiritual – Cap. 16, 8
+- aparições e – Cap. 14, 38
+- de Jesus – Cap. 17, 21
+- e material – Cap. 02, 32
 - encarnados e influência da alma
-- nas percepções da – XIV, 27
-- limitações na manifestação de – XIV, 25
-- propriedades da – XIV, 26
-- propriedades do fluido etéreo e – XIV, 24
-- sonhos e – XIV, 28
+- nas percepções da – Cap. 14, 27
+- limitações na manifestação de – Cap. 14, 25
+- propriedades da – Cap. 14, 26
+- propriedades do fluido etéreo e – Cap. 14, 24
+- sonhos e – Cap. 14, 28
 - Vítima
 - de obsessão e procedimentos
-- para libertação – XIV, 46
+- para libertação – Cap. 14, 46
 - Viúva de Naim
-- filho da – XV, 38
+- filho da – Cap. 15, 38
 - Vocação
-- discípulos e – XV, 8
+- discípulos e – Cap. 15, 8
 - Vontade
 - ação dos Espíritos pelo
-- pensamento e – XIV, 14
+- pensamento e – Cap. 14, 14
 - Vulcões
-- formação dos – VII, 38
+- formação dos – Cap. 07, 38
 
-## X
+##### 📑 X
 
-### Xenoglossia
+###### 🔖 Xenoglossia {#xenoglossia}
 
-- encarnação anterior e – XIV, 44
-- mediunidade de – XIV, 44
+- encarnação anterior e – Cap. 14, 44
+- mediunidade de – Cap. 14, 44
 
-## Z
+##### 📑 Z
 
-### Zodíaco
+###### 🔖 Zodíaco {#zodiaco}
 
-- constelações e signos do – V, 12
+- constelações e signos do – Cap. 05, 12
 - precessão dos equinócios e
-- constelações do – IX, 8, nota
+- constelações do – Cap. 09, 8, nota
 
-### Zoologia
+###### 🔖 Zoologia {#zoologia}
 
-- seres vivos e – IV, 3
+- seres vivos e – Cap. 04, 3

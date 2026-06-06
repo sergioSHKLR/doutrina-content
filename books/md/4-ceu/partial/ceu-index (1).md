@@ -1,15 +1,6 @@
-## 3. 🗃️ Pós-textual {#6}
+# Índice Geral
 
-### 3.01. 📄 Nota explicativa {#3-01}
-
-<!-- INSERT_SHARED:nota-explicativa.md -->
-
-### 3.02. 🗂️ Índice geral {#3-02}
-
-#### Termos relacionados {#3-02-01}
-
-##### 📑 A
-
+A
 A..., médium espírita
 evocação de Julienne-Marie e – 345
 Abadon
@@ -127,7 +118,7 @@ veículo das sensações físicas da – 152
 - Avental roça pela toga bordada, O
 - simbologia da expressão – 370
 
-##### 📑 B
+## B
 
 - B..., Antonio, escritor
 - caracteres da morte real e – 355
@@ -148,27 +139,27 @@ veículo das sensações físicas da – 152
 - Balzac
 - considerações sobre – 285, nota
 
-###### 🔖 Batismo {#batismo}
+### Batismo
 
 - criança falecida em tenra idade e – 22
 - selvagem ignorante e – 22, 41
 
-###### 🔖 Belerofonte {#belerofonte}
+### Belerofonte
 
 - considerações sobre – 45
 
-###### 🔖 Belfegor {#belfegor}
+### Belfegor
 
 - demônio da luxúria e – 52
 
-###### 🔖 Bell, Antoine, suicida {#bell-antoine-suicida}
+### Bell, Antoine, suicida
 
 - arrependimento e – 290
 - assassinato de rival e – 289
 - Espírito obsessor e vingativo e – 289
 - visão perseverante da vítima e – 289
 
-###### 🔖 Belleville, Anna, Sra., Espírito {#belleville-anna-sra-espirito}
+### Belleville, Anna, Sra., Espírito
 
 - em condição mediana
 - apego à matéria e – 231
@@ -181,29 +172,29 @@ veículo das sensações físicas da – 152
 - valor da prece e – 231
 - vida corporal, prática do progresso e – 234
 
-###### 🔖 Belzebu {#belzebu}
+### Belzebu
 
 - demônio dos desejos impuros e – 52
 
-###### 🔖 Bem {#bem}
+### Bem
 
 - anulação do \* por si mesmo – 29
 - duplo princípio do \* e do mal – 107
 - homem e nuanças do \* e do mal – 63
 - livre-arbítrio e prática do – 87
 
-###### 🔖 Benoist, criminoso arrependido {#benoist-criminoso-arrependido}
+### Benoist, criminoso arrependido
 
 - abuso do poder e – 299
 - arrependimento pelo sofrimento e – 299
 - Paulin, guia do médium, e – 302
 
-###### 🔖 Bernardin, Espírito feliz {#bernardin-espirito-feliz}
+### Bernardin, Espírito feliz
 
 - evocação de – 197
 - missão de – 197
 
-###### 🔖 Bertin, Ferdinand, Espírito sofredor {#bertin-ferdinand-espirito-sofredor}
+### Bertin, Ferdinand, Espírito sofredor
 
 - comentário de São Luís, Espírito, e – 251
 - condições fluídicas e – 249
@@ -231,7 +222,7 @@ veículo das sensações físicas da – 152
 - Bruxaria
 - santos milagres e – 131
 
-##### 📑 C
+## C
 
 - C., Benjamin
 - filho da Sra. C., suicida, e – 270
@@ -247,7 +238,7 @@ veículo das sensações físicas da – 152
 - Callet, Augusto
 - inferno, O, obra, e – 48, nota
 
-###### 🔖 Cardon, Sr., médico, Espírito {#cardon-sr-medico-espirito}
+### Cardon, Sr., médico, Espírito
 
 - em condição mediana
 - consolo da prece e – 226
@@ -258,21 +249,21 @@ veículo das sensações físicas da – 152
 - morte, libertação, caridade e – 224
 - óbolo do pobre e – 227
 
-###### 🔖 Caridade {#caridade}
+### Caridade
 
 - conceito de – 383
 - finalidade e razão de ser da – 20
 - grande lei da consciência e – 369
 
-###### 🔖 Carne fraca, A {#carne-fraca-a}
+### Carne fraca, A
 
 - considerações sobre – 79, nota
 
-###### 🔖 Caronte {#caronte}
+### Caronte
 
 - considerações sobre – 42, nota
 
-###### 🔖 Castelnaudary, O Espírito de {#castelnaudary-o-espirito-de}
+### Castelnaudary, O Espírito de
 
 - contagem do tempo para os
 - Espíritos e – 304
@@ -284,25 +275,25 @@ veículo das sensações físicas da – 152
 - encarnação – 304
 - remorso e – 306
 
-###### 🔖 Castigo {#castigo}
+### Castigo
 
 - eternidade do – 85, nota
 - natureza e duração do – 84 e 85
 - término do – 60
 
-###### 🔖 Cérbero {#cerbero}
+### Cérbero
 
 - considerações sobre – 45
 
-###### 🔖 Cérebro {#cerebro}
+### Cérebro
 
 - causa do desenvolvimento do – 79
 
-###### 🔖 Ceticismo {#ceticismo}
+### Ceticismo
 
 - estacionamento da Religião e – 68
 
-###### 🔖 Céu {#ceu}
+### Céu
 
 - almas felizes e – 83
 - caminho para o \* e mundos felizes – 118
@@ -348,22 +339,22 @@ veículo das sensações físicas da – 152
 - resignação, esperança e – 253
 - trevas para o Espírito e – 259
 
-###### 🔖 Código penal da vida futura {#codigo-penal-da-vida-futura}
+### Código penal da vida futura
 
 - princípios do – 91
 
-###### 🔖 Comunicação de além-túmulo {#comunicacao-de-alem-tumulo}
+### Comunicação de além-túmulo
 
 - interdição da – 147
 
-###### 🔖 Consciência {#consciencia}
+### Consciência
 
 - gravação da lei na – 90
 - revolta contra a voz da consciência e – 317
 - voz de Deus e – 34
 - voz íntima da – 34
 
-###### 🔖 Conscrito, O pai e o, suicida {#conscrito-o-pai-e-o-suicida}
+### Conscrito, O pai e o, suicida
 
 - abreviação da pena e – 266
 - confiança em Deus e – 267
@@ -372,11 +363,11 @@ veículo das sensações físicas da – 152
 - Luís, São, Espírito, e – 266
 - motivo do suicídio e – 265
 
-###### 🔖 Convulsão {#convulsao}
+### Convulsão
 
 - indício da luta do Espírito e – 154
 
-###### 🔖 Corpo {#corpo}
+### Corpo
 
 - alma e efeitos da decomposição do – 152
 - características do – 27
@@ -389,21 +380,21 @@ veículo das sensações físicas da – 152
 - morte do – 27
 - união entre a alma e – 101
 
-###### 🔖 Corpo espiritual ver Perispírito {#corpo-espiritual-ver-perispirito}
+### Corpo espiritual ver Perispírito
 
-###### 🔖 Corpo fluídico ver Perispírito {#corpo-fluidico-ver-perispirito}
+### Corpo fluídico ver Perispírito
 
-###### 🔖 Costeau, Antoine, Espírito feliz {#costeau-antoine-espirito-feliz}
+### Costeau, Antoine, Espírito feliz
 
 - alocução do Sr. Canu e – 205, nota
 - evocação de – 205
 
-###### 🔖 Crença {#crenca}
+### Crença
 
 - formação da base de todas as religiões e – 16
 - origem da diversidade de – 17
 
-###### 🔖 Crença em o nada ver também Niilismo {#crenca-em-o-nada-ver-tambem-niilismo}
+### Crença em o nada ver também Niilismo
 
 - pensamento na vida presente e – 11
 - pensamento no egoísmo e – 12
@@ -422,7 +413,7 @@ veículo das sensações físicas da – 152
 - influência espiritual sobre o
 - organismo e – 81
 
-##### 📑 D
+## D
 
 - D., Sr.
 - marido da Sra. D. – 272
@@ -451,7 +442,7 @@ veículo das sensações físicas da – 152
 - necessidade da atividade espiritual e – 186
 - prova de identidade e – 185
 
-###### 🔖 Demônio(s) {#demonios}
+### Demônio(s)
 
 - agentes provocadores e – 115
 - anjos da virtude e – 117
@@ -490,7 +481,7 @@ veículo das sensações físicas da – 152
 - Satanás, chefe dos – 108
 - súdito dócil e – 52, nota
 
-###### 🔖 Desprendimento {#desprendimento}
+### Desprendimento
 
 - afinidade entre corpo e perispírito e – 153
 - causa principal da maior ou
@@ -538,53 +529,53 @@ veículo das sensações físicas da – 152
 - princípio inteligente e – 14
 - puro materialismo e – 14
 
-###### 🔖 Doutrina Espírita ver Espiritismo {#doutrina-espirita-ver-espiritismo}
+### Doutrina Espírita ver Espiritismo
 
-###### 🔖 Doutrina niilista {#doutrina-niilista}
+### Doutrina niilista
 
 - propagação da – 13, nota
 
-###### 🔖 Duplo suicídio, por amor e por dever {#duplo-suicidio-por-amor-e-por-dever}
+### Duplo suicídio, por amor e por dever
 
 - B., Sr., e – 272
 
-###### 🔖 D., Sra., e – 272 {#d-sra-e-272}
+### D., Sra., e – 272
 
-###### 🔖 Durst, Van, Espírito feliz {#durst-van-espirito-feliz}
+### Durst, Van, Espírito feliz
 
 - evocação de – 177
 - iniciação na vida espiritual e – 178
 
-##### 📑 E
+## E
 
-###### 🔖 Educação {#educacao}
+### Educação
 
 - modificação das qualidades da alma e – 15
 
-###### 🔖 Educação moral {#educacao-moral}
+### Educação moral
 
-###### 🔖 Espíritos desencarnados e {#espiritos-desencarnados-e}
+### Espíritos desencarnados e
 
 - encarnados e – 260
 - Luís, São, Espírito, e – 260
 
-###### 🔖 Egoísmo {#egoismo}
+### Egoísmo
 
 - anjos privilegiados e – 134
 - poderoso estímulo ao – 12
 - reinado do \* na Terra – 34
 
-###### 🔖 Emma, Srta. {#emma-srta}
+### Emma, Srta.
 
 - evocação de – 208, nota
 - fé católica e – 208
 - perturbação e – 208
 
-###### 🔖 Empíreo {#empireo}
+### Empíreo
 
 - origem da palavra – 25, nota
 
-###### 🔖 Encarnação {#encarnacao}
+### Encarnação
 
 - necessidade da – 28 e 29
 - objetivo da – 29
@@ -592,7 +583,7 @@ veículo das sensações físicas da – 152
 - progresso e – 29, nota
 - purgação das imperfeições e – 58
 
-###### 🔖 Erasto, guia espiritual – 325, 356 {#erasto-guia-espiritual-325-356}
+### Erasto, guia espiritual – 325, 356
 
 - Erraticidade
 - progresso do Espírito no estado de – 30
@@ -639,7 +630,7 @@ veículo das sensações físicas da – 152
 - valor da prece e – 60
 - verdadeiro destino do homem e – 27
 
-###### 🔖 Espírito(s) {#espiritos}
+### Espírito(s)
 
 - ação da matéria sobre os – 127
 - anjo e \* puro – 102, 130
@@ -719,7 +710,7 @@ veículo das sensações físicas da – 152
 - eternidade e – 103
 - suprema felicidade e – 28
 
-###### 🔖 Espírito sofredor {#espirito-sofredor}
+### Espírito sofredor
 
 - Auguste Michel e – 238
 - Claire e – 253
@@ -732,39 +723,39 @@ veículo das sensações físicas da – 152
 - Ouran, príncipe russo, e – 244
 - Pascal Lavic e – 247
 
-###### 🔖 Espírito superior {#espirito-superior}
+### Espírito superior
 
 - evocação de – 127
 - ocupações de – 132
 
-###### 🔖 Estado corporal {#estado-corporal}
+### Estado corporal
 
 - progresso do Espírito no – 30
 - transitoriedade do – 30
 
-###### 🔖 Estado espiritual {#estado-espiritual}
+### Estado espiritual
 
 - estado definitivo do Espírito – 29
 - progresso do Espírito no – 30
 
-###### 🔖 Estige {#estige}
+### Estige
 
 - considerações sobre – 43, nota
 
-###### 🔖 Eterno {#eterno}
+### Eterno
 
 - considerações sobre o termo – 85, nota
 
-###### 🔖 Eumênides {#eumenides}
+### Eumênides
 
 - considerações sobre – 317, nota
 
-###### 🔖 Evangelho {#evangelho}
+### Evangelho
 
 - predição tácita da mediunidade e – 126
 - purgatório e – 57
 
-###### 🔖 Evocação {#evocacao}
+### Evocação
 
 - abuso da – 133
 - acusações da Igreja contra a – 133
@@ -829,24 +820,24 @@ veículo das sensações físicas da – 152
 - Victor Lebufle, Espírito feliz, e – 212
 - Vignal, Dr., Espírito feliz, e – 209
 
-###### 🔖 Evolução das espécies, livro {#evolucao-das-especies-livro}
+### Evolução das espécies, livro
 
 - Charles Darwin e – 380
 
-###### 🔖 Exangue {#exangue}
+### Exangue
 
 - significado do termo – 355, nota
 
-###### 🔖 Expiação {#expiacao}
+### Expiação
 
 - complemento do trabalho efetivo e – 59
 - natureza e gravidade da falta e – 84
 - prazo da – 60
 - sofrimentos físicos e morais e – 85
 
-###### 🔖 Exprobração de um boêmio, {#exprobracao-de-um-boemio}
+### Exprobração de um boêmio,
 
-###### 🔖 Espírito sofredor {#espirito-sofredor}
+### Espírito sofredor
 
 - grilhões das paixões humanas e – 240
 - instruções do guia do médium e – 240
@@ -856,21 +847,21 @@ veículo das sensações físicas da – 152
 - Livro dos espíritos, O, e – 55, nota
 - visão de um pagão fanático e – 55
 
-###### 🔖 Ezequiel, profeta {#ezequiel-profeta}
+### Ezequiel, profeta
 
 - conversão do ímpio e – 77
 - negação das penas eternas e – 76
 - palavras de – 113
 - pecado original e – 76
 
-##### 📑 F
+## F
 
-###### 🔖 Fariseus {#fariseus}
+### Fariseus
 
 - frutos de Jesus e – 136
 - linguagem dos \* ao tempo de Jesus – 136
 
-###### 🔖 Fatalidade {#fatalidade}
+### Fatalidade
 
 - livre-arbítrio e – 16
 - responsabilidade e – 16
@@ -914,61 +905,61 @@ veículo das sensações físicas da – 152
 - evocação de – 186
 - motores de poderosa atração e – 191
 
-###### 🔖 Fraternidade {#fraternidade}
+### Fraternidade
 
 - finalidade e razão de ser da – 20
 - mundos superiores e verdadeira – 30
 
-###### 🔖 Fúrias, As {#furias-as}
+### Fúrias, As
 
 - considerações sobre – 45, nota
 - espelho e – 45
 
-###### 🔖 Futuro {#futuro}
+### Futuro
 
 - boa ou má direção do presente e – 20
 - homem e crença instintiva no – 17
 - homem e sentimento inato do – 19
 - revelação do – 128
 
-##### 📑 G
+## G
 
-###### 🔖 G., Louis, sapateiro, suicida {#g-louis-sapateiro-suicida}
+### G., Louis, sapateiro, suicida
 
 - amor, paixão, e – 276
 - perturbação e – 278
 - R., Victorine, noiva, e – 275
 
-###### 🔖 Gall {#gall}
+### Gall
 
 - ideias frenológicas de – 380
 
-###### 🔖 Geena {#geena}
+### Geena
 
 - significado do termo – 65
 
-###### 🔖 Geologia {#geologia}
+### Geologia
 
 - comprovação da formação da Terra e – 34
 
-###### 🔖 Georges {#georges}
+### Georges
 
 - Félix, marido de Claire, e – 256
 - guia do médium de Claire,
 - Espírito sofredor – 256
 
-###### 🔖 Georges, Espírito {#georges-espirito}
+### Georges, Espírito
 
 - a morte do justo e – 167 e 168, nota
 
-###### 🔖 Georges, Espírito sofredor {#georges-espirito-sofredor}
+### Georges, Espírito sofredor
 
 - castigo e – 235
 - dúvida depois da morte a respeito
 - do destino e – 235
 - sofrimento do mau Espírito e – 235
 
-###### 🔖 Gontran, Maurice, Espírito feliz {#gontran-maurice-espirito-feliz}
+### Gontran, Maurice, Espírito feliz
 
 - desespero e – 216
 - diminuição do sofrimento e – 217
@@ -986,7 +977,7 @@ veículo das sensações físicas da – 152
 - evocação de – 214
 - término das provações e – 214
 
-##### 📑 H
+## H
 
 - Hércules
 - considerações sobre – 45
@@ -1027,25 +1018,25 @@ veículo das sensações físicas da – 152
 - e agravantes e – 63
 - vida além do corpo e – 20
 
-###### 🔖 Homem de bem {#homem-de-bem}
+### Homem de bem
 
 - caracteres do – 382
 
-###### 🔖 Homero, poeta {#homero-poeta}
+### Homero, poeta
 
 - descrição do inferno pagão e – 41
 
-###### 🔖 Honestidade {#honestidade}
+### Honestidade
 
 - conceito de – 219
 
-###### 🔖 Humanidade {#humanidade}
+### Humanidade
 
 - Deus e criação da – 103
 
-##### 📑 I
+## I
 
-###### 🔖 Igreja {#igreja}
+### Igreja
 
 - admissão do purgatório pela – 57, 61
 - anjos segundo a – 93
@@ -1059,17 +1050,17 @@ veículo das sensações físicas da – 152
 - invocação dos santos e – 146
 - progresso da Ciência e – 112
 
-###### 🔖 Imortalidade {#imortalidade}
+### Imortalidade
 
 - homem e crença da – 19
 - temor da morte e crença da – 19
 
-###### 🔖 Imperfeição {#imperfeicao}
+### Imperfeição
 
 - causa da – 83
 - consequências da – 83
 
-###### 🔖 Incredulidade {#incredulidade}
+### Incredulidade
 
 - causa da – 21
 - oposição à difusão da – 13
@@ -1124,12 +1115,12 @@ veículo das sensações físicas da – 152
 - sorte dos idiotas na vida eterna e – 364
 - tradução pela palavra e pelo olhar e – 363
 
-###### 🔖 Inteligência {#inteligencia}
+### Inteligência
 
 - origem da \* precoce – 14
 - sentimentos morais e progresso da – 106
 
-###### 🔖 Irmão do Sr. J.-B. D., ateu {#irmao-do-sr-j-b-d-ateu}
+### Irmão do Sr. J.-B. D., ateu
 
 - confirmação da identidade e – 282
 - evocação de – 280
@@ -1137,20 +1128,20 @@ veículo das sensações físicas da – 152
 - premissa da humildade e – 282
 - remorso pelo esquecimento de Deus e – 281
 
-###### 🔖 Isaías {#isaias}
+### Isaías
 
 - vermes de – 49, nota
 - Íxion, roda de
 - inferno pagão e – 38, nota
 
-##### 📑 J
+## J
 
-###### 🔖 Jeová {#jeova}
+### Jeová
 
 - base da crença entre os hebreus e – 107
 - deus guerreiro entre os hebreus e – 67
 
-###### 🔖 Jesus {#jesus}
+### Jesus
 
 - castigos, suplícios corporais e – 40
 - compreensão da essência de Deus
@@ -1194,7 +1185,7 @@ veículo das sensações físicas da – 152
 - privilégios com a – 74
 - lei da – 91
 
-##### 📑 K
+## K
 
 - Kardec, Allan
 - compreensão das Leis divinas e – 381
@@ -1203,23 +1194,23 @@ veículo das sensações físicas da – 152
 - fisiognomonia de Lavater e – 380
 - ideias frenológicas de Gall e – 380
 
-##### 📑 L
+## L
 
 - Laço fluídico ver Perispírito
 
-###### 🔖 Lapommeray, Espírito endurecido {#lapommeray-espirito-endurecido}
+### Lapommeray, Espírito endurecido
 
 - erraticidade e – 323
 - perturbação e – 321
 - progresso moral e intelectual e – 322
 
-###### 🔖 Latour, Jacques, criminoso arrependido {#latour-jacques-criminoso-arrependido}
+### Latour, Jacques, criminoso arrependido
 
 - arrependimento e – 308, 317
 - consequências do mal e – 310
 - estudo sobre o Espírito Jacques
 
-###### 🔖 Latour – 316 {#latour-316}
+### Latour – 316
 
 - expiação das faltas e – 313
 - gérmen dos bons sentimentos e – 319
@@ -1234,7 +1225,7 @@ veículo das sensações físicas da – 152
 - sofrimento e – 310
 - temor dos gauleses e – 323, nota
 
-###### 🔖 Latrão, Concílio de {#latrao-concilio-de}
+### Latrão, Concílio de
 
 - anjos, puros Espíritos, e – 95
 - distinção entre anjos e homens e – 95
@@ -1242,25 +1233,25 @@ veículo das sensações físicas da – 152
 - proposição do – 98
 - refutação – 97
 
-###### 🔖 Lavater {#lavater}
+### Lavater
 
 - fisiognomonia de – 380
 
-###### 🔖 Lavic, Pascal, pescador, Espírito sofredor {#lavic-pascal-pescador-espirito-sofredor}
+### Lavic, Pascal, pescador, Espírito sofredor
 
 - desprendimento e – 247
 - perturbação e – 247
 
-###### 🔖 Lebufle, Victor, Espírito feliz {#lebufle-victor-espirito-feliz}
+### Lebufle, Victor, Espírito feliz
 
 - evocação de – 212
 - guia do médium e – 213
 
-###### 🔖 Lei do progresso {#lei-do-progresso}
+### Lei do progresso
 
-###### 🔖 Lei da natureza e – 73 {#lei-da-natureza-e-73}
+### Lei da natureza e – 73
 
-###### 🔖 Lemaire, criminoso arrependido {#lemaire-criminoso-arrependido}
+### Lemaire, criminoso arrependido
 
 - crença num Deus vingativo e – 298
 - decapitação e – 297
@@ -1305,15 +1296,15 @@ veículo das sensações físicas da – 152
 - chefe dos demônios no Céu – 52
 - palavras atribuídas a – 111
 
-###### 🔖 Louis e a pespontadeira de botinas {#louis-e-a-pespontadeira-de-botinas}
+### Louis e a pespontadeira de botinas
 
 - G., Louis, sapateiro, e – 275
 
-###### 🔖 Luís, São, Espírito, e – 276 {#luis-sao-espirito-e-276}
+### Luís, São, Espírito, e – 276
 
 - R., Victorine, e – 275
 
-###### 🔖 Luís, São, Espírito {#luis-sao-espirito}
+### Luís, São, Espírito
 
 - conscrito, O pai e o, e – 266
 - egoísmo, caridade e – 255
@@ -1327,14 +1318,14 @@ veículo das sensações físicas da – 152
 - Samaritana, O suicida da, e – 264
 - suplemento do fluido vital e – 233
 
-##### 📑 M
+## M
 
-###### 🔖 Magia {#magia}
+### Magia
 
 - evocação dos Espíritos e – 133
 - evocações espíritas e – 126
 
-###### 🔖 Maître, Joseph, o cego {#maitre-joseph-o-cego}
+### Maître, Joseph, o cego
 
 - causa de sorte tão cruel – 375
 - esplendores do mundo espiritual e – 377
@@ -1346,7 +1337,7 @@ veículo das sensações físicas da – 152
 - surdez e – 375
 - vida de além-túmulo e – 376
 
-###### 🔖 Mal {#mal}
+### Mal
 
 - compreensão do estado transitório do – 107
 - criação do – 102
@@ -1404,7 +1395,7 @@ veículo das sensações físicas da – 152
 - perturbação e – 238
 - solicitação da graça do perdão e – 239
 
-###### 🔖 Michel, Hélène, Espírito em {#michel-helene-espirito-em}
+### Michel, Hélène, Espírito em
 
 - condição mediana
 - desprendimento lento e – 221
@@ -1412,20 +1403,20 @@ veículo das sensações físicas da – 152
 - perturbação e – 221
 - sentimento de dualidade e – 221
 
-###### 🔖 Milagre {#milagre}
+### Milagre
 
 - aparição da Virgem aos homens e – 146
 - ressurreição dos corpos e – 52
 
-###### 🔖 Miséria {#miseria}
+### Miséria
 
 - explicação para a \* mundana – 90
 
-###### 🔖 Mitologia, fábulas da {#mitologia-fabulas-da}
+### Mitologia, fábulas da
 
 - crença nos anjos e – 94
 
-###### 🔖 Moisés {#moises}
+### Moisés
 
 - censura a legislação draconiana de – 64
 - Espiritismo e proibição de – 142
@@ -1436,23 +1427,23 @@ veículo das sensações físicas da – 152
 - proibição de evocação dos mortos e – 139
 - revisão da lei de – 143
 
-###### 🔖 Monod {#monod}
+### Monod
 
 - guia do médium de Angèle – 329
 
-###### 🔖 Morada dos anjos {#morada-dos-anjos}
+### Morada dos anjos
 
 - localização da – 39
 
-###### 🔖 Moral divina {#moral-divina}
+### Moral divina
 
 - diferença entre \* e moral humana – 255
 
-###### 🔖 Moribundo {#moribundo}
+### Moribundo
 
 - clarividência no – 223
 
-###### 🔖 Morte {#morte}
+### Morte
 
 - agravamento da angústia na – 155
 - causa do sofrimento que
@@ -1505,30 +1496,30 @@ veículo das sensações físicas da – 152
 - solidariedade entre o mundo
 - corporal e o – 32
 
-###### 🔖 Mundo inferior {#mundo-inferior}
+### Mundo inferior
 
 - Espíritos imperfeitos e – 86
 - estabilidade da população do – 33
 
-###### 🔖 Mundo invisível ver Mundo espiritual {#mundo-invisivel-ver-mundo-espiritual}
+### Mundo invisível ver Mundo espiritual
 
-###### 🔖 Mundo superior {#mundo-superior}
+### Mundo superior
 
 - característica da vida no – 30
 - verdadeira fraternidade e – 30
 
-##### 📑 N
+## N
 
-###### 🔖 Nabofarzan {#nabofarzan}
+### Nabofarzan
 
 - rei da Babilônia e – 41
 
-###### 🔖 Niilismo ver também Crença em o nada {#niilismo-ver-tambem-crenca-em-o-nada}
+### Niilismo ver também Crença em o nada
 
 - consequências da doutrina do – 12
 - doutrina insensata e antissocial e – 12
 
-###### 🔖 Nota explicativa – 379, nota {#nota-explicativa-379-nota}
+### Nota explicativa – 379, nota
 
 - comunicação dos homens com
 - os Espíritos e – 379
@@ -1537,15 +1528,15 @@ veículo das sensações físicas da – 152
 - obras básicas do Espiritismo e – 379
 - princípios do Espiritismo e – 379
 
-###### 🔖 Nova Revelação ver Espiritismo {#nova-revelacao-ver-espiritismo}
+### Nova Revelação ver Espiritismo
 
-###### 🔖 Novel, Espírito sofredor {#novel-espirito-sofredor}
+### Novel, Espírito sofredor
 
 - desprendimento do corpo e – 237
 
-##### 📑 O
+## O
 
-###### 🔖 Obras básicas do Espiritismo {#obras-basicas-do-espiritismo}
+### Obras básicas do Espiritismo
 
 - Céu e o inferno, O, e – 379
 - Evangelho segundo o
@@ -1570,7 +1561,7 @@ veículo das sensações físicas da – 152
 - orgulho, fonte dos sofrimentos, e – 244
 - orgulho, inimigo da felicidade, e – 246
 
-##### 📑 P
+## P
 
 - Pai
 - conscrito, O \* e o, suicida – 265
@@ -1595,7 +1586,7 @@ veículo das sensações físicas da – 152
 - Pecado original
 - Ezequiel e – 76
 
-###### 🔖 Penas eternas {#penas-eternas}
+### Penas eternas
 
 - argumentos a favor das – 68
 - compreensão do poder moral
@@ -1609,31 +1600,31 @@ veículo das sensações físicas da – 152
 - origem da doutrina das – 63
 - refutação ao dogma das – 68, 71
 
-###### 🔖 Penas futuras {#penas-futuras}
+### Penas futuras
 
 - intuição das – 37
 - Livro dos espíritos, O, e – 82, nota
 - princípios da Doutrina
 - Espírita sobre as – 82
 
-###### 🔖 Pensamento {#pensamento}
+### Pensamento
 
 - valor da prece e – 60
 
-###### 🔖 Perdão {#perdao}
+### Perdão
 
 - condição absoluta para o – 66
 
-###### 🔖 Perfectibilidade {#perfectibilidade}
+### Perfectibilidade
 
 - romagem para – 90, nota
 
-###### 🔖 Perfeição {#perfeicao}
+### Perfeição
 
 - fonte de gozo e atenuante de
 - sofrimentos – 83
 
-###### 🔖 Perispírito {#perispirito}
+### Perispírito
 
 - características do – 152
 - causa da afinidade entre \* e corpo – 154
@@ -1643,7 +1634,7 @@ veículo das sensações físicas da – 152
 - ao corpo e – 151
 - suicida e repercussão do \* na alma – 155
 
-###### 🔖 Perturbação {#perturbacao}
+### Perturbação
 
 - desprendimento por morte natural e – 154
 - duração do estado de – 88
@@ -1695,60 +1686,60 @@ veículo das sensações físicas da – 152
 - princípio do – 57
 - realidade material do – 58
 
-##### 📑 Q
+## Q
 
-###### 🔖 Qualidade inata {#qualidade-inata}
+### Qualidade inata
 
 - origem da – 14
 
-###### 🔖 Que é o espiritismo, O {#que-e-o-espiritismo-o}
+### Que é o espiritismo, O
 
 - Allan Kardec e – 379
 
-###### 🔖 Querubins {#querubins}
+### Querubins
 
 - primeira hierarquia dos anjos e – 96
 
-###### 🔖 Quimera {#quimera}
+### Quimera
 
 - considerações sobre – 45
 
-##### 📑 R
+## R
 
-###### 🔖 R., Victorine, noiva {#r-victorine-noiva}
+### R., Victorine, noiva
 
 - G., Louis, sapateiro, suicida, e – 275
 - responsabilidade de – 276
 
-###### 🔖 Raças {#racas}
+### Raças
 
 - consanguinidade e descendentes das – 381
 - origem de privilégios de – 381
 
-###### 🔖 Rainha de Oude, A, Espírito endurecido {#rainha-de-oude-a-espirito-endurecido}
+### Rainha de Oude, A, Espírito endurecido
 
 - honras fúnebres e – 332
 - Luís, São, Espírito, e – 334
 
-###### 🔖 Religião e – 332 {#religiao-e-332}
+### Religião e – 332
 
-###### 🔖 Ranger de dentes {#ranger-de-dentes}
+### Ranger de dentes
 
 - expressão dos evangelistas e – 49, nota; 323
 - significado da expressão – 323
 
-###### 🔖 Reencarnação {#reencarnacao}
+### Reencarnação
 
 - fraternidade universal e – 382
 - injustiça da servidão e escravidão e – 382
 - oportunidade de \* em outros mundos – 30
 - preconceitos de raças e castas e – 382
 
-###### 🔖 Regeneração {#regeneracao}
+### Regeneração
 
 - condições necessárias para – 85
 
-###### 🔖 Religião(ões) {#religiaooes}
+### Religião(ões)
 
 - abandono da – 17
 - deuses guerreiros e \* primitivas – 67
@@ -1803,19 +1794,19 @@ veículo das sensações físicas da – 152
 - provação dos pais e – 369
 - visita de um Espírito batedor e – 368
 
-##### 📑 S
+## S
 
-###### 🔖 Sábio ambicioso, Um {#sabio-ambicioso-um}
+### Sábio ambicioso, Um
 
 - B..., Sra., de Bordeaux, e – 359
 
-###### 🔖 Sacerdote {#sacerdote}
+### Sacerdote
 
 - proibição da partilha de qualquer
 - herança e – 142
 - proibição da posse de bens terrenos e – 142
 
-###### 🔖 Saint-Paul, marquês de, Espírito {#saint-paul-marques-de-espirito}
+### Saint-Paul, marquês de, Espírito
 
 - em condição mediana
 - erraticidade e – 222
@@ -1823,11 +1814,11 @@ veículo das sensações físicas da – 152
 - moribundo clarividente e – 223
 - perturbação e – 222
 
-###### 🔖 Salvação {#salvacao}
+### Salvação
 
 - obtenção da – 22
 
-###### 🔖 Samaritana, O suicida da {#samaritana-o-suicida-da}
+### Samaritana, O suicida da
 
 - decomposição do corpo e – 265
 - dúvida da morte e – 265
@@ -1838,12 +1829,12 @@ veículo das sensações físicas da – 152
 - morte natural, morte acidental e – 264
 - motivo do suicídio e – 264
 
-###### 🔖 Sangue {#sangue}
+### Sangue
 
 - disposições morais do Espírito
 - e transtorno do – 80
 
-###### 🔖 Sanson, Espírito feliz {#sanson-espirito-feliz}
+### Sanson, Espírito feliz
 
 - causa da descrença e – 163
 - clarividência do Espírito e – 164
@@ -1897,30 +1888,30 @@ veículo das sensações físicas da – 152
 - sofrimento físico e – 343
 - sofrimento moral e – 343
 
-###### 🔖 Sociedade {#sociedade}
+### Sociedade
 
 - incredulidade e dissolução da – 13
 - semeadura dos germens de
 - perturbação na – 14
 
-###### 🔖 Sociedade de emulação de Rouen {#sociedade-de-emulacao-de-rouen}
+### Sociedade de emulação de Rouen
 
 - Adélaïde-Marguerite Gosse e – 366
 
-###### 🔖 Sociedade de Paris ver Sociedade {#sociedade-de-paris-ver-sociedade}
+### Sociedade de Paris ver Sociedade
 
 - Espírita de Paris
 
-###### 🔖 Sociedade Espírita de Paris {#sociedade-espirita-de-paris}
+### Sociedade Espírita de Paris
 
 - Antoine Costeau, e – 205, nota
 - Jobard, Sr., presidente honorário da – 168
 
-###### 🔖 Sanson, Espírito, membro da – 155 {#sanson-espirito-membro-da-155}
+### Sanson, Espírito, membro da – 155
 
 - Vignal, Dr., antigo membro da – 209
 
-###### 🔖 Sofrimento {#sofrimento}
+### Sofrimento
 
 - causa do \* nesta vida – 59
 - causa do \* que acompanha a morte – 153
@@ -1929,19 +1920,19 @@ veículo das sensações físicas da – 152
 - impotência de previsão do término do – 59
 - mal, causa do – 83
 
-###### 🔖 Sr. J.-B. D., ateu, suicida {#sr-j-b-d-ateu-suicida}
+### Sr. J.-B. D., ateu, suicida
 
 - confirmação da identidade e – 282
 - fonte das ideias materialistas e – 279
 - intuição do mundo espiritual e – 279
 - motivo do suicídio e – 279
 
-###### 🔖 Stanislas, Eric, Espírito em {#stanislas-eric-espirito-em}
+### Stanislas, Eric, Espírito em
 
 - condição mediana
 - evocação e – 228
 
-###### 🔖 Suicida {#suicida}
+### Suicida
 
 - Antoine Bell, e – 288
 - B., Sr., e – 272
@@ -1959,7 +1950,7 @@ veículo das sensações físicas da – 152
 - sacrifício meritório e – 268
 - severidade na punição do – 267
 
-##### 📑 T
+## T
 
 - Talismã
 - virtude do – 127
@@ -1995,34 +1986,34 @@ veículo das sensações físicas da – 152
 - purificação de Espíritos imperfeitos e – 30
 - reino do egoísmo na – 34
 
-###### 🔖 Tofel {#tofel}
+### Tofel
 
 - considerações sobre – 49, nota
 
-###### 🔖 Tolerância religiosa {#tolerancia-religiosa}
+### Tolerância religiosa
 
 - unificação relativamente à sorte
 - futura das almas e – 18
 
-###### 🔖 Tronos {#tronos}
+### Tronos
 
 - primeira hierarquia dos anjos e – 96
 
-##### 📑 U
+## U
 
-###### 🔖 Um médico russo, Espírito feliz {#um-medico-russo-espirito-feliz}
+### Um médico russo, Espírito feliz
 
 - evocação e – 193
 - habitante do espaço e – 194
 - perdão das ofensas e – 196
 
-##### 📑 V
+## V
 
-###### 🔖 Verdade {#verdade}
+### Verdade
 
 - revelação mais completa da – 34
 
-###### 🔖 Verger, padre, criminoso arrependido {#verger-padre-criminoso-arrependido}
+### Verger, padre, criminoso arrependido
 
 - arrependimento e – 295
 - inveja, orgulho e – 295
@@ -2030,7 +2021,7 @@ veículo das sensações físicas da – 152
 - pedido de perdão a Deus e – 295
 - Sibour, monsenhor, e – 295
 
-###### 🔖 Vernhes, Françoise {#vernhes-francoise}
+### Vernhes, Françoise
 
 - adiantamento moral e intelectual e – 372
 - anjo da guarda e – 371
@@ -2039,7 +2030,7 @@ veículo das sensações físicas da – 152
 - orgulho, pedra de toque – 372
 - reparação de existência anterior e – 372
 
-###### 🔖 Vicissitude {#vicissitude}
+### Vicissitude
 
 - explicação para a \* mundana – 90
 - origem da \* da vida – 107
@@ -2084,28 +2075,28 @@ veículo das sensações físicas da – 152
 - Vida social
 - pedra de toque das qualidades – 28
 
-###### 🔖 Vida terrestre {#vida-terrestre}
+### Vida terrestre
 
 - paciência e coragem para suportar
 - as fadigas da – 20
 
-###### 🔖 Vignal, Dr., Espírito feliz {#vignal-dr-espirito-feliz}
+### Vignal, Dr., Espírito feliz
 
 - diferença de desprendimento e – 211
 - estudo a respeito do – 211, nota
 - evocação de – 209
 
-###### 🔖 Virgílio, poeta {#virgilio-poeta}
+### Virgílio, poeta
 
 - descrição do inferno pagão e – 41
 
-###### 🔖 Virtudes {#virtudes}
+### Virtudes
 
 - segunda hierarquia dos anjos e – 96
 - Vulcano
 - considerações sobre – 46
 
-##### 📑 X
+## X
 
 - Xumène, Espírito endurecido
 - arrependimento, prece e – 334

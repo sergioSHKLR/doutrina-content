@@ -1,20 +1,12 @@
-## 3. 🗃️ Pós-textual {#3}
+# Índice Geral
 
-### 3.01. 📄 Nota explicativa {#3-01}
+## A
 
-<!-- INSERT_SHARED:nota-explicativa.md -->
-
-### 3.02. 🗂️ Índice geral {#3-02}
-
-#### Termos relacionados {#3-02-01}
-
-##### 📑 A
-
-###### 🔖 Abuso {#abuso}
+### Abuso
 
 - exercício da mediunidade e – 226, 3<sup>a</sup>
 
-###### 🔖 Ação {#acao}
+### Ação
 
 - do Espírito no movimento de objetos – 77
 - do Espírito nos efeitos físicos – 74, Cap. 08
@@ -23,23 +15,23 @@
 - mecanismo da \* do Espírito batedor – 74, Cap. 22
 - organização da matéria e \* do Espírito – 130
 
-###### 🔖 Afinidade {#afinidade}
+### Afinidade
 
 - médium e – 98
 
-###### 🔖 Agênere {#agenere}
+### Agênere
 
 - conceito de – 125
 
-###### 🔖 Agostinho, Santo {#agostinho-santo}
+### Agostinho, Santo
 
 - dissertação de – Cap. 31, Cap. 01 e Cap. 16
 - fórmula de invocação geral com o
 - concurso de – Cap. 31, Cap. 16
 
-###### 🔖 Allan Kardec ver Kardec, Allan {#allan-kardec-ver-kardec-allan}
+### Allan Kardec ver Kardec, Allan
 
-###### 🔖 Alma {#alma}
+### Alma
 
 - consequência da existência da – 2
 - denominação de – 2
@@ -54,19 +46,19 @@
 - natureza do corpo e da – 2
 - perispírito e – 54
 
-###### 🔖 Alma coletiva {#alma-coletiva}
+### Alma coletiva
 
 - todo coletivo e sistema da – 44
 
-###### 🔖 Alma material {#alma-material}
+### Alma material
 
 - princípios da – 50
 
-###### 🔖 Almas {#almas}
+### Almas
 
 - doutrina da localização das – 2
 
-###### 🔖 Alucinação {#alucinacao}
+### Alucinação
 
 - aparição e – 100, 15<sup>a</sup>, nota
 - conceito de – 111
@@ -75,7 +67,7 @@
 - sistema da – 40
 - teoria da – 111
 
-###### 🔖 Animais {#animais}
+### Animais
 
 - aparição visível e – 236
 - consequência da magnetização de – 236
@@ -86,26 +78,26 @@
 - inteligência e mediunidade dos – 234
 - mediunidade nos – 234
 
-###### 🔖 Animal {#animal}
+### Animal
 
 - espírito de \* e evocação – 283, 36<sup>a</sup>
 
-###### 🔖 Anjo {#anjo}
+### Anjo
 
 - conceito de – 2
 
-###### 🔖 Anjo da guarda {#anjo-da-guarda}
+### Anjo da guarda
 
 - ajuda de – 252
 - identidade e – 256
 
-###### 🔖 Aparência {#aparencia}
+### Aparência
 
 - do perispírito e transfiguração – 123
 - Espíritos e – 100, 12a
 - perispírito e \* do Espírito – 56
 
-###### 🔖 Aparição {#aparicao}
+### Aparição
 
 - acidental e espontânea – 168
 - alucinação e – 100, 15<sup>a</sup>, nota
@@ -149,15 +141,15 @@
 - vontade do Espírito, fluido
 - do médium e – 105
 
-###### 🔖 Aparição tangível {#aparicao-tangivel}
+### Aparição tangível
 
 - sentido tátil e – 104
 
-###### 🔖 Apego {#apego}
+### Apego
 
 - grau de evolução do Espírito e – 132, 1<sup>a</sup>
 
-###### 🔖 Aptidão(ões) {#aptidaooes}
+### Aptidão(ões)
 
 - do Espírito e comunicação – 223, 22<sup>a</sup>
 - do médium e comunicação – 223, 20<sup>a</sup>
@@ -170,50 +162,50 @@
 - simpatia do Espírito pelo médium
 - e \* para comunicação – 185
 
-###### 🔖 Assembleias {#assembleias}
+### Assembleias
 
 - desvantagens de grandes – 335
 
-###### 🔖 Assistência espiritual {#assistencia-espiritual}
+### Assistência espiritual
 
 - oração e – 249
 
-###### 🔖 Assombração {#assombracao}
+### Assombração
 
 - fantasma e – 132
 - habitante, local assombrado e – 132, 10<sup>a</sup>
 
-###### 🔖 Atração {#atracao}
+### Atração
 
 - seres do Mundo Invisível e – 232
 
-###### 🔖 Audiência {#audiencia}
+### Audiência
 
 - mecanismo da – 165
 
-###### 🔖 Audiente {#audiente}
+### Audiente
 
 - conceito de médium – 165
 
-###### 🔖 Autoria {#autoria}
+### Autoria
 
 - importância da \* mediúnica – Introd.
 
-###### 🔖 Avareza {#avareza}
+### Avareza
 
 - Espíritos de usurários e – 295, 31<sup>a</sup>
 
-##### 📑 B
+## B
 
-###### 🔖 Bens terrenos {#bens-terrenos}
+### Bens terrenos
 
 - apego a – 132, 1<sup>a</sup>
 
-###### 🔖 Bento, São {#bento-sao}
+### Bento, São
 
 - dissertação de – Cap. 31, Cap. 05
 
-###### 🔖 Bicorporeidade {#bicorporeidade}
+### Bicorporeidade
 
 - casos de aparições de pessoas vivas – 115
 - corpo real e do aparente no
@@ -225,13 +217,13 @@
 - transfiguração e – 114
 - Vespasiano e um caso de – 120
 
-###### 🔖 Bom senso {#bom-senso}
+### Bom senso
 
 - avaliação dos Espíritos e – 267, 1<sup>a</sup>
 
-##### 📑 C
+## C
 
-###### 🔖 Caligrafia {#caligrafia}
+### Caligrafia
 
 - identidade do Espírito e – 219
 - mudança de \* e Espírito comunicante – 219
@@ -240,25 +232,25 @@
 - uniformidade da \* e médium
 - polígrafo – 219
 
-###### 🔖 Caridade {#caridade}
+### Caridade
 
 - moralização do Espírito mau e – 254, 5<sup>a</sup>
 
-###### 🔖 Casa Espírita {#casa-espirita}
+### Casa Espírita
 
 - constituição da – 334
 - formação da – Cap. 31, Cap. 21
 - substituição de mentor em – 268, 10<sup>a</sup>
 
-###### 🔖 Causas físicas {#causas-fisicas}
+### Causas físicas
 
 - sistemas das – 42
 
-###### 🔖 Cegueira {#cegueira}
+### Cegueira
 
 - vidência e – 167
 
-###### 🔖 Cérebro {#cerebro}
+### Cérebro
 
 - emancipação da alma e – 113b
 - exercício da mediunidade e – 221, 5<sup>a</sup>
@@ -266,16 +258,16 @@
 - teoria da alucinação e gravação
 - de impressões no – 113b
 
-###### 🔖 Céu {#ceu}
+### Céu
 
 - inferno e – 2
 
-###### 🔖 Channing {#channing}
+### Channing
 
 - dissertação de – Cap. 31, Cap. 07, Cap. 08, Cap. 10
 - ubiquidade e explicação de – 282, 30<sup>a</sup>, nota
 
-###### 🔖 Charlatanismo {#charlatanismo}
+### Charlatanismo
 
 - embuste e – 304
 - Espírito inferior e – 307
@@ -283,17 +275,17 @@
 - simulação dos fenômenos físicos e – 307
 - sistema do – 38
 
-###### 🔖 Chateaubriand {#chateaubriand}
+### Chateaubriand
 
 - dissertação de – Cap. 31, Cap. 02
 
-###### 🔖 Ciência {#ciencia}
+### Ciência
 
 - causas do sonho e – 112
 - elevação espiritual e – 268, 2<sup>a</sup>
 - elevação intelectual, identidade e – 265
 
-###### 🔖 Clarividência {#clarividencia}
+### Clarividência
 
 - aparição acidental e espontânea e – 168
 - aparição e – 102
@@ -310,7 +302,7 @@
 - presença de Espíritos em espetáculos
 - públicos e – 169
 
-###### 🔖 Classificação {#classificacao}
+### Classificação
 
 - médiuns comuns a todos os gêneros
 - de mediunidade – 188
@@ -324,23 +316,23 @@
 - quadro sinóptico da \* dos médiuns – 186
 - reuniões espíritas segundo o gênero – 324
 
-###### 🔖 Combate {#combate}
+### Combate
 
 - mecanismos de \* à fascinação – 250
 - mecanismos de \* à obsessão – 249
 - mecanismos de \* à subjugação
 - corporal – 251
 
-###### 🔖 Comportamento {#comportamento}
+### Comportamento
 
 - vítima de fascinação e – 250
 
-###### 🔖 Comunicabilidade dos Espíritos {#comunicabilidade-dos-espiritos}
+### Comunicabilidade dos Espíritos
 
 - homem e – 5
 - negação da – 3
 
-###### 🔖 Comunicação espírita {#comunicacao-espirita}
+### Comunicação espírita
 
 - análise crítica da – 266
 - anímica – 230
@@ -386,7 +378,7 @@
 - diferentes médiuns – 282, 29<sup>a</sup>
 - variedade dos meios de – 137
 
-###### 🔖 Comunicação espontânea {#comunicacao-espontanea}
+### Comunicação espontânea
 
 - identidade do Espírito e – 282, 23<sup>a</sup>
 - vantagens da – 269
@@ -414,12 +406,12 @@
 - Condenação
 - comunicação com os Espíritos e – 46
 
-###### 🔖 Conhecimento {#conhecimento}
+### Conhecimento
 
 - crítica e – 12
 - preliminar do Espiritismo – 35
 
-###### 🔖 Conselho {#conselho}
+### Conselho
 
 - pedido de \* aos Espíritos sobre
 - questões da saúde – 293, 24<sup>a</sup>-25<sup>a</sup>
@@ -428,25 +420,25 @@
 - pedido de \* aos Espíritos sobre questões
 - de interesse privado – 291, 18<sup>a</sup>
 
-###### 🔖 Consequência {#consequencia}
+### Consequência
 
 - da existência da alma – 2
 
-###### 🔖 Constituição {#constituicao}
+### Constituição
 
 - comunicação do Espírito e \* fisiológica – 7
 - do ser humano – 54
 
-###### 🔖 Consulta {#consulta}
+### Consulta
 
 - aos Espíritos e formação de
 - psicógrafos – 205
 
-###### 🔖 Conteúdo {#conteudo}
+### Conteúdo
 
 - mensagens espirituais e – 267, 5<sup>a</sup>
 
-###### 🔖 Contradição {#contradicao}
+### Contradição
 
 - causa e valor da \* de origem espírita – 299
 - comunicações espíritas e – 301; 302
@@ -457,17 +449,17 @@
 - humana e – 298
 - verdade e \* aparente – 301
 
-###### 🔖 Conversão {#conversao}
+### Conversão
 
 - incredulidade e – 29
 
-###### 🔖 Cordão fluídico {#cordao-fluidico}
+### Cordão fluídico
 
 - corpo físico e – 119, 1<sup>a</sup>
 - encarnados e – 284, 40<sup>a</sup>, nota
 - Espírito e – 115
 
-###### 🔖 Corpo {#corpo}
+### Corpo
 
 - ausência do Espírito e – 118
 - despertamento súbito do – 119, 4<sup>a</sup>
@@ -476,36 +468,36 @@
 - natureza da alma e do – 2
 - transfiguração e peso do – 123
 
-###### 🔖 Corpo fluídico ver Perispírito {#corpo-fluidico-ver-perispirito}
+### Corpo fluídico ver Perispírito
 
-###### 🔖 Credulidade {#credulidade}
+### Credulidade
 
 - assombração e \* humana – 132, 12<sup>a</sup>
 - preferência pela sexta-feira e – 132, 7<sup>a</sup>a
 
-###### 🔖 Crença {#crenca}
+### Crença
 
 - existência do Espírito e – 1
 - manifestação dos Espíritos e – 52
 - origem da \* na existência de lugares
 - mal-assombrados – 132
 
-###### 🔖 Criação {#criacao}
+### Criação
 
 - formação e \* de objetos – 129
 
-###### 🔖 Criança {#crianca}
+### Criança
 
 - Espírito da \* e evocação – 282, 35<sup>a</sup>
 - exercício da mediunidade por – 222
 - mediunidade e – 221, 6<sup>a</sup>
 - mediunidade natural em – 221, 7<sup>a</sup>
 
-###### 🔖 Crise {#crise}
+### Crise
 
 - da morte – 53
 
-###### 🔖 Crítica {#critica}
+### Crítica
 
 - análise \* da comunicação espírita – 266
 - conhecimento e – 12
@@ -514,7 +506,7 @@
 - melindre por – 248
 - reunião e – 337
 
-###### 🔖 Cura {#cura}
+### Cura
 
 - ação magnética e – 131
 - mediunidade de – 175
@@ -523,37 +515,37 @@
 - poder de – 176, 5<sup>a</sup>
 - transmissão do poder de – 176, 7<sup>a</sup>
 
-##### 📑 D
+## D
 
-###### 🔖 D’Arc, Joana {#darc-joana}
+### D’Arc, Joana
 
 - dissertação de – Cap. 31, Cap. 12
 
-###### 🔖 Decepção {#decepcao}
+### Decepção
 
 - incredulidade e – 25
 
-###### 🔖 Demônio {#demonio}
+### Demônio
 
 - sistema pessimista, diabólico
 - ou demoníaco e – 46
 
-###### 🔖 Desaparecimento {#desaparecimento}
+### Desaparecimento
 
 - evocação e – 292, 23<sup>a</sup>, nota
 
-###### 🔖 Descoberta {#descoberta}
+### Descoberta
 
 - inspiração para – 294
 - invenção e – 294
 - Desencarnação
 - sábio e – 293, 26<sup>a</sup>
 
-###### 🔖 Desencarnado {#desencarnado}
+### Desencarnado
 
 - perturbação e sensações após a morte – 53
 
-###### 🔖 Desenvolvimento {#desenvolvimento}
+### Desenvolvimento
 
 - da mediunidade – 200
 - da mediunidade e da moral
@@ -563,24 +555,24 @@
 - dos psicógrafos – 200
 - grau de \* dos Espíritos e obsessão – 237
 
-###### 🔖 Desmaterialização {#desmaterializacao}
+### Desmaterialização
 
 - apego a bens materiais e – 132, 1<sup>a</sup>
 - apego e – 295, 31<sup>a</sup>
 - comunicações instrutivas de Espírito
 - com elevado grau de – 137
 
-###### 🔖 Desobsessão {#desobsessao}
+### Desobsessão
 
 - mecanismos da – 249
 - oração e ascendência moral na – 268, 21<sup>a</sup>
 
-###### 🔖 Deus {#deus}
+### Deus
 
 - uso do nome de \* na evocação
 - – 279; 282, 26<sup>a</sup>
 
-###### 🔖 Diálogo {#dialogo}
+### Diálogo
 
 - Espírito perturbador, efeitos físicos e – 95
 - explicações sobre efeitos físicos
@@ -588,52 +580,52 @@
 - transporte e \* com Espírito
 - operador do fenômeno – 99
 
-###### 🔖 Distinção {#distincao}
+### Distinção
 
 - entre bons e maus Espíritos – 262
 
-###### 🔖 Divergências {#divergencias}
+### Divergências
 
 - sociedade espírita e \* doutrinárias – 349
 
-###### 🔖 Divulgação {#divulgacao}
+### Divulgação
 
 - do Espiritismo – 18
 
-###### 🔖 Doença mental {#doenca-mental}
+### Doença mental
 
 - exercício da mediunidade e – 222
 
-###### 🔖 Doutrina cristã {#doutrina-crista}
+### Doutrina cristã
 
 - base da – 4
 
-###### 🔖 Doutrinas {#doutrinas}
+### Doutrinas
 
 - utilidade das falsas – 301, 10<sup>a</sup>
 
-###### 🔖 Dupla vista {#dupla-vista}
+### Dupla vista
 
 - clarividência e – 167
 
-###### 🔖 Dúvida {#duvida}
+### Dúvida
 
 - Espiritismo e – 26
 - existência do Espírito e – 1
 - incredulidade e – 21
 - pneumatografia e – 146
 
-##### 📑 E
+## E
 
-###### 🔖 Educação {#educacao}
+### Educação
 
 - da mediunidade em grupo – 207
 
-###### 🔖 Efeito {#efeito}
+### Efeito
 
 - causa e – 133
 
-###### 🔖 Efeitos físicos {#efeitos-fisicos}
+### Efeitos físicos
 
 - ação do Espírito e – 74, Cap. 08
 - ação do médium nos – 92
@@ -679,7 +671,7 @@
 - observação das causas dos – 91
 - organização e meios de atuação do
 
-###### 🔖 Espírito nos – 74, Cap. 24 {#espirito-nos-74-cap-24}
+### Espírito nos – 74, Cap. 24
 
 - papel do médium nos – 74, Cap. 14
 - perseguição e – 89
@@ -704,44 +696,44 @@
 - vontade do Espírito e – 74, Cap. 24
 - vontade do médium e – 74, Cap. 18
 
-###### 🔖 Efeitos inteligentes {#efeitos-inteligentes}
+### Efeitos inteligentes
 
 - causa inteligente e – 9
 
-###### 🔖 Elogio {#elogio}
+### Elogio
 
 - médium e – 228
 
-###### 🔖 Emancipação da alma {#emancipacao-da-alma}
+### Emancipação da alma
 
 - cérebro e – 113b
 
-###### 🔖 Embuste {#embuste}
+### Embuste
 
 - charlatanismo e – 304
 - sistema do charlatanismo e – 38
 
-###### 🔖 Encarnação {#encarnacao}
+### Encarnação
 
 - evocação e – 284
 - passada e futura – 290
 
-###### 🔖 Encarnado {#encarnado}
+### Encarnado
 
 - convivência dos Espíritos com – 103
 
-###### 🔖 Ensino {#ensino}
+### Ensino
 
 - da Doutrina Espírita – 18, 31
 - metodologia de \* da Doutrina Espírita – 19
 - teórico e Doutrina Espírita – 31
 
-###### 🔖 Entes queridos {#entes-queridos}
+### Entes queridos
 
 - permissão superior e aparição
 - em sonho de – 100, 15<sup>a</sup>
 
-###### 🔖 Erasto {#erasto}
+### Erasto
 
 - dissertação de – Cap. 31, Cap. 27
 - envolvimento fluídico de objetos
@@ -757,56 +749,56 @@
 - teoria sobre o fenômeno de transporte
 - e os efeitos físicos – 98
 
-###### 🔖 Erasto e Sócrates {#erasto-e-socrates}
+### Erasto e Sócrates
 
 - espécies de médiuns conforme
 - os Espíritos – 187
 - estudo sobre médiuns especiais
 - e comentários de – 197
 
-###### 🔖 Erasto e Timóteo {#erasto-e-timoteo}
+### Erasto e Timóteo
 
 - análise do papel dos médiuns
 - nas comunicações espíritas
 - pelos Espíritos – 225
 
-###### 🔖 Erraticidade {#erraticidade}
+### Erraticidade
 
 - conceito de – Cap. 32
 
-###### 🔖 Erro {#erro}
+### Erro
 
 - indução a – 268, 12<sup>a</sup>
 
-###### 🔖 Escala espírita {#escala-espirita}
+### Escala espírita
 
 - categorias sociais humanas e – 282, 32<sup>a</sup>
 - identidade e categoria do Espírito na – 256
 
-###### 🔖 Esclarecimento {#esclarecimento}
+### Esclarecimento
 
 - estratégia dos Espíritos para – 226, 4<sup>a</sup>
 
-###### 🔖 Escolhos {#escolhos}
+### Escolhos
 
 - Espiritismo e – 303
 
-###### 🔖 Escrita {#escrita}
+### Escrita
 
 - emprego de utensílios na obtenção de – 202
 - involuntária ou manual – 157
 
-###### 🔖 Escrita direta {#escrita-direta}
+### Escrita direta
 
 - fenômeno espírita e – 15
 - manipulação de fluidos, vontade do
 - Espírito e – 128, 17a, 18a
 
-###### 🔖 Espetáculo {#espetaculo}
+### Espetáculo
 
 - público e Espírito espectador – 170
 
-###### 🔖 Espírita {#espirita}
+### Espírita
 
 - categorias do crente – 27
 - conceito de – Cap. 32
@@ -818,7 +810,7 @@
 - verdadeiro ou \* cristão – 28
 - vocabulário – Cap. 32
 
-###### 🔖 Espiritismo {#espiritismo}
+### Espiritismo
 
 - análise crítica dos fenômenos espíritas – 13
 - conceito de – Cap. 32
@@ -853,9 +845,9 @@
 - requisitos para estudo do – 49
 - superstição e – 13
 
-###### 🔖 Espiritista ver Espírita {#espiritista-ver-espirita}
+### Espiritista ver Espírita
 
-###### 🔖 Espírito {#espirito}
+### Espírito
 
 - ação do \* nos efeitos físicos – 74, Cap. 08
 - ação do \* sobre a matéria – 3; 52; 53
@@ -940,13 +932,13 @@
 - vontade do \* e efeitos físicos – 74, Cap. 24
 - vontade, poder e o – 128, 13<sup>a</sup>
 
-###### 🔖 Espírito batedor {#espirito-batedor}
+### Espírito batedor
 
 - conceito de – 145; Cap. 32
 - mecanismo de ação do – 74, Cap. 22
 - tiptologia e – 145
 
-###### 🔖 Espírito bom {#espirito-bom}
+### Espírito bom
 
 - atração de \* para expulsão
 - dos maus – 132, 13<sup>a</sup>
@@ -954,66 +946,66 @@
 - diferenciação entre Espírito mau e – 262
 - sistema otimista e – 47
 
-###### 🔖 Espírito de Verdade {#espirito-de-verdade}
+### Espírito de Verdade
 
 - dissertação do – Cap. 31, Cap. 15
 
-###### 🔖 Espírito encarnado {#espirito-encarnado}
+### Espírito encarnado
 
 - inconvenientes da evocação
 - de – 284, 53<sup>a</sup>-57<sup>a</sup>
 
-###### 🔖 Espírito errante {#espirito-errante}
+### Espírito errante
 
 - predileção por lugares e – 132, 2<sup>a</sup> e 4<sup>a</sup>
 
-###### 🔖 Espírito familiar {#espirito-familiar}
+### Espírito familiar
 
 - dissertação de um – Cap. 31, Cap. 04
 - dissertação do \* Jorge – Cap. 31, Cap. 24
 
-###### 🔖 Espírito inferior {#espirito-inferior}
+### Espírito inferior
 
 - charlatanismo e – 307
 - efeitos físicos e – 74, Cap. 11; 307
 - ensino sobre o uso do nome de
 
-###### 🔖 Deus em evocação de – 279 {#deus-em-evocacao-de-279}
+### Deus em evocação de – 279
 
 - força física e – 74, Cap. 12
 - psicógrafo iniciante e interferência de – 211
 - reunião e retirada de – 282, 25<sup>a</sup>
 - reuniões sérias e – 231
 
-###### 🔖 Espírito leviano {#espirito-leviano}
+### Espírito leviano
 
 - comunicações frívolas e – 135
 - médiuns interesseiros e – 305
 - orgulho e preconceitos – 268, 15<sup>a</sup>
 
-###### 🔖 Espírito mau {#espirito-mau}
+### Espírito mau
 
 - exorcismo e – 132, 14<sup>a</sup>
 - interrupção de comunicação
 - escrita de – 249
 - moralização do \* e caridade – 254, 5<sup>a</sup>
 
-###### 🔖 Espírito perturbador {#espirito-perturbador}
+### Espírito perturbador
 
 - diálogo com \* sobre efeitos físicos – 95
 
-###### 🔖 Espírito protetor {#espirito-protetor}
+### Espírito protetor
 
 - identidade e – 268, 5<sup>a</sup>
 - inspiração e – 182
 - nome do – 268, 3<sup>a</sup>
 - pedido de conselho a – 291, 18<sup>a</sup>
 
-###### 🔖 Espírito pseudossábio {#espirito-pseudossabio}
+### Espírito pseudossábio
 
 - obsessão e – 246
 
-###### 🔖 Espíritos {#espiritos}
+### Espíritos
 
 - conhecimento do futuro pelos – 289, 7<sup>a</sup>
 - consequências da falsa identidade
@@ -1042,23 +1034,23 @@
 - vantagens da evocação dos \* vulgares – 281
 - vigília e visão dos – 100, 25<sup>a</sup>
 
-###### 🔖 Espíritos benévolos {#espiritos-benevolos}
+### Espíritos benévolos
 
 - defeitos morais do médium e
 - afastamento de – 227
 - qualidades morais do médium
 - e atração de – 227
 
-###### 🔖 Espíritos errantes {#espiritos-errantes}
+### Espíritos errantes
 
 - estado moral da Terra e – 232
 
-###### 🔖 Espíritos glóbulos {#espiritos-globulos}
+### Espíritos glóbulos
 
 - efeitos de ótica e – 108
 - explicação sobre – 108
 
-###### 🔖 Espíritos inferiores {#espiritos-inferiores}
+### Espíritos inferiores
 
 - evocação de – 282, 11<sup>a</sup>
 - linguagem adequada com os – 280
@@ -1066,27 +1058,27 @@
 - sobre os – 279
 - uso do nome de Deus na evocação de – 279
 
-###### 🔖 Espíritos levianos {#espiritos-levianos}
+### Espíritos levianos
 
 - previsões e – 267, 8<sup>a</sup>
 
-###### 🔖 Espíritos maus {#espiritos-maus}
+### Espíritos maus
 
 - inconvenientes e consequências
 - da evocação de – 278
 
-###### 🔖 Espíritos puros {#espiritos-puros}
+### Espíritos puros
 
 - evocação de – 282, 31<sup>a</sup>
 
-###### 🔖 Espírito Superior {#espirito-superior}
+### Espírito Superior
 
 - elevação de ideias, tiptologia e – 145
 - força moral e – 74, Cap. 12
 - linguagem do – 301, 2<sup>a</sup>
 - meios pouco instruídos e – 231
 
-###### 🔖 Espíritos Superiores {#espiritos-superiores}
+### Espíritos Superiores
 
 - ação dos \* nos efeitos físicos – 74, Cap. 12
 - atendimento à evocação e – 268, 7<sup>a</sup>
@@ -1098,23 +1090,23 @@
 - racionalidade e – 267, 18<sup>a</sup>
 - substituição de \* em evocações – 268, 10<sup>a</sup>
 
-###### 🔖 Espiritualismo {#espiritualismo}
+### Espiritualismo
 
 - conceito de – Cap. 32
 - existência da alma e – 1
 
-###### 🔖 Espiritualista {#espiritualista}
+### Espiritualista
 
 - conceito de – Cap. 32
 - conceito de \* incerto – 26
 - Esquecimento do passado
 - perguntas em torno do – 290
 
-###### 🔖 Estereótipo {#estereotipo}
+### Estereótipo
 
 - conceito de – Cap. 32
 
-###### 🔖 Estudo {#estudo}
+### Estudo
 
 - aceitação ou rejeição de fenômenos
 - de Além-Túmulo e – 98
@@ -1129,7 +1121,7 @@
 - utilidade das comunicações
 - espontâneas para – 345
 
-###### 🔖 Evocação {#evocacao}
+### Evocação
 
 - argumentos pró e contra a – 269
 - atendimento à – 282, 2<sup>a</sup>, 3<sup>a</sup>
@@ -1210,18 +1202,18 @@
 - uso do nome de Deus na – 282, 26<sup>a</sup>
 - uso do nome de Deus na \* de
 
-###### 🔖 Espíritos Superiores – 279 {#espiritos-superiores-279}
+### Espíritos Superiores – 279
 
 - utilidade da \* particular – 281
 - vantagens da \* dos Espíritos vulgares – 281
 
-###### 🔖 Evolução {#evolucao}
+### Evolução
 
 - do Espírito e materialização
 - de objetos – 128, 15<sup>a</sup>
 - Justiça, Bondade divina e – 2
 
-###### 🔖 Existência da alma {#existencia-da-alma}
+### Existência da alma
 
 - aceitação lógica da existência dos
 - Espíritos em razão da – 2
@@ -1229,7 +1221,7 @@
 - Espírito e – 9
 - sobrevivência, individualidade e – 1
 
-###### 🔖 Existências {#existencias}
+### Existências
 
 - conhecimento de \* passadas – 290
 - gêneros de \* passadas – 290
@@ -1237,27 +1229,27 @@
 - revelações de \* futuras – 290
 - revelações de \* passadas – 290
 
-###### 🔖 Exorcismo {#exorcismo}
+### Exorcismo
 
 - eficácia do – 132, 14<sup>a</sup>
 - lugares mal-assombrados e – 132, 14<sup>a</sup>
 - postura de Espírito leviano e – 90
 
-###### 🔖 Experiências {#experiencias}
+### Experiências
 
 - mediunidade e – 162
 
-###### 🔖 Êxtase {#extase}
+### Êxtase
 
 - sistema sonambúlico e – 45
 
-##### 📑 F
+## F
 
-###### 🔖 Falsidade {#falsidade}
+### Falsidade
 
 - rejeição de verdades à admissão de – 230
 
-###### 🔖 Fascinação {#fascinacao}
+### Fascinação
 
 - caracterização da – 239
 - combate à – 250
@@ -1266,17 +1258,17 @@
 - ilusão e – 239
 - obsessão simples e – 239
 
-###### 🔖 Fatos espíritas {#fatos-espiritas}
+### Fatos espíritas
 
 - natureza dos efeitos inteligentes e – 69
 
-###### 🔖 Fé {#fe}
+### Fé
 
 - evocação e – 282, 13<sup>a</sup>
 - Fénelon
 - dissertação de – Cap. 31, Cap. 21-Cap. 22
 
-###### 🔖 Fenômeno {#fenomeno}
+### Fenômeno
 
 - participação do médium no \*
 - espontâneo – 74, Cap. 15
@@ -1285,7 +1277,7 @@
 - dificuldades na execução do – 99, 11<sup>a</sup>
 - processamento do – 99, 13<sup>a</sup>
 
-###### 🔖 Fenômeno espírita {#fenomeno-espirita}
+### Fenômeno espírita
 
 - comprovação do – 3
 - diversidade de interpretação do – 36
@@ -1313,20 +1305,20 @@
 - universalidade de opiniões na
 - observação do – 49
 
-###### 🔖 Fenômeno físico {#fenomeno-fisico}
+### Fenômeno físico
 
 - fraude e – 315
 - sistema de Espíritos glóbulos e – 108
 
-###### 🔖 Feto {#feto}
+### Feto
 
 - evocação e – 284, 51<sup>a</sup>
 
-###### 🔖 Fisiologia {#fisiologia}
+### Fisiologia
 
 - alucinação e – 112
 
-###### 🔖 Fluido {#fluido}
+### Fluido
 
 - homem, animais e impossibilidade
 - de união de – 236
@@ -1336,19 +1328,19 @@
 - união do \* do médium e do Espírito
 - no fenômeno de transporte – 98
 
-###### 🔖 Fluido cósmico {#fluido-cosmico}
+### Fluido cósmico
 
 - magnetismo e – 131
 
-###### 🔖 Fluido nervoso {#fluido-nervoso}
+### Fluido nervoso
 
 - constituição orgânica do homem e – 74, Cap. 12
 
-###### 🔖 Fluidos {#fluidos}
+### Fluidos
 
 - conhecimento da Lei dos \* no futuro – 98
 
-###### 🔖 Fluido universal {#fluido-universal}
+### Fluido universal
 
 - efeitos físicos e – 75
 - Espírito e – 58; 76
@@ -1365,16 +1357,16 @@
 - transmissão do pensamento e – 282, 5<sup>a</sup>
 - variação do peso e – 79
 
-###### 🔖 Fluido vital {#fluido-vital}
+### Fluido vital
 
 - corpos inertes e – 77
 - transporte e – 98
 
-###### 🔖 Força {#forca}
+### Força
 
 - transporte e \* de gravidade – 99, 14<sup>a</sup>
 
-###### 🔖 Formação {#formacao}
+### Formação
 
 - consulta aos Espíritos e \* de
 - psicógrafos – 205
@@ -1387,11 +1379,11 @@
 - reunião de médiuns e \* dos
 - psicógrafos – 207
 
-###### 🔖 Forma humana {#forma-humana}
+### Forma humana
 
 - forma tipo e – 56
 
-###### 🔖 Fraude {#fraude}
+### Fraude
 
 - aptidões mediúnicas raras e – 322
 - detecção de \* na tiptologia – 319
@@ -1410,45 +1402,45 @@
 - prestidigitação e – 314
 - subterfúgios comuns na – 318
 
-###### 🔖 Futuro {#futuro}
+### Futuro
 
 - conhecimento do \* pelos Espíritos – 289, 7<sup>a</sup>
 - desconfiança em previsões para o – 289, 8<sup>a</sup>
 - do Espiritismo – Cap. 31, Cap. 01
 - faculdade de previsão do – 289, 12<sup>a</sup>
 
-##### 📑 G
+## G
 
-###### 🔖 Gênero {#genero}
+### Gênero
 
 - classificação da reunião segundo o – 324
 - Girardin, Delfina de
 - dissertação de – Cap. 31, Cap. 14
 
-###### 🔖 Gravidade {#gravidade}
+### Gravidade
 
 - transporte e força da – 99, 14<sup>a</sup>
 
-###### 🔖 Grupo mediúnico {#grupo-mediunico}
+### Grupo mediúnico
 
 - comunicações apócrifas e
 - responsável por – 230
 
-##### 📑 H
+## H
 
-###### 🔖 Herança {#heranca}
+### Herança
 
 - morte e – 291, 20<sup>a</sup>
 
-###### 🔖 Hipocrisia {#hipocrisia}
+### Hipocrisia
 
 - fascinação e – 239
 
-###### 🔖 Home, Daniel Dunglas {#home-daniel-dunglas}
+### Home, Daniel Dunglas
 
 - efeitos físicos e experiência do médium – 80
 
-###### 🔖 Homem {#homem}
+### Homem
 
 - componentes na formação do – 3; 54
 - efeitos físicos e limitação do
@@ -1456,22 +1448,22 @@
 - Lei do Progresso e – 236
 - perfectibilidade e – 236
 
-###### 🔖 Homens duplos {#homens-duplos}
+### Homens duplos
 
 - bicorporeidade e – 119
 - conceito de – 119
 
-###### 🔖 Homogeneidade {#homogeneidade}
+### Homogeneidade
 
 - reunião espírita e – 331
 
-##### 📑 I
+## Cap. 01
 
-###### 🔖 Ideias {#ideias}
+### Ideias
 
 - sugestão de – 183
 
-###### 🔖 Identidade {#identidade}
+### Identidade
 
 - atributos dos bons Espíritos e – 264
 - categoria do Espírito na escala
@@ -1510,23 +1502,23 @@
 - sinais materiais involuntários e – 268, 27<sup>a</sup>
 - uso de sinais gráficos e – 268, 23<sup>a</sup>
 
-###### 🔖 Identificação {#identificacao}
+### Identificação
 
 - Espíritos Superiores e – 268, 23a
 
-###### 🔖 Idioma {#idioma}
+### Idioma
 
 - desconhecido por médium – 223, 17<sup>a</sup>
 
-###### 🔖 Idiotia {#idiotia}
+### Idiotia
 
 - mediunidade e – 223, 19<sup>a</sup>, nota
 
-###### 🔖 Ignorância {#ignorancia}
+### Ignorância
 
 - milagre e – 15
 
-###### 🔖 Ilusão {#ilusao}
+### Ilusão
 
 - auditiva e sistema do músculo estalante – 41
 - fascinação e – 239
@@ -1534,11 +1526,11 @@
 - sistema da loucura e – 39
 - visual e sistema da alucinação – 40
 
-###### 🔖 Imaginação {#imaginacao}
+### Imaginação
 
 - aparição e – 112
 
-###### 🔖 Incredulidade {#incredulidade}
+### Incredulidade
 
 - conhecimento e – 224
 - conversão e – 29
@@ -1546,7 +1538,7 @@
 - má vontade e – 22
 - prova da – 30
 
-###### 🔖 Incrédulo {#incredulo}
+### Incrédulo
 
 - convencimento a – 30
 - de má vontade – 22
@@ -1558,23 +1550,23 @@
 - Indiferença
 - materialista por – 21
 
-###### 🔖 Individualidade {#individualidade}
+### Individualidade
 
 - existência, sobrevivência e \* da alma – 1
 
-###### 🔖 Infância {#infancia}
+### Infância
 
 - exercício da mediunidade na – 222
 
-###### 🔖 Inferioridade {#inferioridade}
+### Inferioridade
 
 - superioridade dos Espíritos e – 268, 1<sup>a</sup>
 
-###### 🔖 Inferno {#inferno}
+### Inferno
 
 - céu e – 2
 
-###### 🔖 Influência {#influencia}
+### Influência
 
 - da moral do médium na
 - comunicação – 230
@@ -1582,7 +1574,7 @@
 - do meio nas manifestações espíritas – 231
 - Espíritos e – 99, 16<sup>a</sup>
 
-###### 🔖 Inspiração {#inspiracao}
+### Inspiração
 
 - assistência espiritual e – 218
 - consequências da – 182
@@ -1590,17 +1582,17 @@
 - Espírito protetor, anjo da guarda e – 182
 - intuição e – 183
 
-###### 🔖 Inspirados {#inspirados}
+### Inspirados
 
 - caracterização de médiuns – 182
 
-###### 🔖 Instrução {#instrucao}
+### Instrução
 
 - conteúdo da – 328
 - espírita – 328
 - fraude e – 315
 
-###### 🔖 Inteligência {#inteligencia}
+### Inteligência
 
 - comprovação de \* oculta – 65
 - comunicação e – 223, 19<sup>a</sup>
@@ -1609,64 +1601,64 @@
 - mediunidade dos animais e – 234
 - mediunidade e – 223, 19<sup>a</sup>
 
-###### 🔖 Interesse {#interesse}
+### Interesse
 
 - incrédulo por \* ou por má-fé – 23
 - moral e material – 291, 19<sup>a</sup>
 
-###### 🔖 Intuição {#intuicao}
+### Intuição
 
 - escrita mecânica e – 214
 - inspiração e – 183
 - pressentimentos e – 184
 
-###### 🔖 Invenção {#invencao}
+### Invenção
 
 - descoberta e – 294
 
-###### 🔖 Irradiação {#irradiacao}
+### Irradiação
 
 - alma e – 119, 3<sup>a</sup>
 - Espírito elevado e – 268, 5<sup>a</sup>
 - pensamentos e – 225
 
-##### 📑 J
+## J
 
-###### 🔖 Jesus {#jesus}
+### Jesus
 
 - comunicação com o nome
 - de – Cap. 31, Cap. 33
 - sistema unispírita ou monoespírita e – 48
 
-###### 🔖 Jorge, Espírito familiar {#jorge-espirito-familiar}
+### Jorge, Espírito familiar
 
 - dissertação de – Cap. 31, Cap. 24
 
-###### 🔖 Jouty, Pedro {#jouty-pedro}
+### Jouty, Pedro
 
 - dissertação de – Cap. 31, Cap. 11
 
-###### 🔖 Julgamento {#julgamento}
+### Julgamento
 
 - do Espiritismo – 11
 
-##### 📑 K
+## K
 
-###### 🔖 Kardec, Allan {#kardec-allan}
+### Kardec, Allan
 
 - efeitos físicos e teoria pessoal de – 73
 
-##### 📑 L
+## L
 
-###### 🔖 Lamennais {#lamennais}
+### Lamennais
 
 - perispírito, alma e explicação por – 51
 
-###### 🔖 Lei {#lei}
+### Lei
 
 - dos Fluidos – 98
 
-###### 🔖 Leis da Natureza {#leis-da-natureza}
+### Leis da Natureza
 
 - desconhecimento pelo homem
 - das – 74, Cap. 25
@@ -1674,15 +1666,15 @@
 - importância do conhecimento das – 8
 - manifestação do Espírito e as – 7
 
-###### 🔖 Lembrança {#lembranca}
+### Lembrança
 
 - evocação e – 284, 44<sup>a</sup>
 
-###### 🔖 Leviandade {#leviandade}
+### Leviandade
 
 - tumulto e – 90
 
-###### 🔖 Levitação {#levitacao}
+### Levitação
 
 - do Espírito e evocação – 284, 48<sup>a</sup>-49<sup>a</sup>
 - efeitos físicos e – 80
@@ -1691,11 +1683,11 @@
 - lei de gravitação e – 78
 - milagre e – 16
 
-###### 🔖 Liguori, Santo Afonso de {#liguori-santo-afonso-de}
+### Liguori, Santo Afonso de
 
 - bicorporeidade de – 119
 
-###### 🔖 Linguagem {#linguagem}
+### Linguagem
 
 - adequada e utilizável com os
 - Espíritos Superiores – 280
@@ -1710,11 +1702,11 @@
 - com os Espíritos – 280
 - utilizável com os Espíritos inferiores – 280
 
-###### 🔖 Lisonja {#lisonja}
+### Lisonja
 
 - bons Espíritos e – 267, 11<sup>a</sup>
 
-###### 🔖 Livre-arbítrio {#livre-arbitrio}
+### Livre-arbítrio
 
 - evocação e – 284, 48<sup>a</sup>-50<sup>a</sup>
 - evocação e exercício do – 277
@@ -1723,30 +1715,30 @@
 - prática do bem ou do mal e – 268, 21<sup>a</sup>
 - respostas à evocação e – 288, 5<sup>a</sup>a
 
-###### 🔖 Livro dos espíritos, O {#livro-dos-espiritos-o}
+### Livro dos espíritos, O
 
 - questões de ordem moral, de
 - filosofia e – 343
 
-###### 🔖 Livro dos médiuns, O {#livro-dos-mediuns-o}
+### Livro dos médiuns, O
 
 - objetivo da publicação de – Introd.
 - participação dos Espíritos na
 - elaboração de – Introd.
 
-###### 🔖 Local {#local}
+### Local
 
 - assombrado – 132
 
-###### 🔖 Localização {#localizacao}
+### Localização
 
 - das almas – 2
 
-###### 🔖 Lógica {#logica}
+### Lógica
 
 - reflexão \* da comunicação do Espírito – 5
 
-###### 🔖 Loucura {#loucura}
+### Loucura
 
 - desprendimento total da matéria
 - e – 282, 35<sup>a</sup>, nota
@@ -1755,11 +1747,11 @@
 - sistema da – 39
 - subjugação corporal e – 254, 6<sup>a</sup>
 
-###### 🔖 Lucidez {#lucidez}
+### Lucidez
 
 - animais e \* permanente – 234
 
-###### 🔖 Luís, São {#luis-sao}
+### Luís, São
 
 - diálogo sobre efeitos físicos com – 94
 - dissertação de – Cap. 31, Cap. 06, Cap. 17-Cap. 19, Cap. 23
@@ -1768,9 +1760,9 @@
 - formação de matéria no Mundo
 - Invisível e respostas de – 127
 
-##### 📑 M
+## M
 
-###### 🔖 Magnetismo {#magnetismo}
+### Magnetismo
 
 - efeitos físicos e – 74, Cap. 19
 - fluido cósmico e – 131
@@ -1778,39 +1770,39 @@
 - propriedades da matéria e – 131
 - vontade e – 131
 
-###### 🔖 Magnetização {#magnetizacao}
+### Magnetização
 
 - consequências da \* de animais – 236
 
-###### 🔖 Manifestação {#manifestacao}
+### Manifestação
 
 - crença na \* dos Espíritos – 52
 - fraude e \* inteligente – 323
 - visual – 100
 
-###### 🔖 Manifestações espíritas {#manifestacoes-espiritas}
+### Manifestações espíritas
 
 - influência do meio nas – 231
 
-###### 🔖 Manifestações físicas {#manifestacoes-fisicas}
+### Manifestações físicas
 
 - utilidade e condições favoráveis
 - à produção de – 342
 
-###### 🔖 Manifestações visuais {#manifestacoes-visuais}
+### Manifestações visuais
 
 - esclarecimentos dos Espíritos sobre – 100
 
-###### 🔖 Maravilhoso {#maravilhoso}
+### Maravilhoso
 
 - Espiritismo e – 11
 - sobrenatural e – 7 e 10
 
-###### 🔖 Massilon {#massilon}
+### Massilon
 
 - dissertação de – Cap. 31, Cap. 25
 
-###### 🔖 Matéria {#materia}
+### Matéria
 
 - ação do Espírito sobre a – 52-53
 - Espírito, perispírito e manipulação da – 59
@@ -1821,7 +1813,7 @@
 - transformações da \* etérea – 128, 4<sup>a</sup>-6<sup>a</sup>
 - transporte, penetrabilidade e – 99, 20<sup>a</sup>
 
-###### 🔖 Materialismo {#materialismo}
+### Materialismo
 
 - ensino da Doutrina Espírita e – 19
 - princípios do – 11
@@ -1832,17 +1824,17 @@
 - por indiferença – 21
 - por sistema – 20
 
-###### 🔖 Materialização {#materializacao}
+### Materialização
 
 - aparição e – 72
 - evolução do Espírito e \* de
 - objetos – 128, 15<sup>a</sup>
 
-###### 🔖 Medianímico {#medianimico}
+### Medianímico
 
 - conceito de – Cap. 32
 
-###### 🔖 Médium {#medium}
+### Médium
 
 - ação dos Espíritos sobre o – 267, 19<sup>a</sup>-20<sup>a</sup>
 - afinidade e – 98
@@ -1907,75 +1899,75 @@
 - Espíritos e concurso de – 236
 - vontade do \* e efeitos físicos – 74, Cap. 18
 
-###### 🔖 Médium ambicioso {#medium-ambicioso}
+### Médium ambicioso
 
 – 196
 
-###### 🔖 Médium audiente {#medium-audiente}
+### Médium audiente
 
 – 190
 
-###### 🔖 Médium bom {#medium-bom}
+### Médium bom
 
 – 229
 
-###### 🔖 Médium calmo {#medium-calmo}
+### Médium calmo
 
 – 194
 
-###### 🔖 Médium convulsivo {#medium-convulsivo}
+### Médium convulsivo
 
 – 194
 
-###### 🔖 Médium curador {#medium-curador}
+### Médium curador
 
 – 175; 189
 
-###### 🔖 Médium de aparições {#medium-de-aparicoes}
+### Médium de aparições
 
 – 189
 
-###### 🔖 Médium de comunicações {#medium-de-comunicacoes}
+### Médium de comunicações
 
 - triviais e obscenas – 193
 
-###### 🔖 Médium de efeitos físicos {#medium-de-efeitos-fisicos}
+### Médium de efeitos físicos
 
 – 187
 
-###### 🔖 Médium de efeitos intelectuais {#medium-de-efeitos-intelectuais}
+### Médium de efeitos intelectuais
 
 – 187
 
-###### 🔖 Médium de efeitos musicais {#medium-de-efeitos-musicais}
+### Médium de efeitos musicais
 
 – 189
 
-###### 🔖 Médium de má-fé {#medium-de-ma-fe}
+### Médium de má-fé
 
 – 196
 
-###### 🔖 Médium de pressentimentos {#medium-de-pressentimentos}
+### Médium de pressentimentos
 
 – 184; 190
 
-###### 🔖 Médium de transações e suspensões {#medium-de-transacoes-e-suspensoes}
+### Médium de transações e suspensões
 
 – 189
 
-###### 🔖 Médium de transporte {#medium-de-transporte}
+### Médium de transporte
 
 – 189
 
-###### 🔖 Médium devotado {#medium-devotado}
+### Médium devotado
 
 – 197
 
-###### 🔖 Médium egoísta {#medium-egoista}
+### Médium egoísta
 
 – 196
 
-###### 🔖 Médium escrevente {#medium-escrevente}
+### Médium escrevente
 
 - Médium escrevente científico – 193
 - Médium escrevente exclusivo – 192
@@ -2008,173 +2000,173 @@
 - obsessão e – 247
 - variedade de – 191
 
-###### 🔖 Médium especial {#medium-especial}
+### Médium especial
 
 – 185
 
-###### 🔖 Médium excitador {#medium-excitador}
+### Médium excitador
 
 – 189
 
-###### 🔖 Médium extático {#medium-extatico}
+### Médium extático
 
 – 190
 
-###### 🔖 Médium facultativo ou voluntário {#medium-facultativo-ou-voluntario}
+### Médium facultativo ou voluntário
 
 – 188
 
-###### 🔖 Médium falante {#medium-falante}
+### Médium falante
 
 – 166; 190
 
-###### 🔖 Médium fascinado {#medium-fascinado}
+### Médium fascinado
 
 – 196
 
-###### 🔖 Médium iletrado {#medium-iletrado}
+### Médium iletrado
 
 - analfabetismo e – 223, 18<sup>a</sup>
 
-###### 🔖 Médium imperfeito {#medium-imperfeito}
+### Médium imperfeito
 
 - boas comunicações e – 226, 8<sup>a</sup>
 - classificação de – 196
 
-###### 🔖 Médium improdutivo {#medium-improdutivo}
+### Médium improdutivo
 
 - psicografia e – 210
 
-###### 🔖 Médium indiferente {#medium-indiferente}
+### Médium indiferente
 
 – 196
 
-###### 🔖 Médium inerte {#medium-inerte}
+### Médium inerte
 
 - fenômeno espírita e – 223, 12<sup>a</sup>
 - objeção à teoria de – 223, 13<sup>a</sup>
 - rotulagem de – 223, 14<sup>a</sup>
 
-###### 🔖 Médium inspirado {#medium-inspirado}
+### Médium inspirado
 
 – 182; 190
 
-###### 🔖 Médium intuitivo {#medium-intuitivo}
+### Médium intuitivo
 
 - caracterização do – 180
 - interpretação da comunicação pelo – 180
 
-###### 🔖 Médium invejoso {#medium-invejoso}
+### Médium invejoso
 
 – 196
 
-###### 🔖 Médium leviano {#medium-leviano}
+### Médium leviano
 
 – 196
 
-###### 🔖 Médium mecânico – 179 {#medium-mecanico-179}
+### Médium mecânico – 179
 
 - médium intuitivo e – 223, 11<sup>a</sup>
 
-###### 🔖 Médium mercenário {#medium-mercenario}
+### Médium mercenário
 
 – 196
 
-###### 🔖 Médium modesto {#medium-modesto}
+### Médium modesto
 
 – 197
 
-###### 🔖 Médium motor {#medium-motor}
+### Médium motor
 
 – 189
 
-###### 🔖 Médium músico {#medium-musico}
+### Médium músico
 
 – 191
 
-###### 🔖 Médium natural ou inconsciente {#medium-natural-ou-inconsciente}
+### Médium natural ou inconsciente
 
 – 188
 
-###### 🔖 Médium noturno {#medium-noturno}
+### Médium noturno
 
 – 189
 
-###### 🔖 Médium obsidiado {#medium-obsidiado}
+### Médium obsidiado
 
 – 196
 
-###### 🔖 Médium orgulhoso {#medium-orgulhoso}
+### Médium orgulhoso
 
 – 196
 
-###### 🔖 Médium perfeito {#medium-perfeito}
+### Médium perfeito
 
 - condicionamento ao qualificativo de – 226, 9<sup>a</sup>
 
-###### 🔖 Médium pintor ou desenhista {#medium-pintor-ou-desenhista}
+### Médium pintor ou desenhista
 
 – 190
 
-###### 🔖 Médium pneumatógrafo {#medium-pneumatografo}
+### Médium pneumatógrafo
 
 – 177; 189
 
-###### 🔖 Médium polígrafo {#medium-poligrafo}
+### Médium polígrafo
 
 - uniformidade da caligrafia e – 219
 
-###### 🔖 Médium presunçoso {#medium-presuncoso}
+### Médium presunçoso
 
 – 196
 
-###### 🔖 Médium profético {#medium-profetico}
+### Médium profético
 
 – 190
 
-###### 🔖 Médium seguro {#medium-seguro}
+### Médium seguro
 
 – 197
 
-###### 🔖 Médium semimecânico {#medium-semimecanico}
+### Médium semimecânico
 
 – 181
 
-###### 🔖 Médium sensitivo {#medium-sensitivo}
+### Médium sensitivo
 
 – 164; 188
 
-###### 🔖 Médium sério {#medium-serio}
+### Médium sério
 
 – 197
 
-###### 🔖 Médium sonambúlico {#medium-sonambulico}
+### Médium sonambúlico
 
 – 172
 
 - diferença entre \* e sonâmbulo – 172
 
-###### 🔖 Médium sonâmbulo {#medium-sonambulo}
+### Médium sonâmbulo
 
 – 190
 
-###### 🔖 Médium subjugado {#medium-subjugado}
+### Médium subjugado
 
 – 196
 
-###### 🔖 Médium suscetível {#medium-suscetivel}
+### Médium suscetível
 
 – 196
 
-###### 🔖 Médium tiptólogo {#medium-tiptologo}
+### Médium tiptólogo
 
 – 189; Cap. 32
 
-###### 🔖 Médium veloz
+#### Médium veloz
 
 – 194
 
-###### 🔖 Médium vidente {#medium-vidente}
+### Médium vidente
 
 - aparição e – 115
 - clarividência e – 168
@@ -2182,9 +2174,9 @@
 - Mundo Invisível e – 103
 - percepção de aparições por – 103
 
-###### 🔖 Mediumato – Cap. 32 {#mediumato-cap-32}
+### Mediumato – Cap. 32
 
-###### 🔖 Mediunidade {#mediunidade}
+### Mediunidade
 
 - afloramento da – 162
 - animais e – 234; 236
@@ -2234,63 +2226,63 @@
 - Mediunidade intuitiva
 - pensamentos próprios e – 215
 
-###### 🔖 Medo {#medo}
+### Medo
 
 - efeitos físicos espontâneos e – 84
 - teoria da comunicação exclusiva
 - dos demônios e – 46
 
-###### 🔖 Meio {#meio}
+### Meio
 
 - influência do \* nas manifestações
 - espíritas – 231; 341
 
-###### 🔖 Melindre {#melindre}
+### Melindre
 
 - crítica a comunicações mediúnicas e – 248
 - desencarnado e despojamento de – 257
 
-###### 🔖 Memória {#memoria}
+### Memória
 
 - gravação de impressões no cérebro e – 113b
 
-###### 🔖 Mensagens espíritas {#mensagens-espiritas}
+### Mensagens espíritas
 
 - amplitude de recados ou
 - advertências nas – 226, 5<sup>a</sup>
 
-###### 🔖 Mesa Girardin {#mesa-girardin}
+### Mesa Girardin
 
 – 144
 
-###### 🔖 Mesas girantes {#mesas-girantes}
+### Mesas girantes
 
 - fenômeno das – 60; 61; 63
 - efeitos inteligentes e – 68
 - experiências com as – 60; 62
 - médiuns e – 67
 
-###### 🔖 Método {#metodo}
+### Método
 
 - ciências naturais e \* experimental – 31
 - de ensino da Doutrina Espírita – 19
 - Espiritismo e \* experimental – 31
 
-###### 🔖 Milagre {#milagre}
+### Milagre
 
 - conceito de – 15
 - fenômeno espírita e – 15
 - ignorância e – 15
 
-###### 🔖 Milagres {#milagres}
+### Milagres
 
 - religião e – 16
 
-###### 🔖 Missão {#missao}
+### Missão
 
 - do verdadeiro espírita – 30
 
-###### 🔖 Mistificação {#mistificacao}
+### Mistificação
 
 - cobiça, previsões e – 303, nota
 - comportamento espírita e – 303
@@ -2305,15 +2297,15 @@
 - reforma íntima e – 303
 - sistema do músculo estalante e – 41
 
-###### 🔖 Monoespírita {#monoespirita}
+### Monoespírita
 
 - sistema unispírita ou – 48
 
-###### 🔖 Moradia {#moradia}
+### Moradia
 
 - Espírito errante e – 132, 2a
 
-###### 🔖 Moral {#moral}
+### Moral
 
 - Espírito Superior e – 74, Cap. 12
 - estado \* da Terra e Espíritos errantes – 232
@@ -2322,11 +2314,11 @@
 - superioridade \* e ascendência sobre
 - os Espíritos inferiores – 279
 
-###### 🔖 Moralidade {#moralidade}
+### Moralidade
 
 - fraudes espíritas e – 323
 
-###### 🔖 Morte {#morte}
+### Morte
 
 - bicorporeidade e – 121
 - crise da – 53
@@ -2336,11 +2328,11 @@
 - predição da – 289, 13<sup>a</sup>
 - pressentimento da – 289, 14<sup>a</sup>
 
-###### 🔖 Movimento {#movimento}
+### Movimento
 
 - ação dos Espíritos no \* de objetos – 77
 
-###### 🔖 Mundo Espiritual {#mundo-espiritual}
+### Mundo Espiritual
 
 - espírito de animais e – 283, 36<sup>a</sup>
 - existência do – 2
@@ -2349,29 +2341,29 @@
 - médium vidente e – 103
 - situação do Espírito no – 292, 21<sup>a</sup>
 
-###### 🔖 Mundo evoluído {#mundo-evoluido}
+### Mundo evoluído
 
 - aparição e – 100, 9<sup>a</sup>
 
-###### 🔖 Mundos habitados {#mundos-habitados}
+### Mundos habitados
 
 - forma humana em – 56
 - pluralidade dos – 2
 - Terra e demais – 2
 
-###### 🔖 Músculo estalante {#musculo-estalante}
+### Músculo estalante
 
 - fenômeno espírita e – 41
 - sistema do – 41
 
-##### 📑 N
+## N
 
-###### 🔖 Napoleão {#napoleao}
+### Napoleão
 
 - comunicação com o nome
 - de – Cap. 31, Cap. 31
 
-###### 🔖 Natureza {#natureza}
+### Natureza
 
 - da alma – 50; 51
 - do Espírito – 58
@@ -2380,13 +2372,13 @@
 - fatos espíritas e \* dos efeitos
 - inteligentes – 69
 
-###### 🔖 Nome {#nome}
+### Nome
 
 - critério de aposição de – Introd.
 
-##### 📑 O
+## O
 
-###### 🔖 Objetos {#objetos}
+### Objetos
 
 - aparição de – 128, 2<sup>a</sup>
 - evolução do Espírito e
@@ -2402,7 +2394,7 @@
 - na produção de – 126
 - transporte e desaparecimento de – 99
 
-###### 🔖 Obsessão {#obsessao}
+### Obsessão
 
 - características identificadoras da – 243
 - caracterização da \* física – 238
@@ -2427,15 +2419,15 @@
 - simples – 238
 - simples e fascinação – 239
 
-###### 🔖 Obsessor {#obsessor}
+### Obsessor
 
 - oração em favor de – 249
 
-###### 🔖 Obstáculos {#obstaculos}
+### Obstáculos
 
 - imprevidência e – 253
 
-###### 🔖 Oração {#oracao}
+### Oração
 
 - cura e – 176, 8<sup>a</sup>
 - em favor de obsessor – 249; 340
@@ -2443,67 +2435,67 @@
 - fórmulas e eficácia da – 176, 9<sup>a</sup>
 - médium curador e – 175
 
-###### 🔖 Organização {#organizacao}
+### Organização
 
 - efeitos físicos e \* do Espírito – 74, Cap. 24
 
-###### 🔖 Orgulho {#orgulho}
+### Orgulho
 
 - médium, mediunidade e – 228
 - obsessão e – 246
 
-###### 🔖 Orientação {#orientacao}
+### Orientação
 
 - confabulação com os Espíritos e – Introd.
 
-##### 📑 P
+## P
 
-###### 🔖 Pádua, S. Antônio de {#padua-s-antonio-de}
+### Pádua, S. Antônio de
 
 - bicorporeidade e – 119
 
-###### 🔖 Pagamento {#pagamento}
+### Pagamento
 
 - sonambulismo e – 312
 
-###### 🔖 Pascal {#pascal}
+### Pascal
 
 - dissertação de – Cap. 31, Cap. 13
 
-###### 🔖 Passado {#passado}
+### Passado
 
 - conhecimento do – 290
 - mediunidade e lembrança do – 223, 4<sup>a</sup>
 
-###### 🔖 Passividade {#passividade}
+### Passividade
 
 - Espírito do médium e – 223, 10<sup>a</sup>
 - inconsciência e – 179
 - médium falante e – 166
 
-###### 🔖 Paulo, Vicente de {#paulo-vicente-de}
+### Paulo, Vicente de
 
 - comunicação com o nome de –
 - Cap. 31, Cap. 29-Cap. 30, Cap. 32
 - dissertação de – Cap. 31, Cap. 20, Cap. 26
 
-###### 🔖 Penalização {#penalizacao}
+### Penalização
 
 - recompensa e – 254, 4<sup>a</sup>
 
-###### 🔖 Penas eternas {#penas-eternas}
+### Penas eternas
 
 - negação das – 2
 
-###### 🔖 Penas futuras {#penas-futuras}
+### Penas futuras
 
 - recompensa e – 2
 
-###### 🔖 Penetrabilidade {#penetrabilidade}
+### Penetrabilidade
 
 - perispírito e – 106
 
-###### 🔖 Pensamento {#pensamento}
+### Pensamento
 
 - comunicações e – 223, 6<sup>a</sup>
 - Espíritos enganadores e – 268, 24<sup>a</sup>
@@ -2514,15 +2506,15 @@
 - transmissão do – 7
 - transmissão do \* e aparição – 100, 11<sup>a</sup>
 
-###### 🔖 Perda {#perda}
+### Perda
 
 - suspensão e \* da mediunidade – 220
 
-###### 🔖 Perfeição {#perfeicao}
+### Perfeição
 
 - Espírito puro e – 299
 
-###### 🔖 Perguntas {#perguntas}
+### Perguntas
 
 - antipatia dos Espíritos e – 288, 3<sup>a</sup>
 - aptidão do Espírito no
@@ -2545,12 +2537,12 @@
 - sorte dos Espíritos, objeto de – 292
 - tesouros ocultos, objetos de – 295
 
-###### 🔖 Perigo {#perigo}
+### Perigo
 
 - encarnado, desencarnado e
 - sensação de – 100, 10<sup>a</sup>
 
-###### 🔖 Perispírito {#perispirito}
+### Perispírito
 
 - alma e – 54
 - aparência do – 100, 28<sup>a</sup>
@@ -2583,43 +2575,43 @@
 - visibilidade e tangibilidade do – 119, 2<sup>a</sup>
 - visões e – 100, 28<sup>a</sup>a
 
-###### 🔖 Perseguição {#perseguicao}
+### Perseguição
 
 - efeitos físicos e – 89
 
-###### 🔖 Personalidade {#personalidade}
+### Personalidade
 
 - grau de adiantamento espiritual e – 256
 
-###### 🔖 Perturbação {#perturbacao}
+### Perturbação
 
 - Espíritos malfeitores nas reuniões e – 340
 - membros da Sociedade Espírita e – 336
 - morte do corpo e – 53
 
-###### 🔖 Pessoas elétricas {#pessoas-eletricas}
+### Pessoas elétricas
 
 - conceito de – 74, Cap. 20
 
-###### 🔖 Plano Espiritual ver Mundo Espiritual {#plano-espiritual-ver-mundo-espiritual}
+### Plano Espiritual ver Mundo Espiritual
 
-###### 🔖 Plantas {#plantas}
+### Plantas
 
 - Espírito e – 118
 
-###### 🔖 Pluralidade dos mundos habitados {#pluralidade-dos-mundos-habitados}
+### Pluralidade dos mundos habitados
 
 - revelações espirituais sobre – 296
 - seres racionais e – 2
 
-###### 🔖 Pneumatofonia {#pneumatofonia}
+### Pneumatofonia
 
 - conceito de – 150; Cap. 32
 - espontaneidade do fenômeno de – 151
 - sons pneumatofônicos, zunidos e – 150
 - torpor ou vigília e – 151
 
-###### 🔖 Pneumatografia {#pneumatografia}
+### Pneumatografia
 
 - autenticidade da – 146
 - Barão de Guldenstubbé e – 147
@@ -2632,51 +2624,51 @@
 - psicografia e – 146
 - vantagens da – 149
 
-###### 🔖 Pneumatógrafo {#pneumatografo}
+### Pneumatógrafo
 
 - conceito de médium – 177
 
-###### 🔖 Poder {#poder}
+### Poder
 
 - vontade e – 128, 10<sup>a</sup>
 
-###### 🔖 Possessão {#possessao}
+### Possessão
 
 - subjugação e – 241
 
-###### 🔖 Povos {#povos}
+### Povos
 
 - crença dos \* na manifestação
 - dos Espíritos – 52
 
-###### 🔖 Práticas espíritas {#praticas-espiritas}
+### Práticas espíritas
 
 - Doutrina Espírita e – 32
 - teoria e – 32; 34
 
-###### 🔖 Prece ver Oração {#prece-ver-oracao}
+### Prece ver Oração
 
-###### 🔖 Preconceito {#preconceito}
+### Preconceito
 
 - Espíritos sérios e – 301, 9a
 - racial e reencarnação – 301, 9<sup>a</sup>
 
-###### 🔖 Predição {#predicao}
+### Predição
 
 - da morte – 289, 13<sup>a</sup>
 - mentira e – 289, 10<sup>a</sup>
 
-###### 🔖 Prejuízo {#prejuizo}
+### Prejuízo
 
 - transporte de objetos de terceiros e – 99, 7<sup>a</sup>
 
-###### 🔖 Pressentimento {#pressentimento}
+### Pressentimento
 
 - da morte – 289, 14<sup>a</sup>
 - Espíritos sérios e – 289, 11a
 - intuição e – 184
 
-###### 🔖 Prestidigitação {#prestidigitacao}
+### Prestidigitação
 
 - fenômeno de transporte e – 97
 - fraude e – 314
@@ -2684,48 +2676,48 @@
 - imitação da mediunidade nos
 - animais e – 234
 
-###### 🔖 Prevenção {#prevencao}
+### Prevenção
 
 - da obsessão – 340
 
-###### 🔖 Previsão {#previsao}
+### Previsão
 
 - faculdade de \* do futuro – 289, 12<sup>a</sup>
 - utilidade da – 289, 9<sup>a</sup>
 
-###### 🔖 Princípio inteligente {#principio-inteligente}
+### Princípio inteligente
 
 - existência do Espírito e – 1
 
-###### 🔖 Princípio vital {#principio-vital}
+### Princípio vital
 
 - fluido universal e – 74, Cap. 13
 
-###### 🔖 Princípios fundamentais {#principios-fundamentais}
+### Princípios fundamentais
 
 - da Doutrina Espírita – 302
 
-###### 🔖 Progresso {#progresso}
+### Progresso
 
 - homem e lei do – 236
 
-###### 🔖 Proibição {#proibicao}
+### Proibição
 
 - comunicações espíritas e – 254, 6<sup>a</sup>
 
-###### 🔖 Proselitismo {#proselitismo}
+### Proselitismo
 
 - convencimento e – 29
 
-###### 🔖 Provação {#provacao}
+### Provação
 
 - obsessão e – 254, 2<sup>a</sup>
 
-###### 🔖 Psicofonia {#psicofonia}
+### Psicofonia
 
 - conceito de – Cap. 32
 
-###### 🔖 Psicografia {#psicografia}
+### Psicografia
 
 - aptidão para – 210
 - caligrafia e – 95; 219
@@ -2746,7 +2738,7 @@
 - obtenção da – 200
 - trabalho simultâneo e – 345
 
-###### 🔖 Psicógrafo {#psicografo}
+### Psicógrafo
 
 - atenção do \* no uso da faculdade – 217
 - caligrafia e – 219
@@ -2763,67 +2755,67 @@
 - iniciante e relação consciente com
 - maus Espíritos – 212
 
-###### 🔖 Punição {#punicao}
+### Punição
 
 - comunicação com maus
 - Espíritos e – 254, 4<sup>a</sup>
 
-###### 🔖 Pureza {#pureza}
+### Pureza
 
 - anjos e – 2
 - demônios e – 2
 - provas da alma e – 2
 
-##### 📑 R
+## R
 
-###### 🔖 Recompensa {#recompensa}
+### Recompensa
 
 - pena e – 254, 4<sup>a</sup>
 - penas futuras e – 2
 
-###### 🔖 Reconhecimento {#reconhecimento}
+### Reconhecimento
 
 - da qualidade dos Espíritos – 267
 
-###### 🔖 Recordação {#recordacao}
+### Recordação
 
 - evocação de – 284, 44<sup>a</sup>
 
-###### 🔖 Reencarnação {#reencarnacao}
+### Reencarnação
 
 - conceito de – Cap. 32
 - discriminação racial e – 301, 9<sup>a</sup>
 - ignorância da lei de – 301, 8<sup>a</sup>
 - preconceito da cor e – 301, 9<sup>a</sup>
 
-###### 🔖 Reflexão {#reflexao}
+### Reflexão
 
 - lógica da comunicação do Espírito e – 5
 
-###### 🔖 Reflexo {#reflexo}
+### Reflexo
 
 - sistema do – 43
 
-###### 🔖 Reforma íntima {#reforma-intima}
+### Reforma íntima
 
 - Espiritismo e – 51; 350
 - mistificação e – 303
 - obsessão e – 254, 3<sup>a</sup>
 
-###### 🔖 Regulamento {#regulamento}
+### Regulamento
 
 - da Sociedade Parisiense de Estudos Espíritas – Cap. 30
 
-###### 🔖 Religião {#religiao}
+### Religião
 
 - Espiritismo e – 16
 - milagres e – 16
 
-###### 🔖 Resposta {#resposta}
+### Resposta
 
 - evocação e – 271
 
-###### 🔖 Resumo {#resumo}
+### Resumo
 
 - atração de bons Espíritos para
 - as reuniões – 341
@@ -2835,7 +2827,7 @@
 - qualidades dos Espíritos – 267
 - proposições espíritas em – 14
 
-###### 🔖 Reunião {#reuniao}
+### Reunião
 
 - acompanhamento invisível em – 330
 - classificação da \* segundo o gênero – 324
@@ -2850,81 +2842,81 @@
 - regularidade e – 333
 - séria – 330; 332
 
-###### 🔖 Reunião de estudo doutrinário {#reuniao-de-estudo-doutrinario}
+### Reunião de estudo doutrinário
 
 - utilidade da \* para o médium – 329
 
-###### 🔖 Reunião espírita {#reuniao-espirita}
+### Reunião espírita
 
 - comunicações e – 233
 - concentração e homogeneidade na – 331
 - vantagens da – 324
 
-###### 🔖 Reunião experimental {#reuniao-experimental}
+### Reunião experimental
 
 - caracterização da – 326
 - manifestações físicas e realização de – 342
 
-###### 🔖 Reunião mediúnica {#reuniao-mediunica}
+### Reunião mediúnica
 
 - ausência de médiuns e – 347
 - condições para a realização de – 327
 - número de assistentes em – 332
 - reunião instrutiva e – 327
 
-###### 🔖 Revelação {#revelacao}
+### Revelação
 
 - de existências futuras – 290
 - de existências passadas – 290
 - interesses materiais e – 291, 19<sup>a</sup>
 
-###### 🔖 Revista espírita {#revista-espirita}
+### Revista espírita
 
 - carta na \* sobre fraudes espíritas – 317
 - efeitos físicos e narrativas da – 88
 
-###### 🔖 Rivalidade {#rivalidade}
+### Rivalidade
 
 - Sociedade espírita e – 348
 
-###### 🔖 Rousseau, J. J. {#rousseau-j-j}
+### Rousseau, J. J.
 
 - dissertação de – Cap. 31, Cap. 03
 
-##### 📑 S
+## S
 
-###### 🔖 Saúde {#saude}
+### Saúde
 
 - conselho dos Espíritos sobre – 221; 293, 24<sup>a</sup>
 
-###### 🔖 Segunda vista {#segunda-vista}
+### Segunda vista
 
 - aparição e – 102; 107
 - desenvolvimento da – 100, 26<sup>a</sup>
 
-###### 🔖 Sematologia {#sematologia}
+### Sematologia
 
 - conceito de – 140; Cap. 32
 - exemplo de – 140
 - linguagem dos sinais e – 139
 - tiptologia e – 139
 
-###### 🔖 Sensação {#sensacao}
+### Sensação
 
 - médium sensitivo e – 164
 - saciedade, alimentos fluídicos
 - e – 128, 13<sup>a</sup>, nota
 
-###### 🔖 Sensibilidade {#sensibilidade}
+### Sensibilidade
 
 - identificação do Espírito pela – 164
 
-###### 🔖 Sentimento {#sentimento}
+### Sentimento
 
 - do Espírito em relação à
 - evocação – 282, 20<sup>a</sup>
 
-###### 🔖 Ser humano {#ser-humano}
+### Ser humano
 
 - constituição do – 54
 - forma humana e – 56
@@ -2932,18 +2924,18 @@
 - aptidão e – 185
 - comunicação e – 223, 8<sup>a</sup>
 
-###### 🔖 Simulação {#simulacao}
+### Simulação
 
 - charlatanismo e \* de fenômenos
 - físicos – 307
 - fenômeno espírita, imitação e – 318
 
-###### 🔖 Sintonia {#sintonia}
+### Sintonia
 
 - homogeneidade do meio e – 233
 - médium e – 254, 1<sup>a</sup>
 
-###### 🔖 Sistema {#sistema}
+### Sistema
 
 - da alma coletiva – 44
 - da alma material – 50
@@ -2962,15 +2954,15 @@
 - sonambúlico – 45
 - unispírita ou monoespírita – 48; 301, 7<sup>a</sup>
 
-###### 🔖 Sobrenatural {#sobrenatural}
+### Sobrenatural
 
 - maravilhoso e – 7; 10
 
-###### 🔖 Sobrevivência {#sobrevivencia}
+### Sobrevivência
 
 - existência, \* e individualidade da alma – 1
 
-###### 🔖 Sociedade espírita {#sociedade-espirita}
+### Sociedade espírita
 
 - admissão de novos membros na – 338
 - concorrência sadia e – 349
@@ -2987,15 +2979,15 @@
 - uniformidade de sentimentos
 - e formação de – 334
 
-###### 🔖 Sociedade Parisiense de Estudos Espíritas {#sociedade-parisiense-de-estudos-espiritas}
+### Sociedade Parisiense de Estudos Espíritas
 
 - regulamento da – Cap. 30
 
-###### 🔖 Sócrates {#socrates}
+### Sócrates
 
 - faculdades mediúnicas e opinião de – 198
 
-###### 🔖 Sonambulismo {#sonambulismo}
+### Sonambulismo
 
 - evocação e – 284, 46<sup>a</sup>
 - mecanismo do – 172
@@ -3004,14 +2996,14 @@
 - sistema sonambúlico e – 45
 - transporte e – 99
 
-###### 🔖 Sonâmbulo {#sonambulo}
+### Sonâmbulo
 
 - diferença entre médium
 - sonambúlico e – 172
 - evocação e – 284, 46<sup>a</sup>
 - organismo do – 174
 
-###### 🔖 Sonho {#sonho}
+### Sonho
 
 - aparição de Espírito e – 100, 1<sup>a</sup>
 - causa das imagens percebidas no – 112
@@ -3019,13 +3011,13 @@
 - entes queridos desencarnados e – 100, 15<sup>a</sup>
 - visão e – 101
 
-###### 🔖 Sono {#sono}
+### Sono
 
 - aparição de Espírito e – 100, 1<sup>a</sup>, 25<sup>a</sup>
 - evocação do Espírito durante
 - o – 284, 41<sup>a</sup>-42<sup>a</sup>
 
-###### 🔖 Subjugação {#subjugacao}
+### Subjugação
 
 - caracterização da – 240
 - conceito de – 240
@@ -3034,11 +3026,11 @@
 - exemplo de – 240
 - possessão e – 241
 
-###### 🔖 Sugestão {#sugestao}
+### Sugestão
 
 - ideias e – 183
 
-###### 🔖 Superstição {#supersticao}
+### Superstição
 
 - casas assombradas e – 88
 - efeitos físicos e – 88
@@ -3049,26 +3041,26 @@
 - medo e – 100, 30<sup>a</sup>, nota
 - velhacaria e – 88
 
-###### 🔖 Suspensão {#suspensao}
+### Suspensão
 
 - perda e \* da mediunidade – 220
 
-##### 📑 T
+## T
 
-###### 🔖 Talento {#talento}
+### Talento
 
 - conhecimento latente e – 223, 23<sup>a</sup>
 
-###### 🔖 Tangibilidade {#tangibilidade}
+### Tangibilidade
 
 - aparição e \* dos Espíritos – 104
 - perispírito e – 57
 
-###### 🔖 Telegrafia humana {#telegrafia-humana}
+### Telegrafia humana
 
 - transmissão de pensamentos e – 285
 
-###### 🔖 Teoria {#teoria}
+### Teoria
 
 - da alucinação – 111
 - da animação factícia – 78
@@ -3081,28 +3073,28 @@
 - práticas espíritas e – 32
 - vantagens do estudo da \* espírita – 31
 
-###### 🔖 Teoria da alucinação {#teoria-da-alucinacao}
+### Teoria da alucinação
 
 - aparição e – 112
 - explicação espírita da – 113b
 
-###### 🔖 Teoria das aparições {#teoria-das-aparicoes}
+### Teoria das aparições
 
 - introdução à – 110
 
-###### 🔖 Teorias {#teorias}
+### Teorias
 
 - estudo e evolução das – 110
 
-###### 🔖 Terra {#terra}
+### Terra
 
 - estado moral da \* e Espíritos errantes – 232
 
-###### 🔖 Tesouro {#tesouro}
+### Tesouro
 
 - oculto – 295, 30<sup>a</sup>
 
-###### 🔖 Tiptologia {#tiptologia}
+### Tiptologia
 
 - alfabética – 141
 - combinação de sentimento
@@ -3121,7 +3113,7 @@
 - sematologia e – 139
 - vantagens da – 142
 
-###### 🔖 Transfiguração {#transfiguracao}
+### Transfiguração
 
 - aparência do perispírito e – 123
 - bicorporeidade e – 114
@@ -3132,11 +3124,11 @@
 - mecanismos da – 123
 - peso do corpo e – 123
 
-###### 🔖 Transmutação {#transmutacao}
+### Transmutação
 
 - propriedades da água e – 131
 
-###### 🔖 Transporte {#transporte}
+### Transporte
 
 - desaparecimento de objetos e – 99, 15<sup>a</sup>
 - Erasto e teoria sobre o fenômeno de – 98
@@ -3156,50 +3148,50 @@
 - prejuízo e \* de objetos – 99, 7<sup>a</sup>
 - sonambulismo e – 99
 
-###### 🔖 Túmulo {#tumulo}
+### Túmulo
 
 - desencarnado e – 132, 8<sup>a</sup>
 - oração junto ao – 132, 8<sup>a</sup>a
 
-##### 📑 U
+## U
 
-###### 🔖 Ubiquidade {#ubiquidade}
+### Ubiquidade
 
 - ensino do Espírito Channing
 - sobre a – 282, 30<sup>a</sup>, nota
 - evocação e – 282, 30<sup>a</sup>
 
-###### 🔖 Unidade {#unidade}
+### Unidade
 
 - ensino do Espírito de Verdade sobre a – 302
 
-###### 🔖 Unificação {#unificacao}
+### Unificação
 
 - Movimento Espírita mundial e – 350
 
-##### 📑 V
+## Cap. 05
 
-###### 🔖 Vaidade {#vaidade}
+### Vaidade
 
 - existência passada e – 290
 
-###### 🔖 Valor {#valor}
+### Valor
 
 - nomes, em assuntos mediúnicos,
 - de pouco – Introd.
 
-###### 🔖 Verdade {#verdade}
+### Verdade
 
 - contradição aparente e – 301, 1<sup>a</sup>
 - efeitos físicos espontâneos,
 - superstição e – 88
 - garantia da \* na comunicação – 268, 18<sup>a</sup>
 
-###### 🔖 Vestuário {#vestuario}
+### Vestuário
 
 - do Espírito – 126
 
-###### 🔖 Vidência {#videncia}
+### Vidência
 
 - aparição e – 100, 10<sup>a</sup>
 - constante de desencarnados – 100, 7<sup>a</sup>
@@ -3209,22 +3201,22 @@
 - ilusão de ótica e – 108
 - médium vidente e – 100, 29<sup>a</sup>a
 
-###### 🔖 Vidente {#vidente}
+### Vidente
 
 - conceito de médium – 167
 
-###### 🔖 Visão {#visao}
+### Visão
 
 - caráter da – 113
 - imaginação, realidade e – 113<sup>a</sup>
 - sonho e – 101
 
-###### 🔖 Vocabulário {#vocabulario}
+### Vocabulário
 
 - espírita – Cap. 32
 - organização de – Introd.
 
-###### 🔖 Vontade {#vontade}
+### Vontade
 
 - ação magnética curadora e – 131
 - aparição e \* do Espírito – 105
@@ -3236,8 +3228,8 @@
 - objetos fluídicos e \* dos Espíritos – 128, 4<sup>a</sup>
 - poder e – 128, 10<sup>a</sup>; 131
 
-##### 📑 X
+## Cap. 10
 
-###### 🔖 3enoglossia {#xenoglossia}
+### Xenoglossia
 
 - linguagem familiar e – 223, 16<sup>a</sup>
