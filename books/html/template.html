@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #TOC {
+      position: fixed;
+      left: 20px;
+      top: 20px;
+      width: 300px;
+      height: 90vh;
+      overflow-y: auto;
+      border-right: 1px solid #ccc;
+      padding: 10px;
+    }
+
+    #content {
+      margin-left: 340px;
+      padding: 20px;
+    }
+
+    /* Hide all levels below h2 by default */
+    #TOC>ul>li>ul {
+      display: none;
+    }
+
+    #TOC ul ul {
+      display: none;
+    }
+
+    /* Indicators and styling */
+    #TOC a {
+      cursor: pointer;
+      color: blue;
+      text-decoration: none;
+    }
+
+    .show {
+      display: block !important;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="TOC">$toc$</div>
+  <div id="content">$body$</div>
+  <script>
+    // Recursive toggle for any level
+    document.querySelectorAll('#TOC a').forEach(link => {
+      link.addEventListener('click', (e) => {
+        const subMenu = link.parentElement.querySelector('ul');
+        if (subMenu) {
+          e.preventDefault();
+          // Close siblings at same level to keep only one open
+          const parentUl = link.closest('ul');
+          parentUl.querySelectorAll(':scope > li > ul').forEach(ul => {
+            if (ul !== subMenu) ul.classList.remove('show');
+          });
+          // Toggle target
+          subMenu.classList.toggle('show');
+        }
+      });
+    });
+  </script>
+</body>
+
+</html>

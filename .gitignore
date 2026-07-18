@@ -1,7 +1,24 @@
-# Ignore local historical workspace archives
+# Local / historical
 backup/
 *.old
-*.pdf
 venv/
 .venv/
 env/
+
+# Reference & working PDFs (large binaries; keep local)
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Generated HTML (keep layout.css, template.html, images tracked)
+books/html/*-rendered.html
+books/html/*-toc.html
+
+# Editor / OS
+.DS_Store
+*.swp
+*~

@@ -76,7 +76,7 @@ This is the current high-precision era: deliberate separation of concerns and a 
 - [x] Acceptance that MD can (and should) contain useful extra terms beyond strict PDF index when they improve study value.
 - [x] Root-level working snapshots (`1-lde-full.md` etc. dated 2026-05-24) used during the transition.
 
-**Current Focus (late May 2026):** Finish LDE Índice Geral audit (D onward) + complete slugs/sub-items for the 16 NEW C items. Then repeat the entire fidelity + tooling discipline for LDM, ESE, CEU, and GEN.
+**Focus (May 2026):** Finish LDE Índice Geral audit (D onward) + complete slugs/sub-items for the 16 NEW C items. Then repeat the entire fidelity + tooling discipline for LDM, ESE, CEU, and GEN.
 
 ## Phase 5: Interface Rebuild on Modern Foundations (2026 — Ongoing)
 
@@ -93,11 +93,27 @@ Parallel track to the content work: faithfully recreate the soul of the original
 - [ ] Feature flags for study tools (Hypothesis, reading rulers, font controls, etc.).
 - [ ] Parity with (and eventual supersession of) the old Jekyll + `combined.js` experience.
 
-## Phase 6: Completion & Future Horizons (Planned)
+## Phase 6: PDF Page Markers & HTML Fidelity Loop (July 2026 — Ongoing)
+
+Goal: physical PDF page anchors in source MD so doutrina.org / librus can offer “navigate by reference PDF page,” while reading order may differ from the print edition.
+
+- [x] **Repo hygiene (2026-07-18)** — Resolve merge conflicts in `style-guide.md` / `cross-reference.md`; document partials+shared as edit SoT and full as publish artifact; tree cleanup.
+- [x] **Tooling layout** — Multi-book scripts under `scripts/`; LDE-only under `scripts/lde/`; retired tools under `scripts/used/` (+ `used/lde/`).
+- [x] **HTML verification renderer** — `scripts/lde/render_md_to_html.py` + detached `books/html/layout.css` (generated `*.html` gitignored).
+- [x] **Page marker convention** — `[]{#page-N}` = page N of the **canonical** PDF; may be non-monotonic in MD order (LDE Prefácio before Introdução).
+- [x] **LDE working PDF parts** — Local split under `books/pdf/work/1-lde/` (`part-0`…`part-6` by H2 ranges; optional `part-0-reord`, etc.). `*.pdf` remains gitignored.
+- [ ] Finish manual page markers on LDE (full campaign → split back to partials when shared round-trip is solid).
+- [ ] Fix concat/split shared wrap (`START_SHARED` / `END_SHARED`) for safe full ↔ partial round-trip.
+- [ ] Extend page markers + work PDFs to LDM, ESE, CEU, GEN.
+- [ ] Reader UX: jump to `#page-N` + optional open canonical PDF at N.
+
+**Docs bump (2026-07-18):** `style-guide.md` → **v1.4**; `cross-reference.md` → **v1.3**.
+
+## Phase 7: Completion & Future Horizons (Planned)
 
 - [ ] Complete, verified **Índice Geral** (full H6 + sub-items + anchors) for LDM, ESE, CEU, and GEN using the same scrap + validate + manual-audit workflow.
 - [ ] Universal rich cross-book linking throughout all five full Markdown files using the documented prefix + slug rules.
-- [ ] Production-grade `doutrina-11ty` site deployed (replacing or augmenting doutrina.org) with the full 4-column vanilla interface + theming.
+- [ ] Production-grade `doutrina-11ty` / doutrina.org reader with PDF-page navigation + 4-column vanilla interface + theming.
 - [ ] `doutrina-content` potentially published as reusable, versioned Markdown modules (or npm-equivalent for 11ty/ other consumers).
 - [ ] Optional higher-level tooling (search index generation, graph of cross-references, export formats).
 - [ ] Continued personal daily study use as the ultimate measure of success.
@@ -107,20 +123,21 @@ Parallel track to the content work: faithfully recreate the soul of the original
 ## Sources & Artifacts Used for Reconstruction
 
 - Git histories (all four local repos): first commits, commit messages containing "scrap", "anchor", "índice", "sync", "11ty", "modular", daily snapshots.
-- `doutrina-content/scrap.md` (May 27 2026) + `reports/` fidelity artifacts.
-- `doutrina-content/style-guide.md` v1.3 (28 May 2026) and `cross-reference.md`.
+- `doutrina-content/scrap.md` (May 27 2026) + `reports/` fidelity artifacts (historical; later cleaned).
+- `doutrina-content/style-guide.md` v1.4 (18 Jul 2026) and `cross-reference.md` v1.3.
 - `doutrina-11ty/doutrina_modular_plan.pdf` and commit messages around Eleventy setup + content syncs.
 - Filesystem timestamps on root-level full MD snapshots (2026-05-24) and current `books/md/*/full/*.md`.
 - Embedded "MD Quality & Fidelity Checklist" inside `1-lde-full.md`.
 - User-provided progress markers (A/B/C manual verification + 16 NEW items).
 - Architectural signals in `doutrina.org` (Jekyll + books submodule transitions) and the persistent 4-column "vanilla" DNA visible in both old site and new 11ty experiments.
+- July 2026: PDF part splits, page-marker workflow, scripts/`lde` layout.
 
 ---
 
 **This document itself is a living artifact.** Update it whenever a new major phase completes or when more early history surfaces from backups or memory. The real measure of progress remains the same as in March 2023: producing the highest-fidelity, most study-worthy digital versions of these five books possible.
 
-**Next immediate actions (as of this writing):**  
-Continue the manual H6 letter audit in LDE (D+), resolve the 16 NEW C items, then expand the same discipline to the other four books while the 11ty interface layer matures in parallel.
+**Next immediate actions (as of 2026-07-18):**  
+Continue LDE PDF page marking using `books/pdf/work/1-lde/` parts (and reordered Part 0 as needed); harden shared concat/split round-trip; then resume Índice letter audit and roll page discipline to the other four books.
 
 ### Future Improvement: Short Machine Codex (3-5 char alphanumeric)
 

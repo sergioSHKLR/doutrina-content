@@ -63,30 +63,25 @@ eleventyNavigation:
  title: "ESE — O Evangelho segundo o Espiritismo"
 ---
 
-# 🕊️ O Evangelho segundo o Espiritismo
+# 🕊️ O Evangelho segundo o Espiritismo {#ese}
 
-## 0. 🗃️ Pré-textual {#0}
+## 0. 🗃️ Pré-textual {#ese-0}
 
-### 0.00. ⚖️ Avisos Legais {#0-00}
-<!-- INSERT_SHARED:avisos-legais.md -->
-<!-- START_SHARED -->
+### 0.00. ⚖️ Avisos Legais {#ese-0-00}
 
 ::: center
 **Edição Digital Educacional • Domínio Público**
 
 Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
 
-A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943)  
-encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014,  
-nos termos da Lei nº 9.610/1998.
+A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943) encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014, nos termos da Lei nº 9.610/1998.
 
 Todos os direitos da edição impressa pertencem à Federação Espírita Brasileira (FEB)
 
 Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
 :::
 
-<!-- END_SHARED -->
-### 0.01. 📄 Folha de rosto {#0-01}
+### 0.01. 📄 Folha de rosto {#ese-0-01}
 
 ::: center
 Ética Espírita
@@ -101,15 +96,18 @@ por 👴🏻 **Allan Kardec**
 
 Tradução de **Guillon Ribeiro**
 
-Edição digital educacional
-organizada e adaptada por **Sergio Schickler** 
-[💧 doutrina.org](https://doutrina.org) — 2023
+Edição digital educacional  
+
+organizada e adaptada por **Sergio Schickler**  
+
+[💧 doutrina.org](https://doutrina.org) — 2023  
+
 Baseada no ISBN 978-85-7328-730-1
 :::
 
 ---
 
-### 0.02. 📋 Sumário Geral {#0-02}
+### 0.02. 📋 Sumário Geral {#ese-0-02}
 
 ::: box
 Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
@@ -117,7 +115,7 @@ Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida 
 
 ---
 
-### 0.03. 📄 Prefácio {#0-03}
+### 0.03. 📄 Prefácio {#ese-0-03}
 
 ✨ — Os Espíritos do Senhor, que são as virtudes dos Céus, qual imenso exército que se movimenta ao receber as ordens do seu comando, espalham-se por toda a superfície da Terra e, semelhantes a estrelas cadentes, vêm iluminar os caminhos e abrir os olhos aos cegos.
 >
@@ -132,7 +130,7 @@ O Espírito da Verdade
 
 **📝 Nota**. A instrução acima, transmitida por via mediúnica, resume a um tempo o verdadeiro caráter do Espiritismo e a finalidade desta obra; por isso foi colocada aqui como prefácio.
 
-### 0.04. 🗂️ Introdução {#0-04}
+### 0.04. 🗂️ Introdução {#ese-0-04}
 
 #### 0.04.01. 📄 Objetivo desta obra
 
@@ -343,7 +341,7 @@ Equivale isso a dizer que o materialismo, com o proclamar para depois da morte o
 ##### #️⃣ 10
 
 ::: greek
-🏺 — O corpo conserva bem impressos os vestígios dos cuidados de que foi objeto e dos acidentes que sofreu. Dá-se o mesmo com a alma(Alma){:.l}. Quando despida do corpo, ela guarda, evidentes, os traços do seu caráter, de suas afeições e as marcas que lhe deixaram todos os atos de sua vida. Assim, a maior desgraça que pode acontecer ao homem é ir para o outro mundo com a alma carregada de crimes. Vês, Cálicles, que nem tu, nem Pólux, nem Górgias podereis provar que devamos levar outra vida que nos seja útil quando estejamos do outro lado. De tantas opiniões diversas, a única que permanece inabalável é a de que mais vale receber do que cometer uma injustiça e que, acima de tudo, devemos cuidar, não de parecer, mas de ser homem de bem. (Colóquios de Sócrates com seus discípulos, na prisão.
+🏺 — O corpo conserva bem impressos os vestígios dos cuidados de que foi objeto e dos acidentes que sofreu. Dá-se o mesmo com a alma(Alma){:.l}. Quando despida do corpo, ela guarda, evidentes, os traços do seu caráter, de suas afeições e as marcas que lhe deixaram todos os atos de sua vida. Assim, a maior desgraça que pode acontecer ao homem é ir para o outro mundo com a alma carregada de crimes. Vês, Cálicles, que nem tu, nem Pólux, nem Górgias podereis provar que devamos levar outra vida que nos seja útil quando estejamos do outro lado. De tantas opiniões diversas, a única que permanece inabalável é a de que mais vale receber do que cometer uma injustiça e que, acima de tudo, devemos cuidar, não de parecer, mas de ser homem de bem. (Colóquios de Sócrates com seus discípulos, na prisão)
 :::
 
 Depara-se-nos aqui outro ponto capital, confirmado hoje pela experiência: o de que a alma não depurada conserva as ideias, as tendências, o caráter e as paixões que teve na Terra. Não é inteiramente cristã esta máxima: mais vale receber do que cometer uma injustiça? O mesmo pensamento exprimiu Jesus, usando desta figura: ✝️ — *… se qualquer te bater na face direita, oferece-lhe também a outra …*MateusMt, cap. 05Mt05, vers. 39,
@@ -372,7 +370,7 @@ Não está aí o princípio de caridade, que prescreve não se retribua o mal co
 🏺 — É pelos frutos que se conhece a árvore. Toda ação deve ser qualificada pelo que produz: qualificá-la de má, quando dela provenha mal; de boa, quando dê origem ao bem.
 :::
 
-Esta máxima: ✝️ — *Pelos frutos é que se conhece a árvore*(LIVRO, cap. X, vers. Y, , se encontra muitas vezes repetida textualmente no Evangelho.
+Esta máxima: ✝️ — *Pelos frutos é que se conhece a árvore* (LIVRO, cap. X, vers. Y, , se encontra muitas vezes repetida textualmente no Evangelho.)
 
 ##### #️⃣ 14
 
@@ -438,16 +436,9 @@ Isso vai com vistas aos que criticam aquilo de que desconhecem até mesmo os pri
 
 Foi por haver professado esses princípios que Sócrates se viu ridiculizado, depois acusado de impiedade e condenado a beber cicuta. Tão certo é que, levantando contra si os interesses e os preconceitos que elas ferem, as grandes verdades novas não se podem firmar sem luta e sem fazer mártires.
 
+## 1. 🗃️ Capítulos {#ese-1}
 
-
-
-
-
-<!-- PART_BREAK -->
-
-## 1. 🗃️ Capítulos {#1}
-
-### 1.01. 🗂️ Não vim destruir a lei {#1-01}
+### 1.01. 🗂️ Não vim destruir a lei {#ese-1-01}
 
 #### 01
 
@@ -591,7 +582,7 @@ Paris(paris, fr){:.m} 🇫🇷
 
 **📝 Nota**. Dar-se-á venha Santo Agostinho demolir o que edificou? Certamente que não. Como tantos outros, ele vê com os olhos do Espírito o que não via como homem. Liberta, sua alma entrevê claridades novas, compreende o que antes não compreendia. Novas ideias lhe revelaram o sentido verdadeiro de algumas sentenças. Na Terra, apreciava as coisas de acordo com os conhecimentos que possuía; desde que, porém, uma nova luz lhe brilhou, pôde apreciá-las mais judiciosamente. Assim é que teve de abandonar a crença que alimentara nos Espíritos íncubos e súcubos e o anátema que lançara contra a teoria dos antípodas. Agora que o Cristianismo se lhe mostra em toda a pureza, pode ele, sobre alguns pontos, pensar de modo diverso do que pensava quando vivo, sem deixar de ser um apóstolo cristão. Pode, sem renegar a sua fé, constituir-se disseminador do Espiritismo, porque vê cumprir-se o que fora predito. Proclamando-o, na atualidade, outra coisa não faz senão conduzir-nos a uma interpretação mais acertada e lógica dos textos. O mesmo ocorre com outros Espíritos que se encontram em posição análoga.
 
-### 1.02. 🗂️ Meu Reino não é deste mundo {#1-02}
+### 1.02. 🗂️ Meu Reino não é deste mundo {#ese-1-02}
 
 #### 01
 
@@ -667,7 +658,7 @@ Havre(havre, fr){:.m} 🇫🇷
 1863
 :::
 
-### 1.03. 🗂️ Há muitas moradas na casa de meu Pai {#1-03}
+### 1.03. 🗂️ Há muitas moradas na casa de meu Pai {#ese-1-03}
 
 #### 01
 
@@ -805,7 +796,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1862
 :::
 
-### 1.04. 🗂️ Ninguém poderá ver o Reino de Deus se não nascer de novo {#1-04}
+### 1.04. 🗂️ Ninguém poderá ver o Reino de Deus se não nascer de novo {#ese-1-04}
 
 #### 01
 
@@ -1031,7 +1022,7 @@ Assim acontece com o homem na Terra. Para o Espírito do selvagem, que está ape
 
 Não poderiam os Espíritos encarnar uma única vez em determinado globo e preencher em esferas diferentes suas diferentes existências? Semelhante modo de ver só seria admissível se, na Terra, todos os homens estivessem exatamente no mesmo nível intelectual e moral. As diferenças que há entre eles, desde o selvagem ao homem civilizado, mostram quais os degraus que têm de subir. A encarnação, aliás, precisa ter um fim útil. Ora, qual seria o das encarnações efêmeras das crianças que morrem em tenra idade? Teriam sofrido sem proveito para si, nem para outrem. Deus, cujas leis todas são soberanamente sábias, nada faz de inútil. Pela reencarnação no mesmo globo, quis Ele que os mesmos Espíritos, pondo-se novamente em contato, tivessem ensejo de reparar seus danos recíprocos. Por meio das suas relações anteriores, quis, além disso, estabelecer sobre base espiritual os laços de família e apoiar numa lei natural os princípios da solidariedade, da fraternidade e da igualdade.
 
-### 1.05. 🗂️ Bem-aventurados os aflitos {#1-05}
+### 1.05. 🗂️ Bem-aventurados os aflitos {#ese-1-05}
 
 #### 01
 
@@ -1422,7 +1413,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1860
 :::
 
-### 1.06. 🗂️ O Cristo Consolador {#1-06}
+### 1.06. 🗂️ O Cristo Consolador {#ese-1-06}
 
 #### O jugo leve
 
@@ -1518,7 +1509,7 @@ Havre(havre, fr){:.m} 🇫🇷
 1863
 :::
 
-### 1.07. 🗂️ Bem-aventurados os pobres de Espírito {#1-07}
+### 1.07. 🗂️ Bem-aventurados os pobres de Espírito {#ese-1-07}
 
 #### O que se deve entender por pobres de espírito
 
@@ -1689,7 +1680,7 @@ Bordeaux(bordeaux, fr){:.m} 🇫🇷
 1862
 :::
 
-### 1.08. 🗂️ Bem-aventurados os que têm puro o coração {#1-08}
+### 1.08. 🗂️ Bem-aventurados os que têm puro o coração {#ese-1-08}
 
 #### Simplicidade e pureza de coração
 
@@ -1900,7 +1891,7 @@ Paris(paris, fr){:.m} 🇫🇷
 
 Quando uma aflição não é consequência dos atos da vida presente, deve-se-lhe buscar a causa numa vida anterior. Tudo aquilo a que se dá o nome de caprichos da sorte mais não é do que efeito da Justiça de Deus, que não inflige punições arbitrárias, pois quer que a pena esteja sempre em correlação com a falta. Se, por sua bondade, lançou um véu sobre os nossos atos passados, por outro lado nos aponta o caminho, dizendo: “Quem matou à espada, pela espada perecerá”, palavras que se podem traduzir assim: “A criatura é sempre punida por aquilo em que pecou.” Se, portanto, alguém sofre o tormento da perda da vista, é que esta lhe foi causa de queda. Talvez tenha sido também causa de que outro perdesse a vista; de que alguém haja perdido a vista em consequência do excesso de trabalho que aquele lhe impôs, ou de maus-tratos, de falta de cuidados etc. Nesse caso, passa ele pela pena de talião. É possível que ele próprio, tomado de arrependimento, haja escolhido essa expiação, aplicando a si estas palavras de Jesus: “Se o teu olho for motivo de escândalo, arranca-o.”
 
-### 1.09. 🗂️ Bem-aventurados os que são brandos e pacíficos {#1-09}
+### 1.09. 🗂️ Bem-aventurados os que são brandos e pacíficos {#ese-1-09}
 
 #### Injúrias e violências
 
@@ -2024,7 +2015,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1863
 :::
 
-### 1.10. 🗂️ Bem-aventurados os que são misericordiosos {#1-10}
+### 1.10. 🗂️ Bem-aventurados os que são misericordiosos {#ese-1-10}
 
 #### Perdoai, para que Deus vos perdoe
 
@@ -2247,7 +2238,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1860
 :::
 
-### 1.11. 🗂️ Amar o próximo como a si mesmo {#1-11}
+### 1.11. 🗂️ Amar o próximo como a si mesmo {#ese-1-11}
 
 #### O mandamento maior. Fazermos aos outros o que queiramos que os outros nos façam. Parábola dos Credores e dos Devedores
 
@@ -2446,7 +2437,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1862
 :::
 
-### 1.12. 🗂️ Amai os vossos inimigos {#1-12}
+### 1.12. 🗂️ Amai os vossos inimigos {#ese-1-12}
 
 #### Retribuir o mal com o bem
 
@@ -2613,7 +2604,7 @@ Boardeaux(bordeaux, fr){:.m} 🇫🇷
 
 O Espiritismo apagará esses últimos vestígios da barbárie, incutindo nos homens o Espírito de caridade e de fraternidade.
 
-### 1.13. 🗂️ Não saiba a vossa mão esquerda o que dê a vossa mão direita {#1-13}
+### 1.13. 🗂️ Não saiba a vossa mão esquerda o que dê a vossa mão direita {#ese-1-13}
 
 #### Fazer o bem sem ostentação
 
@@ -2892,7 +2883,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1860
 :::
 
-### 1.14. 🗂️ Honrai a vosso pai e a vossa mãe {#1-14}
+### 1.14. 🗂️ Honrai a vosso pai e a vossa mãe {#ese-1-14}
 
 #### 01
 
@@ -3003,7 +2994,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1862
 :::
 
-### 1.15. 🗂️ Fora da caridade não há salvação {#1-15}
+### 1.15. 🗂️ Fora da caridade não há salvação {#ese-1-15}
 
 #### O de que precisa o Espírito para se salvar. Parábola do Bom Samaritano
 
@@ -3108,7 +3099,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1860
 :::
 
-### 1.16. 🗂️ Não se pode servir a Deus e a Mamon {#1-16}
+### 1.16. 🗂️ Não se pode servir a Deus e a Mamon {#ese-1-16}
 
 #### Salvação dos ricos
 
@@ -3315,7 +3306,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1860
 :::
 
-### 1.17. 🗂️ Sede perfeitos {#1-17}
+### 1.17. 🗂️ Sede perfeitos {#ese-1-17}
 
 #### Caracteres da perfeição
 
@@ -3512,7 +3503,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1863
 :::
 
-### 1.18. 🗂️ Muitos os chamados, poucos os escolhidos {#1-18}
+### 1.18. 🗂️ Muitos os chamados, poucos os escolhidos {#ese-1-18}
 
 #### Parábola do Festim das Bodas
 
@@ -3702,7 +3693,7 @@ Bordeaux(bordeaux, fr){:.m} 🇫🇷
 1863
 :::
 
-### 1.19. 🗂️ A fé transporta montanhas {#1-19}
+### 1.19. 🗂️ A fé transporta montanhas {#ese-1-19}
 
 #### Poder da fé
 
@@ -3812,7 +3803,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1863
 :::
 
-### 1.20. 🗂️ Os trabalhadores da última hora {#1-20}
+### 1.20. 🗂️ Os trabalhadores da última hora {#ese-1-20}
 
 #### 01
 
@@ -3909,7 +3900,7 @@ Paris(paris, fr){:.m} 🇫🇷
 1862
 :::
 
-### 1.21. 🗂️ Haverá falsos cristos e falsos profetas {#1-21}
+### 1.21. 🗂️ Haverá falsos cristos e falsos profetas {#ese-1-21}
 
 #### Conhece-se a árvore pelo fruto
 
@@ -4059,7 +4050,7 @@ Carlsruhe 🇩🇪
 1861
 :::
 
-### 1.22. 🗂️ Não separeis o que Deus juntou {#1-22}
+### 1.22. 🗂️ Não separeis o que Deus juntou {#ese-1-22}
 
 #### Indissolubilidade do casamento
 
@@ -4096,7 +4087,7 @@ Nem mesmo Jesus consagrou a indissolubilidade absoluta do casamento. Não disse 
 
 Vai mais longe: especifica o caso em que pode dar-se o repúdio, o de adultério. Ora, não existe adultério onde reina sincera afeição recíproca. É verdade que Ele proíbe ao homem desposar a mulher repudiada; mas cumpre se tenham em vista os costumes e o caráter dos homens daquela época. A lei moisaica, nesse caso, prescrevia a lapidação. Querendo abolir um uso bárbaro, precisou de uma penalidade que o substituísse e a encontrou no opróbrio que adviria da proibição de um segundo casamento. Era, de certo modo, uma lei civil substituída por outra lei civil, mas que, como todas as leis dessa natureza, tinha de passar pela prova do tempo.
 
-### 1.23. 🗂️ Estranha moral {#1-23}
+### 1.23. 🗂️ Estranha moral {#ese-1-23}
 
 #### Odiar os pais
 
@@ -4243,7 +4234,7 @@ O Espiritismo vem realizar, na época prevista, as promessas do Cristo. Entretan
 
 Essas palavras de Jesus devem, pois, entender-se com referência às cóleras que a sua doutrina provocaria, aos conflitos momentâneos a que ia dar causa, às lutas que teria de sustentar antes de se firmar, como aconteceu aos hebreus antes de entrarem na Terra Prometida, e não como decorrentes de um desígnio premeditado de sua parte de semear a desordem e a confusão. O mal viria dos homens, e não dele, que era como o médico que se apresenta para curar, mas cujos remédios provocam uma crise salutar, atacando os maus humores do doente.
 
-### 1.24. 🗂️ Não ponhais a candeia debaixo do alqueire {#1-24}
+### 1.24. 🗂️ Não ponhais a candeia debaixo do alqueire {#ese-1-24}
 
 #### Candeia sob o alqueire. Por que fala Jesus por parábolas
 
@@ -4413,7 +4404,7 @@ João, cap. 12, vers. 25-26,
 
 Depois, acrescenta: “Tome a sua cruz aquele que me quiser seguir”, isto é, suporte corajosamente as tribulações que sua fé lhe acarretar, dado que aquele que quiser salvar a vida e seus bens, renunciando a mim, perderá as vantagens do Reino dos Céus, enquanto os que tudo houverem perdido neste mundo, mesmo a vida, para que a verdade triunfe, receberão, na vida futura, o prêmio da coragem, da perseverança e da abnegação de que deram prova. Mas aos que sacrificam os bens celestes aos gozos terrestres, Deus dirá: “Já recebestes a vossa recompensa.”
 
-### 1.25. 🗂️ Buscai e achareis {#1-25}
+### 1.25. 🗂️ Buscai e achareis {#ese-1-25}
 
 #### Ajuda-te a ti mesmo, que o céu te ajudará
 
@@ -4512,7 +4503,7 @@ Quanto aos que não os quisessem receber, nem ouvir, recomendou Ele porventura a
 
 O mesmo diz hoje o Espiritismo a seus adeptos: não violenteis nenhuma consciência; a ninguém forceis para que deixe a sua crença, a fim de adotar a vossa; não anatematizeis os que não pensem como vós; acolhei os que venham ter convosco e deixai tranquilos os que vos repelem. Lembrai-vos das palavras do Cristo. Outrora, o céu era tomado com violência; hoje o é pela brandura. (Cap. IV, itens 10 e 11.)
 
-### 1.26. 🗂️ Dai gratuitamente o que gratuitamente recebestes {#1-26}
+### 1.26. 🗂️ Dai gratuitamente o que gratuitamente recebestes {#ese-1-26}
 
 #### Dom de curar
 
@@ -4611,7 +4602,7 @@ A mediunidade é coisa santa, que deve ser praticada santamente, religiosamente.
 
 Procure, pois, aquele que carece do que viver, recursos em qualquer parte, menos na mediunidade; não lhe consagre, se assim for preciso, senão o tempo de que materialmente possa dispor. Os Espíritos lhe levarão em conta o devotamento e os sacrifícios, ao passo que se afastam dos que esperam fazer deles uma escada por onde subam.
 
-### 1.27. 🗂️ Pedi e obtereis {#1-27}
+### 1.27. 🗂️ Pedi e obtereis {#ese-1-27}
 
 #### Qualidades da prece
 
@@ -4817,7 +4808,7 @@ Santo Agostinho
 1861
 :::
 
-### 1.28. 🗂️ Coletânea de preces espíritas {#1-28}
+### 1.28. 🗂️ Coletânea de preces espíritas {#ese-1-28}
 
 #### Preâmbulo
 
@@ -5058,7 +5049,7 @@ Deus onipotente, permite que os bons Espíritos me assistam na comunicação que
 >
 Se for tentado a cometer abuso, no que quer que seja, ou a me envaidecer da faculdade que te aprouve conceder-me, peço que ma retires, de preferência a consentires seja ela desviada do seu objetivo providencial, que é o bem de todos e o meu próprio avanço moral.
 
-#### 02. 📄 Preces por aquele mesmo que ora {#02}
+#### 02. 📄 Preces por aquele mesmo que ora {#ese-02}
 
 ##### #️⃣ Aos anjos guardiães e aos Espíritos protetores
 
@@ -5326,7 +5317,7 @@ A vós, bons Espíritos, e a ti, meu anjo guardião, suplico que me não deixeis
 
 Nota – Veja-se, adiante, o parágrafo V: “Preces pelos doentes e obsidiados.”
 
-#### 03. 📄 Preces por outrem {#03}
+#### 03. 📄 Preces por outrem {#ese-03}
 
 ##### #️⃣ Por alguém que esteja em aflição
 
@@ -5468,7 +5459,7 @@ Bons Espíritos que a acompanhastes na Terra, não a abandoneis neste momento su
 >
 Dirigi o meu pensamento, a fim de que atue de modo a tornar menos penoso para ela o trabalho da separação e a fim de que leve consigo, ao abandonar a Terra, as consolações da esperança.
 
-#### 04. 📄 Preces pelos que já não são da Terra {#04}
+#### 04. 📄 Preces pelos que já não são da Terra {#ese-04}
 
 ##### #️⃣ Por alguém que acaba de morrer
 
@@ -5647,7 +5638,7 @@ Não creias que permanecerás sempre no estado em que te achas; não, que isso �
 >
 Bons Espíritos, fazei que estas palavras ecoem nessa alma ainda atrasada, a fim de que a ajudem a aproximar-se de Deus. Nós vo-lo pedimos em nome de Jesus Cristo, que tão grande poder tinha sobre os maus Espíritos.
 
-#### 05. 📄 Preces pelos doentes e pelos obsidiados {#05}
+#### 05. 📄 Preces pelos doentes e pelos obsidiados {#ese-05}
 
 ##### #️⃣ Pelos doentes
 
@@ -5751,21 +5742,11 @@ Observação – A cura das obsessões graves requer muita paciência, persevera
 
 A obsessão muito prolongada pode ocasionar desordens patológicas e reclama, por vezes, tratamento simultâneo ou consecutivo, quer magnético, quer médico, para restabelecer a saúde do organismo. Destruída a causa, resta combater os efeitos. (Veja-se: O livro dos médiuns, 2a Parte, cap. XXIII – Da obsessão. Revue spirite, fevereiro e março de 1864; abril de 1865: exemplos de curas de obsessões.)
 
-
-
-
-
-
-
-<!-- PART_BREAK -->
-
 ## 2. 🗃️ Pós-textual {#2}
 
 ### 2.01 📄 Nota explicativa {#2-01}
-<!-- INSERT_SHARED:nota-explicativa.md -->
-<!-- START_SHARED -->
 
-Nota da FEB: Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
+Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
 
 ::: kardec
 👴🏻 — Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
@@ -5875,7 +5856,6 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 A Editora (FEB)
 
-<!-- END_SHARED -->
 ### 2.02 📑 Índice geral {#2-02}
 
 #### Termos relacionados
@@ -6030,17 +6010,11 @@ Joel, 2:29: “Também sobre os servos e sobre as servas naqueles dias derramare
 Na tradução em Esperanto está ainda mais claro que se trata até dos escravos e escravas dos homens, e não de servos de Deus. Ei-la: “Joel, 2:29: Eĉ sur la sklavojn kaj sur la sklavinojn Mi en tiu tempo elverŝos Mian spiriton!” – Atos, 2:18: “Kaj ĉ sur Miajn sklavojn kaj Miajn sklavinojn en tiu tempo Mi elverŝos Mian spiriton, kaj ili profetos.”
 Até os escravos e escravas (dos homens) receberão o Espírito, não somente os servos e servas de Deus (sacerdotes e sacerdotisas). A profecia em sua forma original está se cumprindo em nossos dias, porque a mediunidade brota em todas as classes, até nas pessoas mais humildes e obscuras, e não somente, como faz supor o texto de Atos, entre os sacerdotes (servos de Deus.
 
-
-<!-- PART_BREAK -->
-
 ## 2. 🗃️ Pós-textual {#6}
 
 ### 2.01. 📄 Nota explicativa {#2-01}
 
-<!-- INSERT_SHARED:nota-explicativa.md -->
-<!-- START_SHARED -->
-
-Nota da FEB: Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
+Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
 
 ::: kardec
 👴🏻 — Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
@@ -6149,8 +6123,6 @@ Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no 
 Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (*benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas*), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.
 
 A Editora (FEB)
-
-<!-- END_SHARED -->
 
 ### 2.02. 🗂️ Índice geral {#2-02}
 
@@ -9542,9 +9514,6 @@ pr- ovas rudes e – Cap. 14, 9
 - espalhar a palavra e o ideal do Cristo
 - por todo o mundo, rumo ao caminho da
 - felicidade e plenitude.
-
-
-<!-- PART_BREAK -->
 
 # Índice Geral
 

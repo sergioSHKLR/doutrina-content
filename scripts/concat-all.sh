@@ -27,11 +27,11 @@ for book_dir in "${BOOKS[@]}"; do
     PARTIAL_DIR="$book_dir/partial"
     FULL_DIR="$book_dir/full"
     OUTPUT="$FULL_DIR/${BOOK_NAME}-full.md"
-    
+
     if [ ! -d "$PARTIAL_DIR" ]; then continue; fi
     files=("$PARTIAL_DIR"/*.md)
     if [ ${#files[@]} -eq 0 ]; then continue; fi
-    
+
     IFS=$'\n' files=($(sort -V <<<"${files[*]}")); unset IFS
     echo "📖 Processing: $BOOK_NAME"
 
@@ -40,14 +40,13 @@ for book_dir in "${BOOKS[@]}"; do
 
     for file in "${files[@]}"; do
         TMP_FILE_CONTENT=$(mktemp)
-        
+
         sed -E 's/^>\s*expand\s+/::: expand /g; s/^>expand\s+/::: expand /g; s/^>\s*:::/:::/g; s/^>:::/:::/g' "$file" > "$TMP_FILE_CONTENT"
 
         if [ "$is_first_file" = true ]; then
             is_first_file=false
         else
-            # Inject an explicit HTML part break comment between chapters
-            echo -e "\n<!-- PART_BREAK -->\n" >> "$TMP_OUTPUT"
+            echo -e "\n\n" >> "$TMP_OUTPUT"
 
             if head -n 1 "$TMP_FILE_CONTENT" | grep -q '^---$'; then
                 TMP_STRIPPED=$(mktemp)
@@ -60,13 +59,13 @@ for book_dir in "${BOOKS[@]}"; do
             if [[ "$line" =~ \<\!--[[:space:]]*INSERT_SHARED:([a-zA-Z0-9._-]+)[[:space:]]*--\> ]]; then
                 shared_filename="${BASH_REMATCH[1]}"
                 shared_file_path="$SHARED_DIR/$shared_filename"
-                
-                echo "$line" >> "$TMP_OUTPUT" 
+
+                # A linha de echo foi removida para não deixar o comentário no arquivo final
                 if [ -f "$shared_file_path" ]; then
                     echo "   ➕ Injecting shared content: $shared_filename"
-                    echo "<!-- START_SHARED -->" >> "$TMP_OUTPUT"
+                    echo "" >> "$TMP_OUTPUT"
                     awk '1; END {if (NR && substr($0, length($0), 1) != "\n") print ""}' "$shared_file_path" >> "$TMP_OUTPUT"
-                    echo "<!-- END_SHARED -->" >> "$TMP_OUTPUT"
+                    echo "" >> "$TMP_OUTPUT"
                 else
                     echo "   ⚠️ Shared content file not found: $shared_file_path"
                 fi
@@ -74,17 +73,23 @@ for book_dir in "${BOOKS[@]}"; do
                 echo "$line" >> "$TMP_OUTPUT"
             fi
         done < "$TMP_FILE_CONTENT"
-        
+
         echo "" >> "$TMP_OUTPUT"
         rm -f "$TMP_FILE_CONTENT"
     done
 
+    # Finalização e Limpeza
     mkdir -p "$FULL_DIR"
     if [ -f "$OUTPUT" ]; then
         mv -f "$OUTPUT" "$BACKUP_ROOT/${BOOK_NAME}-full.${TIMESTAMP}.old"
     fi
     mv -f "$TMP_OUTPUT" "$OUTPUT"
-    echo "   🎉 Created: ${BOOK_NAME}-full.md"
+
+    # Aplica a limpeza final diretamente no arquivo consolidado
+    perl -i -0777 -pe 's///gs' "$OUTPUT"
+    sed -i -E ':a;N;$!ba;s/\n{3,}/\n\n/g' "$OUTPUT"
+
+    echo "   🎉 Created and Cleaned: ${BOOK_NAME}-full.md"
 done
 
 echo -e "\n✅ All master files compiled successfully!"

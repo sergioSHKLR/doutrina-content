@@ -1,9 +1,6 @@
 # Estilo de Marcação para a Coleção Digital Espírita (dc)
-<<<<<<< HEAD
-**Versão 1.3** — Atualizado em 28 de Maio de 2026
-=======
-**Versão 1.3** — 27 de Maio de 2026
->>>>>>> c33522679f2cb06e1940d06b2da1180b03c1448c
+
+**Versão 1.4** — Atualizado em 18 de Julho de 2026
 
 ### 1. Princípios Gerais
 - h1 = Título completo do livro
@@ -25,23 +22,7 @@
 
 ### 3. Prefixos de Âncoras para Referências Cruzadas
 
-<<<<<<< HEAD
-### 4. Prefixos de Âncoras para Referências Cruzadas
-
-Para links **entre livros**, use os seguintes prefixos:
-
-- LDE → `lde-q`
-- LDM → `ldm-m` (m = médiuns)
-- ESE → `ese-e`
-- CEU → `ceu-c`
-- GEN → `gen-g`
-
-Veja o documento completo de convenções em [cross-reference.md](./cross-reference.md), incluindo a **regra oficial de normalização** de âncoras para termos do Índice Geral.
-
----
-=======
-Os prefixos abaixo são usados **principalmente para links entre livros**. Para links internos ao mesmo livro, prefere-se a forma curta (ver seção de convenções de links).
->>>>>>> c33522679f2cb06e1940d06b2da1180b03c1448c
+Os prefixos abaixo são usados **principalmente para links entre livros**. Para links internos ao mesmo livro, prefere-se a forma curta (ver [cross-reference.md](./cross-reference.md)).
 
 - **LDE**: `lde-q`
 - **LDM**: `ldm-m` (m = médiuns)
@@ -55,6 +36,8 @@ Exemplos de âncoras completas para cross-book:
 - `ese-e-153`
 - `ceu-c-247`
 - `gen-g-089`
+
+Veja o documento completo de convenções em [cross-reference.md](./cross-reference.md), incluindo a **regra oficial de normalização** de âncoras para termos do Índice Geral.
 
 ### 4. Numeração e Romanos
 
@@ -72,3 +55,15 @@ Cada termo principal do Índice Geral (H6) recebe uma âncora baseada na palavra
 - `Allan Kardec` → `{#allan-kardec}`
 
 Ver documento completo em [cross-reference.md](./cross-reference.md).
+
+### 6. Ordem editorial vs PDF de referência
+
+- A ordem de leitura no Markdown pode diferir da ordem do PDF de referência (ex.: LDE pré-textual: Prefácio/Prolegômenos antes da Introdução).
+- Marcadores `[]{#page-N}` referem-se à **página N do PDF canônico**, não à ordem de scroll do MD.
+- PDFs de trabalho (H2 reordenados) são apenas auxílio de edição; o PDF canônico em `books/pdf/` permanece a autoridade de numeração.
+
+### 7. Fonte canônica de edição
+
+- **Editar**: `books/md/<livro>/partial/` + `books/md/shared/`
+- **Publicar / consumir (app)**: `books/md/<livro>/full/*-full.md` gerado por `scripts/concat-all.sh`
+- Campanhas de marcação de páginas podem usar o full temporariamente; em seguida `scripts/split-all.sh` devolve o conteúdo aos partials (após o round-trip de shared estar correto).

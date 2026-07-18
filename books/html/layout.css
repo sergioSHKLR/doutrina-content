@@ -1,0 +1,295 @@
+/* 🏛️ BOOK CANVAS GRID SIMULATION */
+body {
+  font-family: 'Baskerville', 'Adobe Garamond Pro', 'Garamond', 'Georgia', serif !important;
+  font-size: 11.5pt !important;
+  line-height: 1.55 !important;
+  color: #1a1a1a !important;
+  max-width: 560px !important;
+  margin: 60px auto !important;
+  padding: 40px 50px !important;
+  background-color: #fdfcf7 !important;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.05) !important;
+  border: 1px solid #f1ebd9 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Helvetica Neue', 'Arial', sans-serif !important;
+  font-weight: bold !important;
+  color: #222 !important;
+  margin-top: 1.8em !important;
+  margin-bottom: 0.8em !important;
+  text-indent: 0 !important;
+}
+
+h1 {
+  text-align: center !important;
+  text-transform: uppercase !important;
+}
+
+h2 {
+  text-align: center !important;
+}
+
+p {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  text-indent: 1.25cm !important;
+  display: block !important;
+}
+
+p.no-indent-lowercase,
+li p,
+.bible p,
+.spirit p,
+.kardec p {
+  text-indent: 0 !important;
+}
+
+h1+p,
+h2+p,
+h3+p,
+h4+p,
+h5+p,
+div+p,
+hr+p,
+span+p {
+  text-indent: 0 !important;
+}
+
+strong,
+b,
+p strong,
+h1 strong,
+div strong {
+  font-weight: bold !important;
+  display: inline !important;
+}
+
+em,
+i,
+p em,
+div em {
+  font-style: italic !important;
+  display: inline !important;
+}
+
+ol,
+ul {
+  padding-left: 1.25cm !important;
+  text-align: justify !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+}
+
+li {
+  margin-bottom: 0.4em !important;
+  text-align: justify !important;
+}
+
+.pdf-page-marker-inline {
+  display: block !important;
+  text-align: center !important;
+  margin: 35px 0 20px -1.25cm !important;
+  clear: both !important;
+  text-indent: 0 !important;
+}
+
+.pdf-page-marker-inline::before {
+  content: "" !important;
+  display: block !important;
+  height: 1px !important;
+  background-image: linear-gradient(to right, rgba(216, 206, 178, 0), rgba(216, 206, 178, 0.8), rgba(216, 206, 178, 0)) !important;
+  margin-bottom: 8px !important;
+}
+
+/* 🏛️ MESSAGES FROM SPIRITS BLOCKS STYLE */
+.spirit {
+  background-color: #f4f7f9 !important;
+  border-left: 3.5px solid #4a90e2 !important;
+  padding: 14px 20px !important;
+  margin: 18px 0 !important;
+  font-style: italic !important;
+  text-indent: 0 !important;
+  text-align: justify !important;
+}
+
+.spirit p {
+  text-indent: 0 !important;
+  margin-bottom: 0.5em !important;
+  text-align: justify !important;
+}
+
+/* 🏛️ UPDATED: KARDEC COMMENTARY BLOCKS STYLE (GRAY & WHITESMOKE) */
+.kardec {
+  background-color: #f5f5f5 !important;
+  /* whitesmoke fill tint */
+  border-left: 3.5px solid #7f8c8d !important;
+  /* solid slate gray margin border */
+  padding: 14px 20px !important;
+  margin: 18px 0 !important;
+  text-indent: 0 !important;
+  text-align: justify !important;
+  /* forces clean alignment text justification */
+}
+
+.kardec p {
+  text-indent: 0 !important;
+  margin-bottom: 0.5em !important;
+  text-align: justify !important;
+}
+
+/* 📖 BIBLICAL QUOTES BOXES STYLE */
+.bible {
+  background-color: #fbf8fa !important;
+  border-left: 3.5px solid #8e44ad !important;
+  padding: 14px 20px !important;
+  margin: 18px 0 !important;
+  text-indent: 0 !important;
+  text-align: justify !important;
+}
+
+.bible p {
+  text-indent: 0 !important;
+  margin-bottom: 0.5em !important;
+  color: #222222 !important;
+  text-align: justify !important;
+}
+
+.expand {
+  border: 1px solid #e6dfcb;
+  padding: 12px;
+  border-radius: 4px;
+  background-color: #faf8f2;
+  margin: 15px 0;
+  text-indent: 0;
+}
+
+.center {
+  text-align: center !important;
+  display: block !important;
+  text-indent: 0 !important;
+}
+
+.box {
+  border: 1px solid #dcd5c0;
+  padding: 15px;
+  background-color: #fff;
+  text-indent: 0;
+}
+
+.box-title {
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #7f8c8d;
+  font-family: sans-serif;
+  font-size: 9pt;
+  text-transform: uppercase;
+}
+
+.hide-metadata-box {
+  display: none !important;
+}
+
+/* 📝 FOOTNOTE SUPERSCRIPT REFERENCE STYLING */
+.footnote-ref a {
+  color: #e74c3c !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+  font-size: 0.85em !important;
+}
+
+/* =============================================================================
+   🏛️ PROPRIEDADES DE DIAGRAMAÇÃO DO BLOCO CENTRALIZADO EMBUTIDO (::: center)
+   ============================================================================= */
+.center {
+  text-align: center !important;
+  display: block !important;
+  text-indent: 0 !important;
+
+  /* 🚀 FORÇA O NAVEGADOR A RESPEITAR AS QUEBRAS DE LINHA ORIGINAIS */
+  white-space: pre-wrap !important;
+
+  /* Envelopamento em caixa cinza-clara elegante */
+  background-color: #fcfcf9 !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 6px !important;
+  padding: 25px 30px !important;
+  margin: 25px 0 !important;
+}
+
+/* Força absolutely TODOS os parágrafos e elementos internos a centralizarem e perderem o recuo */
+.center p {
+  text-align: center !important;
+  text-indent: 0 !important;
+  margin-bottom: 0.6em !important;
+}
+
+.center p:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* Mantém os negritos e links dentro da caixa centralizada com alta visibilidade */
+.center strong,
+.center b {
+  font-weight: bold !important;
+}
+
+.center a {
+  color: #2980b9 !important;
+  text-decoration: underline !important;
+}
+
+/* Garante que os parágrafos internos também herdem a quebra e centralização */
+.center p {
+  text-align: center !important;
+  text-indent: 0 !important;
+  margin-bottom: 0 !important;
+  white-space: pre-wrap !important;
+}
+
+.center img,
+.embedded-book-graphic {
+  max-width: 80% !important;
+  /* Safely sizes the vine emblem to a readable book scale */
+  height: auto !important;
+  display: block !important;
+  margin: 20px auto !important;
+  /* Perfect vertical block centering */
+
+  /* 🚀 CRITICAL OVERRIDE: Tells the layout box to treat the image tag as an
+       isolated object, preventing pre-wrap from forcing an overflow drift */
+  white-space: normal !important;
+}
+
+/* =============================================================================
+   📝 FOOTNOTE SUPERSCRIPT REFERENCE STYLING (CLASSIC PRINT LOOK)
+   ============================================================================= */
+.footnote-ref,
+.footnote-ref a {
+  color: #1a1a1a !important;
+  /* 👈 Drops web-red for authentic body text black */
+  font-weight: normal !important;
+  /* 👈 Strips heavy bold styling */
+  font-style: normal !important;
+  /* 👈 Ensures the numbers remain completely upright */
+  text-decoration: none !important;
+  /* 👈 Hides any distracting web underlines */
+  font-size: 0.75em !important;
+  /* 👈 Sets a compact, traditional print scale */
+  vertical-align: super !important;
+  /* 👈 Perfectly aligns them above the baseline */
+  margin-left: 1px !important;
+  /* 👈 Tight spacing padding against punctuation */
+}
+
+/* Subtle accent shift only when a scholar hovers over it with a mouse cursor */
+.footnote-ref a:hover {
+  color: #4a90e2 !important;
+  text-decoration: underline !important;
+}
