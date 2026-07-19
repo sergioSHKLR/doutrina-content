@@ -1,6 +1,6 @@
 # Estilo de Marcação para a Coleção Digital Espírita (dc)
 
-**Versão 1.4** — Atualizado em 18 de Julho de 2026
+**Versão 1.5** — Atualizado em 19 de Julho de 2026
 
 ### 1. Princípios Gerais
 - h1 = Título completo do livro
@@ -59,7 +59,7 @@ Ver documento completo em [cross-reference.md](./cross-reference.md).
 ### 6. Ordem editorial vs PDF de referência
 
 - A ordem de leitura no Markdown pode diferir da ordem do PDF de referência (ex.: LDE pré-textual: Prefácio/Prolegômenos antes da Introdução).
-- Marcadores `[]{#page-N}` referem-se à **página N do PDF canônico**, não à ordem de scroll do MD.
+- Marcadores `[]{#page-N}` referem-se à **página N do PDF canônico** (colocados no **início** do texto dessa página), não à ordem de scroll do MD.
 - PDFs de trabalho (H2 reordenados) são apenas auxílio de edição; o PDF canônico em `books/pdf/` permanece a autoridade de numeração.
 
 ### 7. Fonte canônica de edição

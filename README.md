@@ -59,29 +59,35 @@ reports/                  # Saídas de auditoria
 - A ordem editorial do MD pode diferir do PDF (ex.: LDE Prefácio antes da Introdução).
 - No leitor: navegação principal = ordem do MD; “página do PDF” = salto para `#page-N`.
 
-## Verificação HTML (fidelidade) — LDE
+## Marcação de páginas + preview (LDE)
+
+**Primary workflow (manual):** three-pane tool — PDF | MD | HTML.
 
 ```bash
-source venv/bin/activate   # ou: pip install -r requirements.txt
+source venv/bin/activate   # or: pip install -r requirements.txt
+./venv/bin/python scripts/lde/preview_tool/server.py
+# → http://127.0.0.1:8765/
+```
+
+Select text in the PDF → Find in MD → Insert page# (` []{#page-N} `; book page = PDF file − 1). Details: [scripts/lde/HOWTO-page-anchors.md](./scripts/lde/HOWTO-page-anchors.md).
+
+HTML-only re-render:
+
+```bash
 python3 scripts/lde/render_md_to_html.py
 # → books/html/1-lde-text-rendered.html  (+ layout.css)
 ```
 
-Auditorias multi-livro:
+Audits:
 
 ```bash
 python3 scripts/audit_links.py books/md/1-lde/full/1-lde-full.md
 python3 scripts/check_block_closures.py books/md/1-lde/full/1-lde-full.md
 python3 scripts/validate_book.py books/md/1-lde/full/1-lde-full.md 1019
+python3 scripts/lde/qa_page_anchors.py --parts 1,2,3,4,5
 ```
 
-HTML com TOC (LDE; requer `pandoc`):
-
-```bash
-./scripts/lde/pandoc-html.sh
-```
-
-Ver também [scripts/README.md](./scripts/README.md).
+See also [scripts/README.md](./scripts/README.md).
 
 ## Documentação
 

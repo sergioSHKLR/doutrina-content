@@ -1,5 +1,16 @@
 # LDE work / snapshots
 
-Arquivos temporários ou snapshots durante campanhas (ex.: marcação de páginas).
+| File | Role |
+|------|------|
+| `1-lde-master.md` | Old experiment snapshot (grid-like markers — **not** trusted as PDF-true) |
+| `1-lde-full.md` | **Edit via** `books/md/1-lde/full/1-lde-full.md` (canonical working full) |
 
-**Não é a fonte canônica.** Edite `partial/`; publique via `full/` gerado por `scripts/concat-all.sh`.
+## Manual page anchors (in progress)
+
+- **Part 0** (pp. 1–55): redo manually (PDF side-by-side / three-pane tool).
+- **Parts 1–5**: partial auto + manual polish via preview tool.
+- **Part 6**: later.
+
+Tool: `./venv/bin/python scripts/lde/preview_tool/server.py` → http://127.0.0.1:8765/
+
+Convention: ` []{#page-N} ` (spaces both sides); book page N = PDF file page − 1 in the tool.
