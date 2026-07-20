@@ -1,4 +1,4 @@
-/* LDE manual mark tool: PDF (select) | MD | HTML — find helpers */
+/* LDE manual mark tool: PDF | MD | HTML — layout presets + page sync */
 
 (() => {
   "use strict";
@@ -19,12 +19,28 @@
   const pageJump = $("pageJump");
   const pdfPageLabel = $("pdfPageLabel");
   const pdfZoomLabel = $("pdfZoomLabel");
+  const mdZoomLabel = $("mdZoomLabel");
+  const htmlZoomLabel = $("htmlZoomLabel");
   const searchBox = $("searchBox");
   const findMeta = $("findMeta");
+  const layoutSelect = $("layoutSelect");
+  const syncToggle = $("syncToggle");
+  const syncMeta = $("syncMeta");
+  const brandTitle = $("brandTitle");
+  const paneMd = $("paneMd");
+  const paneHtml = $("paneHtml");
+
+  const LS_LAYOUT = "lde-preview-layout";
+  const LS_SYNC = "lde-preview-sync";
+  const LS_MD_ZOOM = "lde-preview-md-zoom";
+  const LS_HTML_ZOOM = "lde-preview-html-zoom";
+  const LAYOUTS = new Set(["mark", "verify-l", "verify-r"]);
 
   let pdfDoc = null;
   let pdfPage = 1; // PDF.js file page (1-based)
   let pdfZoom = 1; // user zoom multiplier on top of fit-width base
+  let mdZoom = 1;
+  let htmlZoom = 1;
   const ZOOM_MIN = 0.5;
   const ZOOM_MAX = 3;
   const ZOOM_STEP = 0.15;
@@ -33,6 +49,14 @@
   let rendering = false;
   let pendingPage = null;
   let renderTimer = null;
+
+  /** Page-level PDF ↔ HTML (and MD jump) sync */
+  let syncByPage = false;
+  let syncLock = false; // prevent feedback loops
+  let htmlScrollHandler = null;
+  let htmlScrollTimer = null;
+  let htmlWheelHandler = null;
+  let layoutMode = "mark";
 
   /** Logical page used in []{#page-N} and the Page box */
   function logicalPage(filePage = pdfPage) {
@@ -123,6 +147,7 @@
     pdfPage = Math.min(pdfPage, pdfDoc.numPages) || 1;
     syncPageJumpUi(pdfPage);
     await renderPdfPage(pdfPage);
+    if (syncByPage) propagateFromPdf();
     setStatus(
       `PDF ready · file ${pdfDoc.numPages} pp · book page = file−${PAGE_NUM_OFFSET} · select text to search`,
       "ok"
@@ -193,26 +218,289 @@
     }
   }
 
-  /** Go to PDF.js file page (1-based) */
-  function goPdfFilePage(fileNum) {
+  /**
+   * Go to PDF.js file page (1-based).
+   * @param {number} fileNum
+   * @param {{ fromSync?: boolean }} [opts] fromSync=true when driven by HTML scroll
+   */
+  function goPdfFilePage(fileNum, opts = {}) {
     if (!pdfDoc) return;
     const p = Math.max(1, Math.min(pdfDoc.numPages, fileNum));
-    renderPdfPage(p).catch((e) => setStatus(e.message, "err"));
+    const fromSync = !!opts.fromSync;
+    renderPdfPage(p)
+      .then(() => {
+        if (syncByPage && !fromSync && !syncLock) {
+          propagateFromPdf();
+        }
+      })
+      .catch((e) => setStatus(e.message, "err"));
   }
 
   /** Go to logical/book page (Page box / []{#page-N}) */
-  function goPdfLogicalPage(logicalNum) {
-    goPdfFilePage(filePageFromLogical(logicalNum));
+  function goPdfLogicalPage(logicalNum, opts = {}) {
+    goPdfFilePage(filePageFromLogical(logicalNum), opts);
+  }
+
+  function updateSyncMeta() {
+    if (!syncMeta) return;
+    if (!syncByPage) {
+      syncMeta.textContent = "sync off";
+      return;
+    }
+    const n = logicalPage();
+    syncMeta.textContent = n >= 1 ? `sync · p.${n}` : "sync · cover";
+  }
+
+  /** PDF page changed → scroll HTML #page-N and MD []{#page-N} */
+  function propagateFromPdf() {
+    const n = logicalPage();
+    if (n < 1) {
+      updateSyncMeta();
+      return;
+    }
+    syncLock = true;
+    scrollHtmlToPage(n);
+    scrollMdToPage(n);
+    updateSyncMeta();
+    window.setTimeout(() => {
+      syncLock = false;
+    }, 180);
+  }
+
+  function scrollHtmlToPage(logical) {
+    const doc = htmlFrame.contentDocument;
+    const win = htmlFrame.contentWindow;
+    if (!doc || !win) return false;
+    const el =
+      doc.getElementById(`page-${logical}`) ||
+      doc.querySelector(`.pdf-page-start[data-page="${logical}"]`);
+    if (!el) {
+      if (syncMeta) syncMeta.textContent = `sync · no #page-${logical}`;
+      return false;
+    }
+    el.scrollIntoView({ block: "start", behavior: "auto" });
+    return true;
+  }
+
+  function scrollMdToPage(logical) {
+    if (!editor) return false;
+    const needle = `[]{#page-${logical}}`;
+    const idx = editor.value.indexOf(needle);
+    if (idx < 0) return false;
+    // Don't steal focus while verifying in HTML/PDF
+    const hadFocus = document.activeElement === editor;
+    mdSelStart = idx;
+    mdSelEnd = idx + needle.length;
+    editor.setSelectionRange(idx, idx + needle.length);
+    scrollTextareaToIndex(editor, idx, "top");
+    if (hadFocus) editor.focus();
+    return true;
+  }
+
+  function detachHtmlScrollSync() {
+    const win = htmlFrame.contentWindow;
+    if (win && htmlScrollHandler) {
+      win.removeEventListener("scroll", htmlScrollHandler);
+    }
+    if (win && htmlWheelHandler) {
+      win.removeEventListener("wheel", htmlWheelHandler);
+    }
+    htmlScrollHandler = null;
+    htmlWheelHandler = null;
+    if (htmlScrollTimer) {
+      clearTimeout(htmlScrollTimer);
+      htmlScrollTimer = null;
+    }
+  }
+
+  /** Ctrl+wheel inside the iframe (events don't bubble to parent) */
+  function attachHtmlWheelZoom() {
+    const win = htmlFrame.contentWindow;
+    const doc = htmlFrame.contentDocument;
+    if (!win || !doc) return;
+    if (htmlWheelHandler) {
+      win.removeEventListener("wheel", htmlWheelHandler);
+    }
+    htmlWheelHandler = (ev) => {
+      if (!(ev.ctrlKey || ev.metaKey)) return;
+      ev.preventDefault();
+      if (ev.deltaY < 0) setHtmlZoom(htmlZoom + ZOOM_STEP);
+      else setHtmlZoom(htmlZoom - ZOOM_STEP);
+    };
+    win.addEventListener("wheel", htmlWheelHandler, { passive: false });
+  }
+
+  /** HTML scroll → PDF (and MD) when the topmost visible page marker changes */
+  function attachHtmlScrollSync() {
+    detachHtmlScrollSync();
+    const win = htmlFrame.contentWindow;
+    const doc = htmlFrame.contentDocument;
+    if (!win || !doc || !doc.body) return;
+
+    htmlScrollHandler = () => {
+      if (!syncByPage || syncLock || !pdfDoc) return;
+      if (htmlScrollTimer) clearTimeout(htmlScrollTimer);
+      htmlScrollTimer = setTimeout(() => {
+        if (!syncByPage || syncLock) return;
+        const markers = doc.querySelectorAll(".pdf-page-start[data-page]");
+        if (!markers.length) return;
+        // Marker whose top is at or above ~12% of the iframe viewport
+        const threshold = win.innerHeight * 0.12;
+        let current = null;
+        for (const el of markers) {
+          const top = el.getBoundingClientRect().top;
+          if (top <= threshold) current = el;
+          else break;
+        }
+        if (!current) current = markers[0];
+        const n = parseInt(current.getAttribute("data-page"), 10);
+        if (!n || Number.isNaN(n)) return;
+        if (n === logicalPage()) {
+          updateSyncMeta();
+          return;
+        }
+        syncLock = true;
+        goPdfFilePage(filePageFromLogical(n), { fromSync: true });
+        scrollMdToPage(n);
+        updateSyncMeta();
+        window.setTimeout(() => {
+          syncLock = false;
+        }, 200);
+      }, 90);
+    };
+
+    win.addEventListener("scroll", htmlScrollHandler, { passive: true });
+  }
+
+  function applyLayout(mode, { persist = true, userAction = false } = {}) {
+    const next = LAYOUTS.has(mode) ? mode : "mark";
+    layoutMode = next;
+    document.body.dataset.layout = next;
+    if (layoutSelect && layoutSelect.value !== next) layoutSelect.value = next;
+
+    if (brandTitle) {
+      brandTitle.textContent =
+        next === "mark" ? "LDE mark" : "LDE verify";
+    }
+
+    // Verify modes: prefer sync on (first time / when user switches)
+    if (userAction && next.startsWith("verify") && syncToggle && !syncToggle.checked) {
+      syncToggle.checked = true;
+      setSyncByPage(true, { persist: true, quiet: true });
+    }
+
+    if (persist) {
+      try {
+        localStorage.setItem(LS_LAYOUT, next);
+      } catch {
+        /* ignore */
+      }
+    }
+
+    // Re-fit PDF to new pane width
+    if (pdfDoc) {
+      renderPdfPage(pdfPage).catch(() => {});
+    }
+    if (userAction) {
+      setStatus(
+        next === "mark"
+          ? "Layout: Mark (PDF · MD · HTML)"
+          : next === "verify-l"
+            ? "Layout: Verify L (MD · PDF · HTML)"
+            : "Layout: Verify R (PDF · HTML · MD)",
+        "ok"
+      );
+    }
+  }
+
+  function setSyncByPage(on, { persist = true, quiet = false } = {}) {
+    syncByPage = !!on;
+    if (syncToggle) syncToggle.checked = syncByPage;
+    updateSyncMeta();
+    if (persist) {
+      try {
+        localStorage.setItem(LS_SYNC, syncByPage ? "1" : "0");
+      } catch {
+        /* ignore */
+      }
+    }
+    if (syncByPage && pdfDoc) {
+      propagateFromPdf();
+    }
+    if (!quiet) {
+      setStatus(syncByPage ? "Sync by page ON (PDF ↔ HTML ↔ MD)" : "Sync by page OFF", "ok");
+    }
+  }
+
+  function clampZoom(next) {
+    return Math.round(Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, next)) * 100) / 100;
   }
 
   function setPdfZoom(next) {
-    const z = Math.round(Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, next)) * 100) / 100;
+    const z = clampZoom(next);
     if (z === pdfZoom) return;
     pdfZoom = z;
     if (pdfZoomLabel) pdfZoomLabel.textContent = `${Math.round(pdfZoom * 100)}%`;
     if (pdfDoc) {
       renderPdfPage(pdfPage).catch((e) => setStatus(e.message, "err"));
     }
+  }
+
+  function setMdZoom(next, { persist = true } = {}) {
+    const z = clampZoom(next);
+    mdZoom = z;
+    if (mdZoomLabel) mdZoomLabel.textContent = `${Math.round(mdZoom * 100)}%`;
+    if (editor) editor.style.setProperty("--md-zoom", String(mdZoom));
+    if (persist) {
+      try {
+        localStorage.setItem(LS_MD_ZOOM, String(mdZoom));
+      } catch {
+        /* ignore */
+      }
+    }
+  }
+
+  function applyHtmlZoomToFrame() {
+    const doc = htmlFrame.contentDocument;
+    if (!doc) return;
+    const root = doc.documentElement;
+    const body = doc.body;
+    // `zoom` works in Chromium; also set font-size scale fallback via transform on body
+    if (root) root.style.zoom = String(htmlZoom);
+    if (body && !("zoom" in root.style)) {
+      body.style.transformOrigin = "0 0";
+      body.style.transform = htmlZoom === 1 ? "" : `scale(${htmlZoom})`;
+      body.style.width = htmlZoom === 1 ? "" : `${100 / htmlZoom}%`;
+    }
+  }
+
+  function setHtmlZoom(next, { persist = true } = {}) {
+    const z = clampZoom(next);
+    htmlZoom = z;
+    if (htmlZoomLabel) htmlZoomLabel.textContent = `${Math.round(htmlZoom * 100)}%`;
+    applyHtmlZoomToFrame();
+    if (persist) {
+      try {
+        localStorage.setItem(LS_HTML_ZOOM, String(htmlZoom));
+      } catch {
+        /* ignore */
+      }
+    }
+  }
+
+  /** Ctrl/Cmd + wheel over a pane → zoom that pane */
+  function bindCtrlWheelZoom(el, getZoom, setZoom) {
+    if (!el) return;
+    el.addEventListener(
+      "wheel",
+      (ev) => {
+        if (!(ev.ctrlKey || ev.metaKey)) return;
+        ev.preventDefault();
+        if (ev.deltaY < 0) setZoom(getZoom() + ZOOM_STEP);
+        else setZoom(getZoom() - ZOOM_STEP);
+      },
+      { passive: false }
+    );
   }
 
   // Capture PDF selection → search box
@@ -515,12 +803,25 @@
     const t0 = performance.now();
     try {
       clearHtmlMarks();
+      detachHtmlScrollSync();
       const { html } = await apiPost("/api/render", { markdown: editor.value });
       htmlFrame.srcdoc = html;
       await new Promise((res) => {
         htmlFrame.onload = res;
         setTimeout(res, 400);
       });
+      applyHtmlZoomToFrame();
+      attachHtmlWheelZoom();
+      attachHtmlScrollSync();
+      if (syncByPage && pdfDoc) {
+        // Align HTML to current PDF page after re-render
+        syncLock = true;
+        scrollHtmlToPage(logicalPage());
+        window.setTimeout(() => {
+          syncLock = false;
+        }, 180);
+      }
+      updateSyncMeta();
       setStatus(`HTML rendered in ${Math.round(performance.now() - t0)} ms`, "ok");
     } catch (e) {
       setStatus(`Render error: ${e.message}`, "err");
@@ -534,6 +835,41 @@
 
   // --- Init ---
   async function init() {
+    // Restore layout + sync + zoom prefs
+    let savedLayout = "mark";
+    let savedSync = null;
+    let savedMdZoom = null;
+    let savedHtmlZoom = null;
+    try {
+      savedLayout = localStorage.getItem(LS_LAYOUT) || "mark";
+      savedSync = localStorage.getItem(LS_SYNC);
+      savedMdZoom = localStorage.getItem(LS_MD_ZOOM);
+      savedHtmlZoom = localStorage.getItem(LS_HTML_ZOOM);
+    } catch {
+      /* ignore */
+    }
+    applyLayout(savedLayout, { persist: false, userAction: false });
+    // Default: sync ON for verify presets, OFF for mark (unless user saved a choice)
+    if (savedSync === "1") setSyncByPage(true, { persist: false, quiet: true });
+    else if (savedSync === "0") setSyncByPage(false, { persist: false, quiet: true });
+    else setSyncByPage(layoutMode.startsWith("verify"), { persist: false, quiet: true });
+
+    const mdZ = savedMdZoom != null ? parseFloat(savedMdZoom) : 1;
+    const htmlZ = savedHtmlZoom != null ? parseFloat(savedHtmlZoom) : 1;
+    setMdZoom(Number.isFinite(mdZ) ? mdZ : 1, { persist: false });
+    setHtmlZoom(Number.isFinite(htmlZ) ? htmlZ : 1, { persist: false });
+
+    if (layoutSelect) {
+      layoutSelect.addEventListener("change", () => {
+        applyLayout(layoutSelect.value, { persist: true, userAction: true });
+      });
+    }
+    if (syncToggle) {
+      syncToggle.addEventListener("change", () => {
+        setSyncByPage(syncToggle.checked, { persist: true, quiet: false });
+      });
+    }
+
     const defaults = await apiGet("/api/defaults");
     mdPathEl.value = defaults.md_path;
     pdfSelect.innerHTML = "";
@@ -556,17 +892,18 @@
     $("btnZoomOut").onclick = () => setPdfZoom(pdfZoom - ZOOM_STEP);
     $("btnZoomReset").onclick = () => setPdfZoom(1);
 
-    // Ctrl/Cmd + wheel over PDF pane zooms
-    pdfScroll.addEventListener(
-      "wheel",
-      (ev) => {
-        if (!(ev.ctrlKey || ev.metaKey)) return;
-        ev.preventDefault();
-        if (ev.deltaY < 0) setPdfZoom(pdfZoom + ZOOM_STEP);
-        else setPdfZoom(pdfZoom - ZOOM_STEP);
-      },
-      { passive: false }
-    );
+    $("btnMdZoomIn").onclick = () => setMdZoom(mdZoom + ZOOM_STEP);
+    $("btnMdZoomOut").onclick = () => setMdZoom(mdZoom - ZOOM_STEP);
+    $("btnMdZoomReset").onclick = () => setMdZoom(1);
+
+    $("btnHtmlZoomIn").onclick = () => setHtmlZoom(htmlZoom + ZOOM_STEP);
+    $("btnHtmlZoomOut").onclick = () => setHtmlZoom(htmlZoom - ZOOM_STEP);
+    $("btnHtmlZoomReset").onclick = () => setHtmlZoom(1);
+
+    // Ctrl/Cmd + wheel over each pane zooms that pane
+    bindCtrlWheelZoom(pdfScroll, () => pdfZoom, setPdfZoom);
+    bindCtrlWheelZoom(paneMd || editor, () => mdZoom, setMdZoom);
+    bindCtrlWheelZoom(paneHtml || htmlFrame, () => htmlZoom, setHtmlZoom);
     pageJump.addEventListener("change", () =>
       goPdfLogicalPage(parseInt(pageJump.value, 10) || logicalPage())
     );
@@ -682,19 +1019,47 @@
 
     editor.addEventListener("input", scheduleRender);
 
-    // Keys when not typing in inputs
-    document.addEventListener("keydown", (ev) => {
-      const tag = (ev.target && ev.target.tagName) || "";
-      if (tag === "TEXTAREA" || tag === "INPUT") return;
+    /**
+     * PDF page navigation shortcuts.
+     * - Alt+← / Alt+→ (or Alt+PageUp/PageDown): always, even while typing in MD
+     * - ← / → / PageUp / PageDown / [ / ]: when focus is not in an input/textarea
+     * (HTML iframe steals keys when focused — click the PDF pane or use Alt+arrows.)
+     */
+    function isTypingTarget(el) {
+      if (!el || el === document.body) return false;
+      const tag = (el.tagName || "").toUpperCase();
+      if (tag === "TEXTAREA" || tag === "INPUT" || tag === "SELECT") return true;
+      if (el.isContentEditable) return true;
+      return false;
+    }
+
+    function pdfPageKeyHandler(ev) {
       if (!pdfDoc) return;
-      if (ev.key === "ArrowRight" || ev.key === "PageDown") {
+      if (ev.altKey && !ev.ctrlKey && !ev.metaKey) {
+        if (ev.key === "ArrowRight" || ev.key === "PageDown") {
+          ev.preventDefault();
+          goPdfFilePage(pdfPage + 1);
+          return;
+        }
+        if (ev.key === "ArrowLeft" || ev.key === "PageUp") {
+          ev.preventDefault();
+          goPdfFilePage(pdfPage - 1);
+          return;
+        }
+      }
+      if (isTypingTarget(ev.target)) return;
+      if (ev.ctrlKey || ev.metaKey || ev.altKey) return;
+      if (ev.key === "ArrowRight" || ev.key === "PageDown" || ev.key === "]") {
         ev.preventDefault();
         goPdfFilePage(pdfPage + 1);
-      } else if (ev.key === "ArrowLeft" || ev.key === "PageUp") {
+      } else if (ev.key === "ArrowLeft" || ev.key === "PageUp" || ev.key === "[") {
         ev.preventDefault();
         goPdfFilePage(pdfPage - 1);
       }
-    });
+    }
+
+    // Capture phase: Alt+arrows still fire when focus is in MD or other panes
+    document.addEventListener("keydown", pdfPageKeyHandler, true);
 
     await loadMd();
     await loadPdf(pdfSelect.value);

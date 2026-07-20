@@ -10,6 +10,7 @@
   --find: #ffd43b;
   --font: "IBM Plex Sans", system-ui, sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, monospace;
+  --cols: 1fr 1fr 1fr;
 }
 
 * { box-sizing: border-box; }
@@ -32,10 +33,10 @@ html, body {
   border-bottom: 1px solid var(--border);
 }
 
-/* Same 3-column grid as .panes so search sits over PDF, buttons over MD */
+/* Same 3-column grid + order as .panes (layout presets) */
 .findbar {
   display: grid;
-  grid-template-columns: 1.15fr 1fr 1fr;
+  grid-template-columns: var(--cols);
   gap: 0;
   align-items: center;
   padding: 0;
@@ -56,17 +57,8 @@ html, body {
 
 .findbar-col:last-child { border-right: none; }
 
-.findbar-search {
-  /* width = PDF pane */
-}
-
 .findbar-actions {
   flex-wrap: wrap;
-  /* sits over MD pane */
-}
-
-.findbar-side {
-  /* over HTML pane — reserved */
 }
 
 .field.stack {
@@ -100,6 +92,20 @@ html, body {
   letter-spacing: 0.06em;
 }
 
+.field.check {
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 0.78rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.field.check input {
+  width: auto;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
 .field input[type="text"] {
   width: min(22vw, 260px);
   font-size: 0.8rem;
@@ -117,6 +123,13 @@ html, body {
   border: 1px solid var(--border);
   border-radius: 4px;
   padding: 0.35rem 0.5rem;
+}
+
+#layoutSelect {
+  min-width: 11rem;
+  max-width: min(28vw, 16rem);
+  text-transform: none;
+  letter-spacing: 0;
 }
 
 #searchBox {
@@ -139,6 +152,12 @@ button {
 
 button:hover { border-color: var(--accent); color: var(--accent); }
 button.primary { border-color: var(--accent); color: var(--accent); }
+
+body[data-layout^="verify"] #btnInsertPage.primary {
+  /* De-emphasize insert in verify modes */
+  border-color: var(--border);
+  color: var(--muted);
+}
 
 .status {
   margin-left: auto;
@@ -166,28 +185,28 @@ button.primary { border-color: var(--accent); color: var(--accent); }
   margin-left: 0.35rem;
 }
 
-.pdf-zoom-controls {
+.zoom-controls {
   display: flex;
   align-items: center;
   gap: 0.35rem;
+  flex-shrink: 0;
 }
 
-.pdf-zoom-controls button {
+.zoom-controls button {
   min-width: 1.75rem;
   padding: 0.2rem 0.4rem;
   font-size: 0.85rem;
   line-height: 1.1;
 }
 
-#pdfZoomLabel {
+.zoom-label {
   min-width: 2.75rem;
   text-align: center;
 }
 
 .panes {
   display: grid;
-  /* Must match .findbar columns */
-  grid-template-columns: 1.15fr 1fr 1fr;
+  grid-template-columns: var(--cols);
   height: calc(100% - 108px);
   min-height: 0;
 }
@@ -199,7 +218,41 @@ button.primary { border-color: var(--accent); color: var(--accent); }
   min-height: 0;
   border-right: 1px solid var(--border);
 }
-.pane:last-child { border-right: none; }
+
+/* ——— Layout presets (CSS order; findbar tracks PDF / MD / HTML roles) ——— */
+
+/* Mark: PDF | MD | HTML */
+body[data-layout="mark"] {
+  --cols: 1fr 1fr 1fr;
+}
+body[data-layout="mark"] #panePdf,
+body[data-layout="mark"] .findbar-search { order: 1; }
+body[data-layout="mark"] #paneMd,
+body[data-layout="mark"] .findbar-actions { order: 2; }
+body[data-layout="mark"] #paneHtml,
+body[data-layout="mark"] .findbar-side { order: 3; }
+
+/* Verify L: MD | PDF | HTML */
+body[data-layout="verify-l"] {
+  --cols: 1fr 1fr 1fr;
+}
+body[data-layout="verify-l"] #paneMd,
+body[data-layout="verify-l"] .findbar-actions { order: 1; }
+body[data-layout="verify-l"] #panePdf,
+body[data-layout="verify-l"] .findbar-search { order: 2; }
+body[data-layout="verify-l"] #paneHtml,
+body[data-layout="verify-l"] .findbar-side { order: 3; }
+
+/* Verify R: PDF | HTML | MD */
+body[data-layout="verify-r"] {
+  --cols: 1fr 1fr 1fr;
+}
+body[data-layout="verify-r"] #panePdf,
+body[data-layout="verify-r"] .findbar-search { order: 1; }
+body[data-layout="verify-r"] #paneHtml,
+body[data-layout="verify-r"] .findbar-side { order: 2; }
+body[data-layout="verify-r"] #paneMd,
+body[data-layout="verify-r"] .findbar-actions { order: 3; }
 
 .pane-head {
   flex: 0 0 auto;
@@ -226,7 +279,8 @@ button.primary { border-color: var(--accent); color: var(--accent); }
   background: #121316;
   color: #e7e7e7;
   font-family: var(--mono);
-  font-size: 12px;
+  /* Zoom via --md-zoom (set by app.js); base 12px */
+  font-size: calc(12px * var(--md-zoom, 1));
   line-height: 1.45;
   tab-size: 2;
   white-space: pre-wrap;
@@ -300,14 +354,29 @@ button.primary { border-color: var(--accent); color: var(--accent); }
 
 /* Highlight mark inside HTML iframe is injected as mark.find-hit */
 @media (max-width: 1100px) {
+  body {
+    --cols: 1fr !important;
+  }
   .findbar {
     grid-template-columns: 1fr;
   }
-  .findbar-col { border-right: none; border-bottom: 1px solid var(--border); }
+  .findbar-col {
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    order: unset !important;
+  }
   .panes {
     grid-template-columns: 1fr;
     grid-template-rows: 42vh 32vh 32vh;
     height: auto;
   }
-  .pane { border-right: none; border-bottom: 1px solid var(--border); }
+  .pane {
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    order: unset !important;
+  }
+  /* Stack: PDF, then HTML, then MD on narrow screens in verify */
+  body[data-layout^="verify"] #panePdf { order: 1 !important; }
+  body[data-layout^="verify"] #paneHtml { order: 2 !important; }
+  body[data-layout^="verify"] #paneMd { order: 3 !important; }
 }

@@ -173,13 +173,15 @@ Optional TOC build (requires `pandoc`):
 
 ---
 
-## 5. Three-pane preview tool (MD · HTML · PDF)
+## 5. Three-pane preview tool (PDF · MD · HTML)
 
-Local web UI with three columns:
+Local web UI with three columns and **layout presets**:
 
-1. **Markdown** editor (load/save working full MD)  
-2. **HTML** preview via the same processor as `render_md_to_html.py`  
-3. **PDF** viewer (PDF.js) — canonical or `books/pdf/work/1-lde/part-*.pdf`
+| Layout | Columns | Use |
+|--------|---------|-----|
+| **Mark** | PDF · MD · HTML | Place `[]{#page-N}` (default) |
+| **Verify L** | MD · PDF · HTML | Fidelity check; MD narrow on the left |
+| **Verify R** | PDF · HTML · MD | Fidelity check; MD narrow on the right |
 
 ```bash
 cd ~/doutrina-content
@@ -187,13 +189,15 @@ cd ~/doutrina-content
 # open http://127.0.0.1:8765/
 ```
 
-**Scroll sync:** checkbox “Sync by page” aligns all three on **PDF page number** (`[]{#page-N}` / `#page-N` / PDF.js page), not pixel-perfect free scroll. That is the reliable model for this project.
+**Toolbar:** Layout select + **Sync by page** (persisted in `localStorage`).
+
+**Scroll sync:** page-level only — book page N everywhere (`[]{#page-N}` / `#page-N` / PDF.js logical page), not pixel-perfect free scroll.
 
 | Sync type | Doable? |
 |-----------|---------|
 | Pixel scroll MD ↔ HTML ↔ PDF | No (different heights/layouts) |
-| **Page-based** (page N everywhere) | **Yes** — implemented |
-| Jump box / ← → keys on PDF | Yes |
+| **Page-based** (page N everywhere) | **Yes** — Sync by page |
+| Jump box / ← → / Alt+←→ / [ ] on PDF | Yes |
 
 See `scripts/lde/preview_tool/`.
 

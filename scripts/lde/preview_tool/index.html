@@ -7,9 +7,25 @@
   <link rel="stylesheet" href="/app.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
 </head>
-<body>
+<body data-layout="mark">
   <header class="toolbar">
-    <div class="brand">LDE mark</div>
+    <div class="brand" id="brandTitle">LDE mark</div>
+
+    <label class="field" title="Column layout preset">
+      Layout
+      <select id="layoutSelect">
+        <option value="mark">Mark — PDF · MD · HTML</option>
+        <option value="verify-l">Verify L — MD · PDF · HTML</option>
+        <option value="verify-r">Verify R — PDF · HTML · MD</option>
+      </select>
+    </label>
+
+    <label class="field check" title="Keep PDF and HTML on the same book page N (page-level, not pixel scroll)">
+      <input id="syncToggle" type="checkbox" />
+      Sync by page
+    </label>
+
+    <span class="sep"></span>
 
     <label class="field">
       PDF
@@ -19,8 +35,8 @@
       Page
       <input id="pageJump" type="number" min="0" step="1" value="0" />
     </label>
-    <button type="button" id="btnPrev" title="Previous page">←</button>
-    <button type="button" id="btnNext" title="Next page">→</button>
+    <button type="button" id="btnPrev" title="Previous PDF page (← / [ / Alt+←)">←</button>
+    <button type="button" id="btnNext" title="Next PDF page (→ / ] / Alt+→)">→</button>
     <button type="button" id="btnJump">Go</button>
 
     <span class="sep"></span>
@@ -36,7 +52,7 @@
     <span id="status" class="status"></span>
   </header>
 
-  <!-- Aligned to panes: search = PDF width; actions sit over MD column -->
+  <!-- Columns reordered with panes via CSS order (same preset) -->
   <div class="findbar">
     <div class="findbar-col findbar-search">
       <label class="field stack">
@@ -55,19 +71,19 @@
       <span id="findMeta" class="muted"></span>
     </div>
     <div class="findbar-col findbar-side">
-      <!-- sits over HTML column; room for status of find -->
+      <span id="syncMeta" class="muted"></span>
     </div>
   </div>
 
   <main class="panes">
     <section class="pane" id="panePdf">
       <div class="pane-head">
-        <span>1 · PDF <span class="hint">— select text, then Find in MD</span></span>
-        <span class="pdf-zoom-controls">
-          <button type="button" id="btnZoomOut" title="Zoom out">−</button>
-          <span id="pdfZoomLabel" class="muted">100%</span>
-          <button type="button" id="btnZoomIn" title="Zoom in">+</button>
-          <button type="button" id="btnZoomReset" title="Reset zoom">100%</button>
+        <span>PDF <span class="hint">— ←→ / [] / Alt+←→ · select text → Find in MD</span></span>
+        <span class="zoom-controls">
+          <button type="button" id="btnZoomOut" title="PDF zoom out (Ctrl+wheel)">−</button>
+          <span id="pdfZoomLabel" class="muted zoom-label">100%</span>
+          <button type="button" id="btnZoomIn" title="PDF zoom in (Ctrl+wheel)">+</button>
+          <button type="button" id="btnZoomReset" title="Reset PDF zoom">100%</button>
           <span id="pdfPageLabel" class="muted"></span>
         </span>
       </div>
@@ -81,16 +97,26 @@
 
     <section class="pane" id="paneMd">
       <div class="pane-head">
-        <span>2 · Markdown</span>
-        <span class="hint">Find in MD steps to next match each click</span>
+        <span>Markdown <span class="hint">— Find steps next match · Ctrl+wheel zoom</span></span>
+        <span class="zoom-controls">
+          <button type="button" id="btnMdZoomOut" title="MD zoom out (Ctrl+wheel)">−</button>
+          <span id="mdZoomLabel" class="muted zoom-label">100%</span>
+          <button type="button" id="btnMdZoomIn" title="MD zoom in (Ctrl+wheel)">+</button>
+          <button type="button" id="btnMdZoomReset" title="Reset MD zoom">100%</button>
+        </span>
       </div>
       <textarea id="editor" spellcheck="false" wrap="soft"></textarea>
     </section>
 
     <section class="pane" id="paneHtml">
       <div class="pane-head">
-        <span>3 · HTML preview</span>
-        <span class="hint">Find in HTML uses the rendered body</span>
+        <span>HTML preview <span class="hint">— #page-N · sync · Ctrl+wheel zoom</span></span>
+        <span class="zoom-controls">
+          <button type="button" id="btnHtmlZoomOut" title="HTML zoom out (Ctrl+wheel)">−</button>
+          <span id="htmlZoomLabel" class="muted zoom-label">100%</span>
+          <button type="button" id="btnHtmlZoomIn" title="HTML zoom in (Ctrl+wheel)">+</button>
+          <button type="button" id="btnHtmlZoomReset" title="Reset HTML zoom">100%</button>
+        </span>
       </div>
       <iframe id="htmlFrame" title="HTML preview" sandbox="allow-same-origin allow-scripts"></iframe>
     </section>

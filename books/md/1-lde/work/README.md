@@ -13,4 +13,7 @@
 
 Tool: `./venv/bin/python scripts/lde/preview_tool/server.py` → http://127.0.0.1:8765/
 
+**Layouts:** Mark (PDF·MD·HTML) · Verify L (MD·PDF·HTML) · Verify R (PDF·HTML·MD).  
+**Sync by page** keeps PDF / HTML / MD on the same book page N.
+
 Convention: ` []{#page-N} ` (spaces both sides); book page N = PDF file page − 1 in the tool.
