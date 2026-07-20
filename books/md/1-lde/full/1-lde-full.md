@@ -5005,7 +5005,6 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
 
  ##### #️⃣ Q.225 {#lde-q225} 
 
-
  A erraticidade é, por si só, um sinal de inferioridade dos Espíritos?
 
 ::: spirit
@@ -5418,7 +5417,6 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
 ::: spirit
  ✨ — Veem por si mesmos, sem precisarem de luz exterior. Para os Espíritos, não há trevas, salvo as em que podem achar-se por expiação.
 ::: 
-
 
 ::: expand 📑 Termos relacionados
  - 🔖 [Espírito(s)](#lde-espiritos)
@@ -7072,7 +7070,6 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
 
  Que utilidade encontrará um Espírito na sua encarnação em um corpo que morre poucos dias depois de nascido? 
 
-
 ::: spirit
  ✨ — O ser não tem então consciência plena da sua existência. Assim, a importância da morte é quase nenhuma. Conforme já dissemos, o que há nesses casos de morte prematura é uma prova para os pais.
 :::
@@ -7899,7 +7896,6 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
  - 🔖 [Mundos habitados](#lde-mundos-habitados)
  - 🔖 [Vidas passadas](#lde-vidas-passadas)
 ::: 
-
 
  ##### #️⃣ Q.395 {#lde-q395}
 
@@ -12441,7 +12437,6 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
  - 🔖 [Perdão](#lde-perdao)
 ::: 
 
-
  ##### #️⃣ Q.662 {#lde-q662}
 
  Pode-se, com utilidade, orar por outrem?
@@ -13284,7 +13279,6 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
  ##### #️⃣ Q.711 {#lde-q711}
 
  O uso dos bens da Terra é um direito de todos os homens? 
-
 
 ::: spirit
  ✨ — Esse direito é consequente da necessidade de viver. Deus não imporia um dever sem dar ao homem o meio de cumpri-lo.
@@ -14421,7 +14415,6 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
  #### 3.08.01. 📄 Estado de natureza {#lde-3-08-01}
 
  ↩️ Voltar para [3.08. 🗂️ Lei do progresso](#lde-3-08) 
-
 
  ##### #️⃣ Q.776 {#lde-q776}
 
@@ -16614,7 +16607,6 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
 
  ##### #️⃣ Q.900 {#lde-q900} 
 
-
  Aquele que incessantemente acumula haveres, sem fazer o bem a quem quer que seja, achará desculpa, que valha, na circunstância de acumular com o fito de maior soma legar aos seus herdeiros?
 
 ::: spirit
@@ -17869,7 +17861,6 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
 
  #### 4.02.04. 📄 Natureza das penas e gozos futuros {#lde-4-02-04} 
 
-
  ↩️ Voltar para [4.02. 🗂️ Penas e felicidades futuras](#lde-4-02)
 
  ##### #️⃣ Q.965 {#lde-q965}
@@ -19081,8 +19072,6 @@ Esta edição é oferecida gratuitamente para fins de estudo e divulgação da D
 
 ### 6.01. 📄 Nota explicativa {#lde-6-01}
 
-↩️ Voltar para [6. 🗃️ Pós-textual](#lde-6)
-
 Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
 
 ::: kardec
@@ -19146,7 +19135,9 @@ Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progres
 Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes.
 
 📓 *Revista Espírita*, Junho, 1867, p.231
-:::::: kardec
+:::
+
+::: kardec
 🎓 — Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade.
 
 🌱 A Gênese, cap. 1, item 36
@@ -23527,3 +23518,4 @@ Muitas respostas análogas foram dadas por outros Espíritos e o fato nada apres
 [^26]: N.E.: Ver [Nota explicativa](#lde-6-01)
 
 ↩️ Voltar para [6. 🗃️ Pós-textual](#lde-6)
+

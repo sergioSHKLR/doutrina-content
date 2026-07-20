@@ -1,6 +1,6 @@
 # Estilo de Marcação para a Coleção Digital Espírita (dc)
 
-**Versão 1.5** — Atualizado em 19 de Julho de 2026
+**Versão 1.6** — Atualizado em 20 de Julho de 2026
 
 ### 1. Princípios Gerais
 - h1 = Título completo do livro
@@ -59,11 +59,13 @@ Ver documento completo em [cross-reference.md](./cross-reference.md).
 ### 6. Ordem editorial vs PDF de referência
 
 - A ordem de leitura no Markdown pode diferir da ordem do PDF de referência (ex.: LDE pré-textual: Prefácio/Prolegômenos antes da Introdução).
-- Marcadores `[]{#page-N}` referem-se à **página N do PDF canônico** (colocados no **início** do texto dessa página), não à ordem de scroll do MD.
+- Marcadores `[]{#page-N}`: no fluxo LDE/tool, **N = página do livro = página de arquivo do PDF − 1** (capa/folha inicial), colocados no **início** do texto dessa página — não na ordem de scroll do MD.
+- Preferir espaços: ` []{#page-N} `.
+- Blocos **shared** (`avisos-legais`, `nota-explicativa`) **não** levam `[]{#page-N}` (números são por livro); marcadores de fronteira ficam no partial do livro.
 - PDFs de trabalho (H2 reordenados) são apenas auxílio de edição; o PDF canônico em `books/pdf/` permanece a autoridade de numeração.
 
 ### 7. Fonte canônica de edição
 
-- **Editar**: `books/md/<livro>/partial/` + `books/md/shared/`
+- **Editar**: `books/md/<livro>/partial/` + `books/md/shared/` (`<!-- INSERT_SHARED:… -->`)
 - **Publicar / consumir (app)**: `books/md/<livro>/full/*-full.md` gerado por `scripts/concat-all.sh`
-- Campanhas de marcação de páginas podem usar o full temporariamente; em seguida `scripts/split-all.sh` devolve o conteúdo aos partials (após o round-trip de shared estar correto).
+- Campanhas de páginas no full: depois `split` de volta aos partials e `concat` para validar o round-trip.

@@ -55,13 +55,14 @@ reports/                  # Saídas de auditoria
 []{#page-17}
 ```
 
-- `N` = página do **PDF canônico**, não da ordem de scroll do MD.
+- LDE tool: **N = página de livro = arquivo PDF − 1**; não a ordem de scroll do MD.
 - A ordem editorial do MD pode diferir do PDF (ex.: LDE Prefácio antes da Introdução).
+- Shared (`avisos-legais`, `nota-explicativa`) sem `[]{#page-N}`.
 - No leitor: navegação principal = ordem do MD; “página do PDF” = salto para `#page-N`.
 
 ## Marcação de páginas + preview (LDE)
 
-**Primary workflow (manual):** three-pane tool — PDF | MD | HTML.
+**Primary workflow:** three-pane tool — layouts Mark / Verify L / Verify R + sync by page.
 
 ```bash
 source venv/bin/activate   # or: pip install -r requirements.txt

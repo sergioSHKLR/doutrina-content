@@ -100,16 +100,19 @@ Goal: physical PDF page anchors in source MD so doutrina.org / librus can offer 
 - [x] **Repo hygiene (2026-07-18)** — Resolve merge conflicts in `style-guide.md` / `cross-reference.md`; document partials+shared as edit SoT and full as publish artifact; tree cleanup.
 - [x] **Tooling layout** — Multi-book scripts under `scripts/`; LDE-only under `scripts/lde/`; retired tools under `scripts/used/` (+ `used/lde/`).
 - [x] **HTML verification renderer** — `scripts/lde/md_render.py` + `render_md_to_html.py` + detached `books/html/layout.css`.
-- [x] **Page marker convention** — `[]{#page-N}` (prefer ` []{#page-N} ` with spaces) = page N of the **canonical** PDF; LDE Prefácio may precede Introdução in MD order.
+- [x] **Page marker convention** — `[]{#page-N}` (prefer ` []{#page-N} ` with spaces); LDE tool: book page N = PDF **file − 1**; Prefácio may precede Introdução in MD order.
 - [x] **LDE working PDF parts** — Local split under `books/pdf/work/1-lde/` (`part-0`…`part-6`). `*.pdf` gitignored.
 - [x] **Auto-insert experiments (2026-07-19)** — First-words PDF matching with quote/punct/hyphen normalize + sequential QA (`insert_page_anchors.py`, `qa_page_anchors.py`, `page_anchor_exceptions.py`). Useful but incomplete; false TOC hits taught hard lessons (cursor poison, grid-era markers untrusted).
-- [x] **Three-pane manual mark tool (2026-07-19)** — `scripts/lde/preview_tool/` (PDF select → Find in MD/HTML → Insert page#; book page = file−1; zoom; port free on start). Primary workflow for finishing anchors.
-- [ ] **Manual LDE page anchors** — Part 0 redo; continue 1–5 polish; part 6 later. Then split → partials when ready.
-- [ ] Fix concat/split shared wrap (`START_SHARED` / `END_SHARED`) for safe full ↔ partial round-trip.
+- [x] **Three-pane manual mark tool (2026-07-19)** — `scripts/lde/preview_tool/` (PDF select → Find in MD/HTML → Insert page#; book page = file−1; zoom; port free on start).
+- [x] **Verify layouts + page sync (2026-07-20)** — Mark / Verify L / Verify R presets; Sync by page (PDF ↔ HTML `#page-N` ↔ MD); MD/HTML zoom.
+- [x] **Manual LDE page anchors complete (2026-07-20)** — Unique `[]{#page-N}` for book pages **1–482** (omit blank 478–481 inside shared Nota; keep 477/482 boundaries). Link/footnote QA clean.
+- [x] **Shared Legal/Nota book-agnostic** — Strip LDE-only page anchors from `nota-explicativa.md`; `INSERT_SHARED` restored in LDE partials 00/06.
+- [x] **LDE split + concat round-trip (2026-07-20)** — Normalized H2 (no leading space); split 00–06; concat injects shared; block/link/Q validators pass.
 - [ ] Extend page markers + work PDFs to LDM, ESE, CEU, GEN.
-- [ ] Reader UX: jump to `#page-N` + optional open canonical PDF at N.
+- [ ] Reader UX: jump to `#page-N` + optional open canonical PDF at N (doutrina.org / 11ty toolbar).
+- [ ] Optional: formalize START_SHARED/END_SHARED if split must extract shared automatically (today: INSERT_SHARED in partials + manual restore after full campaigns).
 
-**Docs bump (2026-07-19):** `style-guide.md` → **v1.5**; `cross-reference.md` → **v1.4**.
+**Docs bump (2026-07-20):** `style-guide.md` → **v1.6**; `cross-reference.md` → **v1.5**.
 
 ## Phase 7: Completion & Future Horizons (Planned)
 
@@ -126,7 +129,7 @@ Goal: physical PDF page anchors in source MD so doutrina.org / librus can offer 
 
 - Git histories (all four local repos): first commits, commit messages containing "scrap", "anchor", "índice", "sync", "11ty", "modular", daily snapshots.
 - `doutrina-content/scrap.md` (May 27 2026) + `reports/` fidelity artifacts (historical; later cleaned).
-- `doutrina-content/style-guide.md` v1.5 (19 Jul 2026) and `cross-reference.md` v1.4.
+- `doutrina-content/style-guide.md` v1.6 (20 Jul 2026) and `cross-reference.md` v1.5.
 - `doutrina-11ty/doutrina_modular_plan.pdf` and commit messages around Eleventy setup + content syncs.
 - Filesystem timestamps on root-level full MD snapshots (2026-05-24) and current `books/md/*/full/*.md`.
 - Embedded "MD Quality & Fidelity Checklist" inside `1-lde-full.md`.
@@ -138,8 +141,8 @@ Goal: physical PDF page anchors in source MD so doutrina.org / librus can offer 
 
 **This document itself is a living artifact.** Update it whenever a new major phase completes or when more early history surfaces from backups or memory. The real measure of progress remains the same as in March 2023: producing the highest-fidelity, most study-worthy digital versions of these five books possible.
 
-**Next immediate actions (as of 2026-07-19):**  
-Continue **manual** LDE page anchors via `scripts/lde/preview_tool/server.py` (part 0 redo, polish 1–5, then 6). Auto-insert is helper-only. Later: shared concat/split round-trip; Índice audit; other books.
+**Next immediate actions (as of 2026-07-20):**  
+Ship LDE full to doutrina.org / linker; reader toolbar PDF page nav (`#page-N`). Then page markers for other books; Índice audit D–Z; optional START_SHARED automation.
 
 ### Future Improvement: Short Machine Codex (3-5 char alphanumeric)
 

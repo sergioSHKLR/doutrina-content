@@ -1,6 +1,6 @@
 # Convenções de Referências Cruzadas (Cross-References)
 
-**Versão 1.4** — 19 de Julho de 2026
+**Versão 1.5** — 20 de Julho de 2026
 
 Este documento define a convenção oficial para criar links dentro de um mesmo livro e entre os cinco livros da coleção, com foco em âncoras limpas e consistentes.
 
@@ -94,9 +94,10 @@ Ver também [Q.400](#q-400) acima.
 []{#page-17}
 ```
 
-- `N` é a página do **PDF canônico** em `books/pdf/`.
+- No fluxo LDE/tool: **N = página de livro = página de arquivo do PDF − 1** (canônico em `books/pdf/`).
 - O marcador fica no **início** (topo lógico) do texto da página N — antes das primeiras palavras dessa página no MD.
-- O HTML de verificação ainda desenha o número no **rodapé visual** do bloco da página (entre `#page-N` e `#page-N+1`).
+- Preferir ` []{#page-N} `; blocos **shared** não carregam marcadores de página.
+- O HTML de verificação desenha o número no **rodapé visual** do bloco (entre `#page-N` e `#page-N+1`).
 - Podem ser não monotônicos na ordem de leitura do MD (ex.: Prefácio com páginas posteriores à Introdução no PDF).
 - Destinam-se à navegação “página do PDF” no leitor (doutrina.org / librus), não à paginação automática do HTML.
 
