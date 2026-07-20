@@ -690,7 +690,7 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
 
 []{#page-53}
 
- ## 1. 🗃️ Causas primárias {#lde-1}
+## 1. 🗃️ Causas primárias {#lde-1}
 
 ::: expand Índice dos Capítulos
  - 🔖 [1.01. 🗂️ Deus](#lde-1-01)
@@ -2024,7 +2024,7 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
 
 []{#page-83}
 
- ## 2. 🗃️ Mundo espiritual {#lde-2}
+## 2. 🗃️ Mundo espiritual {#lde-2}
 
 ::: expand Índice dos Capítulos
  - 🔖 [2.01. 🗂️ Espíritos](#lde-2-01)
@@ -11669,7 +11669,7 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
 
  []{#page-293} 
 
- ## 3. 🗃️ Leis morais {#lde-3}
+## 3. 🗃️ Leis morais {#lde-3}
 
 ::: expand Índice dos Capítulos
  - 🔖 [3.01. 🗂️ Lei divina](#lde-3-01)
@@ -16989,7 +16989,7 @@ Tal, entretanto, não se dá. Quando se lhes demonstra, até a evidência, que c
 
  []{#page-411} 
 
- ## 4. 🗃️ Esperanças e Consolações {#lde-4}
+## 4. 🗃️ Esperanças e Consolações {#lde-4}
 
 ::: expand Índice dos Capítulos
  - 🔖 [4.01. 🗂️ Penas e felicidades materiais](#lde-4-01)
