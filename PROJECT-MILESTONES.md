@@ -103,11 +103,12 @@ Goal: physical PDF page anchors in source MD so doutrina.org / librus can offer 
 - [x] **Page marker convention** — `[]{#page-N}` (prefer ` []{#page-N} ` with spaces); LDE tool: book page N = PDF **file − 1**; Prefácio may precede Introdução in MD order.
 - [x] **LDE working PDF parts** — Local split under `books/pdf/work/1-lde/` (`part-0`…`part-6`). `*.pdf` gitignored.
 - [x] **Auto-insert experiments (2026-07-19)** — First-words PDF matching with quote/punct/hyphen normalize + sequential QA (`insert_page_anchors.py`, `qa_page_anchors.py`, `page_anchor_exceptions.py`). Useful but incomplete; false TOC hits taught hard lessons (cursor poison, grid-era markers untrusted).
-- [x] **Three-pane manual mark tool (2026-07-19)** — `scripts/lde/preview_tool/` (PDF select → Find in MD/HTML → Insert page#; book page = file−1; zoom; port free on start).
+- [x] **Three-pane manual mark tool (2026-07-19)** — Originally `scripts/lde/preview_tool/`; now multi-book at `scripts/preview_tool/` (PDF select → Find in MD/HTML → Insert page#; book page = file−offset; zoom; port free on start).
 - [x] **Verify layouts + page sync (2026-07-20)** — Mark / Verify L / Verify R presets; Sync by page (PDF ↔ HTML `#page-N` ↔ MD); MD/HTML zoom.
 - [x] **Manual LDE page anchors complete (2026-07-20)** — Unique `[]{#page-N}` for book pages **1–482** (omit blank 478–481 inside shared Nota; keep 477/482 boundaries). Link/footnote QA clean.
 - [x] **Shared Legal/Nota book-agnostic** — Strip LDE-only page anchors from `nota-explicativa.md`; `INSERT_SHARED` restored in LDE partials 00/06.
 - [x] **LDE split + concat round-trip (2026-07-20)** — Normalized H2 (no leading space); split 00–06; concat injects shared; block/link/Q validators pass.
+- [x] **Multi-book preview tool (2026-07-26)** — `scripts/preview_tool/` serves LDE/LDM/ESE/CEU/GEN (book switcher, per-book MD/PDF/work PDFs/`page_offset`); legacy shim at `scripts/lde/preview_tool/server.py`.
 - [ ] Extend page markers + work PDFs to LDM, ESE, CEU, GEN.
 - [ ] Reader UX: jump to `#page-N` + optional open canonical PDF at N (doutrina.org / 11ty toolbar).
 - [ ] Optional: formalize START_SHARED/END_SHARED if split must extract shared automatically (today: INSERT_SHARED in partials + manual restore after full campaigns).

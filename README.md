@@ -1,6 +1,16 @@
-# Doutrina Content
+# doutrina-content
 
-Repositório **exclusivamente de conteúdo** (Markdown fonte) das Obras Básicas de Allan Kardec, para consumo pelo pipeline de doutrina.org / leitor librus.app.
+Repositório **exclusivamente de conteúdo** (Markdown fonte) das Obras Básicas de Allan Kardec.
+
+Editorial source only — not the SPA. Downstream: **`librus-linker`** (optional inject) → **`librus-shell`** (reader) → published hosts **`doutrina`** / **`librus`** / `center-*`.
+
+| Repo | Role |
+|------|------|
+| **doutrina-content** | This repo — MD / QA / PDF pipeline |
+| **librus-linker** | Provider link injection |
+| **librus-shell** | Multi-flavor reader SPA |
+| **librus** / **doutrina** | Published site hosts (`dist` only) |
+| `center-*` | Center manual + `flavor.json` |
 
 ## Árvore
 
@@ -60,17 +70,18 @@ reports/                  # Saídas de auditoria
 - Shared (`avisos-legais`, `nota-explicativa`) sem `[]{#page-N}`.
 - No leitor: navegação principal = ordem do MD; “página do PDF” = salto para `#page-N`.
 
-## Marcação de páginas + preview (LDE)
+## Marcação de páginas + preview (all 5 books)
 
-**Primary workflow:** three-pane tool — layouts Mark / Verify L / Verify R + sync by page.
+**Primary workflow:** three-pane tool — Book select + layouts Mark / Verify L / Verify R + sync by page.
 
 ```bash
 source venv/bin/activate   # or: pip install -r requirements.txt
-./venv/bin/python scripts/lde/preview_tool/server.py
-# → http://127.0.0.1:8765/
+./venv/bin/python scripts/preview_tool/server.py
+# → http://127.0.0.1:8765/          (default LDE)
+# → http://127.0.0.1:8765/?book=ldm
 ```
 
-Select text in the PDF → Find in MD → Insert page# (` []{#page-N} `; book page = PDF file − 1). Details: [scripts/lde/HOWTO-page-anchors.md](./scripts/lde/HOWTO-page-anchors.md).
+Select text in the PDF → Find in MD → Insert page# (` []{#page-N} `; book page = PDF file − offset). Details: [scripts/preview_tool/README.md](./scripts/preview_tool/README.md), [scripts/lde/HOWTO-page-anchors.md](./scripts/lde/HOWTO-page-anchors.md).
 
 HTML-only re-render:
 

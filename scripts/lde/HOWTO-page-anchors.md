@@ -185,11 +185,13 @@ Local web UI with three columns and **layout presets**:
 
 ```bash
 cd ~/doutrina-content
-./venv/bin/python scripts/lde/preview_tool/server.py
-# open http://127.0.0.1:8765/
+./venv/bin/python scripts/preview_tool/server.py
+# open http://127.0.0.1:8765/          (all 5 books; default LDE)
+# open http://127.0.0.1:8765/?book=ldm
+# legacy path still works: scripts/lde/preview_tool/server.py
 ```
 
-**Toolbar:** Layout select + **Sync by page** (persisted in `localStorage`).
+**Toolbar:** **Book** select + Layout + **Sync by page** (persisted in `localStorage`).
 
 **Scroll sync:** page-level only — book page N everywhere (`[]{#page-N}` / `#page-N` / PDF.js logical page), not pixel-perfect free scroll.
 
@@ -199,7 +201,7 @@ cd ~/doutrina-content
 | **Page-based** (page N everywhere) | **Yes** — Sync by page |
 | Jump box / ← → / Alt+←→ / [ ] on PDF | Yes |
 
-See `scripts/lde/preview_tool/`.
+See [`scripts/preview_tool/`](../preview_tool/).
 
 ## 6. Dependencies
 

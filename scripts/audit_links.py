@@ -8,7 +8,7 @@ import re
 
 if len(sys.argv) < 2:
     print("❌ Erro: Forneça o caminho do arquivo Markdown.")
-    print("Exemplo: python3 scripts/audit_links.py books/md/1-lde/full/1-lde-full.md")
+    print("Exemplo: python3 scripts/audit_links.py books/1-lde.md")
     sys.exit(1)
 
 FILE_PATH = sys.argv[1]

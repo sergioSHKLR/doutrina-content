@@ -1,71 +1,115 @@
 # Estilo de Marcação para a Coleção Digital Espírita (dc)
 
-**Versão 1.6** — Atualizado em 20 de Julho de 2026
+**Versão 2.0** — 26 de Julho de 2026
 
 ### 1. Princípios Gerais
-- h1 = Título completo do livro
-- h2 = Partes / Pré-textual / Pós-textual
-- h3 = Capítulos
-- h4 = Seções / Tópicos principais (agrupamentos)
-- **h5 = Unidade principal de conteúdo** (Questões no LDE, parágrafos numerados, itens principais)
-- **h6 = Termos de Índice / Referências Cruzadas** (exclusivo para Índice Geral)
 
-### 2. Hierarquia por Livro
+- **h1** = Título do livro (um por obra)
+- **h2** = Partes / caixas grandes (Pré-textual, divisões, Pós-textual)
+- **h3** = Capítulos / pastas
+- **h4** = Seções (folhas múltiplas)
+- **h5** = Unidade enumerada de conteúdo (maior volume de headings no livro)
+- **h6** = Termos do **Índice Geral** apenas
 
-**LDE – O Livro dos Espíritos**
-- H5 = Questões (Q.1 a Q.1019)
-- H6 = Índice completo (648 termos)
+Não usar prefixos numéricos de outline nos títulos (`0.`, `1.05.`, `0.04.01.`).  
+Números de trabalho (questões, itens) ficam no texto do H5 com #️⃣.
 
-**LDM, ESE, CEU, GEN**
-- H5 = Parágrafos / Itens principais
-- H6 = Índice (placeholder até expansão completa)
+### 2. Escada de emojis
 
-### 3. Prefixos de Âncoras para Referências Cruzadas
+| Nível | Papel | Emoji padrão |
+|------:|-------|----------------|
+| H1 | Identidade da obra | **Por livro:** LDE ✨ · LDM ✒️ · ESE 🕊️ · CEU 🔥 · GEN 🌱 |
+| H2 | Caixa | 🗃️ |
+| H3 | Pasta | 🗂️ |
+| H4 | Folhas (conjunto) | 📑 |
+| H5 | Unidade (#) | #️⃣ |
+| H6 | Índice (marcador) | 🔖 |
 
-Os prefixos abaixo são usados **principalmente para links entre livros**. Para links internos ao mesmo livro, prefere-se a forma curta (ver [cross-reference.md](./cross-reference.md)).
+**Exceções de H3 (papel semântico):**
 
-- **LDE**: `lde-q`
-- **LDM**: `ldm-m` (m = médiuns)
-- **ESE**: `ese-e`
-- **CEU**: `ceu-c`
-- **GEN**: `gen-g`
+| Emoji | Uso |
+|-------|-----|
+| 📋 | Sumário |
+| ⚖️ | Avisos legais |
+| 📝 | Notas (rodapé / nota de seção; mesmo espírito das notas de rodapé) |
 
-Exemplos de âncoras completas para cross-book:
-- `lde-q-847`
-- `ldm-m-142`
-- `ese-e-153`
-- `ceu-c-247`
-- `gen-g-089`
+**H5 notas:** 📝 (não #️⃣), p.ex. `##### 📝 Nota`.
 
-Veja o documento completo de convenções em [cross-reference.md](./cross-reference.md), incluindo a **regra oficial de normalização** de âncoras para termos do Índice Geral.
+Fillers de hierarquia (evitar saltos de nível) são headings reais e **entram no codex serial**.
 
-### 4. Numeração e Romanos
+### 3. Codex serial de âncoras (máquina)
 
-- Substituímos algarismos romanos por arábicos em todo o conteúdo e índices, **exceto** em títulos pessoais/históricos (ex: "São Luís, IX de França" mantém o IX).
-- O método de endereçamento do Índice Geral original determina diretamente como criamos as âncoras (ver cross-reference.md).
+Formato: **`{letra}{nnnn}`** — sempre 4 dígitos, zeros à esquerda.
 
-### 5. Âncoras nos Termos do Índice Geral (H6)
+| Letra | Livro |
+|-------|--------|
+| `s` | LDE (*Espíritos*; evita `l` confuso com `1`) |
+| `m` | LDM |
+| `e` | ESE |
+| `c` | CEU |
+| `g` | GEN |
 
-Cada termo principal do Índice Geral (H6) recebe uma âncora baseada na palavra principal, sem diacríticos e em minúsculas:
+**Regra de atribuição**
 
-- `Aberração` → `{#aberracao}`
-- `Ação` → `{#acao}`
-- `Além-túmulo` → `{#alem-tumulo}`
-- `Agostinho, Santo` → `{#agostinho-santo}`
-- `Allan Kardec` → `{#allan-kardec}`
+1. Ignorar o bloco YAML inicial `---` … `---` (não serializar `#` de metadados).
+2. Percorrer o corpo do full em ordem de documento.
+3. Cada heading ATX H1–H6 recebe o próximo inteiro: `s0001`, `s0002`, …
+4. Uma âncora por heading: `## 🗃️ Pré-textual {#s0002}`
+5. **Substituir** ids antigos (`lde-q12`, `ese-1-05-01-n03`, …); não manter dual ids.
+6. Inserir/apagar heading **renumeram** o serial a partir daí — campanhas grandes = reexecutar o migrador.
 
-Ver documento completo em [cross-reference.md](./cross-reference.md).
+Ordem de grandeza atual (fulls, pós-migração):
 
-### 6. Ordem editorial vs PDF de referência
+| Livro | ≈ último id |
+|-------|-------------|
+| LDE | `s2136` |
+| LDM | `m1902` |
+| ESE | `e1172` |
+| CEU | `c0847` |
+| GEN | `g1235` |
 
-- A ordem de leitura no Markdown pode diferir da ordem do PDF de referência (ex.: LDE pré-textual: Prefácio/Prolegômenos antes da Introdução).
-- Marcadores `[]{#page-N}`: no fluxo LDE/tool, **N = página do livro = página de arquivo do PDF − 1** (capa/folha inicial), colocados no **início** do texto dessa página — não na ordem de scroll do MD.
-- Preferir espaços: ` []{#page-N} `.
-- Blocos **shared** (`avisos-legais`, `nota-explicativa`) **não** levam `[]{#page-N}` (números são por livro); marcadores de fronteira ficam no partial do livro.
-- PDFs de trabalho (H2 reordenados) são apenas auxílio de edição; o PDF canônico em `books/pdf/` permanece a autoridade de numeração.
+**Não** codificar capítulo/questão no id. O número legível fica no título (`##### #️⃣ 12`).
 
-### 7. Fonte canônica de edição
+### 4. Unidades enumeradas (H5)
 
-- **Editar**: `books/md/<livro>/partial/` + `books/md/shared/` (`<!-- INSERT_SHARED:… -->`)
-- **Publicar / consumir (app)**: `books/md/<livro>/full/*-full.md` gerado por `scripts/concat-all.sh`
-- Campanhas de páginas no full: depois `split` de volta aos partials e `concat` para validar o round-trip.
+| Livro | Forma do título H5 |
+|-------|-------------------|
+| LDE | `##### #️⃣ 12` · variantes `##### #️⃣ 790.a` (sem `Q.`) |
+| LDM / ESE / CEU / GEN | `##### #️⃣ 3` (sem padding `03`) |
+
+### 5. Índice Geral (H6)
+
+- Sempre `###### 🔖 Termo {#s1xxx}` (ou m/e/c/g).
+- LDE: termos de índice **não** ficam em H5.
+- Normalização legada de slugs de termo (se ainda existir texto): ver [cross-reference.md](./cross-reference.md). O **id canônico** do heading é o serial.
+
+### 6. Sumário (TOC)
+
+- Bloco `::: expand` sob o H3 📋 Sumário.
+- Links **apenas H2–H4** (não H5/H6).
+- Alvos = serials novos.
+
+### 7. Marcadores de página do PDF
+
+```markdown
+ []{#page-N} 
+```
+
+- **N** = página de livro = página de arquivo do PDF − offset (LDE/tool: offset 1).
+- Shared (`avisos-legais`, `nota-explicativa`) sem `[]{#page-N}`.
+- Independentes do codex serial de headings.
+
+### 8. Fonte canônica de edição
+
+- **Editar agora (campanha codex):** `books/md/*/full/*-full.md`
+- **Depois:** `split` → partials; rotina futura: partials + shared como SoT, `concat-all.sh` para full.
+- Front matter YAML: **não alterar** nesta convenção.
+
+### 9. Script
+
+Migração / reaplicação: `scripts/migrate_heading_codex.py`  
+(Reexecutar só com backup: renumera tudo.)
+
+---
+
+Documento irmão: [cross-reference.md](./cross-reference.md).

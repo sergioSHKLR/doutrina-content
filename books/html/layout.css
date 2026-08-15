@@ -147,12 +147,10 @@ li {
   display: block !important;
   height: 2.75em !important;
   margin: 0.2em 0 1.75em 0 !important;
-  background-image: linear-gradient(
-    to right,
-    rgba(90, 80, 60, 0),
-    rgba(90, 80, 60, 0.72),
-    rgba(90, 80, 60, 0)
-  ) !important;
+  background-image: linear-gradient(to right,
+      rgba(90, 80, 60, 0),
+      rgba(90, 80, 60, 0.72),
+      rgba(90, 80, 60, 0)) !important;
   background-size: 100% 1.5px !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
@@ -219,6 +217,40 @@ li {
   background-color: #faf8f2;
   margin: 15px 0;
   text-indent: 0;
+}
+
+.foldable-section {
+  border: 1px solid #e3ddca;
+  border-radius: 6px;
+  background-color: #fcfbf7;
+  margin: 14px 0;
+  padding: 0.55rem 0.75rem 0.75rem;
+}
+
+.foldable-summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: #6f5b38;
+  list-style: none;
+}
+
+.foldable-summary::-webkit-details-marker {
+  display: none;
+}
+
+.foldable-heading>.foldable-summary {
+  font-size: 0.95em;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.foldable-block>.foldable-summary {
+  font-size: 0.9em;
+  color: #7a6a49;
+}
+
+.foldable-section[open]>.foldable-summary {
+  margin-bottom: 0.45rem;
 }
 
 .center {

@@ -1,67 +1,89 @@
 ---
-# =============================================================================
-# METADATA PRINCIPAL
-# =============================================================================
-title: "O Evangelho segundo o Espiritismo"
-subtitle: "Explicação das máximas morais de Jesus Cristo"
-description: "Aplicação dos ensinos morais do Cristo à vida real, com a concordância da moral evangélica com a Doutrina Espírita. Tradução de Guillon Ribeiro."
-
-lang: "pt-BR"
-author: "Allan Kardec"
-codifier: "Allan Kardec"
-translator: "Guillon Ribeiro"
-editor: "Federação Espírita Brasileira (FEB)"
-
-edition: "Edição Histórica da FEB"
-isbn: "978-85-7328-730-1"
-originalTitle: "L'Évangile selon le Spiritisme"
-originalPublication: "Paris, 1864"
-publicationDate: "2019"
-date: "2025-05-24"
-updated: "2025-05-24"
-
-# =============================================================================
-# LEGAL & DISCLAIMER
-# =============================================================================
-disclaimer: |
- Esta é uma edição digital educacional e gratuita destinada ao estudo da Doutrina Espírita.
- 
- A tradução de Guillon Ribeiro (falecido em 26/10/1943) encontra-se em domínio público no Brasil desde 01/01/2014 (Lei 9.610/1998).
- 
- O mantenedor deste site não detém os direitos autorais sobre a obra. Baseado na Edição Histórica da FEB.
-
-license: "Uso educacional, não-comercial e doutrinário permitido. Proibida a venda ou reprodução comercial sem autorização da FEB."
-rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Doutrina Espírita."
-
-# =============================================================================
-# TAXONOMY & ORGANIZATION
-# =============================================================================
-tags:
- - espiritismo
- - allan-kardec
- - evangelho
- - moral-cristã
- - caridade
-
+title: O Evangelho Segundo o Espiritismo
+slug: ese
+lang: pt
+author: Allan Kardec
+emoji: "🕊️"
+cover:
+  colors: ["#20B2AA","#333"]
+  angle: 135
+  icon: book-key
+license: public-domain
+copyright: "Edição de estudo; tradução Guillon Ribeiro em domínio público no Brasil"
+translator: Guillon Ribeiro
+order: 4
+abstract: "Explicação das máximas morais do Cristo à luz do Espiritismo."
 categories:
- - Obras Básicas do Espiritismo
- - Livros de Allan Kardec
+  - kardec
+  - codificação
 
-series: "Obras Básicas do Espiritismo"
-seriesPosition: 3
+## MD Quality & Fidelity Checklist (ESE)
 
-# =============================================================================
-# SITE & NAVIGATION
-# =============================================================================
-layout: "layouts/book"
-permalink: "/ese/"
+**Current Focus:** Índice Geral review (one H5/letter at a time)
 
-eleventyNavigation:
- key: "O Evangelho segundo o Espiritismo"
- parent: "Obras de Allan Kardec"
- order: 3
- title: "ESE — O Evangelho segundo o Espiritismo"
+### 1. Índice Geral Review (by Letter)
+
+- [ ] **A** — 
+- [ ] **B** — 
+- [ ] **C** — 
+- [ ] **D** — 
+- [ ] **E** — 
+- [ ] **F** — 
+- [ ] **G** — 
+- [ ] **H** — 
+- [ ] **I** — 
+- [ ] **J** — 
+- [ ] **K** — 
+- [ ] **L** — 
+- [ ] **M** — 
+- [ ] **N** — 
+- [ ] **O** — 
+- [ ] **P** — 
+- [ ] **Q** — 
+- [ ] **R** — 
+- [ ] **S** — 
+- [ ] **T** — 
+- [ ] **U** — 
+- [ ] **V** — 
+- [ ] **W** — 
+- [ ] **X** — 
+- [ ] **Y** — 
+- [ ] **Z** — 
+
+### 2. Content Fidelity (PDF vs MD)
+
+- [ ] All bold, italics, quotes, bible citations, etc
+- [ ] Jesus words are  in italics
+- [ ] Identify all bible quotes
+- [ ] Identify all spirit quotes
+- [ ] Identify all other quotes
+- [ ] All numbered paragraphs present and correctly numbered in content
+- [ ] Major structural sections present and correctly ordered (Prefácio, Introduções, Parts, Conclusão, Nota Explicativa)
+- [ ] Text fidelity spot-checks performed on sampled sections
+- [ ] Roman numerals substituted correctly (except personal/historical titles)
+- [ ] No significant missing or extra content vs source PDF
+
+### 3. Anchor & Normalization Quality
+
+- [ ] All H6 terms follow the official normalization rules (no (s), /s, diacritics in anchors)
+- [ ] Anchor style is consistent across the entire file
+- [ ] H5 content units have stable, predictable anchors
+- [ ] Cross-book linking prefixes are correctly applied where needed
+
+### 4. Index & Internal Linking Quality
+
+- [ ] All H6 terms in the Índice Geral have proper anchors
+- [ ] Links from the Índice Geral point to correct H5/H4 targets
+- [ ] No broken internal links within the index section
+- [ ] Cross-references inside the index are accurate and useful
+
+### 5. General Document Health
+
+- [ ] YAML front matter is complete and up to date
+- [ ] File builds cleanly (no major warnings)
+- [ ] No obvious formatting artifacts from PDF migration remaining
 ---
+
  []{#page-1} 
 
 # 🕊️ O Evangelho segundo o Espiritismo {#e0001}

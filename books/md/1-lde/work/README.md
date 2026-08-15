@@ -11,6 +11,6 @@
 - Shared Nota has **no** page anchors; LDE keeps `page-477` / `page-482` outside inject.
 - Edit **partials** + `shared/`; rebuild with `./scripts/concat-all.sh`.
 
-Tool: `./venv/bin/python scripts/lde/preview_tool/server.py` → http://127.0.0.1:8765/
+Tool: `./venv/bin/python scripts/preview_tool/server.py` → http://127.0.0.1:8765/?book=lde
 
 **Layouts:** Mark · Verify L · Verify R · **Sync by page** · MD/HTML/PDF zoom.

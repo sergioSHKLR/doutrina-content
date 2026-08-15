@@ -1,116 +1,95 @@
 # Convenções de Referências Cruzadas (Cross-References)
 
-**Versão 1.5** — 20 de Julho de 2026
+**Versão 2.0** — 26 de Julho de 2026
 
-Este documento define a convenção oficial para criar links dentro de um mesmo livro e entre os cinco livros da coleção, com foco em âncoras limpas e consistentes.
+## 1. Hierarquia de cabeçalhos
 
-## 1. Hierarquia de Cabeçalhos
+- **H1**: Livro (único)
+- **H2**: Partes (🗃️)
+- **H3**: Capítulos (🗂️; exceções 📋 ⚖️ 📝)
+- **H4**: Seções (📑)
+- **H5**: Unidade enumerada (#️⃣) ou nota (📝)
+- **H6**: Índice Geral (🔖)
 
-- **H1**: Livro
-- **H2**: Partes (Pré-textual, divisões doutrinárias principais, Conclusão, Pós-textual)
-- **H3**: Capítulos
-- **H4**: Seções / tópicos principais (agrupamentos)
-- **H5**: Unidade principal de conteúdo enumerada
-  - LDE → Questões (`q-XXX`)
-  - LDM → Parágrafos / itens (`m-XXX`)
-  - ESE → Itens (`e-XXX`)
-  - CEU → Exemplos / Casos (`c-XXX`)
-  - GEN → Seções (`g-XXX`)
-- **H6**: Termos do Índice Geral (camada de navegação e referências cruzadas)
+Detalhes de emoji e títulos: [style-guide.md](./style-guide.md).
 
-## 2. Prefixos Oficiais para Cross-Book
+## 2. Codex serial (canônico)
 
-Usados principalmente para links **entre livros**:
+Toda âncora de heading é:
 
-- LDE → `lde-q`
-- LDM → `ldm-m` (m = médiuns)
-- ESE → `ese-e`
-- CEU → `ceu-c`
-- GEN → `gen-g`
-
-### In-Book vs Cross-Book
-
-- **Dentro do mesmo livro**: Use a forma curta (ex: `#q-847`, `#m-142`)
-- **Entre livros**: Use o prefixo completo (ex: `lde:q-847`, `ldm:m-142`)
-
-Porque usamos o trigráfico do livro como permalink (`/lde/`, `/ldm/`, etc.), esta distinção mantém o Markdown fonte limpo e os links entre livros explícitos.
-
-## 3. Regra de Normalização de Âncoras (H6 - Índice Geral)
-
-Esta é a regra oficial para gerar âncoras de termos do Índice Geral:
-
-1. Remova emojis e símbolos iniciais (🔖, 📑, etc.).
-2. Converta para minúsculas.
-3. Remova todos os diacríticos.
-4. **Remova marcadores de plural/variante**:
-   - `(s)`, `(es)`, `(e)` → remova
-   - `/s`, `/es` → remova
-5. Substitua sequências de caracteres não alfanuméricos por um único hífen.
-6. Colapse hífens múltiplos.
-7. Remova hífens no início ou final.
-
-**Exemplos:**
-
-| Texto original | Âncora normalizada |
-|----------------|--------------------|
-| Espírito(s) | `espiritos` |
-| Espírito/s | `espiritos` |
-| Ação | `acao` |
-| Além-túmulo | `alem-tumulo` |
-| Agostinho, Santo | `agostinho-santo` |
-| Comunicabilidade dos espíritos | `comunicabilidade-dos-espiritos` |
-
-**Princípio**: A informação de variante (singular/plural) fica no texto visível do índice. A âncora deve ser o mais limpa e estável possível.
-
-## 4. Numeração e Algarismos Romanos
-
-- Substitua algarismos romanos por arábicos na maioria dos casos.
-- **Exceção**: Mantenha romanos em títulos pessoais/históricos (ex: "São Luís, IX de França").
-
-## 5. Exemplos Práticos
-
-**No Índice Geral do LDE (H6):**
-
-```markdown
-###### 🔖 Ação
-reciprocidade de – [LDM §375a](ldm:m-375a)
+```text
+#{s|m|e|c|g}{dddd}
 ```
 
-**No corpo de texto do LDM referenciando LDE (cross-book):**
+| Prefixo | Livro |
+|---------|--------|
+| `s` | LDE |
+| `m` | LDM |
+| `e` | ESE |
+| `c` | CEU |
+| `g` | GEN |
+
+Exemplos:
 
 ```markdown
-Como foi amplamente tratado em [O Livro dos Espíritos, Q.400](lde:q-400) e seguintes...
+##### #️⃣ 847 {#s0964}
+###### 🔖 Ação {#s1456}
 ```
 
-**Link interno no mesmo livro (in-book):**
+### In-book
 
 ```markdown
-Ver também [Q.400](#q-400) acima.
+Ver [#️⃣ 400](#s0xxx).
+Ver também [📑 Objetivo da encarnação](#s0211).
 ```
 
-## 6. Marcadores de página do PDF
+### Cross-book
+
+Preferir o serial completo no href (estável para o build):
 
 ```markdown
-[]{#page-17}
+Como em [LDE #️⃣ 400](/lde/#s0xxx) …
 ```
 
-- No fluxo LDE/tool: **N = página de livro = página de arquivo do PDF − 1** (canônico em `books/pdf/`).
-- O marcador fica no **início** (topo lógico) do texto da página N — antes das primeiras palavras dessa página no MD.
-- Preferir ` []{#page-N} `; blocos **shared** não carregam marcadores de página.
-- O HTML de verificação desenha o número no **rodapé visual** do bloco (entre `#page-N` e `#page-N+1`).
-- Podem ser não monotônicos na ordem de leitura do MD (ex.: Prefácio com páginas posteriores à Introdução no PDF).
-- Destinam-se à navegação “página do PDF” no leitor (doutrina.org / librus), não à paginação automática do HTML.
+Formas legadas `lde:q-400`, `ldm:m-142`, `ese-e-153` estão **obsoletas**. O build pode ainda resolvê-las via tabela de migração temporária; o Markdown fonte deve usar serials.
 
-## 7. Futuro no Build
+## 3. O que não é o codex
 
-O sistema de build (doutrina.org / 11ty / librus) poderá:
+| Tipo | Forma | Notas |
+|------|--------|--------|
+| Página PDF | `[]{#page-17}` | N = página de livro; ver style-guide |
+| URL externa | `https://…` | Intacta |
+| YAML front matter | chaves do site | Fora do serial |
 
-- Resolver automaticamente os links curtos e prefixados
-- Validar links cruzados e âncoras de página
-- Produzir HTML de leitura com saltos para `#page-N`
+## 4. Índice Geral (H6)
 
-O Markdown fonte deve permanecer o mais limpo e semântico possível.
+O **id do heading** é o serial (`{#s1456}`).
+
+Texto do termo: limpar emojis no *label* visível do índice se necessário; a âncora não depende mais de slug legível.
+
+Regra legada de slug (só se gerar paths humanos auxiliares):
+
+1. Remova emojis iniciais (🔖, 📑, …)
+2. Minúsculas, sem diacríticos
+3. Remova `(s)` / `/s` etc.
+4. Não alfanuméricos → `-`
+
+## 5. Sumário
+
+- Apenas H2–H4
+- Hrefs = serials
+- Regenerar após qualquer renumeração em massa
+
+## 6. Build (doutrina.org / 11ty / librus)
+
+Poderá:
+
+- Validar que todo `{#xdddd}` é único no livro
+- Validar links internos `](#xdddd)`
+- Resolver saltos `#page-N` e serials na UI
+
+O Markdown fonte permanece a fonte da verdade dos ids.
 
 ---
 
-**Documento complementar ao** [style-guide.md](./style-guide.md).
+**Complementa** [style-guide.md](./style-guide.md).

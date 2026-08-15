@@ -3,7 +3,7 @@ Esta Nota explicativa, publicada em face de acordo com o Ministério Público Fe
 ::: kardec
 🎓 — Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
 
-📓 *Revista Espírita*, Janeiro, 1868
+[📓 *Revista Espírita*, Janeiro, 1868](https://kardecpedia.com/roteiro-de-estudos/902/revista-espirita-jornal-de-estudos-psicologicos-1868/6202/janeiro/)
 :::
 
 A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
@@ -16,7 +16,7 @@ A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de
 4. 🔥 *O Céu e o Inferno* (1865),
 5. 🌱 *A Gênese* (1868),
 
-além da obra 🔍 *O Que é o Espiritismo* (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 *Obras Póstumas* (1890).
+além da obra 🔍 [*O Que é o Espiritismo*](https://kardecpedia.com/roteiro-de-estudos/885/o-que-e-o-espiritismo) (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 *Obras Póstumas* (1890).
 
 O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
 
@@ -36,21 +36,21 @@ Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que
 ::: kardec
 🎓 — … resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc.
 
-📓 *Revista Espírita*, Outubro, 1862
+[📓 *Revista Espírita*, Outubro, 1862](https://kardecpedia.com/roteiro-de-estudos/896/revista-espirita-jornal-de-estudos-psicologicos-1862/5142/outubro)
 :::
 
 De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe. Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
 ::: spirit
-✨ — O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
+🌬️ — O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
 
-✨ *O Livro dos Espíritos*, Q.207
+✨ *O Livro dos Espíritos*, [Q.207](#lde-q207)
 :::
 
 ::: kardec
 🎓 — … o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor.
 
-📓 *Revista Espírita*, Outubro, 1861
+[📓 *Revista Espírita*, Outubro, 1861](https://kardecpedia.com/roteiro-de-estudos/895/revista-espirita-jornal-de-estudos-psicologicos-1861/4926/outubro)
 :::
 
 ::: kardec
@@ -60,14 +60,14 @@ Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progres
 
 Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes.
 
-📓 *Revista Espírita*, Junho, 1867, p.231
+[📓 *Revista Espírita*, Junho, 1867](https://kardecpedia.com/roteiro-de-estudos/901/revista-espirita-jornal-de-estudos-psicologicos-1867/6034/junho)
 :::
 
 ::: kardec
 🎓 — Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade.
 
 🌱 A Gênese, cap. 1, item 36
-📓 *Revista Espírita*, Setembro, 1867
+[📓 *Revista Espírita*, Setembro, 1867](https://kardecpedia.com/roteiro-de-estudos/901/revista-espirita-jornal-de-estudos-psicologicos-1867/6037/setembro)
 :::
 
 Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
@@ -77,7 +77,7 @@ Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito d
 ::: kardec
 🎓 — Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais.
 
-📓 *Revista Espírita*, Janeiro, 1863
+[📓 *Revista Espírita*, Janeiro, 1863](https://kardecpedia.com/roteiro-de-estudos/897/revista-espirita-jornal-de-estudos-psicologicos-1863/5358/janeiro)
 :::
 
 ::: kardec
@@ -99,7 +99,7 @@ Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no 
 ::: kardec
 🎓 — É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações.
 
-📓 *Revista Espírita*, Janeiro, 1862
+[📓 *Revista Espírita*, Janeiro, 1862](https://kardecpedia.com/roteiro-de-estudos/896/revista-espirita-jornal-de-estudos-psicologicos-1862/5133/janeiro)
 :::
 
 Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (*benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas*), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.

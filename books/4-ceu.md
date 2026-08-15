@@ -1,98 +1,106 @@
 ---
-# =============================================================================
-# METADATA PRINCIPAL
-# =============================================================================
-title: "O Céu e o Inferno"
-subtitle: "A Justiça Divina segundo o Espiritismo"
-description: "Exame comparado das doutrinas sobre as penas e recompensas futuras, segundo o Espiritismo e as diversas religiões. Casos concretos de manifestações de Espíritos."
-
-lang: "pt-BR"
-author: "Allan Kardec"
-codifier: "Allan Kardec"
-translator: "Guillon Ribeiro"
-editor: "Federação Espírita Brasileira (FEB)"
-
-edition: "Edição Histórica da FEB"
-isbn: "978-85-7328-731-8"
-originalTitle: "Le Ciel et l'Enfer"
-originalPublication: "Paris, 1865"
-publicationDate: "2019"
-date: "2025-05-24"
-updated: "2025-05-24"
-
-# =============================================================================
-# LEGAL & DISCLAIMER
-# =============================================================================
-disclaimer: |
-  Esta é uma edição digital educacional e gratuita destinada ao estudo da Doutrina Espírita.
-  
-  A tradução de Guillon Ribeiro (falecido em 26/10/1943) encontra-se em domínio público no Brasil desde 01/01/2014 (Lei 9.610/1998).
-  
-  O mantenedor deste site não detém os direitos autorais sobre a obra. Baseado na Edição Histórica da FEB.
-
-license: "Uso educacional, não-comercial e doutrinário permitido. Proibida a venda ou reprodução comercial sem autorização da FEB."
-rights: "Reprodução autorizada apenas para fins de estudo e divulgação da Doutrina Espírita."
-
-# =============================================================================
-# TAXONOMY & ORGANIZATION
-# =============================================================================
-tags:
-  - espiritismo
-  - allan-kardec
-  - vida-futura
-  - justiça-divina
-  - expiação
-
+title: O Céu e o Inferno
+slug: ceu
+lang: pt
+author: Allan Kardec
+emoji: "🔥"
+cover:
+  colors: ["#D2691E","#333"]
+  angle: 135
+  icon: flame
+license: public-domain
+copyright: "Edição de estudo; tradução Manuel Quintão em domínio público no Brasil"
+translator: Manuel Quintão
+order: 5
+abstract: "A justiça divina segundo o Espiritismo — penas e gozos futuros."
 categories:
-  - Obras Básicas do Espiritismo
-  - Livros de Allan Kardec
+  - kardec
+  - codificação
+  
+  ## MD Quality & Fidelity Checklist (ESE)
 
-series: "Obras Básicas do Espiritismo"
-seriesPosition: 4
+**Current Focus:** Índice Geral review (one H5/letter at a time)
 
-# =============================================================================
-# SITE & NAVIGATION
-# =============================================================================
-layout: "layouts/book"
-permalink: "/ceu/"
+### 1. Índice Geral Review (by Letter)
 
-eleventyNavigation:
-  key: "O Céu e o Inferno"
-  parent: "Obras de Allan Kardec"
-  order: 4
-  title: "CEI — O Céu e o Inferno"
+- [ ] **A** — 
+- [ ] **B** — 
+- [ ] **C** — 
+- [ ] **D** — 
+- [ ] **E** — 
+- [ ] **F** — 
+- [ ] **G** — 
+- [ ] **H** — 
+- [ ] **I** — 
+- [ ] **J** — 
+- [ ] **K** — 
+- [ ] **L** — 
+- [ ] **M** — 
+- [ ] **N** — 
+- [ ] **O** — 
+- [ ] **P** — 
+- [ ] **Q** — 
+- [ ] **R** — 
+- [ ] **S** — 
+- [ ] **T** — 
+- [ ] **U** — 
+- [ ] **V** — 
+- [ ] **W** — 
+- [ ] **X** — 
+- [ ] **Y** — 
+- [ ] **Z** — 
+
+### 2. Content Fidelity (PDF vs MD)
+
+- [ ] All bold, italics, quotes, bible citations, etc
+- [ ] Jesus words are  in italics
+- [ ] Identify all bible quotes
+- [ ] Identify all spirit quotes
+- [ ] Identify all other quotes
+- [ ] All numbered paragraphs present and correctly numbered in content
+- [ ] Major structural sections present and correctly ordered (Prefácio, Introduções, Parts, Conclusão, Nota Explicativa)
+- [ ] Text fidelity spot-checks performed on sampled sections
+- [ ] Roman numerals substituted correctly (except personal/historical titles)
+- [ ] No significant missing or extra content vs source PDF
+
+### 3. Anchor & Normalization Quality
+
+- [ ] All H6 terms follow the official normalization rules (no (s), /s, diacritics in anchors)
+- [ ] Anchor style is consistent across the entire file
+- [ ] H5 content units have stable, predictable anchors
+- [ ] Cross-book linking prefixes are correctly applied where needed
+
+### 4. Index & Internal Linking Quality
+
+- [ ] All H6 terms in the Índice Geral have proper anchors
+- [ ] Links from the Índice Geral point to correct H5/H4 targets
+- [ ] No broken internal links within the index section
+- [ ] Cross-references inside the index are accurate and useful
+
+### 5. General Document Health
+
+- [ ] YAML front matter is complete and up to date
+- [ ] File builds cleanly (no major warnings)
+- [ ] No obvious formatting artifacts from PDF migration remaining
 ---
 
 # 🔥 O Céu e o Inferno {#c0001}
 
-## 🗃️ Pré-textual {#c0002}
-
-### ⚖️ Avisos Legais {#c0003}
-
-::: center
-**Edição Digital Educacional • Domínio Público**
-
-Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
-
-A tradução de Guillon Ribeiro (falecido em 26 de outubro de 1943) encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2014, nos termos da Lei nº 9.610/1998.
-
-Todos os direitos da edição impressa pertencem à Federação Espírita Brasileira (FEB)
-
-Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
-:::
+## 🗃️ 0. Pré-textual {#c0002}
 
 ### 🗂️ Folha de rosto {#c0004}
 
 ::: center
+
 🔥 **O Céu e o Inferno**
 
 Ou a justiça divina segundo o Espiritismo
 
 Exame comparado das doutrinas sobre a passagem da vida corporal à vida espiritual, sobre as penalidades e recompensas futuras, sobre os anjos e demônios, sobre as penas etc., seguido de numerosos exemplos acerca da situação real da alma durante e depois da morte.
 
-por Allan Kardec.
+por 🎓 **Allan Kardec**
 
-Tradução de Manuel Quintão
+Tradução de **Manuel Quintão**
 
 Edição digital educacional  
 
@@ -103,27 +111,34 @@ organizada e adaptada por **Sergio Schickler**
 Baseada no ISBN 978-85-7328-731-8
 :::
 
-### 📋 Sumário Geral {#c0005}
+### ⚖️ Avisos Legais {#c0003}
+
+::: center
+**Edição Digital Educacional • Domínio Público**
+
+Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
+
+A tradução de [Manuel Quintão](https://www.feparana.com.br/topico/?topico=688) (falecido em 16 de dezembro de 1955) encontra-se em **domínio público** no Brasil desde 1º de janeiro de 2026, nos termos da [Lei nº 9.610/1998](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm).
+
+Todos os direitos da edição impressa pertencem à [Federação Espírita Brasileira](https://febnet.org.br) (FEB)
+
+Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
+:::
+
+### 📋 Sumário {#c0005}
 
 ::: expand Sumário
-Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida.
-
-- [🔥 O Céu e o Inferno](#c0001)
+- [🔥 **O Céu e o Inferno**](#c0001)
     - [🗃️ Pré-textual](#c0002)
-      - [⚖️ Avisos Legais](#c0003)
       - [🗂️ Folha de rosto](#c0004)
+      - [⚖️ Avisos Legais](#c0003)
       - [📋 Sumário Geral](#c0005)
     - [🗃️ Doutrina](#c0006)
       - [🗂️ O porvir e o nada](#c0007)
-        - [📑 01](#c0008)
-        - [📑 02](#c0009)
       - [🗂️ Temor da morte](#c0022)
         - [📑 Causas do temor da morte](#c0023)
         - [📑 Por que os espíritas não temem a morte](#c0033)
       - [🗂️ O céu](#c0035)
-        - [📑 01](#c0036)
-        - [📑 02](#c0037)
-        - [📑 03](#c0038)
       - [🗂️ O inferno](#c0055)
         - [📑 Intuição das penas futuras](#c0056)
         - [📑 Os limbos](#c0065)
@@ -184,7 +199,7 @@ Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida.
         - [📑 A condessa Paula](#c0271)
         - [📑 Jean Reynaud](#c0272)
         - [📑 Antoine Costeau](#c0273)
-        - [📑 A Srta. Emma [^62\]](#c0274)
+        - [📑 A Srta. Emma](#c0274)
         - [📑 O doutor Vignal](#c0275)
         - [📑 Victor Lebufle](#c0276)
         - [📑 A Sra. Anaïs Gourdon](#c0277)
@@ -249,18 +264,10 @@ Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida.
     - [🗃️ Pós-textual](#c0601)
       - [🗂️ Nota explicativa](#c0602)
       - [🗂️ Índice geral](#c0603)
-        - [📑 Termos relacionados](#c0604)
-    - [🗃️ Pós-textual](#c0650)
-      - [🗂️ Nota explicativa](#c0651)
-      - [🗂️ Índice geral](#c0652)
         - [📑 Termos relacionados](#c0653)
 :::
 
-::: box
-Clique nos itens para navegar ou use `Ctrl + F` (ou ⌘ + F) para busca rápida por número de questão ou palavra-chave.
-:::
-
-## 🗃️ Doutrina {#c0006}
+## 🗃️ 1. Doutrina {#c0006}
 
 ### 🗂️ O porvir e o nada {#c0007}
 
@@ -2290,7 +2297,7 @@ As seguintes palavras de um Espírito resumem admiravelmente as consequências d
 >
 >**Bordeaux 🇫🇷, 1861**
 
-## 🗃️ Exemplos {#c0204}
+## 🗃️ 2. Exemplos {#c0204}
 
 ### 🗂️ O passamento {#c0205}
 
@@ -5912,7 +5919,7 @@ Pertencia à classe mediana da sociedade e gozava de modesta abastança, ao abri
 
 — uma quimera. Depois de esgotar baldamente os recursos da Ciência e reputada impossível a cura, resolvi antecipar a morte: suicidei-me. Que despertar, então, que foi o meu, imerso nas mesmas trevas da vida! Contudo, não tardou muito o reconhecimento da minha situação, da minha transferência para o mundo espiritual. Era um Espírito, sim, porém, cego. A vida de além-túmulo tornava-se-me, pois, a realidade! Procurei fugir-lhe, mas em vão... Envolvia-me o vácuo. Pelo que ouvia dizer, essa vida deveria ser eterna, e com ela a minha situação. Ideia horrenda! Eu não sofria, mas impossível é descrever as angústias e tormentos espirituais experimentados. Quanto teriam eles durado? Ignoro-o... Mas quão longo me pareceu este tempo! Extenuado, fatigado, pude finalmente analisar-me a mim mesmo, e compreendi o ascendente de um poder superior, que sobre mim atuava, e considerei que se essa potência podia oprimir-me, também poderia aliviar-me. E implorei piedade. À proporção que orava e o fervor se me aumentava, alguém me dizia que a minha situação teria um termo. Por fim se fez a luz e extremo foi o meu arroubo de alegria ao entrever as claridades celestes, distinguindo os Espíritos que me rodeavam, sorrindo, benévolos, bem como os que, radiosos, flutuavam no Espaço. Ao querer seguir-lhes os passos, força invisível me reteve. Foi então que um deles me disse: “O Deus que negaste teve comiseração do teu arrependimento e permitiu-nos te déssemos a luz, mas tu só cedeste pelo sofrimento, pelo cansaço. Se queres participar desta felicidade aqui fruída, forçoso é provares a sinceridade do teu arrependimento, as boas disposições, recomeçando a prova terrestre em condições que te predisponham às mesmas faltas, porque esta nova provação deverá ser mais rude que a outra.” Aceitei pressuroso, prometendo não mais falir. Assim voltei à Terra nas condições que sabeis. Não me foi difícil compreender a situação, porque eu não era mau por índole; revoltara-me contra Deus, e Deus me puniu. Reencarnei trazendo a fé inata, razão por que não murmurei, antes aceitei a dupla enfermidade resignado, como expiação que era, oriunda da soberana justiça. O insulamento dos meus derradeiros anos nada tinha de desesperador, porquanto me bafejava a fé no futuro e na misericórdia de Deus. Ademais, esse insulamento me foi proveitoso, porque durante a longa noite silenciosa a minha alma mais livremente se alçava ao Eterno, entrevendo o infinito pelo pensamento. Quando, por fim, terminou o exílio, o mundo espiritual só me proporcionou esplendores, inefáveis gozos. O retrospecto ao passado faz que me julgue muito feliz, relativamente, pelo que dou graças a Deus; quando, porém, olho para o futuro, vejo a grande distância que ainda me separa da completa felicidade. Tendo já expiado, ainda me faltava reparar. A última encarnação só a mim aproveitou, pelo que espero recomeçar brevemente por existência que me permita ser útil ao próximo, reparando por esse meio a inutilidade anterior. E só assim me adiantarei na boa senda, sempre franqueada aos Espíritos possuídos de boa vontade. Amigos, eis aí a minha história; e se o meu exemplo puder esclarecer quaisquer dos meus irmãos encarnados, de modo a evitarem a má ação que pratiquei, terei por principiado o resgate da minha dívida.” Joseph
 
-## 🗃️ Pós-textual {#c0601}
+## 🗃️ 3. Pós-textual {#c0601}
 
 ### 🗂️ Nota explicativa {#c0602}
 
@@ -5921,7 +5928,7 @@ Esta Nota explicativa, publicada em face de acordo com o Ministério Público Fe
 ::: kardec
 🎓 — Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
 
-📓 *Revista Espírita*, Janeiro, 1868
+[📓 *Revista Espírita*, Janeiro, 1868](https://kardecpedia.com/roteiro-de-estudos/902/revista-espirita-jornal-de-estudos-psicologicos-1868/6202/janeiro/)
 :::
 
 A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
@@ -5934,7 +5941,7 @@ A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de
 4. 🔥 *O Céu e o Inferno* (1865),
 5. 🌱 *A Gênese* (1868),
 
-além da obra 🔍 *O Que é o Espiritismo* (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 *Obras Póstumas* (1890).
+além da obra 🔍 [*O Que é o Espiritismo*](https://kardecpedia.com/roteiro-de-estudos/885/o-que-e-o-espiritismo) (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 *Obras Póstumas* (1890).
 
 O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
 
@@ -5954,21 +5961,21 @@ Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que
 ::: kardec
 🎓 — … resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc.
 
-📓 *Revista Espírita*, Outubro, 1862
+[📓 *Revista Espírita*, Outubro, 1862](https://kardecpedia.com/roteiro-de-estudos/896/revista-espirita-jornal-de-estudos-psicologicos-1862/5142/outubro)
 :::
 
 De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe. Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
 ::: spirit
-✨ — O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
+🌬️ — O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
 
-✨ *O Livro dos Espíritos*, Q.207
+✨ *O Livro dos Espíritos*, [Q.207](#lde-q207)
 :::
 
 ::: kardec
 🎓 — … o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor.
 
-📓 *Revista Espírita*, Outubro, 1861
+[📓 *Revista Espírita*, Outubro, 1861](https://kardecpedia.com/roteiro-de-estudos/895/revista-espirita-jornal-de-estudos-psicologicos-1861/4926/outubro)
 :::
 
 ::: kardec
@@ -5978,14 +5985,14 @@ Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progres
 
 Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes.
 
-📓 *Revista Espírita*, Junho, 1867, p.231
+[📓 *Revista Espírita*, Junho, 1867](https://kardecpedia.com/roteiro-de-estudos/901/revista-espirita-jornal-de-estudos-psicologicos-1867/6034/junho)
 :::
 
 ::: kardec
 🎓 — Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade.
 
 🌱 A Gênese, cap. 1, item 36
-📓 *Revista Espírita*, Setembro, 1867
+[📓 *Revista Espírita*, Setembro, 1867](https://kardecpedia.com/roteiro-de-estudos/901/revista-espirita-jornal-de-estudos-psicologicos-1867/6037/setembro)
 :::
 
 Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
@@ -5995,7 +6002,7 @@ Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito d
 ::: kardec
 🎓 — Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais.
 
-📓 *Revista Espírita*, Janeiro, 1863
+[📓 *Revista Espírita*, Janeiro, 1863](https://kardecpedia.com/roteiro-de-estudos/897/revista-espirita-jornal-de-estudos-psicologicos-1863/5358/janeiro)
 :::
 
 ::: kardec
@@ -6017,345 +6024,19 @@ Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no 
 ::: kardec
 🎓 — É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações.
 
-📓 *Revista Espírita*, Janeiro, 1862
+[📓 *Revista Espírita*, Janeiro, 1862](https://kardecpedia.com/roteiro-de-estudos/896/revista-espirita-jornal-de-estudos-psicologicos-1862/5133/janeiro)
 :::
 
 Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (*benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas*), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.
 
 A Editora (FEB)
+
 
 ### 🗂️ Índice geral {#c0603}
 
-#### 📑 Termos relacionados {#c0604}
-
-##### #️⃣ A {#c0605}
-
-###### 🔖 related term {#c0606}
-
-##### #️⃣ B {#c0607}
-
-###### 🔖 related term {#c0608}
-
-##### #️⃣ C {#c0609}
-
-###### 🔖 related term {#c0610}
-
-##### #️⃣ D {#c0611}
-
-###### 🔖 related term {#c0612}
-
-##### #️⃣ E {#c0613}
-
-###### 🔖 related term {#c0614}
-
-##### #️⃣ F {#c0615}
-
-###### 🔖 related term {#c0616}
-
-##### #️⃣ G {#c0617}
-
-###### 🔖 related term {#c0618}
-
-##### #️⃣ H {#c0619}
-
-###### 🔖 related term {#c0620}
-
-##### #️⃣ I {#c0621}
-
-###### 🔖 related term {#c0622}
-
-##### #️⃣ J {#c0623}
-
-###### 🔖 related term {#c0624}
-
-##### #️⃣ L {#c0625}
-
-###### 🔖 related term {#c0626}
-
-##### #️⃣ M {#c0627}
-
-###### 🔖 related term {#c0628}
-
-##### #️⃣ N {#c0629}
-
-###### 🔖 related term {#c0630}
-
-##### #️⃣ O {#c0631}
-
-###### 🔖 related term {#c0632}
-
-##### #️⃣ P {#c0633}
-
-###### 🔖 related term {#c0634}
-
-##### #️⃣ Q {#c0635}
-
-###### 🔖 related term {#c0636}
-
-##### #️⃣ R {#c0637}
-
-###### 🔖 related term {#c0638}
-
-##### #️⃣ S {#c0639}
-
-###### 🔖 related term {#c0640}
-
-##### #️⃣ T {#c0641}
-
-###### 🔖 related term {#c0642}
-
-##### #️⃣ U {#c0643}
-
-###### 🔖 related term {#c0644}
-
-##### #️⃣ V {#c0645}
-
-###### 🔖 related term {#c0646}
-
-##### #️⃣ Z {#c0647}
-
-###### 🔖 related term {#c0648}
-
-##### 📝 Notas de rodapé {#c0649}
-
-[^1]: Nota de Allan Kardec: Um moço de 18 anos, afetado de uma enfermidade do coração, foi declarado incurável. A Ciência havia dito: “Pode morrer dentro de oito dias ou de dois anos, mas não irá além.” Sabendo-o, o moço para logo abandonou os estudos e entregou-se a excessos de todo o gênero.
-^: Quando se lhe ponderava o perigo de uma vida desregrada, respondia: “Que me importa, se não tenho mais de dois anos de vida? De que me serviria fatigar o espírito? Gozo o pouco que me resta e quero divertir-me até o fim.”
-
-— Eis a consequência lógica do niilismo.
-Se este moço fora espírita, teria dito: “A morte só destruirá o corpo, que deixarei como fato usado, mas o meu Espírito viverá. Serei na vida futura aquilo que eu próprio houver feito de mim nesta vida; do que nela puder adquirir em qualidades morais e intelectuais nada perderei, porque será outro tanto de ganho para o meu adiantamento; toda a imperfeição de que me livrar será um passo a mais para a felicidade. A minha felicidade ou infelicidade depende da utilidade ou inutilidade da presente existência. É portanto de meu interesse aproveitar o pouco tempo que me resta, e evitar tudo o que possa diminuir-me as forças.”
-^: Qual destas doutrinas é preferível?
-[^2]: N.E.: Foi realizada pesquisa no Alcorão, livro considerado sagrado pelos muçulmanos, e em várias suratas (capítulos) foi constatada a crença em sete céus, e não em nove como o descrito acima.
-
-[^3]: A.K.: Ptolomeu viveu em Alexandria, Egito, no segundo século da Era Cristã.
-
-[^4]: A.K.: Do grego, pur ou pyr, fogo.
-
-[^5]: A.K.: Vede 1a Parte, cap. I, item 3, nota 1
-
-[^6]: A.K.: Um pequeno saboiano, a quem o seu cura fazia a descrição da vida futura,
-perguntou-lhe se todo mundo lá comia pão branco, como em Paris.
-
-[^7]: N.E.: As cinquenta filhas de Dânaos, Rei de Argos, que, com exceção de uma, mataram seus maridos na noite de núpcias, e foram condenadas a encher eternamente, no inferno, um tonel sem fundo.
-
-[^8]: N.E.: Por caluniar Zeus, Íxion foi fulminado por um raio e lançado no Tártaro, onde foi preso a uma roda em chamas e condenado a nela girar pela eternidade.
-
-[^9]: N.E.: Por assaltar os viajantes, Zeus condenou Sísifo ao Tártaro, e deu-lhe como castigo eterno a obrigação de empurrar uma pedra até o lugar mais alto da montanha, de onde ela sempre rola de volta.
-
-[^10]: A.K.: Sermão pregado em Montpellier em 1860.
-
-[^11]: A.K.: “Os bem-aventurados, sem deixarem o lugar que ocupam, poderão afastar-se de certo modo em razão do seu dom de inteligência e da vista distinta, a fim de considerarem as torturas dos condenados, e, vendo-os, não somente serão insensíveis à dor, mas até ficarão repletos de alegria e renderão graças a Deus por sua própria felicidade, assistindo à inefável calamidade dos ímpios.” (São Tomás de Aquino.)
-
-[^12]: A.K.: Sermão pregado em Paris em 1861.
-
-[^13]:A.K.: Cap. III de O evangelho segundo o espiritismo.
-
-[^14]: N.E.: Personagem da Odisseia, filho de Odisseus e Penélope.
-
-[^15]: N.E.: Deus romano do comércio e dos viajantes.
-
-[^16]: N.E.: Barqueiro dos infernos que, mediante pagamento, transportava os mortos na travessia das águas infernais.
-
-[^18]: N.E.: Três deusas gregas da vingança: Alecto, Tisífone e Megera.
-
-[^19]: N.E.: Na mitologia grega, monstro fabuloso representado com cabeça de leão, dorso de cabra e cauda de serpente ou dragão.
-
-[^20]: N.E.: Herói mitológico, filho de Posêidon. Montou Pégaso, o cavalo alado, e matou a Quimera.
-
-[^21]: N.E.: Na mitologia grega, serpente monstruosa com sete cabeças que renasciam tão logo eram cortadas.
-
-[^22]: N.E.: Herói romano; deus protetor da agricultura, do comércio e dos exércitos.
-
-[^23]: N.E.: Cão tricéfalo, guardião dos infernos.
-
-[^24]: N.E.: Na mitologia grega, gigantes ferreiros e construtores, com apenas um olho no meio da testa.
-
-[^25]: N.E.: Deus romano do fogo e da metalurgia.
-
-[^26]: A.K.: Estas citações são tiradas da obra O inferno, de Augusto Callet.
-
-[^27]: N.E.: “Já foi derrubada na sepultura a tua soberba com o som das tuas violas; os vermes debaixo de ti se estenderão, e os bichos te cobrirão.” (Isaías, 14:11.)
-
-[^28]:N.E.: Tofel/Tophel, do hebraico mentiroso, falacioso. Alusão ao demônio Mefistófeles ou ao personagem Mefistófeles da obra Fausto de Goethe.
-
-[^29]: N.E.: Mateus, 8:12; 13:42; 13:50; 22:13; 24:51; 25:30 e Lucas, 13:28.
-
-[^30]: A.K.: Nesta visão se reconhecem todos os caracteres dos pesadelos, sendo provável que fosse deste gênero de fenômenos o acontecido a Santa Teresa.
-
-[^31]: N.E.: Segundo os egípcios, é o templo em que as almas dos mortos são reunidas para serem julgadas por Osíris (deus que garante a vida no Além).
-
-[^32]: A.K.: Singular punição, na verdade, esta de poder continuar em maior escala a prática de mal menor feito na Terra. Mais racional seria o sofrerem os próprios malfeitores as consequências desse mal, em lugar de se darem ao prazer de proporcioná-lo a outrem.
-
-[^33]: A.K.: Esses mesmos demônios rebeldes a Deus quanto ao bem, são de uma docilidade exemplar quanto à prática do mal. Nenhum se esquiva ou afrouxa durante a eternidade. Que singular metamorfose em quem fora criado puro e perfeito como os anjos! Não é de pasmar vê-los dar exemplos de harmonia, de concórdia inalterável quando os homens sequer não sabem viver em paz na Terra, antes se laceram mutuamente? Vendo-se o requinte dos castigos reservados aos condenados e comparando sua situação à dos demônios, é caso de perguntar quais os mais dignos de lástima
-
-— se as vítimas ou os algozes.
-
-[^34]: N.E.: Na mitologia grega, esposa de Héracles (Hércules), que, abandonada por ele, provocou-lhe a morte, enviando-lhe uma túnica envenenada.
-
-[^35]: A.K.: O livro dos espíritos, questões 443 e 444.
-
-[^36]: A.K.: O purgatório originou o comércio escandaloso das indulgências, por intermédio das quais se vende a entrada no Céu. Este abuso foi a causa primária da Reforma, levando Lutero a rejeitar o purgatório.
-
-[^37]: A.K.: Vede O evangelho segundo o espiritismo, cap. XXVII, item Ação da prece.
-
-[^38]: A.K.: Idem, cap. III, item Progressão dos mundos.
-
-[^40]: N.E. (1973): O autor escreveu s’est approprié (p. 93, 4ª edição, Paris, 1869), à falta, na época, de verbo mais específico à perfeita tradução da ideia.
-
-[^41]: A.K.: Vede cap. VI, item 7, e O livro dos espíritos, questões 443 e 444.
-
-[^45]: A.K.: Vede 1ª Parte, cap. V, O purgatório, item 3 e seguintes; e, após, 2ª Parte, cap. VIII, Expiações terrestres. Vede, também, O evangelho segundo o espiritismo, cap. V, Bem-aventurados os aflitos.
-
-[^42]: A.K.: Vede cap. VI, item 25, citação de Ezequiel.
-
-[^43]: A.K.: Perpétuo é sinônimo de eterno. Diz-se o limite das neves perpétuas; o eterno gelo dos polos; também se diz o secretário perpétuo da Academia, o que não significa que o seja ad perpetuam, mas unicamente por tempo ilimitado. Eterno e perpétuo se empregam, pois, no sentido de indeterminado. Nesta acepção pode dizer-se que as penas são eternas, para exprimir que não têm duração limitada; eternas, portanto, para o Espírito que lhes não vê o termo.
-
-[^44]: A.K.: A necessidade da reparação é um princípio de rigorosa justiça, que se pode considerar verdadeira lei de reabilitação moral dos Espíritos. Entretanto, essa doutrina Religião alguma ainda a proclamou. Algumas pessoas repelem-na porque acham mais cômodo o poder quitarem-se das más ações por um simples arrependimento, que não custa mais que palavras, por meio de algumas fórmulas; contudo, crendo-se, assim, quites, verão mais tarde se isso lhes bastava. Nós poderíamos perguntar se esse princípio não é consagrado pela lei humana, e se a Justiça divina pode ser inferior à dos homens? E mais, se essas leis se dariam por desafrontadas desde que o indivíduo que as transgredisse, por abuso de confiança, se limitasse a dizer que as respeita infinitamente.
-Por que hão de vacilar tais pessoas perante uma obrigação que todo homem honesto se impõe como dever, segundo o grau de suas forças?
-Quando esta perspectiva de reparação for inculcada na crença das massas, será um outro freio aos seus desmandos, e bem mais poderoso que o inferno e respectivas penas eternas, visto como interessa à vida em sua plena atualidade, podendo o homem compreender a procedência das circunstâncias que a tornam penosa, ou a sua verdadeira situação.
-
-[^46]: A.K.: Extraímos este resumo da pastoral do monsenhor Gousset, cardeal-arcebispo de Reims, para a quaresma de 1864. Por ele podemos, pois, considerar os anjos, assim como os demônios, cujo resumo tiramos da mesma origem e citamos no capítulo seguinte, como última expressão do dogma da Igreja neste sentido.
-
-[^47]: A.K.: Concílio de Latrão.
-
-[^48]: N.E.: Aúra-Masda ou Ormuz, criador e princípio do bem, deus supremo do masdeísmo (religião do Irã antigo, revelada a Zoroastro, que admite dois princípios: um, bom, deus de luz, e o outro, mau, deus das trevas e da morte, que travam combate para o destino da humanidade).
-
-[^49]: N.E.: Ahriman ou Arimã, princípio do mal, do caos, das trevas no masdeísmo.
-
-[^51]: A.K.: Esta doutrina monstruosa é corroborada por Moisés, quando diz (Gênesis, 6:6 e 7): “Ele se arrependeu de haver criado o homem na Terra e, penetrado da mais íntima dor, disse:
-
-— Exterminarei a Criação da face da Terra; exterminarei tudo, desde o homem aos animais, desde os que rastejam sobre a terra até os pássaros do céu, porque me arrependo de os ter criado.” Ora, um Deus que se arrepende do que fez não é perfeito nem infalível; portanto, não é Deus. E são estas as palavras que a Igreja proclama! Tampouco se percebe o que poderia haver de comum entre os animais e a perversidade dos homens, para que merecessem tal extermínio.
-
-[^52]: A.K.: Encontra-se em Isaías, 14:11 e seguintes: “Teu orgulho foi precipitado nos infernos; teu corpo morto baqueou por terra; tua cama verterá podridão, e vermes tua vestimenta. Como caíste do Céu, Lúcifer, tu que parecias tão brilhante ao romper do dia? Como foste arrojado sobre a Terra, tu que ferias as nações com teus golpes; que dizias de coração: Subirei aos Céus, estabelecerei meu trono acima dos astros de Deus, sentar-me-ei acima das nuvens mais altas e serei igual ao Altíssimo! E todavia foste precipitado dessa glória no inferno, até o mais fundo dos abismos. Os que te virem, aproximando-se, encarar-te-ão, dizendo:
-
-— Será este o homem que turbou a Terra, que aterrou seus reinos, que fez do mundo um deserto, que destruiu cidades e reteve acorrentados os que se lhe entregaram prisioneiros?” Estas palavras do profeta não se referem à revolta dos anjos; são, sim, uma alusão ao orgulho e à queda do Rei de Babilônia, que retinha os judeus em cativeiro, como atestam os últimos versículos. O Rei de Babilônia é alegoricamente designado por Lúcifer, mas não se faz aí qualquer menção da cena descrita. Essas palavras são do rei que as tinha no coração e se colocava por orgulho acima de Deus, cujo povo escravizara. A profecia da libertação do povo judeu, da ruína de Babilônia e do destroço dos assírios é, ademais, o assunto exclusivo desse capítulo.
-
-[^53]:A.K.: Vede 1ª Parte, cap. VI, item 25, citação de Ezequiel.
-
-[^54]: A.K.: As citações deste capítulo são extraídas da mesma pastoral indicada no precedente, e da qual são corolários. É a mesma fonte e, por conseguinte, a mesma autoridade.
-
-[^55]: A.K.: Querendo persuadir as pessoas curadas pelo Espiritismo que o foram pelo diabo, grande número delas se há separado da Igreja, sem que jamais pensassem fazê-lo.
-
-[^56]: N.E.: Estima-se que o Cristianismo atualmente seja a religião com maior número de adeptos (aprox. 2,2 bilhões), seguida pelo Islamismo (aprox. 1,6 bilhão) e Hinduísmo (aprox. 900 milhões). O Espiritismo aparece em 8o lugar, com seus 13 milhões de adeptos.
-
-[^57]: A.K.: Os exemplos que vamos transcrever mostram-nos os Espíritos nas diferentes fases de felicidade e infelicidade da vida espiritual. Não fomos procurá-los nas personagens mais ou menos ilustres da Antiguidade, cuja situação pudera ter mudado consideravelmente depois da existência que lhes conhecemos, e que por isto não ofereceriam provas suficientes de autenticidade. Ao contrário, tomamos esses exemplos nas circunstâncias mais ordinárias da vida contemporânea, uma vez que assim pode cada qual encontrar mais similitudes e tirar, pela comparação, as mais proveitosas instruções. Quanto mais próxima de nós está a existência terrestre dos Espíritos — quer pela posição social, quer por laços de parentesco ou de meras relações — tanto mais nos interessamos por eles, tornando-se fácil averiguar-lhes a identidade. As posições vulgares são as mais comuns, as de maior número, podendo cada qual aplicá-las em si, de modo a tornarem-se úteis, ao passo que as posições excepcionais comovem menos, porque saem da esfera dos nossos hábitos. Não foram, pois, as sumidades que procuramos, e se nesses exemplos se encontram quaisquer personagens conhecidas, de obscuras se compõe o maior número. Acresce que nomes retumbantes nada adiantariam à instrução que visamos, podendo ainda ferir suscetibilidades. E nós não nos dirigimos nem aos curiosos, nem aos amadores de escândalos, mas tão somente aos que pretendem instruir-se. Esses exemplos poderiam ser multiplicados infinitamente, porém, forçados a limitar-lhes o número, fizemos escolha dos que pudessem melhor esclarecer o mundo espiritual e o seu estado, já pela situação dos Espíritos, já pelas explicações que estavam no caso de fornecer. A maior parte destes exemplos está inédita, e apenas alguns, poucos, foram já publicados na Revista espírita. Destes, suprimimos supérfluas minúcias, conservando apenas o essencial ao fim que nos propusemos, ajustando-lhes as instruções complementares a que poderão dar lugar ulteriormente.
-
-## 🗃️ Pós-textual {#c0650}
-
-### 🗂️ Nota explicativa {#c0651}
-
-Esta Nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
-
-::: kardec
-🎓 — Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. […] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo.
-
-📓 *Revista Espírita*, Janeiro, 1868
-:::
-
-A investigação rigorosamente racional e científica de fatos que revelavam a comunicação dos homens com os Espíritos, realizada por Allan Kardec, resultou na estruturação da Doutrina Espírita, sistematizada sob os aspectos científico, filosófico e religioso.
-
-A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
-
-1. ✨ *O Livro dos Espíritos* (1857),
-2. ✒️ *O Livro dos Médiuns* (1861),
-3. 🕊️ *O Evangelho segundo o Espiritismo* (1864),
-4. 🔥 *O Céu e o Inferno* (1865),
-5. 🌱 *A Gênese* (1868),
-
-além da obra 🔍 *O Que é o Espiritismo* (1859), de uma série de opúsculos e 136 edições da 📓 *Revista Espírita* (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 *Obras Póstumas* (1890).
-
-O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
-
-1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
-2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
-3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
-4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
-
-Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
-
-Na época de Allan Kardec, as ideias frenológicas de Gall, e as da fisiognomonia de Lavater, eram aceitas por eminentes homens de Ciência, assim como provocou enorme agitação nos meios de comunicação e junto à intelectualidade e à população em geral, a publicação, em 1859 — dois anos depois do lançamento de ✨ *O Livro dos Espíritos* — do livro sobre a Evolução das Espécies, de Charles Darwin, com as naturais incorreções e incompreensões que toda ciência nova apresenta. Ademais, a crença de que os traços da fisionomia revelam o caráter da pessoa é muito antiga, pretendendo-se haver aparentes relações entre o físico e o aspecto moral.
-
-O Codificador não concordava com diversos aspectos apresentados por essas assim chamadas ciências. Desse modo, procurou avaliar as conclusões desses eminentes pesquisadores à luz da revelação dos Espíritos, trazendo ao debate o elemento espiritual como fator decisivo no equacionamento das questões da diversidade e desigualdade humanas.
-
-Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que apontam para leis sábias e supremas, razão pela qual afirmou que o Espiritismo permite
-
-::: kardec
-🎓 — … resolver os milhares de problemas históricos, arqueológicos, antropológicos, teológicos, psicológicos, morais, sociais etc.
-
-📓 *Revista Espírita*, Outubro, 1862
-:::
-
-De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe. Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
-
-::: spirit
-✨ — O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
-
-✨ *O Livro dos Espíritos*, Q.207
-:::
-
-::: kardec
-🎓 — … o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor.
-
-📓 *Revista Espírita*, Outubro, 1861
-:::
-
-::: kardec
-🎓 — Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes.
-
-Mas se se tomar seu ponto de vista do ser espiritual, do ser essencial e progressivo, numa palavra, do Espírito, preexistente e sobrevivente a tudo cujo corpo não passa de um invólucro temporário, variando, como a roupa, de forma e de cor; se, além disso, do estudo dos seres espirituais ressalta a prova de que esses seres são de natureza e de origem idênticas, que seu destino é o mesmo, que todos partem do mesmo ponto e tendem para o mesmo objetivo; que a vida corporal não passa de um incidente, uma das fases da vida do Espírito, necessária ao seu adiantamento intelectual e moral; que em vista desse avanço o Espírito pode sucessivamente revestir envoltórios diversos, nascer em posições diferentes, chega-se à consequência capital da igualdade de natureza e, a partir daí, à igualdade dos direitos sociais de todas as criaturas humanas e à abolição dos privilégios de raças. Eis o que ensina o Espiritismo.
-
-Vós que negais a existência do Espírito para considerar apenas o homem corporal, a perpetuidade do ser inteligente para só encarar a vida presente, repudiais o único princípio sobre o qual é fundada, com razão, a igualdade de direitos que reclamais para vós mesmos e para os vossos semelhantes.
-
-📓 *Revista Espírita*, Junho, 1867, p.231
-:::
-
-::: kardec
-🎓 — Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade.
-
-🌱 A Gênese, cap. 1, item 36
-📓 *Revista Espírita*, Setembro, 1867
-:::
-
-Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
-
-É baseado nesses informes "*científicos*" da época que o Codificador repete, com outras palavras, o que os pesquisadores europeus descreviam quando de volta das viagens que faziam à África negra. Todavia, é peremptório ao abordar a questão do preconceito racial:
-
-::: kardec
-🎓 — Nós trabalhamos para dar a fé aos que em nada creem; para espalhar uma crença que os torna melhores uns para os outros, que lhes ensina a perdoar aos inimigos, a se olharem como irmãos, sem distinção de raça, casta, seita, cor, opinião política ou religiosa; numa palavra, uma crença que faz nascer o verdadeiro sentimento de caridade, de fraternidade e deveres sociais.
-
-📓 *Revista Espírita*, Janeiro, 1863
-:::
-
-::: kardec
-🎓 — O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus.
-
-🕊️ *O Evangelho segundo o Espiritismo*, cap. 17, item 3
-:::
-
-É importante compreender, também, que os textos publicados por Allan Kardec na 📓 Revista Espírita tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱*A Gênese*, o Codificador explica essa metodologia:
-
-::: kardec
-🎓 — Quando, na 📓 Revista Espírita de janeiro de 1862, publicamos um artigo sobre a "interpretação da doutrina dos anjos decaídos", apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
-
-🌱 *A Gênese*, cap. 11, item 43, Nota
-:::
-
-Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
-
-::: kardec
-🎓 — É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações.
-
-📓 *Revista Espírita*, Janeiro, 1862
-:::
-
-Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (*benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas*), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.
-
-A Editora (FEB)
-
-### 🗂️ Índice geral {#c0652}
-
 #### 📑 Termos relacionados {#c0653}
 
-##### #️⃣ A {#c0654}
+::: expand 📑 A {#c0654}
 
 A..., médium espírita
 evocação de Julienne-Marie e – 345
@@ -6474,7 +6155,7 @@ veículo das sensações físicas da – 152
 - Avental roça pela toga bordada, O
 - simbologia da expressão – 370
 
-##### #️⃣ B {#c0655}
+::: expand 📑 B {#c0655}
 
 - B..., Antonio, escritor
 - caracteres da morte real e – 355
@@ -6578,7 +6259,7 @@ veículo das sensações físicas da – 152
 - Bruxaria
 - santos milagres e – 131
 
-##### #️⃣ C {#c0666}
+::: expand 📑  C {#c0666}
 
 - C., Benjamin
 - filho da Sra. C., suicida, e – 270
@@ -6769,7 +6450,7 @@ veículo das sensações físicas da – 152
 - influência espiritual sobre o
 - organismo e – 81
 
-##### #️⃣ D {#c0688}
+::: expand 📑  D {#c0688}
 
 - D., Sr.
 - marido da Sra. D. – 272
@@ -6902,7 +6583,7 @@ veículo das sensações físicas da – 152
 - evocação de – 177
 - iniciação na vida espiritual e – 178
 
-##### #️⃣ E {#c0696}
+::: expand 📑  E {#c0696}
 
 ###### 🔖 Educação {#c0697}
 
@@ -7210,7 +6891,7 @@ veículo das sensações físicas da – 152
 - palavras de – 113
 - pecado original e – 76
 
-##### #️⃣ F {#c0721}
+::: expand 📑  F {#c0721}
 
 ###### 🔖 Fariseus {#c0722}
 
@@ -7278,7 +6959,7 @@ veículo das sensações físicas da – 152
 - homem e sentimento inato do – 19
 - revelação do – 128
 
-##### #️⃣ G {#c0727}
+::: expand 📑  G {#c0727}
 
 ###### 🔖 G., Louis, sapateiro, suicida {#c0728}
 
@@ -7333,7 +7014,7 @@ veículo das sensações físicas da – 152
 - evocação de – 214
 - término das provações e – 214
 
-##### #️⃣ H {#c0736}
+::: expand 📑  H {#c0736}
 
 - Hércules
 - considerações sobre – 45
@@ -7390,7 +7071,7 @@ veículo das sensações físicas da – 152
 
 - Deus e criação da – 103
 
-##### #️⃣ I {#c0741}
+::: expand 📑  I {#c0741}
 
 ###### 🔖 Igreja {#c0742}
 
@@ -7490,7 +7171,7 @@ veículo das sensações físicas da – 152
 - Íxion, roda de
 - inferno pagão e – 38, nota
 
-##### #️⃣ J {#c0749}
+::: expand 📑  J {#c0749}
 
 ###### 🔖 Jeová {#c0750}
 
@@ -7541,7 +7222,7 @@ veículo das sensações físicas da – 152
 - privilégios com a – 74
 - lei da – 91
 
-##### #️⃣ K {#c0752}
+::: expand 📑  K {#c0752}
 
 - Kardec, Allan
 - compreensão das Leis divinas e – 381
@@ -7550,7 +7231,7 @@ veículo das sensações físicas da – 152
 - fisiognomonia de Lavater e – 380
 - ideias frenológicas de Gall e – 380
 
-##### #️⃣ L {#c0753}
+::: expand 📑  L {#c0753}
 
 - Laço fluídico ver Perispírito
 
@@ -7674,7 +7355,7 @@ veículo das sensações físicas da – 152
 - Samaritana, O suicida da, e – 264
 - suplemento do fluido vital e – 233
 
-##### #️⃣ M {#c0767}
+::: expand 📑  M {#c0767}
 
 ###### 🔖 Magia {#c0768}
 
@@ -7864,7 +7545,7 @@ veículo das sensações físicas da – 152
 - característica da vida no – 30
 - verdadeira fraternidade e – 30
 
-##### #️⃣ N {#c0784}
+::: expand 📑  N {#c0784}
 
 ###### 🔖 Nabofarzan {#c0785}
 
@@ -7890,7 +7571,7 @@ veículo das sensações físicas da – 152
 
 - desprendimento do corpo e – 237
 
-##### #️⃣ O {#c0790}
+::: expand 📑  O {#c0790}
 
 ###### 🔖 Obras básicas do Espiritismo {#c0791}
 
@@ -7917,7 +7598,7 @@ veículo das sensações físicas da – 152
 - orgulho, fonte dos sofrimentos, e – 244
 - orgulho, inimigo da felicidade, e – 246
 
-##### #️⃣ P {#c0792}
+::: expand 📑  P {#c0792}
 
 - Pai
 - conscrito, O \* e o, suicida – 265
@@ -8042,7 +7723,7 @@ veículo das sensações físicas da – 152
 - princípio do – 57
 - realidade material do – 58
 
-##### #️⃣ Q {#c0801}
+::: expand 📑  Q {#c0801}
 
 ###### 🔖 Qualidade inata {#c0802}
 
@@ -8060,7 +7741,7 @@ veículo das sensações físicas da – 152
 
 - considerações sobre – 45
 
-##### #️⃣ R {#c0806}
+::: expand 📑  R {#c0806}
 
 ###### 🔖 R., Victorine, noiva {#c0807}
 
@@ -8150,7 +7831,7 @@ veículo das sensações físicas da – 152
 - provação dos pais e – 369
 - visita de um Espírito batedor e – 368
 
-##### #️⃣ S {#c0815}
+::: expand 📑  S {#c0815}
 
 ###### 🔖 Sábio ambicioso, Um {#c0816}
 
@@ -8306,7 +7987,7 @@ veículo das sensações físicas da – 152
 - sacrifício meritório e – 268
 - severidade na punição do – 267
 
-##### #️⃣ T {#c0832}
+::: expand 📑  T {#c0832}
 
 - Talismã
 - virtude do – 127
@@ -8355,7 +8036,7 @@ veículo das sensações físicas da – 152
 
 - primeira hierarquia dos anjos e – 96
 
-##### #️⃣ U {#c0836}
+::: expand 📑  U {#c0836}
 
 ###### 🔖 Um médico russo, Espírito feliz {#c0837}
 
@@ -8363,7 +8044,7 @@ veículo das sensações físicas da – 152
 - habitante do espaço e – 194
 - perdão das ofensas e – 196
 
-##### #️⃣ V {#c0838}
+::: expand 📑  V {#c0838}
 
 ###### 🔖 Verdade {#c0839}
 
@@ -8452,7 +8133,7 @@ veículo das sensações físicas da – 152
 - Vulcano
 - considerações sobre – 46
 
-##### #️⃣ X {#c0847}
+::: expand 📑  X {#c0847}
 
 - Xumène, Espírito endurecido
 - arrependimento, prece e – 334
@@ -8485,3 +8166,214 @@ veículo das sensações físicas da – 152
 - Normalização Técnica:
 - Biblioteca de Obras Raras e Documentos Patrimoniais do Livro
 
+
+##### #️⃣ A {#c0605}
+
+###### 🔖 related term {#c0606}
+
+##### #️⃣ B {#c0607}
+
+###### 🔖 related term {#c0608}
+
+##### #️⃣ C {#c0609}
+
+###### 🔖 related term {#c0610}
+
+##### #️⃣ D {#c0611}
+
+###### 🔖 related term {#c0612}
+
+##### #️⃣ E {#c0613}
+
+###### 🔖 related term {#c0614}
+
+##### #️⃣ F {#c0615}
+
+###### 🔖 related term {#c0616}
+
+##### #️⃣ G {#c0617}
+
+###### 🔖 related term {#c0618}
+
+##### #️⃣ H {#c0619}
+
+###### 🔖 related term {#c0620}
+
+##### #️⃣ I {#c0621}
+
+###### 🔖 related term {#c0622}
+
+##### #️⃣ J {#c0623}
+
+###### 🔖 related term {#c0624}
+
+##### #️⃣ L {#c0625}
+
+###### 🔖 related term {#c0626}
+
+##### #️⃣ M {#c0627}
+
+###### 🔖 related term {#c0628}
+
+##### #️⃣ N {#c0629}
+
+###### 🔖 related term {#c0630}
+
+##### #️⃣ O {#c0631}
+
+###### 🔖 related term {#c0632}
+
+##### #️⃣ P {#c0633}
+
+###### 🔖 related term {#c0634}
+
+##### #️⃣ Q {#c0635}
+
+###### 🔖 related term {#c0636}
+
+##### #️⃣ R {#c0637}
+
+###### 🔖 related term {#c0638}
+
+##### #️⃣ S {#c0639}
+
+###### 🔖 related term {#c0640}
+
+##### #️⃣ T {#c0641}
+
+###### 🔖 related term {#c0642}
+
+##### #️⃣ U {#c0643}
+
+###### 🔖 related term {#c0644}
+
+##### #️⃣ V {#c0645}
+
+###### 🔖 related term {#c0646}
+
+##### #️⃣ Z {#c0647}
+
+###### 🔖 related term {#c0648}
+
+ ### 📝 Notas de rodapé {#c0649}
+
+[^1]: Nota de Allan Kardec: Um moço de 18 anos, afetado de uma enfermidade do coração, foi declarado incurável. A Ciência havia dito: “Pode morrer dentro de oito dias ou de dois anos, mas não irá além.” Sabendo-o, o moço para logo abandonou os estudos e entregou-se a excessos de todo o gênero.
+^: Quando se lhe ponderava o perigo de uma vida desregrada, respondia: “Que me importa, se não tenho mais de dois anos de vida? De que me serviria fatigar o espírito? Gozo o pouco que me resta e quero divertir-me até o fim.”
+
+— Eis a consequência lógica do niilismo.
+Se este moço fora espírita, teria dito: “A morte só destruirá o corpo, que deixarei como fato usado, mas o meu Espírito viverá. Serei na vida futura aquilo que eu próprio houver feito de mim nesta vida; do que nela puder adquirir em qualidades morais e intelectuais nada perderei, porque será outro tanto de ganho para o meu adiantamento; toda a imperfeição de que me livrar será um passo a mais para a felicidade. A minha felicidade ou infelicidade depende da utilidade ou inutilidade da presente existência. É portanto de meu interesse aproveitar o pouco tempo que me resta, e evitar tudo o que possa diminuir-me as forças.”
+^: Qual destas doutrinas é preferível?
+[^2]: N.E.: Foi realizada pesquisa no Alcorão, livro considerado sagrado pelos muçulmanos, e em várias suratas (capítulos) foi constatada a crença em sete céus, e não em nove como o descrito acima.
+
+[^3]: A.K.: Ptolomeu viveu em Alexandria, Egito, no segundo século da Era Cristã.
+
+[^4]: A.K.: Do grego, pur ou pyr, fogo.
+
+[^5]: A.K.: Vede 1a Parte, cap. I, item 3, nota 1
+
+[^6]: A.K.: Um pequeno saboiano, a quem o seu cura fazia a descrição da vida futura,
+perguntou-lhe se todo mundo lá comia pão branco, como em Paris.
+
+[^7]: N.E.: As cinquenta filhas de Dânaos, Rei de Argos, que, com exceção de uma, mataram seus maridos na noite de núpcias, e foram condenadas a encher eternamente, no inferno, um tonel sem fundo.
+
+[^8]: N.E.: Por caluniar Zeus, Íxion foi fulminado por um raio e lançado no Tártaro, onde foi preso a uma roda em chamas e condenado a nela girar pela eternidade.
+
+[^9]: N.E.: Por assaltar os viajantes, Zeus condenou Sísifo ao Tártaro, e deu-lhe como castigo eterno a obrigação de empurrar uma pedra até o lugar mais alto da montanha, de onde ela sempre rola de volta.
+
+[^10]: A.K.: Sermão pregado em Montpellier em 1860.
+
+[^11]: A.K.: “Os bem-aventurados, sem deixarem o lugar que ocupam, poderão afastar-se de certo modo em razão do seu dom de inteligência e da vista distinta, a fim de considerarem as torturas dos condenados, e, vendo-os, não somente serão insensíveis à dor, mas até ficarão repletos de alegria e renderão graças a Deus por sua própria felicidade, assistindo à inefável calamidade dos ímpios.” (São Tomás de Aquino.)
+
+[^12]: A.K.: Sermão pregado em Paris em 1861.
+
+[^13]:A.K.: Cap. III de O evangelho segundo o espiritismo.
+
+[^14]: N.E.: Personagem da Odisseia, filho de Odisseus e Penélope.
+
+[^15]: N.E.: Deus romano do comércio e dos viajantes.
+
+[^16]: N.E.: Barqueiro dos infernos que, mediante pagamento, transportava os mortos na travessia das águas infernais.
+
+[^18]: N.E.: Três deusas gregas da vingança: Alecto, Tisífone e Megera.
+
+[^19]: N.E.: Na mitologia grega, monstro fabuloso representado com cabeça de leão, dorso de cabra e cauda de serpente ou dragão.
+
+[^20]: N.E.: Herói mitológico, filho de Posêidon. Montou Pégaso, o cavalo alado, e matou a Quimera.
+
+[^21]: N.E.: Na mitologia grega, serpente monstruosa com sete cabeças que renasciam tão logo eram cortadas.
+
+[^22]: N.E.: Herói romano; deus protetor da agricultura, do comércio e dos exércitos.
+
+[^23]: N.E.: Cão tricéfalo, guardião dos infernos.
+
+[^24]: N.E.: Na mitologia grega, gigantes ferreiros e construtores, com apenas um olho no meio da testa.
+
+[^25]: N.E.: Deus romano do fogo e da metalurgia.
+
+[^26]: A.K.: Estas citações são tiradas da obra O inferno, de Augusto Callet.
+
+[^27]: N.E.: “Já foi derrubada na sepultura a tua soberba com o som das tuas violas; os vermes debaixo de ti se estenderão, e os bichos te cobrirão.” (Isaías, 14:11.)
+
+[^28]:N.E.: Tofel/Tophel, do hebraico mentiroso, falacioso. Alusão ao demônio Mefistófeles ou ao personagem Mefistófeles da obra Fausto de Goethe.
+
+[^29]: N.E.: Mateus, 8:12; 13:42; 13:50; 22:13; 24:51; 25:30 e Lucas, 13:28.
+
+[^30]: A.K.: Nesta visão se reconhecem todos os caracteres dos pesadelos, sendo provável que fosse deste gênero de fenômenos o acontecido a Santa Teresa.
+
+[^31]: N.E.: Segundo os egípcios, é o templo em que as almas dos mortos são reunidas para serem julgadas por Osíris (deus que garante a vida no Além).
+
+[^32]: A.K.: Singular punição, na verdade, esta de poder continuar em maior escala a prática de mal menor feito na Terra. Mais racional seria o sofrerem os próprios malfeitores as consequências desse mal, em lugar de se darem ao prazer de proporcioná-lo a outrem.
+
+[^33]: A.K.: Esses mesmos demônios rebeldes a Deus quanto ao bem, são de uma docilidade exemplar quanto à prática do mal. Nenhum se esquiva ou afrouxa durante a eternidade. Que singular metamorfose em quem fora criado puro e perfeito como os anjos! Não é de pasmar vê-los dar exemplos de harmonia, de concórdia inalterável quando os homens sequer não sabem viver em paz na Terra, antes se laceram mutuamente? Vendo-se o requinte dos castigos reservados aos condenados e comparando sua situação à dos demônios, é caso de perguntar quais os mais dignos de lástima
+
+— se as vítimas ou os algozes.
+
+[^34]: N.E.: Na mitologia grega, esposa de Héracles (Hércules), que, abandonada por ele, provocou-lhe a morte, enviando-lhe uma túnica envenenada.
+
+[^35]: A.K.: O livro dos espíritos, questões 443 e 444.
+
+[^36]: A.K.: O purgatório originou o comércio escandaloso das indulgências, por intermédio das quais se vende a entrada no Céu. Este abuso foi a causa primária da Reforma, levando Lutero a rejeitar o purgatório.
+
+[^37]: A.K.: Vede O evangelho segundo o espiritismo, cap. XXVII, item Ação da prece.
+
+[^38]: A.K.: Idem, cap. III, item Progressão dos mundos.
+
+[^40]: N.E. (1973): O autor escreveu s’est approprié (p. 93, 4ª edição, Paris, 1869), à falta, na época, de verbo mais específico à perfeita tradução da ideia.
+
+[^41]: A.K.: Vede cap. VI, item 7, e O livro dos espíritos, questões 443 e 444.
+
+[^45]: A.K.: Vede 1ª Parte, cap. V, O purgatório, item 3 e seguintes; e, após, 2ª Parte, cap. VIII, Expiações terrestres. Vede, também, O evangelho segundo o espiritismo, cap. V, Bem-aventurados os aflitos.
+
+[^42]: A.K.: Vede cap. VI, item 25, citação de Ezequiel.
+
+[^43]: A.K.: Perpétuo é sinônimo de eterno. Diz-se o limite das neves perpétuas; o eterno gelo dos polos; também se diz o secretário perpétuo da Academia, o que não significa que o seja ad perpetuam, mas unicamente por tempo ilimitado. Eterno e perpétuo se empregam, pois, no sentido de indeterminado. Nesta acepção pode dizer-se que as penas são eternas, para exprimir que não têm duração limitada; eternas, portanto, para o Espírito que lhes não vê o termo.
+
+[^44]: A.K.: A necessidade da reparação é um princípio de rigorosa justiça, que se pode considerar verdadeira lei de reabilitação moral dos Espíritos. Entretanto, essa doutrina Religião alguma ainda a proclamou. Algumas pessoas repelem-na porque acham mais cômodo o poder quitarem-se das más ações por um simples arrependimento, que não custa mais que palavras, por meio de algumas fórmulas; contudo, crendo-se, assim, quites, verão mais tarde se isso lhes bastava. Nós poderíamos perguntar se esse princípio não é consagrado pela lei humana, e se a Justiça divina pode ser inferior à dos homens? E mais, se essas leis se dariam por desafrontadas desde que o indivíduo que as transgredisse, por abuso de confiança, se limitasse a dizer que as respeita infinitamente.
+Por que hão de vacilar tais pessoas perante uma obrigação que todo homem honesto se impõe como dever, segundo o grau de suas forças?
+Quando esta perspectiva de reparação for inculcada na crença das massas, será um outro freio aos seus desmandos, e bem mais poderoso que o inferno e respectivas penas eternas, visto como interessa à vida em sua plena atualidade, podendo o homem compreender a procedência das circunstâncias que a tornam penosa, ou a sua verdadeira situação.
+
+[^46]: A.K.: Extraímos este resumo da pastoral do monsenhor Gousset, cardeal-arcebispo de Reims, para a quaresma de 1864. Por ele podemos, pois, considerar os anjos, assim como os demônios, cujo resumo tiramos da mesma origem e citamos no capítulo seguinte, como última expressão do dogma da Igreja neste sentido.
+
+[^47]: A.K.: Concílio de Latrão.
+
+[^48]: N.E.: Aúra-Masda ou Ormuz, criador e princípio do bem, deus supremo do masdeísmo (religião do Irã antigo, revelada a Zoroastro, que admite dois princípios: um, bom, deus de luz, e o outro, mau, deus das trevas e da morte, que travam combate para o destino da humanidade).
+
+[^49]: N.E.: Ahriman ou Arimã, princípio do mal, do caos, das trevas no masdeísmo.
+
+[^51]: A.K.: Esta doutrina monstruosa é corroborada por Moisés, quando diz (Gênesis, 6:6 e 7): “Ele se arrependeu de haver criado o homem na Terra e, penetrado da mais íntima dor, disse:
+
+— Exterminarei a Criação da face da Terra; exterminarei tudo, desde o homem aos animais, desde os que rastejam sobre a terra até os pássaros do céu, porque me arrependo de os ter criado.” Ora, um Deus que se arrepende do que fez não é perfeito nem infalível; portanto, não é Deus. E são estas as palavras que a Igreja proclama! Tampouco se percebe o que poderia haver de comum entre os animais e a perversidade dos homens, para que merecessem tal extermínio.
+
+[^52]: A.K.: Encontra-se em Isaías, 14:11 e seguintes: “Teu orgulho foi precipitado nos infernos; teu corpo morto baqueou por terra; tua cama verterá podridão, e vermes tua vestimenta. Como caíste do Céu, Lúcifer, tu que parecias tão brilhante ao romper do dia? Como foste arrojado sobre a Terra, tu que ferias as nações com teus golpes; que dizias de coração: Subirei aos Céus, estabelecerei meu trono acima dos astros de Deus, sentar-me-ei acima das nuvens mais altas e serei igual ao Altíssimo! E todavia foste precipitado dessa glória no inferno, até o mais fundo dos abismos. Os que te virem, aproximando-se, encarar-te-ão, dizendo:
+
+— Será este o homem que turbou a Terra, que aterrou seus reinos, que fez do mundo um deserto, que destruiu cidades e reteve acorrentados os que se lhe entregaram prisioneiros?” Estas palavras do profeta não se referem à revolta dos anjos; são, sim, uma alusão ao orgulho e à queda do Rei de Babilônia, que retinha os judeus em cativeiro, como atestam os últimos versículos. O Rei de Babilônia é alegoricamente designado por Lúcifer, mas não se faz aí qualquer menção da cena descrita. Essas palavras são do rei que as tinha no coração e se colocava por orgulho acima de Deus, cujo povo escravizara. A profecia da libertação do povo judeu, da ruína de Babilônia e do destroço dos assírios é, ademais, o assunto exclusivo desse capítulo.
+
+[^53]:A.K.: Vede 1ª Parte, cap. VI, item 25, citação de Ezequiel.
+
+[^54]: A.K.: As citações deste capítulo são extraídas da mesma pastoral indicada no precedente, e da qual são corolários. É a mesma fonte e, por conseguinte, a mesma autoridade.
+
+[^55]: A.K.: Querendo persuadir as pessoas curadas pelo Espiritismo que o foram pelo diabo, grande número delas se há separado da Igreja, sem que jamais pensassem fazê-lo.
+
+[^56]: N.E.: Estima-se que o Cristianismo atualmente seja a religião com maior número de adeptos (aprox. 2,2 bilhões), seguida pelo Islamismo (aprox. 1,6 bilhão) e Hinduísmo (aprox. 900 milhões). O Espiritismo aparece em 8o lugar, com seus 13 milhões de adeptos.
+
+[^57]: A.K.: Os exemplos que vamos transcrever mostram-nos os Espíritos nas diferentes fases de felicidade e infelicidade da vida espiritual. Não fomos procurá-los nas personagens mais ou menos ilustres da Antiguidade, cuja situação pudera ter mudado consideravelmente depois da existência que lhes conhecemos, e que por isto não ofereceriam provas suficientes de autenticidade. Ao contrário, tomamos esses exemplos nas circunstâncias mais ordinárias da vida contemporânea, uma vez que assim pode cada qual encontrar mais similitudes e tirar, pela comparação, as mais proveitosas instruções. Quanto mais próxima de nós está a existência terrestre dos Espíritos — quer pela posição social, quer por laços de parentesco ou de meras relações — tanto mais nos interessamos por eles, tornando-se fácil averiguar-lhes a identidade. As posições vulgares são as mais comuns, as de maior número, podendo cada qual aplicá-las em si, de modo a tornarem-se úteis, ao passo que as posições excepcionais comovem menos, porque saem da esfera dos nossos hábitos. Não foram, pois, as sumidades que procuramos, e se nesses exemplos se encontram quaisquer personagens conhecidas, de obscuras se compõe o maior número. Acresce que nomes retumbantes nada adiantariam à instrução que visamos, podendo ainda ferir suscetibilidades. E nós não nos dirigimos nem aos curiosos, nem aos amadores de escândalos, mas tão somente aos que pretendem instruir-se. Esses exemplos poderiam ser multiplicados infinitamente, porém, forçados a limitar-lhes o número, fizemos escolha dos que pudessem melhor esclarecer o mundo espiritual e o seu estado, já pela situação dos Espíritos, já pelas explicações que estavam no caso de fornecer. A maior parte destes exemplos está inédita, e apenas alguns, poucos, foram já publicados na Revista espírita. Destes, suprimimos supérfluas minúcias, conservando apenas o essencial ao fim que nos propusemos, ajustando-lhes as instruções complementares a que poderão dar lugar ulteriormente.
