@@ -81,6 +81,10 @@ source venv/bin/activate   # or: pip install -r requirements.txt
 2. Translations/editions (e.g. Guillon Ribeiro / FEB): respect rights holders.  
 3. Personal study / digital-edition development — non-commercial intent.  
 
+## 🏅 Credits
+
+1. See [CREDITS.md](./CREDITS.md) — Sergio SHKLR (lead, git metrics) · Grok / xAI (assisted docs & tooling collaboration).  
+
 **Personal project of Sergio.**
 
 ---
@@ -137,5 +141,9 @@ source venv/bin/activate
 1. Textos de Kardec: domínio público.  
 2. Traduções/edições: respeitar detentores.  
 3. Estudo e desenvolvimento de edições digitais pessoais, sem fins comerciais.  
+
+## 🏅 Créditos
+
+1. Ver [CREDITS.md](./CREDITS.md) — Sergio SHKLR (líder, métricas git) · Grok / xAI (docs e colaboração assistida).  
 
 **Projeto pessoal de Sergio.**
