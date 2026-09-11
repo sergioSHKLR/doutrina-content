@@ -259,6 +259,11 @@ li {
   text-indent: 0 !important;
 }
 
+.grey {
+  color: #7f8c8d !important;
+  font-size: 0.95em !important;
+}
+
 .box {
   border: 1px solid #dcd5c0;
   padding: 15px;

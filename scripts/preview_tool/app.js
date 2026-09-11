@@ -1112,6 +1112,78 @@
 
     $("btnInsertPage").onclick = () => insertPageAnchorAtCursor();
 
+    function mdRange() {
+      let start = mdSelStart;
+      let end = mdSelEnd;
+      if (document.activeElement === editor) {
+        start = editor.selectionStart;
+        end = editor.selectionEnd;
+      }
+      const len = editor.value.length;
+      start = Math.max(0, Math.min(start, len));
+      end = Math.max(0, Math.min(end, len));
+      if (end < start) end = start;
+      return [start, end];
+    }
+
+    function writeMd(start, end, token, caret) {
+      const scrollTop = mdScrollTop || editor.scrollTop;
+      const scrollLeft = mdScrollLeft || editor.scrollLeft;
+      const before = editor.value.slice(0, start);
+      const after = editor.value.slice(end);
+      editor.value = before + token + after;
+      mdSelStart = caret;
+      mdSelEnd = caret;
+      editor.focus();
+      editor.setSelectionRange(caret, caret);
+      editor.scrollTop = scrollTop;
+      editor.scrollLeft = scrollLeft;
+      requestAnimationFrame(() => {
+        editor.scrollTop = scrollTop;
+        editor.scrollLeft = scrollLeft;
+        editor.setSelectionRange(caret, caret);
+      });
+    }
+
+    function wrapFence(name) {
+      const [start, end] = mdRange();
+      const inner = editor.value.slice(start, end).replace(/^\n+|\n+$/g, "");
+      const token = `::: ${name}\n\n${inner}${inner ? "\n" : ""}\n:::\n`;
+      const caret = inner
+        ? start + token.length
+        : start + `::: ${name}\n\n`.length;
+      writeMd(start, end, token, caret);
+      setStatus(`Wrapped ::: ${name}`, "ok");
+      scheduleRender();
+    }
+
+    function wrapGrey() {
+      const [start, end] = mdRange();
+      if (start === end) {
+        let at = editor.value.indexOf("\n", start);
+        if (at < 0) at = editor.value.length;
+        writeMd(at, at, "\n{:.grey}", at + "\n{:.grey}".length);
+      } else {
+        const block = editor.value.slice(start, end).replace(/\s+$/, "");
+        const token = `${block}\n{:.grey}\n`;
+        writeMd(start, end, token, start + token.length);
+      }
+      setStatus("Applied {:.grey}", "ok");
+      scheduleRender();
+    }
+
+    document.querySelectorAll("[data-wrap]").forEach((btn) => {
+      btn.addEventListener("mousedown", (ev) => {
+        ev.preventDefault();
+        if (document.activeElement === editor) rememberMdCaret();
+      });
+      btn.addEventListener("click", () => {
+        const name = btn.getAttribute("data-wrap");
+        if (name === "grey") wrapGrey();
+        else wrapFence(name);
+      });
+    });
+
     // Shortcut: Ctrl+Shift+P (or Cmd+Shift+P) inserts page anchor
     document.addEventListener("keydown", (ev) => {
       if ((ev.ctrlKey || ev.metaKey) && ev.shiftKey && (ev.key === "P" || ev.key === "p")) {

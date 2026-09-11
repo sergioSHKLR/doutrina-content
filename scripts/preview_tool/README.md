@@ -31,5 +31,6 @@ Legacy path `scripts/lde/preview_tool/server.py` launches this same server.
 - **Layout** — Mark / Verify L / Verify R
 - **Sync by page** — page-level PDF ↔ HTML ↔ MD (`[]{#page-N}`)
 - **Insert page#** — inserts ` []{#page-N} ` at the MD caret (N = file page − offset)
+- **Wrap** — selection → `::: bible` / `spirit` / `kardec` / `center`; **grey** appends `{:.grey}` (kramdown). Empty selection inserts an empty fence (caret inside) or `{:.grey}` at end of line. HTML preview uses `books/html/layout.css`.
 
 Catalog and offsets are defined in `server.py` (`BOOKS`). Adjust `page_offset` per book if the cover/front-matter skip differs from 1.
