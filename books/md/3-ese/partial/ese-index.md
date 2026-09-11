@@ -1,9 +1,5 @@
 ## 2. 🗃️ Pós-textual {#6}
 
-### 2.01. 📄 Nota explicativa {#2-01}
-
-<!-- INSERT_SHARED:nota-explicativa.md -->
-
 ### 2.02. 🗂️ Índice geral {#2-02}
 
 #### Termos relacionados {#2-02-01}
