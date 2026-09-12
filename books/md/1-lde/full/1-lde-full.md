@@ -48,7 +48,7 @@
 
  organizada e adaptada por **Sergio Schickler**
 
- [💧 doutrina.org](https://doutrina.org) — 2023
+ 💧 [doutrina.org](https://doutrina.org) — 2023
 
  Baseada no ISBN 978-85-7328-728-8
 :::
@@ -57,7 +57,7 @@
  ### 0.01. ⚖️ Avisos Legais {#lde-0-01}
 
 ::: center
-**Edição Digital Educacional • Domínio Público**
+**Edição Digital Educacional**
 
 Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
 
@@ -99,7 +99,7 @@ Agradecemos à FEB pela preservação e divulgação desta obra fundamental.
  ### 0.03. 📄 Prefácio {#lde-0-03}
 
 ::: center
- ![Cepa Espírita](images/vine.png)
+ ![Cepa Espírita](images/vine.webp)
  Interpretação artística do desenho original (mediúnico).
 :::
 
@@ -23467,7 +23467,7 @@ excesso de – [Q.736](#lde-q736)
 
 [^3]: Nota do *Re-editor* (N.R.): A cepa que se vê, é uma *representação artística* da que os Espíritos desenharam.
 
-[^4]: Nota do *Re-editor* (N.R.): Ao invés da tipografia original, resolvemos usar o emoji ✨ (sparkles) para denotar a resposta que os Espíritos deram. Para destacar as notas e explicaçôes aditadas por Allan Kardec, usamos o emoji 🎓 (older_man).
+[^4]: Nota do *Re-editor* (N.R.): Ao invés da tipografia original, resolvemos usar o emoji ✨ (sparkles) para denotar a resposta que os Espíritos deram. Para destacar as notas e explicaçôes aditadas por Allan Kardec, usamos o emoji 🎓 (mortar_board).
 
 [^5]: N.E.: A definição dada na resposta à [Q.1](#lde-q1) de o ✨ *Livro dos Espíritos* — *cause Première* — vem sendo tradicionalmente registrada nas traduções publicadas pela FEB, ou sob sua licença e responsabilidade, em língua portuguesa, como *causa primária*, embora haja quem prefira grafá-la como causa primeira, solução alternativa para mero caso de semântica. Além da de Guillon Ribeiro, foram examinadas as traduções das edições publicadas em 1904 e 1899, bem assim a de Fortúnio — pseudônimo de Joaquim Carlos Travassos — (B. L. Garnier, Editor, Rio, 1875), que é a da 1ª edição em língua portuguesa lançada no Brasil (vide *Reformador* de 1952, p. 98-99, e de 1973, p. [Q.230](#lde-q230) e segs.), todas norteadas por idêntico critério quanto ao detalhe citado. Com os melhores dicionaristas, no caso, está Domingos de Azevedo, autor do *Grande dicionário francês-português*, Livraria Bertrand, Lisboa, 1952, 2º volume, p. 1160: "premier, ière […] || Fig. *La cause première*, a causa primária, Deus.
 

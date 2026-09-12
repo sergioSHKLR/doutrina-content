@@ -70,7 +70,7 @@ eleventyNavigation:
 ### 0.00. ⚖️ Avisos Legais {#ldm-0-00}
 
 ::: center
-**Edição Digital Educacional • Domínio Público**
+**Edição Digital Educacional**
 
 Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
 

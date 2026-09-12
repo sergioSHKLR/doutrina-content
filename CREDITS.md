@@ -51,6 +51,37 @@ Maintainer & volunteer audience. Metrics from `git` histories as of **2026-08-22
 5. **Effort metric (dialogue):** Persisted session compaction for this engagement ≈ **2.05 MB** of transcript (~**0.51M tokens** at chars÷4). **Live tool payloads are larger**; end-to-end model traffic for the multi-day arc is extrapolated on the order of **~10⁶–10⁷ tokens** (estimate, not a billing export).  
 6. **Not claimed:** Editorial ownership of Kardec texts, DNS, or Spiritist institutional authority.
 
+## 💵 Reader sprint — cash vs labor (15 Aug – 11 Sep 2026)
+
+From grok.com workspace **Librus-shell** (`a6f3ba83-…`), conversation *Grok Subscription Cost Analysis* (11 Sep 2026). Git lines re-counted locally the same day. Hours and $/h are **imputed**, not timesheets or an xAI clock.
+
+**Verified**
+
+| Item | Figure |
+|------|--------|
+| `librus-shell` human commits (no Actions) | **83** · first 2026-08-15 04:13 −03 · last 2026-09-11 15:37 −03 |
+| Active commit days | **14** of 28 calendar days |
+| Cash to xAI (user invoice list, Visa) | **$177.73** · 1 Jun / 1 Jul / 1 Aug / 1 Sep SuperGrok **$30** × 4 · 6 Sep Plus proration **$57.73** |
+
+Nothing older than 1 Jun was on that invoice list. May (content-pipeline start in this file) is unknown.
+
+**Imputed (that analysis)**
+
+| Party | Rate | Hours | Labor |
+|-------|------|------:|------:|
+| Sergio (founder, QA, editorial) | $70 / h | 60 | $4,200 |
+| Grok (directed implementer) | $40 / h | 50 | $2,000 |
+| Pair wall-clock (overlap) | — | ~60 | — |
+
+| Ratio / counterfactual | Amount |
+|------------------------|--------|
+| Cash / Sergio market labor | **4.2%** ($178 / $4,200) |
+| Cash / pair market labor | **2.9%** ($178 / $6,200) |
+| Implied savings vs building the shell solo | **~$5.4k** (≈80 h × $70 − $178) |
+| Implied savings vs hiring the pair seat | **~$1.8k** (50 h × $40 − $178) |
+
+Do not read the savings lines as cash received. They are replacement-cost stories next to a **$177.73** receipt.
+
 ## 📌 Method notes
 
 1. Commit counts: `git shortlog` / `git log` with Sergio name/email aliases merged.  
@@ -76,6 +107,14 @@ Maintainer & volunteer audience. Metrics from `git` histories as of **2026-08-22
 3. **Churn assistido mensurável (commits desta colaboração):** ≈ **+2.286 / −736** nas nove revisões listadas acima.  
 4. **Docs:** READMEs mantenedor EN/PT nos seis repos (etapas 1–4) + este arquivo.  
 5. **Métrica de esforço (diálogo):** compactação persistida ≈ **2,05 MB** (~**0,51M tokens** chars÷4). Tráfego real com tools é maior; estimativa de ordem **10⁶–10⁷ tokens** no arco multi-dia.  
+
+## 💵 Sprint do leitor — caixa vs trabalho (15 ago – 11 set 2026)
+
+Fonte: workspace grok.com **Librus-shell**, conversa *Grok Subscription Cost Analysis* (11 set 2026). Git conferido no mesmo dia. Horas e $/h são **imputados**, não planilha nem relógio da xAI.
+
+**Conferido:** 83 commits humanos em `librus-shell`, 14 dias ativos, **US$ 177,73** nas faturas (4× SuperGrok US$ 30 + prorrata Plus US$ 57,73 em 6 set).
+
+**Imputado:** Sergio 60 h × US$ 70 = US$ 4.200; Grok 50 h × US$ 40 = US$ 2.000. Caixa / trabalho de mercado do Sergio = **4,2%**. Economia implícita vs fazer o shell sozinho ≈ **US$ 5,4 mil** (não é dinheiro recebido).
 
 ## 📌 Notas de método
 

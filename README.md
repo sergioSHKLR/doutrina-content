@@ -60,7 +60,8 @@ doutrina-content  →  librus-linker  →  librus-shell  →  host Pages
 2. Rebuild fulls: `./scripts/concat-all.sh`  
 3. After full-file campaigns, split back: `./scripts/split-all.sh`  
 4. Page markers use `[]{#page-N}` (book page = PDF file page − offset for LDE).  
-5. Preview / mark pages:  
+5. 2026-09-12 LDE editorial: droplet outside the doutrina.org link; preface `images/vine.webp`; Kardec mark is 🎓 `(mortar_board)`; shared avisos heading is **Edição Digital Educacional** (no “Domínio Público”); spirit author last lines are not bold. Concat, then restamp in `librus-linker`.  
+6. Preview / mark pages:  
 
 ```bash
 source venv/bin/activate   # or: pip install -r requirements.txt
@@ -121,7 +122,8 @@ Fonte editorial em **Markdown** das Obras Básicas de Allan Kardec. Não é a SP
 2. Monte os fulls: `./scripts/concat-all.sh`  
 3. Após campanhas no full, reaplique: `./scripts/split-all.sh`  
 4. Marcadores: `[]{#page-N}` (página de livro = PDF − offset no LDE).  
-5. Pré-visualização / marcação:  
+5. Editorial LDE (2026-09-12): gota fora do link doutrina.org; `vine.webp`; 🎓 `(mortar_board)`; avisos **Edição Digital Educacional**; assinaturas ✨ sem negrito. Concat, depois restamp no `librus-linker`.  
+6. Pré-visualização / marcação:  
 
 ```bash
 source venv/bin/activate

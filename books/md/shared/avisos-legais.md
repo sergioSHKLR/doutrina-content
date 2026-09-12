@@ -1,6 +1,6 @@
 
 ::: center
-**Edição Digital Educacional • Domínio Público**
+**Edição Digital Educacional**
 
 Esta edição gratuita é destinada exclusivamente ao estudo e à divulgação da Doutrina Espírita.
 
